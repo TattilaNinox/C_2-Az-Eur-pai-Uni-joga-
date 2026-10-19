@@ -1,0 +1,423 @@
+{
+  "id": "SK6deBKVzi621p7AA1dV",
+  "sorszam": 38,
+  "cim": "A tőke szabad mozgása",
+  "title": "38. A tőke szabad mozgása",
+  "sourceNoteId": "vvi9URhXdcOjSXbxmIhy",
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "EUMSZ 63. cikk",
+      "text": "(az EKSz. korábbi 56. cikke) (1) __[b1]__ __[b2]__ __[b3]__ __[b4]__ __[b5]__, valamint a tagállamok __[b6]__ __[b7]__ __[b8]__ __[b9]__ __[b10]__ __[b11]__. (2) E fejezet rendelkezéseinek keretei között tilos a tagállamok, valamint a tagállamok és harmadik országok közötti __[b12]__ vonatkozó minden korlátozás.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "E fejezet"
+        },
+        {
+          "id": "b2",
+          "answer": "rendelkezéseinek"
+        },
+        {
+          "id": "b3",
+          "answer": "keretei között"
+        },
+        {
+          "id": "b4",
+          "answer": "tilos"
+        },
+        {
+          "id": "b5",
+          "answer": "a tagállamok"
+        },
+        {
+          "id": "b6",
+          "answer": "és harmadik országok"
+        },
+        {
+          "id": "b7",
+          "answer": "közötti"
+        },
+        {
+          "id": "b8",
+          "answer": "tőkemozgásra"
+        },
+        {
+          "id": "b9",
+          "answer": "vonatkozó"
+        },
+        {
+          "id": "b10",
+          "answer": "minden"
+        },
+        {
+          "id": "b11",
+          "answer": "korlátozás"
+        },
+        {
+          "id": "b12",
+          "answer": "fizetési műveletekre"
+        }
+      ],
+      "distractors": [
+        "A Szerződés",
+        "előírásainak",
+        "szabályai szerint",
+        "kötelező",
+        "az Unió",
+        "vagy más államok",
+        "tekintetében",
+        "árumozgásra",
+        "érintő",
+        "egyes",
+        "mentesség",
+        "átutalásokra"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "EUMSZ 64. cikk",
+      "text": "(az EKSz. korábbi 57. cikke) (1) A 63. cikk rendelkezései __[b1]__ azoknak a __[b2]__ __[b3]__ __[b4]__ __[b5]__ __[b6]__ a __[b7]__ történő __[b8]__, amelyeket a harmadik országokba irányuló vagy onnan származó olyan tőkemozgás tekintetében fogadtak el, amely __[b9]__ — az ingat lanbefektetéseket is beleértve —, __[b10]__, __[b11]__ __[b12]__ vagy __[b13]__ __[b14]__ __[b15]__. A __[b16]__, __[b17]__ nemzeti jogszabályai alapján hatályban lévő korlátozások vonatkozásában ez az időpont __[b18]__ A __[b19]__ nemzeti jogszabályai alapján hatályban lévő korlátozások vonatkozásában ez az időpont __[b20]__ (2) A tagállamok és harmadik országok közötti __[b21]__ lehető legnagyobb mértékű megvalósítására törekedve és a Szerződések egyéb fejezeteinek sérelme nélkül az Európai Parlament és a Tanács a __[b22]__ keretében intézkedéseket hoz a harmadik országokba irányuló vagy onnan származó olyan tőkemozgásra vonatkozóan, amely közvetlen befektetéssel — az __[b23]__ is beleértve , letelepedéssel, pénzügyi szolgáltatások nyújtásával vagy értékpapírok tőkepiacra történő bevezetésével függ össze. (3) A (2) bekezdéstől eltérve, az Európai Parlamenttel folytatott konzultációt követően, __[b24]__ keretében, __[b25]__ kizárólag a Tanács fogadhat el olyan intézkedéseket, amelyek az uniós jogban visszalépést jelentenek a harmadik országokba irányuló vagy onnan szár mazó tőkemozgás liberalizációja tekintetében.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "nem érintik"
+        },
+        {
+          "id": "b2",
+          "answer": "nemzeti vagy uniós"
+        },
+        {
+          "id": "b3",
+          "answer": "jogszabályok alapján"
+        },
+        {
+          "id": "b4",
+          "answer": "1993. december 31-én"
+        },
+        {
+          "id": "b5",
+          "answer": "hatályban lévő"
+        },
+        {
+          "id": "b6",
+          "answer": "korlátozásoknak"
+        },
+        {
+          "id": "b7",
+          "answer": "harmadik országokra"
+        },
+        {
+          "id": "b8",
+          "answer": "alkalmazását"
+        },
+        {
+          "id": "b9",
+          "answer": "közvetlen befektetéssel"
+        },
+        {
+          "id": "b10",
+          "answer": "letelepedéssel"
+        },
+        {
+          "id": "b11",
+          "answer": "pénzügyi szolgáltatások"
+        },
+        {
+          "id": "b12",
+          "answer": "nyújtásával"
+        },
+        {
+          "id": "b13",
+          "answer": "értékpapírok tőkepiacokra"
+        },
+        {
+          "id": "b14",
+          "answer": "történő bevezetésével"
+        },
+        {
+          "id": "b15",
+          "answer": "függ össze"
+        },
+        {
+          "id": "b16",
+          "answer": "Bulgária, Észtország"
+        },
+        {
+          "id": "b17",
+          "answer": "illetve Magyarország"
+        },
+        {
+          "id": "b18",
+          "answer": "1999. december 31."
+        },
+        {
+          "id": "b19",
+          "answer": "Horvátország"
+        },
+        {
+          "id": "b20",
+          "answer": "2002. december 31."
+        },
+        {
+          "id": "b21",
+          "answer": "szabad tőkemozgás"
+        },
+        {
+          "id": "b22",
+          "answer": "rendes jogalkotási eljárás"
+        },
+        {
+          "id": "b23",
+          "answer": "ingatlanbefektetéseket"
+        },
+        {
+          "id": "b24",
+          "answer": "különleges jogalkotási eljárás"
+        },
+        {
+          "id": "b25",
+          "answer": "egyhangúlag eljárva"
+        }
+      ],
+      "distractors": [
+        "érintik",
+        "tagállami és nemzetközi",
+        "rendeletek értelmében",
+        "1992. január 1-jén",
+        "érvényben lévő",
+        "engedélyeknek",
+        "tagállamokra",
+        "felfüggesztését",
+        "portfólió befektetéssel",
+        "átmeneti tartózkodással",
+        "banki műveletek",
+        "megszüntetésével",
+        "kötvények devizapiacokra",
+        "kivonásával",
+        "kapcsolódik",
+        "Románia, Litvánia",
+        "és Szlovénia",
+        "2004. május 1.",
+        "Románia",
+        "2007. január 1.",
+        "korlátozott tőkemozgás",
+        "ingó befektetéseket",
+        "minősített többséggel eljárva"
+      ]
+    },
+    {
+      "id": "s3",
+      "cimke": "EUMSZ 65. cikk",
+      "text": "(az EKSz. korábbi 58. cikke) (1) A 63. cikk rendelkezései __[b1]__ a __[b2]__, hogy: a) alkalmazzák __[b3]__ vonatkozó rendelkezéseit, amelyek a __[b4]__ __[b5]__ alapján az adózók között __[b6]__; b) meghozzák a __[b7]__ a __[b8]__ __[b9]__ __[b10]__, különösen az __[b11]__ pénzügyi szervezetek __[b12]__ terén, vagy hogy __[b13]__ a tőkemozgások __[b14]__ __[b15]__, illetve hogy a __[b16]__ __[b17]__ intézkedéseket hozzanak. (2) E fejezet rendelkezései nem érintik a __[b18]__ vonatkozó és a Szerződésekkel össze egyeztethető korlátozások alkalmazhatóságát. (3) Az (1) és (2) bekezdésben említett intézkedések és eljárások __[b19]__ a 63. cikkben meghatározott szabad tőkemozgásra és fizetési műveletekre vonatkozó __[b20]__ vagy __[b21]__ eszközéül. (4) A 64. cikk (3) bekezdése szerinti intézkedés hiányában a Bizottság, illetve – amennyiben az érintett tagállam kérelmétől számított __[b22]__ a Bizottság nem fogad el határozatot – a Tanács határozatban megállapíthatja, hogy a tagállamok valamelyike által elfogadott, egy vagy több harmadik országot érintő __[b23]__ a Szerződésekkel összeegyeztethetőnek kell tekinteni, amennyiben azokat valamely uniós célkitűzés indokolja, és a belső piac megfelelő működésével összeegyeztethetők. A Tanács, a tagállamok valamelyikének kérelmére, __[b24]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "nem érintik"
+        },
+        {
+          "id": "b2",
+          "answer": "tagállamoknak azt a jogát"
+        },
+        {
+          "id": "b3",
+          "answer": "adójoguk azon"
+        },
+        {
+          "id": "b4",
+          "answer": "lakóhely vagy a"
+        },
+        {
+          "id": "b5",
+          "answer": "tőkebefektetés helye"
+        },
+        {
+          "id": "b6",
+          "answer": "különbséget tesznek"
+        },
+        {
+          "id": "b7",
+          "answer": "szükséges intézkedéseket"
+        },
+        {
+          "id": "b8",
+          "answer": "nemzeti törvények és"
+        },
+        {
+          "id": "b9",
+          "answer": "rendeletek megsértésének"
+        },
+        {
+          "id": "b10",
+          "answer": "megakadályozására"
+        },
+        {
+          "id": "b11",
+          "answer": "adózás és a"
+        },
+        {
+          "id": "b12",
+          "answer": "prudenciális felügyelete"
+        },
+        {
+          "id": "b13",
+          "answer": "eljárásokat alakítsanak ki"
+        },
+        {
+          "id": "b14",
+          "answer": "igazgatási vagy statisztikai"
+        },
+        {
+          "id": "b15",
+          "answer": "célú bejelentésére"
+        },
+        {
+          "id": "b16",
+          "answer": "közrend vagy a"
+        },
+        {
+          "id": "b17",
+          "answer": "közbiztonság által indokolt"
+        },
+        {
+          "id": "b18",
+          "answer": "letelepedési jogra"
+        },
+        {
+          "id": "b19",
+          "answer": "nem szolgálhatnak"
+        },
+        {
+          "id": "b20",
+          "answer": "önkényes megkülönböztetés"
+        },
+        {
+          "id": "b21",
+          "answer": "rejtett korlátozás"
+        },
+        {
+          "id": "b22",
+          "answer": "három hónapon belül"
+        },
+        {
+          "id": "b23",
+          "answer": "korlátozó adóügyi intézkedéseket"
+        },
+        {
+          "id": "b24",
+          "answer": "egyhangúlag határoz"
+        }
+      ],
+      "distractors": [
+        "érintik",
+        "a Bizottság hatáskörét",
+        "polgári jogi",
+        "állampolgárság vagy a",
+        "jövedelemszerzés helye",
+        "egyenlőséget biztosítanak",
+        "indokolatlan intézkedéseket",
+        "uniós rendeletek és",
+        "jogszabályok betartásának",
+        "elősegítésére",
+        "vámok és a",
+        "piaci ellenőrzése",
+        "szabályokat módosítsanak",
+        "ellenőrzési vagy pénzügyi",
+        "célú engedélyezésére",
+        "közegészségügy vagy a",
+        "gazdasági érdekek által indokolt",
+        "szabad mozgás jogára",
+        "szolgálhatnak",
+        "indokolt különbségtétel",
+        "nyílt korlátozás",
+        "hat hónapon belül",
+        "ösztönző adóügyi intézkedéseket",
+        "minősített többséggel határoz"
+      ]
+    },
+    {
+      "id": "s4",
+      "cimke": "EUMSZ 66. cikk",
+      "text": "(az EKSz. korábbi 59. cikke) Ha __[b1]__ __[b2]__ a __[b3]__ irányuló vagy __[b4]__ __[b5]__ a __[b6]__ __[b7]__ __[b8]__ vagy __[b9]__, __[b10]__ a __[b11]__, az __[b12]__ folytatott __[b13]__ __[b14]__ __[b15]__ hat hónapot meg nem haladó időszakra, amennyiben ezek az intézkedések feltétlenül szükségesek.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "rendkívüli körülmények"
+        },
+        {
+          "id": "b2",
+          "answer": "fennállása esetén"
+        },
+        {
+          "id": "b3",
+          "answer": "harmadik országokba"
+        },
+        {
+          "id": "b4",
+          "answer": "onnan származó"
+        },
+        {
+          "id": "b5",
+          "answer": "tőkemozgás"
+        },
+        {
+          "id": "b6",
+          "answer": "gazdasági és monetáris"
+        },
+        {
+          "id": "b7",
+          "answer": "unió működésében"
+        },
+        {
+          "id": "b8",
+          "answer": "súlyos nehézségeket okoz"
+        },
+        {
+          "id": "b9",
+          "answer": "azzal fenyeget"
+        },
+        {
+          "id": "b10",
+          "answer": "a Tanács"
+        },
+        {
+          "id": "b11",
+          "answer": "Bizottság javaslata alapján"
+        },
+        {
+          "id": "b12",
+          "answer": "Európai Központi Bankkal"
+        },
+        {
+          "id": "b13",
+          "answer": "konzultációt követően"
+        },
+        {
+          "id": "b14",
+          "answer": "védintézkedéseket hozhat"
+        },
+        {
+          "id": "b15",
+          "answer": "harmadik országokkal szemben"
+        }
+      ],
+      "distractors": [
+        "átlagos körülmények",
+        "hiányában",
+        "tagállamokba",
+        "oda irányuló",
+        "árumozgás",
+        "politikai és szociális",
+        "piac stabilitásában",
+        "enyhe zavarokat okoz",
+        "azt garantálja",
+        "a Bizottság",
+        "Parlament kezdeményezésére",
+        "Európai Beruházási Bankkal",
+        "döntést megelőzően",
+        "szankciókat rendelhet el",
+        "tagállamokkal szemben"
+      ]
+    }
+  ]
+}

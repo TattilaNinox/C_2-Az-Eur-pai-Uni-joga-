@@ -1,0 +1,765 @@
+{
+  "id": "VfJS1fRaU1uidIZrioMS",
+  "sorszam": 21,
+  "cim": "Az Európai Unió Bíróságának ítélkezési gyakorlata az alapjogok terén (...)",
+  "generationType": "fogalom",
+  "title": "21. Az Európai Unió Bíróságának ítélkezési gyakorlata az alapjogok terén (...)",
+  "questions": [
+    {
+      "question": "A C-29/69. sz. Stauder-ügy milyen mérce alá vonta a kedvezményes vaj értékesítésének névfeltüntetési vitáját?",
+      "options": [
+        {
+          "text": "A német nyelvi változat elszigetelten irányadó, mert a kedvezményezett a Németországi Szövetségi Köztársaságban igényelte a vajat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás egyetlen nyelvi változatot emel ki az egységes aktus értelmezéséből. A helyes: a C-29/69. sz. Stauder-ügy szerint ha egyetlen határozatot valamennyi tagállamnak címeznek, a szöveget a jogalkotó szándéka, a cél és különösen mind a négy nyelvi változat fényében kell értelmezni. A német és a holland szöveg névfeltüntetést írt elő, a francia és az olasz nem; az elszigetelt olvasat tilos. A tévedés a címzett tagállam nyelvének primátusából ered."
+        },
+        {
+          "text": "A vitatott rendelkezés nem tartalmaz semmit, ami sérthetné a közösségi jog általános elveiben foglalt és a Bíróság által védett alapvető emberi jogokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Stauder-formula az uniós alapjogvédelem első, pozitív bírói elismerése. A C-29/69. sz. Stauder-ügy szerint a névfeltüntetés vitája a közösségi általános elvek mércéje alá került, nem a Grundgesetz önálló felülvizsgálata alá. A Bíróság megállapította: a vitatott rendelkezés nem sérti az általános elvekben foglalt alapvető emberi jogokat. Ezzel az alapjogok a közösségi jogrend belsejében, nem külső nemzeti alkotmányos mérceként jelentek meg."
+        },
+        {
+          "text": "Ha egyetlen határozatot valamennyi tagállamnak címeznek, a szöveget a jogalkotó valódi szándéka, az elérni kívánt cél és különösen mind a négy nyelvi változat fényében kell értelmezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Stauder-ügy a többnyelvű aktus egységes értelmezését is rögzíti. A C-29/69. sz. Stauder-ügy szerint az egységes alkalmazás és értelmezés szükségessége lehetetlenné teszi a szöveg egyetlen változatának elszigetelt vizsgálatát. A német és a holland változat névfeltüntetési kötelezettséget tartalmazott, a francia és az olasz nem; a Bíróság a négy változat együttes olvasatát írta elő. A nyelvi eltérés tehát nem nyit nemzeti alkotmányos felülvizsgálatot."
+        },
+        {
+          "text": "A névfeltüntetési vita a német Grundgesetz 1. és 3. cikke szerinti alkotmányjogi panasz önálló mércéje alá tartozik, a közösségi általános elvek helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nemzeti alkotmányos felülvizsgálatot a közösségi mérce helyébe tolja. A helyes: a C-29/69. sz. Stauder-ügy szerint a vitatott rendelkezés a közösségi jog általános elveiben foglalt, a Bíróság által védett alapvető emberi jogok mércéje alá került, és e mérce szerint nem sért alapjogot. Stauder ugyan a Bundesverfassungsgerichthez is panaszt nyújtott be, de az előzetes döntéshozatal a közösségi általános elveket alkalmazta. A tévedés a Grundgesetz-panasz és a közösségi mérce összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "926ddb01f13c"
+    },
+    {
+      "question": "Miben áll a C-11/70. sz. Internationale Handelsgesellschaft ügy szerinti alapjogvédelem közösségi kerete?",
+      "options": [
+        {
+          "text": "Ha a közösségi rendelet a német Grundgesetz elemi alapjogaival ütközik, a szupranacionális jog elsőbbsége helyett a nemzeti alkotmányos felülvizsgálat érvényesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kérdést előterjesztő bíróság Grundgesetz-alapú kételyét a helyes mércévé emeli. A helyes: a C-11/70. sz. Internationale Handelsgesellschaft ügy szerint az alapjogok védelmét a Közösség szerkezetének és célkitűzéseinek keretein belül kell biztosítani; a nemzeti alkotmányos felülvizsgálat helyett közösségi szerkezeti mérce érvényesül. A 2/13. sz. vélemény 170. pontja ugyanezt az autonómiához köti. A tévedés a frankfurt-i Verwaltungsgericht előterjesztési kételyének átvételéből ered."
+        },
+        {
+          "text": "A gabonapiaci biztosítéki rendszer a közös szervezet rendes működéséhez és a Szerződés mezőgazdasági céljaihoz kötötten szükséges és megfelelő, és nem sért alapvető jogot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a biztosítéki rendszer a közösségi mérce alatt megáll. A C-11/70. sz. Internationale Handelsgesellschaft ügy a biztosíték letétbe helyezését a tervezett ügyletek végrehajtására vonatkozó kötelezettségvállalás módszereként értékeli: szükséges és megfelelő, indokolatlan teher nélkül alkalmas a közös szervezet működésének biztosítására. A Bíróság a rendszert a Szerződés 39. cikkében meghatározott általános érdekhez, valamint a 40. cikk (3) bekezdése és a 43. cikk céljához köti. A biztosítéki rendszer ezért nem sért alapvető jogot."
+        },
+        {
+          "text": "A vis maior fogalma a biztosíték elvesztése alól csak a teljes lehetetlenség esetén mentesít, a szokatlan, kellő gondossággal el nem hárítható körülmények nem elegendők.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a vis maiort a teljes lehetetlenségre szűkíti. A helyes: a C-11/70. sz. Internationale Handelsgesellschaft ügy — a 4/68. sz. ügy 1968. július 11-i ítéletére utalva — szerint a vis maior nem korlátozódik a teljes lehetetlenségre, hanem az importőrön vagy exportőrön kívül álló, szokatlan körülményeket jelenti, amelyek következményeit kellő gondosság ellenére sem lehetett volna elkerülni, kivéve aránytalanul nagy áldozat árán. A tévedés a „teljes lehetetlenség” olvasatából ered."
+        },
+        {
+          "text": "Az alapvető jogok az általános jogelvek szerves részét képezik; a védelmet a tagállamok közös alkotmányos hagyományai ihletik, és a Közösség szerkezetének és célkitűzéseinek keretein belül kell biztosítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Internationale Handelsgesellschaft-formula a Stauder-elismerést szerkezeti záradékkal egészíti ki. A C-11/70. sz. ügy szerint az alapvető jogok az általános jogelvek szerves része, a Bíróság védelemben részesíti őket, a védelmet a közös alkotmányos hagyományok ihletik, és azt a Közösség szerkezetének és célkitűzéseinek keretein belül kell biztosítani. A 2/13. sz. vélemény 170. pontja e 4. pontra utalva az uniós jog autonómiájához köti a mércét. A nemzeti alkotmányos felülvizsgálat tehát nem nyílik meg."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "be1d48cb95dc"
+    },
+    {
+      "question": "A C-4/73. sz. Nold-ügy milyen forrástant állít az alapvető jogok védelme mellé?",
+      "options": [
+        {
+          "text": "Az emberi jogok védelmére vonatkozó nemzetközi szerződések, amelyek kidolgozásában a tagállamok együttműködtek, vagy amelyeknek aláírói, olyan iránymutatásokat adhatnak, amelyeket a közösségi jog keretein belül követni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Nold-formula a közös alkotmányos hagyományok mellé a nemzetközi emberi jogi szerződéseket is beemeli. A C-4/73. sz. Nold-ügy 13. pontja szerint e szerződések iránymutatásokat adhatnak, amelyeket a közösségi jog keretein belül követni kell. A felperes különösen az 1950. november 4-i EJEE-re és az 1952. március 20-i jegyzőkönyvre hivatkozott. A kettős forrás — közös alkotmányos hagyományok és nemzetközi emberi jogi szerződések — a Nold-ítélet tartalma."
+        },
+        {
+          "text": "A Nold-ügy a tulajdonhoz és a foglalkozás szabad gyakorlásához fűződő igényt kizárólag a C-36/75. sz. Rutili-ügy közrendi tesztje alá rendeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Nold-féle tulajdoni ratiót a Rutili közrendi kivételével cseréli fel. A helyes: a C-4/73. sz. Nold-ügy 13. pontja a közös alkotmányos hagyományokat és a nemzetközi emberi jogi szerződéseket állítja forrásként, a tulajdon és a foglalkozás társadalmi funkciója, a lényeg érintetlensége és a Közösség célkitűzései mellett. A Rutili-ügy a személyek szabad mozgásának közrendi kivétele, nem a Nold tulajdonjogi ratiója. A tévedés a két ügy elhatárolásának elmosásából ered."
+        },
+        {
+          "text": "A Bíróság az alapvető jogok védelme során köteles a tagállamok közös alkotmányos hagyományaiból meríteni, és nem tarthat fenn olyan intézkedéseket, amelyek összeegyeztethetetlenek az ezen államok alkotmányai által elismert és védett alapvető jogokkal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Nold-ügy 13. pontja a közös alkotmányos hagyományokat kötelező merítési forrásként rögzíti. A C-4/73. sz. Nold-ügy szerint az alapvető jogok a jog általános elveinek szerves részét képezik, amelyek tiszteletben tartását a Bíróság biztosítja. E jogok védelme során a Bíróság köteles a közös alkotmányos hagyományokból meríteni. Ez a formula nem az Internationale Handelsgesellschaft szerkezeti záradékának ismétlése, hanem a tulajdoni és foglalkozási igény forrástana."
+        },
+        {
+          "text": "A Nold-formula szerint a Bíróság a nemzetközi emberi jogi szerződéseket a közös alkotmányos hagyományok helyett, azok kizárásával alkalmazza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kettős forrástant egymást kizáró hierarchiává olvassa. A helyes: a C-4/73. sz. Nold-ügy 13. pontja szerint a Bíróság köteles a közös alkotmányos hagyományokból meríteni, és hasonlóképpen a tagállamok által kidolgozott vagy aláírt nemzetközi emberi jogi szerződések iránymutatásokat adhatnak a közösségi jog keretein belül. A két forrás egymás mellett áll. A tévedés a „helyettesítő” olvasatból ered."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "8d9db88dc1d5"
+    },
+    {
+      "question": "Mi következik abból, ha a nemzeti szabályozás nem tartozik a közösségi jog hatálya alá — a C-328/04. sz. Vajnai-ügy és a C-12/86. sz. Demirel-ügy szerint?",
+      "options": [
+        {
+          "text": "A Bíróságnak nincs hatásköre a közösségi jog hatályán kívül eső nemzeti jogszabályoknak az Emberi Jogok Európai Egyezményével való összeegyeztethetőségét vizsgálni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Demirel-ítélet 28. pontja ugyanezt a határt az EJEE 8. cikkére vetíti. A C-12/86. sz. Demirel-ügy szerint bár a Bíróságnak a közösségi jog területén biztosítania kell az alapvető jogok tiszteletben tartását, nincs hatásköre a közösségi jog hatályán kívül eső nemzeti jogszabályok Egyezménnyel való összevetésére. A török családegyesítés nemzeti szabályai nem hajtottak végre közösségi rendelkezést. A Vajnai-végzés e határ büntetőjogi párja."
+        },
+        {
+          "text": "Az EUSZ 6. cikk, a Charta és a diszkriminációtilalom önmagában megnyitja a Bíróság előzetes döntéshozatali hatáskörét a nemzeti büntetőnorma felülvizsgálatára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az alapjogi forrásokat hatáskör-teremtőnek olvassa. A helyes: a C-328/04. sz. Vajnai-ügy szerint az EU 6. cikk, a Charta és a diszkriminációtilalom önmagában nem nyitja meg a Bíróság előzetes döntéshozatali hatáskörét; a politikai jelkép büntetőjogi tilalma csak akkor válik uniós alapjogi kérdéssé, ha uniós jogi szabály köti a szerződésekhez. A Charta 51. cikk (2) bekezdése is kizárja, hogy a Bíróság a tagállami büntetőjog általános felülvizsgálati fórumává váljon. A tévedés a Chartá-hivatkozás hatáskör-bővítő olvasatából ered."
+        },
+        {
+          "text": "Ha a nemzeti bíróság Chartá-cikkeket idéz az előzetes döntéshozatali kérdésben, a Bíróság köteles érdemben válaszolni, még ha a helyzet nem tartozik a szerződések hatálya alá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kérdező bíróság Chartá-idézését hatásköri alapnak tekinti. A helyes: a C-328/04. sz. Vajnai-ügy 14–15. pontja szerint, ha az ügy semmilyen módon nem kapcsolódik a szerződések hatálya alá tartozó helyzethez, a Bíróságnak nyilvánvalóan nincs hatásköre — a Charta 10., 11. és 12. cikkének idézése ellenére sem. A 12. pont a Kremzow-ítéletre utalva csak a közösségi jog hatálya alá tartozó szabályozásnál ad értelmezési kötelezettséget. A tévedés a hivatkozott források felsorolását keveri a hatásköri feltétellel."
+        },
+        {
+          "text": "A Bíróságnak nincs hatásköre olyan nemzeti szabályozás tekintetében, amely nem tartozik a közösségi jog keretei közé, és ahol a jogvita tárgya semmilyen módon nem kapcsolódik a szerződések hatálya alá tartozó helyzethez.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Vajnai-végzés a hatáskör negatív sarokpontját mondja ki. A C-328/04. sz. Vajnai-ügy 13. pontja szerint e hatáskör nincs meg, ha a szabályozás nem tartozik a közösségi jog keretei közé, és a jogvita semmilyen módon nem kapcsolódik a szerződések hatálya alá tartozó helyzethez. A 14. pont szerint Vajnai Attila ügye semmilyen módon nem kapcsolódott a szerződésekhez. A 15. pont — az eljárási szabályzat 92. cikkének 1. §-a alapján — nyilvánvaló hatáskörhiányt állapít meg."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "c7295f67e4ac"
+    },
+    {
+      "question": "A C-4/73. sz. Nold-ügy szerint a tulajdonhoz és a foglalkozás szabad gyakorlásához fűződő jogok milyen korlátozás mellett állnak fenn a közösségi jogrendben?",
+      "options": [
+        {
+          "text": "A közvetlen szénkereskedelmi jogosultság elvesztése önmagában mindig alapjogsérelem, mert a vállalkozás jövedelmezőségét veszélyezteti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a puszta kereskedelmi érdeket alapjogi maggá emeli. A helyes: a C-4/73. sz. Nold-ügy 14–16. pontja szerint a garanciák nem terjednek ki a puszta kereskedelmi lehetőségekre; a 15. pont szerint a hátrányok a gazdasági változások következményei voltak, és a keresetet elutasították. A közvetlen jogosultság elvesztése a recesszió és a lényeg érintetlensége mellett nem alapjogsérelem. A tévedés a felperes 12. pontbeli állításának átvételéből ered."
+        },
+        {
+          "text": "E jogokat a törvény védi, mindig a közérdekkel összhangban megállapított korlátozások mellett; a közösségi jogrendben is jogszerű, hogy szükség esetén a Közösség átfogó célkitűzései indokolta korlátozások alá essenek, ha a jogok lényegét nem érintik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Nold-ügy 14. pontja a tulajdoni és foglalkozási jogokat társadalmi funkciójuk fényében korlátozhatónak ismeri el. A C-4/73. sz. Nold-ügy szerint e jogok távolról sem jelentenek korlátlan előjogokat; a közösségi jogrendben jogszerű a Közösség átfogó célkitűzései indokolta korlátozás, azzal a feltétellel, hogy e jogok lényegét nem érintik. A Ruhrkohle AG minimális mennyiségi küszöbe e mérce alatt vizsgálandó. A lényeg érintetlensége tehát a korlátozás határa."
+        },
+        {
+          "text": "Egy adott vállalkozásnak nyújtott garanciák semmiképpen sem terjeszthetők ki pusztán kereskedelmi érdekek vagy lehetőségek védelmére, amelyek bizonytalanságai a gazdasági tevékenység lényegéhez tartoznak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Nold-ügy 14. pontja elválasztja az alapjogi magot a puszta kereskedelmi lehetőségektől. A C-4/73. sz. Nold-ügy szerint a vállalkozásnak nyújtott garanciák nem terjednek ki a puszta kereskedelmi érdekek vagy lehetőségek védelmére. A 15. pont szerint a felperes által állított hátrányok a gazdasági változások, nem a megtámadott határozat következményei voltak. A közvetlen szénkereskedelmi jogosultság elvesztése a recesszió és a lényeg érintetlensége mellett nem alapjogsérelem."
+        },
+        {
+          "text": "A tulajdonhoz és a foglalkozás szabad gyakorlásához fűződő jogok a közösségi jogrendben korlátlan előjogok, ezért a Közösség célkitűzései nem indokolhatnak korlátozást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Nold-formula korlátozási záradékát tagadja. A helyes: a C-4/73. sz. Nold-ügy 14. pontja szerint e jogok távolról sem korlátlan előjogok; a közösségi jogrendben jogszerű, hogy a Közösség átfogó célkitűzései indokolta korlátozások alá essenek, ha a jogok lényegét nem érintik. A tévedés a nemzeti alkotmányos tulajdonvédelem abszolút olvasatából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "18256c081c73"
+    },
+    {
+      "question": "A C-36/75. sz. Rutili-ügy a közrendet mint a munkavállalók szabad mozgásától való eltérést milyen feltételekhez köti?",
+      "options": [
+        {
+          "text": "A csak a nemzeti terület egy részére korlátozódó tartózkodási tilalom más tagállamok állampolgáraival szemben nem alkalmazható, kivéve azokat az eseteket és körülményeket, amelyekben az ilyen intézkedések az érintett állam saját állampolgáraira is alkalmazhatók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Rutili-ügy az egyenlő bánásmódot a területi tartózkodási tilalomra is kiterjeszti. A C-36/75. sz. Rutili-ügy szerint a csak a nemzeti terület egy részére korlátozódó tilalom más tagállami állampolgárokkal szemben nem alkalmazható, kivéve ha ugyanilyen intézkedés a saját állampolgárokra is alkalmazható volna. Haladéktalanul tájékoztatni kell az érintettet a határozat indokairól, hogy a jogorvoslatot hatékonyan igénybe vehesse — hacsak ez nem ellentétes az állam biztonsági érdekeivel. A szakszervezeti jogok gyakorlását hátrányosan érintő intézkedés tilos."
+        },
+        {
+          "text": "A közrendi korlátozás a munkavállaló politikai vagy szakszervezeti tevékenysége alapján is elrendelhető anélkül, hogy a jelenlét valódi és kellően súlyos veszélyt jelentene.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a személyes magatartás és a súlyos veszély küszöbét mellőzi. A helyes: a C-36/75. sz. Rutili-ügy szerint korlátozás nem írható elő, kivéve ha a jelenlét vagy a magatartás a közrendre valódi és kellően súlyos veszélyt jelent; tilos az olyan intézkedés, amely hátrányosan érinti a szakszervezeti jogok gyakorlását. A 64/221 irányelv 3. cikk (1) bekezdése a személyes magatartásra köti az intézkedést. A tévedés a francia belügyminiszter „valószínűsíthető zavar” érvelésének átvételéből ered."
+        },
+        {
+          "text": "A tagállamok a közrend fogalmát egyoldalúan, a Közösség intézményeinek ellenőrzése nélkül határozhatják meg, mert a közrend nemzeti szuverenitási kérdés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közrendet nemzeti szuverenitási rezervátummá emeli. A helyes: a C-36/75. sz. Rutili-ügy szerint a korlátozások hatályát az egyes tagállamok nem határozhatják meg egyoldalúan a Közösség intézményeinek ellenőrzése nélkül; az intézkedéseket kizárólag az érintett személy személyes magatartására kell alapozni, és csak valódi, kellően súlyos veszély esetén. A tévedés a közrend „nemzeti fenntartás” olvasatából ered."
+        },
+        {
+          "text": "A közrendi intézkedéseket kizárólag az érintett személyek személyes magatartására kell alapozni; korlátozás csak akkor írható elő, ha a jelenlét vagy a magatartás a közrendre valódi és kellően súlyos veszélyt jelent.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Rutili-ügy a közrendet közösségi összefüggésben szigorúan értelmezi. A C-36/75. sz. Rutili-ügy szerint az intézkedéseket kizárólag az érintett személyek személyes magatartására kell alapozni, és korlátozás nem írható elő, kivéve ha a jelenlét vagy a magatartás a közrendre valódi és kellően súlyos veszélyt jelent. A 64/221 tanácsi irányelv 3. cikk (1) bekezdése ugyanezt a személyes magatartási kötöttséget mondja ki. A tagállamok a közrend hatályát nem határozhatják meg egyoldalúan a Közösség intézményeinek ellenőrzése nélkül."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "d70f61af3a20"
+    },
+    {
+      "question": "A C-44/79. sz. Hauer-ügy a szőlőtelepítési tilalom időbeli és tárgyi hatályáról mit mondott ki?",
+      "options": [
+        {
+          "text": "A tilalom — a 2. cikk (2) bekezdésének kivételeitől eltekintve — általános: „minden új szőlőültetvény telepítését” tiltja, a talaj minősége és a nemzeti alkalmassági besorolás nélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Hauer-ügy a tárgyi hatályt a nemzeti alkalmassági besorolástól függetleníti. A C-44/79. sz. Hauer-ügy szerint a 2. cikk „minden új szőlőültetvény telepítését” tiltja, a talaj minősége és a nemzeti besorolás nélkül. A rendelet célja az európai bortúltermelés megszüntetése és a piaci egyensúly helyreállítása. A 13. pont az alapvető jogok közösségi jogrendben való biztosításának kérdését nyitotta meg a Nold-féle tulajdoni és foglalkozási igényen."
+        },
+        {
+          "text": "A 1162/76 tanácsi rendelet 2. cikk (1) bekezdését a rendelet hatálybalépése előtt benyújtott kérelmekre is alkalmazni kell; az engedély kiadásának cselekményére utalás kizárja a kérelem benyújtása időpontjának figyelembevételét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Hauer-ügy az időbeli hatályt a kiadás aktusához, nem a kérelemhez köti. A C-44/79. sz. Hauer-ügy szerint a 2. cikk (1) bekezdés második albekezdése a tagállamokat a hatálybalépés napjától tiltja el új engedély kiadásától. A 4. cikk a hatálybalépést megelőzően megszerzett telepítési és újratelepítési jogok gyakorlását is felfüggeszti a tilalom idejére. A bortúltermelés megakadályozásának közérdeke miatt a hatálybalépés előtt benyújtott kérelem javára nem tehető kivétel."
+        },
+        {
+          "text": "A rendelet hatálybalépése előtt benyújtott kérelemre a tilalom nem alkalmazható, mert a kérelmező szerzett jogot az engedélyre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kérelem benyújtását szerzett joggá emeli a kiadási tilalom ellenében. A helyes: a C-44/79. sz. Hauer-ügy szerint a 2. cikk (1) bekezdését a hatálybalépés előtt benyújtott kérelmekre is alkalmazni kell, mert az engedély kiadásának cselekményére utalás kizárja a kérelem időpontjának figyelembevételét; a 4. cikk a már megszerzett telepítési jogok gyakorlását is felfüggeszti. A tévedés a „kérelem = szerzett jog” olvasatából ered."
+        },
+        {
+          "text": "A tilalom csak a nemzeti minimumkövetelmények szerint alkalmatlan földekre vonatkozik; az alkalmasnak minősített földön a telepítés szabad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nemzeti alkalmassági besorolást a közösségi tilalom feltételévé teszi. A helyes: a C-44/79. sz. Hauer-ügy szerint a tilalom — a 2. cikk (2) bekezdésének kivételeitől eltekintve — általános, a talaj minősége és a nemzeti besorolás nélkül; a 2. cikk „minden új szőlőültetvény telepítését” tiltja. A hatóság később elismerte a föld nemzeti alkalmasságát, a jogvita ettől fogva tisztán közösségi jogi volt. A tévedés a Weinwirtschaftsgesetz alkalmassági mércéjének a közösségi tilalomba olvasásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "dd76b26002fc"
+    },
+    {
+      "question": "Miben tér el a C-12/86. sz. Demirel-ügy társulási programnormáinak közvetlen hatálya a C-617/10. sz. Åkerberg Fransson ügy Charta-alkalmazási sávjától?",
+      "options": [
+        {
+          "text": "A társulási megállapodás 12. cikke és a jegyzőkönyv 36. cikke a 7. cikkel összefüggésben nem minősülnek a tagállamok belső jogrendjében közvetlenül alkalmazandó közösségi jogi szabályoknak, mert lényegében programot határoznak meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Demirel-ügy a közvetlen alkalmazhatóság mércéjét a társulási programnormákon bukja el. A C-12/86. sz. Demirel-ügy 14. pontja szerint a harmadik országgal kötött megállapodás rendelkezése akkor közvetlenül alkalmazandó, ha világos és pontos kötelezettséget tartalmaz, amelynek végrehajtása nem függ további intézkedéstől. A 23. pont szerint a 12. és a 36. cikk nem kellően pontosak és feltétel nélküliek; a családegyesítésre a Társulási Tanács nem alkotott határozatot. Az első kérdésre adott válasz: e cikkek nem közvetlenül alkalmazandók."
+        },
+        {
+          "text": "A Charta 51. cikk (1) bekezdése a Demirel-féle családegyesítési nemzeti szabályokra is kiterjed, mert a társulási megállapodás önmagában uniós jogi végrehajtást jelent.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a társulási programnormát Charta-végrehajtási sávvá emeli. A helyes: a C-12/86. sz. Demirel-ügy 28. pontja szerint nincs olyan közösségi rendelkezés, amely a török munkavállalók családegyesítését szabályozná, és a nemzeti szabályoknak nem kellett közösségi rendelkezést végrehajtaniuk; ezért a Bíróságnak nincs hatásköre az EJEE 8. cikkével való összevetésre. A Charta 51. cikk (1) bekezdése csak az uniós jog végrehajtásakor köti a tagállamokat. A tévedés a társulási keret és a konkrét végrehajtási kötöttség összecsúsztatásából ered."
+        },
+        {
+          "text": "Az Åkerberg Fransson-ügyben a héa-bevallás és a csalás elleni szankció a hatodik irányelv 22. cikkéből és a saját forrás védelméből a Charta 51. cikk (1) bekezdése szerinti végrehajtási sávot nyitja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Åkerberg Fransson a Demirel–Vajnai negatív határ pozitív tükörképe. A C-617/10. sz. Åkerberg Fransson ügy szerint a Charta 51. cikk (1) bekezdése a tagállamokat annyiban címzettként jelöli meg, amennyiben az Unió jogát hajtják végre; a 77/388/EGK hatodik irányelv 22. cikke és a saját forrás védelme e sávot nyitja. A 2/13. sz. vélemény 171. pontja a 17–21. pontra hivatkozva erősíti: a Chartát a tagállamoknak is tiszteletben kell tartaniuk, amikor az uniós jogot hajtják végre. A Vajnai–Demirel helyzetben ilyen uniós kapocs hiányzott."
+        },
+        {
+          "text": "A Demirel-ügy szerint a társulási megállapodás 12. cikke és a jegyzőkönyv 36. cikke a 7. cikkel közvetlenül alkalmazandó tilalmat állít a családegyesítési korlátozásokra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a programnormát közvetlenül alkalmazandó tilalommá olvassa. A helyes: a C-12/86. sz. Demirel-ügy 23. pontja szerint a 12. és a 36. cikk lényegében programot határoz meg, és nem kellően pontosak és feltétel nélküliek; a 7. cikkből sem vezethető le a családegyesítési korlátozások tilalma. A Társulási Tanács e tárgyban nem alkotott határozatot. A tévedés a 1/80. sz. határozat munkavállalói tilalmának a családegyesítésre kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "7736c656f06b"
+    },
+    {
+      "question": "A C-374/87. sz. Orkem-ügy a 17. sz. rendelet 11. cikke szerinti tájékoztatáskérésben milyen határt állít a védelemhez való jog elé?",
+      "options": [
+        {
+          "text": "A Bizottság jogosult a vállalkozást minden szükséges tényre vonatkozó információ és a birtokában lévő dokumentumok átadására kötelezni, még ha ezek ellene felhasználhatók; információnyújtásra felszólító határozattal azonban nem kötelezheti a jogsértés fennállásának beismerésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Orkem-mérce a ténybeli együttműködést elválasztja a beismerésre kényszerítéstől. A C-374/87. sz. Orkem-ügy 34–35. pontja szerint a Bizottság a 11. cikk (2) és (5) bekezdésének hatékony érvényesülése érdekében kérheti a tényeket és dokumentumokat, de nem kötelezhet olyan válaszokra, amelyek a jogsértés fennállásának beismerését jelentenék, amelynek bizonyítása a Bizottság feladata. A 28. pont a Nold–Stauder-vonalat a versenyjogi vizsgálatra alkalmazza. A joghatás tehát nem a hallgatás általános joga, hanem a beismerésre kényszerítés tilalma."
+        },
+        {
+          "text": "A védelemhez való jog a közösségi jogrend alapelve; meg kell akadályozni, hogy helyrehozhatatlanul sérüljön már az előzetes vizsgálat során, amely döntő lehet a magatartás jogellenességének bizonyításában.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Orkem-ügy 32–33. pontja a Michelin- és Hoechst-gyakorlatra utalva az előzetes vizsgálatra is kiterjeszti a védelmet. A C-374/87. sz. Orkem-ügy szerint e jogot a szankciókhoz vezető közigazgatási eljárásokban tiszteletben kell tartani, és egyes védelmi jogokat már az előzetes vizsgálatban is érvényesíteni kell. A 17. sz. rendelet kifejezetten nem rögzíti a hallgatáshoz való jogot. A Bíróság ezért az általános elvek fényében határolta el a ténybeli kérdéseket a beismerést kényszerítő kérdésektől."
+        },
+        {
+          "text": "A vállalkozásnak általános hallgatáshoz való joga van a 17. sz. rendelet 11. cikke szerinti tájékoztatáskérésben, ezért bármely, a saját jogsértését érintő kérdés megválaszolása megtagadható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az Orkem-mércét általános hallgatási joggá tágítja. A helyes: a C-374/87. sz. Orkem-ügy szerint a vállalkozásnak nincs általános joga a vizsgálat elkerülésére azon az alapon, hogy az eredmény a saját jogsértést bizonyíthatja; a Bizottság a 17. sz. rendelet 11. cikke alapján kérheti a tényeket és dokumentumokat, de nem kényszeríthet beismerésre. A 29. pont szerint a nemzeti jogok összehasonlítása sem utal jogi személyekre a versenyjogi jogsértések terén közös hallgatási elvre. A tévedés a büntetőjogi önvádtilalom versenyvizsgálatra való átültetéséből ered."
+        },
+        {
+          "text": "A termelők értekezleteire és a Fides-statisztikákra vonatkozó, pusztán ténybeli kérdések is a védelemhez való jog megsértését jelentik, mert a válasz a Bizottság ügyét segítheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a ténybeli együttműködést a beismerés tilalmával azonosítja. A helyes: a C-374/87. sz. Orkem-ügy szerint a termelők értekezleteire vonatkozó ténybeli kérdések és a IV. szakasz (Fides-statisztikák) nem kifogásolhatók; a határozatot a II. szakasz 1. c) alpontja, valamint a III. szakasz 1. és 2. pontja tekintetében semmisítették meg, mert ezek beismerést kényszerítettek. A tévedés a „bármely terhelő adat = tilos kérdés” olvasatából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "6a996fac5bdf"
+    },
+    {
+      "question": "A C-5/88. sz. Wachauf-ügy a tejkvóta-rendeletek „gazdaság” fogalmát hogyan értelmezi a haszonbérletnél?",
+      "options": [
+        {
+          "text": "A haszonbérbe adó írásbeli hozzájárulásának visszavonása a közösségi „gazdaság” fogalmától függetlenül kizárja a haszonbérlő kompenzációs igényét minden esetben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nemzeti hozzájárulási feltételt a közösségi fogalomértelmezés fölé emeli anélkül, hogy a Wachauf-mércét alkalmazná. A helyes: a C-5/88. sz. Wachauf-ügy a 857/84 rendelet 12. cikk d) pontja szerinti „gazdaság” fogalmát kiterjesztően értelmezi a haszonbérelt egységre, a referencia-mennyiségek átruházásának hatékonysága érdekében; a nemzeti hozzájárulási követelmény e közösségi végrehajtási sávban vizsgálandó. A tévedés a Szövetségi Hivatal elutasító gyakorlatának abszolutizálásából ered."
+        },
+        {
+          "text": "Gazdaságnak csak az a termelési egység minősül, amely a haszonbérbe adáskor már tejelő szarvasmarhával és fejőházzal rendelkezett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a fogalmat a haszonbérbe adáskori felszereltséghez köti. A helyes: a C-5/88. sz. Wachauf-ügy szerint a „gazdaság” kiterjed minden haszonbérlet tárgyát képező mezőgazdasági termelési egységre, még akkor is, ha a haszonbérbe adáskor sem tejelő tehenekkel, sem műszaki létesítményekkel nem rendelkezett. A 857/84 rendelet 12. cikk d) pontja a termelő általi működtetést és a Közösség területén való elhelyezkedést kívánja. A tévedés a kérdést előterjesztő bíróság szűkítő feltevésének átvételéből ered."
+        },
+        {
+          "text": "A „gazdaság” fogalma kiterjed minden haszonbérlet tárgyát képező mezőgazdasági termelési egységre, még akkor is, ha a haszonbérbe adáskor sem tejelő tehenekkel, sem műszaki létesítményekkel nem rendelkezett, és a szerződés nem írt elő tejtermelési kötelezettséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Wachauf-ügy a „gazdaság” fogalmát kiterjesztően, a referencia-mennyiségek átruházásának hatékonysága érdekében értelmezi. A C-5/88. sz. Wachauf-ügy szerint a 857/84/EGK rendelet 12. cikk d) pontja a gazdaságot a termelő által működtetett, a Közösség földrajzi területén található összes termelési egységként határozza meg. A szűkítő értelmezés a vegyes gazdaságokat zárná ki, és csorbítaná e szabályok hatékonyságát. A haszonbérlő kompenzációs igénye e közösségi végrehajtási sávban áll."
+        },
+        {
+          "text": "A fogalom két feltételt kíván: a termelő — aki tejet vagy tejterméket közvetlenül a fogyasztónak értékesít, vagy felvásárlónak szállít — működtesse az egységet, és az a Közösség földrajzi területén legyen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Wachauf-mérce a működtetést és a földrajzi kötöttséget követeli, nem a haszonbérbe adó tejtermelő múltját. A C-5/88. sz. Wachauf-ügy szerint a haszonbérbe adó maga soha nem folytatott tejtermelést; a tejelő állomány és a műszaki létesítmények a haszonbérlő tulajdonában álltak. A fogalom e tényálláson is kiterjed a haszonbérelt egységre. A nemzeti kompenzációs szabály a 857/84 rendelet 4. cikk (1) bekezdés a) pontjának felhatalmazásán alapult."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "3f72031c1197"
+    },
+    {
+      "question": "A C-112/00. sz. Schmidberger-ügy az áruk szabad mozgását milyen alapjogi és arányossági metszésponton vizsgálja?",
+      "options": [
+        {
+          "text": "A véleménynyilvánítás és a gyülekezés szabadsága mindig felülírja az áruk szabad mozgását, ezért a tagállamnak nincs kötelezettsége a magánszemélyek által okozott forgalmi akadályokkal szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az alapjogot abszolút elsőbbséggé emeli az alapszabadsággal szemben. A helyes: a C-112/00. sz. Schmidberger-ügy szerint a tagállam a magánszemélyek tevékenységeiből eredő, az áruk szabad mozgását akadályozó lezárással szemben kötelezettségekkel tartozik, és az igazolás a véleménynyilvánítás, a gyülekezés és az arányosság metszéspontján vizsgálandó. A 2/13. sz. vélemény 169. pontja az alapjogok tiszteletben tartását a jogszerűség feltételeként idézi, nem az alapszabadság megszüntetéseként. A tévedés a „alapjog mindig győz” olvasatából ered."
+        },
+        {
+          "text": "A Brenner-autópálya lezárása kizárólag a nemzeti Versammlungsgesetz ügye, az EK-Szerződés áruk szabad mozgására vonatkozó rendelkezései nem alkalmazhatók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közösségi alapszabadságot a nemzeti gyülekezési jog hatályán kívül helyezi. A helyes: a C-112/00. sz. Schmidberger-ügy az EK-Szerződés 30., 34. és 36. cikkének az 5. cikkel összefüggő értelmezésére irányult, és a tagállam kötelezettségeit a magánszemélyek által okozott akadályokkal szemben is vizsgálta. A Bezirkshauptmannschaft a közösségi jogi sérülés vizsgálatát mellőzte — ez éppen a vita tárgya volt. A tévedés a nemzeti rendezvényjog kizárólagosságának feltételezéséből ered."
+        },
+        {
+          "text": "A tagállam a magánszemélyek által okozott, az áruk szabad mozgását akadályozó lezárással szemben kötelezettségekkel tartozik; a véleménynyilvánítás és a gyülekezés szabadsága, valamint az arányosság az igazolás körében merül fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Schmidberger-ügy az alapszabadság és az alapvető jogok ütközését a Brenner-autópálya be nem tiltott lezárásán állítja elő. A C-112/00. sz. Schmidberger-ügy az EK-Szerződés 30., 34. és 36. cikkének az 5. cikkel összefüggő értelmezésére, valamint a tagállami kárfelelősség feltételeire irányult. A Transitforum Austria Tirol környezetvédelmi rendezvénye közel harminc órás teljes lezáráshoz vezetett. A 2/13. sz. vélemény 169. pontja a Schmidberger-ítélet 73. pontját idézi: az alapvető jogok tiszteletben tartása az uniós jogi aktusok jogszerűségének feltétele."
+        },
+        {
+          "text": "A bejelentés, a sajtótájékoztató, a média- és autóklub-tájékoztatás, valamint a helyi egyeztetés a zavar előreláthatóságát szolgálta, és a lezárás időtartama körülhatárolt volt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Schmidberger-tényállás az arányossági mérlegeléshez előrelátható, időben korlátozott zavart mutat. A C-112/00. sz. Schmidberger-ügy szerint a Versammlungsgesetz szerinti bejelentés után a Sicherheitsdirektor azt az utasítást adta, hogy a rendezvényt nem kell betiltani; a média és az autóklubok a kerülőutakra hívták fel a figyelmet. A lezárás 1998. június 12-én 11 órától június 13-án körülbelül 15 óra 30 percig tartott. Az igazolás tehát nem absztrakt jogütközés, hanem konkrét körülmények mérlegelése."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "03f60e028d7f"
+    },
+    {
+      "question": "Az Alapjogi Charta 51. cikke szerint kik a Charta címzettjei, és milyen hatásköri záradék társul ehhez?",
+      "options": [
+        {
+          "text": "A Charta 51. cikk (1) bekezdése a szubszidiaritás elvének megfelelő figyelembevétele mellett az Unió intézményeit, szerveit és hivatalait, valamint a tagállamokat annyiban címzettként jelöli meg, amennyiben az Unió jogát hajtják végre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 51. cikk (1) bekezdése a Charta alkalmazási körének pozitív oldala. A C-617/10. sz. Åkerberg Fransson ügy szerint a tagállamok a Charta címzettjei annyiban, amennyiben az Unió jogát hajtják végre; ennek megfelelően saját hatáskörükben és a Szerződésekben az Unióra ruházott hatáskörök korlátain belül tiszteletben tartják a Chartában foglalt jogokat és elveket. A 2/13. sz. vélemény 171. pontja az Åkerberg Fransson-ítélet 17–21. pontjára hivatkozva erősíti e tagállami kötöttséget. A végrehajtási sáv nélkül a Charta nem köti a tagállamot."
+        },
+        {
+          "text": "A Charta 51. cikk (2) bekezdése szerint a Charta az uniós jog alkalmazási körét nem terjeszti ki az Unió hatáskörein túl, nem hoz létre új hatásköröket vagy feladatokat, és nem módosítja a Szerződésekben meghatározott hatásköröket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 51. cikk (2) bekezdése a Chartát az Unió hatáskörein belül tartja. A C-617/10. sz. Åkerberg Fransson ügyben idézett szöveg szerint a Charta az uniós jog alkalmazási körét nem terjeszti ki az Unió hatáskörein túl, nem hoz létre új hatásköröket vagy feladatokat, és nem módosítja a Szerződésekben meghatározott hatásköröket. A Vajnai-végzés is e záradékra utal: a Bíróság nem válhat a tagállami büntetőjog általános felülvizsgálati fórumává. A Charta tehát a jogszerűség feltétele a hatáskörökön belül, nem azok kiterjesztése."
+        },
+        {
+          "text": "A Charta 51. cikk (1) bekezdése a tagállamokat minden nemzeti intézkedésük tekintetében címzettként jelöli meg, az uniós jog végrehajtásától függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a végrehajtási feltételt elhagyja a címzetti körből. A helyes: a Charta 51. cikk (1) bekezdése a tagállamokat annyiban jelöli meg, amennyiben az Unió jogát hajtják végre; a C-617/10. sz. Åkerberg Fransson ügy és a C-328/04. sz. Vajnai-ügy e feltétel nélkül a Chartát nem alkalmazza a tisztán nemzeti helyzetre. A tévedés a Chartát általános nemzeti alapjogi kódexszé olvasó szemléletből ered."
+        },
+        {
+          "text": "A Charta 51. cikk (2) bekezdése lehetővé teszi, hogy a Chartában foglalt jogok önállóan új uniós hatásköröket teremtsenek ott, ahol a Szerződések hallgatnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a hatásköri záradékot a fordítottjára olvassa. A helyes: a Charta 51. cikk (2) bekezdése szerint a Charta nem terjeszti ki az uniós jog alkalmazási körét, nem hoz létre új hatásköröket vagy feladatokat, és nem módosítja a Szerződésekben meghatározott hatásköröket. A 2/13. sz. vélemény 169. pontja a Chartát a Szerződésekkel azonos kötőerővel bíró központba helyezi, de e kötőerő nem hatáskör-bővítés. A tévedés a „kötőerő = hatáskör-teremtés” olvasatából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "ef390c000d37"
+    },
+    {
+      "question": "A Charta 50. cikke szerinti ne bis in idem elv az Åkerberg Fransson-ügyben milyen szabályozási metszésponton merül fel?",
+      "options": [
+        {
+          "text": "A svéd rendszer ugyanazon vétkes magatartásra közigazgatási adóbírságot (adópótlékot) és büntetőeljárást is magában foglalhat, és e kettős szankció a Charta 50. cikkének alkalmazási kérdését nyitja meg a 51. cikk (1) bekezdése szerinti végrehajtási sávban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Åkerberg Fransson-ügy a kettős szankciórendszert a Charta alkalmazási körén belül teszi fel. A C-617/10. sz. Åkerberg Fransson ügy szerint a taxeringslagen szerinti adópótlék főszabály szerint az érintett adó negyven százaléka, hozzáadottérték-adó esetén annak a húsz százaléka, amelyet a téves adat elfogadása esetén nem vetettek volna ki. A skattebrottslagen a szándékos téves adatközlést vagy bevallási mulasztást adócsalásként rendeli büntetni. A 51. cikk (1) bekezdése szerinti végrehajtási sáv nélkül az 50. cikk nem nyílna meg."
+        },
+        {
+          "text": "A Charta 50. cikke csak akkor alkalmazható, ha mindkét eljárás tisztán nemzeti adójogi, uniós jogi kapocs nélkül zajlik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a ne bis in idemet a Charta 51. cikk (1) bekezdése szerinti végrehajtási feltétel nélkül olvassa. A helyes: a C-617/10. sz. Åkerberg Fransson ügyben a héa-bevallás és a csalás elleni szankció a 77/388/EGK hatodik irányelv 22. cikkéből és a saját forrás védelméből a Charta 51. cikk (1) bekezdése szerinti végrehajtási sávot nyitja, és e sávban merül fel az 50. cikk. A tisztán nemzeti helyzetben a Vajnai–Demirel határ zárja a Chartát. A tévedés az 50. cikket általános nemzeti tilalommá tévő olvasatból ered."
+        },
+        {
+          "text": "A Charta 50. cikke szerint senki sem vonható büntetőeljárás alá és nem büntethető olyan bűncselekményért, amely miatt az Unióban a törvénynek megfelelően már jogerősen felmentették vagy elítélték.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Charta 50. cikke a kettős eljárás tilalmát az Unióban jogerősen elbírált bűncselekményre mondja ki. A C-617/10. sz. Åkerberg Fransson ügy a héa-csalás miatt indított büntetőeljárást és az azt megelőző közigazgatási adóbírságot e tilalom fényében vizsgálja. Az EJEE 7. kiegészítő jegyzőkönyvének 4. cikke a nemzeti büntetőjog szerinti jogerős felmentés vagy elítélés utáni ismételt büntetőeljárást tiltja. A kérdés a Charta 50. és 51. cikke, a hatodik irányelv 22. cikke és a saját forrás védelme metszéspontján merül fel."
+        },
+        {
+          "text": "Az Åkerberg Fransson-ügyben a Charta 51. cikk (2) bekezdése feloldja a hatásköri záradékot, ezért az 50. cikk az Unió hatáskörein túl is alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kettős szankció vizsgálatát hatáskör-bővítéssé fordítja. A helyes: a C-617/10. sz. Åkerberg Fransson ügy szerint a Charta 51. cikk (2) bekezdése az Unió hatásköreinek bővítését zárja ki; a 51. cikk (1) bekezdése szerinti végrehajtási sáv megnyílása nem oldja fel e záradékot. A 2/13. sz. vélemény 171. pontja a tagállami Chartá-kötöttséget a végrehajtáshoz köti. A tévedés az 50. cikk alkalmazását a (2) bekezdés feloldásaként olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "d4fca37fc92b"
+    },
+    {
+      "question": "A 2/13. sz. vélemény szerint az uniós jogi építmény milyen előfeltevésen és bírósági sarokkövön nyugszik?",
+      "options": [
+        {
+          "text": "Az EUMSZ 267. cikk szerinti előzetes döntéshozatal fakultatív párbeszéd, amely az uniós jog autonómiája szempontjából mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az előzetes döntéshozatalt opcionális eszköznek tekinti. A helyes: a 2/13. sz. vélemény 174–176. pontja az EUMSZ 267. cikk szerinti előzetes döntéshozatalt a jogrend autonómiájának sarokköveként írja le. A 175. pont szerint a nemzeti bíróságok és a Bíróság feladata az uniós jog teljes körű alkalmazása és a jogalanyokat e jog alapján megillető jogok bírói védelme. A tévedés a bírák párbeszédét mellőzhető eljárássá fokozza le."
+        },
+        {
+          "text": "Az előzetes döntéshozatal a bírák párbeszéde révén az értelmezés egységességét, a jog koherenciáját, teljes érvényesülését, autonómiáját és sajátos jellegét biztosítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény 174–176. pontja az EUMSZ 267. cikk szerinti előzetes döntéshozatalt a jogrend autonómiájának sarokköveként írja le. A 175. pont szerint a nemzeti bíróságok és a Bíróság feladata az uniós jog teljes körű alkalmazása és a jogalanyokat e jog alapján megillető jogok bírói védelme. A 173. pont a lojális együttműködés EUSZ 4. cikk (3) bekezdéséből vezeti le, hogy a tagállamok feladata területükön az uniós jog alkalmazásának és tiszteletben tartásának biztosítása. Az autonómia tehát intézményi szerkezet, nem puszta elvi deklaráció."
+        },
+        {
+          "text": "A jogi építmény azon az előfeltevésen alapul, hogy minden tagállam osztozik az EUSZ 2. cikk szerinti közös értékekben, és elismeri, hogy a többi tagállam is osztja azokat; ez igazolja a kölcsönös bizalmat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény 168. pontja a kölcsönös bizalmat az EUSZ 2. cikk közös értékeire építi. A 167. pont az uniós jog alapvető jellegzetességeit egymással kölcsönösen összefüggő elvek, szabályok és jogviszonyok strukturált hálózataként írja le; a tagállamok az EUSZ 1. cikk második bekezdése szerint az Európa népei közötti egyre szorosabb egység folyamatához kötődnek. A kölcsönös bizalom az értékek elismerése és az azokat végrehajtó uniós jog tiszteletben tartása iránt igazolódik. A külső bírói fórum csak annyiban fér össze e renddel, amennyiben nem oldja fel ezt az előfeltevést."
+        },
+        {
+          "text": "A kölcsönös bizalom előfeltevése nélkül is fennáll az uniós jog autonómiája, mert a Bíróság kizárólagos bíráskodása önmagában elegendő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az autonómiát elválasztja a 2/13. sz. vélemény szerinti érték- és bizalmi előfeltevéstől. A helyes: a 2/13. sz. vélemény 168. pontja szerint a jogi építmény azon az előfeltevésen alapul, hogy minden tagállam osztozik az EUSZ 2. cikk szerinti közös értékekben, és ez igazolja a kölcsönös bizalmat; a 174–176. pont az EUMSZ 267. cikk szerinti előzetes döntéshozatalt e szerkezet sarokköveként írja le. A tévedés az autonómiát egyetlen intézményi mondatra szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "5caf94364ae7"
+    },
+    {
+      "question": "Mi következik az EUSZ 4. cikk (3) bekezdéséből a 2/13. sz. vélemény 173. pontja szerint a tagállami kötelezettségekre nézve?",
+      "options": [
+        {
+          "text": "A lojális együttműködés EUSZ 4. cikk (3) bekezdéséből következik, hogy a tagállamok feladata területükön az uniós jog alkalmazásának és tiszteletben tartásának biztosítása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény a lojalitást az uniós jog területi érvényesítéséhez köti. A 173. pont szerint az EUSZ 4. cikk (3) bekezdéséből az következik, hogy a tagállamok feladata területükön az uniós jog alkalmazásának és tiszteletben tartásának biztosítása. A 171. pont az Åkerberg Fransson-ítélet 17–21. pontjára hivatkozva a Chartát a tagállamokra is kiterjeszti, amikor az uniós jogot hajtják végre. A lojalitás az alkalmazás és tiszteletben tartás konkrét feladata."
+        },
+        {
+          "text": "A 173. pont szerinti területi alkalmazási feladat a 171. ponttal együtt olvasható: a Chartát a tagállamoknak is tiszteletben kell tartaniuk, amikor az uniós jogot hajtják végre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény a lojalitást és a Chartatiszteletet ugyanarra a tagállami oldalra fűzi. A 173. pont az EUSZ 4. cikk (3) bekezdéséből a területi alkalmazás és tiszteletben tartás feladatát vezeti le. A 171. pont az Åkerberg Fransson-ítélet 17–21. pontjára utalva a Chartát a végrehajtási sávhoz köti. A Charta 51. cikk (2) bekezdése e kötelezettség mellett is kizárja az Unió hatásköreinek bővítését."
+        },
+        {
+          "text": "A lojális együttműködés feloldja a Charta 51. cikk (2) bekezdése szerinti hatásköri záradékot, ha a tagállam egyébként nem hajt végre uniós jogot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a lojalitást hatáskör-bővítő klauzulává olvassa. A helyes: a 2/13 sz. vélemény 173. pontja az EUSZ 4. cikk (3) bekezdéséből a területi alkalmazás és tiszteletben tartás feladatát vezeti le, miközben a Charta 51. cikk (2) bekezdése továbbra is kizárja az Unió hatásköreinek bővítését. A 171. pont a Chartát a végrehajtási sávhoz köti. A tévedés a lojalitást a Vajnai–Demirel határ feloldásaként kezeli."
+        },
+        {
+          "text": "Az EUSZ 4. cikk (3) bekezdése csak az uniós intézményeket kötelezi; a tagállamoknak nincs területi alkalmazási feladatuk.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a lojalitást kizárólag intézményi kötelezettségre szűkíti. A helyes: a 2/13 sz. vélemény 173. pontja szerint az EUSZ 4. cikk (3) bekezdéséből az következik, hogy a tagállamok feladata területükön az uniós jog alkalmazásának és tiszteletben tartásának biztosítása. A 171. pont a Chartatiszteletet a végrehajtási sávhoz köti. A tévedés a lojalitás címzettjeit az intézményekre cseréli."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "6377657138b6"
+    },
+    {
+      "question": "A 2/94. sz. vélemény iránti kérelemben a Tanács az emberi jogi védelem hatásköri alapjáról mit ismert el?",
+      "options": [
+        {
+          "text": "A Szerződés az emberi jogok tekintetében nem ruházza fel a Közösséget különös hatáskörrel; e jogok védelmét a közösségi jog általános elvei biztosítják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/94. sz. vélemény a csatlakozás hatásköri előkérdését a különös cím hiányára építi. A Tanács elismerte, hogy a Szerződés az emberi jogok tekintetében nem ruházza fel a Közösséget különös hatáskörrel, és e jogok védelmét a közösségi jog általános elvei biztosítják — ahogy azt a C-29/69. sz. Stauder-ügy óta a Bíróság biztosítja. A védelem szükségessége az Európai Unióról szóló szerződés akkori F. cikkében is elismerést nyert. Különös cikk hiányában az EK-Szerződés 235. cikke csak alkalmazási feltételeinek teljesülése esetén szolgálhatott a csatlakozás alapjául."
+        },
+        {
+          "text": "A horizontális emberi jogi elv önmagában pótolja a különös hatásköri címet, ezért a Közösség az EJEE-hez különös cikk nélkül is csatlakozhatott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a horizontális elvet hatásköri címmé emeli. A helyes: a 2/94. sz. vélemény szerint a Szerződés az emberi jogok tekintetében nem ruházza fel a Közösséget különös hatáskörrel; a horizontális elv nem pótolja a különös hatásköri címet, és a 235. cikk csak alkalmazási feltételeinek teljesülése esetén szolgálhatott alapul. A tévedés a védelem szükségességét hatáskör-teremtéssé fordítja."
+        },
+        {
+          "text": "Különös cikk hiányában az EK-Szerződés 235. cikke szolgálhatott a csatlakozás alapjául, ha e cikk alkalmazási feltételei teljesülnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/94. sz. vélemény a hatásköri oldalt a 235. cikk feltételes alkalmazhatóságához köti. A Tanács szerint a különös cikk hiányában a 235. cikk csak akkor szolgálhatott alapul, ha alkalmazási feltételei teljesülnek. Az emberi jogi védelem horizontális elv, de nem pótolja a különös hatásköri címet. A csatlakozás tehát nem vezethető le pusztán a védelem szükségességéből."
+        },
+        {
+          "text": "A 2/94. sz. vélemény szerint a strasbourgi ítéletek közvetlen hatályúak a közösségi jogrendben, és a Bíróság kizárólagos bíráskodását feloldják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Tanács által említett strasbourgi hatást a fordítottjára olvassa. A helyes: a 2/94. sz. vélemény iránti kérelemben a Tanács kiemelte, hogy a strasbourgi ítéleteknek nincs közvetlen hatályuk, és a bíróság nem semmisíthet meg vagy módosíthat tagállami jogszabályokat; a nyitott kérdés az volt, a csatlakozás megkérdőjelezi-e a Szerződés 164. és 219. cikkével a Bíróságra ruházott kizárólagos bíráskodást és a közösségi jogrendszer autonómiáját. A tévedés a közvetlen hatály hiányát közvetlen hatállyá fordítja."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "55111b130cdc"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a Bíróság alapjogi felülvizsgálata a nemzeti büntetőnormára — a C-328/04. sz. Vajnai-ügy tényállása szerint?",
+      "options": [
+        {
+          "text": "Ha a vöröscsillag büntetőjogi tilalma semmilyen módon nem kapcsolódik a szerződések hatálya alá tartozó helyzethez, a Bíróságnak nyilvánvalóan nincs hatásköre az előzetes döntéshozatali kérdés megválaszolására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Vajnai-végzés a hatáskörhiányt a szerződésekhez való kapcsolat hiányára építi. A C-328/04. sz. Vajnai-ügy tényállása szerint a vöröscsillag büntetőjogi tilalma az alapügyben nem tartozott a közösségi jog keretei közé. Az eljárási szabályzat 92. cikkének 1. §-a alapján a Bíróság nyilvánvaló hatáskörhiányt állapított meg. A Charta 10., 11. és 12. cikkének idézése e határt nem oldja fel."
+        },
+        {
+          "text": "A 2000/43/EK irányelv önmagában megnyitja a Bíróság hatáskörét minden politikai jelkép büntetőjogi tilalmára, uniós jogi kapocs nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 2000/43/EK irányelvet általános büntetőjogi felülvizsgálati címmé emeli. A helyes: a C-328/04. sz. Vajnai-ügy szerint sem az EU 6. cikk, sem a 2000/43/EK irányelv, sem a Charta önmagában nem nyitja meg az előzetes döntéshozatali hatáskört a tisztán nemzeti büntetőnormára. A Charta 51. cikk (2) bekezdése is kizárja, hogy a Bíróság a tagállami büntetőjog általános fórumává váljon. A tévedés az irányelv idézését hatáskör-teremtéssé fordítja."
+        },
+        {
+          "text": "Vajnai Attila ügyében a Bíróság köteles volt érdemben összevetni a Btk. 269/B. §-át a Charta 10–12. cikkével, mert a Fővárosi Bíróság e cikkeket idézte.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Chartát és az EU 6. cikket önálló hatáskör-nyitó címmé emeli. A helyes: a C-328/04. sz. Vajnai-végzés 13–14. pontja szerint nincs hatáskör, ha a szabályozás nem tartozik a közösségi jog keretei közé, és a jogvita semmilyen módon nem kapcsolódik a szerződések hatálya alá tartozó helyzethez. A 15. pont a nyilvánvaló hatáskörhiányt mondja ki. A tévedés a jelképhasználat büntetőjogi tilalmát uniós alapjogi felülvizsgálattá fordítja kötőanyag nélkül."
+        },
+        {
+          "text": "A Bíróság csak akkor adja meg az alapvető jogokkal való összeegyeztethetőség megítéléséhez szükséges értelmezést, ha a nemzeti szabályozás a közösségi jog hatálya alá tartozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Vajnai-végzés a Kremzow-ítélet 15. pontjára utalva a pozitív oldalt is rögzíti. A C-328/04. sz. Vajnai-ügy 12. pontja szerint közösségi jog hatálya alá tartozó nemzeti szabályozásnál a Bíróságnak meg kell adnia az alapvető jogokkal való összeegyeztethetőség megítéléséhez szükséges értelmezést. A 13. pont e hatáskört a közösségi jogon kívüli szabályozásnál kizárja. A politikai jelkép tilalma csak uniós jogi kapoccsal válik uniós alapjogi kérdéssé."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "8e59de199495"
+    },
+    {
+      "question": "Miben tér el a C-4/73. sz. Nold-ügy tulajdoni ratiója a C-36/75. sz. Rutili-ügy közrendi tesztjétől?",
+      "options": [
+        {
+          "text": "A Rutili-ügy a közrendet a munkavállalók szabad mozgásától való eltérésként szigorúan, személyes magatartásra, valamint valódi és kellően súlyos veszélyre szűkíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Rutili-teszt a személyek szabad mozgásának közrendi kivétele. A C-36/75. sz. Rutili-ügy szerint az intézkedéseket kizárólag az érintett személy személyes magatartására kell alapozni, és korlátozás csak valódi, kellően súlyos veszély esetén írható elő. A 64/221 irányelv 3. cikk (1) bekezdése ugyanezt a személyes magatartási kötöttséget rögzíti. A forrás kifejezetten elválasztja: ez nem a Nold-ügy tulajdonjogi ratiója."
+        },
+        {
+          "text": "A Nold-ügy szerint a közrendi korlátozás a tulajdonjog lényegét is érintheti, ha a Közösség célkitűzései ezt indokolják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Nold-korlátozási záradékból elhagyja a lényeg érintetlenségét. A helyes: a C-4/73. sz. Nold-ügy 14. pontja szerint a közösségi jogrendben jogszerű a Közösség átfogó célkitűzései indokolta korlátozás, azzal a feltétellel, hogy e jogok lényegét nem érintik. A közrendi teszt a Rutili-ügyé, nem a Nold tulajdoni ratiójáé. A tévedés a célkitűzéses korlátozást a lényeg feláldozásává olvassa."
+        },
+        {
+          "text": "A Nold-ügy a tulajdonhoz és a foglalkozás szabad gyakorlásához fűződő igényt a közös alkotmányos hagyományok és a nemzetközi emberi jogi szerződések iránymutatása, a lényeg érintetlensége és a Közösség célkitűzései alá helyezi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Nold-ratio a tulajdoni–foglalkozási igény közösségi általános elvi mércéje. A C-4/73. sz. Nold-ügy 13–14. pontja a kettős forrástant és a korlátozás feltételét (lényeg érintetlensége, Közösség célkitűzései) mondja ki. A 15–16. pont a keresetet elutasítja: a hátrányok a gazdasági változások következményei voltak. Ez nem a személyek szabad mozgásának közrendi kivétele."
+        },
+        {
+          "text": "A Rutili-ügy közrendi tesztje a Nold-féle tulajdoni igény közvetlen alkalmazási mércéje a szénkereskedelmi engedélynél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a két ügy ratióját felcseréli. A helyes: a C-4/73. sz. Nold-ügy 13–14. pontja a tulajdoni és foglalkozási jogot a közös alkotmányos hagyományok, a nemzetközi emberi jogi szerződések és a lényeg érintetlensége alá helyezi; a C-36/75. sz. Rutili-ügy a közrendet a szabad mozgás kivételeként, személyes magatartásra és súlyos veszélyre szűkíti. A tévedés a két elhatároló formula összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "21828228a058"
+    },
+    {
+      "question": "A C-374/87. sz. Orkem-ügyben mely tájékoztatáskérési elemek sértették a védelemhez való jogot, és melyek nem?",
+      "options": [
+        {
+          "text": "A Bizottság a 17. sz. rendelet 11. cikke alapján semmilyen, a vállalkozás ellen felhasználható dokumentum átadására nem kötelezheti a vállalkozást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a beismerés tilalmát a ténybeli együttműködés tilalmává tágítja. A helyes: a C-374/87. sz. Orkem-ügy szerint a Bizottság a 17. sz. rendelet 11. cikk (2) és (5) bekezdése alapján jogosult a szükséges tényekre és a birtokában lévő dokumentumokra kötelezni, még ha ezek ellene felhasználhatók; tilos viszont olyan válasz kikényszerítése, amely a jogsértés fennállásának beismerését jelentené. A tévedés a hallgatás általános jogát olvassa az Orkem-mércébe."
+        },
+        {
+          "text": "A II. szakasz 1. c) alpontja, valamint a III. szakasz 1. és 2. pontja tekintetében a Bizottság megsértette a védelemhez való jogot, mert beismerést kényszerített; a határozatot e részekben meg kell semmisíteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Orkem-ügy 41–42. pontja a beismerést kényszerítő kérdéseket semmisíti meg. A C-374/87. sz. Orkem-ügy szerint az árkezdeményezések támogatására tervezett vagy elfogadott lépésekre vonatkozó 1. c) alpont a felperest a jogsértés elismerésére kényszerítette. Ugyanez áll a kvótákra, célokra és részesedésekre vonatkozó kérdésekre a III. szakaszban. A bizonyítás a Bizottság feladata marad, a vállalkozás nem kényszeríthető beismerésre."
+        },
+        {
+          "text": "A kifogásközlésnek minősítésre alapított jogalap önmagában megsemmisítette a teljes tájékoztatáskérési határozatot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a részleges megsemmisítést teljes megsemmisítéssé olvassa. A helyes: a C-374/87. sz. Orkem-ügy a kifogásközlésnek minősítésre alapított jogalapot elutasította, mert a gyanú közlése a 11. cikk (3) bekezdése szerinti kötelezettség teljesítése; megsemmisítés csak a beismerést kényszerítő II. szakasz 1. c) alpontjára, valamint a III. szakasz 1. és 2. pontjára jutott. A tévedés a gyanú közlését kifogásközléssé minősíti."
+        },
+        {
+          "text": "A termelők értekezleteire vonatkozó, pusztán ténybeli kérdések, valamint a III. szakasz 3. kérdése és a IV. szakasz (Fides-statisztikák) nem kifogásolhatók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Orkem-mérce a ténybeli információcserét elválasztja a beismeréstől. A C-374/87. sz. Orkem-ügy szerint a termelők értekezleteire vonatkozó ténybeli kérdések és a kapcsolódó dokumentumok átadása megáll. A Fides-statisztikákra és kimutatásokra irányuló IV. szakasz, valamint a III. szakasz 3. kérdése ténybeli információcsere, ezért nem kifogásolható. A 34–35. pont a ténykérést engedi, a jogsértés fennállásának beismerését tiltja."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "20552a04ab3d"
+    },
+    {
+      "question": "Mi a helyes olvasata annak a négy állításnak, amelyek az uniós alapjogvédelem hatásköri keretét tévesen tágítják?",
+      "options": [
+        {
+          "text": "A Charta önmagában új uniós hatáskört teremt minden nemzeti alapjogi vitára, a Szerződések hallgatása ellenére is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Charta kötőerejét hatáskör-teremtéssé fordítja. A helyes: a Charta 51. cikk (2) bekezdése szerint a Charta nem terjeszti ki az uniós jog alkalmazási körét, nem hoz létre új hatásköröket, és nem módosítja a Szerződésekben meghatározott hatásköröket. A 2/13 sz. vélemény 169. pontja a Chartát a Szerződésekkel azonos kötőerővel bíró központba helyezi, de e kötőerő nem hatáskör-bővítés. A tévedés a „kötőerő = hatáskör-teremtés” olvasatából ered."
+        },
+        {
+          "text": "A Bíróság az EJEE 8. cikke alapján felülvizsgálhatja a közösségi jogot nem végrehajtó nemzeti családegyesítési szabályokat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az EJEE-t önálló uniós felülvizsgálati címmé emeli a közösségi jogon kívül. A helyes: a C-12/86. sz. Demirel-ügy 28. pontja szerint a Bíróságnak nincs hatásköre a közösségi jog hatályán kívül eső nemzeti jogszabályoknak az Emberi Jogok Európai Egyezményével való összeegyeztethetőségét vizsgálni. A családegyesítési nemzeti szabályok nem hajtottak végre közösségi rendelkezést. A tévedés a Demirel–Vajnai zárást feloldja."
+        },
+        {
+          "text": "A horizontális emberi jogi elv a 2/94. sz. vélemény szerint pótolja a különös hatásköri címet az EJEE-csatlakozáshoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a horizontális emberi jogi elvet különös hatásköri címmé emeli. A helyes: a 2/94 sz. vélemény szerint a Szerződés az emberi jogok tekintetében nem ruházta fel a Közösséget különös hatáskörrel; e jogok védelmét a közösségi jog általános elvei biztosítják, és a 235. cikk csak feltételei teljesülése esetén szolgálhatott a csatlakozás alapjául. A tévedés a védelem szükségességét hatáskör-teremtéssé fordítja."
+        },
+        {
+          "text": "A Vajnai-ügyben a nemzeti bíróság Chartá-hivatkozása önmagában kötelezi a Bíróságot érdemi előzetes döntésre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kérdező bíróság hivatkozását hatásköri alapnak tekinti. A helyes: a C-328/04. sz. Vajnai-ügy 14–15. pontja szerint, ha az ügy semmilyen módon nem kapcsolódik a szerződések hatálya alá tartozó helyzethez, a Bíróságnak nyilvánvalóan nincs hatásköre; a Charta 51. cikk (2) bekezdése is kizárja a tagállami büntetőjog általános felülvizsgálatát. A tévedés a Chartá-idézést a 13–14. pontbeli hatásköri feltétel helyébe tolja."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "fc24a8db9a12"
+    },
+    {
+      "question": "A C-44/79. sz. Hauer-ügyben mi következik abból, ha a szőlőtelepítési kérelmet a közösségi tilalom hatálybalépése előtt nyújtották be?",
+      "options": [
+        {
+          "text": "A 4. cikk csak az új kérelmekre vonatkozik; a hatálybalépés előtt megszerzett telepítési jogok a tilalom idején szabadon gyakorolhatók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a megszerzett telepítési jogokat a tilalom alóli kivételként olvassa. A helyes: a C-44/79. sz. Hauer-ügy szerint a 4. cikk a hatálybalépést megelőzően megszerzett telepítési és újratelepítési jogok gyakorlását is felfüggeszti a tilalom idejére, miközben a 2. cikk (1) bekezdése a kiadást a hatálybalépés napjától tiltja. A tévedés a 4. cikk felfüggesztő hatályát mellőzi, mintha a már megszerzett telepítési jog a tilalom alóli kivétel volna."
+        },
+        {
+          "text": "A hatodik preambulumbekezdés szerinti vitathatatlan közérdek a bortúltermelés növekedésének megakadályozása, a piaci egyensúly helyreállítása és a strukturális többletek megelőzése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Hauer-ügy a közérdeket a tilalom időbeli kiterjesztésének indokaként rögzíti. A C-44/79. sz. Hauer-ügy a hatodik preambulumbekezdés szerinti vitathatatlan közérdeket a bortúltermelés növekedésének megakadályozásában, a piaci egyensúly helyreállításában és a strukturális többletek megelőzésében jelöli meg. Emiatt a hatálybalépés előtt benyújtott kérelem javára nem tehető kivétel. A rendelet célja az európai bortúltermelés megszüntetése."
+        },
+        {
+          "text": "A 1162/76 rendelet 2. cikk (1) bekezdését a hatálybalépés előtt benyújtott kérelmekre is alkalmazni kell, mert az engedély kiadásának cselekményére utalás kizárja a kérelem időpontjának figyelembevételét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Hauer-ügy az időbeli hatályt a kiadási aktushoz köti. A C-44/79. sz. Hauer-ügy megállapította: a tagállamok a rendelet hatálybalépésének napjától nem adnak ki több engedélyt, ezért a korábban benyújtott kérelem időpontja nem dönt. A 4. cikk a már megszerzett telepítési és újratelepítési jogok gyakorlását is felfüggeszti a tilalom idejére. A bortúltermelés megakadályozásának közérdeke miatt a korábbi kérelem javára nem tehető kivétel."
+        },
+        {
+          "text": "A hatálybalépés előtt benyújtott kérelem szerzett jogot keletkeztet az engedélyre, ezért a tilalom rá nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kérelem benyújtását szerzett engedélyezési joggá emeli. A helyes: a C-44/79. sz. Hauer-ügy szerint a 1162/76 tanácsi rendelet 2. cikk (1) bekezdését a hatálybalépés előtt benyújtott kérelmekre is alkalmazni kell, mert az engedély kiadásának cselekményére utalás kizárja a kérelem időpontjának figyelembevételét. A 4. cikk a megszerzett telepítési jogok gyakorlását is felfüggeszti. A tévedés a kérelem időpontját a tilalom alóli kivételként kezeli."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "8c00b518a3af"
+    },
+    {
+      "question": "A C-12/86. sz. Demirel-ügy a társulási megállapodás közvetlen alkalmazhatóságának milyen mércéjét állítja fel?",
+      "options": [
+        {
+          "text": "A Bíróságnak nincs hatásköre a társulási megállapodás munkavállalói szabad mozgásra vonatkozó rendelkezéseinek értelmezésére, mert a megállapodás vegyes jellegű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a német kormány és az Egyesült Királyság hatásköri kifogását a helyes szabálynak állítja. A helyes: a C-12/86. sz. Demirel-ügy 13. pontja szerint a Bíróság hatáskörrel rendelkezik a megállapodásban és a jegyzőkönyvben foglalt, a munkavállalók szabad mozgására vonatkozó rendelkezések értelmezésére; a 238. cikk felhatalmazza a Közösséget e kötelezettségvállalásokra. A tévedés a vegyes megállapodás jellegét az értelmezési hatáskör kizárásává fordítja."
+        },
+        {
+          "text": "A Közösség által harmadik országgal kötött megállapodás rendelkezése akkor közvetlenül alkalmazandó, ha szövegezésére, valamint a megállapodás céljára és természetére tekintettel világos és pontos kötelezettséget tartalmaz, amelynek végrehajtása vagy hatálya nem függ semmilyen további intézkedés elfogadásától.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Demirel-ügy 14. pontja a közvetlen alkalmazhatóság konjunktív mércéjét adja. A C-12/86. sz. Demirel-ügy szerint e mérce a megállapodás 12. cikkén és a jegyzőkönyv 36. cikkén bukik el. A 23. pont szerint e cikkek lényegében programot határoznak meg, és nem kellően pontosak és feltétel nélküliek. A Társulási Tanács a családegyesítésre nem alkotott határozatot."
+        },
+        {
+          "text": "A megállapodás 12. cikke és a jegyzőkönyv 36. cikke a 7. cikkel közvetlenül alkalmazandó tilalmat állít a családegyesítési korlátozások bevezetésére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a programnormát közvetlenül alkalmazandó tilalommá olvassa. A helyes: a C-12/86. sz. Demirel-ügy 23. pontja szerint a 12. és a 36. cikk nem kellően pontosak és feltétel nélküliek; a 7. cikkből — általános együttműködési kötelezettség — nem vezethető le a családegyesítési korlátozások tilalma. A családegyesítésre a Társulási Tanács nem alkotott határozatot. A tévedés a 1/80. sz. határozat munkavállalói tilalmának kiterjesztéséből ered."
+        },
+        {
+          "text": "A Bíróság hatáskörrel rendelkezik a megállapodásban és a jegyzőkönyvben foglalt, a munkavállalók szabad mozgására vonatkozó rendelkezések értelmezésére, mert e kötelezettségvállalások a 238. cikk szerinti közösségi hatáskörbe tartoznak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Demirel-ügy a hatáskört elválasztja a közvetlen hatálytól. A C-12/86. sz. Demirel-ügy 7. pontja a Haegeman-ítéletre utalva rögzíti: a Tanács által megkötött megállapodás a közösségi jogrend szerves része. A 9–13. pont szerint a munkavállalók szabad mozgása a Szerződés által lefedett terület, ezért a Bíróság értelmezheti e rendelkezéseket. Az értelmezési hatáskör megléte azonban nem jelenti a 12. és 36. cikk közvetlen alkalmazhatóságát."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "5e192e5723b3"
+    },
+    {
+      "question": "A C-5/88. sz. Wachauf-ügy a közösségi tejkvóta-szabályok tagállami végrehajtásában milyen jogkövetkezménnyel jár a „gazdaság” kiterjesztő értelmezése?",
+      "options": [
+        {
+          "text": "A „gazdaság” fogalma kizárólag a haszonbérbe adó tulajdonosi minőségéhez kötődik, a haszonbérlő működtetése irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a tulajdonosi oldalt a működtetés helyébe tolja. A helyes: a C-5/88. sz. Wachauf-ügy szerint a 857/84 rendelet 12. cikk d) pontja a gazdaságot a termelő által működtetett, a Közösség területén található összes termelési egységként határozza meg; a haszonbérelt egység is ide tartozik. A tévedés a haszonbérbe adó tulajdonát a fogalom kizárólagos ismérvévé emeli."
+        },
+        {
+          "text": "A Wachauf-ügy a „gazdaság” fogalmát szűkítően értelmezi, hogy a haszonbérlők ne juthassanak kompenzációhoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kiterjesztő értelmezést a fordítottjára olvassa. A helyes: a C-5/88. sz. Wachauf-ügy a „gazdaság” fogalmát kiterjesztően, a referencia-mennyiségek átruházásának hatékonysága érdekében értelmezi, és kiterjeszti a haszonbérelt egységre is. A szűkítő olvasat a vegyes gazdaságokat zárná ki. A tévedés a Szövetségi Hivatal elutasító gyakorlatát a közösségi fogalomértelmezésnek állítja."
+        },
+        {
+          "text": "A fogalomhoz elegendő, hogy a termelő működtesse az egységet, és az a Közösség földrajzi területén legyen — a haszonbérbe adó tejtermelő múltja nem feltétele.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tényállás a kiterjesztő értelmezést támasztja alá. A C-5/88. sz. Wachauf-ügyben a haszonbérbe adó soha nem folytatott tejtermelést, miközben a tejelő állomány és a műszaki létesítmények a haszonbérlőéi voltak. A fogalom két feltétele a termelői működtetés és a közösségi területi elhelyezkedés. A hozzájárulás visszavonása e fogalom tisztázása nélkül nem dönthető el abszolút kizáró okként."
+        },
+        {
+          "text": "A szűkítő értelmezés a vegyes gazdaságokat zárná ki a referencia-mennyiségek átruházási szabályainak hatálya alól, és csorbítaná e szabályok hatékonyságát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Wachauf a tejkvóta-rendeletek tagállami végrehajtásának sávjában áll. A C-5/88. sz. Wachauf-ügy szerint a 857/84/EGK rendelet 12. cikk d) pontja szerinti „gazdaság” kiterjesztő értelmezése a referencia-mennyiségek átruházási szabályainak hatékonyságát védi. A szűkítő olvasat a vegyes gazdaságokat zárná ki e szabályok hatálya alól. A haszonbérlő kompenzációs igénye ezért nem tisztán nemzeti hozzájárulás-kérdés."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "77b43b2634a6"
+    },
+    {
+      "question": "A 2/13. sz. vélemény 169–170. pontja szerint az alapvető jogok tiszteletben tartása milyen viszonyban áll az uniós jog autonómiájával?",
+      "options": [
+        {
+          "text": "Az alapvető jogok tiszteletben tartása az uniós jogi aktusok jogszerűségének feltétele, így az Unión belül nem engedhetők meg az ugyanezen jogokkal összeegyeztethetetlen intézkedések.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény 169. pontja a Chartát — amely az EUSZ 6. cikk (1) bekezdése értelmében a Szerződésekkel azonos jogi kötőerővel bír — a jogi építmény központjába helyezi. Az állandó gyakorlat szerint az alapjogok tiszteletben tartása a jogszerűség feltétele. A Schmidberger-ítélet 73. pontját is e körben idézi. Az alapjogvédelem tehát nem külső felülíró mérce, hanem a jogszerűség belső feltétele."
+        },
+        {
+          "text": "Az alapjogok tiszteletben tartása az uniós jog autonómiáját feloldja, mert a nemzeti alkotmányok közvetlenül felülvizsgálhatják az uniós aktusokat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a jogszerűségi feltételt az autonómia feloldásává fordítja. A helyes: a C-11/70. sz. Internationale Handelsgesellschaft-ítélet 4. pontja szerint az alapjogok védelmét a Közösség szerkezetén és céljain belül kell biztosítani; a 2/13 sz. vélemény 169. pontja az alapvető jogok tiszteletben tartását az uniós jogi aktusok jogszerűségének feltételeként, a 170. pont pedig ugyanezt az autonómiához köti. A Grundgesetz-alapú felülvizsgálat tehát nem lép a közösségi szerkezeti mérce helyébe. A tévedés a nemzeti alkotmányos elsőbbséget az uniós mérce fölé tolja."
+        },
+        {
+          "text": "A Charta EUSZ 6. cikk (1) bekezdése szerinti kötőereje azt jelenti, hogy az alapjogi értelmezés elszakadhat az Unió szerkezetétől és céljaitól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Chartá-kötőerőt szerkezeti korlát nélküli mércévé tágítja. A helyes: a 2/13. sz. vélemény szerint a Charta az EUSZ 6. cikk (1) bekezdése értelmében a Szerződésekkel azonos jogi kötőerővel bír, de a 170. pont szerint az alapvető jogok értelmezése az Unió szerkezetén és céljain belül biztosítandó. A C-11/70. sz. Internationale Handelsgesellschaft ügy 4. pontja ugyanezt a keretet adja. A tévedés a kötőerőt az autonómia záradékának feloldásaként olvassa."
+        },
+        {
+          "text": "Az uniós jog autonómiája megköveteli, hogy az alapvető jogok értelmezése az Unió szerkezetén és céljain belül legyen biztosítva — az Internationale Handelsgesellschaft-ítélet 4. pontjára utalva.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény 170. pontja az autonómiát a mérce kereteként rögzíti. A C-11/70. sz. Internationale Handelsgesellschaft ügy 4. pontja szerint a védelmet a Közösség szerkezetének és célkitűzéseinek keretein belül kell biztosítani. A nemzeti alkotmányos felülvizsgálat helyett közösségi szerkezeti mérce érvényesül. Az autonómia és az alapjogvédelem tehát együtt, nem egymás ellen olvasandó."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "b440ef1c7800"
+    },
+    {
+      "question": "A C-112/00. sz. Schmidberger-ügyben a Brenner-autópálya lezárása milyen közösségi jogi kérdéseket vetett fel a nemzeti gyülekezési jogszerűségen túl?",
+      "options": [
+        {
+          "text": "A gyülekezés szabadsága abszolút elsőbbséget élvez, ezért a tagállamnak nincs kötelezettsége a magánszemélyek által okozott forgalmi akadállyal szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a gyülekezést kötelezettségmentes abszolút elsőbbséggé emeli az áruk szabad mozgásával szemben. A helyes: a C-112/00. sz. Schmidberger-ügy szerint a tagállam a magánszemélyek által okozott, az áruk szabad mozgását akadályozó lezárással szemben kötelezettségekkel tartozik, és az igazolás a véleménynyilvánítás, a gyülekezés és az arányosság metszéspontján vizsgálandó. A 2/13 sz. vélemény 169. pontja az alapjogok tiszteletben tartását jogszerűségi feltételként idézi, nem az alapszabadság megszüntetéseként. A tévedés a kötelezettség nélküli „alapjog győz” olvasatból ered."
+        },
+        {
+          "text": "A kérdések az EK-Szerződés 30., 34. és 36. cikkének az 5. cikkel összefüggő értelmezésére, valamint a tagállamnak a közösségi jog megsértése folytán magánszemélyeknek okozott kárért fennálló felelősségének feltételeire irányultak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Schmidberger-ügy nem marad a Versammlungsgesetz keretében. A C-112/00. sz. Schmidberger-ügy az áruk szabad mozgásának rendelkezéseit az 5. cikkel együtt értelmezi. A Transitforum Austria Tirol bejelentett rendezvénye közel harminc órás teljes lezáráshoz vezetett. A nemzeti jogszerűség mellett a közösségi kárfelelősség feltételei is felmerültek."
+        },
+        {
+          "text": "A lezárás kizárólag osztrák gyülekezési jogi kérdés, az EK-Szerződés áruk szabad mozgására vonatkozó rendelkezései nem alkalmazhatók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közösségi alapszabadságot a nemzeti rendezvényjog hatályán kívül helyezi. A helyes: a C-112/00. sz. Schmidberger-ügy az EK-Szerződés 30., 34. és 36. cikkét az 5. cikkel összefüggésben értelmezte, és a tagállami kötelezettségeket a magánszemélyek akadályaival szemben is vizsgálta; a kárfelelősség feltételei is felmerültek. A Bezirkshauptmannschaft közösségi jogi sérülés vizsgálatának mellőzése éppen a vita tárgya volt. A tévedés a Versammlungsgesetz kizárólagosságát feltételezi."
+        },
+        {
+          "text": "A Bezirkshauptmannschaft a rendezvényt az osztrák jog szerint jogszerűnek tartotta, és nem vizsgálta, hogy határozata a közösségi jogot nem sértheti-e — ez éppen a vita tárgya volt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti jogszerűség nem zárja ki a közösségi vizsgálatot. A C-112/00. sz. Schmidberger-ügyben a Sicherheitsdirektor 1998 június 3-án azt az utasítást adta, hogy a Transitforum Austria Tirol rendezvényét nem kell betiltani. A helyi hatóságok a fennakadás nélküli lebonyolításról egyeztettek a kerülőutak és a hétvégi nehézteher-forgalmi tilalom figyelembevételével. A Bíróság elé mégis az EK-Szerződés 30., 34. és 36. cikkének az 5. cikkel összefüggő értelmezése került."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "ccb6f55c0ffe"
+    },
+    {
+      "question": "A C-617/10. sz. Åkerberg Fransson ügy a Charta 51. cikk (1) bekezdése szerinti végrehajtási sávot milyen uniós jogi kapocshoz köti?",
+      "options": [
+        {
+          "text": "A Charta 51. cikk (1) bekezdése a héa-szankcióktól függetlenül minden nemzeti adócsalási büntetőeljárásra kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a végrehajtási feltételt elhagyja. A helyes: a C-617/10. sz. Åkerberg Fransson ügy szerint a tagállam a Charta címzettje annyiban, amennyiben az Unió jogát hajtja végre; a héa-kapocs a hatodik irányelv 22. cikkéből és a saját forrás védelméből ered. A tisztán nemzeti helyzetben a C-328/04. sz. Vajnai-ügy határa zár. A tévedés a Chartát általános nemzeti adó-büntető kódexszé olvassa."
+        },
+        {
+          "text": "Az Åkerberg Fransson-ügyben a Charta 50. cikke a 51. cikk (2) bekezdése ellenére az Unió hatáskörein túl is alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a ne bis in idem vizsgálatot hatáskör-bővítéssé fordítja. A helyes: a C-617/10. sz. Åkerberg Fransson ügy szerint az 50. cikk a 51. cikk (1) bekezdése szerinti végrehajtási sávban merül fel, miközben a 51. cikk (2) bekezdése az Unió hatásköreinek bővítését továbbra is zárja. A 2/13. sz. vélemény a tagállami kötöttséget a végrehajtáshoz köti. A tévedés az 50. cikk alkalmazását a (2) bekezdés feloldásaként olvassa."
+        },
+        {
+          "text": "A héa-bevallási és csalás elleni szankciós szabályok a 77/388/EGK hatodik irányelv 22. cikkéből és az Unió saját forrásának védelméből a Charta 51. cikk (1) bekezdése szerinti végrehajtási sávot nyitják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Åkerberg Fransson a Vajnai–Demirel negatív határ pozitív tükörképe. A C-617/10. sz. Åkerberg Fransson ügyben a Charta akkor köti a tagállamot, ha az Unió jogát hajtja végre; a hatodik irányelv 22. cikke és a saját forrás védelme e kapcsot adja. A 2/13. sz. vélemény a 17–21. pontra hivatkozva erősíti a tagállami Chartá-kötöttséget a végrehajtáskor. A végrehajtási sáv nélkül a Charta 50. cikke sem nyílna meg."
+        },
+        {
+          "text": "A Charta 51. cikk (2) bekezdése e sáv megnyílása ellenére sem oldódik fel: a Charta nem terjeszti ki az Unió hatásköreit.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a végrehajtási sáv és a hatásköri záradék együtt olvasandó. A C-617/10. sz. Åkerberg Fransson ügyben idézett 51. cikk (2) bekezdés szerint a Charta nem terjeszti ki az uniós jog alkalmazási körét, nem hoz létre új hatásköröket, és nem módosítja a Szerződésekben meghatározott hatásköröket. A kettős szankció vizsgálata tehát nem hatáskör-bővítés. A Vajnai-végzés ugyanezt a záradékot a büntetőjog általános felülvizsgálatának kizárásánál idézi."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "7cbb612409e4"
+    },
+    {
+      "question": "A C-29/69. sz. Stauder-ügy és a C-11/70. sz. Internationale Handelsgesellschaft ügy együtt milyen alapjogvédelmi szerkezetet ad?",
+      "options": [
+        {
+          "text": "A Stauder-ügy után az alapjogok védelme kizárólag a nemzeti alkotmányok közvetlen felülvizsgálatán nyugszik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Stauder-mércét nemzeti alkotmányos felülvizsgálattá fordítja. A helyes: a C-29/69. sz. Stauder-ügy szerint az alapvető emberi jogok a közösségi jog általános elveiben foglaltak, és tiszteletben tartásukat a Bíróság biztosítja; a C-11/70. sz. Internationale Handelsgesellschaft ügy ezt a Közösség szerkezetének és céljainak keretébe zárja. A tévedés a Grundgesetz-panaszt a közösségi mérce helyébe tolja."
+        },
+        {
+          "text": "A Stauder-ügy elismeri, hogy a közösségi jog általános elvei magukban foglalják az alapvető emberi jogokat, és azok tiszteletben tartását a Bíróság biztosítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-29/69. sz. Stauder-ügy az alapjogokat a közösségi jog általános elveinek részeként ismeri el, és tiszteletben tartásukat a Bíróságra bízza. A névfeltüntetési vita e mérce alá került, nem a Grundgesetz önálló felülvizsgálata alá. A többnyelvű határozatot a jogalkotó szándéka és valamennyi nyelvi változat fényében kell értelmezni. A vitatott rendelkezés e mérce szerint nem sértett alapvető emberi jogot."
+        },
+        {
+          "text": "Az Internationale Handelsgesellschaft ügy megengedi, hogy a német Grundgesetz elemi jogai felülírják a közösségi rendeletet, ha a biztosítéki rendszer aránytalan.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a német bíróság Grundgesetz-kételyét a közösségi rendelet feletti nemzeti elsőbbséggé emeli. A helyes: a C-11/70. sz. Internationale Handelsgesellschaft ügy szerint az alapjogok védelmét a Közösség szerkezetének és célkitűzéseinek keretein belül kell biztosítani; a 2/13 sz. vélemény 170. pontja ugyanezt az uniós jog autonómiájához köti. A biztosítéki rendszer a gabonapiaci közös szervezet keretében maradt. A tévedés a frankfurt-i Verwaltungsgericht előterjesztési kételyének átvétele."
+        },
+        {
+          "text": "Az Internationale Handelsgesellschaft ügy e védelmet a tagállamok közös alkotmányos hagyományaira, valamint a Közösség szerkezetére és céljaira zárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-11/70. sz. Internationale Handelsgesellschaft ügy a Stauder-elismerést szerkezeti kerettel zárja: a védelmet a közös alkotmányos hagyományok ihletik, és a Közösség szerkezetén, valamint célkitűzésein belül kell biztosítani. A 2/13 sz. vélemény 170. pontja e 4. pontot az uniós jog autonómiájához köti. A gabonapiaci biztosítéki rendszer e mérce alatt nem sértett alapvető jogot. A nemzeti alkotmányos felülvizsgálat tehát nem nyílik meg."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "1d13ca8f821a"
+    },
+    {
+      "question": "Mi a helyes olvasata annak a négy állításnak, amelyek a Nold–Orkem–Demirel vonal fogalmait felcserélik?",
+      "options": [
+        {
+          "text": "A Demirel-ügy 28. pontja szerint a Bíróság az EJEE 8. cikke alapján felülvizsgálhatja a közösségi jogot nem végrehajtó nemzeti családegyesítési szabályokat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Demirel-határt a fordítottjára olvassa. A helyes: a C-12/86. sz. Demirel-ügy 28. pontja szerint a Bíróságnak nincs hatásköre a közösségi jog hatályán kívül eső nemzeti jogszabályoknak az Emberi Jogok Európai Egyezményével való összeegyeztethetőségét vizsgálni; a török családegyesítés nemzeti szabályai nem hajtottak végre közösségi rendelkezést. A tévedés az EJEE-t önálló uniós felülvizsgálati címmé emeli."
+        },
+        {
+          "text": "A Nold-ügy szerint a puszta kereskedelmi lehetőség elvesztése önmagában mindig a tulajdonjog lényegének sérelme.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a puszta kereskedelmi lehetőséget a Nold-formula védendő magjává emeli. A helyes: a C-4/73. sz. Nold-ügy 14. pontja szerint egy adott vállalkozásnak nyújtott garanciák semmiképpen sem terjeszthetők ki pusztán kereskedelmi érdekek vagy lehetőségek védelmére, amelyek bizonytalanságai a gazdasági tevékenység lényegéhez tartoznak. A 15–16. pont a keresetet megalapozatlannak találta. A tévedés a felperes 12. pontbeli állítását teszi szabállyá."
+        },
+        {
+          "text": "A Nold-formula a nemzetközi emberi jogi szerződéseket a közös alkotmányos hagyományok kizárásával, azok helyett alkalmazza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Nold kettős forrástant egymást kizáró hierarchiává olvassa. A helyes: a C-4/73. sz. Nold-ügy 13. pontja szerint a Bíróság köteles a közös alkotmányos hagyományokból meríteni, és hasonlóképpen a tagállamok által kidolgozott vagy aláírt nemzetközi emberi jogi szerződések iránymutatást adhatnak a közösségi jog keretein belül. A két forrás egymás mellett áll, nem egymás helyett. A tévedés a „helyettesítő” olvasatból ered, mintha a nemzetközi szerződés kizárná a hagyományokat."
+        },
+        {
+          "text": "Az Orkem-ügy a versenyjogi vizsgálat alá vont vállalkozásnak általános hallgatási jogot biztosít minden ténybeli kérdésre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az Orkem-mércét általános hallgatási joggá tágítja a versenyjogi vizsgálatban. A helyes: a C-374/87. sz. Orkem-ügy szerint a Bizottság a 17. sz. rendelet 11. cikke alapján jogosult a szükséges tényekre és dokumentumokra vonatkozó információ átadására kötelezni, de nem kényszeríthet beismerő válaszokra; a II. szakasz 1. c) alpontja és a III. szakasz 1–2. pontja ezért megsemmisítendő. A tévedés a beismerés-tilalmat teljes hallgatási joggá olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "5acf393d5279"
+    }
+  ]
+}

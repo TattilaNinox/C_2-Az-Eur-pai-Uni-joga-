@@ -1,0 +1,657 @@
+{
+  "id": "rJe3T79267qNDFgHqRTs",
+  "sorszam": 13,
+  "cim": "A rendelet joghatásai, jellemzői és viszonya a nemzeti joghoz; a (...)",
+  "generationType": "fogalom",
+  "title": "13. A rendelet joghatásai, jellemzői és viszonya a nemzeti joghoz; a (...)",
+  "questions": [
+    {
+      "question": "Mely három kumulatív ismérv jellemzi a rendeletet az EUMSZ 288. cikk szerint?",
+      "options": [
+        {
+          "text": "A rendelet személyi hatálya csak a megjelölt címzettekre szűkül, ezért értesítéssel lép hatályba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a címzett határozat személyi szűkítését írja a rendeletre. Az EUMSZ 288. cikk szerint a rendelet általános hatályú, nem megjelölt címzettekhez kötött. A címzetti megjelölés a határozatra vonatkozik; a 297. cikk (2) bekezdése szerinti értesítés a címzetti kört tartalmazó határozat hatálybalépési pályája. A rendelet a Hivatalos Lapi kihirdetés pályáján marad."
+        },
+        {
+          "text": "A rendelet általános hatállyal bír, teljes egészében kötelező, és közvetlenül alkalmazandó valamennyi tagállamban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 288. cikk a rendeletet három kumulatív ismérvvel írja le. A norma szerint a rendelet általános hatállyal bír, teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban. Az általános hatály elvont-általános norma: nem megnevezett címzettekhez, hanem tényállásra szól. A teljes kötelező erő kizárja, hogy a tagállam a rendelkezések között válogasson vagy a rendeletet célnormává silányítsa."
+        },
+        {
+          "text": "A három ismérv együtt olvasandó: egyik sem pótolja a másikat, és együtt határolják el a rendeletet az irányelvtől és a címzett határozattól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három ismérv együtt olvasandó, egyik sem pótolja a másikat. Az általános hatály a címzett határozattól választja el a rendeletet, mert ott a személyi kör megjelöléssel szűkíthető. A teljes kötelező erő az irányelv célnorma-szerkezetétől határol, ahol csak az elérendő cél kötelező. A közvetlen alkalmazás a nemzeti jogrendben forrásjelleget ad: a 297. cikk szerinti kihirdetés után a tagállami jogalkalmazó a saját jogával azonos síkon hivatkozhat rá."
+        },
+        {
+          "text": "A rendelet csak az elérendő célokat illetően kötelező, a forma és az eszközök a nemzeti hatóságoknál maradnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a rendeletet az irányelv ismérveivel írja felül. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően kötelező, a forma és az eszközök megválasztását a nemzeti hatóságokra hagyja. A rendelet viszont teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban. A helyes elhatárolás: célnorma az irányelv, forrásjellegű teljes kötelező erő a rendelet."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "2b325a08b7d3"
+    },
+    {
+      "question": "Mit rögzít az EUMSZ 288. cikk a határozat kötelező erejéről és személyi hatályáról?",
+      "options": [
+        {
+          "text": "A külön címzetti kört nem tartalmazó határozat a 297. cikk szerint a rendelettel azonos kihirdetési és hatálybalépési pályán marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyi hatály és a 297. cikk eljárási következménye összekapcsolódik. A 297. cikk (2) bekezdése a külön címzetti kört nem tartalmazó határozatot a Hivatalos Lapban kihirdetendő aktusok közé sorolja, a megjelölt napon vagy a kihirdetést követő huszadik napon. A címzetti kört tartalmazó határozatnál viszont az értesítés a hatály feltétele. A két fajta tehát a 288. cikk „amennyiben” fordulatából következik."
+        },
+        {
+          "text": "A határozat teljes egészében kötelező; ha külön megjelöli a címzettjeit, kizárólag azokra nézve kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozat kötelező ereje a rendelettel azonos intenzitású, nem célnorma. Az EUMSZ 288. cikk szerint a határozat teljes egészében kötelező, és amennyiben külön megjelöli a címzettjeit, kizárólag azokra nézve kötelező, akiket címzettként megjelöl. A személyi hatály tehát a címzetti megjelöléssel szűkíthető; a „amennyiben” fordulat nyitja a címzetti és a címzetti kör nélküli fajtát. A 297. cikk (2) bekezdése a címzetti kört tartalmazó határozatnál az értesítést a hatály feltételévé teszi."
+        },
+        {
+          "text": "A határozat soha nem lehet általános hatályú, mert a 288. cikk minden határozatot címzetti körhöz köt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a címzetti megjelölést kötelezővé teszi minden határozatra. A 288. cikk a címzetti szűkítést feltételesen („amennyiben külön megjelöli”) adja; a címzetti kör nélküli határozat e ponton a rendelethez közelít, és a 297. cikk kihirdetéssel kezeli. A 263. cikk ötödik bekezdése e fajtát a rendeleti jellegű aktus kereshetőségi ágához is kötheti. A tévedés a feltételes szabály kötelezővé olvasásából ered."
+        },
+        {
+          "text": "A határozat csak az elérendő célokban kötelező, a végrehajtás eszközeit a címzett szabadon választja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a határozatot irányelvé alakítja. Az EUMSZ 288. cikk szerint a határozat teljes egészében kötelező; a cél–forma–eszköz megosztás az irányelvet jellemzi, ahol csak az elérendő cél kötelező. A helyes: a határozat kötelező ereje a rendelettel azonos intenzitású, a különbség a személyi hatály szűkíthetőségében van. A tévedés a célnorma és a teljes kötelező erő összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "4b54139cb93b"
+    },
+    {
+      "question": "Miben tér el a 288. cikk szerinti uniós határozat a 1215/2012/EU rendelet „határozat” fogalmától?",
+      "options": [
+        {
+          "text": "A 288. cikk határozata uniós jogi aktus; a 1215/2012/EU rendelet 2. cikke szerinti határozat tagállami bírósági termék.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két „határozat” jelentése elválik. Az EUMSZ 288. cikk a határozatot az Unió intézményei által elfogadott, teljes egészében kötelező aktusformaként rögzíti. A 1215/2012/EU rendelet 2. cikke viszont e rendelet alkalmazásában a tagállami bíróság ítéletét, végzését, határozatát vagy végrehajtási intézkedését érti határozaton. A brüsszeli fogalom nem írja felül a 288. cikk uniós határozatát."
+        },
+        {
+          "text": "A 1215/2012/EU rendelet elismerési és végrehajtási szabályai a nemzeti bírósági határozatra vonatkoznak, nem a 288. cikk uniós határozatára.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet a nemzeti bírósági termék uniós sorsát rendezi. A 1215/2012/EU rendelet 36. cikk (1) bekezdése szerint a valamely tagállamban hozott határozatot a többi tagállamban külön eljárás nélkül elismerik; a 39. cikk a végrehajthatóságot is végrehajthatóvá nyilvánítás nélkül adja. Ez a brüsszeli „határozat” a 2. cikk szerinti ítélet, végzés vagy végrehajtási intézkedés. A 288. cikk uniós határozatának megsemmisítése a 263–264. cikk pályáján fut."
+        },
+        {
+          "text": "A 2019/1111/EU rendelet „határozat” fogalma a 288. cikk szerinti ajánlást jelenti a házassági ügyekben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a házassági rendelet fogalmát a nem kötelező ajánlással keveri. A 2019/1111/EU rendelet 2. cikke a házasságot felbontó, a különválást megállapító, a házasságot érvénytelenítő vagy a szülői felelősségre vonatkozó tagállami bírósági aktust érti határozaton. Az ajánlás a 288. cikk utolsó albekezdése szerint nem kötelező. A tévedés a nemzeti bírósági termék és a 288. cikk ajánlásának összecseréléséből ered."
+        },
+        {
+          "text": "A 1215/2012/EU rendelet 2. cikke a 288. cikk uniós határozatát határozza meg újra, és ezzel felülírja a szerződéses katalógust.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a brüsszeli fogalommeghatározást szerződésmódosítássá emeli. A 1215/2012/EU rendelet 2. cikke csak e rendelet alkalmazásához rögzíti a „határozat” jelentését; e definíciók a 288. cikk uniós határozatát nem írják felül és nem helyettesítik. A helyes: egy 288. cikk szerinti rendelet általános hatályú szabálya határozza meg, melyik nemzeti bírósági termék esik az elismerés alá. A tévedés a két jelentés azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "c5d83317387b"
+    },
+    {
+      "question": "Mely aktusformák esnek a 288. cikk szerinti kényszerítő erőn kívül, és mi a megsemmisítési keresetbeli következményük?",
+      "options": [
+        {
+          "text": "Az ajánlás teljes egészében kötelező, de csak a megjelölt címzettekre nézve, ezért a 263. cikk alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az ajánlást a címzett határozat ismérveivel ruházza fel. Az EUMSZ 288. cikk szerint az ajánlások nem kötelezőek; a teljes kötelező erő és a címzetti szűkítés a határozatot jellemzi. A 263. cikk az ajánlást és a véleményt a jogszerűségi vizsgálat alól kiveszi. A tévedés a 288. cikk határozati és ajánlási albekezdésének összecseréléséből ered."
+        },
+        {
+          "text": "Az ajánlások és a vélemények nem kötelezőek, és a 263. cikk a jogszerűségi vizsgálat alól is kiveszi őket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 288. cikk utolsó albekezdése a kötelező formák határát adja. A norma szerint „Az ajánlások és a vélemények nem kötelezőek.” A 263. cikk a jogalkotási aktusok, valamint a Tanács, a Bizottság és az Európai Központi Bank jogi aktusai jogszerűségét vizsgálja, kivéve az ajánlásokat és a véleményeket. A nem kötelező forma tehát a megsemmisítési keresetből is kiesik."
+        },
+        {
+          "text": "A rendelet és a határozat e határon innen áll: teljes kötelező erővel, a 297. cikk szerinti hatálybalépéssel és a 263–264. cikk szerinti semmisséggel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelező és a nem kötelező oldal elválik. A 288. cikk a rendeletet és a határozatot teljes kötelező erővel ruházza fel; a 297. cikk a hatálybalépést, a 263–264. cikk a semmisséget, a 299. cikk a vagyoni végrehajthatóságot kapcsolja hozzájuk. Az ajánlás és a vélemény e kényszerítő és kereshetőségi pályán kívül marad. A 292. cikk a Tanács ajánlás-elfogadási hatáskörét külön is említi."
+        },
+        {
+          "text": "A vélemény a 299. cikk szerint vagyoni kötelezettséget róhat a magánjogalanyokra, és nemzeti végrehajtási záradékot kap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nem kötelező véleményt a 299. cikk vagyoni végrehajtási pályájára helyezi. A 299. cikk a Tanács, a Bizottság vagy az Európai Központi Bank azon jogi aktusait — a rendeletet és a határozatot is — teszi végrehajthatóvá, amelyek az államokat kivéve a jogalanyokra vagyoni kötelezettséget rónak. Az EUMSZ 288. cikk utolsó albekezdése szerint az ajánlások és a vélemények nem kötelezőek, ezért e végrehajtási záradék nem nyílik meg rájuk. A tévedés a kötelező aktusok végrehajtási szabályának ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "a19640b28ce6"
+    },
+    {
+      "question": "Hogyan írja elő az EUMSZ 297. cikk a jogalkotási aktusok aláírását, kihirdetését és hatálybalépését?",
+      "options": [
+        {
+          "text": "A különleges jogalkotási eljárás aktusát nem kell kihirdetni, mert az aláírás önmagában pótolja a nyilvánosságot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a különleges eljárás aktusát kiveszi a Hivatalos Lapból. Az EUMSZ 297. cikk (1) bekezdése a különleges eljárásban az elfogadó intézmény elnökének aláírását írja elő, de ugyanezen bekezdés szerint a jogalkotási aktusokat a Hivatalos Lapban ki kell hirdetni. Az aláírás az elfogadót azonosítja, a kihirdetés a nyilvánosságot és a hatálybalépési pályát adja. A tévedés az aláírás és a kihirdetés funkciójának összecseréléséből ered."
+        },
+        {
+          "text": "A jogalkotási aktust mindig csak a Bizottság elnöke írja alá, és értesítéssel lép hatályba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az aláírót és a hatálybalépést is elcsúsztatja. Az EUMSZ 297. cikk (1) bekezdése szerint rendes eljárásban a Parlament és a Tanács elnöke ír alá együtt; különleges eljárásban az elfogadó intézmény elnöke. A jogalkotási aktust kihirdetni kell, nem értesítéssel hatályba léptetni; az értesítés a címzetti kört tartalmazó határozatra és az egyéb irányelvre vonatkozik. A tévedés a (2) bekezdés értesítési ágának ráírásából ered."
+        },
+        {
+          "text": "Ha a jogalkotási aktus nem jelöl meg hatálybalépési napot, a kihirdetését követő huszadik napon lép hatályba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a huszadik nap a kihirdetett jogalkotási aktusok diszpozitív időpontja. Az EUMSZ 297. cikk (1) bekezdése szerint a jogalkotási aktusok „a bennük megjelölt napon, illetve ennek hiányában a kihirdetésüket követő huszadik napon lépnek hatályba.” Ugyanez a huszadik napos szabály a (2) bekezdésben a kihirdetett nem jogalkotási rendeletre, irányelvre és címzetti kör nélküli határozatra is érvényes. Az értesített címzett határozatnál viszont a hatály az értesítés ténye."
+        },
+        {
+          "text": "Rendes jogalkotási eljárásban az Európai Parlament elnöke és a Tanács elnöke együtt ír alá; a jogalkotási aktust a Hivatalos Lapban ki kell hirdetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk (1) bekezdése a jogalkotási aktusok pályáját adja. Rendes eljárásban az Európai Parlament elnöke és a Tanács elnöke írja alá az aktust; különleges eljárásban az azt elfogadó intézmény elnöke. A jogalkotási aktusokat az Európai Unió Hivatalos Lapjában ki kell hirdetni. A hatály a bennük megjelölt napon, illetve ennek hiányában a kihirdetést követő huszadik napon áll be."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "0c848ea8f91e"
+    },
+    {
+      "question": "Mikor lép hatályba a címzetti kört tartalmazó határozat, és miben különbözik ez a kihirdetett aktusoktól?",
+      "options": [
+        {
+          "text": "A címzett határozat is mindig a kihirdetést követő huszadik napon lép hatályba, az értesítés csak tájékoztató.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a huszadik napot az értesített határozatra is kiterjeszti. Az EUMSZ 297. cikk (2) bekezdése szerint a címzetti kört tartalmazó határozatok az értesítéssel lépnek hatályba; a huszadik nap a kihirdetett aktusok diszpozitív ideje. A helyes: az értesítés a hatály feltétele, nem puszta tájékoztatás. A tévedés a két hatálybalépési pálya összecseréléséből ered."
+        },
+        {
+          "text": "A címzetti kört tartalmazó határozatról értesíteni kell a címzetteket, és az értesítéssel lép hatályba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk (2) bekezdése a személyi szűkítés eljárási következményét adja. A norma szerint az egyéb irányelvekről és a címzetti kört tartalmazó határozatokról értesíteni kell a címzettjeiket, és azok az értesítéssel lépnek hatályba. A huszadik nap csak a kihirdetett aktusoknál a diszpozitív időpont. A 288. cikk szerinti címzetti megjelölés tehát a hatálybalépés módját is eldönti."
+        },
+        {
+          "text": "Az értesítés csak az ajánlásra vonatkozik; a határozat mindig kihirdetéssel hatályosul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az értesítést a nem kötelező ajánlásra korlátozza. Az EUMSZ 297. cikk (2) bekezdése az egyéb irányelvekről és a címzetti kört tartalmazó határozatokról rendelkezik értesítéssel; az ajánlás a 288. cikk szerint nem kötelező, és nem e hatálybalépési szabály tárgya. A rendelet és a címzetti kör nélküli határozat kihirdetési pályán marad. A tévedés a kötelező és nem kötelező formák eljárási szabályainak keveréséből ered."
+        },
+        {
+          "text": "A külön címzetti kört nem tartalmazó határozatot a Hivatalos Lapban ki kell hirdetni, és a megjelölt napon vagy a kihirdetést követő huszadik napon lép hatályba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címzetti kör nélküli határozat a rendelettel azonos nyilvánosságot kap. Az EUMSZ 297. cikk (2) bekezdése a valamennyi tagállamnak címzett rendeletet és irányelvet, valamint a külön címzetti kört nem tartalmazó határozatot a Hivatalos Lapba utalja. A hatály a megjelölt napon, illetve ennek hiányában a kihirdetést követő huszadik napon áll be. Így a 288. cikk két határozati fajtája a 297. cikkben két pályára válik szét."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "72918a82e727"
+    },
+    {
+      "question": "Mit jelent a rendelet közvetlen alkalmazása a 291. cikk (1) bekezdése szerinti nemzeti intézkedések mellett?",
+      "options": [
+        {
+          "text": "A közvetlen alkalmazás azt jelenti, hogy a tagállamnak tilos bármilyen nemzeti végrehajtási szabályt alkotnia a rendelethez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közvetlen alkalmazást a nemzeti végrehajtás teljes tilalmává torzítja. Az EUMSZ 291. cikk (1) bekezdése éppen a kötelező erejű uniós aktusok — ideértve a rendeletet — végrehajtásához szükséges nemzeti intézkedések elfogadását írja elő. A helyes: a rendelet maga a norma, a nemzeti intézkedés ott egészít, ahol a rendelet teret hagy vagy a foganatosítás nemzeti eljárást kíván. A tévedés a forrásjelleg és a végrehajtási kiegészítés összecseréléséből ered."
+        },
+        {
+          "text": "A nemzeti intézkedés ott egészít ki, ahol a rendelet teret hagy, vagy ahol a végrehajtás tényleges foganatosítása nemzeti eljárást kíván.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 291. cikk (1) bekezdése a lojális végrehajtás nemzeti szárnyát adja. A tagállamok nemzeti jogukban elfogadják a kötelező erejű uniós aktusok — ideértve a rendeletet — végrehajtásához szükséges intézkedéseket. A közvetlen alkalmazás a forrásjelleget adja; a nemzeti intézkedés ott egészít ki, ahol a rendelet teret hagy, vagy ahol a foganatosítás nemzeti eljárást kíván. A 291. cikk (2) bekezdése szerinti bizottsági végrehajtási hatáskör más kérdés: csak egységes feltételekhez nyílik."
+        },
+        {
+          "text": "A 291. cikk (2) bekezdése szerint a Bizottság mindig, indokolás nélkül átveheti a rendelet végrehajtását a tagállamoktól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a bizottsági végrehajtási hatáskört feltétel nélküli főszabállyá emeli. Az EUMSZ 291. cikk (2) bekezdése csak akkor ruház végrehajtási hatáskört a Bizottságra, ha a végrehajtásnak egységes feltételek szerint kell történnie; a Tanácsra csak különleges, kellően indokolt, illetve az EUSZ 24. és 26. cikk szerinti esetekben. Az (1) bekezdés főszabálya a nemzeti végrehajtás. A tévedés a kivételes uniós szárny általánosításából ered."
+        },
+        {
+          "text": "A közvetlen alkalmazás forrásjelleget ad: alkotó átültetés a kötelező erőhöz nem kell, a nemzeti intézkedés a végrehajtást egészíti ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szabály nem zárja ki egymást. A 288. cikk szerinti közvetlen alkalmazás azt jelenti, hogy a rendelet a kihirdetés után a tagállami jogalkalmazó előtt forrás; alkotó átültető törvény a kötelező erőhöz nem kell. A 291. cikk (1) bekezdése viszont előírja, hogy a tagállamok nemzeti jogukban elfogadják a kötelező erejű uniós jogi aktusok végrehajtásához szükséges intézkedéseket. A nemzeti aktus tehát kiegészít, nem pótolja a rendelet forrásjellegét."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "97957caafd38"
+    },
+    {
+      "question": "Milyen kereshetőségi ágakat nyit a 263. cikk ötödik bekezdése a magánfélnek a rendelet és a határozat ellen?",
+      "options": [
+        {
+          "text": "A természetes vagy jogi személy eljárást indíthat a neki címzett, illetve az őt közvetlenül és személyében érintő jogi aktusok ellen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 263. cikk ötödik bekezdése a magánfél első két ágát adja. Bármely természetes vagy jogi személy a neki címzett aktus ellen indíthat eljárást; a második ág a közvetlenül és személyében érintő, nem neki címzett aktus. A címzett határozatnál a címzés általában elég; aki nem címzett, annak a közvetlen és személyes érintettség kell. A keresetet az intézkedés kihirdetésétől, közlésétől, illetve a tudomásszerzéstől számított két hónapon belül kell megindítani."
+        },
+        {
+          "text": "A magánfél csak a 288. cikk szerinti ajánlás ellen indíthat megsemmisítési keresetet, mert az a legkönnyebben támadható forma.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nem kötelező ajánlást teszi a magánfél fő kereseti tárgyává. Az EUMSZ 263. cikk a jogszerűségi vizsgálat alól kiveszi az ajánlásokat és a véleményeket; a magánfél ágai a címzett, a közvetlenül és személyében érintő, valamint a végrehajtási intézkedés nélküli rendeleti jellegű aktusra nyílnak. A helyes: a kötelező aktusok kontrollja, nem az ajánlásé. A tévedés a 288. cikk nem kötelező formáinak és a 263. cikk hatályának összecseréléséből ered."
+        },
+        {
+          "text": "A két hónapos keresetindítási határidő csak a privilégizált felperesekre vonatkozik; a magánfél határidő nélkül perelhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a határidőt a privilégizált felperesekre korlátozza. Az EUMSZ 263. cikk szerint az e cikkben szabályozott eljárásokat az intézkedés kihirdetésétől vagy a felperessel történő közlésétől, illetve ennek hiányában a tudomásszerzéstől számított két hónapon belül kell megindítani — ez a magánfél keresetére is vonatkozik. A privilégizált felperes a tagállam, a Parlament, a Tanács és a Bizottság. A tévedés a felperesi státusz és a határidő szétválasztásából ered."
+        },
+        {
+          "text": "A magánfél megtámadhatja az őt közvetlenül érintő, rendeleti jellegű jogi aktust is, ha az nem von magával végrehajtási intézkedéseket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harmadik ág a végrehajtási intézkedés nélküli rendeleti jellegű aktus. Az EUMSZ 263. cikk ötödik bekezdése szerint a magánfél eljárást indíthat az őt közvetlenül érintő olyan rendeleti jellegű jogi aktusok ellen, amelyek nem vonnak maguk után végrehajtási intézkedéseket. Ahol a rendelet önmagában hat, a fél nem várhatja meg a nemzeti intézkedést. Ha a kereset megalapozott, a 264. cikk szerint a Bíróság a megtámadott aktust semmisnek nyilvánítja."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "33544c69b68d"
+    },
+    {
+      "question": "Mit jelent a 288. cikk formakatalógusának zártsága?",
+      "options": [
+        {
+          "text": "Az Unió hatásköreinek gyakorlásához a 288. cikk öt aktusformát rendel: rendelet, irányelv, határozat, ajánlás és vélemény.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a katalógus szerződéses és zárt. Az EUMSZ 288. cikk szerint az intézmények rendeleteket, irányelveket, határozatokat, ajánlásokat és véleményeket fogadnak el. Ez nem stilisztikai választék, hanem a kötelező erő, a személyi-tárgyi hatály és a nemzeti joghoz való viszony elhatárolása. A rendelet és a határozat a kötelező oldal két alaptípusa; az ajánlás és a vélemény e kényszerítő erőn kívül esik."
+        },
+        {
+          "text": "A hatályos 288. cikk a szerződésen kívüli felelősséget szabályozza, ezért a formakatalógus máshová került.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a régi számozást olvassa a hatályos cikkre. A megfelelési táblázat szerint a korábbi EK-Szerződés 249. cikke a hatályos 288. cikk helyére lép, a régi 288. cikk pedig a szerződésen kívüli felelősség 340. cikkévé vált. A hatályos 288. cikk tehát a formakatalógust adja: rendelet, irányelv, határozat, ajánlás és vélemény. A 340. cikk a szerződésen kívüli felelősségi sík, nem az aktusforma-katalógus: a régi 288. → 340. csere éppen azt mutatja, hogy a felelősségi klauzula és a formakatalógus elvált."
+        },
+        {
+          "text": "Ami nem e formák egyike, az nem e cikk szerinti uniós jogi aktus; a 296. cikk a típusválasztást e zárt katalóguson belül köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a zártság azt jelenti, hogy a 288. cikk öt formája a hatáskörgyakorlás szerződéses kerete. Ami kívül esik, az nem e cikk szerinti uniós jogi aktus. A 296. cikk a típus megválasztását — ha a Szerződések nem határozzák meg — az arányosság elvéhez köti, de új formát nem nyit a katalóguson kívül. A forma tehát nem szabad stilisztika, hanem a 288. cikk zárt listáján belüli választás."
+        },
+        {
+          "text": "A 288. cikk katalógusa nyitott: az intézmények bármely egyéb aktusformát is e cikk alá sorolhatnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a katalógust nyílttá teszi. Az EUMSZ 288. cikk öt formát nevesít; ami nem e formák egyike, az nem e cikk szerinti uniós jogi aktus. A 296. cikk a típusválasztást e kereten belül, az arányosság elvével összhangban engedi, ha a Szerződések a típust maguk nem határozzák meg. Új, hatodik forma e cikk alá nem sorolható be."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "9279bad6005d"
+    },
+    {
+      "question": "Miben különbözik az irányelv a rendelettől a 288. cikk szerinti kötelező erő szempontjából?",
+      "options": [
+        {
+          "text": "A rendelet teljes kötelező ereje azt is jelenti, hogy a tagállam nem silányíthatja a rendeletet célnormává.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a teljes kötelező erő a rendeletet elválasztja az irányelvtől. A 288. cikk szerinti rendelet rendelkezései — a szankciókra, a joghatóságra, az elismerésre vonatkozó szabályok is — kényszerítőek; a tagállam nem válogathat közöttük. Az irányelv csak a célban köt. A 261. cikk e teljes erőt a szankciós oldalon is megerősíti: a rendeletek a bennük előírt szankciók tekintetében korlátlan felülvizsgálati jogkört ruházhatnak a Bíróságra."
+        },
+        {
+          "text": "Az irányelv az elérendő célokat illetően kötelező, a forma és az eszközök megválasztását a nemzeti hatóságokra hagyja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv a rendelet tükörképe. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően minden címzett tagállamra kötelező, azonban a forma és az eszközök megválasztását a nemzeti hatóságokra hagyja. A rendelet viszont teljes egészében kötelező és közvetlenül alkalmazandó. A két forma tehát a nemzeti joghoz való viszonyban válik el."
+        },
+        {
+          "text": "Az irányelv is közvetlenül alkalmazandó valamennyi tagállamban, ugyanazokkal az ismérvekkel, mint a rendelet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az irányelvet a rendelet három ismérvével ruházza fel. Az EUMSZ 288. cikk a közvetlen alkalmazást a rendeletnek tartja fenn; az irányelvnél csak a cél kötelező, a forma és az eszköz a nemzeti hatóságoknál marad. A helyes: az irányelv nem a rendelet általános hatályú, teljes kötelező és közvetlenül alkalmazandó szerkezete. A tévedés a két kötelező alaptípus ismérveinek összecseréléséből ered."
+        },
+        {
+          "text": "A rendelet csak a célt írja elő; a nemzeti hatóság választja meg a teljes kötelező erőt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a rendeletet irányelvé fordítja. Az EUMSZ 288. cikk szerint a rendelet teljes egészében kötelező és közvetlenül alkalmazandó; a cél–forma–eszköz megosztás az irányelvet jellemzi. A helyes: a tagállam a rendeletnél nem válogathat a rendelkezések között, és nem silányíthatja célnormává. A tévedés a tükörkép két oldalának felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "5f56af29c072"
+    },
+    {
+      "question": "Mit rögzít a 299. cikk a vagyoni kötelezettséget róó uniós aktusok nemzeti végrehajtásáról?",
+      "options": [
+        {
+          "text": "A végrehajtást csak az Európai Unió Bíróságának határozata alapján lehet felfüggeszteni; a végrehajtási eljárás szabálytalanságára a nemzeti bíróságok rendelkeznek hatáskörrel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 299. cikk a felfüggesztés és a foganatosítási panasz hatáskörét szétválasztja. A felfüggesztés monopolja a Bíróságé, mert az aktus uniós. A végrehajtási eljárás hibája viszont nemzeti per, mert a 299. cikk a foganatosítást a lex fori polgári eljárására bízza. Ugyanez a minta jelenik meg a 1215/2012/EU rendelet 41. cikkében: az uniós rendelet az elismerést adja, a címzett tagállam joga a végrehajtási eljárást."
+        },
+        {
+          "text": "A Tanács, a Bizottság vagy az Európai Központi Bank olyan rendelete és határozata, amely az államokat kivéve a jogalanyokra vagyoni kötelezettséget ró, végrehajtható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 299. cikk a 288. cikk szerinti teljes kötelező erő nemzeti foganatosítása. A végrehajtásra annak az államnak a hatályos polgári eljárási szabályai vonatkoznak, amelynek területén a végrehajtásra sor kerül. A határozatot végrehajtási záradékkal a kijelölt nemzeti hatóság látja el — az okirat valódiságának vizsgálatán kívül minden más ellenőrzést mellőzve. Az uniós aktus a kötelezettséget maga veti ki; a záradékoláskor a jogszerűséget nem vizsgálják felül."
+        },
+        {
+          "text": "A nemzeti hatóság a záradékoláskor teljes körűen felülvizsgálhatja az uniós aktus jogszerűségét, és megtagadhatja a végrehajtást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a záradékoló hatóságot jogszerűségi bíróvá emeli. Az EUMSZ 299. cikk szerint a kijelölt nemzeti hatóság az okirat valódiságának vizsgálatán kívül minden más ellenőrzést mellőz; a felfüggesztés csak a Bíróság határozata alapján lehetséges. A helyes: a záradék alaki, nem érdemi kontroll. A tévedés a nemzeti végrehajtási eljárás és az uniós aktus jogszerűségi kontrolljának összecseréléséből ered."
+        },
+        {
+          "text": "A 299. cikk csak az ajánlásra vonatkozik, mert a rendelet és a határozat nem róhat vagyoni kötelezettséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 299. cikk tárgyi hatályát a nem kötelező ajánlásra szűkíti. A 299. cikk a rendeletet és a határozatot is említi, ha az államokat kivéve a jogalanyokra vagyoni kötelezettséget rónak; az ajánlás a 288. cikk szerint nem kötelező. A helyes: a kötelező aktusok vagyoni foganatosítása. A tévedés a kötelező és nem kötelező formák végrehajtási szabályának keveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "db2df4f8ab34"
+    },
+    {
+      "question": "Mikor minősül a rendelet vagy a határozat jogalkotási aktusnak a 289. cikk szerint?",
+      "options": [
+        {
+          "text": "Minden rendelet automatikusan jogalkotási aktus, a 289. cikk szerinti eljárástól függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a formát a jogalkotási minőséggel azonosítja. Az EUMSZ 289. cikk szerint a jogalkotási eljárás keretében elfogadott jogi aktusok minősülnek jogalkotási aktusnak; a 288. cikk szerinti rendelet forma lehet jogalkotási és nem jogalkotási is. A helyes: a 290. cikk szerinti felhatalmazáson alapuló rendelet tipikusan nem jogalkotási, általános hatályú aktus. A tévedés a forma és az eljárás összecseréléséből ered."
+        },
+        {
+          "text": "A jogalkotási eljárás keretében elfogadott jogi aktusok jogalkotási aktusoknak minősülnek; a rendes eljárás a Parlament és a Tanács közös elfogadása a Bizottság javaslata alapján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalkotási minőség az eljáráshoz kötött, nem a forma önmagában dönt. Az EUMSZ 289. cikk szerint a rendes jogalkotási eljárás rendeleteknek, irányelveknek vagy határozatoknak a Bizottság javaslata alapján, az Európai Parlament és a Tanács által történő közös elfogadásából áll; az eljárást a 294. cikk határozza meg. A különleges jogalkotási eljárás a Szerződések által külön meghatározott esetekben a Tanács vagy a Parlament elfogadása a másik közreműködésével. A 288. cikk a formát adja, a 289. cikk pedig azt, hogy az eljárás keretében elfogadott aktus jogalkotási aktus."
+        },
+        {
+          "text": "Jogalkotási aktus csak határozat formájában fogadható el; rendelet soha nem lehet jogalkotási.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a jogalkotási minőséget a határozatra korlátozza. Az EUMSZ 289. cikk a rendes eljárásban rendeleteknek, irányelveknek vagy határozatoknak a közös elfogadását említi; a jogalkotási eljárás keretében elfogadott aktusok jogalkotási aktusok. A helyes: a rendelet is lehet jogalkotási aktus. A tévedés a 288. cikk formáinak és a 289. cikk minőségének összecseréléséből ered."
+        },
+        {
+          "text": "Külön meghatározott esetekben jogalkotási aktus a tagállamok egy csoportjának vagy a Parlament kezdeményezésére, az Európai Központi Bank ajánlására, illetve a Bíróság vagy az Európai Beruházási Bank kérelme alapján is elfogadható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 289. cikk a jogalkotási minőséget az eljáráshoz köti, és a kezdeményezési kivételeket is e minőséghez kapcsolja. Az EUMSZ 289. cikk szerint a jogalkotási eljárás keretében elfogadott jogi aktusok jogalkotási aktusoknak minősülnek. Külön meghatározott esetekben jogalkotási aktus a tagállamok egy csoportjának vagy a Parlament kezdeményezésére, az Európai Központi Bank ajánlására, illetve a Bíróság vagy az Európai Beruházási Bank kérelme alapján is elfogadható. A 297. cikk aláírás–kihirdetés elválasztása a minőség láthatóvá tétele, nem maga a 289. szerinti minősítési ismérv."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "5dd01c7cbf62"
+    },
+    {
+      "question": "Milyen feltételekkel adható felhatalmazás a Bizottságnak a 290. cikk szerinti általános hatályú nem jogalkotási aktusra?",
+      "options": [
+        {
+          "text": "A felhatalmazáson alapuló aktus címében tilos a „felhatalmazáson alapuló” kifejezés, mert az megtévesztené a címzetteket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kötelező címkét tilalomra fordítja. Az EUMSZ 290. cikk szerint a címben fel kell tüntetni a „felhatalmazáson alapuló” kifejezést; ugyanez a logika a 291. cikk (4) bekezdésében a „végrehajtási” címkére. A helyes: a címke az aktus jellegét teszi láthatóvá. A tévedés a kötelező megjelölés és a megtévesztés tilalmának összecseréléséből ered."
+        },
+        {
+          "text": "A Bizottság a felhatalmazás alapján a szabályozási terület alapvető elemeit is módosíthatja, ha sürgős az ügy.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a sürgősséggel feloldja az alapvető elemek tilalmát. Az EUMSZ 290. cikk szerint az adott szabályozási terület alapvető elemei kizárólag a jogalkotási aktusban szabályozhatók, ezekre felhatalmazás nem adható — sürgősségi kivétel nélkül. A helyes: a felhatalmazás csak a nem alapvető rendelkezések kiegészítésére vagy módosítására szól. A tévedés a 290. cikk tárgyi korlátjának figyelmen kívül hagyásából ered."
+        },
+        {
+          "text": "Az Európai Parlament vagy a Tanács a felhatalmazást visszavonhatja, és a felhatalmazáson alapuló aktus csak akkor léphet hatályba, ha a jogalkotási aktusban előírt határidőn belül nem emelnek ellene kifogást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felhatalmazás gyakorlását két intézményi kontroll köti. Az EUMSZ 290. cikk szerint az Európai Parlament vagy a Tanács a felhatalmazást visszavonhatja, és a felhatalmazáson alapuló aktus csak akkor léphet hatályba, ha a jogalkotási aktusban előírt határidőn belül nem emelnek ellene kifogást. A visszavonáskor a Parlament a tagok többségével, a Tanács minősített többséggel jár el. A címben fel kell tüntetni a „felhatalmazáson alapuló” kifejezést; a 1215/2012/EU rendelet 78. cikke e mintát ágazati szabályban is mutatja."
+        },
+        {
+          "text": "A jogalkotási aktusban felhatalmazás adható a Bizottságnak olyan általános hatályú nem jogalkotási aktusok elfogadására, amelyek a jogalkotási aktusok egyes nem alapvető rendelkezéseit kiegészítik vagy módosítják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felhatalmazás csak a nem alapvető rendelkezésekre nyílik. Az EUMSZ 290. cikk szerint a jogalkotási aktusban felhatalmazás adható a Bizottságnak olyan általános hatályú nem jogalkotási aktusok elfogadására, amelyek a jogalkotási aktusok egyes nem alapvető rendelkezéseit kiegészítik vagy módosítják. Az adott szabályozási terület alapvető elemei kizárólag a jogalkotási aktusban szabályozhatók, ezekre felhatalmazás nem adható. A felhatalmazást tartalmazó jogalkotási aktusban ki kell kötni a célt, a tartalmat, az alkalmazási kört és az időtartamot."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "b45aabb428a1"
+    },
+    {
+      "question": "Mit köt a 296. cikk a jogi aktus típusának megválasztásához és az indokoláshoz?",
+      "options": [
+        {
+          "text": "A jogi aktusoknak nem kell indokolást tartalmazniuk, ha a 288. cikk szerinti rendelet formájában születnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a rendeletet kiveszi az indokolási kötelezettség alól. Az EUMSZ 296. cikk szerint a jogi aktusoknak indokolást kell tartalmazniuk, és utalniuk kell a Szerződések által előírt javaslatokra, kezdeményezésekre, ajánlásokra, kérésekre vagy véleményekre — a rendelet sem kivétel. A helyes: az indokolás formafüggetlen kötelezettség. A tévedés a rendelet közvetlen alkalmazásának indokolás-mentességgé olvasásából ered."
+        },
+        {
+          "text": "A 296. cikk lehetővé teszi, hogy a jogalkotási eljárást ajánlássá alakítsák, ha az arányosabbnak tűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a típusválasztást a jogalkotási eljárás kijátszására használja. Az EUMSZ 296. cikk szerint a Parlament és a Tanács tartózkodik az adott területen alkalmazandó jogalkotási eljárásban előírtaktól eltérő jogi aktusok elfogadásától; az ajánlás a 288. cikk szerint nem kötelező. A helyes: a kötelező jogalkotási pálya nem menekíthető ajánlásba. A tévedés az arányosság és a kötelező erő összecseréléséből ered."
+        },
+        {
+          "text": "A Parlament és a Tanács a jogalkotási aktusok tervezetének mérlegelésekor tartózkodik az adott területen alkalmazandó jogalkotási eljárásban előírtaktól eltérő jogi aktusok elfogadásától.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalkotási pálya nem menekíthető más formába. Az EUMSZ 296. cikk szerint a Parlament és a Tanács a jogalkotási aktusok tervezetének mérlegelésekor tartózkodik az adott területen alkalmazandó jogalkotási eljárásban előírtaktól eltérő jogi aktusok elfogadásától. A 289. cikk szerinti rendeletet vagy határozatot tehát nem lehet az eljárás kijátszásával más formába menekíteni. Az indokolási kötelezettség és a típusválasztás arányossága együtt olvasható: a forma nem kozmetika."
+        },
+        {
+          "text": "Ha a Szerződések nem határozzák meg a jogi aktus típusát, az intézmények az arányosság elvével összhangban, eseti alapon választanak típust.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 296. cikk a típusválasztást köti, nem nyit új formát. A választás az alkalmazandó eljárásoknak megfelelően történik. A jogi aktusoknak indokolást kell tartalmazniuk, és utalniuk kell minden olyan javaslatra, kezdeményezésre, ajánlásra, kérésre vagy véleményre, amelyet a Szerződések előírnak. A 288. cikk öt formája tehát a keret; a 296. cikk a kereten belüli választást szabályozza."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "7ff186d4fdd9"
+    },
+    {
+      "question": "Mi következik abból, ha a 1215/2012/EU rendelet szerinti tagállami bírósági határozatot egy másik tagállamban akarják elismerni vagy végrehajtani?",
+      "options": [
+        {
+          "text": "A 1215/2012/EU rendelet elismerési szabályai a 288. cikk szerinti uniós határozatra is kiterjednek, mert a szó azonos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a két „határozat” jelentését azonosítja. A 1215/2012/EU rendelet 2. cikke a tagállami bíróság ítéletét, végzését vagy végrehajtási intézkedését érti határozaton; a 288. cikk uniós határozata más forma. A helyes: a brüsszeli elismerés a nemzeti bírósági termékre szól. A tévedés a szerződéses és a rendeleti fogalom összecseréléséből ered."
+        },
+        {
+          "text": "A valamely tagállamban hozott határozatot a többi tagállamban külön eljárás előírása nélkül elismerik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 36. cikk (1) bekezdése a (26) preambulumbekezdés kölcsönös bizalmát normává emeli. A 1215/2012/EU rendelet szerint a tagállamokban hozott határozatokat automatikusan, külön eljárás nélkül elismerik. Itt a „határozat” a 2. cikk szerinti bírósági aktus, nem a 288. cikk uniós határozata. Az elismerés tehát a rendelet közvetlen alkalmazásának gyakorlati megjelenése."
+        },
+        {
+          "text": "A másik tagállamban hozott határozat végrehajtásához mindig külön végrehajthatóvá nyilvánítási eljárás kell a címzett tagállamban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a régi exequatur-logikát írja vissza. A 1215/2012/EU rendelet 39. cikke szerint a valamely tagállamban hozott, ott végrehajtható határozat egy másik tagállamban is végrehajtható anélkül, hogy azt végrehajthatóvá kellene nyilvánítani. A helyes: a végrehajthatóvá nyilvánítás eltörlése a kölcsönös bizalom következménye. A tévedés a brüsszeli rendszer előtti foganatosítási modell ráírásából ered."
+        },
+        {
+          "text": "A valamely tagállamban hozott, ott végrehajtható határozat egy másik tagállamban is végrehajtható anélkül, hogy azt végrehajthatóvá kellene nyilvánítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a végrehajthatóvá nyilvánítás eltörlése a kölcsönös bizalom következménye. A 1215/2012/EU rendelet 39. cikke szerint a valamely tagállamban hozott, ott végrehajtható határozat egy másik tagállamban is végrehajtható anélkül, hogy azt végrehajthatóvá kellene nyilvánítani. A 41. cikk (1) bekezdése szerint a végrehajtásra irányuló eljárásra a címzett tagállam joga irányadó, azonos feltételekkel az ott hozott határozatokkal. Az uniós rendelet az elismerést és a végrehajthatóságot, a nemzeti jog a foganatosítást adja."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "b104e343ce35"
+    },
+    {
+      "question": "Mely megállapítások állják meg a helyüket a rendelet általános hatályáról a 288. cikk és a 1215/2012/EU rendelet példája alapján?",
+      "options": [
+        {
+          "text": "A három rendeleti ismérv — általános hatály, teljes kötelező erő, közvetlen alkalmazás — együtt olvasandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kumulativitás a nemzeti joghoz való viszonyt már a szerződési szövegben eldönti. Az EUMSZ 288. cikk a három ismérvet egymás után adja; egyik sem helyettesíti a másikat. Az általános hatály a címzetti kört, a teljes kötelező erő a célnormává silányítást, a közvetlen alkalmazás az alkotó átültetés igényét zárja ki. A címzetti kör nélküli határozat az általános hatály pontján közelít, de a forma továbbra is határozat."
+        },
+        {
+          "text": "Az általános hatály azt jelenti, hogy a rendelet csak a megjelölt természetes személyekre kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az általános hatályt címzetti szűkítéssé fordítja. Az EUMSZ 288. cikk szerint a rendelet általános hatállyal bír; a címzetti megjelölés a határozatra vonatkozik. A helyes: az általános hatály elvont-általános norma, tényállásra szól. A tévedés a 288. cikk rendeleti és határozati ágának összecseréléséből ered."
+        },
+        {
+          "text": "A 1215/2012/EU rendelet 4. cikke csak egy megnevezett alperesre szól, ezért nem példázza az általános hatályt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a lakóhelyi tényállást egyedi címzésnek olvassa. A 1215/2012/EU rendelet 4. cikke a tagállamban lakóhellyel rendelkező személy perelhetőségét állampolgárságra tekintet nélkül adja — elvont-általános szabály. A helyes: ez a 288. cikk szerinti általános hatály tipikus megjelenése. A tévedés a tényállási norma és a címzett határozat összecseréléséből ered."
+        },
+        {
+          "text": "Az általános hatály elvont-általános norma: nem megnevezett címzettekhez szól, hanem tényállásra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az általános hatály a rendeletet elválasztja a címzett határozattól. A 1215/2012/EU rendelet 4. cikke szerint — e rendelet rendelkezéseire is figyelemmel — valamely tagállamban lakóhellyel rendelkező személy, állampolgárságára való tekintet nélkül, az adott tagállam bíróságai előtt perelhető. Ez lakóhelyi tényálláshoz szól, nem megnevezett alpereshez. A 288. cikk szerinti rendelet tipikus szerkezete a hatályt és a fogalommeghatározásokat az elfogadó formula után rögzíti."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "0e844262b3b2"
+    },
+    {
+      "question": "Milyen felülvizsgálati jogkört ruházhat a rendelet a Bíróságra a 261. cikk szerint a szankciók tekintetében?",
+      "options": [
+        {
+          "text": "Az Európai Parlament és a Tanács által közösen, illetve a Tanács által a Szerződések értelmében elfogadott rendeletek a bennük előírt szankciók tekintetében korlátlan felülvizsgálati jogkört ruházhatnak a Bíróságra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a teljes kötelező erő a szankciós oldalon is megjelenik. Az EUMSZ 261. cikk szerint e rendeletek a bennük előírt szankciók tekintetében korlátlan felülvizsgálati jogkört ruházhatnak az Európai Unió Bíróságára. A rendelet tehát nemcsak anyagi szabály, hanem a Bíróság felülvizsgálati terjedelmét is kitágíthatja. Ez elválasztja a rendeletet az irányelv célnorma-szerkezetétől."
+        },
+        {
+          "text": "A 261. cikk csak az ajánlásokban előírt szankciókra ad korlátlan felülvizsgálatot, mert azok a leggyengébb formák.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 261. cikket a nem kötelező ajánlásra helyezi. Az EUMSZ 261. cikk a Parlament és a Tanács, illetve a Tanács által elfogadott rendeletekről beszél; az ajánlás a 288. cikk szerint nem kötelező. A helyes: a korlátlan felülvizsgálat a rendeleti szankciókhoz kapcsolódhat. A tévedés a kötelező és nem kötelező formák szankciós kontrolljának összecseréléséből ered."
+        },
+        {
+          "text": "A 261. cikk a rendelet teljes kötelező erejét erősíti meg azzal, hogy a szankciók feletti bírósági kontroll terjedelmét a rendelet maga tágíthatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szankciós felülvizsgálat a 288. cikk szerinti teljes kötelező erő operatív következménye. A tagállam a rendelet rendelkezései közül nem válogathat, és a rendeletet nem silányíthatja célnormává; a 261. cikk e kényszerítő erőt a Bíróság korlátlan felülvizsgálati jogkörével egészítheti ki. Az irányelvnél ilyen szankciós korlátlan felülvizsgálati minta a 261. cikkben nem a célnormához, hanem a rendeleti formához kötődik."
+        },
+        {
+          "text": "A Bíróság a rendeleti szankcióknál soha nem kaphat korlátlan felülvizsgálati jogkört, mert az a nemzeti bíróság monopóliuma.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a rendeleti szankciók feletti uniós bírósági kontrollt kizárja. Az EUMSZ 261. cikk kifejezetten lehetővé teszi, hogy a megjelölt rendeletek a bennük előírt szankciók tekintetében korlátlan felülvizsgálati jogkört ruházzanak a Bíróságra. A helyes: a felülvizsgálat terjedelme a rendeletben előírható. A tévedés a nemzeti szankcióvégrehajtás és az uniós bírósági kontroll összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "de7a9de11e3d"
+    },
+    {
+      "question": "Egy magáncég a Bizottság neki címzett határozata ellen akar keresetet indítani. Mely megállapítások helytállóak a 263. és 264. cikk alapján?",
+      "options": [
+        {
+          "text": "Ha a kereset megalapozott, a Bíróság a 264. cikk szerint a megtámadott jogi aktust semmisnek nyilvánítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a semmisség a megalapozott kereset joghatása. Az EUMSZ 264. cikk szerint a Bíróság a megtámadott jogi aktust semmisnek nyilvánítja. A keresetokok a 263. cikk szerint a hatáskör hiánya, a lényeges eljárási szabályok megsértése, a Szerződések vagy az alkalmazásukra vonatkozó jogi rendelkezés megsértése, illetve a hatáskörrel való visszaélés. A 263. cikk az ajánlást és a véleményt e kontroll alól kiveszi."
+        },
+        {
+          "text": "A 264. cikk szerint a Bíróság a megalapozott keresetnél csak figyelmeztetést adhat, semmisséget nem mondhat ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a megalapozott kereset joghatását figyelmeztetéssé gyengíti. Az EUMSZ 264. cikk szerint a Bíróság a megtámadott jogi aktust semmisnek nyilvánítja, ha a kereset megalapozott. A helyes: a joghatás a semmisség, mindhárom magánfél-ágon. A tévedés a 263. cikk keresetokainak és a semmisségi joghatásnak az összecseréléséből ered."
+        },
+        {
+          "text": "A természetes vagy jogi személy a neki címzett aktus ellen indíthat megsemmisítési eljárást a 263. cikk ötödik bekezdése szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címzés a magánfél első kereshetőségi ága. Az EUMSZ 263. cikk ötödik bekezdése szerint bármely természetes vagy jogi személy eljárást indíthat a neki címzett jogi aktusok ellen. A címzett határozatnál a címzés általában elég; a keresetet a közléstől vagy a tudomásszerzéstől számított két hónapon belül kell megindítani. A privilégizált felperesek (tagállam, Parlament, Tanács, Bizottság) ettől a magánfél-ágazattól elválnak."
+        },
+        {
+          "text": "A magánfél a neki címzett határozat ellen csak akkor perelhet, ha előtte a nemzeti bíróság előtt kimerítette a jogorvoslatot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás nemzeti kimerítési feltételt ír a 263. cikk magánfél-ágára. Az EUMSZ 263. cikk ötödik bekezdése a neki címzett aktus ellen közvetlenül nyitja a keresetet; a két hónapos határidő a kihirdetéshez, közléshez vagy tudomásszerzéshez kötődik. A helyes: a címzett aktus elleni uniós megsemmisítési kereset nem nemzeti előzetes kimerítéstől függ. A tévedés a nemzeti jogorvoslati rend ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "7d680ff2354e"
+    },
+    {
+      "question": "Mely állítások tévesek a 288. cikk formáinak kötelező erejéről? (tanító)",
+      "options": [
+        {
+          "text": "A rendelet csak a megjelölt címzettekre kötelező, ezért értesítéssel hatályosul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a rendeletet címzett határozattá alakítja. Az EUMSZ 288. cikk szerint a rendelet általános hatállyal bír és közvetlenül alkalmazandó valamennyi tagállamban; a címzetti szűkítés és az értesítés a határozatra és a 297. cikk (2) bekezdésére tartozik. A helyes: a rendelet kihirdetési pályán marad. A tévedés a két kötelező alaptípus személyi hatályának felcseréléséből ered."
+        },
+        {
+          "text": "Az ajánlás teljes egészében kötelező, és a 297. cikk szerint kihirdetéssel lép hatályba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az ajánlást a rendelet/határozat kötelező erejével ruházza fel. Az EUMSZ 288. cikk szerint az ajánlások és a vélemények nem kötelezőek; a 297. cikk kihirdetési és értesítési pályája a kötelező formákhoz kapcsolódik. A helyes: az ajánlás a kényszerítő erőn kívül esik, és a 263. cikk a jogszerűségi vizsgálat alól is kiveszi. A tévedés a kötelező és nem kötelező oldal összecseréléséből ered."
+        },
+        {
+          "text": "A vélemény a 299. cikk alapján vagyoni kötelezettséget róhat, és nemzeti végrehajtási záradékot kap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nem kötelező véleményt a 299. cikk végrehajtási pályájára helyezi. Az EUMSZ 299. cikk a Tanács, a Bizottság vagy az Európai Központi Bank rendeletét és határozatát teszi végrehajthatóvá, ha az államokat kivéve a jogalanyokra vagyoni kötelezettséget rónak. A helyes: a vélemény a 288. cikk szerint nem kötelező, ezért e záradék nem nyílik. A tévedés a kötelező aktusok foganatosítási szabályának ráírásából ered."
+        },
+        {
+          "text": "A határozat soha nem lehet teljes egészében kötelező, mert csak célnorma lehet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a határozatot irányelvé gyengíti. Az EUMSZ 288. cikk szerint a határozat teljes egészében kötelező; a cél–forma–eszköz megosztás az irányelvet jellemzi. A helyes: a határozat kötelező ereje a rendelettel azonos intenzitású, a különbség a személyi hatály szűkíthetőségében van. A tévedés a 288. cikk irányelvi és határozati albekezdésének összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "a0a18b506bf3"
+    },
+    {
+      "question": "Hogyan kapcsolódik a 1215/2012/EU rendelet 78. cikke a 290. cikk szerinti felhatalmazáshoz?",
+      "options": [
+        {
+          "text": "A 78. cikk a felhatalmazást a 288. cikk szerinti ajánlássá minősíti át, ezért nem kell kihirdetni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a felhatalmazáson alapuló aktust ajánlássá gyengíti. A 1215/2012/EU rendelet 78. cikke a 290. cikk szerinti felhatalmazást követi; a visszavonásról szóló határozat a Hivatalos Lapban való kihirdetéséhez kötött. A helyes: a felhatalmazáson alapuló aktus általános hatályú, nem jogalkotási kötelező forma, nem ajánlás. A tévedés a 288. cikk nem kötelező formáinak ráírásából ered."
+        },
+        {
+          "text": "A felhatalmazás visszavonása nem érinti a már hatályban lévő felhatalmazáson alapuló jogi aktusok érvényességét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 1215/2012/EU rendelet 78. cikke a visszavonás időbeli hatását zárja. A visszavonás a jövőre szól; a már hatályos felhatalmazáson alapuló aktusok érvényben maradnak. Az EUMSZ 290. cikk szerinti visszavonási és kifogásolási kontroll tehát nem automatikus semmisséget jelent a korábbi delegált aktusokra. A címke és a kontroll a nem jogalkotási, általános hatályú pályát tartja keretek között."
+        },
+        {
+          "text": "A Bizottság felhatalmazása határozatlan időre szól, és a Parlament vagy a Tanács bármikor visszavonhatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 78. cikk a 290. cikk mintáját ágazati rendeletbe viszi. A visszavonásról szóló határozat a Hivatalos Lapban való kihirdetését követő napon vagy a benne megjelölt későbbi időpontban lép hatályba, és nem érinti a már hatályban lévő felhatalmazáson alapuló jogi aktusok érvényességét. A kifogás határideje két hónap. Ez a 290. és a 297. cikk találkozása: a visszavonás határozat, a hatály a kihirdetéshez kötött."
+        },
+        {
+          "text": "A 78. cikk szerint a felhatalmazás visszavonása automatikusan semmissé teszi az összes korábbi felhatalmazáson alapuló aktust.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a visszavonást visszamenőleges semmisséggé torzítja. A 1215/2012/EU rendelet 78. cikke szerint a visszavonás nem érinti a már hatályban lévő felhatalmazáson alapuló jogi aktusok érvényességét. A helyes: a visszavonás a jövőbeli gyakorlást zárja, a meglévő aktusokat nem semmisíti meg automatikusan. A tévedés a 264. cikk megsemmisítési joghatásának ráírásából ered a felhatalmazás visszavonására."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "d5566ecf7218"
+    },
+    {
+      "question": "Milyen tartamban és milyen feltételekkel kell megindítani a 263. cikk szerinti megsemmisítési eljárást?",
+      "options": [
+        {
+          "text": "Az eljárásokat az intézkedés kihirdetésétől vagy a felperessel történő közlésétől számított két hónapon belül kell megindítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megsemmisítési kereset két hónapos zár alatt indítandó. Az EUMSZ 263. cikk szerint az eljárásokat az intézkedés kihirdetésétől vagy a felperessel történő közlésétől számított két hónapon belül kell megindítani; ha ezek hiányoznak, a tudomásszerzés napja a kezdőpont. A magánfél és a privilégizált felperes egyaránt e határidő alatt jár el. A késedelmes kereset a megsemmisítési pályát elzárja, függetlenül a keresetok megalapozottságától."
+        },
+        {
+          "text": "Az ajánlás ellen is mindig megnyílik a 263. cikk szerinti megsemmisítési kereset, ha a magánfelet érinti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nem kötelező ajánlást a megsemmisítési kontroll alá vonja. Az EUMSZ 263. cikk kifejezetten kiveszi az ajánlásokat és a véleményeket a jogszerűségi vizsgálat alól; a 288. cikk szerint e formák nem kötelezőek. A helyes: a magánfél ágai a címzett, a közvetlenül és személyében érintő, valamint a végrehajtási intézkedés nélküli rendeleti jellegű aktusra nyílnak. A tévedés a kötelező aktusok kontrolljának ráírásából ered."
+        },
+        {
+          "text": "A megsemmisítési kereset határideje hat hónap, és csak a tudomásszerzéstől számít, soha nem a kihirdetéstől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a határidőt és a kezdőnapot is elcsúsztatja. Az EUMSZ 263. cikk szerint az eljárásokat az intézkedés kihirdetésétől vagy a felperessel történő közlésétől, illetve ennek hiányában a tudomásszerzéstől számított két hónapon belül kell megindítani. A helyes: két hónap, főszabályként kihirdetés vagy közlés. A tévedés a hat hónapos szomszédos zárak ráírásából ered."
+        },
+        {
+          "text": "Ha kihirdetés és közlés hiányzik, a két hónap attól a naptól számít, amikor a felperes az intézkedésről tudomást szerzett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megsemmisítési kereset tartama és kezdőnap-feltételei együtt olvasandók. Az EUMSZ 263. cikk szerint az eljárásokat az intézkedés kihirdetésétől vagy a felperessel történő közléstől számított két hónapon belül kell megindítani. Ha kihirdetés és közlés hiányzik, a két hónap a tudomásszerzés napjától fut. Az ajánlás és a vélemény 263. cikk alóli kivétele más tanulási cél, nem a tartam vagy a megindítás feltétele."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "58e65b720370"
+    },
+    {
+      "question": "Miben tér el a 291. cikk (4) bekezdése szerinti végrehajtási aktus címkéje a 290. cikk felhatalmazáson alapuló aktusától?",
+      "options": [
+        {
+          "text": "Sem a végrehajtási, sem a felhatalmazáson alapuló aktus címében nem kell külön kifejezést feltüntetni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás mindkét kötelező címkét elhagyja. Az EUMSZ 290. cikk előírja a „felhatalmazáson alapuló” kifejezést; a 291. cikk (4) bekezdése a „végrehajtási” kifejezést. A helyes: a címke az aktus jellegét teszi láthatóvá. A tévedés a formai megjelölés mellőzéséből ered."
+        },
+        {
+          "text": "A végrehajtási jogi aktus címében fel kell tüntetni a „végrehajtási” kifejezést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a végrehajtási aktus címkéje kötelező. Az EUMSZ 291. cikk (4) bekezdése szerint a végrehajtási jogi aktus címében fel kell tüntetni a „végrehajtási” kifejezést. A végrehajtási hatáskör a (2) bekezdés szerint akkor nyílik, ha a végrehajtásnak egységes feltételek szerint kell történnie, és főszabályként a Bizottságra ruházható. Az (1) bekezdés nemzeti végrehajtási szárnya ettől elválik: ott nemzeti intézkedés készül, nem uniós „végrehajtási” címkéjű aktus."
+        },
+        {
+          "text": "A felhatalmazáson alapuló jogi aktus címében a „felhatalmazáson alapuló” kifejezést kell feltüntetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felhatalmazáson alapuló aktusnak is van kötelező címkéje. Az EUMSZ 290. cikk szerint a címben fel kell tüntetni a „felhatalmazáson alapuló” kifejezést. A felhatalmazáson alapuló aktus általános hatályú, nem jogalkotási, és csak a nem alapvető rendelkezéseket egészítheti ki vagy módosíthatja. A két címke — „felhatalmazáson alapuló” és „végrehajtási” — a 290. és a 291. cikk eltérő jogalapját jelöli."
+        },
+        {
+          "text": "A két címke felcserélhető, mert a 290. és a 291. cikk ugyanazt a bizottsági hatáskört szabályozza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a felhatalmazást és a végrehajtást azonosítja. Az EUMSZ 290. cikk a jogalkotási aktus nem alapvető rendelkezéseinek kiegészítésére vagy módosítására ad felhatalmazást; a 291. cikk (2) bekezdése az egységes végrehajtási feltételekhez rendel végrehajtási hatáskört. A helyes: eltérő jogalap, eltérő címke, eltérő kontroll. A tévedés a két másodlagos aktuspálya összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "301a91a686ef"
+    },
+    {
+      "question": "Mi a helyes olvasata a 1215/2012/EU rendelet 41. cikkének a nemzeti végrehajtási jog szerepéről?",
+      "options": [
+        {
+          "text": "A 41. cikk szerint a végrehajtási eljárás is kizárólag uniós rendelet, nemzeti szabály egyáltalán nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nemzeti végrehajtási jogot teljesen kiiktatja. A 1215/2012/EU rendelet 41. cikk (1) bekezdése kifejezetten a címzett tagállam jogát rendeli a végrehajtási eljárásra. A helyes: az uniós rendelet a végrehajthatóságot, a nemzeti jog a foganatosítást adja. A tévedés a közvetlen alkalmazás és a végrehajtási kiegészítés összecseréléséből ered."
+        },
+        {
+          "text": "A címzett tagállam joga a 36. cikk szerinti elismerést is felülírhatja, ha a nemzeti közrend úgy kívánja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nemzeti jogot az elismerés fölé helyezi. A 1215/2012/EU rendelet 36. cikk (1) bekezdése szerint a valamely tagállamban hozott határozatot a többi tagállamban külön eljárás nélkül elismerik; a 41. cikk a végrehajtási eljárás jogát adja, nem az elismerés felülírását. A helyes: a megtagadás a 45. cikk keretében, nem szabad nemzeti közrendi felülírással. A tévedés a végrehajtási lex fori és az elismerés összecseréléséből ered."
+        },
+        {
+          "text": "A másik tagállamban hozott határozatok végrehajtására irányuló eljárásra a címzett tagállam joga irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az uniós rendelet az elismerést és a végrehajthatóságot adja, a foganatosítást a lex fori. A 1215/2012/EU rendelet 41. cikk (1) bekezdése szerint a címzett tagállamban végrehajtható határozatot az ott hozott határozatokra vonatkozó feltételekkel azonos feltételekkel kell végrehajtani. A 40. cikk a végrehajtható határozatot a törvény erejénél fogva a címzett tagállam joga szerinti biztosítási intézkedésekre jogosítja. Ez a 291. cikk (1) bekezdése szerinti nemzeti szárny ágazati megjelenése."
+        },
+        {
+          "text": "A nemzeti megtagadási vagy felfüggesztési okok csak annyiban engedhetők, amennyiben nem összeegyeztethetetlenek a 45. cikkben említett okokkal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 41. cikk (2) bekezdése a nemzeti okokat a rendelet 45. cikkéhez méri. A (29) preambulumbekezdés a védelemhez fűződő jogot védi: a végrehajthatóvá nyilvánítás nélküli közvetlen végrehajtás nem veszélyeztetheti e jogokat, ezért a végrehajtással érintett személy kérelmezheti az elismerés vagy a végrehajtás megtagadását. A nemzeti eljárás tehát nem írhatja felül a rendelet egységes megtagadási keretét."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "63e3e04eadee"
+    },
+    {
+      "question": "Mely állítások tévesek a rendelet és a határozat viszonyáról a nemzeti joghoz? (tanító)",
+      "options": [
+        {
+          "text": "A 263. cikk ötödik bekezdése szerinti rendeleti jellegű aktus ellen a magánfél csak akkor perelhet, ha van nemzeti végrehajtási intézkedés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a harmadik kereshetőségi ág feltételét megfordítja. Az EUMSZ 263. cikk ötödik bekezdése éppen azokat a rendeleti jellegű aktusokat engedi a magánfélnek, amelyek nem vonnak maguk után végrehajtási intézkedéseket. A helyes: ahol a rendelet önmagában hat, a fél nem várhatja meg a nemzeti intézkedést. A tévedés a végrehajtási intézkedés meglétének és hiányának felcseréléséből ered."
+        },
+        {
+          "text": "A címzett határozat soha nem lehet végrehajtható a 299. cikk szerint, mert csak a rendelet róhat vagyoni kötelezettséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 299. cikk tárgyi hatályából kihagyja a határozatot. Az EUMSZ 299. cikk a Tanács, a Bizottság vagy az Európai Központi Bank rendeletét és határozatát is végrehajthatóvá teszi, ha az államokat kivéve a jogalanyokra vagyoni kötelezettséget rónak. A helyes: mindkét kötelező forma beléphet a vagyoni foganatosításba. A tévedés a rendelet monopóliumának feltételezéséből ered."
+        },
+        {
+          "text": "A 1215/2012/EU rendelet 2. cikke szerinti határozat azonos a 288. cikk uniós határozatával, ezért a megsemmisítés a nemzeti bíróság előtt folyik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a két „határozat” jelentését és a fórumot is összekeveri. A 1215/2012/EU rendelet 2. cikke tagállami bírósági aktust ért határozaton; a 288. cikk uniós határozatának megsemmisítése a 263–264. cikk pályáján fut. A helyes: a brüsszeli fogalom a nemzeti bírósági termék elismerésére szolgál. A tévedés a szerződéses és a rendeleti fogalom azonosításából ered."
+        },
+        {
+          "text": "A rendelet kötelező erejéhez mindig alkotó átültető törvény kell, különben a nemzeti bíróság nem alkalmazhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közvetlen alkalmazást átültetési feltétellé torzítja. Az EUMSZ 288. cikk szerint a rendelet közvetlenül alkalmazandó valamennyi tagállamban; alkotó átültetés a kötelező erőhöz nem kell. A helyes: a 291. cikk (1) bekezdése a végrehajtáshoz szükséges nemzeti intézkedést írhatja elő, de ez kiegészítés, nem a forrásjelleg előfeltétele. A tévedés az irányelv átültetési logikájának ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "e0d3113bf5a7"
+    }
+  ]
+}

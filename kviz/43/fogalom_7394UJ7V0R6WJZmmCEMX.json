@@ -1,0 +1,765 @@
+{
+  "id": "7394UJ7V0R6WJZmmCEMX",
+  "sorszam": 43,
+  "cim": "Az Európai Unió klíma- és energiapolitikájának fő irányai",
+  "generationType": "fogalom",
+  "title": "43. Az Európai Unió klíma- és energiapolitikájának fő irányai",
+  "questions": [
+    {
+      "question": "Mi a klíma- és energiapolitika szerződéses kettős tárgyi köre, és miért nem helyettesítik egymást?",
+      "options": [
+        {
+          "text": "A környezetvédelmi cím a magas szintű védelmet, az elővigyázatosságot és kifejezetten az éghajlatváltozás elleni küzdelmet rögzíti; az energiaügyi cím a belső piac és a környezet megőrzése keretében a piacot, az ellátásbiztonságot, a hatékonyságot, a megújulókat és a hálózatok összekapcsolását tűzi ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két politika külön szerződéses cím alatt áll. Az EUMSZ 191. cikk (1) bekezdése a környezetpolitikai célok között nevezi meg az éghajlatváltozás elleni küzdelmet, a (2) bekezdés pedig a magas szintű védelmet és az elővigyázatosságot. Az EUMSZ 194. cikk (1) bekezdése ezzel szemben az energiapiacot, az ellátásbiztonságot, a hatékonyságot és a megújulókat, valamint a hálózatok összekapcsolását sorolja fel. A kettő funkcionálisan összekapcsolt, de szerződésesen elkülönül."
+        },
+        {
+          "text": "A klímasemlegesség 2050-ig a környezetvédelmi célok operatív végpontja; az energiapolitika e végpontot a belső piacon, a tagállami energiaszerkezet fenntartása mellett hajtja végre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2050-es klímasemlegesség a környezetvédelmi oldal operatív végpontja. Az európai klímarendelet ezt valamennyi tagállamra nézve jogi kötelezettséggé teszi, a Párizsi Megállapodás uniós fordulataként. Az EUMSZ 194. cikk (2) bekezdésének második albekezdése ugyanakkor megtiltja, hogy az energiaügyi intézkedések a tagállami energiaforrás-választást vagy az energiaellátás általános szerkezetét befolyásolják. Így a végrehajtás a belső piacon, a mix fenntartása mellett történik."
+        },
+        {
+          "text": "A nukleáris politika az EUMSZ energiacímébe került, ezért az Euratom-Szerződés már nem különálló keret.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nukleáris politika külön szerződéses keretben maradt, nem az energiauniós cím része. A helyes: a nukleáris politika jogi gerince az Euratom-Szerződés, amely nem került be az EUMSZ-be, és különálló keret maradt. Az energiapolitika megosztott hatáskörű területeit az EUMSZ 194. cikk (1) bekezdése rendezi a piac, az ellátásbiztonság, a hatékonyság/megújulók és a hálózati összekapcsolás négyesével. A tévedés az Euratomot e négy cél alá olvasztja."
+        },
+        {
+          "text": "Az energiapolitika EUMSZ 194. cikke egyben a klímapolitika primer jogi otthona is, ezért a környezetvédelmi cím külön célkatalógusa felesleges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a klímapolitika szerződéses otthona a környezetvédelmi cím, nem a 194. cikk. A helyes: az EUMSZ 191. cikk (1) bekezdésének utolsó francia bekezdése kifejezetten az éghajlatváltozás elleni küzdelmet nevezi meg, a 194. cikk pedig az energiapolitika négy célját rögzíti. A két cím funkcionálisan összekapcsolt, de szerződésesen elkülönül, és nem helyettesíti egymást."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "eff547fb4523"
+    },
+    {
+      "question": "Mit rögzít az EUMSZ 191. cikk az Unió környezetpolitikájának céljairól és alapelveiről a klímaintézkedések szempontjából?",
+      "options": [
+        {
+          "text": "A magas szintű védelem elve kizárja a regionális különbségek figyelembevételét, mert a védelem egységesen, azonos szinten kötelező minden régióban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magas szintű védelem mellett a regionális különbségeket figyelembe kell venni. A helyes: az EUMSZ 191. cikk (2) bekezdése szerint a cél a magas szintű védelem, „figyelembe véve ugyanakkor az Unió különböző régióinak helyzetében mutatkozó különbségeket”. A (3) bekezdés a regionális környezeti feltételeket és a kiegyensúlyozott fejlődést is a mérlegelési vázba emeli. A tévedés a regionális differenciálást kizárja."
+        },
+        {
+          "text": "A környezetpolitika céljai között szerepel a környezet minőségének megőrzése, védelme és javítása, az emberi egészség védelme, a természeti erőforrások körültekintő hasznosítása, valamint a regionális vagy világméretű környezeti problémák — különösen az éghajlatváltozás — elleni nemzetközi intézkedések ösztönzése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés négy célcsoportot sorol fel. Az EUMSZ 191. cikk (1) bekezdése szerint az Unió környezetpolitikája hozzájárul e célok eléréséhez, és kifejezetten nevezi „az éghajlatváltozás elleni küzdelemre irányuló intézkedések ösztönzését nemzetközi szinten”. Ez adja a klímapolitika szerződéses otthonát a környezetvédelmi címben. A célkatalógus tehát nem csupán általános környezetvédelem."
+        },
+        {
+          "text": "A politika célja a magas szintű védelem a régiók helyzetében mutatkozó különbségek figyelembevételével; az elővigyázatosság, a megelőzés, a károk forrásnál történő elhárítása és a „szennyező fizet” elve a klímaintézkedéseket is köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a cél szintjét és az elveket együtt rögzíti. Az EUMSZ 191. cikk (2) bekezdése szerint a környezetpolitika célja a magas szintű védelem, és az elővigyázatosság, a megelőzés, a forrásnál történő elhárítás, valamint a „szennyező fizet” elvén alapul. Ugyanez a bekezdés védzáradékot is enged: nem gazdasági jellegű környezetvédelmi okból, uniós ellenőrzés mellett ideiglenes tagállami intézkedés lehetséges. A klímaintézkedések dogmatikáját is e szerkezet köti."
+        },
+        {
+          "text": "Az éghajlatváltozás elleni küzdelem csak az EUMSZ 194. cikk energiaügyi céljai között jelenik meg szerződéses szinten.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az éghajlatváltozás a környezetvédelmi címben jelenik meg szerződésesen. A helyes: az EUMSZ 191. cikk (1) bekezdésének utolsó francia bekezdése kifejezetten az éghajlatváltozás elleni küzdelemre irányuló nemzetközi intézkedések ösztönzését írja elő; a 194. cikk (1) bekezdése az energiapiacot, ellátásbiztonságot, hatékonyságot/megújulókat és hálózati összekapcsolást sorolja. A tévedés a klímacélokat az energiacímbe helyezi."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "3fc4d7407b1a"
+    },
+    {
+      "question": "Mikor kíván egyhangúságot a környezetpolitikai döntéshozatal, és hogyan viszonyul ez a tagállami energiaszerkezethez?",
+      "options": [
+        {
+          "text": "A klímajog másodlagos aktusainak zöme rendes jogalkotási eljárásban születik; ettől eltérve egyhangúság kell egyebek mellett az elsődlegesen adózási rendelkezéseknél és a tagállam energiaszerkezetét jelentős mértékben érintő intézkedéseknél.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főszabály a rendes eljárás, a kivétel egyhangú különleges eljárás. Az EUMSZ 192. cikk (1) bekezdése szerint az Európai Parlament és a Tanács rendes jogalkotási eljárásban határoz a 191. cikk céljairól. A (2) bekezdés ettől eltérve egyhangúságot kíván az a)–c) pont szerinti esetekben, így a c) pontban a tagállam energiaforrások közötti választását és energiaellátásának általános szerkezetét jelentős mértékben érintő intézkedéseknél. A Tanács a Bizottság javaslata alapján egyhangúlag előírhatja a rendes eljárás alkalmazását e területeken."
+        },
+        {
+          "text": "A 192. cikk (2) bekezdésének c) pontja szerinti egyhangúság a 194. cikk (2) bekezdésének második albekezdésével együtt olvasandó: a 194. cikk alapján hozott energiaügyi intézkedések nem nyúlhatnak az energiaszerkezethez, a környezetvédelmi cím azonban egyhangúsággal igen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két rendelkezés együtt jelöli ki az ütközőzónát. Az EUMSZ 194. cikk (2) bekezdésének második albekezdése — a 192. cikk (2) bekezdésének c) pontját nem érintve — megtiltja, hogy az energiaügyi intézkedések a tagállami energiaforrás-kiaknázást, a források közötti választást vagy az ellátás általános szerkezetét befolyásolják. A környezetvédelmi cím egyhangú klímaintézkedése e tilalom alól kivehet; a 194. cikk szerinti energiaügyi aktus azonban nem. Ez a két cím határa."
+        },
+        {
+          "text": "A tagállami energiaszerkezetet érintő környezetvédelmi intézkedés is mindig rendes jogalkotási eljárásban születik, egyhangúság nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jelentős energiaszerkezeti érintettség egyhangúságot kíván a környezetvédelmi címben. A helyes: az EUMSZ 192. cikk (2) bekezdésének c) pontja szerint a Tanács különleges jogalkotási eljárásban, egyhangúlag fogadja el a tagállam energiaforrások közötti választását és energiaellátásának általános szerkezetét jelentős mértékben érintő intézkedéseket. A tévedés a (2) bekezdés kivételét az (1) bekezdés rendes eljárásába olvasztja."
+        },
+        {
+          "text": "Az EUMSZ 194. cikk (2) bekezdése szerinti energiaügyi intézkedések rendes eljárásban is szabadon meghatározhatják a tagállam energiamixét, mert a megosztott hatáskör elnyeli a nemzeti szerkezetet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 194. cikk szerinti aktus nem nyúlhat a tagállami energiamixhez. A helyes: az EUMSZ 194. cikk (2) bekezdésének második albekezdése kifejezetten tiltja az energiaforrás-kiaknázási feltételek, a források közötti választás és az ellátás általános szerkezetének befolyásolását, a 192. cikk (2) bekezdésének c) pontját nem érintve. A tévedés a megosztott hatáskört az energiamix elnyelésével azonosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "3216fbfe72cc"
+    },
+    {
+      "question": "Milyen négy célt rögzít az EUMSZ 194. cikk (1) bekezdése az Unió energiapolitikájára, és milyen eljárásban születnek a szükséges intézkedések?",
+      "options": [
+        {
+          "text": "A négy cél — a tagállamok közötti szolidaritás szellemében, a belső piac és a környezet megőrzése keretében — az energiapiac működése, az uniós ellátásbiztonság, az energiahatékonyság és a megújuló források előmozdítása, valamint az energiahálózatok összekapcsolása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés négy, nem hierarchikus célt sorol fel. Az EUMSZ 194. cikk (1) bekezdése a) az energiapiac működését, b) az energiaellátás biztonságát, c) az energiahatékonyságot, az energiatakarékosságot és az új, megújuló források kifejlesztését, d) az energiahálózatok összekapcsolását rögzíti. A négy cél együttes mandátum: a piac, a biztonság, a dekarbonizáció és a fizikai szolidaritás együtt. A belső piac kerete és a környezet megőrzése a célok keretfeltétele."
+        },
+        {
+          "text": "Az energiapolitikai intézkedések kizárólagos uniós hatáskörben születnek, ezért a tagállamok energiaszerkezet-meghatározási joga megszűnt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az energiapolitika megosztott hatáskör, és a tagállami energiaszerkezet védett. A helyes: a lisszaboni szerződés az EUMSZ 194. cikkel megosztott hatáskör alá rendelte az energiapolitika egyes területeit; a (2) bekezdés második albekezdése nem engedi a tagállami energiaforrás-választás és az ellátás általános szerkezetének befolyásolását. A tévedés a megosztott hatáskört kizárólagossággá és mix-elvonássá torzítja."
+        },
+        {
+          "text": "A hatáskör megosztott: a (2) bekezdés rendes jogalkotási eljárást ír elő a Gazdasági és Szociális Bizottsággal, valamint a Régiók Bizottságával folytatott konzultációt követően; az elsődlegesen adózási természetű intézkedéseket a (3) bekezdés egyhangú tanácsi különleges eljárásra utalja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főszabály a rendes eljárás, az adózási ág egyhangú. Az EUMSZ 194. cikk (2) bekezdése szerint az Európai Parlament és a Tanács rendes jogalkotási eljárásban állapítja meg a szükséges intézkedéseket, a két bizottsággal konzultálva. A (3) bekezdés szerint, ha az intézkedések elsődlegesen adózási természetűek, a Tanács az Európai Parlamenttel folytatott konzultációt követően, különleges eljárásban, egyhangúlag dönt. A második albekezdés emellett védi a tagállami energiamixet."
+        },
+        {
+          "text": "Az EUMSZ 194. cikk (1) bekezdése csak az ellátásbiztonságot és a hálózati összekapcsolást nevezi meg; a megújuló források és a hatékonyság kívül esik a szerződéses célokon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a négy cél között a hatékonyság és a megújulók is szerepel. A helyes: az EUMSZ 194. cikk (1) bekezdésének c) pontja az energiahatékonyság és az energiatakarékosság, valamint az új és megújuló energiaforrások kifejlesztésének előmozdítását rögzíti, az a), b) és d) pont mellett. A tévedés a c) pontot kihagyja a célkatalógusból."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "2f9869bb239d"
+    },
+    {
+      "question": "Milyen szempontokat kell figyelembe venni a környezetpolitika kidolgozásakor, és mit enged a nemzetközi együttműködési bekezdés?",
+      "options": [
+        {
+          "text": "A környezetpolitika kidolgozásakor kizárólag a tudományos adatok irányadók; a beavatkozás költségei és a regionális fejlődés figyelmen kívül hagyhatók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mérlegelési váz négy tengelyű, nem egyetlen adatforrás. A helyes: az EUMSZ 191. cikk (3) bekezdése a tudományos és műszaki adatok mellett a regionális környezeti feltételeket, a beavatkozás és a be nem avatkozás hasznait és költségeit, valamint az Unió és régióinak kiegyensúlyozott fejlődését is kötelezően figyelembe veszi. A tévedés a költség- és regionális tengelyt kihagyja."
+        },
+        {
+          "text": "A nemzetközi együttműködési bekezdés elvonja a tagállamoktól a nemzetközi fórumokon való tárgyalás és a nemzetközi megállapodások kötésének hatáskörét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tagállami tárgyalási és szerződéskötési hatáskör fennmarad. A helyes: az EUMSZ 191. cikk (4) bekezdése szerint az uniós együttműködési albekezdés nem érinti a tagállamok arra vonatkozó hatáskörét, hogy nemzetközi fórumokon tárgyalásokat folytassanak és nemzetközi megállapodásokat kössenek. A tévedés a (4) bekezdés fenntartó záradékát fordítja meg."
+        },
+        {
+          "text": "Az Unió és a tagállamok hatáskörük keretén belül együttműködnek harmadik országokkal és nemzetközi szervezetekkel; ez a Párizsi Megállapodás típusú külső klímafellépés kapuja, a tagállami tárgyalási és szerződéskötési hatáskör fenntartása mellett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés a külső dimenziót nyitja meg. Az EUMSZ 191. cikk (4) bekezdése szerint az Unió és a tagállamok hatáskörük keretén belül együttműködnek harmadik országokkal és a hatáskörrel rendelkező nemzetközi szervezetekkel, és az Unió együttműködésének részletes szabályai megállapodások tárgyát képezhetik. Ugyanez a bekezdés kimondja: az előző albekezdés „nem érinti a tagállamok arra vonatkozó hatáskörét, hogy nemzetközi fórumokon tárgyalásokat folytassanak és nemzetközi megállapodásokat kössenek”. A belső és a külső klímafellépés így nem szakad el."
+        },
+        {
+          "text": "A politika kidolgozásakor figyelembe kell venni a rendelkezésre álló tudományos és műszaki adatokat, a régiók környezeti feltételeit, a beavatkozás és a be nem avatkozás hasznait és költségeit, valamint az Unió és régióinak kiegyensúlyozott fejlődését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés négy mérlegelési tengelyt ad. Az EUMSZ 191. cikk (3) bekezdése szerint a környezetpolitika kidolgozása során az Unió figyelembe veszi a tudományos és műszaki adatokat, a regionális környezeti feltételeket, a beavatkozás, illetve a be nem avatkozás lehetséges hasznait és költségeit, valamint az Unió egészének gazdasági és társadalmi fejlődését és régióinak kiegyensúlyozott fejlődését. A klímasemlegességi cél és az „Irány az 55%!” csomag e vázban olvasható: nem költségvak tilalom. A magas szintű védelem és a regionális különbségek együtt érvényesülnek."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "48b1eecd2263"
+    },
+    {
+      "question": "Mi következik abból, ha egy környezetvédelmi intézkedés egy tagállam hatóságai számára aránytalanul magas költségekkel járna?",
+      "options": [
+        {
+          "text": "Aránytalanul magas költség esetén a tagállam automatikusan mentesül a „szennyező fizet” elv alól, és az uniós intézkedés nem alkalmazható rá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az enyhítés a „szennyező fizet” elv sérelme nélkül történik. A helyes: az EUMSZ 192. cikk (5) bekezdése átmeneti eltérést és/vagy Kohéziós Alap-támogatást enged, de kifejezetten a „szennyező fizet” elv sérelme nélkül. A tévedés a teherkönnyítést teljes mentesüléssé torzítja."
+        },
+        {
+          "text": "Az aránytalan költségű intézkedésnél kizárólag a Bizottság dönthet átmeneti eltérésről, a Kohéziós Alap támogatása pedig kizárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés mindkét formát — átmeneti eltérést és/vagy pénzügyi támogatást — megengedi. A helyes: az EUMSZ 192. cikk (5) bekezdése szerint az intézkedés megfelelő rendelkezéseket állapít meg átmeneti eltérés és/vagy a Kohéziós Alapból nyújtott pénzügyi támogatás formájában. A tévedés a „és/vagy” szerkezetet egyetlen, Bizottsághoz kötött útra szűkíti."
+        },
+        {
+          "text": "Az intézkedés — a „szennyező fizet” elv sérelme nélkül — megfelelő rendelkezéseket állapít meg átmeneti eltérés és/vagy a Kohéziós Alapból nyújtott pénzügyi támogatás formájában.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) bekezdés kétféle enyhítést enged. Az EUMSZ 192. cikk (5) bekezdése szerint, ha az (1) bekezdésen alapuló intézkedés egy tagállam hatóságai számára aránytalanul magas költségekkel járna, az intézkedés átmeneti eltérést és/vagy a 177. cikk alapján létrehozott Kohéziós Alapból nyújtott pénzügyi támogatást állapíthat meg. A „szennyező fizet” elv e rendelkezések mellett is érvényesül. A védelem tehát nem mentesít a szennyező felelőssége alól."
+        },
+        {
+          "text": "A teherkiegyenlítő rendelkezéseket maga az intézkedés állapítja meg; az átmeneti eltérés és a 177. cikk alapján létrehozott Kohéziós Alapból nyújtott támogatás együtt vagy külön is megjelenhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) bekezdés az intézkedésbe épített, „és/vagy” szerkezetű védelmet ad. Az EUMSZ 192. cikk (5) bekezdése szerint, ha az (1) bekezdésen alapuló intézkedés a hatóságokat aránytalanul terhelné, az intézkedés megfelelő rendelkezéseket állapít meg átmeneti eltérés és/vagy a Kohéziós Alapból nyújtott pénzügyi támogatás formájában. A védelem tehát nem automatikus mentesülés, hanem az aktusba foglalt enyhítés; a „szennyező fizet” elv e mellett is érvényesül."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "7edcb0b1b861"
+    },
+    {
+      "question": "Miben tér el a környezetvédelmi cím energiaszerkezeti egyhangúsága az energiaügyi cím mix-tilalmától?",
+      "options": [
+        {
+          "text": "A környezetvédelmi címben a tagállam energiaszerkezetét jelentős mértékben érintő intézkedés a 192. cikk (2) bekezdésének c) pontja szerint egyhangú tanácsi különleges eljárást kíván.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a környezetvédelmi úton az energiamix érintése lehetséges, de egyhangúsággal. Az EUMSZ 192. cikk (2) bekezdésének c) pontja szerint a Tanács egyhangúlag fogadja el a tagállamok valamelyikének különböző energiaforrások közötti választását és energiaellátásának általános szerkezetét jelentős mértékben érintő intézkedéseket. A Parlamenttel és a két bizottsággal konzultálni kell. A Tanács egyhangúlag előírhatja e területeken a rendes eljárás alkalmazását is."
+        },
+        {
+          "text": "A két rendelkezés azonos: mindkét címben a mix-érintés automatikusan a Bizottság kizárólagos hatáskörébe kerül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két cím aszimmetrikus, és egyik sem telepít kizárólagos bizottsági hatáskört a mixre. A helyes: az EUMSZ 192. cikk (2) bekezdésének c) pontja egyhangú tanácsi különleges eljárást kíván, a 194. cikk (2) bekezdésének második albekezdése pedig a 194. cikk szerinti intézkedéseknél tiltja a mix befolyásolását. A tévedés a Tanács–Parlament eljárást Bizottsági kizárólagosságra cseréli."
+        },
+        {
+          "text": "A 194. cikk szerinti energiaügyi aktus rendes eljárásban szabadon átírhatja a tagállami energiamixet, a 192. cikk (2) bekezdésének c) pontja pedig csak ajánlás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 194. cikk szerinti aktus tiltott a mix befolyásolására, a 192. cikk (2) bekezdésének c) pontja pedig kógens egyhangúsági küszöb. A helyes: az EUMSZ 194. cikk (2) bekezdésének második albekezdése a mix-tilalmat rögzíti, a 192. cikk (2) bekezdésének c) pontja pedig egyhangú különleges eljárást ír elő a jelentős energiaszerkezeti érintettségű környezetvédelmi intézkedésre. A tévedés a tilalmat és az egyhangúságot egyaránt feloldja."
+        },
+        {
+          "text": "Az energiaügyi címben a 194. cikk (2) bekezdésének második albekezdése — a 192. cikk (2) bekezdésének c) pontját nem érintve — nem engedi, hogy az energiaügyi intézkedések a tagállami energiaforrás-választást vagy az ellátás általános szerkezetét befolyásolják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az energiaügyi cím szerinti intézkedések a tagállami energiamixet nem befolyásolhatják. Az EUMSZ 194. cikk (2) bekezdése szerint: „Ezek az intézkedések – a 192. cikk (2) bekezdésének c) pontját nem érintve – nem befolyásolhatják a tagállamok jogát az energiaforrások kiaknázására vonatkozó feltételek meghatározására, továbbá nem befolyásolhatják a tagállamok különböző energiaforrások közötti választását és energiaellátásuk általános szerkezetét.” A környezetvédelmi cím egyhangú klímaintézkedése e tilalom alól kivehet. A két cím ütközőzónája tehát aszimmetrikus."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "61d47649fc64"
+    },
+    {
+      "question": "Mely kapcsolódó szerződéses rendelkezések egészítik ki a 194. cikk négy célját anélkül, hogy helyettesítenék azt?",
+      "options": [
+        {
+          "text": "A 114. cikk a nemzeti energetikai követelések támasztásának elsődleges jogalapja, nem a kereskedelmi akadályok felszámolásáé.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 114. cikk a belső piaci közelítést könnyíti, ahol a cél a kereskedelmi akadályok felszámolása. A helyes: a 114. cikk a belső piaccal kapcsolatos energiaügyi jogszabályok — például energiahatékonysági szabványok, hálózati csatlakozási feltételek — elfogadását könnyíti, ahol a cél a kereskedelmi akadályok felszámolása, nem pedig nemzeti energetikai követelések támasztása. Az energiaügyi cím négy célját a 114. cikk nem váltja fel. A tévedés a célirányt megfordítja."
+        },
+        {
+          "text": "Az ellátás biztonságáról a 122. cikk, az energiahálózatokról a 170–172. cikk állapít meg konkrét rendelkezéseket; a 114. cikk a belső piaci közelítést, a 216–218. cikk a külső megállapodásokat könnyíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, e cikkek a végrehajtás speciális csatornái. Az EUMSZ 122. cikk az ellátás biztonságának, a 170–172. cikk a transzeurópai infrastruktúrának, a 114. cikk a kereskedelmi akadályok nélküli belső piaci közelítésnek, a 216–218. cikk a külső szerződéskötésnek ad keretet. Az energiaügyi cím négy célját — piac, ellátásbiztonság, hatékonyság/megújulók, hálózati összekapcsolás — e kiegészítő jogalapok nem helyettesítik. A klíma- és energiapolitika primer jogi magja továbbra is a 191. és a 194. cikk."
+        },
+        {
+          "text": "A 122. és a 170–172. cikk a 194. cikk négy célját teljesen helyettesíti, ezért a 194. cikk önálló címe felesleges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kiegészítő jogalapok nem helyettesítik a 194. cikk négy célját. A helyes: a 122. cikk az ellátás biztonságának, a 170–172. cikk a transzeurópai infrastruktúrának ad keretet, de a primer jogi mag a 191. és a 194. cikk; a többi cikk a végrehajtás speciális csatornája. A tévedés a kiegészítő cikkeket főcímmé emeli."
+        },
+        {
+          "text": "A nukleáris ág az Euratom-Szerződésen marad: nem került be az EUMSZ-be, és különálló keret.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nukleáris politika külön szerződéses keretben maradt. A nukleáris politika jogi gerince az Euratom-Szerződés, amely nem került be az EUMSZ-be, és különálló keret maradt. Az energiapolitika megosztott hatáskörű területeit az EUMSZ 194. cikk (1) bekezdése rendezi a piac, az ellátásbiztonság, a hatékonyság/megújulók és a hálózati összekapcsolás négyesével; az Euratom e célkatalógust nem pótolja. A két keret párhuzamosan él."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "7855234b3458"
+    },
+    {
+      "question": "Mit jelent a klímasemlegesség és a nettó zéró kibocsátás az uniós éghajlatpolitika fogalmi keretében?",
+      "options": [
+        {
+          "text": "A klímasemleges gazdaságot a nettó zéró kibocsátás jellemzi: a kibocsátás és az eltávolítás egyensúlyban van.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nettó zéró a kibocsátás és az eltávolítás egyensúlya. A 2050-es klímasemlegesség e fogalom operatív végpontja, és az európai klímarendelet valamennyi tagállamra nézve jogi kötelezettséggé teszi. Az EUMSZ 191. cikk (1) bekezdésének éghajlatváltozási francia bekezdése és a (2) bekezdés magas szintű védelme e kötelezettség szerződéses otthona. A 2030-as legalább 55%-os nettó kibocsátáscsökkentés az 1990-es szinthez képest e pálya köztes lépése."
+        },
+        {
+          "text": "A nettó zéró azt jelenti, hogy az Unió 2030-ra már teljes mértékben klímasemleges gazdasággá válik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a teljes klímasemlegesség időhorizontja 2050, nem 2030. A helyes: az európai klímarendelet 2050-re teszi jogi kötelezettséggé a nettó zéró, klímasemleges gazdaságra való áttérést; 2030-ra a köztes cél legalább 55%-os nettó kibocsátáscsökkentés az 1990-es szinthez képest. Az EUMSZ 191. cikk (1) bekezdése az éghajlatváltozás elleni küzdelmet a környezetpolitikai célok közé emeli. A tévedés a 2030-as köztes célt a 2050-es végponttal cseréli fel."
+        },
+        {
+          "text": "A klímasemlegesség azt jelenti, hogy az emberi tevékenység által generált üvegházhatásúgáz-kibocsátás jelentősen csökken, így a kibocsátás ne legyen hatással az éghajlati rendszerre; a nehezen kiküszöbölhető kibocsátásokat szén-dioxid-eltávolítással kompenzálják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fogalom a kibocsátáscsökkentést és a kompenzációt együtt értelmezi. A klímasemlegesség a légkörben jelentősen csökkenti az emberi tevékenység — így a fosszilis tüzelőanyagok elégetése — nyomán keletkező üvegházhatásúgáz-kibocsátást. A fennmaradó, elkerülhetetlen kibocsátás kompenzálása természetes vagy mechanikus szén-dioxid-eltávolítással történik. Az EUMSZ 191. cikk (2) bekezdésének magas szintű védelme e cél szerződéses olvasata."
+        },
+        {
+          "text": "A klímasemlegesség kizárólag a fosszilis tüzelőanyagok teljes azonnali tiltását jelenti, szén-dioxid-eltávolítás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fogalom a csökkentést és a fennmaradó kibocsátás kompenzálását együtt tartalmazza. A helyes: a klímasemlegesség a kibocsátás jelentős csökkentését jelenti, a nehezen kiküszöbölhető kibocsátások kompenzálására pedig szén-dioxid-eltávolítás szolgál; a nettó zéró a kibocsátás és az eltávolítás egyensúlya. Az EUMSZ 191. cikk (2) bekezdése szerinti magas szintű védelem e cél szerződéses olvasata. A tévedés a kompenzációs ágat kihagyja."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "c4025958010d"
+    },
+    {
+      "question": "Hogyan szigorodtak lépcsőzetesen az uniós kibocsátáscsökkentési célok 2008-tól 2023-ig?",
+      "options": [
+        {
+          "text": "A legalább 55%-os 2030-as cél köztes lépés a nettó zéró kibocsátás 2050-ig történő elérése felé, és az „Irány az 55%!” csomag operatív gerince.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 55% a 2050-es nettó zéró köztes mérföldköve. Az „Irány az 55%!” intézkedéscsomag tizennégy jogszabályt tartalmaz, amelyek a legalább 55%-os nettó üvegházhatásúgáz-kibocsátás-csökkenést hivatottak biztosítani 2030-ig. Az EUMSZ 191. cikk (2) bekezdése szerinti magas szintű védelem és a (3) bekezdés mérlegelési váza e csomag olvasata. A csomag mostanra szinte teljes mértékben el van fogadva."
+        },
+        {
+          "text": "A legalább 55%-os cél csak politikai nyilatkozat, jogi kötelezettség nélkül, és nem kapcsolódik a 2050-es nettó zéróhoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, 2023-tól jogi kötelezettség a legalább 55%-os csökkentés, és ez a 2050-es nettó zéró köztes lépése. A helyes: az uniós országoknak immár jogi kötelezettségük, hogy 2030-ra legalább 55%-kal csökkentsék a kibocsátást; ez köztes lépés a nettó zéró 2050-ig történő elérése felé. Az EUMSZ 191. cikk (2) bekezdése a magas szintű védelmet e pálya szerződéses mércéjévé teszi. A tévedés a kötelező jelleget és a pálya logikáját tagadja."
+        },
+        {
+          "text": "Az Unió 2020-as 20%-os célját nem érte el, ezért 2023-ban visszalépett a 40%-os 2030-as célra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2020-as célt túlteljesítették, és a 2030-as cél szigorodott, nem enyhült. A helyes: 2020-ban 30%-os csökkentést értek el az 1990-es szinthez képest, már 2019-ben 24%-kal túlteljesítve a 20%-ot; 2023-tól a 2030-as cél legalább 55%. Az EUMSZ 191. cikk (1) bekezdése az éghajlatváltozás elleni küzdelmet a környezetpolitikai célok között rögzíti. A tévedés a túlteljesítést elmaradásnak, a szigorítást visszalépésnek állítja be."
+        },
+        {
+          "text": "2008-ban az Unió 2020-ra 20%-os csökkentést fogadott el az 1990-es szinthez képest; 2014-ben 2030-ra 40%-os célértékben állapodtak meg; 2023-tól jogi kötelezettség a legalább 55%-os csökkentés 2030-ra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a célok lépcsőzetesen szigorodtak. A 2008-as 20%-os 2020-as célt az Unió túlteljesítette: 2019-ben 24%-os, 2020-ban 30%-os csökkentést ért el. 2014-ben 40%-os 2030-as cél következett, majd 2023-ban — az orosz invázió és az energiaválság után — a legalább 55%-os kötelezettség. Az EUMSZ 191. cikk (1) bekezdésének éghajlatváltozási célja e lépcsőzetes szigorítás szerződéses kerete."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "af84e85ff71a"
+    },
+    {
+      "question": "Mi az európai zöld megállapodás és az „Irány az 55%!” intézkedéscsomag szerepe a klímasemlegesség felé?",
+      "options": [
+        {
+          "text": "Az „Irány az 55%!” csomag csak három ajánlást tartalmaz, és nem kapcsolódik a 2030-as kibocsátáscsökkentési célhoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a csomag tizennégy jogszabályt tartalmaz, és a legalább 55%-os 2030-as cél végrehajtását szolgálja. A helyes: a 2021. évi „Irány az 55%!” intézkedéscsomag tizennégy jogszabállyal határozza meg a szabályokat a nettó üvegházhatásúgáz-kibocsátás legalább 55%-os csökkentéséhez 2030-ig. Az EUMSZ 191. cikk (2) bekezdése szerinti magas szintű védelem e csomag mércéje. A tévedés a terjedelmet és a célt egyaránt eltorzítja."
+        },
+        {
+          "text": "Az európai klímarendelet a zöld megállapodás összefüggésében a legfontosabb jogszabály, mert valamennyi uniós tagállam számára jogi kötelezettséggé teszi a klímasemlegesség 2050-ig történő elérését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet a cél operatív, határidőhöz kötött kötelezettsége. A cél arra a kötelezettségvállalásra épül, amelyet az Unió és tagállamai 2015-ben, a Párizsi Megállapodás aláírásával tettek. A rendelet az EUMSZ 191. cikk (1) bekezdésének éghajlatváltozási francia bekezdését és a (2) bekezdés magas szintű védelmét operatív kötelezettséggé fordítja. A 2030-as legalább 55% e pálya köztes lépése."
+        },
+        {
+          "text": "Az európai zöld megállapodás az Unió elsődleges stratégiája a klímasemlegesség 2050-ig történő elérésére; végrehajtása a 2021. évi „Irány az 55%!” csomagon keresztül történik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a zöld megállapodás a stratégia, a csomag a végrehajtás. A csomag célja, hogy 2030-ig legalább 55%-kal csökkenjen a nettó üvegházhatásúgáz-kibocsátás; tizennégy jogszabály határozza meg a szabályokat. Az EUMSZ 191. cikk (1) bekezdésének éghajlatváltozási francia bekezdése e stratégia szerződéses otthona. Az európai klímarendelet ehhez képest a 2050-es klímasemlegességet teszi jogi kötelezettséggé valamennyi tagállamra."
+        },
+        {
+          "text": "Az európai klímarendelet csak a Bizottságra nézve kötelező programdokumentum, a tagállamokra nem ró jogi kötelezettséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet valamennyi uniós tagállam számára jogi kötelezettséggé teszi a 2050-es klímasemlegességet. A helyes: az európai klímarendelet a zöld megállapodás összefüggésében a legfontosabb jogszabály, mert a klímasemlegesség 2050-ig történő elérését valamennyi tagállamra nézve jogi kötelezettséggé teszi. Az EUMSZ 191. cikk (1) bekezdése az éghajlatváltozás elleni küzdelmet e kötelezettség szerződéses alapjává teszi. A tévedés a kötelező erőt programdokumentummá gyengíti."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "07f350972d53"
+    },
+    {
+      "question": "Melyek a REPowerEU terv három alappillére, és milyen mennyiségi célokat kapcsolt az orosz fosszilis függőség megszüntetéséhez?",
+      "options": [
+        {
+          "text": "A REPowerEU egyetlen pillére a nukleáris kapacitás kötelező bővítése minden tagállamban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a terv három pillére a megtakarítás, a diverzifikáció és a gyorsított megújuló bevezetés. A helyes: a 2022. évi REPowerEU három alappillére az energiamegtakarítás, az energiaellátás diverzifikálása és a megújuló energiaforrások gyorsított bevezetése. Az EUMSZ 194. cikk (1) bekezdésének b) és c) pontja e pilléreket az ellátásbiztonság, a hatékonyság és a megújulók céljához köti; a nukleáris politika külön Euratom-keretben marad. A tévedés egy nem létező, kötelező nukleáris pillért ír a három helyére."
+        },
+        {
+          "text": "A terv az uniós földgázfelhasználás jelentős és gyors, legalább 155 milliárd köbméteres csökkentését javasolta, ami megegyezik az Oroszországból 2021-ben importált mennyiséggel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 155 milliárd köbméter a 2021-es orosz importtal egyező csökkentési javaslat. Ezzel párhuzamosan az Unió nemzetközi partnerekkel működött együtt az ellátás diverzifikálása, a cseppfolyósított földgáz importjának biztosítása és az új vezetékes gázszállítások növelése érdekében. Az EUMSZ 194. cikk (1) bekezdésének b) és c) pontja — ellátásbiztonság, valamint hatékonyság/megújulók — a három pillér szerződéses olvasata. A zöld megállapodás dekarbonizációs íve így az ellátásbiztonsággal kapcsolódik."
+        },
+        {
+          "text": "A terv csak politikai közlemény, mennyiségi gázcsökkentési javaslat és mozgósított forrás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a terv mennyiségi célt és forrásmozgósítást is tartalmaz. A helyes: a REPowerEU legalább 155 milliárd köbméteres gázfelhasználás-csökkentést javasolt, és közel 300 milliárd eurót mozgósított; három pillére a megtakarítás, a diverzifikáció és a gyorsított megújuló. Az EUMSZ 194. cikk (1) bekezdésének b) pontja az uniós ellátásbiztonságot e terv szerződéses címeként rögzíti. A tévedés a tervet tartalom nélküli közleménnyé silányítja."
+        },
+        {
+          "text": "A három alappillér az energiamegtakarítás, az energiaellátás diverzifikálása és a megújuló energiaforrások gyorsított bevezetése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2022. évi REPowerEU e három pillérre épül. A terv célja az orosz fosszilis tüzelőanyagoktól való függőség gyors és teljes megszüntetése, és jelentősen szigorította az „Irány az 55%!” célkitűzéseit. Közel 300 milliárd eurót mozgósított, elsősorban a Helyreállítási és Rezilienciaépítési Eszköz fel nem használt hiteleiből és a kibocsátáskereskedelmi rendszer egységeinek értékesítéséből. Az EUMSZ 194. cikk (1) bekezdésének b) pontja — az uniós ellátásbiztonság — e terv szerződéses fedezete."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "dce2c35ad6f1"
+    },
+    {
+      "question": "Milyen kötelező és törekvési célt határoz meg a megújulóenergia-irányelv a 2030-as megújuló részarányra?",
+      "options": [
+        {
+          "text": "A megújuló részarány célja kizárólag az EUMSZ 191. cikk környezetvédelmi címéből következik, a 194. cikk energiaügyi céljai nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megújulók szerződéses címe az energiaügyi célok között van. A helyes: az EUMSZ 194. cikk (1) bekezdésének c) pontja az új és megújuló energiaforrások kifejlesztésének előmozdítását rögzíti; a környezetvédelmi cím a klímacélokat adja, de a megújuló-irányelv e 194. cikk c) pontjához kapcsolódik. A tévedés a megújuló célt a 191. cikk alá helyezi a 194. cikk helyett."
+        },
+        {
+          "text": "A megújuló energiaforrásoknak az Unió végsőenergia-fogyasztásában való részarányára 2030-ra 42,5%-os kötelező célt határozott meg, törekedve a 45% elérésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a RED-III (2023) e kettős célt rögzíti. A RED-I (2009) 2020-ra 20%-os uniós megújuló-részarányt tűzött ki, amelyet az Eurostat szerint 22,1%-kal túlteljesítettek; a RED-II (2018) 2030-ra 32%-os kötelező célt írt elő. A 194. cikk (1) bekezdésének c) pontja az „új és megújuló energiaforrások kifejlesztésének előmozdítását” e politika szerződéses céljaként rögzíti. Az irányelv nemzeti támogatással és uniós finanszírozással mozdítja elő a megújulókat."
+        },
+        {
+          "text": "A 2030-as megújuló cél továbbra is a RED-II szerinti 32%, kötelező 42,5% nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a RED-III a célt 42,5%-ra emelte, 45%-os törekvéssel. A helyes: a megújulóenergia-irányelv 2030-ra 42,5%-os kötelező célt határozott meg a végsőenergia-fogyasztás megújuló részarányára, törekedve a 45% elérésére; a RED-II 32%-os célját ezzel felülírták. Az EUMSZ 194. cikk (1) bekezdésének c) pontja e cél szerződéses címe. A tévedés a 2018-as küszöböt tartja irányadónak."
+        },
+        {
+          "text": "A tagállamok indikatív célt határoztak meg: 2030-ra az innovatív megújulóenergia-technológiák a teljes újonnan telepített megújulóenergia-kapacitás legalább 5%-át tegyék ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az innovatív technológiákra külön, indikatív 5%-os cél van. Ez a cél az energia- és éghajlat-politikai célokhoz elengedhetetlen új generációs megújulóenergia-technológiák kutatását, fejlesztését és alkalmazását támogatja. Az EUMSZ 194. cikk (1) bekezdésének c) pontja az új és megújuló energiaforrások kifejlesztésének előmozdítását e politika szerződéses céljaként rögzíti. A 42,5%-os kötelező részaránytól különbözik: az utóbbi a végsőenergia-fogyasztás megújuló részaránya, az előbbi az új kapacitás innovatív hányada."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "e247ae00e261"
+    },
+    {
+      "question": "Milyen energiahatékonysági célokat és elvet rögzít a felülvizsgált energiahatékonysági irányelv 2030-ra?",
+      "options": [
+        {
+          "text": "A 11,7%-os csökkentés csak ajánlás, kötelező uniós cél nélkül, és a közszférára nem vonatkozik semmilyen éves csökkentési arány.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a végsőenergia-fogyasztás 11,7%-os csökkentése kötelező uniós cél, és a közszférára 1,9%-os éves csökkentés is vonatkozik. A helyes: a felülvizsgált EED a végsőenergia-fogyasztás 2030-ig történő 11,7%-os csökkentését kötelező uniós célként rögzíti, a közszféra pedig a 2021-es szinthez képest 1,9%-os éves csökkenést ér el. Az EUMSZ 194. cikk (1) bekezdésének c) pontja e szabályok szerződéses címe. A tévedés a kötelező jelleget és a közszféra arányát tagadja."
+        },
+        {
+          "text": "Az energiahatékonyság szerződéses címe kizárólag az EUMSZ 191. cikk, a 194. cikk (1) bekezdésének c) pontja nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az energiahatékonyság és az energiatakarékosság az energiaügyi cím céljai között szerepel. A helyes: az EUMSZ 194. cikk (1) bekezdésének c) pontja az energiahatékonyság és az energiatakarékosság, valamint az új és megújuló energiaforrások kifejlesztésének előmozdítását rögzíti. A tévedés a hatékonysági célt a környezetvédelmi cím alá helyezi az energiacím helyett."
+        },
+        {
+          "text": "A felülvizsgált EED (2023) rögzítette az „első az energiahatékonyság” elvet és a végsőenergia-fogyasztás 2030-ig történő 11,7%-os csökkentésére vonatkozó kötelező uniós célt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 11,7% kötelező a végsőenergia-fogyasztásra. Az Unió 2030-ra szóló céljaként az uniós (indikatív) primerenergia-fogyasztás és végsőenergia-fogyasztás 11,7%-os csökkentését is kitűzte a 2020-as előrejelzésekhez képest. A tagállamoknak biztosítaniuk kell, hogy az energiahatékonysági megoldásokat a tervezési, szakpolitikai és beruházási döntések során figyelembe vegyék. A 194. cikk (1) bekezdésének c) pontja e kötelezettségek szerződéses címe."
+        },
+        {
+          "text": "A közszférának a 2021-es szinthez képest 1,9%-os éves energiafogyasztás-csökkenést kell elérnie, és a tagállamoknak évente fel kell újítaniuk a közintézmények tulajdonában lévő épületek teljes alapterületének legalább 3%-át.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közszféra két számszerű kötelezettséget kap. A közszféra egészének 1,9%-os éves energiafogyasztás-csökkenést kell elérnie a 2021-es szinthez képest, és a közintézmények tulajdonában lévő épületek teljes alapterületének legalább 3%-át évente fel kell újítani. Az EUMSZ 194. cikk (1) bekezdésének c) pontja — energiahatékonyság és energiatakarékosság — e kötelezettségek szerződéses címe. Az „első az energiahatékonyság” elv e kötelezettségeket a tervezési döntésekbe is beemeli."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "4a655fee0067"
+    },
+    {
+      "question": "Milyen kötelező gáztároló-feltöltési célt vezetett be a 2022. júniusi földgáztárolási rendelet, és meddig hosszabbították meg a hatályát?",
+      "options": [
+        {
+          "text": "A gáztárolási kötelezettség a tagállami energiamix EUMSZ 194. cikk (2) bekezdés szerinti elvonását jelenti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tárolási kötelezettség az ellátásbiztonságot szolgálja, nem a mix elvonását. A helyes: a 194. cikk (1) bekezdésének b) pontja az uniós ellátásbiztonságot rögzíti, míg a (2) bekezdés második albekezdése továbbra is védi a tagállami energiaforrás-választást és az ellátás általános szerkezetét. A tévedés a készletezési kötelezettséget mix-elvonássá torzítja."
+        },
+        {
+          "text": "Az eredetileg vészhelyzeti eszközként elfogadott rendelet hatályát 2027-ig meghosszabbították.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatály 2027-ig tart. Az Ukrajna elleni orosz inváziót követően az ellátásbiztonság vált az Unió fő energiapolitikai prioritásává. Az EUMSZ 194. cikk (1) bekezdésének b) pontja — az uniós ellátásbiztonság — a 90%-os feltöltési cél és a 2027-ig tartó hatály szerződéses fedezete. A rendelet így nem egyszeri téli eszköz, hanem többéves biztonsági keret."
+        },
+        {
+          "text": "A földgáztárolási rendelet csak 50%-os feltöltési célt írt elő, és hatályát 2023 végén megszüntették.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a cél 90% a fűtési idény előtt, a hatályt pedig 2027-ig meghosszabbították. A helyes: a 2022. júniusi földgáztárolási rendelet 90%-os kötelező feltöltési célt vezetett be, és az eredetileg vészhelyzeti eszköz hatályát 2027-ig meghosszabbították. Az EUMSZ 194. cikk (1) bekezdésének b) pontja az uniós ellátásbiztonságot e rendelet szerződéses címeként rögzíti. A tévedés a mértéket és a hatályt egyaránt elrontja."
+        },
+        {
+          "text": "A rendelet kötelező uniós szintű gáztároló-feltöltési célértékeket vezetett be: 90% a fűtési idény előtt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 90%-os feltöltés a téli ellátásbiztonság eszköze. Az Unió 2022 júniusában fogadta el a földgáztárolásról szóló rendeletet, hogy a téli időszak előtt biztosítsa a gázellátáshoz szükséges készleteket. Az ellátásbiztonság három fő dimenziója az infrastruktúra rezilienciája, az erőforrások diverzifikálása és az összehangolt vészhelyzeti reagálás. A 194. cikk (1) bekezdésének b) pontja — az uniós ellátásbiztonság — e rendelet szerződéses fedezete."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "99de3083aab2"
+    },
+    {
+      "question": "Mi a nemzeti energia- és klímatervek (NEKT) szerepe a 2030-as célok lebontásában?",
+      "options": [
+        {
+          "text": "A NEKT a 194. cikk megosztott hatáskörének operatív eszköze: uniós cél, tagállami lebontás, periodikus beszámolás, anélkül hogy a 194. cikk (2) bekezdésének második albekezdése szerinti energiamix-fenntartást elvonná.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lebontás nem jelenti a mix elvonását. Az EUMSZ 194. cikk (2) bekezdésének második albekezdése továbbra is védi a tagállami energiaforrás-kiaknázási feltételeket, a források közötti választást és az ellátás általános szerkezetét. A NEKT tehát uniós célt bont le tagállami tervre. A megosztott hatáskör operatív olvasata ez."
+        },
+        {
+          "text": "A NEKT egyszeri, ötéves terv, beszámolási kötelezettség nélkül, és automatikusan felülírja a tagállami energiamixet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a NEKT tízéves (2021–2030), kétéves jelentéssel jár, és nem vonja el az energiamixet. A helyes: a tagállamoknak tíz évre szóló integrált nemzeti energia- és klímatervet kell kidolgozniuk, kétévente jelentést kell benyújtaniuk, anélkül hogy az EUMSZ 194. cikk (2) bekezdésének második albekezdése szerinti mix-fenntartást elvonnák. A tévedés a tartamot, a beszámolást és a mixet egyaránt elrontja."
+        },
+        {
+          "text": "A NEKT kizárólag a környezetvédelmi cím 191. cikke alá tartozik, az energiaügyi 194. cikk megosztott hatásköre nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a NEKT az energiaügyi cím megosztott hatáskörének operatív eszköze. A helyes: a nemzeti energia- és klímatervek uniós célt bontanak le tagállami szintre az EUMSZ 194. cikk keretében, a (2) bekezdés második albekezdése szerinti mix-fenntartás mellett. A 191. cikk a klímacélok szerződéses otthona, de a NEKT energia–klíma integrált lebontása a 194. cikkhez kötődik. A tévedés a NEKT-et a 191. cikk alá helyezi a 194. cikk helyett."
+        },
+        {
+          "text": "A tagállamoknak tíz évre szóló integrált nemzeti energia- és klímatervet kell kidolgozniuk a 2021 és 2030 közötti időszakra, kétévente jelentést kell benyújtaniuk, és hosszú távú nemzeti stratégiákat kell kidolgozniuk.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a NEKT a 2030-as keret operatív eszköze. A tervek a megállapodás szerinti energiacélok és a Párizsi Megállapodás céljainak elérését szolgálják. Az EUMSZ 194. cikk megosztott hatáskörében az uniós cél tagállami lebontása periodikus beszámolással jár. A hosszú távú stratégiák a 2050-es klímasemlegesség felé vezető pályát is lefedik."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "b980fc855ada"
+    },
+    {
+      "question": "Milyen határidőket ír elő az épületek energiahatékonyságáról szóló irányelv a kibocsátásmentes épületekre?",
+      "options": [
+        {
+          "text": "Az EPBD szerint már 2025-től minden meglévő épületnek kibocsátásmentesnek kell lennie.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a meglévő állomány átalakításának végpontja 2050, nem 2025. A helyes: a 2024. évi EPBD-felülvizsgálat szerint 2030-tól minden új épületnek kibocsátásmentesnek kell lennie, és 2050-re a meglévő épületeket kibocsátásmentes épületté kell átalakítani. Az EUMSZ 194. cikk (1) bekezdésének c) pontja e határidők szerződéses címe. A tévedés a meglévő állomány határidejét öt évre rövidíti."
+        },
+        {
+          "text": "2050-re a meglévő épületeket kibocsátásmentes épületté kell átalakítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a meglévő állomány átalakításának végpontja 2050. Az EPBD 2024. évi felülvizsgálata a meglévő épületekre e hosszú távú kötelezettséget írja elő. Az EUMSZ 194. cikk (1) bekezdésének c) pontja az energiahatékonyságot e pálya szerződéses céljaként rögzíti. A 2030-as újépítési szabály és a 2050-es állományátalakítás együtt olvasható."
+        },
+        {
+          "text": "A 2024. évi felülvizsgálat előírja, hogy 2030-tól minden új épületnek kibocsátásmentesnek kell lennie.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az új épületekre 2030 a fordulópont. Az épületek energiahatékonyságáról szóló irányelv (EPBD) 2024. évi felülvizsgálata e kötelezettséget rögzíti. Az EUMSZ 194. cikk (1) bekezdésének c) pontja — energiahatékonyság és energiatakarékosság — e szabály szerződéses címe. A kötelezettség a zöld megállapodás épületágának operatív eszköze."
+        },
+        {
+          "text": "Az épületenergetikai kötelezettségek kizárólag az EUMSZ 191. cikk környezetvédelmi címéből következnek, a 194. cikk nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az épületenergetika az energiahatékonyság energiaügyi céljához kapcsolódik. A helyes: az EUMSZ 194. cikk (1) bekezdésének c) pontja az energiahatékonyság és az energiatakarékosság előmozdítását rögzíti; az EPBD e cél operatív eszköze. A 191. cikk a klímacélok otthona, de az épületirányelv a 194. cikk c) pontjához kötődik. A tévedés a 191. cikket helyettesíti a 194. cikk helyére."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "a628f69a3b8c"
+    },
+    {
+      "question": "Mit vezetett be a 2024. évi hidrogén- és dekarbonizált gázpiaci csomag a hosszú távú földgázszerződésekre?",
+      "options": [
+        {
+          "text": "A csomag aktualizálta a földgázpiaci irányelv és rendelet szabályait, létrehozta a hidrogénre vonatkozó jogi keretet, és előirányozta a gázinfrastruktúra dekarbonizált gázokra történő átállását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2024. évi csomag három irányban nyitott. A hidrogénre vonatkozó jogi keret új, a földgázpiaci szabályok aktualizálása pedig a dekarbonizált gázokra való átállást szolgálja. Az EUMSZ 194. cikk (1) bekezdésének a) és c) pontja — az energiapiac működése, valamint a hatékonyság és a megújulók — e csomag szerződéses olvasata. A belső piac és a dekarbonizáció így együtt jelenik meg."
+        },
+        {
+          "text": "2049-ig fokozatosan megszüntette a földgázra vonatkozó hosszú távú szerződéseket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hosszú távú földgázszerződések kivezetésének végpontja 2049. A csomag e fokozatos megszüntetést a dekarbonizált gázokra történő átállás részeként írja elő. Az EUMSZ 194. cikk (1) bekezdésének a) pontja az energiapiac működését ez az átállás szerződéses kereteként rögzíti. A 2049-es határidő a 2050-es klímasemlegességhez igazodik."
+        },
+        {
+          "text": "A csomag a hosszú távú földgázszerződéseket 2030-tól azonnal és teljes körűen megtiltotta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megszüntetés fokozatos, és a végpont 2049. A helyes: a 2024. évi hidrogén- és dekarbonizált gázpiaci csomag 2049-ig fokozatosan szünteti meg a földgázra vonatkozó hosszú távú szerződéseket, miközben létrehozza a hidrogén jogi keretét. Az EUMSZ 194. cikk (1) bekezdésének a) pontja az energiapiac működését e szabály szerződéses címeként rögzíti. A tévedés a 2049-es fokozatosságot 2030-as azonnali tilalomra cseréli."
+        },
+        {
+          "text": "A hidrogén jogi kerete az Euratom-Szerződés része, nem az energiaügyi másodlagos jogé.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hidrogén kerete a 2024. évi gázpiaci csomag része, nem az Euratomé. A helyes: a hidrogén- és dekarbonizált gázpiaci csomag létrehozta a hidrogénre vonatkozó jogi keretet az energiaügyi másodlagos jogban; az Euratom-Szerződés a nukleáris politika különálló kerete marad. Az EUMSZ 194. cikk (1) bekezdése az energiapiac és a dekarbonizáció céljait e csomaghoz köti. A tévedés a hidrogént az Euratom alá helyezi."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "ff3580bc175c"
+    },
+    {
+      "question": "Mely esetben kíván egyhangúságot az energiaügyi cím az adózási természetű intézkedéseknél?",
+      "options": [
+        {
+          "text": "Az elsődlegesen adózási természetű energiaügyi intézkedések mindig rendes jogalkotási eljárásban, minősített többséggel születnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az adózási természetű energiaügyi intézkedések egyhangú tanácsi különleges eljárást kívánnak. A helyes: az EUMSZ 194. cikk (3) bekezdése szerint, ha a (2) bekezdés szerinti intézkedések elsődlegesen adózási természetűek, a Tanács az Európai Parlamenttel folytatott konzultációt követően, különleges eljárásban, egyhangúlag dönt. A tévedés a (3) bekezdés kivételét a (2) bekezdés rendes eljárásába olvasztja."
+        },
+        {
+          "text": "Az adózási egyhangúság csak a környezetvédelmi címben él; az energiaügyi címben az adózási intézkedés is minősített többséggel fogadható el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az adózási egyhangúság mindkét címben jelen van. A helyes: az EUMSZ 192. cikk (2) bekezdésének a) pontja az elsődlegesen adózási természetű környezetvédelmi rendelkezéseknél, a 194. cikk (3) bekezdése pedig az elsődlegesen adózási természetű energiaügyi intézkedéseknél kíván egyhangúságot. A tévedés az energiaügyi adózási kivételt tagadja."
+        },
+        {
+          "text": "Ha a 194. cikk (2) bekezdése szerinti intézkedések elsődlegesen adózási természetűek, a Tanács az Európai Parlamenttel folytatott konzultációt követően, különleges jogalkotási eljárásban, egyhangúlag állapítja meg őket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az adózási ág kivétel a rendes eljárás alól. Az EUMSZ 194. cikk (3) bekezdése szerint a (2) bekezdéstől eltérve az elsődlegesen adózási természetű intézkedéseket a Tanács egyhangúlag, különleges eljárásban állapítja meg. A Parlamenttel konzultálni kell, társjogalkotóként azonban nem dönt. A környezetvédelmi címben az EUMSZ 192. cikk (2) bekezdésének a) pontja hasonló egyhangúságot kíván az elsődlegesen adózási rendelkezéseknél."
+        },
+        {
+          "text": "Az energiaadó-irányelv 2021. évi felülvizsgálati javaslatának elhúzódó tárgyalásai e (3) bekezdés — illetve a környezetvédelmi cím párhuzamos — egyhangúsági küszöbével magyarázhatók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az adózási egyhangúság a tárgyalások elhúzódásának szerződéses oka. Az energiaadó-irányelv minimum adómértékeket határoz meg a villamos energiára, a közlekedési és a fűtési tüzelőanyagokra, a belső piac érdekében harmonizálva. A 2021. évi javaslat az energiatermékek adózását a környezetvédelmi és éghajlat-politikával kívánja összehangolni. Az EUMSZ 192. cikk (2) bekezdésének a) pontja és a 194. cikk (3) bekezdése együtt magyarázza, hogy a tárgyalások még folynak."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "df0d7794e3a2"
+    },
+    {
+      "question": "Mit mutatnak az elért kibocsátáscsökkentési adatok az Unió éghajlatpolitikai pályájáról?",
+      "options": [
+        {
+          "text": "2022-ben az Unió teljes üvegházhatásúgáz-kibocsátása az 1990-es szinthez képest több mint 30%-kal alacsonyabb volt; az energiaágazatok érték el a legjelentősebb, 47%-os csökkentést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a teljes kibocsátás és az energiaágazat mérhetően csökkent. A 2020-as 20%-os célt az Unió már 2019-ben 24%-kal, 2020-ban 30%-kal túlteljesítette. Az EUMSZ 191. cikk (1) bekezdésének éghajlatváltozási célja e pálya szerződéses kerete. Az energiaunió dekarbonizációs pillére tehát már mérhető eredménnyel jár."
+        },
+        {
+          "text": "2022-ben minden ágazatban legalább 47%-os volt a kibocsátáscsökkenés az 1990-es szinthez képest.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 47% az energiaágazatra vonatkozik, nem minden ágazatra; a közlekedés nő. A helyes: 2022-ben a teljes kibocsátás több mint 30%-kal volt 1990 alatt, az energiaágazatokban 47%-kal, miközben a közlekedés és a nemzetközi légi közlekedés nőtt. Az EUMSZ 191. cikk (1) bekezdése az éghajlatváltozás elleni küzdelmet az ágazati különbségek mellett is célként rögzíti. A tévedés az energiaágazati 47%-ot általánosítja."
+        },
+        {
+          "text": "Egyes ágazatokban — a nemzetközi légi közlekedésben és a közlekedésben — nő a kibocsátás; ezért az „Irány az 55%!” közlekedési intézkedései a 2030-as legalább 55%-os cél tartásának feltételei.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közlekedési ág a lemaradó. A kibocsátás nem minden ágazatban csökken azonos ütemben: a közlekedés és a nemzetközi légi közlekedés nő, miközben az energiaágazat 47%-kal csökkent. Az EUMSZ 191. cikk (2) bekezdése szerinti magas szintű védelem az ágazati egyenlőtlenség mellett is a teljes pályát köti. A közlekedési intézkedések ezért nem kiegészítők, hanem a cél tartásának feltételei."
+        },
+        {
+          "text": "Az elért csökkentés azt jelenti, hogy a 2030-as legalább 55%-os cél már teljesült, további intézkedés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2022-es több mint 30%-os csökkentés még nem éri el a 2030-as legalább 55%-ot. A helyes: 2022-ben a teljes kibocsátás több mint 30%-kal volt 1990 alatt; a legalább 55%-os 2030-as cél és a 2050-es nettó zéró további intézkedéseket igényel, különösen a növekvő közlekedési kibocsátás miatt. Az EUMSZ 191. cikk (2) bekezdése a magas szintű védelmet e pálya mércéjévé teszi. A tévedés a köztes adatot a 2030-as cél teljesítéseként olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "ad06621365d2"
+    },
+    {
+      "question": "Milyen szerepet játszik az Európai Parlament és az ITRE bizottság az energiaunió alakításában?",
+      "options": [
+        {
+          "text": "A 90 tagú Ipari, Kutatási és Energiaügyi Bizottság (ITRE) feladata az energiaellátás biztonságával, az energiahatékonysággal és a megújuló energiaforrások integrálásával kapcsolatos jogszabályok kidolgozása és módosítása, valamint a Bizottság javaslatainak ellenőrzése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ITRE a Parlament egyik legnagyobb és legaktívabb bizottsága. Jogalkotási kötelezettségein túl nyomon követi az energiaunió menetrendjének végrehajtását. Szakértői meghallgatásokkal és a Tanáccsal folytatott közvetlen tárgyalásokkal a gazdaság versenyképessége és a megfizethető energia egyensúlyán őrködik. Az EUMSZ 194. cikk (1) bekezdésének négy célja e bizottsági munka szerződéses kerete."
+        },
+        {
+          "text": "A Parlament társjogalkotóként részt vesz az energiaunió alakításában, és következetesen szigorúbb éghajlat-védelmi célok kitűzését, valamint a határokon átnyúló szolidaritás megerősítését szorgalmazza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Parlament a rendes jogalkotás társjogalkotója. Az EUMSZ 192. cikk (1) bekezdése és a 194. cikk (2) bekezdése szerint az Európai Parlament és a Tanács rendes eljárásban dönt a környezet- és energiapolitikai intézkedésekről. A Parlament a tisztaipar-megállapodásról szóló, 2025. június 19-i állásfoglalásában az energiaunió kiteljesítését és a 15%-os összekapcsolási cél teljesítését is szorgalmazta. A szolidaritás és a szigorúbb célok e társjogalkotói szerep politikai tartalma."
+        },
+        {
+          "text": "A Parlament csak konzultációs joggal rendelkezik az energiaügyi aktusoknál; társjogalkotóként nem dönt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály szerint a Parlament társjogalkotó. A helyes: az EUMSZ 194. cikk (2) bekezdése szerint az Európai Parlament és a Tanács rendes jogalkotási eljárásban állapítja meg a szükséges energiaügyi intézkedéseket; a (3) bekezdés szerinti adózási ágnál viszont csak konzultáció történik. A tévedés a (3) bekezdés kivételét általánosítja a (2) bekezdés főszabályára."
+        },
+        {
+          "text": "Az ITRE kizárólag a mezőgazdasági támogatások ellenőrzésére jogosult, energiaügyi jogszabályokhoz nem nyúlhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ITRE éppen az energiaügyi jogszabályok kidolgozásának és módosításának fóruma. A helyes: a 90 tagú Ipari, Kutatási és Energiaügyi Bizottság feladata az energiaellátás biztonságával, az energiahatékonysággal és a megújulók integrálásával kapcsolatos jogszabályok kidolgozása és módosítása. Az EUMSZ 194. cikk (1) bekezdése e hatáskör szerződéses célkerete. A tévedés az ITRE tárgykörét mezőgazdaságra cseréli."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "e69bec1911a0"
+    },
+    {
+      "question": "Mit ír elő az (EU) 2026/261 rendelet az orosz földgáz- és LNG-behozatalról?",
+      "options": [
+        {
+          "text": "A rendelet 2027 őszétől betiltja az orosz LNG és vezetékes földgáz behozatalát, és előírja, hogy a tagállamok 2026. március 1-jéig nyújtsanak be diverzifikációs terveket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom 2027 őszétől él, a diverzifikációs tervek 2026. március 1-jéig esedékesek. A rendelet az orosz földgáz behozatalának fokozatos megszüntetéséről és az orosz olaj behozatalának megszüntetésére való felkészülésről szól. Az EUMSZ 194. cikk (1) bekezdésének b) pontja — az uniós ellátásbiztonság — e tilalom szerződéses olvasata. A helyettesítő forrás megválasztása a tagállami tervekben marad."
+        },
+        {
+          "text": "A tilalom a 194. cikk (1) bekezdésének b) pontja és a REPowerEU három pillére szerinti olvasatban a diverzifikáció kényszerítő eszköze, nem a 194. cikk (2) bekezdése szerinti energiamix elvonása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a forráshelyettesítés nem mix-elvonás. Az EUMSZ 194. cikk (2) bekezdésének második albekezdése továbbra is védi a tagállami energiaforrás-választást és az ellátás általános szerkezetét. A diverzifikációs tervek a helyettesítő forrás megválasztását a tagállamoknál hagyják. A Parlament a Bizottság jogalkotási javaslatát várja az orosz olaj uniós behozatalának betiltásáról."
+        },
+        {
+          "text": "A rendelet már 2025-től azonnal és teljes körűen megtiltotta az orosz gáz és olaj minden formájának behozatalát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a gáz- és LNG-tilalom 2027 őszétől él, az olajtilalom javaslata pedig még várat magára. A helyes: az (EU) 2026/261 rendelet 2027 őszétől tiltja az orosz LNG-t és a vezetékes földgázt; a tagállami diverzifikációs tervek 2026. március 1-jéig esedékesek, az olajtilalomra a Parlament a Bizottság javaslatát várja. Az EUMSZ 194. cikk (1) bekezdésének b) pontja e fokozatosság szerződéses címe. A tévedés a határidőt és az olajágat egyaránt elrontja."
+        },
+        {
+          "text": "A rendelet a tagállami energiamixet az Unió kizárólagos hatáskörébe vonja, ezért a helyettesítő forrás megválasztása nem maradhat a tagállamoknál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a helyettesítő forrás megválasztása a tagállami tervekben marad. A helyes: a tilalom az EUMSZ 194. cikk (1) bekezdésének b) pontja szerinti ellátásbiztonság és a REPowerEU diverzifikációs pillére szerinti olvasat; a (2) bekezdés második albekezdése szerinti mix-fenntartást nem vonja el. A tévedés a diverzifikációs kényszert mix-elvonássá torzítja."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "ac93c1708fdf"
+    },
+    {
+      "question": "Mi a transzeurópai energiaipari infrastruktúra (TEN-E) és a hálózati összekapcsolás szerepe az energiaunióban?",
+      "options": [
+        {
+          "text": "A TEN-E iránymutatások a közös érdekű projekteket határozzák meg és támogatják: nagy léptékű, határokon átnyúló infrastrukturális beruházásokat, amelyek a klímasemleges Unióhoz elengedhetetlenek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a TEN-E a közös érdekű projektek kerete. Először 2013-ban fogadták el, 2022-ben a zöld megállapodás célkitűzéseihez igazították, 2025 decemberében az európai hálózati csomag részeként újabb felülvizsgálatot javasoltak. A finanszírozás az Európai Hálózatfinanszírozási Eszköz. Az EUMSZ 194. cikk (1) bekezdésének d) pontja — az energiahálózatok összekapcsolása — e politika szerződéses címe."
+        },
+        {
+          "text": "A hálózati összekapcsolás kívül esik az EUMSZ 194. cikk céljain; csak a 191. cikk környezetvédelmi címéből vezethető le.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hálózati összekapcsolás az energiaügyi cím d) pontja. A helyes: az EUMSZ 194. cikk (1) bekezdésének d) pontja az energiahálózatok összekapcsolásának előmozdítását rögzíti; a 170–172. cikk a transzeurópai infrastruktúráról állapít meg konkrét rendelkezéseket. A tévedés a d) pontot a 191. cikk alá helyezi."
+        },
+        {
+          "text": "A Parlament a 15%-os villamosenergia-összekapcsolási cél teljesítését és a hálózatok 2050-es átállásban játszott központi szerepét hangsúlyozza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 15%-os összekapcsolási cél a fizikai szolidaritás mércéje. A tisztaipar-megállapodásról szóló, 2025. június 19-i állásfoglalás az energiaunió kiteljesítését és a határokon átnyúló villamosenergia-kereskedelem fokozását szorgalmazta. A villamosenergia-hálózatokról szóló, ugyanezen napi állásfoglalás a hálózatokat a 2050-ig megvalósítandó, klímasemleges gazdaság központi elemének minősítette. Az EUMSZ 194. cikk (1) bekezdésének d) pontja e cél szerződéses fedezete."
+        },
+        {
+          "text": "A TEN-E kizárólag nemzeti, határokon belüli projekteket támogat, közös érdekű határokon átnyúló beruházás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a TEN-E éppen a határokon átnyúló, közös érdekű projekteket támogatja. A helyes: a TEN-E iránymutatások nagy léptékű, határokon átnyúló infrastrukturális beruházásokat határoznak meg és támogatnak, amelyek a klímasemleges Unióhoz elengedhetetlenek. Az EUMSZ 194. cikk (1) bekezdésének d) pontja az energiahálózatok összekapcsolását e politika céljaként rögzíti. A tévedés a határokon átnyúló jelleget tagadja."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "fe54aea39d21"
+    },
+    {
+      "question": "Milyen négy pillérre épül a megfizethető energiára vonatkozó cselekvési terv?",
+      "options": [
+        {
+          "text": "A négy pillér az energiaköltségek csökkentése, az energiaunió megvalósítása, a beruházások vonzása és a teljesítés biztosítása, valamint a válsághelyzetekre való felkészültség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tisztaipar-megállapodás részeként előterjesztett terv e négy pillérre épül. Célja a háztartások és az ipar energiaköltségeinek csökkentése. Az EUMSZ 194. cikk (1) bekezdésének a) pontja — az energiapiac működése — e terv szerződéses olvasata. A megfizethetőség így a belső energiapiac integrációjához kapcsolódik."
+        },
+        {
+          "text": "A hálózati csomag kizárólag a 191. cikk környezetvédelmi címén alapul, az energiaügyi 194. cikk nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hálózati csomag az energiaügyi cím hálózati összekapcsolási céljához kötődik. A helyes: az EUMSZ 194. cikk (1) bekezdésének d) pontja az energiahálózatok összekapcsolásának előmozdítását rögzíti; a 2025. decemberi európai hálózati csomag e cél operatív eszköze. A tévedés a hálózati intézkedést a 191. cikk alá helyezi a 194. cikk helyett."
+        },
+        {
+          "text": "A megfizethető energiára vonatkozó terv egyetlen pillére a kötelező árszabályozás minden tagállamban, hálózati intézkedés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a terv négy pillérre épül, és a hálózati csomag is része a megközelítésnek. A helyes: a négy pillér az energiaköltségek csökkentése, az energiaunió megvalósítása, a beruházások vonzása és a teljesítés biztosítása, valamint a válsághelyzetekre való felkészültség; a 2025. decemberi hálózati csomag a túlterheltséget és az engedélyezési késedelmeket kezeli. Az EUMSZ 194. cikk (1) bekezdésének a) és d) pontja e szerkezet szerződéses kerete. A tévedés a négy pillért egyetlen árszabályozássá szűkíti."
+        },
+        {
+          "text": "A terv a tisztaipar-megállapodás részeként a háztartások és az ipar energiaköltségeinek csökkentését tűzi ki; a négy pillér együttesen szolgálja a megfizethetőséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a cselekvési terv célja a háztartások és az ipar energiaköltségeinek csökkentése. A négy pillér — költségek csökkentése, energiaunió, beruházás–teljesítés, válságfelkészültség — e cél operatív szerkezete. Az EUMSZ 194. cikk (1) bekezdésének a) pontja — az energiapiac működése — e megfizethetőségi olvasat szerződéses kerete. A hálózati csomag társanyag, de nem a négy pillér egyikének helyettesítője."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "bb1071025ede"
+    },
+    {
+      "question": "Mit takar az energiaunió szakpolitikai négyese a dekarbonizáció, a versenyképesség, az ellátásbiztonság és a fenntarthatóság mellett?",
+      "options": [
+        {
+          "text": "A belső energiapiac integrációja kívül esik a 194. cikk céljain; csak a 191. cikk környezetvédelmi címéből vezethető le.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a piac működése és a hálózati összekapcsolás az energiaügyi cím a) és d) pontja. A helyes: az EUMSZ 194. cikk (1) bekezdésének a) pontja az energiapiac működésének biztosítását, d) pontja az energiahálózatok összekapcsolásának előmozdítását rögzíti. A tévedés a belső energiapiacot a 191. cikk alá helyezi a 194. cikk helyett."
+        },
+        {
+          "text": "Az energiapolitika általános elveinek középpontjában a teljes mértékben integrált energiaunió áll; a szakpolitika a dekarbonizációra, a versenyképességre, az ellátásbiztonságra és a fenntarthatóságra irányul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az energiaunió a négy szakpolitikai irány operatív kerete. A lisszaboni szerződés az EUMSZ 194. cikkel megosztott hatáskör alá rendelte az energiapolitika egyes területeit. A tagállamok ugyanakkor továbbra is jogosultak saját energiaszerkezetük meghatározására. A 194. cikk (2) bekezdésének második albekezdése e jogosultságot a közös politika határköveként védi."
+        },
+        {
+          "text": "A teljes mértékben integrált és megfelelően működő belső energiapiac a megfizethető energiaárakat, a zöld beruházásokhoz szükséges árjelzéseket, az ellátásbiztonságot és a klímasemlegesség legkevésbé költséges megvalósítását szolgálja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a belső energiapiac e négy funkciót hordozza. Az EUMSZ 194. cikk (1) bekezdésének a) és d) pontja — a piac működése és a hálózatok összekapcsolása — ez az integráció szerződéses magja. A későbbi aktusok a kockázatokkal szembeni felkészültségre, a koordinációra, a fogyasztói ösztönzőkre és a dekarbonizációra összpontosítottak. A klímasemlegesség legkevésbé költséges útja tehát a piaci integráción át vezet."
+        },
+        {
+          "text": "Az energiaunió kizárólagos uniós hatáskör, ezért a tagállamok energiaszerkezet-meghatározási joga megszűnt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az energiapolitika megosztott hatáskör, és a tagállami energiaszerkezet védett. A helyes: a lisszaboni szerződés az EUMSZ 194. cikkel megosztott hatáskör alá rendelte az energiapolitika egyes területeit; a (2) bekezdés második albekezdése nem engedi a tagállami energiaforrás-választás és az ellátás általános szerkezetének befolyásolását. A tévedés a megosztott hatáskört kizárólagossággá torzítja."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "2b04a1357fb1"
+    },
+    {
+      "question": "Mit enged a környezetvédelmi harmonizációs intézkedések védzáradéka a tagállamoknak?",
+      "options": [
+        {
+          "text": "A környezetvédelmi követelményeknek megfelelő harmonizációs intézkedések adott esetben egy védzáradékot foglalnak magukban, amely felhatalmazza a tagállamokat arra, hogy nem gazdasági jellegű környezetvédelmi okokból uniós ellenőrzési eljárás alá tartozó ideiglenes intézkedéseket hozzanak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a védzáradék szűk, feltételhez kötött eltérést enged. Az EUMSZ 191. cikk (2) bekezdése szerint a politika a magas szintű védelmet célozza, és e védzáradékot is tartalmazza. Az intézkedés ideiglenes, uniós ellenőrzés alá tartozik, és nem gazdasági jellegű környezetvédelmi okon alapul. A klímaintézkedések dogmatikáját is e szerkezet köti."
+        },
+        {
+          "text": "A védzáradék az EUMSZ 194. cikk energiaügyi címének része, nem a 191. cikk környezetvédelmi címéé.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a védzáradék a környezetvédelmi cím (2) bekezdésében van. A helyes: az EUMSZ 191. cikk (2) bekezdése rögzíti a harmonizációs intézkedések védzáradékát; a 194. cikk az energiapolitika négy célját és a mix-tilalmat rendezi. A tévedés a védzáradékot az energiacímbe helyezi."
+        },
+        {
+          "text": "A magas szintű védelem mellett a politika az elővigyázatosság és a megelőzés elvén, a környezeti károk forrásuknál történő elhárításának elvén, valamint a „szennyező fizet” elven alapul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés az elveket és a védzáradékot együtt rögzíti. Az EUMSZ 191. cikk (2) bekezdése szerint: a cél a magas szintű védelem a régiók helyzetében mutatkozó különbségek figyelembevételével. Az elővigyázatosság, a megelőzés, a forrásnál történő elhárítás és a „szennyező fizet” elve a klímaintézkedéseket is köti. A védzáradék ezen az elvrendszeren belül enged ideiglenes tagállami eltérést."
+        },
+        {
+          "text": "A védzáradék gazdasági indokkal is végleges eltérést enged uniós ellenőrzés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a védzáradék nem gazdasági jellegű okot, ideiglenes intézkedést és uniós ellenőrzést kíván. A helyes: az EUMSZ 191. cikk (2) bekezdése szerint a tagállamok nem gazdasági jellegű környezetvédelmi okokból, uniós ellenőrzési eljárás alá tartozó ideiglenes intézkedéseket hozhatnak. A tévedés a három korlátot — nem gazdasági ok, ideiglenesség, uniós ellenőrzés — egyaránt feloldja."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "04f13d837692"
+    },
+    {
+      "question": "Milyen döntéshozatali szabály vonatkozik a környezetpolitikai általános cselekvési programokra?",
+      "options": [
+        {
+          "text": "Az általános cselekvési programokat mindig egyhangú tanácsi különleges eljárásban kell elfogadni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a programok rendes jogalkotási eljárásban születnek. A helyes: az EUMSZ 192. cikk (3) bekezdése szerint az Európai Parlament és a Tanács rendes eljárásban fogadja el az általános cselekvési programokat; az egyhangúság a (2) bekezdés kivételes eseteire — például adózás, jelentős energiaszerkezeti érintettség — vonatkozik. A tévedés a (2) bekezdés kivételét a (3) bekezdés programjaira általánosítja."
+        },
+        {
+          "text": "A 191. cikkben említett célok elérése érdekében teendő lépésekről a főszabály szerint szintén az Európai Parlament és a Tanács dönt rendes jogalkotási eljárásban, a két bizottsággal folytatott konzultációt követően.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés a főszabály a 191. cikk céljainak elérésére. Az EUMSZ 192. cikk (1) bekezdése szerint az Európai Parlament és a Tanács rendes eljárásban határoz arról, hogy az Uniónak milyen lépéseket kell tennie. A (2) bekezdés ettől eltérve egyhangúságot kíván az adózási, területrendezési, vízkészlet-gazdálkodási, földhasználati és jelentős energiaszerkezeti érintettségű intézkedéseknél. A programok (3) bekezdése és a lépések (1) bekezdése így együtt olvasható."
+        },
+        {
+          "text": "A végrehajtó intézkedések mindig az (1) bekezdés rendes eljárásában születnek, a (2) bekezdés egyhangúsága a végrehajtásra soha nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a végrehajtó intézkedések az (1) vagy a (2) bekezdés feltételei szerint születnek. A helyes: az EUMSZ 192. cikk (3) bekezdése szerint a programok végrehajtásához szükséges intézkedéseket az adott esettől függően az (1), illetve a (2) bekezdésben foglalt feltételeknek megfelelően kell elfogadni. A tévedés a (2) bekezdés alkalmazhatóságát a végrehajtásról kizárja."
+        },
+        {
+          "text": "Az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében, a Gazdasági és Szociális Bizottsággal, valamint a Régiók Bizottságával folytatott konzultációt követően fogadja el azokat az általános cselekvési programokat, amelyek az elérendő elsődleges célkitűzéseket meghatározzák.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a programok a (3) bekezdés szerint rendes eljárásban születnek. Az EUMSZ 192. cikk (3) bekezdése szerint az Európai Parlament és a Tanács rendes jogalkotási eljárásban fogadja el azokat az általános cselekvési programokat, amelyek az elérendő elsődleges célkitűzéseket meghatározzák. Az ilyen programok végrehajtásához szükséges intézkedéseket az (1) vagy a (2) bekezdés feltételei szerint kell elfogadni. A program tehát a célokat jelöli ki, a végrehajtás a tartalomtól függően rendes vagy egyhangú útra mehet."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "19e423bd375f"
+    },
+    {
+      "question": "A villamosenergia-piac 2024. évi reformja milyen irányokat mozdít elő a liberalizált uniós piacon?",
+      "options": [
+        {
+          "text": "A 2024. évi módosító irányelv és módosító rendelet a hosszú távú szerződéseket, a fogyasztóvédelmet és az energiamegosztást mozdítja elő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2024. évi reform e három irányt emeli ki. Az 1998., 2003. és 2009. évi csomagok liberalizálták és integrálták az uniós villamosenergia-piacot; a 2024. évi módosítás erre épül. Az EUMSZ 194. cikk (1) bekezdésének a) pontja — az energiapiac működésének biztosítása — e reform szerződéses címe. A hosszú távú szerződések a megfizethetőség és a beruházási jelzések eszközei."
+        },
+        {
+          "text": "A villamosenergia-piaci reform kizárólag az EUMSZ 191. cikk környezetvédelmi címén alapul, a 194. cikk energiaügyi céljai nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a villamosenergia-piac az energiaügyi cím piaci céljához kapcsolódik. A helyes: az EUMSZ 194. cikk (1) bekezdésének a) pontja az energiapiac működésének biztosítását rögzíti; a 2024. évi reform e cél operatív eszköze. A tévedés a piaci reformot a 191. cikk alá helyezi a 194. cikk helyett."
+        },
+        {
+          "text": "A 2024. évi reform megszüntette a liberalizált villamosenergia-piacot, és visszaállította a kizárólagos nemzeti monopóliumokat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a reform a liberalizált és integrált piacra épül, nem szünteti meg azt. A helyes: az 1998., 2003. és 2009. évi csomagok liberalizálták és integrálták az uniós villamosenergia-piacot; a 2024. évi módosító irányelv és rendelet a hosszú távú szerződéseket, a fogyasztóvédelmet és az energiamegosztást mozdítja elő. Az EUMSZ 194. cikk (1) bekezdésének a) pontja az energiapiac működését e reform szerződéses címeként rögzíti. A tévedés a reformot monopol-visszaállítássá torzítja."
+        },
+        {
+          "text": "A belső energiapiacra vonatkozó jogszabályok kezdetben a határon átnyúló együttműködés és a tisztességes kiskereskedelmi piacok elvein alapultak; a későbbi aktusok a kockázatokkal szembeni felkészültségre, a koordinációra és a dekarbonizációra is összpontosítottak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szabályozás fejlődése a liberalizációtól a reziliencia és a dekarbonizáció felé mozdult. Az EUMSZ 194. cikk (1) bekezdésének a) és b) pontja — a piac működése és az ellátásbiztonság — e fejlődés szerződéses kerete. A 2024. évi reform a fogyasztóvédelemmel és az energiamegosztással a kiskereskedelmi oldalt erősíti. A piaci integráció így a klímasemlegesség legkevésbé költséges útját is szolgálja."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "8a9077f9b4bf"
+    }
+  ]
+}

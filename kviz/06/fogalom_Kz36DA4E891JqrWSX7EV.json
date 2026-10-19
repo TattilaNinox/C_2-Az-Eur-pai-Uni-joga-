@@ -1,0 +1,765 @@
+{
+  "id": "Kz36DA4E891JqrWSX7EV",
+  "sorszam": 6,
+  "cim": "Az Európai Unió Bíróságának felépítése és működése",
+  "generationType": "fogalom",
+  "title": "6. Az Európai Unió Bíróságának felépítése és működése",
+  "questions": [
+    {
+      "question": "Mit rögzít az EUSZ a Bíróság belső szervezeti egységeiről és a fórum feladatáról?",
+      "options": [
+        {
+          "text": "Az EUSZ 19. cikk (1) bekezdése taxatíve felsorolja a kötelezettségszegési, semmisségi és előzetes döntési kereseteket is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 19. cikk a feladatot és a szerkezetet adja, nem a keresettípusok katalógusát. Az EUSZ 19. cikk (1) bekezdése a szervezeti hármast és a jogszerűség őrzését rögzíti, a keresettípusokat nem sorolja fel. Az EUMSZ 258–274. cikke telepíti a kötelezettségszegést, a semmisséget, az előzetes döntést és a többi utat. A tévedés a hatásköri katalógus ráírása a szervezeti alaprendelkezésre."
+        },
+        {
+          "text": "Az Európai Unió Bírósága a Bíróságból, a Törvényszékből és különös hatáskörű törvényszékekből áll, és biztosítja a jog tiszteletben tartását a Szerződések értelmezése körében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 19. cikk a szervezeti hármast és a jogszerűségi feladatot egy rendelkezésben egyesíti. Az EUSZ 19. cikk (1) bekezdése szerint: „Az Európai Unió Bírósága a Bíróságból, a Törvényszékből és különös hatáskörű törvényszékekből áll.” Ugyanezen bekezdés második mondata a fórumot a Szerződések értelmezése körében a jog tiszteletben tartásának biztosítására kötelezi. A három egység nem három külön intézmény, hanem e fórum részei."
+        },
+        {
+          "text": "A Bíróság, a Törvényszék és a különös hatáskörű törvényszékek három önálló uniós intézményként működnek, külön EUSZ-intézményi státusszal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a belső egységeket önálló intézményekké torzítja. Az EUSZ 19. cikk (1) bekezdése az Európai Unió Bíróságát nevezi meg, és a Bíróságot, a Törvényszéket és a különös hatáskörű törvényszékeket e fórum részeiként állítja. A három egység tehát egy intézmény belső tagolása, nem három külön EUSZ-intézmény. A tévedés forrása a fórum szervezeti tagolásának intézményi listára vetítése."
+        },
+        {
+          "text": "A három belső egység nem három külön intézmény: a 19. cikk az Európai Unió Bíróságát nevezi meg, és a Bíróságot, a Törvényszéket és a különös hatáskörű törvényszékeket e fórum részeiként állítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 19. cikk egy fórumot nevez meg, nem három intézményt. Az EUSZ 19. cikk (1) bekezdése szerint az Európai Unió Bírósága a Bíróságból, a Törvényszékből és különös hatáskörű törvényszékekből áll. A rendelkezés e három egységet a fórum belső tagolásaként állítja, nem önálló EUSZ-intézményi státusszal. A ratio legis az, hogy a Szerződések értelmezése ne essen szét párhuzamos fórumokra."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "067fb2406d5f"
+    },
+    {
+      "question": "Milyen eljáró formációkban jár el a Bíróság az EUMSZ szerint?",
+      "options": [
+        {
+          "text": "A Bíróság az alapokmányában megállapított szabályoknak megfelelően tanácsokban vagy nagytanácsban jár el, és ha az alapokmány úgy rendelkezik, teljes ülésben is eljárhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főszabály a tanács vagy a nagytanács, a teljes ülés kivétel. Az EUMSZ 251. cikke szerint: „A Bíróság az alapokmányában erre vonatkozóan megállapított szabályoknak megfelelően tanácsokban vagy nagytanácsban jár el.” Ugyanezen cikk lehetővé teszi a teljes ülést, ha az alapokmány úgy rendelkezik. A tanács az intézmény nevében dönt; a belső formáció nem bontja meg a 19. cikk szerinti egységes fórumot."
+        },
+        {
+          "text": "A tanácsi beosztás részletes rendje az alapokmányban dől el, amelyet az EUMSZ 281. cikke külön jegyzőkönyvként állapít meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tanácsok, a nagytanács és a teljes ülés részletes beosztása nem a 251. cikkben, hanem az alapokmányban dől el. Az EUMSZ 281. cikke szerint az Európai Unió Bíróságának alapokmányát külön jegyzőkönyv állapítja meg. Az EUMSZ 251. cikke a formációt e jegyzőkönyvre utalja, és ezzel a 281. cikk módosítási rendjéhez köti. A nagytanács és a teljes ülés a súlyosabb, intézményi vagy egységességi ügyek fóruma; a tanács a mindennapi ítélkezés."
+        },
+        {
+          "text": "A tanácsi formációkat a Tanács minősített többséggel, rendeleti úton állapítja meg, az alapokmány megkerülésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a formációt nem a Tanács rendelete, hanem az alapokmány szabja. Az EUMSZ 251. cikke kifejezetten az alapokmányban megállapított szabályokra utal. Az EUMSZ 281. cikke az alapokmányt külön jegyzőkönyvben rögzíti, és azt — az I. cím és a 64. cikk kivételével — rendes jogalkotási eljárásban a Parlament és a Tanács módosíthatja. A tévedés a rendes tanácsi rendelet és az alapokmányi jegyzőkönyv összekeveréséből ered."
+        },
+        {
+          "text": "A Bíróság a 251. cikk szerint főszabályként teljes ülésben jár el, és tanácsban vagy nagytanácsban csak akkor dönt, ha az alapokmány ezt kifejezetten előírja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EUMSZ 251. cikke a formációk sorrendjét fordítva állítja, ha a teljes ülést főszabállyá teszi. Az EUMSZ 251. cikke szerint a Bíróság tanácsokban vagy nagytanácsban jár el; a teljes ülés csak akkor nyílik, ha az alapokmány úgy rendelkezik. A teljes ülés tehát kivétel, nem a mindennapi főszabály. A tévedés a tanács/nagytanács–teljes ülés viszonyának megfordításából ered, és a nemzeti plenáris gyakorlat ráírásával erősödik."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "91d39d8ac6d8"
+    },
+    {
+      "question": "Milyen szerepet és létszámkeretet ad az EUMSZ a főtanácsnokoknak?",
+      "options": [
+        {
+          "text": "A főtanácsnok teljesen pártatlanul és függetlenül, nyilvános tárgyaláson indokolással ellátott indítványt terjeszt elő azokban az ügyekben, amelyekben az alapokmány a részvételét előírja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az indítvány nyilvános, pártatlan és személyhez kötött előkészítő aktus. Az EUMSZ 252. cikke a főtanácsnok feladatát így határozza meg: teljesen pártatlanul és függetlenül eljárva, nyilvános tárgyaláson indokolással ellátott indítványt terjeszt elő. Az indítvány nem ítélet, és nem köti a tanácsot. Az alapokmány dönti el, mely ügyekben van szükség főtanácsnokra; a 253. cikk kinevezési mércéje a főtanácsnokra is áll."
+        },
+        {
+          "text": "A főtanácsnoki indítvány a tanácsot kötelezi, és az indítvány nélkül hozott ítélet semmis.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az indítványt ítéleti erővel ruházza fel. Az EUMSZ 252. cikke szerint a főtanácsnok indokolással ellátott indítványt terjeszt elő, de ez nem ítélet, és nem köti a tanácsot. A döntés előkészítésének nyilvános, személyhez kötött formája; a 251. cikk szerinti tanács ettől még az intézmény nevében ítél. A tévedés forrása a főtanácsnoki indítvány és a bírói ítélet joghatásának összekeverése."
+        },
+        {
+          "text": "A Bíróságot nyolc főtanácsnok segíti; a szám a Bíróság kérésére a Tanács egyhangú határozatával növelhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a létszám szerződési alapszám, a növelés egyhangú tanácsi aktus. Az EUMSZ 252. cikke szerint: „A Bíróságot nyolc főtanácsnok segíti.” Ugyanezen cikk kimondja: ha a Bíróság kéri, a főtanácsnokok számát a Tanács egyhangú határozattal megnövelheti. A létszámemelés tagállami bizalmat igényel, az indítvány tartalmába azonban a Tanács nem nyúl."
+        },
+        {
+          "text": "A Törvényszéket mindig, alapokmányi felhatalmazás nélkül is nyolc főtanácsnok segíti, a Bírósággal azonos létszámban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Törvényszék főtanácsnoki segítsége nem automatikus. Az EUMSZ 254. cikke szerint a Törvényszéket csak akkor segítik főtanácsnokok, ha az alapokmány így rendelkezik. Az EUMSZ 252. cikke a nyolcas létszámot a Bíróságra állítja, nem a Törvényszékre. A tévedés a Bíróságra vonatkozó 252. cikk ráírása a Törvényszék 254. cikkes rendjére."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "d6006bb89de9"
+    },
+    {
+      "question": "Milyen személyi és kinevezési feltételek vonatkoznak a Bíróság bíráira és főtanácsnokaira?",
+      "options": [
+        {
+          "text": "A 255. cikk szerinti alkalmassági bizottság véleménye formálisan köti a kormányokat: ellenvélemény esetén a kinevezés semmis.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizottsági vélemény kötelező előzmény, de formálisan nem kötő erő. Az EUMSZ 255. cikke szerint a hétfős bizottság a jelöltek alkalmasságáról véleményt ad, mielőtt a kormányok a 253. vagy a 254. cikk szerint kineveznének. A vélemény nem köti formálisan a kormányokat, de a 19. cikk szerinti függetlenségi követelmény a figyelmen kívül hagyást intézményileg kockázatossá teszi. A tévedés a konzultációs előzményt vétóvá erősíti."
+        },
+        {
+          "text": "A bírákat az Európai Parlament választja meg ötéves időtartamra, a Bizottság javaslatára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kinevező alanyt, az eljárást és az időtartamot is elcsúsztatja. Az EUMSZ 253. cikke szerint a bírákat és a főtanácsnokokat a 255. cikk szerinti bizottsággal folytatott konzultáció után a tagállamok kormányai közös megegyezéssel, hatéves időtartamra nevezik ki. Nem a Parlament választ, és nem öt évre szól a megbízatás. A tévedés a Bizottság elnökének parlamenti megválasztását (EUSZ 14. cikk) ráírja a Bíróság személyi statútumára."
+        },
+        {
+          "text": "A Bíróság elnökét a bírák maguk közül három évre választják, és az elnök újraválasztható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elnökválasztás belső bírói aktus, nem kormányközi kinevezés. Az EUMSZ 253. cikke szerint a Bíróság elnökét a bírák maguk közül választják meg hároméves időtartamra, és az elnök újraválasztható. A kormányok a tagságot adják a közös megegyezéssel, nem az elnökséget. A hivatalvezetőt a Bíróság nevezi ki; az eljárási szabályzat elfogadásához a Tanács jóváhagyása szükséges."
+        },
+        {
+          "text": "A bírákat és a főtanácsnokokat olyan személyek közül választják ki, akiknek függetlenségéhez nem férhet kétség, és akik megfelelnek a legfelsőbb bírói tisztség nemzeti feltételeinek, vagy elismert szakértelemmel rendelkező jogtudósok.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyi küszöb a függetlenség és a legfelsőbb bírói vagy jogtudósi alkalmasság. Az EUMSZ 253. cikke e két alkalmassági ágat konjunktívan a függetlenséghez köti. A kinevezés a 255. cikk szerinti bizottsággal folytatott konzultációt követően a tagállamok kormányainak közös megegyezésével, hat évre történik. A távozók az alapokmány szerinti részleges megújítás mellett újra kinevezhetők."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "e914c5fcc207"
+    },
+    {
+      "question": "Miben tér el a Törvényszék személyi mércéje és eljárási szabályzatának elfogadása a Bíróságétól?",
+      "options": [
+        {
+          "text": "A Törvényszék tagjait a felsőbb bírói tisztség alkalmassági feltételeinek megfelelő, függetlenségükben kétségbe nem vonható személyek közül választják ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Törvényszék mércéje enyhébb a Bíróság legfelsőbb bírói / jogtudósi küszöbénél. Az EUMSZ 254. cikke szerint a tagokat olyan személyek közül választják ki, akiknek függetlenségéhez nem férhet kétség, és akik megfelelnek a felsőbb bírói tisztségbe történő kinevezéshez szükséges alkalmassági feltételeknek. A kinevezés itt is a 255. cikk szerinti konzultáció után, a kormányok közös megegyezésével, hat évre történik. A bírák számát az alapokmány határozza meg."
+        },
+        {
+          "text": "A Törvényszék eljárási szabályzatához a Bírósággal való egyetértés és a Tanács jóváhagyása egyaránt szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Törvényszék eljárási záradéka a Bíróságénál szigorúbb, mert a két belső fórum rendjét össze kell hangolni. Az EUMSZ 254. cikke szerint a Törvényszék a Bírósággal egyetértésben határozza meg eljárási szabályzatát, és e szabályzat elfogadásához a Tanács jóváhagyása szükséges. Az EUMSZ 253. cikke a Bíróságnál csak a Tanács jóváhagyását köti ki, Bírósággal való egyetértést nem. Eltérő alapokmányi szabály hiányában a Törvényszékre a Bíróságra vonatkozó szerződéses rendelkezések irányadók."
+        },
+        {
+          "text": "A Törvényszék elnökét a tagállamok kormányai közös megegyezéssel nevezik ki hat évre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elnökválasztás a bírák belső aktusa, nem kormányközi kinevezés. Az EUMSZ 254. cikke szerint a Törvényszék elnökét a bírák maguk közül választják meg hároméves időtartamra, és az elnök újraválasztható. A kormányok a tagságot adják a közös megegyezéssel és a 255. cikk szerinti konzultáció után. A tévedés a bírói tagság kinevezésének ráírása az elnökségre."
+        },
+        {
+          "text": "A Törvényszék bíráinak számát a Tanács egyhangú rendelete állapítja meg, az alapokmány megkerülésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a létszámot nem tanácsi rendelet, hanem az alapokmány szabja. Az EUMSZ 254. cikke szerint a Törvényszék bíráinak számát az Európai Unió Bíróságának alapokmánya határozza meg. Az EUMSZ 281. cikke az alapokmányt külön jegyzőkönyvben állapítja meg, és — az I. cím valamint a 64. cikk kivételével — rendes jogalkotásban módosíthatóvá teszi. A tévedés a 257. cikk szerinti, különös törvényszékeket létrehozó rendelet és a Törvényszék létszámának alapokmányi szabályozása összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "b30bde30a414"
+    },
+    {
+      "question": "Milyen összetételű és milyen feladata van az alkalmassági bizottságnak a bírói kinevezés előtt?",
+      "options": [
+        {
+          "text": "A bizottság tagjait a Bíróság és a Törvényszék korábbi tagjai, a tagállami legfelsőbb bíróságok tagjai és elismert jogászok közül választják ki, és egy jelöltre az Európai Parlament tesz javaslatot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hétfős testület szakmai és politikai legitimációja vegyes. Az EUMSZ 255. cikke e körből állítja össze a bizottságot, és kimondja, hogy egy személyre az Európai Parlament tesz javaslatot. A Tanács a Bíróság elnökének kezdeményezésére állapítja meg a működés szabályait, és nevezi ki a tagokat. A Parlament egy jelöltje nem a bírói kinevezés parlamenti jóváhagyása, hanem a szűrőtestület összetételének eleme."
+        },
+        {
+          "text": "A bizottság a különös hatáskörű törvényszékek tagjainak alkalmasságáról is kötelező véleményt ad, mielőtt a Tanács kinevezné őket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 255. cikk hatálya a Bíróságra és a Törvényszékre korlátozódik. Az EUMSZ 255. cikke a Bíróságra és a Törvényszékre bíráknak vagy főtanácsnokoknak jelölt személyekről szól. Az EUMSZ 257. cikke szerint a különös hatáskörű törvényszékek tagjait a Tanács egyhangú határozattal nevezi ki, a 255. cikk szerinti előzetes vélemény nélkül. A tévedés a 255. cikk ráírása a 257. cikk saját kinevezési rendjére."
+        },
+        {
+          "text": "A Tanács a bizottság tagjait a Bizottság elnökének kezdeményezésére nevezi ki, minősített többséggel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kezdeményező a Bíróság elnöke, nem a Bizottság elnöke. Az EUMSZ 255. cikke szerint a Tanács a Bíróság elnökének kezdeményezése alapján jár el, amikor megállapítja a működés szabályait és kinevezi a bizottság tagjait. A szűrés indítása tehát bírói, a kinevezés tanácsi. A tévedés a Bizottság elnökének intézményi szerepét cseréli a Bíróság elnökére."
+        },
+        {
+          "text": "A hétfős bizottság véleményt ad a Bíróságra és a Törvényszékre bíráknak vagy főtanácsnokoknak jelölt személyek alkalmasságáról, mielőtt a kormányok kineveznének.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kormányközi kinevezés elé uniós szűrő lép: a hétfős testület alkalmassági véleményt ad. Az EUMSZ 255. cikke szerint a bizottság feladata, hogy a jelöltek alkalmasságáról azt megelőzően véleményt adjon, hogy a tagállamok kormányai a 253., illetve a 254. cikknek megfelelően kineveznék őket. Konzultáció nélkül a közös megegyezés hiányos. A különös hatáskörű törvényszékek tagjaira a 255. cikk nem terjed ki."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "d407b0797c78"
+    },
+    {
+      "question": "Milyen elsőfokú hatáskört és jogorvoslati korlátot állít az EUMSZ a Törvényszék elé?",
+      "options": [
+        {
+          "text": "Az előzetes döntéshozatal a 267. cikk szerint soha nem kerülhet a Törvényszékhez, mert az kizárólag a Bíróság hatásköre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés meghatározott ügycsoportokban megnyithatja a Törvényszék előzetes döntési hatáskörét. Az EUMSZ 256. cikk (3) bekezdése szerint a Törvényszék az alapokmányban meghatározott egyes ügycsoportokban hatáskörrel rendelkezhet a 267. cikk szerinti kérdések eldöntésére. Ha elvi döntés szükséges az uniós jog egységességéhez, a Törvényszék az ügyet a Bíróság elé utalhatja; a Bíróság kivételes felülvizsgálata is fennmarad. A tévedés abból ered, hogy a 267. cikk Bíróságot megnevező főszabályát abszolút kizárólagossággá olvassák, holott a 256. cikk (3) bekezdése az alapokmányban szabott ügycsoportokban a Törvényszékhez engedheti a kérdést."
+        },
+        {
+          "text": "A különös hatáskörű törvényszékek határozatai elleni jogorvoslat a Törvényszékhez tartozik, és a Bíróság ezt csak kivételesen, az uniós jog egységességének vagy koherenciájának komoly veszélye esetén vizsgálhatja felül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a belső lépcsőt a kivételes felülvizsgálati záradékkal zárja. Az EUMSZ 256. cikk (2) bekezdése a különös hatáskörű törvényszékek határozatai elleni jogorvoslatot a Törvényszékhez telepíti. A Bíróság a Törvényszék e bekezdés szerinti határozatait csak akkor vizsgálhatja felül kivételesen, ha fennáll a komoly veszélye annak, hogy az uniós jog egységessége vagy koherenciája sérül. Ugyanez a záradék a (3) bekezdés szerinti előzetes döntési hatáskörnél is megjelenik."
+        },
+        {
+          "text": "A Törvényszék határozatai ellen tény- és jogkérdésben egyaránt teljes fellebbezés nyílik a Bírósághoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fellebbezés merítéke jogkérdésre szűkül. Az EUMSZ 256. cikk (1) bekezdése szerint a Törvényszék e bekezdés szerinti határozataival szemben az alapokmányban megállapított feltételek mellett és korlátokon belül, kizárólag jogi kérdésekben a Bírósághoz lehet fellebbezni. Ténykérdésben a Törvényszék utolsó fórum. A tévedés a nemzeti másodfokú teljes fellebbezés ráírása az uniós belső jogorvoslatra."
+        },
+        {
+          "text": "A Törvényszék első fokon a 263., 265., 268., 270. és 272. cikk szerinti kereseteket bírálja el, kivéve a különös hatáskörű törvényszékekhez utalt és az alapokmánynál a Bíróságnál maradó ügyeket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés a Törvényszéket elsőfokú fórummá teszi e keresetfajtákra. Az EUMSZ 256. cikk (1) bekezdése e listát adja, és kivételként nevesíti a 257. cikk szerinti különös törvényszékeket, valamint az alapokmány szerint a Bíróságnál maradó ügyeket. Az alapokmány további keresetfajtákat is ide telepíthet. A Törvényszék e bekezdés szerinti határozataival szemben kizárólag jogi kérdésekben van helye fellebbezésnek a Bírósághoz."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "11c2a83de184"
+    },
+    {
+      "question": "Mely esetben és milyen eljárással hozható létre különös hatáskörű törvényszék?",
+      "options": [
+        {
+          "text": "A különös hatáskörű törvényszékek határozatai ellen mindig tény- és jogkérdésben is fellebbezni lehet a Bírósághoz közvetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogorvoslat a Törvényszékhez megy, és merítéke főszabályként jogkérdés. Az EUMSZ 257. cikke szerint a határozatokkal szemben kizárólag jogi kérdésekben, illetve — ha a létrehozó rendelet úgy rendelkezik — jogi és ténykérdésekben a Törvényszékhez lehet fellebbezni. Az EUMSZ 256. cikk (2) bekezdése szerint a Bíróság csak kivételesen lép be. A tévedés a közvetlen bírósági fellebbezés és a Törvényszékhez vezető belső lépcső összekeveréséből ered."
+        },
+        {
+          "text": "A különös hatáskörű törvényszéket az Európai Tanács egyhangú politikai határozattal hozza létre, a Bíróság megkerülésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a létrehozás rendes jogalkotási eljárás és rendelet, nem európai tanácsi politikai aktus. Az EUMSZ 257. cikke az Európai Parlamentet és a Tanácsot nevezi meg rendeleti döntéshozóként, a Bizottság vagy a Bíróság indítványához és a másik féllel folytatott konzultációhoz kötve. Az Európai Tanács e cikkben nem szerepel létrehozóként. A tévedés az EUSZ 15. cikk szerinti európai tanácsi szerep ráírása a 257. cikk rendeleti pályájára."
+        },
+        {
+          "text": "A különös hatáskörű törvényszékek tagjait a Tanács egyhangú határozattal nevezi ki, olyan személyek közül, akiknek függetlenségéhez nem férhet kétség, és akik bírói tisztségre alkalmasak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kinevezési küszöb a 253–254. cikk közös megegyezésénél szigorúbb modalitású. Az EUMSZ 257. cikke a Tanács egyhangú határozatát írja elő a tagok kinevezésére. A személyi mérce a bírói tisztséghez szükséges alkalmasság és a kétségbe nem vonható függetlenség. Az alapokmány I. címét és 64. cikkét minden esetben alkalmazni kell a különös hatáskörű törvényszékekre."
+        },
+        {
+          "text": "Az Európai Parlament és a Tanács rendes jogalkotási eljárásban, rendeletekben hozhat létre a Törvényszékhez kapcsolódó különös hatáskörű törvényszékeket meghatározott keresetfajták első fokon történő elbírálására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 257. cikk a 19. cikk szerinti harmadik belső egységet rendeleti úton teszi működőképessé. Az EUMSZ 257. cikke szerint a rendelet vagy a Bizottság javaslata és a Bírósággal folytatott konzultáció, vagy a Bíróság kérelme és a Bizottsággal folytatott konzultáció alapján születik. A rendeletben meg kell határozni az összetételt és a hatáskör pontos terjedelmét. A különös törvényszék nem bővíti az intézmények listáját: a Törvényszékhez kapcsolódik."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "6869c996ccc1"
+    },
+    {
+      "question": "Mi következik abból, ha a Bizottság megítélése szerint egy tagállam a Szerződésekből eredő kötelezettségét nem teljesítette?",
+      "options": [
+        {
+          "text": "A Bizottság indokolással ellátott véleményt ad, miután a tagállamnak lehetőséget biztosított észrevételei megtételére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelezettségszegési per előfeltétele kontradiktórius közigazgatási szakasz. Az EUMSZ 258. cikke szerint: „Ha a Bizottság megítélése szerint egy tagállam a Szerződésekből eredő valamely kötelezettségét nem teljesítette, az ügyről indokolással ellátott véleményt ad, miután az érintett államnak lehetőséget biztosított észrevételei megtételére.” A kereset tárgya a véleményben foglalt kötelezettségszegés; ha a Bizottság nem ad indokolással ellátott véleményt, e cikk szerinti keresetindítás nem nyílik meg. Az EUMSZ 260. cikke a megállapító ítélet teljesítését és a vagyoni szankciót, az EUMSZ 259. cikke a tagállami felperes saját útját rendezi."
+        },
+        {
+          "text": "A Bizottság a véleményes szakasz nélkül is azonnal keresetet indíthat a Bíróság előtt, ha a jogsértés nyilvánvaló.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizottsági kötelezettségszegési út kétlépcsős: először indokolással ellátott vélemény, azután kereset. Az EUMSZ 258. cikke a keresetet ahhoz köti, hogy a tagállam a véleményben foglaltaknak a szabott határidőn belül ne tegyen eleget. Ha a Bizottság nem adott indokolással ellátott véleményt, e cikk szerinti per nem indulhat. A tévedés a 259. cikk három hónapos hallgatási záradékát írja rá a bizottsági útra, holott az a tagállami felperes sajátos oldása."
+        },
+        {
+          "text": "Ha a tagállam a véleményben foglaltakat a kitűzött határidőn belül nem teljesíti, a Bizottság a Szerződések őreként köteles a Bírósághoz fordulni a kötelezettségszegés megállapítása iránt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EUMSZ 258. cikke a keresetet lehetőségként, nem kötelezettségként fogalmazza meg. Az EUMSZ 258. cikke szerint ha a tagállam a véleményben foglaltaknak a határidőn belül nem tesz eleget, a Bizottság a Bírósághoz „fordulhat”. A perindítás tehát diszkrecionális döntés, nem kógens kötelesség. A tévedés a Szerződések őrének ellenőrző szerepét olyan keresetindítási kötelezettséggé torzítja, amit a szöveg nem ír elő."
+        },
+        {
+          "text": "Ha a tagállam a Bizottság által meghatározott határidőn belül nem tesz eleget a véleményben foglaltaknak, a Bizottság a Bírósághoz fordulhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a keresetindítás lehetőség, nem automatizmus. Az EUMSZ 258. cikke második mondata szerint, ha az érintett állam a szabott határidőn belül nem teljesít, a Bizottság az Európai Unió Bíróságához fordulhat. A fordulat „fordulhat”, nem „fordul”. Az EUMSZ 260. cikk (3) bekezdése az irányelvátültetés bejelentési mulasztásánál már az első 258. cikk szerinti keresetet szankcióssá teheti."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "8d6a5053d58e"
+    },
+    {
+      "question": "Miben tér el a tagállam által indított kötelezettségszegési kereset a bizottsági úttól?",
+      "options": [
+        {
+          "text": "A tagállam a Bizottság megkerülésével, azonnal indíthat keresetet a másik tagállam ellen a Bíróság előtt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az előterjesztés a Bizottság elé kötelező előzmény. Az EUMSZ 259. cikke szerint mielőtt egy tagállam keresetet nyújt be, az ügyet a Bizottság elé kell terjesztenie. A három hónapos hallgatás csak a vélemény hiányát oldja fel, nem az előterjesztés kötelezettségét. A tévedés a 273. cikk szerinti, megállapodáson nyugvó tagállami vitát keveri a kötelezettségszegési perrel."
+        },
+        {
+          "text": "Bármely tagállam a Bírósághoz fordulhat, ha megítélése szerint egy másik tagállam a Szerződésekből eredő kötelezettségét nem teljesítette, de előtte az ügyet a Bizottság elé kell terjesztenie.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felperes a tagállam, a Bizottság előtti előterjesztés azonban nem marad el. Az EUMSZ 259. cikke szerint mielőtt egy tagállam keresetet nyújt be egy másik tagállam ellen, az ügyet a Bizottság elé kell terjesztenie. A Bizottság indokolással ellátott véleményt ad, miután a felek kontradiktórius szó- és írásbeli nyilatkozatot tehettek. A 258. cikktől a különbség a felperes; a 260. cikk (2) bekezdése e tagállami utat kifejezetten érintetlenül hagyja."
+        },
+        {
+          "text": "Ha a Bizottság az ügy előterjesztésétől számított három hónapon belül nem ad véleményt, a vélemény hiányától függetlenül az ügyben a Bírósághoz lehet fordulni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság hallgatása nem vétó a tagállami felperessel szemben. Az EUMSZ 259. cikke szerint, ha a Bizottság három hónapon belül nem ad véleményt, a kereset a vélemény hiányától függetlenül megindítható. A kontradiktórius szó- és írásbeli nyilatkozat a 258. cikk egyoldalú észrevételi jogához képest kétoldalú. A 260. cikk (1) bekezdése szerinti teljesítési kötelem az e cikk alapján hozott megállapító ítéletre is áll."
+        },
+        {
+          "text": "A 259. cikk szerinti ítéletre a 260. cikk (1) bekezdése szerinti teljesítési kötelem nem vonatkozik, mert a felperes nem a Bizottság.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a teljesítési kötelem a megállapító ítélethez kötődik, nem a felperes személyéhez. Az EUMSZ 260. cikk (1) bekezdése szerint, ha a Bíróság megállapítja, hogy egy tagállam nem teljesítette a Szerződésekből eredő kötelezettségét, az adott államnak meg kell tennie az ítélet teljesítéséhez szükséges intézkedéseket. Ugyanez a teljesítési parancs a tagállam által a 259. cikk alapján indított perben hozott megállapító ítéletre is kiterjed. A tévedés a felperesi minőséget összekeveri a teljesítési parancs címzettjével."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "d949599ad433"
+    },
+    {
+      "question": "Milyen feltételekkel kötelezhető a tagállam átalányösszeg vagy kényszerítő bírság fizetésére?",
+      "options": [
+        {
+          "text": "Átalányösszeg vagy kényszerítő bírság csak akkor szabható ki, ha a kötelezettségszegést a 259. cikk szerinti tagállami felperes indította.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vagyoni szankció a Bizottság által indított második perhez, illetve a (3) bekezdés szerinti első keresethez kötődik. Az EUMSZ 260. cikk (2) bekezdése a Bizottságot nevezi meg felperesként a nemteljesítés miatti fizetési szankciónál, és kimondja, hogy ez az eljárás nem érinti a 259. cikket. A 259. cikk szerinti tagállami út tehát nem előfeltétele a bírságnak. A tévedés a felperesi utakat összekeveri a szankciós szakasz indítójával."
+        },
+        {
+          "text": "Jogalkotási eljárásban elfogadott irányelv átültetési intézkedéseinek bejelentési mulasztásánál a Bizottság már a 258. cikk szerinti első keresetben meghatározhat fizetési szankciót; a Bíróság a Bizottság összegét nem lépheti túl, és a fizetési kötelezettség az ítéletben megállapított időpontban válik esedékessé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 260. cikk (3) bekezdése az esedékességet az ítéletben megállapított időponthoz köti. Az EUMSZ 260. cikk (3) bekezdése szerint a Bizottság a 258. cikknek megfelelően benyújtott keresetben meghatározhatja az átalányösszeg vagy kényszerítő bírság mértékét, ha a jogsértés a jogalkotási eljárásban elfogadott irányelv átültetési intézkedéseinek bejelentési mulasztása. Ha a Bíróság jogsértést állapít meg, a tagállamot a Bizottság által meghatározott összeget meg nem haladó mértékű fizetésre kötelezheti. A fizetési kötelezettség az Európai Unió Bíróságának ítéletében megállapított időpontban válik esedékessé."
+        },
+        {
+          "text": "Ha a Bizottság megítélése szerint a tagállam nem teszi meg a Bíróság ítéletében foglaltak teljesítéséhez szükséges intézkedéseket, a Bizottság — észrevételi lehetőség után — átalányösszeget vagy kényszerítő bírságot indítványozhat a második perben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a másodlagos, vagyoni szankció útja. Az EUMSZ 260. cikk (2) bekezdése szerint a Bizottság a tagállamnak lehetőséget biztosít észrevételei megtételére, majd a Bírósághoz fordulhat, és meghatározza az általa megfelelőnek ítélt átalányösszeg vagy kényszerítő bírság összegét. Ha a Bíróság a nemteljesítést megállapítja, a tagállamot e fizetésre kötelezheti. A (2) bekezdés szerinti eljárás a tagállam által indított 259. cikk szerinti keresetet nem zárja ki és nem érinti."
+        },
+        {
+          "text": "A Bíróság a második perben a Bizottság indítványától függetlenül, saját belátása szerint tetszőleges összegű bírságot szabhat ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdésnél a Bizottság határozza meg az indítványozott összeget, a (3) bekezdésnél pedig a Bíróság e felső határt nem lépheti túl. Az EUMSZ 260. cikk (3) bekezdése kifejezetten kimondja, hogy a Bíróság a Bizottság által meghatározott összeget meg nem haladó mértékű fizetésre kötelezhet. A (2) bekezdésnél a Bizottság határozza meg az általa megfelelőnek ítélt összeget, amelyet a Bíróság a nemteljesítés megállapításakor alkalmazhat. A tévedés a korlátlan mérlegelést írja rá a szerződési szankciós keretre."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "9e7e5777613e"
+    },
+    {
+      "question": "Ki és milyen határidővel indíthat semmisségi keresetet az uniós jogi aktusok ellen?",
+      "options": [
+        {
+          "text": "A magánfél bármely uniós jogi aktus ellen indíthat semmisségi keresetet, személyes érintettség nélkül, hat hónapos határidővel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magánfél küszöbe és a határidő is szűkebb. Az EUMSZ 263. cikke a magánfélnél a címzettséget, a közvetlen és személyes érintettséget, illetve a végrehajtást nem igénylő rendeleti jellegű aktusnál a közvetlen érintettséget követeli meg. A határidő két hónap, nem hat. A tévedés a privilegiált felperes tágabb kereshetőségét írja rá a magánfélre, és a határidőt is elcsúsztatja."
+        },
+        {
+          "text": "Természetes vagy jogi személy a neki címzett, a közvetlenül és személyében érintő aktus, valamint a közvetlenül érintő, végrehajtást nem igénylő rendeleti jellegű aktus ellen indíthat eljárást; a határidő két hónap.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a magánfél küszöbe kettős, a határidő jogvesztő. Az EUMSZ 263. cikke szerint bármely természetes vagy jogi személy eljárást indíthat a neki címzett vagy az őt közvetlenül és személyében érintő jogi aktusok ellen, továbbá az őt közvetlenül érintő, végrehajtást nem igénylő rendeleti jellegű aktusok ellen. Az eljárásokat az intézkedés kihirdetésétől, a felperessel történő közléstől, illetve ennek hiányában a tudomásszerzéstől számított két hónapon belül kell megindítani. A 277. cikk az általános hatályú aktus alkalmazhatatlanságára e határidő után is hivatkozást enged."
+        },
+        {
+          "text": "A semmisségi kereset az ajánlások és vélemények ellen is megnyílik, mert azok is uniós intézmények aktusai.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ajánlás és a vélemény ki van véve a jogszerűségi vizsgálat tárgyából. Az EUMSZ 263. cikke szerint a Bíróság megvizsgálja a Tanács, a Bizottság és az EKB jogi aktusait, kivéve az ajánlásokat és a véleményeket. A jogalkotási aktusok, valamint a Parlament és az Európai Tanács harmadik személyekre joghatással járó aktusai viszont a vizsgálat tárgyai. A tévedés a 288. cikk szerinti aktustípusok teljes körét írja rá a 263. cikk merítékére."
+        },
+        {
+          "text": "Privilegiált felperes a tagállam, az Európai Parlament, a Tanács és a Bizottság; a Számvevőszék, az EKB és a Régiók Bizottsága előjogaik védelmében indíthat keresetet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 263. cikk négy kereshetőségi sávot ad, és a privilegiált, illetve félig privilegiált felpereseket megnevezi. Az EUMSZ 263. cikke szerint a tagállam, a Parlament, a Tanács vagy a Bizottság hatáskör hiánya, lényeges eljárási szabályok megsértése, a Szerződések vagy az alkalmazásukra vonatkozó jogi rendelkezés megsértése, illetve hatáskörrel való visszaélés miatt indíthat keresetet. A Számvevőszék, az EKB és a Régiók Bizottsága azonos feltételek mellett, de csak előjogaik megóvása érdekében léphet. A magánfél küszöbe ettől szűkebb."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "c3e9c792fca2"
+    },
+    {
+      "question": "Miben tér el a semmissé nyilvánítás joghatása az általános hatályú aktus alkalmazhatatlanságára való hivatkozástól?",
+      "options": [
+        {
+          "text": "A semmisségi ítélet automatikusan fenntartja az aktus minden korábbi joghatását, a Bíróság e körben nem dönthet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a joghatások részleges fenntartása a Bíróság szükségesnek ítélt döntése. Az EUMSZ 264. cikke második mondata szerint a Bíróság — ha azt szükségesnek ítéli — megjelölheti a semmisnek nyilvánított jogi aktus azon joghatásait, amelyek továbbra is fennmaradnak. Az első mondat szerinti semmisség az alap; a fenntartás kivételes, diszkrecionális. A tévedés a második mondatot kötelező, automatikus fenntartássá torzítja."
+        },
+        {
+          "text": "Ha a semmisségi kereset megalapozott, a Bíróság a megtámadott jogi aktust semmisnek nyilvánítja, de szükségesnek ítélve megjelölheti azokat a joghatásokat, amelyek továbbra is fennmaradnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a semmisség nem automatikus rombolás; a jogbiztonság a Bíróság diszkréciójához kötött. Az EUMSZ 264. cikke szerint: „Ha a kereset megalapozott, az Európai Unió Bírósága a megtámadott jogi aktust semmisnek nyilvánítja.” Ugyanezen cikk második mondata lehetővé teszi, hogy a Bíróság — ha azt szükségesnek ítéli — megjelölje a semmisnek nyilvánított aktus azon joghatásait, amelyek fennmaradnak. Az EUMSZ 266. cikke a semmisséget megállapító ítélet teljesítését az érintett intézményre telepíti."
+        },
+        {
+          "text": "A 277. cikk szerinti hivatkozás erga omnes semmisséget eredményez, ugyanúgy, mint a 264. cikk szerinti ítélet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alkalmazhatatlanság hatálya az adott jogvitára szűkül, nem erga omnes semmisség. Az EUMSZ 277. cikke a védekező hivatkozást engedi, de a 263. cikk hatodik bekezdése szerinti határidőt nem törli el. Az EUMSZ 264. cikke szerinti semmisség az aktust a jogrendből kiveszi, míg a 277. cikk szerinti hivatkozás csak az adott vitában teheti alkalmazhatatlanná. A tévedés a két joghatás terjedelmét mossa össze."
+        },
+        {
+          "text": "Általános hatállyal bíró jogi aktusra vonatkozó jogvitában a fél a két hónapos kereseti határidő lejárta után is hivatkozhat az aktus alkalmazhatatlanságára a 263. cikk második bekezdésének jogalapjaival.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 277. cikk exceptio illegalitatis: nem új privilegiált kereset, hanem védekező hivatkozás. Az EUMSZ 277. cikke szerint a 263. cikk hatodik bekezdésében megállapított határidő lejárta ellenére általános hatállyal bíró jogi aktusra vonatkozó jogvitában bármelyik fél élhet a 263. cikk második bekezdésében meghatározott eszközökkel, hogy az aktus alkalmazhatatlanságára hivatkozzon. A határidőn túli aktus nem semmisül meg erga omnes, de az adott jogvitában alkalmazhatatlan lehet. A 264. cikk szerinti semmisségtől a hatály terjedelme különbözteti meg."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "b26a49f1f7a8"
+    },
+    {
+      "question": "Mely esetben indítható mulasztási kereset, és milyen előfeltételek kötik?",
+      "options": [
+        {
+          "text": "A mulasztási kereset azonnal, felhívás nélkül indítható, ha a mulasztás három hónapnál hosszabb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felhívás és a két plusz két hónapos szerkezet kötelező. Az EUMSZ 265. cikke szerint a kereset csak akkor elfogadható, ha az érintett intézményt előzetesen felkérték, hogy járjon el; ha két hónapon belül nem foglal állást, a keresetet további két hónapon belül lehet megindítani. Felhívás nélküli azonnali kereset e cikk szerint nem nyílik. A tévedés a 259. cikk három hónapos hallgatási záradékát írja rá a mulasztási perre."
+        },
+        {
+          "text": "Ha az Európai Parlament, az Európai Tanács, a Tanács, a Bizottság vagy az EKB a Szerződéseket sértve elmulasztja a döntéshozatalt, a tagállamok és az Unió többi intézménye keresettel fordulhatnak a Bírósághoz; előfeltétel a cselekvésre való előzetes felhívás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 265. cikk a 263. cikk tükörképe: a hallgatást jogsértéssé minősítheti. Az EUMSZ 265. cikke szerint a kereset csak akkor elfogadható, ha az érintett intézményt, szervet vagy hivatalt előzetesen felkérték, hogy járjon el. Ha a felkéréstől számított két hónapon belül nem foglalnak állást, a keresetet további két hónapon belül lehet megindítani. Ugyanez áll a mulasztó szervekre és hivatalokra is."
+        },
+        {
+          "text": "Természetes vagy jogi személy csak akkor panaszolhat, ha az Unió valamely intézménye, szerve vagy hivatala elmulasztott valamely neki címzendő jogi aktust — ajánlás és vélemény kivételével — meghozni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a magánfél küszöbe a mulasztásnál szűkebb, mint a semmisségnél. Az EUMSZ 265. cikke harmadik bekezdése szerint a magánfél csak a neki címzendő aktus elmaradása miatt fordulhat a Bírósághoz, az ajánlások és vélemények kivételével. A 263. cikk szerinti, végrehajtást nem igénylő rendeleti jellegű aktus elleni magánfél-kereshetőség itt nem jelenik meg. Az EUMSZ 266. cikke a mulasztást megállapító ítéletet is teljesítési kötelességgé teszi."
+        },
+        {
+          "text": "A magánfél a 263. cikk szerinti rendeleti jellegű, végrehajtást nem igénylő aktus elmaradása miatt is indíthat mulasztási keresetet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mulasztásnál a magánfél csak a neki címzendő aktus elmaradását panaszolhatja. Az EUMSZ 265. cikke harmadik bekezdése a magánfél panaszát a neki címzendő jogi aktus — ajánlás és vélemény kivételével — meghozatalának elmulasztásához köti. A 263. cikk negyedik albekezdésének rendeleti jellegű sávja a semmisségi keresetre áll, a mulasztásra nem. A tévedés a két keresettípus magánfél-küszöbét mossa össze."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "ed0f61ea8f91"
+    },
+    {
+      "question": "Mikor köteles és mikor jogosult a tagállami bíróság előzetes döntést kérni?",
+      "options": [
+        {
+          "text": "A Bíróság előzetes döntést hoz a Szerződések értelmezéséről, valamint az uniós intézmények, szervek vagy hivatalok jogi aktusainak érvényességéről és értelmezéséről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 267. cikk a) és b) pontja a merítéket zárja. Az EUMSZ 267. cikke szerint a Bíróság hatáskörrel rendelkezik előzetes döntés meghozatalára a Szerződések értelmezése, valamint az uniós intézmények, szervek vagy hivatalok jogi aktusainak érvényessége és értelmezése tárgyában. A 267. cikk a) pontja a 19. cikk (1) bekezdésének értelmezési feladatát a tagállami bíró elé viszi. Fogva tartott személyt érintő ügyben a Bíróság a lehető legrövidebb időn belül határoz."
+        },
+        {
+          "text": "Az előzetes döntés csak a Szerződések érvényességéről szólhat; az uniós aktusok értelmezése nemzeti bírói feladat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a meríték a Szerződések értelmezése, valamint az uniós aktusok érvényessége és értelmezése. Az EUMSZ 267. cikke a) pontja a Szerződések értelmezését, b) pontja az uniós intézmények, szervek vagy hivatalok jogi aktusainak érvényességét és értelmezését nevezi meg. A nemzeti bíró az uniós jog természetes bírája a 274. cikk szerint, de az érvényességi és értelmezési kérdés a 267. cikk útján a Bírósághoz vihető. A tévedés a b) pontot elhagyja, és az érvényességet a Szerződésekre szűkíti."
+        },
+        {
+          "text": "Ha a kérdés olyan bíróság előtt merül fel, amelynek határozatai ellen a nemzeti jog szerint nincs jogorvoslat, e bíróság köteles a Bírósághoz fordulni; az alsóbb fokú bíróság kérheti a döntést, ha ítéletéhez szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nem utolsó fokon eljáró bíróság kérhet, az utolsó fokon eljáró köteles kérdezni, ha a kérdés felmerül és az ítélethez szükséges. Az EUMSZ 267. cikke szerint, ha egy tagállam bírósága előtt ilyen kérdés merül fel, és a bíróság úgy ítéli meg, hogy ítélete meghozatalához szükség van a kérdés eldöntésére, kérheti a Bíróságot. Ha olyan bíróság előtt merül fel, amelynek határozatai ellen nincs jogorvoslati lehetőség, e bíróság köteles a Bírósághoz fordulni. A 256. cikk (3) bekezdése meghatározott ügycsoportokban a kérdést a Törvényszékhez utalhatja."
+        },
+        {
+          "text": "Minden tagállami bíróság, foktól függetlenül, köteles előzetes döntést kérni, amint uniós jogi kérdés merül fel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezettség csak az utolsó fokon eljáró bíróságra áll, és csak ha a kérdés az ítélethez szükséges. Az EUMSZ 267. cikke a nem utolsó fokú bíróságnak mérlegelési jogot ad: kérheti a döntést, ha úgy ítéli meg, hogy ítéletéhez szükséges. A kötelező fordulat azokra a bíróságokra vonatkozik, amelyek határozatai ellen a nemzeti jog szerint nincs jogorvoslat. A tévedés a fakultatív és a kötelező előterjesztést mossa össze."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "78dddc060622"
+    },
+    {
+      "question": "Mely esetben nem rendelkezik hatáskörrel a Bíróság a közös kül- és biztonságpolitikában, és mi a két kivétel?",
+      "options": [
+        {
+          "text": "Kivételként a Bíróság ellenőrzi az EUSZ 40. cikke betartását, és felülvizsgálhatja a Tanács által természetes vagy jogi személyekre vonatkozóan elfogadott korlátozó intézkedések jogszerűségét a 263. cikk negyedik albekezdése szerinti kereset útján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második bekezdés két kivételt nyit. Az EUMSZ 275. cikke szerint a Bíróság hatáskörrel rendelkezik az EUSZ 40. cikke betartásának ellenőrzésére, valamint a Tanács által az EUSZ V. cím 2. fejezete alapján természetes vagy jogi személyekre vonatkozóan elfogadott korlátozó intézkedéseket előíró határozatok jogszerűségének felülvizsgálatára, a 263. cikk negyedik albekezdése alapján benyújtott keresetek tekintetében. A magánfél tehát a személyi szankció ellen a rendes semmisségi állással léphet. Az EUSZ 40. cikke a KKBP és a többi uniós politika közti hatásköri fal."
+        },
+        {
+          "text": "A korlátozó intézkedések jogszerűsége csak az Európai Tanács politikai felülvizsgálata alá tartozik, bírói út nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a személyi korlátozó intézkedés bírói felülvizsgálata kifejezett kivétel. Az EUMSZ 275. cikke második bekezdése a Tanács által természetes vagy jogi személyekre vonatkozóan elfogadott korlátozó intézkedések jogszerűségének felülvizsgálatát a 263. cikk negyedik albekezdése szerinti kereset útján megnyitja. A magánfél a címzett, közvetlen és személyes érintettség, illetve a végrehajtást nem igénylő rendeleti jellegű aktus küszöbével léphet. A tévedés a KKBP főszabályi tilalmát abszolúttá teszi a kivétel ellenére."
+        },
+        {
+          "text": "Főszabályként a Bíróság nem rendelkezik hatáskörrel a KKBP rendelkezései és az azok alapján elfogadott jogi aktusok tekintetében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 275. cikk első bekezdése tilalomként zárja ki a KKBP rendes bírósági felülvizsgálatát. Az EUMSZ 275. cikke szerint az Európai Unió Bírósága nem rendelkezik hatáskörrel a közös kül- és biztonságpolitikára vonatkozó rendelkezések, valamint az azok alapján elfogadott jogi aktusok tekintetében. Sem a KKBP rendelkezései, sem az azok alapján elfogadott aktusok nem a 263. cikk rendes tárgyai. A 19. cikk (1) bekezdése szerinti fórum e sávban csak a két kivétel mentén jár el."
+        },
+        {
+          "text": "A KKBP minden aktusa a 263. cikk szerinti privilegiált felperesek által szabadon megtámadható, ugyanúgy, mint a rendes uniós jogalkotás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály a hatáskör kizárása; a privilegiált felperes sem kap általános KKBP-semmisségi utat. Az EUMSZ 275. cikke első bekezdése a KKBP rendelkezéseit és az azok alapján elfogadott aktusokat kiveszi a Bíróság hatásköréből. A második bekezdés csak az EUSZ 40. cikk ellenőrzését és a személyi korlátozó intézkedések magánfél-keresetét engedi. A tévedés a 263. cikk általános semmisségi rendjét írja rá a KKBP-re."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "28f001f4492b"
+    },
+    {
+      "question": "Mely tagállami intézkedéseket zár ki a Bíróság felülvizsgálata alól a szabadságon, a biztonságon és a jog érvényesülésén alapuló térségben?",
+      "options": [
+        {
+          "text": "A Bíróság nem vizsgálhatja egy tagállam rendőrsége vagy más bűnüldöző szolgálata által végrehajtott intézkedések érvényességét vagy arányosságát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 276. cikk a rendőri és bűnüldöző intézkedés magvát vonja ki. Az EUMSZ 276. cikke szerint a V. cím 4. és 5. fejezete — rendőrségi és büntető együttműködés — mentén a Bíróság nem rendelkezik hatáskörrel a tagállami rendőrség vagy más bűnüldöző szolgálat intézkedéseinek érvényességi vagy arányossági felülvizsgálatára. A 19. cikk (1) bekezdése szerinti feladat e sávban a nemzeti bíróra marad. A 267. cikk előzetes döntése az uniós aktusok értelmezésére mégis nyitva állhat."
+        },
+        {
+          "text": "A közrend fenntartásával és a belső biztonság megőrzésével kapcsolatos tagállami hatáskörök gyakorlása sem vizsgálható a Bíróság előtt e fejezetek mentén.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a belső biztonsági hatáskör gyakorlására is kiterjed. Az EUMSZ 276. cikke a közrend fenntartásával és a belső biztonság megőrzésével kapcsolatos tagállami hatáskörök gyakorlásának felülvizsgálatát is kizárja. A 275. cikktől abban különbözik, hogy nem egész politikai címet, hanem a hatáskörgyakorlás magvát vonja ki. A 274. cikk nemzeti bírói főszabálya itt a 276. cikk tilalmával erősödik."
+        },
+        {
+          "text": "A 276. cikk a 267. cikk szerinti előzetes döntést is teljesen kizárja a rendőrségi és büntető együttműködés uniós aktusainak értelmezéséről.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom a tagállami intézkedés érvényességére, arányosságára és a belső biztonsági hatáskör gyakorlására szűkül, nem az uniós aktus-értelmezésre. Az EUMSZ 276. cikke a rendőri és közrendi magvat zárja ki a Bíróság felülvizsgálata alól. Az EUMSZ 267. cikke szerinti előzetes döntés az uniós aktusok értelmezésére ettől még fennmaradhat, anélkül hogy a 276. cikk tilalmát kiüresítené. A tévedés a hatásköri korlátot az előzetes döntés teljes kizárásává tágítja."
+        },
+        {
+          "text": "A Bíróság a tagállami rendőri intézkedés arányosságát a 263. cikk szerinti semmisségi kereset útján szabadon felülvizsgálhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 276. cikk éppen az érvényességi és arányossági felülvizsgálatot zárja ki. Az EUMSZ 276. cikke szerint a Bíróság nem rendelkezik hatáskörrel a tagállami rendőrség vagy más bűnüldöző szolgálat intézkedéseinek érvényességi vagy arányossági felülvizsgálatára. A 263. cikk a semmisségi keresetet uniós aktusokra állítja, nem a tagállami rendőri intézkedésre. A tévedés a semmisségi utat írja rá a 276. cikk által kivett nemzeti intézkedésre."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "45fccdba4485"
+    },
+    {
+      "question": "Milyen szűk bírói kontrollt enged az EUMSZ az EUSZ 7. cikke szerinti aktusok felett?",
+      "options": [
+        {
+          "text": "A kérelmet a megállapítás meghozatalától számított egy hónapon belül kell benyújtani, és a Bíróság a kérelem benyújtásától számított egy hónapon belül határoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egy hónapos kérelem és az egy hónapos döntés a 7. cikk szerinti eljárás tempóját védi. Az EUMSZ 269. cikke szerint a kérelmet a megállapítás meghozatalától számított egy hónapon belül kell benyújtani, és a Bíróság a kérelem benyújtásának időpontjától számított egy hónapon belül határoz. A 263. cikk két hónapos, erga omnes keresetétől a felperes, a meríték és a határidő oldalán is elválik. A 275. cikk KKBP-kivétele más sáv; a 269. cikk az értéksértési procedúra különös hatásköre."
+        },
+        {
+          "text": "Csak az érintett tagállam kérheti a Bíróság eljárását, és csak az EUSZ 7. cikke által előírt eljárás szabályainak tiszteletben tartása vizsgálható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a politikai szankció érdemét a Bíróság szándékosan nem veszi át. Az EUMSZ 269. cikke szerint a Bíróság kizárólag az Európai Tanács, illetve a Tanács megállapításával érintett tagállam kérelmére, és kizárólag az említett cikk által előírt eljárás szabályainak tiszteletben tartása tárgyában rendelkezik hatáskörrel. A 263. cikk szerinti négy jogalapú, erga omnes semmisségi kereset e sávban nem nyílik meg. A 19. cikk (1) bekezdése szerinti fórum itt csak a procedúra oldalán lép be."
+        },
+        {
+          "text": "A kérelem határideje a 263. cikk szerinti két hónap, és a Bíróság érdemi politikai mérlegelést is végezhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő egy hónap, és a meríték csak a procedúra. Az EUMSZ 269. cikke a kérelmet a megállapítás meghozatalától számított egy hónapon belül írja elő, és a Bíróságot egy hónapon belüli döntésre kötelezi. A politikai szankció érdemét a Bíróság nem veszi át. A tévedés a 263. cikk két hónapos zárát és a teljes jogszerűségi merítéket írja rá a 269. cikkre."
+        },
+        {
+          "text": "Bármely tagállam, a Parlament vagy a Bizottság a 263. cikk szerinti négy jogalapon támadhatja a 7. cikk szerinti aktust.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felperesi kör és a meríték is szűkebb a 263. cikknél. Az EUMSZ 269. cikke szerint csak az érintett tagállam kérheti az eljárást, és csak az EUSZ 7. cikke által előírt eljárás szabályainak tiszteletben tartása vizsgálható. A 263. cikk négy jogalapja — hatáskör hiánya, eljárási szabálysértés, Szerződés-szegés, hatáskörrel való visszaélés — ide nem nyitott. A tévedés a rendes semmisségi rendet írja rá a 7. cikk szerinti aktusra."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "15ad5cdf0db4"
+    },
+    {
+      "question": "Mi a hatásköri főszabály azokban a vitákban, amelyekben az Unió az egyik fél?",
+      "options": [
+        {
+          "text": "A 267. cikk szerinti előzetes döntés a 274. cikk főszabályát felváltja, ezért a nemzeti bíró soha nem dönthet uniós jogi kérdésben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 267. és a 274. cikk együtt olvasható: a nemzeti bíró marad a természetes bíró, az előzetes döntés pedig a kérdésfeltevés útja. Az EUMSZ 274. cikke szerint az Unió perbeli részvétele önmagában nem zárja ki a tagállami bíróságok hatáskörét. Az EUMSZ 267. cikke a Szerződések értelmezését és az uniós aktusok érvényességét/értelmezését a Bíróság elé viszi, de nem veszi el a nemzeti bíró ítélkezési szerepét. A tévedés az előzetes döntést a nemzeti hatáskör teljes elvonásává torzítja."
+        },
+        {
+          "text": "Az olyan vitás ügyeket, amelyekben az Unió az egyik fél, nem lehet erre hivatkozva kizárni a tagállamok bíróságainak hatásköréből, kivéve ha ezt a hatáskört a Szerződések az Európai Unió Bíróságára ruházzák.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti bíró az uniós jog természetes bírája, amíg a Szerződés másként nem rendelkezik. Az EUMSZ 274. cikke szerint az olyan vitás ügyeket, amelyekben az Unió az egyik fél, nem lehet erre hivatkozva kizárni a tagállamok bíróságainak hatásköréből, kivéve ha ezt a hatáskört a Szerződések az Európai Unió Bíróságára ruházzák. A 263–273. cikk szerinti keresetek és különös hatáskörök e kivételek listáját adják. A 19. cikk (1) bekezdése szerinti fórum nem általános uniós bíróság minden olyan perben, amelyben az Unió szerepel."
+        },
+        {
+          "text": "Ha az Unió az egyik perbeli fél, a 274. cikk a nemzeti bíróságok hatáskörét kizárja, és a vita csak akkor maradhat a tagállami fórum előtt, ha a Bíróság a hatásköréről előzetesen lemond.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 274. cikk éppen a nemzeti hatáskör megőrzését mondja ki. Az EUMSZ 274. cikke szerint az Uniót érintő vitákat nem lehet erre hivatkozva kizárni a tagállamok bíróságainak hatásköréből, kivéve ha a Szerződések a Bíróságra ruháztak hatáskört. A nemzeti bíróság tehát főszabályként eljárhat, ha az Unió fél. A tévedés a kivételt (szerződéses uniós hatáskör) főszabállyá fordítja, és a lemondást téves feltételként toldja be."
+        },
+        {
+          "text": "A 272. cikk szerinti választottbírósági kikötés és a 273. cikk szerinti tagállami megállapodás a felek aktusával oldja fel a nemzeti bírói főszabályt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felek alávetése a nemzeti bírói főszabály alóli kifejezett kivétel. Az EUMSZ 272. cikke az Unió által vagy nevében kötött szerződések választottbírósági kikötése alapján ad hatáskört. Az EUMSZ 273. cikke a tagállamok közötti, a Szerződések tárgyával összefüggő vitát a felek külön megállapodásához köti. A 263–271. cikk a Szerződés erejénél fogva telepít hatáskört; a 262. cikk a szellemi tulajdonjogi telepítést ratifikációhoz köti."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "dbd29d3f78ad"
+    },
+    {
+      "question": "Mi következik abból, ha valaki keresetet nyújt be az Európai Unió Bíróságához a megtámadott aktus végrehajtása szempontjából?",
+      "options": [
+        {
+          "text": "A Bíróság az elé terjesztett ügyekben bármely szükséges ideiglenes intézkedést elrendelhet, nem csupán a megtámadott aktus felfüggesztését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 279. cikk a status quo egyéb, pozitív vagy negatív őrzését is engedi. Az EUMSZ 279. cikke szerint a Bíróság az elé terjesztett ügyekben bármely szükséges ideiglenes intézkedést elrendelhet. A 278. cikk a megtámadott aktus felfüggesztésének különös alakzata; a 279. cikk attól függetlenül is áll. A „szükséges” fordulat a beavatkozás mércéje: az ideiglenes intézkedés nem előlegezheti indokolatlanul az érdemi ítéletet."
+        },
+        {
+          "text": "Ideiglenes intézkedést csak a Bíróság nagytanácsa rendelhet el, a Törvényszék elsőfokú keresetekben nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elsőfokú keresetekben a Törvényszék is gyakorolja az ideiglenes jogkört. Az EUMSZ 256. cikk (1) bekezdése szerinti elsőfokú keresetekben a Törvényszék a 278–279. cikk szerinti védelmet is alkalmazza; a fellebbezés jogkérdésben a Bíróságé. Az EUMSZ 278. és 279. cikke az Európai Unió Bíróságát nevezi meg, a 254. cikk záró mondata pedig a Bíróságra vonatkozó rendelkezéseket a Törvényszékre is átviszi, ha az alapokmány másként nem rendelkezik. A tévedés a formációt és a belső fórumot keveri."
+        },
+        {
+          "text": "A semmisségi kereset automatikusan felfüggeszti a megtámadott aktus végrehajtását a jogerős ítéletig.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a keresetnek nincs automatikus halasztó hatálya. Az EUMSZ 278. cikke kifejezetten kimondja, hogy a Bírósághoz benyújtott kereseteknek nincs halasztó hatályuk. A felfüggesztés csak akkor nyílik, ha a Bíróság a körülmények alapján szükségesnek tartja. A tévedés a nemzeti közigazgatási perbeli automatikus felfüggesztést írja rá az uniós keresetre."
+        },
+        {
+          "text": "A Bírósághoz benyújtott kereseteknek nincs halasztó hatályuk; a Bíróság azonban elrendelheti a megtámadott jogi aktus végrehajtásának felfüggesztését, ha a körülmények alapján azt szükségesnek tartja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kereset nem bénítja meg eleve a megtámadott aktust. Az EUMSZ 278. cikke szerint: „Az Európai Unió Bíróságához benyújtott kereseteknek nincs halasztó hatályuk.” Ugyanezen cikk második mondata a felfüggesztést kérelemre adott, ideiglenes védelemként engedi, ha a körülmények alapján szükséges. A 264. cikk szerinti semmisség az ítéletig nem áll be magától; a 279. cikk a tágabb ideiglenes intézkedést adja."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "1abc624f0e5d"
+    },
+    {
+      "question": "Milyen feltételekkel ruházható a Bíróságra korlátlan felülvizsgálati jogkör a szankciók tekintetében?",
+      "options": [
+        {
+          "text": "A 256. cikk (1) bekezdése e kereseteket a Törvényszékhez vonhatja, ha a rendelet vagy az alapokmány úgy szabja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a korlátlan felülvizsgálat nem feltétlenül a Bíróság első fokán marad. Az EUMSZ 256. cikk (1) bekezdése a Törvényszéket elsőfokú fórummá teheti e keresetekre is, ha a rendelet vagy az alapokmány úgy rendelkezik. A 254. cikk záró mondata a Törvényszékre is átviszi e jogkört, ha az alapokmány másként nem rendelkezik. A felhatalmazás a jogalkotóé; a 19. cikk (1) bekezdése szerinti fórum a rendelet nélkül nem sajátítja ki a mérlegelést."
+        },
+        {
+          "text": "Korlátlan felülvizsgálati jogkört csak az Európai Tanács egyhangú politikai határozata ruházhat a Bíróságra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felhatalmazás a rendeleté, nem európai tanácsi politikai aktusé. Az EUMSZ 261. cikke az Európai Parlament és a Tanács által közösen, illetve a Tanács által a Szerződések rendelkezései szerint elfogadott rendeleteket nevezi meg. Az Európai Tanács e cikkben nem szerepel felhatalmazóként. A tévedés az EUSZ 15. cikk szerinti európai tanácsi szerepet írja rá a 261. cikk rendeleti pályájára."
+        },
+        {
+          "text": "Az Európai Parlament és a Tanács által közösen, illetve a Tanács által a Szerződések rendelkezései szerint elfogadott rendeletek a bennük előírt szankciók tekintetében korlátlan felülvizsgálati jogkört ruházhatnak a Bíróságra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 261. cikk a rendelet kifejezett felhatalmazásához köti a szankciós tényszéki szerepet. Az EUMSZ 261. cikke szerint e rendeletek a bennük előírt szankciók tekintetében korlátlan felülvizsgálati jogkört ruházhatnak az Európai Unió Bíróságára. Felhatalmazás nélkül a Bíróság nem válik szankciós tényszékké. A 263. cikk jogszerűségi revíziójától a merítékben különbözik: itt a szankció mértéke is felülírható."
+        },
+        {
+          "text": "A Bíróság minden uniós közigazgatási bírság mértékét hivatalból, rendelet nélkül is korlátlanul felülvizsgálhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a korlátlan felülvizsgálat nem általános, hanem felhatalmazáshoz kötött. Az EUMSZ 261. cikke a Parlament és a Tanács, illetve a Tanács által elfogadott rendeletek kifejezett felhatalmazását követeli meg. Felhatalmazás nélkül a Bíróság a 263. cikk szerinti jogszerűségi merítékben jár el, a szankció mértékét nem írja felül szabadon. A tévedés abból ered, hogy a rendelet nélküli szankció-felülírást általános fellebbezéssé olvassák."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "49eae1a89688"
+    },
+    {
+      "question": "Mi a semmisséget vagy a mulasztás Szerződés-ellenességét megállapító ítélet teljesítési kötelme?",
+      "options": [
+        {
+          "text": "A teljesítési kötelem csak a tagállamokra áll; az uniós intézményeket a 266. cikk nem kötelezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 266. cikk éppen az intézményi, szervi és hivatali címzettet nevezi meg. Az EUMSZ 266. cikke szerint az az intézmény, szerv vagy hivatal, amelynek aktusát semmisnek nyilvánították, vagy amelynek mulasztását Szerződés-ellenesnek minősítették, köteles megtenni a szükséges intézkedéseket. A 260. cikk (1) bekezdése a tagállami teljesítési parancs; a 266. cikk az intézményi párja. A tévedés a két teljesítési címet felcseréli."
+        },
+        {
+          "text": "A semmisségi ítélet teljesítése automatikusan megszünteti a 340. cikk szerinti kártérítési igényt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két sík nem olvad össze. Az EUMSZ 266. cikke kifejezetten kimondja, hogy a teljesítési kötelezettség nem érinti a 340. cikk második bekezdésének alkalmazásából származó kötelezettségeket. Az EUMSZ 268. cikke a kártérítési per bírói útját külön tartja nyitva. A tévedés a jogszerűség helyreállítását a kártalanítás megszűnésével azonosítja."
+        },
+        {
+          "text": "Az az intézmény, szerv vagy hivatal, amelynek aktusát a Bíróság semmisnek nyilvánította, vagy amelynek mulasztását a Szerződésekkel ellentétesnek nyilvánította, köteles megtenni az ítélet teljesítéséhez szükséges intézkedéseket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a semmisségi és mulasztási ítéletnek operatív címzettje van: az érintett intézmény, szerv vagy hivatal. Az EUMSZ 266. cikke a teljesítési kötelmet az érintett intézményre, szervre vagy hivatalra telepíti. A 260. cikk (1) bekezdésének intézményi párja ez: a Bíróság dönt, a címzett végrehajt. Az EUMSZ 280. cikke az ítéletet a 299. cikkben megállapított feltételek szerint végrehajthatóvá teszi."
+        },
+        {
+          "text": "A 266. cikk szerinti teljesítési kötelezettség nem érinti a 340. cikk második bekezdésének alkalmazásából származó kártérítési kötelezettségeket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogszerűség helyreállítása és a kártalanítás külön sík. Az EUMSZ 266. cikke záró mondata szerint e kötelezettség nem érinti azokat a kötelezettségeket, amelyek a 340. cikk második bekezdésének alkalmazásából származhatnak. A teljesítés nem mentesít a kár alól. Az EUMSZ 268. cikke a 340. cikk második és harmadik bekezdése szerinti kártérítési viták bírói útja."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "132ae80edee6"
+    },
+    {
+      "question": "Miben tér el a választottbírósági kikötésen alapuló hatáskör a tagállamok közötti megállapodásos vitától?",
+      "options": [
+        {
+          "text": "A tagállamok közötti, a Szerződések tárgyával összefüggő vitát a Bíróság csak akkor bírálja el, ha a felek egy külön megállapodás alapján elé terjesztik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tagállamok közötti alávetés önkéntes, nem kötelezettségszegési per. Az EUMSZ 273. cikke szerint a Bíróság hatáskörrel rendelkezik a tagállamok között felmerülő, a Szerződések tárgyával összefüggő vitás ügyekben, ha az ilyen ügyeket a felek egy külön megállapodás alapján elé terjesztik. Megállapodás hiányában a Bíróság távol marad. A 259. cikktől a felperesi kényszer és a véleményes előzmény hiányában válik el."
+        },
+        {
+          "text": "A 273. cikk szerinti tagállami vita ugyanaz, mint a 259. cikk szerinti kötelezettségszegési per, csak más elnevezéssel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két út jogalapja és előzménye különbözik. Az EUMSZ 259. cikke a kötelezettségszegés megállapítását célozza, Bizottság elé terjesztéssel és véleményes szakasszal. Az EUMSZ 273. cikke a felek külön megállapodásán nyugvó alávetés, véleményes előzmény nélkül. A tévedés a kötelezettségszegési kényszert és az önkéntes alávetést azonosítja."
+        },
+        {
+          "text": "A 272. cikk szerinti kikötés nélkül is minden Unióval kötött szerződéses vita automatikusan a Bíróság elé tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatáskör a választottbírósági kikötéshez kötött. Az EUMSZ 272. cikke szerint a Bíróság a kikötés alapján határozatot hozhat; kikötés nélkül a 274. cikk nemzeti bírói főszabálya érvényesül. A 263–265. cikk jogszerűségi taxációja e sávban nem helyettesíti a szerződéses alávetést. A tévedés a kikötést mellőzhető formává gyengíti."
+        },
+        {
+          "text": "A Bíróság az Unió által vagy nevében kötött közjogi vagy magánjogi szerződésekben foglalt választottbírósági kikötés alapján határozatot hozhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 272. cikk a felek kikötésén nyugvó döntés, nem a 263. cikk jogszerűségi revíziója. Az EUMSZ 272. cikke szerint a Bíróság hatáskörrel rendelkezik arra, hogy az Unió által vagy nevében kötött közjogi vagy magánjogi szerződésekben foglalt választottbírósági kikötés alapján határozatot hozzon. Az EUMSZ 256. cikk (1) bekezdése a választottbírósági kikötésen alapuló keresetet első fokon a Törvényszékhez utalja. A 274. cikk szerinti nemzeti bírói főszabály alól a kikötés a kifejezett kivétel."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "74c11e3e344c"
+    },
+    {
+      "question": "A 340. cikk második bekezdése szerinti uniós kártérítési igény érvényesítésére mely bírói út nyílik?",
+      "options": [
+        {
+          "text": "A semmisségi ítélet automatikusan kártérítést is megítél, külön 268. cikk szerinti per nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisség és a kártérítés külön kereseti sík. Az EUMSZ 266. cikke a teljesítést az intézményre telepíti, de a 340. cikk szerinti kártérítést nem olvasztja a semmisségbe. Az EUMSZ 268. cikke a kártérítési viták külön bírói útját adja. A tévedés a 264. cikk szerinti semmisséget a vagyoni reparációval azonosítja."
+        },
+        {
+          "text": "A 266. cikk záró mondata a kártérítési síkot a semmisségi és mulasztási ítélet mellett nyitva hagyja: a teljesítés nem mentesít a kár alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogszerűség helyreállítása és a kártalanítás külön sík marad. Az EUMSZ 266. cikke szerint a teljesítési kötelezettség nem érinti a 340. cikk második bekezdésének alkalmazásából származó kötelezettségeket. Az EUMSZ 268. cikke e kártérítési viták bírói fórumát adja. A két sík a 266. cikk szerint nem olvad össze."
+        },
+        {
+          "text": "Az Európai Unió Bírósága hatáskörrel rendelkezik a 340. cikk második és harmadik bekezdésében említett kártérítési vitákban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vagyoni reparáció bírói útja a 340. cikk második és harmadik bekezdésére utal, a felelősség feltételeit nem ismétli. Az EUMSZ 268. cikke szerint a Bíróság hatáskörrel rendelkezik a 340. cikk második és harmadik bekezdésében említett kártérítési vitákban. A 263. cikk semmissége és a 265. cikk mulasztása a jogszerűséget, a 268. cikk a vagyoni reparációt adja. Az EUMSZ 256. cikk (1) bekezdése a kártérítési keresetet első fokon a Törvényszék hatáskörébe utalja."
+        },
+        {
+          "text": "A kártérítési vitát kizárólag a nemzeti bíróság bírálhatja el, mert a 274. cikk minden Unióval kapcsolatos vagyoni igényt oda telepít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 340. cikk második és harmadik bekezdése szerinti kártérítés szerződési fóruma a Bíróság. Az EUMSZ 268. cikke e kártérítési vitákra kifejezetten a Bíróság hatáskörét állítja. A 256. cikk (1) bekezdése a Törvényszéket teszi elsőfokú fórummá; a Bíróság a jogkérdéses fellebbezést őrzi. A 274. cikk a nemzeti bírói főszabályt más vitákra őrzi, de a 268. cikk e sávot kivételként a Bírósághoz telepíti."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "aa82f6dbdc6b"
+    },
+    {
+      "question": "Az EUMSZ által felsoroltak közül melyik jellemzi az Unió és alkalmazottai közötti viták fórumát?",
+      "options": [
+        {
+          "text": "A személyzeti viták kizárólag a nemzeti munkaügyi bíróságok hatáskörébe tartoznak a 274. cikk alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 270. cikk a vitát az Európai Unió Bíróságához telepíti. Az EUMSZ 270. cikke szerint a Bíróság hatáskörrel rendelkezik az Unió és alkalmazottai között felmerülő minden vitás ügyben a szabályzatbeli keretek között. A 256. cikk (1) bekezdése a Törvényszéket jelöli ki első fokon. A 274. cikk nemzeti bírói főszabálya e szerződési telepítés alól kivétel."
+        },
+        {
+          "text": "A 257. cikk szerinti különös hatáskörű törvényszék e sávot is magához vonhatja, ha a létrehozó rendelet úgy szabja, a 256. cikk (2) bekezdése szerinti jogorvoslattal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyzeti sáv különös törvényszékhez is telepíthető. Az EUMSZ 257. cikke meghatározott keresetfajták első fokon történő elbírálására engedi a különös hatáskörű törvényszék létrehozását. Az EUMSZ 270. cikke szerinti vita e körbe vonható, ha a rendelet így rendelkezik. A 256. cikk (2) bekezdése szerinti jogorvoslat ekkor a Törvényszékhez vezet."
+        },
+        {
+          "text": "A Bíróság hatáskörrel rendelkezik az Unió és alkalmazottai között felmerülő vitás ügyekben a tisztviselők személyzeti szabályzata és az egyéb alkalmazottak alkalmazási feltételei szerinti keretek között.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyzeti vita zárt fórum, nem általános munkügyi szuperkúria. Az EUMSZ 270. cikke a hatáskört a személyzeti szabályzatban és az alkalmazási feltételekben megállapított keretekhez és feltételekhez köti. Az EUMSZ 256. cikk (1) bekezdése a személyzeti keresetet első fokon a Törvényszékhez utalja. A 263. cikk szerinti jogszerűségi keresettől elválasztott út ez: a szabályzatbeli feltételek szabják a merítéket."
+        },
+        {
+          "text": "Az Unió alkalmazottai a 263. cikk szerinti privilegiált felperesként támadhatják a személyzeti aktusokat, személyzeti szabályzati keret nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a személyzeti vita zárt út a szabályzat keretei között. Az EUMSZ 270. cikke a hatáskört a tisztviselők személyzeti szabályzatában és az egyéb alkalmazottak alkalmazási feltételeiben megállapított keretekhez köti. A 263. cikk privilegiált felperesei a tagállam, a Parlament, a Tanács és a Bizottság — nem az alkalmazott. A tévedés a semmisségi privilegiált státust írja rá a személyzeti perre."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "4e21a4165828"
+    },
+    {
+      "question": "Milyen különös hatásköri rendet állít az EUMSZ az Európai Beruházási Bank és a nemzeti központi bankok kapcsán?",
+      "options": [
+        {
+          "text": "A Bank Igazgatótanácsának intézkedései ellen csak a tagállam vagy a Bizottság indíthat keresetet, és csak a Bank alapokmánya 19. cikkének (2) és (5)–(7) bekezdése szerinti eljárási szabályok megsértésére hivatkozva.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a c) pont merítéke szűkebb a 263. cikk négy jogalapjánál. Az EUMSZ 271. cikk c) pontja szerint az Igazgatótanács intézkedései ellen csak a tagállamok vagy a Bizottság indíthatnak keresetet, és kizárólag a megjelölt eljárási szabályok megsértésére hivatkozva. A b) pont szerinti Kormányzótanács-intézkedések a 263. cikk feltételei szerint támadhatók tagállam, Bizottság vagy Igazgatótanács által. A c) pont tehát szűkebb felperesi kört és merítéket ad."
+        },
+        {
+          "text": "A tagállamok EBB-alapokmányból eredő kötelezettségeinél a Bank Igazgatótanácsa a 258. cikk szerinti bizottsági szerepet kapja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 271. cikk a 258. cikk szerkezetét a Bankra vetíti. Az EUMSZ 271. cikk a) pontja szerint a Bank Igazgatótanácsa rendelkezik a 258. cikk által a Bizottságra ruházott hatáskörrel a tagállamok alapokmányból eredő kötelezettségeinek teljesítése tárgyában. A Bankot ez nem teszi a 19. cikk szerinti intézménnyé. A d) pont a nemzeti központi bankok Szerződés- és KBER-alapokmány-szegését az EKB Kormányzótanácsához telepíti ugyanezen analógiával."
+        },
+        {
+          "text": "A nemzeti központi bank Szerződés-szegése esetén a Bizottság indít 258. cikk szerinti pert, az EKB Kormányzótanácsa nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a d) pont az EKB Kormányzótanácsát állítja a Bizottság helyébe. Az EUMSZ 271. cikk d) pontja szerint a nemzeti központi bankokat illetően az EKB Kormányzótanácsa ugyanolyan hatáskörrel rendelkezik, mint amelyet a tagállamokat illetően a 258. cikk a Bizottságra ruház. Ha a Bíróság megállapítja a kötelezettségszegést, a bank köteles megtenni az ítélet teljesítéséhez szükséges intézkedéseket. A tévedés a rendes bizottsági utat írja rá a jegybanki sávra."
+        },
+        {
+          "text": "Az EBB Kormányzótanácsának intézkedései ellen csak magánfél indíthat semmisségi keresetet, a 263. cikk negyedik albekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a b) pont a felpereseket a tagállam, a Bizottság vagy a Bank Igazgatótanácsa körében jelöli ki. Az EUMSZ 271. cikk b) pontja szerint bármely tagállam, a Bizottság vagy a Bank Igazgatótanácsa indíthat keresetet a 263. cikkben megállapított feltételek mellett. A magánfél e pont szerinti felperesi körben nem szerepel. A tévedés a 263. cikk magánfél-sávját írja rá a Bank Kormányzótanácsának intézkedéseire."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "76da5b79e485"
+    },
+    {
+      "question": "Milyen feltételek szerint válnak végrehajthatóvá a Bíróság ítéletei?",
+      "options": [
+        {
+          "text": "Csak a 260. cikk szerinti bírságítélet végrehajtható; a semmisségi ítéletnek nincs végrehajtási címe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 280. cikk az ítéleteket általában teszi végrehajthatóvá a 299. cikk feltételei szerint. Az EUMSZ 280. cikke nem korlátozza a végrehajthatóságot a 260. cikk szerinti szankcióra. A 266. cikk szerinti intézményi teljesítési kötelem a semmisségi és mulasztási ítélet foganatát is igényli. A tévedés a vagyoni szankciót kizárólagos végrehajtási tárggyá szűkíti."
+        },
+        {
+          "text": "A 280. cikk szerinti végrehajthatóság azt jelenti, hogy a Bíróság ítélete a kihirdetéssel minden tagállamban közvetlenül foganatosítható, a 299. cikk nemzeti végrehajtási feltételeinek alkalmazása nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a végrehajthatóság a 299. cikk nemzeti végrehajtási feltételeihez van kötve. Az EUMSZ 280. cikke szerint az Európai Unió Bíróságának ítéletei a 299. cikkben megállapított feltételek szerint végrehajthatók. A 280. cikk tehát utaló norma, nem önálló, feltétel nélküli foganat. A tévedés a végrehajthatósági címet a 299. cikk nemzeti végrehajtási keretének megkerülésével azonosítja, noha a Szerződés éppen ehhez a kerethez irányít."
+        },
+        {
+          "text": "A 264. cikk szerinti semmisségi és a 260. cikk szerinti szankciós ítélet egyaránt e végrehajthatósági cím alá tartozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a végrehajthatóság nem csak egy keresettípusra áll. Az EUMSZ 280. cikke az Európai Unió Bíróságának ítéleteit általában a 299. cikk feltételeihez köti. A 264. cikk szerinti semmisségi ítélet és a 260. cikk szerinti vagyoni szankció így egyaránt végrehajtható címmé válhat. A 278. cikk szerinti felfüggesztés az aktusra, nem az ítéletre vonatkozik."
+        },
+        {
+          "text": "Az Európai Unió Bíróságának ítéletei a 299. cikkben megállapított feltételek szerint végrehajthatók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 280. cikk a végrehajthatóságot a 299. cikk feltételeihez köti. Az EUMSZ 280. cikke szerint: „Az Európai Unió Bíróságának ítéletei a 299. cikkben megállapított feltételek szerint végrehajthatók.” A 266. cikk intézményi teljesítési kötelme és a 260. cikk tagállami teljesítési parancsa e végrehajthatóság anyagi előzménye. A 268. cikk kártérítési ítélete ugyanezen a végrehajtási címen áll."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "bca8188431ff"
+    },
+    {
+      "question": "Hogyan módosítható az Európai Unió Bírósága alapokmánya, és mi marad a rendes jogalkotás elől elzárva?",
+      "options": [
+        {
+          "text": "Az alapokmány teljes egészében, ideértve az I. címet és a 64. cikket is, egyszerű tanácsi minősített többséggel módosítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az I. cím és a 64. cikk a rendes jogalkotás elől is elzárt. Az EUMSZ 281. cikke kifejezetten kivételként nevezi meg az I. címet és a 64. cikket a módosítható rendelkezések közül. A módosítás rendes jogalkotási eljárás, nem egyszerű tanácsi minősített többség. A tévedés a védett magot és az eljárási küszöböt is elrontja."
+        },
+        {
+          "text": "Az alapokmányt kizárólag az Európai Tanács egyhangú politikai határozattal módosíthatja, a Bíróság megkerülésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a módosítás a Parlament és a Tanács rendes jogalkotása, a Bíróság vagy a Bizottság indítványához kötve. Az EUMSZ 281. cikke a kezdeményezést a Bíróság kérelméhez vagy a Bizottság javaslatához, és a másik féllel folytatott konzultációhoz köti. Az Európai Tanács e cikkben nem szerepel módosítóként. A tévedés az EUSZ 15. cikk szerinti európai tanácsi szerepet írja rá az alapokmány módosítására."
+        },
+        {
+          "text": "A módosítás kezdeményezése kettős: a Bíróság kérelme a Bizottsággal folytatott konzultáció után, vagy a Bizottság javaslata a Bírósággal folytatott konzultáció után.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kezdeményezési pálya szimmetrikus. Az EUMSZ 281. cikke szerint az Európai Parlament és a Tanács vagy a Bíróság kérelmére és a Bizottsággal folytatott konzultációt követően, vagy a Bizottság javaslata alapján és a Bírósággal folytatott konzultációt követően határoz. A 251. cikk a tanácsokat, a 256. cikk a fellebbezés korlátait, a 254. cikk a Törvényszék létszámát az alapokmányra utalja. A rendes jogalkotás tehát a szervezetet alakíthatja, de a 281. cikk szerinti magot nem."
+        },
+        {
+          "text": "Az alapokmányt külön jegyzőkönyv állapítja meg; a Parlament és a Tanács rendes jogalkotási eljárásban módosíthatja, az I. cím és a 64. cikk kivételével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alapokmány a fórum belső alkotmányának módosítási záradékával áll. Az EUMSZ 281. cikke szerint az Európai Unió Bíróságának alapokmányát külön jegyzőkönyv állapítja meg, és rendelkezéseit — az I. cím és a 64. cikk kivételével — rendes jogalkotási eljárás keretében az Európai Parlament és a Tanács módosíthatja. Az I. cím és a 64. cikk a bírói függetlenség és a nyelvhasználat magva. A 257. cikk ugyanezt a magot a különös törvényszékekre is kötelezővé teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "208de1878dc3"
+    }
+  ]
+}

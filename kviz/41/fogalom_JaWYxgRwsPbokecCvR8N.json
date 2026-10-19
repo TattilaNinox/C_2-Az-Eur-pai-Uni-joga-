@@ -1,0 +1,765 @@
+{
+  "id": "JaWYxgRwsPbokecCvR8N",
+  "sorszam": 41,
+  "cim": "Mi a Bizottság szerepe a versenyjogban (a Bizottság hatásköre (...)",
+  "generationType": "fogalom",
+  "title": "41. Mi a Bizottság szerepe a versenyjogban (a Bizottság hatásköre (...)",
+  "questions": [
+    {
+      "question": "Ki és milyen eljárásban állapítja meg a 101. és 102. cikk elveit érvényre juttató rendeleteket vagy irányelveket?",
+      "options": [
+        {
+          "text": "A Bizottság egyedül, a Tanács és a Parlament részvétele nélkül fogadja el a 101. és 102. cikk végrehajtási rendeleteit.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 103. cikk (1) bekezdése szerinti aktust nem a Bizottság egyedül fogadja el. A helyes: a Tanács állapítja meg a rendeleteket vagy irányelveket a Bizottság javaslata alapján, az Európai Parlamenttel folytatott konzultációt követően; a Bizottság csoportmentességi rendeleti hatásköre a 105. cikk (3) bekezdésén nyugszik, a Tanács 103. cikk (2) bekezdésének b) pontja szerinti felhatalmazása nyomán. A tévedés a Tanács döntési szerepét és a Parlament konzultációját kihagyja."
+        },
+        {
+          "text": "A 103. cikk a versenyjog másodlagos jogalapja: a Parlament nem társjogalkotó, hanem konzultációs szerepet tölt be, a Bizottság pedig a javaslattevő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az intézményi szereposztás elhatárolódik a rendes jogalkotástól. Az EUMSZ 103. cikk (1) bekezdése a javaslatot a Bizottsághoz, a döntést a Tanácshoz, a konzultációt a Parlamenthez rendeli. A (2) bekezdés b) pontja a 101. cikk (3) bekezdésének részletszabályait a hatékony felügyelet és a hatósági ellenőrzés egyszerűsítése egyensúlyához köti; e pont a közvetlenül alkalmazandó kivétel és a csoportmentesség közös gyökere. Az 1/2003/EK rendelet a 103. cikk (2) bekezdésének programját hajtja végre."
+        },
+        {
+          "text": "A Tanács a Bizottság javaslata alapján, az Európai Parlamenttel folytatott konzultációt követően állapítja meg e rendeleteket vagy irányelveket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a másodlagos jogalap a Tanácsot hatalmazza fel. Az EUMSZ 103. cikk (1) bekezdése szerint a 101. és 102. cikk elveit érvényre juttató megfelelő rendeleteket vagy irányelveket „a Tanács a Bizottság javaslata alapján, az Európai Parlamenttel folytatott konzultációt követően állapítja meg”. Ez nem rendes jogalkotási eljárás: a Parlament véleményez, a kezdeményezés a Bizottságé, a döntés a Tanácsé. A 103. cikk (2) bekezdése a) pontja e keretben a tilalmakat pénzbírsággal vagy kényszerítő bírsággal biztosítja."
+        },
+        {
+          "text": "A 103. cikk szerinti aktusok a rendes jogalkotási eljárásban születnek, ahol a Parlament társjogalkotó a Tanáccsal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Parlament e tárgyban nem társjogalkotó a Tanáccsal. A helyes: az EUMSZ 103. cikk (1) bekezdése szerint a Tanács a Bizottság javaslata alapján, az Európai Parlamenttel folytatott konzultációt követően állapítja meg a rendeleteket vagy irányelveket; a Parlament véleményez, a döntés a Tanácsé. A (2) bekezdés a) pontja e keretben a tilalmakat pénzbírsággal vagy kényszerítő bírsággal biztosítja. A tévedés a konzultációt társjogalkotásra cseréli."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "9df62833b9c1"
+    },
+    {
+      "question": "Mit telepít az EUMSZ 105. cikk (1)–(2) bekezdése a Bizottságra a 101. és 102. cikk elveinek őreként?",
+      "options": [
+        {
+          "text": "Ha a jogsértést nem szüntetik meg, a Bizottság indokolással ellátott határozatában állapítja meg az elvek megsértését, amelyet nyilvánosságra hozhat, és felhatalmazhatja a tagállamokat a helyzet orvoslására a maga által szabott feltételekkel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a szerződéses jogsértési aktust adja. Az EUMSZ 105. cikk (2) bekezdése szerint, ha a jogsértést nem szüntetik meg, a Bizottság „indokolással ellátott határozatában állapítja meg az elvek megsértését”; a határozatot nyilvánosságra hozhatja, és felhatalmazhatja a tagállamokat a helyzet orvosolásához szükséges intézkedésekre, „amelyek feltételeit és részleteit a Bizottság határozza meg”. Ez a szerződéses jogsértési aktus, nem csupán tájékoztató levél."
+        },
+        {
+          "text": "A Bizottság a 104. cikk sérelme nélkül biztosítja a 101. és 102. cikk elveinek alkalmazását: tagállami kérelemre vagy hivatalból vizsgál, jogsértésnél a megszüntetésre irányuló megfelelő intézkedésekre javaslatot tesz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az őri szerep a vizsgálat és a megszüntetési javaslat. Az EUMSZ 105. cikk (1) bekezdése szerint a Bizottság „biztosítja a 101. és 102. cikkben megállapított elvek alkalmazását”, és „együttműködve a tagállamok hatáskörrel rendelkező hatóságaival” megvizsgálja a gyanús eseteket; jogsértés megállapításakor „javaslatot tesz a jogsértés megszüntetésére irányuló megfelelő intézkedésekre”. A 104. cikk átmeneti tagállami döntése e hatáskört nem szünteti meg."
+        },
+        {
+          "text": "Ha a jogsértést nem szüntetik meg, a Bizottságnak elegendő indokolás nélküli tájékoztatást közzétennie; indokolással ellátott határozat és tagállami felhatalmazás nincs a 105. cikk (2) bekezdésében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés indokolással ellátott határozatot követel. A helyes: az EUMSZ 105. cikk (2) bekezdése szerint a Bizottság indokolással ellátott határozatában állapítja meg az elvek megsértését, a határozatot nyilvánosságra hozhatja, és felhatalmazhatja a tagállamokat a helyzet orvoslására a maga által meghatározott feltételekkel. A tévedés az indokolást és a felhatalmazást kihagyja."
+        },
+        {
+          "text": "A Bizottság a 105. cikk (1) bekezdése alapján csak tagállami kérelemre vizsgálhat; hivatalból nem indíthat eljárást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vizsgálat hivatalból is indulhat. A helyes: az EUMSZ 105. cikk (1) bekezdése szerint a Bizottság „egy tagállam kérelmére vagy hivatalból” — a tagállamok hatáskörrel rendelkező hatóságaival együttműködve — megvizsgálja azokat az eseteket, ahol fennáll az elvek megsértésének gyanúja. Jogsértés megállapításakor a Bizottság a megszüntetésre irányuló megfelelő intézkedésekre javaslatot tesz. A tévedés a hivatalbóli indítást kihagyja."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "62252331e02e"
+    },
+    {
+      "question": "Milyen szerződéses címen fogadhat el a Bizottság csoportmentességi rendeletet?",
+      "options": [
+        {
+          "text": "A 105. cikk (3) bekezdése a Bizottságot felhatalmazza, hogy a Tanács 103. cikk (2) bekezdésének b) pontja szerinti rendelete vagy irányelve nyomán a megállapodások meghatározott csoportjaira rendeletet fogadjon el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a csoportmentesség a Bizottság rendeleti hatáskörén nyugszik a Tanács előzetes aktusa után. Az EUMSZ 105. cikk (3) bekezdése szerint a Bizottság „rendeleteket fogadhat el a megállapodások azon csoportjaira vonatkozóan, amelyek tekintetében a Tanács a 103. cikk második bekezdésének b) pontjával összhangban rendeletet vagy irányelvet fogadott el”. A 103. cikk (2) bekezdésének b) pontja a 101. cikk (3) bekezdésének részletszabályait a hatékony felügyelet és az ellenőrzés egyszerűsítése egyensúlyához köti. A preambulum a 19/65/EGK és további előzmény-rendeleteket e felhatalmazás előzményeként nevezi meg."
+        },
+        {
+          "text": "A csoportmentességi rendeletet a Tanács fogadja el a Parlament társjogalkotásával; a Bizottságnak e tárgyban nincs rendeleti hatásköre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a csoportmentességi rendeletet a Bizottság fogadja el. A helyes: az EUMSZ 105. cikk (3) bekezdése a Bizottságot hatalmazza fel a megállapodások meghatározott csoportjaira vonatkozó rendelet elfogadására, miután a Tanács a 103. cikk (2) bekezdésének b) pontja szerint rendeletet vagy irányelvet fogadott el; a 103. cikk (1) bekezdése szerinti általános végrehajtási aktus viszont a Tanácsé. A tévedés a Bizottság csoportmentességi címét a Tanácshoz helyezi."
+        },
+        {
+          "text": "A csoportmentességi hatáskör a Tanács 103. cikk szerinti felhatalmazásához kötött; a Bizottság nem önálló anyagi tilalmat alkot, hanem a 101. cikk (3) bekezdésének csoportos alkalmazását rendezi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság e címen nem a 103. cikk (1) bekezdése szerinti általános végrehajtási aktust váltja ki. Az EUMSZ 105. cikk (3) bekezdése a Tanács 103. cikk (2) bekezdésének b) pontja szerinti aktusához köti a csoportmenti rendeletet; a 103. cikk (1) bekezdése szerinti rendeleteket vagy irányelveket továbbra is a Tanács állapítja meg. A csoportmentesség a mentesítési feltételek csoportos érvényesülését szolgálja, nem a 101. cikk (1) bekezdésének tilalmát írja felül. Az 1/2003/EK rendelet a közvetlenül alkalmazandó kivétel rendjét ehhez a másodlagos kerethez igazítja."
+        },
+        {
+          "text": "A Bizottság a 105. cikk (3) bekezdése alapján a Tanács előzetes felhatalmazása nélkül is csoportmentességi rendeletet fogadhat el bármely megállapodás-típusra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a csoportmentesség a Tanács 103. cikk (2) bekezdésének b) pontja szerinti aktusához kötött. A helyes: az EUMSZ 105. cikk (3) bekezdése szerint a Bizottság csak azon megállapodás-csoportokra fogadhat el rendeletet, amelyek tekintetében a Tanács a 103. cikk (2) bekezdésének b) pontjával összhangban rendeletet vagy irányelvet fogadott el. A tévedés a Tanács felhatalmazását kihagyja."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "ccc81a88ec63"
+    },
+    {
+      "question": "Miben tér el az 1/2003/EK Eljárási Rendelet a 17. tanácsi rendelet centralizált bejelentési rendjétől?",
+      "options": [
+        {
+          "text": "Az 1/2003/EK rendelet a bejelentésen nyugvó centralizált rendet közvetlenül alkalmazandó kivételi rendszerrel váltja fel, amelyben a tagállamok versenyhatóságai és bíróságai a 101. cikk (3) bekezdését is alkalmazzák.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a modernizáció a kivétel közvetlen alkalmazhatóságán áll. A Tanács 1/2003/EK rendelete a 17. rendelet helyén közvetlenül alkalmazandó kivételi rendszert vezet be: a tagállamok versenyhatóságai és bíróságai a 81. cikk (1) bekezdése és a 82. cikk mellett a 81. cikk (3) bekezdését — ma a 101. cikk (3) bekezdését — is alkalmazzák. A rendelet a Szerződés akkori 83. cikkén (ma 103. cikk) alapul, tehát a 101. és 102. cikk elveit érvényre juttató tanácsi aktus. A Bizottság így a legsúlyosabb jogsértésekre és a hálózat egységére összpontosíthat."
+        },
+        {
+          "text": "A vállalkozás a 101. cikk (3) bekezdését maga mérlegeli, a hatóság utólag ellenőriz; a mentesítés nem a Bizottsághoz intézett egyedi bejelentés eredménye.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bizonyítási és alkalmazási teher áthelyeződik. Az 1/2003/EK rendelet a (3) bekezdést közvetlenül alkalmazandóvá tette: a vállalkozás maga mérlegel, a hatóság utólag ellenőriz. A preambulum szerint a jogsértést állító félen vagy hatóságon van a bizonyítási teher a 81. cikk (1) bekezdése és a 82. cikk tekintetében; a mentesítő körülményeket a rájuk hivatkozó vállalkozás bizonyítja. A 17. rendelet bejelentési központja ezzel megszűnt."
+        },
+        {
+          "text": "Az 1/2003/EK rendelet megtartja a 17. rendelet centralizált bejelentési rendszerét, és minden mentesítést továbbra is kizárólag a Bizottsághoz kell bejelenteni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet éppen a bejelentési központot váltja fel. A helyes: az 1/2003/EK rendelet a 17. rendelet centralizált, bejelentésen nyugvó rendjét közvetlenül alkalmazandó kivétellel váltja fel, amelyben a tagállami versenyhatóságok és bíróságok a 101. cikk (3) bekezdését is alkalmazzák; a vállalkozás maga mérlegel. A tévedés a 17. rendelet rendjét írja a modernizáció helyére."
+        },
+        {
+          "text": "A közvetlenül alkalmazandó kivétel csak a Bizottságra vonatkozik; a tagállami bíróságok és versenyhatóságok a 101. cikk (3) bekezdését továbbra sem alkalmazhatják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivétel a nemzeti fórumokra is kiterjed. A helyes: az 1/2003/EK rendelet szerint a tagállamok versenyhatóságai és bíróságai a 81. cikk (1) bekezdése és a 82. cikk mellett a 81. cikk (3) bekezdését is alkalmazzák; a Bizottság a legsúlyosabb ügyekre és a hálózat egységére összpontosíthat. A tévedés a nemzeti alkalmazást kihagyja."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "96788ad2e0e5"
+    },
+    {
+      "question": "Mit rendez az EUMSZ 104. cikk a 103. cikk alapján elfogadott rendelkezések hatálybalépéséig?",
+      "options": [
+        {
+          "text": "A tagállamok hatóságai országuk joga, valamint a 101. cikk — különösen annak (3) bekezdése — és a 102. cikk szerint döntenek a megengedhetőségről és a visszaélésről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a másodlagos végrehajtás hiányáig a megengedhetőség és a visszaélés kérdése a tagállami hatóságoké. Az EUMSZ 104. cikk szerint a 103. cikk alapján elfogadott rendelkezések hatálybalépéséig a tagállamok hatóságai „országuk jogának megfelelően, valamint a 101. cikk, különösen annak (3) bekezdése, és a 102. cikk rendelkezéseinek megfelelően” döntenek a megállapodások, döntések és összehangolt magatartások megengedhetőségéről, valamint az erőfölénnyel való visszaélésről. A 105. cikk e hiány mellett is a Bizottságra bízza az elvek biztosítását. Az első végrehajtási aktus a 1962. február 6-i 17. tanácsi rendelet volt."
+        },
+        {
+          "text": "Az 1/2003/EK rendelet hatálybalépésével a 104. cikk átmenete újból megnyílik, és a tagállami hatóságok ismét kizárólag nemzeti jog alapján döntenek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 1/2003/EK rendelet nem nyitja újra a 104. cikk átmenetét. A helyes: a 104. cikk a 103. cikk alapján elfogadott rendelkezések — elsőként a 17. tanácsi rendelet — hatálybalépéséig tart; az 1/2003/EK rendelet a 17. rendeletet váltja fel, és a tagállami hatóságok a közvetlenül alkalmazandó kivétel rendszerében is alkalmazzák a 101. és 102. cikket. A tévedés az átmenetet a modernizáció után is fenntartja."
+        },
+        {
+          "text": "A 104. cikk a Bizottságot véglegesen kizárja a 101. és 102. cikk alkalmazásából, amíg a Tanács nem fogad el új rendeletet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tagállami átmeneti döntés nem törli a Bizottság őri szerepét. A helyes: az EUMSZ 104. cikk a 103. cikk alapján elfogadott rendelkezések hatálybalépéséig a tagállami hatóságokra telepíti a megengedhetőség és a visszaélés kérdését, de a 105. cikk a 104. cikk sérelme nélkül is a Bizottságra bízza a 101. és 102. cikk elveinek biztosítását. A vizsgálat tagállami kérelemre vagy hivatalból indul. A tévedés a Bizottság szerződéses őri szerepét törli."
+        },
+        {
+          "text": "A 104. cikk átmenete a 103. cikk alapján elfogadott rendelkezések hatálybalépéséig tart; az 1/2003/EK rendelet a 17. rendeletet váltja fel, nem magát a 104. cikk átmeneti címét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átmenet időbeli határa a másodlagos aktus hatálybalépése. Az EUMSZ 104. cikk a 103. cikk alapján elfogadott rendelkezések hatálybalépéséig érvényes; a preambulum szerint az első ilyen rendelet a 17. tanácsi rendelet volt. Az 1/2003/EK rendelet a 17. rendeletet váltja fel, a tagállami hatóságok pedig a közvetlenül alkalmazandó kivétel rendszerében is alkalmazzák a 101. és 102. cikket. A 105. cikk a 104. cikk sérelme nélkül is a Bizottságra telepíti az elvek őrzését."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "34a40776376e"
+    },
+    {
+      "question": "Milyen szankciós magot rögzít az EUMSZ 103. cikk (2) bekezdésének a) pontja a tilalmak betartásához?",
+      "options": [
+        {
+          "text": "A 103. cikk (2) bekezdésének a) pontja a 101. cikk (1) bekezdésében és a 102. cikkben megállapított tilalmak betartását pénzbírság vagy kényszerítő bírság előírásával biztosítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a Bizottság szankciós hatáskörének szerződéses magja. Az EUMSZ 103. cikk (2) bekezdésének a) pontja szerint az (1) bekezdésben említett rendeletek vagy irányelvek célja különösen „a 101. cikk (1) bekezdésében és a 102. cikkben megállapított tilalmak betartásának biztosítása pénzbírság vagy kényszerítő bírság előírásával”. Az 1/2003/EK rendelet 23. és 24. cikke e címen jelenik meg bírság- és kényszerítőbírság-határozattípusként. A 31. cikk a Bíróságnak e szankciók felett korlátlan felülvizsgálati jogkört ad."
+        },
+        {
+          "text": "A kényszerítő bírság csak a tagállami versenyhatóságok eszköze; a Bizottság a 103. cikk (2) bekezdésének a) pontja alapján kizárólag pénzbírságot szabhat ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szerződéses cím mindkét szankciót említi. A helyes: az EUMSZ 103. cikk (2) bekezdésének a) pontja a tilalmak betartását „pénzbírság vagy kényszerítő bírság” előírásával biztosítja; az 1/2003/EK rendelet 31. cikke a Bíróság korlátlan felülvizsgálatát mindkét típusú határozatra kiterjeszti. A tévedés a kényszerítő bírságot kihagyja a bizottsági címből."
+        },
+        {
+          "text": "A pénzbírság és a kényszerítő bírság a másodlagos végrehajtási aktusokban konkretizálódik; a szerződéses cím a Tanács 103. cikk szerinti rendeleteinek vagy irányelveinek céljai között áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szerződéses mag a másodlagos aktusokon keresztül érvényesül. Az EUMSZ 103. cikk (1) bekezdése a Tanácsot hatalmazza fel a 101. és 102. cikk elveit érvényre juttató rendeletekre vagy irányelvekre, a (2) bekezdés a) pontja pedig e célok között nevesíti a pénzbírságot és a kényszerítő bírságot. Az 1/2003/EK rendelet 30. cikke a 23. és 24. cikk szerinti határozatok közzétételét írja elő, a 31. cikk pedig a Bíróságnak a bírság összegét törölhetővé, csökkenthetővé vagy növelhetővé teszi. A szankció tehát nem puszta politikai ajánlás."
+        },
+        {
+          "text": "A 103. cikk (2) bekezdésének a) pontja csak ajánlást enged a tilalmak betartására; pénzbírság vagy kényszerítő bírság szerződéses címen nem írható elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szerződéses cím éppen a bírságokat nevesíti. A helyes: az EUMSZ 103. cikk (2) bekezdésének a) pontja a tilalmak betartásának biztosítását pénzbírság vagy kényszerítő bírság előírásával rendeli a másodlagos aktusok céljai közé; az 1/2003/EK rendelet 23. és 24. cikke e címen jelenik meg. A tévedés a szankciós magot ajánlássá gyengíti."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "32d79f4da39b"
+    },
+    {
+      "question": "Mikor és milyen feltételekkel rendelhet el a Bizottság ideiglenes intézkedést az 1/2003/EK rendelet 8. cikke alapján?",
+      "options": [
+        {
+          "text": "Az ideiglenes intézkedés határozott időre szól, és ha szükséges és helyénvaló, meghosszabbítható; a 14. cikk a 8. cikk szerinti határozat előtt is a tanácsadó bizottsággal való egyeztetést írja elő, rövidebb határidővel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a véglegesség hiánya a kár megelőzését szolgálja. Az 1/2003/EK rendelet 8. cikk (2) bekezdése szerint a határozat „határozott időre szól, és — amennyiben szükséges és helyénvaló — meghosszabbítható”. A 14. cikk a 8. cikk szerinti határozat előtt is kötelező egyeztetést ír elő a tanácsadó bizottsággal; az ülés főszabály szerint hét nappal a rendelkező rész elküldése után tartható. A hálózat tehát az ideiglenes aktust sem hagyja nemzeti vakfolton."
+        },
+        {
+          "text": "Ideiglenes intézkedést csak a sértett vállalkozás kérelmére lehet elrendelni; a Bizottság saját kezdeményezésére nem járhat el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ideiglenes intézkedés nem kérelemhez kötött. A helyes: az 1/2003/EK rendelet 8. cikk (1) bekezdése szerint a Bizottság „saját kezdeményezésére” rendelhet el ideiglenes intézkedést sürgős esetben, prima facie jogsértés és a versenyt veszélyeztető komoly, helyrehozhatatlan kár kockázata mellett. A határozat határozott időre szól, és ha szükséges és helyénvaló, meghosszabbítható. A tévedés a saját kezdeményezést kérelemhez köti."
+        },
+        {
+          "text": "Az ideiglenes intézkedéshez jogerős, teljes bizonyossággal megállapított jogsértés kell; prima facie megállapítás nem elegendő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 8. cikk prima facie jogsértést követel, nem jogerős bizonyosságot. A helyes: az 1/2003/EK rendelet 8. cikk (1) bekezdése szerint a Bizottság „prima facie megállapított jogsértés alapján” rendelhet el ideiglenes intézkedést a komoly és helyrehozhatatlan kár kockázata miatti sürgős esetben; a bizonyosság a későbbi érdemi határozaté. A tévedés a prima facie küszöböt jogerős bizonyosságra emeli."
+        },
+        {
+          "text": "Sürgős esetben, a versenyt veszélyeztető komoly és helyrehozhatatlan kár kockázata miatt a Bizottság saját kezdeményezésére, prima facie megállapított jogsértés alapján ideiglenes intézkedést rendelhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ideiglenes intézkedés a verseny sürgős védelmét szolgálja a végleges jogsértés-megállapítás előtt. Az 1/2003/EK rendelet 8. cikk (1) bekezdése szerint „a versenyt veszélyeztető komoly és helyrehozhatatlan kár kockázata miatt felmerülő sürgős esetben a Bizottság saját kezdeményezésére, prima facie megállapított jogsértés alapján ideiglenes intézkedést rendelhet el”. A bizonyosság a későbbi érdemi határozaté; a 8. cikk a látszatot és a kárveszélyt köti össze. A véglegesség hiánya a kár megelőzését szolgálja, nem a jogsértés befejezésére irányuló érdemi határozat helyettesítését."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "a6150af35705"
+    },
+    {
+      "question": "Mikor teheti a Bizottság kötelezővé a vállalkozások kötelezettségvállalásait, és mikor nincs helye ilyen határozatnak?",
+      "options": [
+        {
+          "text": "A Bizottság a kötelezettségvállalási határozatban mindig megállapítja a jogsértést, és ezzel párhuzamosan bírságot is kiszabhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 9. cikk szerinti határozatban nem kell jogsértést megállapítani, és bírság szándéka mellett nincs helye. A helyes: az 1/2003/EK rendelet 9. cikk (1) bekezdése a kötelezettségvállalásokat kötelezővé teheti anélkül, hogy jogsértést állapítana meg; kötelezettségvállalási határozatnak nincs helye, ha a Bizottság bírságot kíván kiróni. A tévedés a jogsértés-megállapítást és a bírságot a 9. cikkhez köti."
+        },
+        {
+          "text": "A kötelezettségvállalási határozat végleges: a Bizottság a (2) bekezdés szerint soha nem indíthatja újra az eljárást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezettségvállalási határozat után az eljárás meghatározott okokból újraindítható. A helyes: az 1/2003/EK rendelet 9. cikk (2) bekezdése szerint a Bizottság kérelemre vagy saját kezdeményezésére újraindítja az eljárást, ha a tényekben jelentős változás történt, ha a vállalkozások a vállalással ellentétesen cselekszenek, vagy ha a határozat alapját hiányos, pontatlan vagy félrevezető információ képezte. Az (1) bekezdés szerinti határozat egyébként határozott időre szól, és kimondja, hogy a Bizottság részéről további intézkedés nem indokolható. A tévedés e három újraindítási okot törli."
+        },
+        {
+          "text": "Kötelezettségvállalási határozatnak nincs helye, ha a Bizottság bírságot kíván kiróni; a 9. cikk nem a szankciós eljárás kikerülése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A bírság szándéka kizárja a kötelezettségvállalási utat. Az 1/2003/EK rendelet 9. cikke szerinti kötelezettségvállalási határozatnak nincs helye, ha a Bizottság bírságot kíván kiróni; a 9. cikk a jogsértés lezárásának egyezségszerű útja, nem a szankciós eljárás kikerülése. A (2) bekezdés az eljárás újraindításának három okát adja: a tények jelentős változása, a vállalással ellentétes magatartás, valamint a hiányos, pontatlan vagy félrevezető információ. A tagállami versenyhatóságok és bíróságok jogsértés-megállapítási jogkörét a 9. cikk szerinti aktus nem sérti."
+        },
+        {
+          "text": "Ha a Bizottság a jogsértés befejezését előíró határozatot szándékozik elfogadni, és a vállalkozások az előzetes értékelésben kifejezett elvárásoknak eleget tevő kötelezettségvállalásokat ajánlanak fel, azokat határozatával kötelezővé teheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelezettségvállalás az egyezségszerű lezárás útja a jogsértés befejezését előíró határozat helyett. Az 1/2003/EK rendelet 9. cikk (1) bekezdése szerint, ha a Bizottság „olyan határozatot szándékozik elfogadni, amely a jogsértés befejezését írja elő”, és a vállalkozások az előzetes értékelésben kifejezett elvárásoknak eleget tevő kötelezettségvállalásokat ajánlanak fel, a Bizottság ezeket „a vállalkozások számára kötelezővé teheti”. A határozat határozott időre szól, és kimondja, hogy a Bizottság részéről további intézkedés nem indokolható. A preambulum szerint e határozatban nem kell megállapítani, hogy volt-e vagy fennáll-e jogsértés."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "0243e664de1b"
+    },
+    {
+      "question": "Milyen jellegű aktus az 1/2003/EK rendelet 10. cikke szerinti alkalmazhatatlansági megállapítás?",
+      "options": [
+        {
+          "text": "A 10. cikk szerinti határozatot a vállalkozás bejelentésére kell meghozni, és az a 17. rendelet szerinti egyedi mentesítés utóda.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alkalmazhatatlansági megállapítás nem a vállalkozás bejelentésére adott egyedi mentesítés. A helyes: az 1/2003/EK rendelet 10. cikke szerint a Bizottság saját kezdeményezésére, a Közösség közérdekében állapíthatja meg az alkalmazhatatlanságot; a preambulum szerint ez nem a 17. rendelet mintájára adott egyedi mentesítés, hanem közérdekű jogértelmező eszköz. A tévedés a bejelentési rendet írja a 10. cikk helyére."
+        },
+        {
+          "text": "A 10. cikk a 102. cikkre vonatkozó általános törvényi mentesítést vezet be, amely a 101. cikk (3) bekezdésével azonos kumulatív feltételeket ad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 10. cikk nem pótolja a 102. cikk törvényi mentesítésének hiányát. A helyes: az 1/2003/EK rendelet 10. cikke a 82. cikkre (ma 102. cikk) is lehetővé teszi a hasonló alkalmazhatatlansági megállapítást, de ez közérdekű, deklaratív bizottsági aktus, nem általános kimentés; a 102. cikkben nincs a 101. cikk (3) bekezdéséhez hasonló törvényi mentesítési záradék. A tévedés általános kimentést ír a deklaratív aktus helyére."
+        },
+        {
+          "text": "A Bizottság saját kezdeményezésére, a Közösség közérdekében megállapíthatja, hogy a 81. cikk (ma 101. cikk) nem alkalmazható, mert az (1) bekezdés feltételei nem teljesülnek, vagy mert a (3) bekezdés feltételei teljesülnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alkalmazhatatlansági megállapítás deklaratív, közérdekű bizottsági aktus. Az 1/2003/EK rendelet 10. cikke szerint, amennyiben a Közösségnek a 81. és 82. cikk alkalmazásához fűződő közérdeke azt kívánja, a saját kezdeményezésére eljáró Bizottság határozatával megállapíthatja, hogy a 81. cikk nem alkalmazható — akár azért, mert az (1) bekezdés feltételei nem teljesülnek, akár azért, mert a (3) bekezdés feltételei teljesülnek. Hasonló megállapítás a 82. cikkre (ma 102. cikk) is tehető. A preambulum e határozatot kivételesnek tartja: új típusú megállapodások vagy magatartások, amelyek megítélését a joggyakorlat még nem rendezte."
+        },
+        {
+          "text": "A 10. cikk nem a vállalkozás bejelentésére adott egyedi mentesítés a 17. rendelet mintájára, hanem a Bizottság közérdekű jogértelmező eszköze; a 102. cikk törvényi mentesítésének hiányát sem pótolja általános kimentéssel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alkalmazhatatlansági megállapítás elhatárolódik a régi bejelentési mentesítéstől. Az 1/2003/EK rendelet 10. cikke a Bizottság saját kezdeményezésű, közérdekű aktusa, nem a vállalkozás kérelmére adott egyedi felmentés. A 82. cikkre (ma 102. cikk) vonatkozó hasonló megállapítás a törvényi mentesítési záradék hiányát nem pótolja általános kimentéssel, hanem a közérdekű tisztázást szolgálja. A következetes alkalmazás az egész Közösségben ezt kívánja új típusú magatartásoknál."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "d693ed215267"
+    },
+    {
+      "question": "Mi következik abból, ha a Bizottság a III. fejezet szerinti határozat elfogadására irányuló eljárást kezdeményez?",
+      "options": [
+        {
+          "text": "Ha a nemzeti hatóság már eljár, a Bizottság csak vele történt konzultációt követően indíthat eljárást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a már folyó nemzeti eljárás konzultációs védelmet kap. Az 1/2003/EK rendelet 11. cikk (6) bekezdése szerint, amennyiben az egyik tagállam versenyhatósága már eljár az ügyben, „a Bizottság csak a nemzeti versenyhatósággal történt konzultációt követően indíthat eljárást”. A (3) bekezdés szerint a nemzeti hatóság az első hivatalos vizsgálati cselekmény előtt vagy annak megkezdése után késedelem nélkül írásban értesíti a Bizottságot. A (4) bekezdés a jogsértés befejezésére felszólító, kötelezettségvállalási vagy csoportmentességi előnyt visszavonó határozat előtt legalább harminc nappal összefoglalót és tervezetet követel."
+        },
+        {
+          "text": "A Bizottság eljárásának megkezdése után a nemzeti versenyhatóságok továbbra is párhuzamosan alkalmazhatják a 81. és 82. cikket, amíg a Bizottság érdemi határozatot nem hoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatáskörvesztés az eljárás kezdeményezésekor beáll. A helyes: az 1/2003/EK rendelet 11. cikk (6) bekezdése szerint, ha a Bizottság a III. fejezet szerinti határozat elfogadására irányuló eljárást kezdeményez, a tagállamok versenyhatóságainak megszűnik a 81. és 82. cikk alkalmazására vonatkozó jogköre; a preambulum szerint a hatáskörvesztés automatikus. A tévedés a nemzeti jogkört az érdemi határozatig fenntartja."
+        },
+        {
+          "text": "A tagállamok versenyhatóságainak megszűnik a 81. és 82. cikk (ma 101. és 102. cikk) alkalmazására vonatkozó jogköre; a hatáskörvesztés automatikus.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság eljárásának kezdeményezése automatikusan elveszi a nemzeti versenyhatóságok 81. és 82. cikkre vonatkozó jogkörét. Az 1/2003/EK rendelet 11. cikk (6) bekezdése szerint, ha a Bizottság a III. fejezet alapján hozott határozat elfogadására irányuló eljárást kezdeményez, „a tagállamok versenyhatóságainak megszűnik az a jogköre, hogy a Szerződés 81. és 82. cikkét alkalmazzák”. A preambulum szerint a hatáskörvesztés automatikus, és a Bizottságnak a lehető leghamarabb kell lépnie. A hálózat egységét e szabály tartja fenn a legsúlyosabb ügyekben."
+        },
+        {
+          "text": "A Bizottság a nemzeti hatóság már folyó eljárása ellenére bármikor, konzultáció nélkül indíthat eljárást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a már folyó nemzeti eljárásnál konzultáció kötelező. A helyes: az 1/2003/EK rendelet 11. cikk (6) bekezdése szerint, ha a nemzeti versenyhatóság már eljár, a Bizottság csak vele történt konzultációt követően indíthat eljárást; a hatáskörvesztés az eljárás kezdeményezésekor automatikus. A tévedés a konzultációs kötelezettséget kihagyja."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "bc53b2cbd0e6"
+    },
+    {
+      "question": "Milyen korlátok között használható fel a Bizottság és a nemzeti versenyhatóságok közötti információcsere az 1/2003/EK rendelet 12. cikke szerint?",
+      "options": [
+        {
+          "text": "Az átadott bizalmas információ bármely nemzeti eljárásban szabadon felhasználható, a 81. vagy 82. cikktől független tárgyban is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felhasználás célhoz és tárgyhoz kötött, nem szabad. A helyes: az 1/2003/EK rendelet 12. cikk (2) bekezdése szerint az átadott információ kizárólag a 81. vagy 82. cikk alkalmazása céljából, és csak abban a tárgyban használható fel, amelyben az átadó hatóság azt gyűjtötte. Ha ugyanazon ügyben a nemzeti versenyjog párhuzamosan érvényesül, és ez nem vezet különböző eredményre, az információ a nemzeti versenyjoghoz is felhasználható. A tévedés a célhoz kötöttséget törli."
+        },
+        {
+          "text": "Természetes személy szankciójánál további záradék áll: hasonló jellegű szankció az átadó jogában, vagy azonos szintű védelem az adatgyűjtésnél; szabadságvesztéshez az átadott információ még ekkor sem használható fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a természetes személy védelme szigorúbb. Az 1/2003/EK rendelet 12. cikk (3) bekezdése szerint természetes személyekre történő szankció kiszabása esetén az átadott információ csak akkor használható fel, ha az átadó joga hasonló jellegű szankciót ír elő a 81. vagy 82. cikk megsértésére, vagy az adatgyűjtés a védelemhez való jog azonos szintjét biztosította. Ebben az esetben azonban az átadott információt az átvevő hatóság „nem használhatja fel szabadságvesztés büntetés kiszabására”. A hálózat bizonyítási csatornája tehát nem válik szabadságvesztési bizonyítékká."
+        },
+        {
+          "text": "Az átadott információ bizonyítékként kizárólag a 81. vagy 82. cikk alkalmazása céljából, és csak olyan tárgyban használható fel, amellyel kapcsolatban az átadó hatóság azt gyűjtötte.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felhasználás célhoz és tárgyhoz kötött. Az 1/2003/EK rendelet 12. cikk (2) bekezdése szerint az átadott információ „bizonyítékként kizárólag a Szerződés 81. vagy 82. cikkének alkalmazása céljából, és csak olyan tárgyban használható fel, amellyel kapcsolatban az átadó hatóság azt gyűjtötte”. Az (1) bekezdés a tényszerű vagy jogi tájékoztatást — ideértve a bizalmasat is — átadhatóvá és bizonyítékként felhasználhatóvá teszi. Ha ugyanazon ügyben a nemzeti versenyjog párhuzamosan érvényesül, és ez nem vezet különböző eredményre, az információ a nemzeti versenyjoghoz is felhasználható."
+        },
+        {
+          "text": "Természetes személy ellen szabadságvesztés is kiszabható az átadott információ alapján, ha az átadó joga hasonló szankciót ismer.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szabadságvesztéshez az átadott információ még a hasonló szankció esetén sem használható fel. A helyes: az 1/2003/EK rendelet 12. cikk (3) bekezdése a természetes személy szankciójánál további záradékot ad, de kifejezetten kimondja, hogy az átadott információt az átvevő hatóság nem használhatja fel szabadságvesztés büntetés kiszabására. A tévedés a szabadságvesztési tilalmat kihagyja."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "4ed80e58432f"
+    },
+    {
+      "question": "Mikor függesztheti fel a nemzeti versenyhatóság az eljárását, vagy utasíthatja el a panaszt az 1/2003/EK rendelet 13. cikke alapján?",
+      "options": [
+        {
+          "text": "Ha két vagy több tagállam versenyhatósága elé ugyanazon megállapodás, társulási döntés vagy magatartás elleni panasz vagy hivatalbóli ügy kerül, elegendő, hogy az egyik hatóság foglalkozik az üggyel; a többi e tényre hivatkozva felfüggesztheti az eljárást vagy elutasíthatja a panaszt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a párhuzamos nemzeti eljárások ritkíthatók, ha ugyanaz az ügy több hatóság elé kerül. Az 1/2003/EK rendelet 13. cikk (1) bekezdése szerint, ha két vagy több tagállam versenyhatósága elé ugyanazon megállapodás, társulás döntése vagy magatartás ellen érkezett panasz, vagy ezzel kapcsolatban saját kezdeményezésre indított eljárásban jár el a 81. vagy 82. cikk alapján, „az a tény, hogy az egyik hatóság foglalkozik az üggyel, elegendő indokot szolgáltat arra, hogy a többi hatóság az előttük folyó eljárást felfüggessze, vagy a panaszt elutasítsa”. A Bizottság is elutasíthatja a panaszt azzal, hogy azzal valamely tagállam versenyhatósága foglalkozik. A preambulum szerint a cél, hogy minden ügyet egyetlen hatóság kezeljen."
+        },
+        {
+          "text": "A tagállam versenyhatósága vagy a Bizottság elutasíthatja a hozzá érkezett panaszt, amellyel más versenyhatóság már foglalkozott; a cél, hogy minden ügyet egyetlen hatóság kezeljen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a már kezelt ügyre érkezett panasz elutasítását adja. Az 1/2003/EK rendelet 13. cikk (2) bekezdése szerint a tagállam versenyhatósága vagy a Bizottság elutasíthatja a megállapodás, a társulás döntése vagy a magatartás ellen hozzá érkezett olyan panaszt, amellyel más versenyhatóság már foglalkozott. A preambulum szerint a cél, hogy minden ügyet egyetlen hatóság kezeljen, anélkül hogy a Bizottságot elzárná a közösségi érdek hiánya miatti elutasítástól akkor is, ha más hatóság nem jelezte, hogy foglalkozik az üggyel."
+        },
+        {
+          "text": "A párhuzamos nemzeti eljárások kötelezőek: ha több hatóság elé kerül az ügy, mindegyiknek érdemben el kell járnia.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a párhuzamos eljárások nem kötelezőek, hanem ritkíthatók. A helyes: az 1/2003/EK rendelet 13. cikk (1) bekezdése szerint elegendő, hogy az egyik hatóság foglalkozik az üggyel; a többi hatóság e tényre hivatkozva felfüggesztheti az eljárást vagy elutasíthatja a panaszt. A Bizottság is elutasíthatja a panaszt azzal az indokkal, hogy az üggyel valamely tagállam versenyhatósága foglalkozik. A tévedés a kötelező párhuzamosságot írja a ritkítás helyére."
+        },
+        {
+          "text": "A Bizottság soha nem utasíthatja el a panaszt azzal az indokkal, hogy azzal valamely tagállam versenyhatósága foglalkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság is elutasíthatja a panaszt e címen. A helyes: az 1/2003/EK rendelet 13. cikk (1) bekezdése szerint a Bizottság is elutasíthatja a panaszt azzal az indokkal, hogy az üggyel valamely tagállam versenyhatósága foglalkozik; a (2) bekezdés a már más hatóság által kezelt ügyre érkezett panasz elutasítását is megadja. A tévedés a Bizottság elutasítási jogát törli."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "31687ff03320"
+    },
+    {
+      "question": "Milyen szerepet tölt be a versenykorlátozó magatartásokkal és erőfölénnyel foglalkozó tanácsadó bizottság a Bizottság határozatai előtt?",
+      "options": [
+        {
+          "text": "A tanácsadó bizottság véleménye a Bizottságra kötelező; a Bizottság a határozatot a vélemény ellenére nem hozhatja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vélemény nem kötelezi a Bizottságot a határozat mellőzésére. A helyes: az 1/2003/EK rendelet 14. cikk (5) bekezdése szerint a Bizottság „a legteljesebb mértékben figyelembe veszi” a tanácsadó bizottság véleményét, és tájékoztatja a bizottságot arról, hogyan vette figyelembe; az írásbeli véleményt a határozattervezethez kell csatolni. A tévedés a figyelembe vételt kötelező egyetértésre cseréli."
+        },
+        {
+          "text": "Az ülés főszabály szerint legalább tizennégy nappal az összefoglaló, a dokumentumjelölés és az előzetes határozattervezet megküldése után tartandó; ideiglenes intézkedésnél hét nap is elég.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határidő az aktus sürgősségéhez igazodik. Az 1/2003/EK rendelet 14. cikk (3) bekezdése szerint a konzultációra összehívott ülést legalább tizennégy nappal azt követően kell megtartani, hogy az összehívásról szóló értesítést az ügy összefoglalójával, a legfontosabb dokumentumok megjelölésével és az előzetes határozattervezettel együtt megküldték. A 8. cikk szerinti határozatok tekintetében az ülés hét nappal a tervezett határozat rendelkező részének elküldését követően megtartható. A tagállamok tiltakozásának hiányában rövidebb határidő is tartható."
+        },
+        {
+          "text": "A tanácsadó bizottság a nemzeti versenyhatóságok által kezelt ügyekben is érdemi véleményt ad, amely a nemzeti határozatot felülírja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tanácsadó bizottság a nemzeti ügyekben nem ad véleményt. A helyes: az 1/2003/EK rendelet 14. cikk (7) bekezdése szerint a tanácsadó bizottság „nem ad véleményt azokról az ügyekről, amelyekkel a tagállamok versenyhatóságai foglalkoznak”; a közösségi versenyjoggal kapcsolatos általános kérdéseket viszont megvitathatja, és a nemzeti hatóság kérelmére a Bizottság napirendre veheti a nemzeti ügyet. A tévedés a nemzeti ügyekben érdemi, felülíró véleményt feltételez."
+        },
+        {
+          "text": "A Bizottság a 7., 8., 9., 10., 23. cikk, a 24. cikk (2) bekezdése és a 29. cikk (1) bekezdése szerinti határozatai előtt kötelezően egyeztet a tanácsadó bizottsággal; a bizottság a tagállamok versenyhatóságainak képviselőiből áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tanácsadó bizottság a hálózati kontroll a szankciós és eljárási aktusok előtt. Az 1/2003/EK rendelet 14. cikk (1) bekezdése szerint a Bizottság a 7., 8., 9., 10., 23. cikk, illetve a 24. cikk (2) bekezdése és a 29. cikk (1) bekezdése alapján hozott bármely határozat előtt egyeztet a versenykorlátozó magatartásokkal és erőfölénnyel foglalkozó tanácsadó bizottsággal. A (2) bekezdés szerint az egyes ügyek megvitatása céljából a bizottság a tagállamok versenyhatóságainak képviselőiből áll. A Bizottság a véleményt a legteljesebb mértékben figyelembe veszi, és tájékoztatja a bizottságot arról, hogyan tette ezt."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "e25e27e19b99"
+    },
+    {
+      "question": "Hogyan működik együtt a Bizottság a nemzeti bíróságokkal a 81. vagy 82. cikk bírósági alkalmazása során?",
+      "options": [
+        {
+          "text": "A Bizottság csak a nemzeti versenyhatóság meghívására tehet észrevételt a bíróság előtt; saját kezdeményezésű amicus jog nincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság saját kezdeményezésére is élhet amicus joggal. A helyes: az 1/2003/EK rendelet 15. cikk (3) bekezdése szerint, ha a 81. vagy 82. cikk egységes alkalmazása megkívánja, a saját kezdeményezésére eljáró Bizottság írásbeli, a bíróság hozzájárulásával szóbeli észrevételt tehet. A tévedés a saját kezdeményezést kihagyja."
+        },
+        {
+          "text": "A tagállamok bíróságai felkérhetik a Bizottságot, hogy a birtokában lévő információt átadja, vagy véleményt nyújtson a közösségi versenyjog alkalmazására vonatkozó kérdésekben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bíróság információs és véleménynyilvánítási segítséget kérhet. Az 1/2003/EK rendelet 15. cikk (1) bekezdése szerint a Szerződés 81. vagy 82. cikke alkalmazására vonatkozó eljárás során a tagállamok bíróságai felkérhetik a Bizottságot arra, hogy részükre a Bizottság a birtokában lévő információt átadja, vagy véleményt nyújtson a közösségi versenyjog alkalmazására vonatkozó kérdésekben. A (2) bekezdés szerint a tagállamok a 81. vagy 82. cikket alkalmazó írásbeli ítéletek másolatát késedelem nélkül megküldik a Bizottságnak, miután a feleket a teljes ítéletről tájékoztatták."
+        },
+        {
+          "text": "A Bizottság amicus joggal élhet: ha a 81. vagy 82. cikk egységes alkalmazása ezt megkívánja, saját kezdeményezésére írásbeli, a bíróság hozzájárulásával szóbeli észrevételt tehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egységes alkalmazás amicus szerepet ad a Bizottságnak. Az 1/2003/EK rendelet 15. cikk (3) bekezdése szerint, amennyiben a 81. vagy 82. cikk egységes alkalmazása megkívánja, a saját kezdeményezésére eljáró Bizottság írásbeli észrevételeket nyújthat be a tagállamok bíróságainak, és az érintett bíróság hozzájárulásával szóbeli észrevételeket is tehet. A nemzeti versenyhatóság ugyanezt saját kezdeményezésére írásban, a bíróság hozzájárulásával szóban megteheti. Az észrevétel elkészítéséhez a hatóság és a Bizottság az ügy értékeléséhez szükséges iratok átadását kérheti a bíróságtól."
+        },
+        {
+          "text": "A nemzeti bíróságok nem kérhetnek információt vagy véleményt a Bizottságtól; a 81. és 82. cikk bírósági alkalmazása kizárólag nemzeti forrásokra támaszkodik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bíróságok éppen információs és véleménynyilvánítási segítséget kérhetnek. A helyes: az 1/2003/EK rendelet 15. cikk (1) bekezdése szerint a tagállamok bíróságai felkérhetik a Bizottságot a birtokában lévő információ átadására vagy a közösségi versenyjog alkalmazására vonatkozó véleményre. A (2) bekezdés szerint a tagállamok a 81. vagy 82. cikket alkalmazó írásbeli ítéletek másolatát késedelem nélkül megküldik a Bizottságnak. A tévedés e segítséget kizárja."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "c6a60e555520"
+    },
+    {
+      "question": "Mit tilalmaz az 1/2003/EK rendelet 16. cikke a nemzeti bíróságok és versenyhatóságok számára a Bizottság határozatával összefüggésben?",
+      "options": [
+        {
+          "text": "A nemzeti bíróság szabadon hozhat a Bizottság határozatával ellentétes döntést, ha az ügyben már van bizottsági határozat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ellentétes nemzeti bírósági döntés tilos. A helyes: az 1/2003/EK rendelet 16. cikk (1) bekezdése szerint a nemzeti bíróságok nem hozhatnak a Bizottság által elfogadott határozattal ellentétes határozatot, ha az ügy már bizottsági határozat tárgyát képezi. Kerülniük kell továbbá a Bizottság által kezdeményezett eljárásban tervezett határozattal ellentétes aktust; e célból felmérhetik az eljárás felfüggesztését. A tévedés a tilalmat törli."
+        },
+        {
+          "text": "A kötelezettségvállalási határozat ugyanúgy köti a nemzeti bíróságot és a versenyhatóságot, mint a jogsértést megállapító bizottsági határozat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezettségvállalási határozat nem telepíti az ellentmondás-tilalom kötöttségét. A helyes: a preambulum szerint a 9. cikk szerinti kötelezettségvállalási aktus nem vonja el a nemzeti bíróság és a versenyhatóság 81. és 82. cikk alkalmazására vonatkozó jogkörét. Az 1/2003/EK rendelet 16. cikk (1)–(2) bekezdése az ellentmondás-tilalmat a már bizottsági határozat tárgyát képező ügyekre állítja, de a kötelezettségvállalás e kötöttséget nem telepíti. A tévedés a kötelezettségvállalást a jogsértést megállapító határozattal azonosítja."
+        },
+        {
+          "text": "A nemzeti bíróság a már bizottsági határozat tárgyát képező 81. vagy 82. cikk hatálya alá tartozó magatartásról nem hozhat a Bizottság határozatával ellentétes döntést, és kerülnie kell a Bizottság által kezdeményezett eljárásban tervezett határozattal ellentétes aktust is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egységes alkalmazás ellentmondás-tilalmat állít. Az 1/2003/EK rendelet 16. cikk (1) bekezdése szerint, amennyiben a nemzeti bíróságok hoznak határozatot olyan megállapodásokról, döntésekről vagy magatartásokról, amelyek már bizottsági határozat tárgyát képezik, „nem hozhatnak a Bizottság által elfogadott határozattal ellentétes határozatot”. Kerülniük kell továbbá a Bizottság által kezdeményezett eljárásban tervezett határozattal ellentétes aktust; e célból felmérhetik az eljárás felfüggesztését. E kötelezettség nem érinti az előzetes döntéshozatal szerinti jogokat és kötelezettségeket."
+        },
+        {
+          "text": "Ugyanez a tilalom a tagállamok versenyhatóságaira is kiterjed: a már bizottsági határozat tárgyát képező ügyben ellentétes nemzeti határozat nem hozható; a kötelezettségvállalási határozat azonban e kötöttséget nem telepíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a versenyhatóságokra is kiterjeszti a tilalmat, a 9. cikk szerinti aktus viszont kivétel. Az 1/2003/EK rendelet 16. cikk (2) bekezdése szerint a tagállamok versenyhatóságai sem hozhatnak a Bizottság által elfogadott határozattal ellentétes határozatot, ha az ügy már bizottsági határozat tárgyát képezi. A preambulum szerint a kötelezettségvállalási határozat e kötöttséget nem telepíti: a 9. cikk szerinti aktus nem vonja el a nemzeti bíróság és a versenyhatóság 81. és 82. cikk alkalmazására vonatkozó jogkörét. A nemzeti bíróság tehát nem a Bíróság elé vitel árán köteles a Bizottságot követni az előzetes döntéshozatal sérelmével."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "705db59f1d95"
+    },
+    {
+      "question": "Milyen felülvizsgálati jogkört ad az 1/2003/EK rendelet 31. cikke a Bíróságnak a Bizottság bírsághatározatai felett?",
+      "options": [
+        {
+          "text": "A Bíróság korlátlan jogkörrel rendelkezik a bírságot vagy kényszerítő bírságot megállapító határozatok felülvizsgálatára: az összeget törölheti, csökkentheti vagy növelheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bírságfelülvizsgálat nem merül ki a jogszerűség vizsgálatában. Az 1/2003/EK rendelet 31. cikke szerint a Bíróság „korlátlan jogkörrel rendelkezik az olyan határozatok felülvizsgálatára, amelyekben a Bizottság bírságot vagy kényszerítő bírságot határozott meg”, és „törölheti, csökkentheti vagy növelheti” a kiszabott összeget. A szankció szerződéses magja az EUMSZ 103. cikk (2) bekezdésének a) pontja; a 31. cikk ezen eszköz bírósági záróköve. A vállalkozás a jogsértés megállapítása mellett a szankció összegét is vitathatja."
+        },
+        {
+          "text": "A Bíróság a bírság összegét csak törölheti vagy csökkentheti; növelésre nincs jogköre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felülvizsgálat a bírság összegének növelését is magában foglalja. A helyes szabály: az 1/2003/EK rendelet 31. cikke a Bíróságnak korlátlan jogkört ad a Bizottság bírságot vagy kényszerítő bírságot megállapító határozatai felett. A Bíróság a kiszabott összeget törölheti, csökkentheti vagy növelheti; a közigazgatási bírságot tehát teljes mérlegelés alá vonja. A szankció szerződéses magja az EUMSZ 103. cikk (2) bekezdésének a) pontja, amely a tilalmak betartását pénzbírsággal vagy kényszerítő bírsággal biztosítja."
+        },
+        {
+          "text": "A Bíróság csak a jogszerűséget vizsgálhatja; a bírság összegét nem módosíthatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felülvizsgálat korlátlan, nem merül ki a jogszerűségben. A helyes: az 1/2003/EK rendelet 31. cikke a Bíróságnak korlátlan jogkört ad a bírságot vagy kényszerítő bírságot megállapító határozatok felett, és az összeget törölheti, csökkentheti vagy növelheti; a közigazgatási bírságot a Bíróság teljes mérlegelése alá vonja. A tévedés a korlátlan jogkört jogszerűségi vizsgálatra szűkíti."
+        },
+        {
+          "text": "A 31. cikk a közigazgatási bírságot a Bíróság teljes mérlegelése alá vonja, nem csupán a jogszerűség felülvizsgálatára; a vállalkozás a szankció összegét is vitathatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a korlátlan felülvizsgálat a szankció mértékére is kiterjed. Az 1/2003/EK rendelet 31. cikke szerint a Bíróság korlátlan jogkörrel rendelkezik a bírságot vagy kényszerítő bírságot megállapító határozatok felülvizsgálatára: az összeget törölheti, csökkentheti vagy növelheti. A 31. cikk a közigazgatási bírságot a Bíróság teljes mérlegelése alá vonja, nem csupán a jogszerűség felülvizsgálatára; a vállalkozás a jogsértés megállapítása mellett a szankció összegét is vitathatja. A 103. cikk (2) bekezdésének a) pontja e szankciós eszköz szerződéses magja."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "2ac60206fc45"
+    },
+    {
+      "question": "Egy multinacionális vállalkozás kartellgyanúja miatt a Bizottság helyszíni vizsgálatot tervez. Mely megállapítások állják meg a helyüket a vizsgálati hatáskörről?",
+      "options": [
+        {
+          "text": "A zár alá vétel időbeli korlát nélkül tartható fenn, amíg a Bizottság a vizsgálatot le nem zárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a zár alá vételnek időbeli kerete van. A helyes: az 1/2003/EK rendelet preambuluma szerint a 81. és 82. cikk felderítésére irányuló helyszíni vizsgálat során a meghatalmazott tisztviselő a szükséges időtartamra zár alá vételt hajthat végre, amelyet rendszerint hetvenkét óránál tovább nem lehet fenntartani. A tisztviselő a vizsgálat tárgyával összefüggő lényeges információt igényelhet, a tagállami versenyhatóságok pedig e jogkörök gyakorlásában együttműködnek. A tévedés a hetvenkét órás keretet törli."
+        },
+        {
+          "text": "A vállalkozások nem kényszeríthetők annak bevallására, hogy jogsértést követtek el, de a tényszerű kérdésekre válaszolniuk és a dokumentumokat átadniuk kell, akkor is, ha ezek a jogsértés megállapítására felhasználhatók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bevallási tilalom és a tényszerű együttműködési kötelezettség elválik. Az 1/2003/EK rendelet preambuluma a Bizottság vizsgálati hatáskörét a 81. és 82. cikk felderítéséhez szükséges információk egész Közösségre kiterjedő megkövetelésében és a helyszíni vizsgálatban jelöli ki. A vállalkozások nem kényszeríthetők annak bevallására, hogy jogsértést követtek el, de a tényszerű kérdésekre válaszolniuk és a dokumentumokat átadniuk kell. A meghatalmazott tisztviselő a szükséges időtartamra zár alá vételt hajthat végre."
+        },
+        {
+          "text": "A Bizottság a helyszíni vizsgálat során a vállalkozást annak bevallására is kényszerítheti, hogy jogsértést követett el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bevallás kikényszerítése tilos. A helyes: az 1/2003/EK rendelet preambuluma a 81. és 82. cikk felderítése körében kimondja, hogy a vállalkozások nem kényszeríthetők annak bevallására, hogy jogsértést követtek el. A vállalkozásoknak a tényszerű kérdésekre válaszolniuk és a dokumentumokat átadniuk kell, akkor is, ha ezek a jogsértés megállapítására felhasználhatók. A vizsgálati hatáskör az információk egész Közösségre kiterjedő megkövetelésében és a helyszíni vizsgálatban áll."
+        },
+        {
+          "text": "A helyszíni vizsgálat során a meghatalmazott tisztviselő a szükséges időtartamra zár alá vételt hajthat végre, amelyet rendszerint hetvenkét óránál tovább nem lehet fenntartani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a zár alá vétel időbeli kerete az Eljárási Rendelet preambulumában rögzített. Az 1/2003/EK rendelet preambuluma szerint a 81. és 82. cikk felderítésére irányuló helyszíni vizsgálat során a meghatalmazott tisztviselő a szükséges időtartamra zár alá vételt hajthat végre, amelyet rendszerint hetvenkét óránál tovább nem lehet fenntartani, és a vizsgálat tárgyával összefüggő lényeges információt igényelhet. A tagállamok versenyhatóságai e jogkörök gyakorlásában együttműködnek. A Bizottság megkérdezhet minden olyan személyt, akinek hasznos információja lehet, és a nyilatkozatot rögzítheti."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "ef688d73d3ad"
+    },
+    {
+      "question": "Mire hatalmazza fel az 1/2003/EK rendelet 33. cikke a Bizottságot, és milyen eljárási garanciák mellett?",
+      "options": [
+        {
+          "text": "A Bizottság a 33. cikk szerinti intézkedést az érdekelt felek meghallgatása és a tanácsadó bizottság konzultációja nélkül is azonnal elfogadhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közzététel, az legalább egy hónapos véleményezési határidő és a tanácsadó bizottsági konzultáció kötelező. A helyes: az 1/2003/EK rendelet 33. cikk (2) bekezdése szerint az intézkedés elfogadása előtt a Bizottság közzéteszi a tervezetet, és minden érdekelt felet felszólít arra, hogy a Bizottság által meghatározott, legalább egy hónapos határidőn belül véleményezzék azt. Az intézkedéstervezet közzététele és az intézkedés elfogadása előtt a Bizottság konzultál a versenykorlátozó magatartásokkal és erőfölénnyel foglalkozó tanácsadó bizottsággal. A tévedés e garanciákat kihagyja."
+        },
+        {
+          "text": "A 33. cikk alapján a Bizottság anyagi kartelltilalmat és erőfölényes tilalmat alkothat a 101. és 102. cikk helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az eljárási önszabályozás nem pótolja a 101. és 102. cikk anyagi tilalmát. A helyes: az 1/2003/EK rendelet 33. cikke a Bizottságot e rendelet alkalmazása érdekében megfelelő eljárási intézkedések meghozatalára hatalmazza fel — panaszforma, információcsere, meghallgatás —, nem a szerződéses tilalmak átírására. Az anyagi tilalmak az EUMSZ 101. és 102. cikkén, a végrehajtási keret pedig a 103. cikken nyugszik. A tévedés az eljárási címet anyagi jogalkotásra cseréli."
+        },
+        {
+          "text": "Az intézkedés elfogadása előtt a tervezetet közzé kell tenni, az érdekelt feleknek legalább egy hónap áll rendelkezésre, és a tanácsadó bizottsággal konzultálni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elfogadás előtti nyilvánosság és konzultáció kötelező. Az 1/2003/EK rendelet 33. cikk (2) bekezdése szerint az (1) bekezdés szerinti bármilyen intézkedés elfogadása előtt a Bizottság közzéteszi annak tervezetét, és minden érdekelt felet felszólít arra, hogy a Bizottság által meghatározott, legalább egy hónapos határidőn belül véleményezzék azt. Az intézkedéstervezet közzététele és az intézkedés elfogadása előtt a Bizottság konzultál a versenykorlátozó magatartásokkal és erőfölénnyel foglalkozó tanácsadó bizottsággal. A garancia tehát a panasz és a hálózat rendjét is átláthatóvá teszi."
+        },
+        {
+          "text": "A Bizottság e rendelet alkalmazása érdekében megfelelő intézkedéseket hozhat, különösen a 7. cikk szerinti panaszok formájára, tartalmára és elutasítási eljárására, a 11. cikk információcseréjének gyakorlati rendjére, valamint a 27. cikk szerinti meghallgatásokra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság eljárási önszabályozása a panasz, a hálózat és a meghallgatás működését rendezi. Az 1/2003/EK rendelet 33. cikk (1) bekezdése szerint a Bizottság felhatalmazással rendelkezik arra, hogy e rendelet alkalmazása érdekében megfelelő intézkedéseket hozzon; az intézkedések vonatkozhatnak többek között a 7. cikk szerinti panaszok formájára, tartalmára és elutasítási eljárására, a 11. cikk információcseréjének és konzultációjának gyakorlati intézkedéseire, valamint a 27. cikk szerinti meghallgatásokra. Ez nem anyagi tilalmat alkot. A 105. cikk (3) bekezdése szerinti csoportmentességi rendelet mellett áll."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "2d7395c0ba2d"
+    },
+    {
+      "question": "Mit követel az 1/2003/EK rendelet 35. cikke a tagállamoktól a versenyhatóságok kijelölése körében?",
+      "options": [
+        {
+          "text": "A tagállamok úgy jelölik ki a 81. és 82. cikk alkalmazásáért felelős versenyhatóságot vagy versenyhatóságokat, hogy a rendelet hatékonyan betartható legyen; a felhatalmazást 2004. május 1. előtt kellett megadni, és a kijelöltek között bíróságok is lehetnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kijelölés a hálózat nemzeti végpontját adja. Az 1/2003/EK rendelet 35. cikk (1) bekezdése szerint a tagállamok úgy jelölik ki a Szerződés 81. és 82. cikkének alkalmazásáért felelős versenyhatóságot vagy versenyhatóságokat, hogy e rendelet rendelkezéseit hatékonyan betartsák; 2004. május 1. előtt meg kellett hozni az ahhoz szükséges intézkedéseket, hogy e hatóságok felhatalmazást kapjanak. A kijelölt hatóságok között lehetnek bíróságok is. A (2) bekezdés szerint a közigazgatási és igazságügyi szervekhez eltérő jogkör rendelhető."
+        },
+        {
+          "text": "A 11. cikk (6) bekezdésének hatáskörvesztése a kijelölt hatóságokat — ideértve az 5. cikk szerinti határozattípusok előkészítését és elfogadását ellátó bíróságokat — érinti, a felülvizsgálati bíróságokra azonban nem terjed ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatáskörvesztés hatálya elválik a felülvizsgálattól. Az 1/2003/EK rendelet 35. cikk (3) bekezdése szerint a 11. cikk (6) bekezdésének következményei érintik a tagállamok által kijelölt hatóságokat, ideértve azokat a bíróságokat, amelyek az 5. cikkben előirányzott határozattípusok előkészítése és elfogadása tekintetében látnak el funkciókat. Ugyanezen bekezdés szerint a következmények nem terjednek ki a bíróságokra, amennyiben azok az 5. cikkben ismertetett határozattípusok tekintetében felülvizsgálati bíróságként járnak el. A (4) bekezdés a külön bíróság előtti kereset esetét szabályozza: a Bizottság eljárásának megkezdésekor a keresetet vissza kell vonni."
+        },
+        {
+          "text": "A tagállamok nem jelölhetnek ki bíróságokat versenyhatóságként; csak közigazgatási szervek járhatnak el a 81. és 82. cikk alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kijelöltek között bíróságok is lehetnek. A helyes: az 1/2003/EK rendelet 35. cikk (1) bekezdése szerint a kijelölt hatóságok között lehetnek bíróságok is; a (2) bekezdés a közigazgatási és igazságügyi szervekhez eltérő jogköröket és funkciókat enged. A tévedés a bírósági kijelölést kizárja."
+        },
+        {
+          "text": "A 11. cikk (6) bekezdésének hatáskörvesztése a felülvizsgálati bíróságokra is kiterjed, ezért a Bizottság eljárásának megkezdésekor a felülvizsgálat is megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatáskörvesztés a felülvizsgálati bíróságokra nem terjed ki. A helyes: az 1/2003/EK rendelet 35. cikk (3) bekezdése szerint a 11. cikk (6) bekezdésének következményei nem terjednek ki a bíróságokra, amennyiben azok az 5. cikk szerinti határozattípusok tekintetében felülvizsgálati bíróságként járnak el; a kijelölt, határozatot előkészítő vagy elfogadó szerveket viszont érintik. A tévedés a felülvizsgálatot is elvonja."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "837f1e2828a4"
+    },
+    {
+      "question": "Mely állítások tévesek a Bizottság versenyjogi szerepéről? (Minden válasz hamis; legalább egy kimondja a helyes tartalmat.)",
+      "options": [
+        {
+          "text": "Az 1/2003/EK rendelet megtartotta a 17. rendelet centralizált bejelentési rendszerét minden mentesítésre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a modernizáció a bejelentési központot váltotta fel. A helyes: a Tanács 1/2003/EK rendelete a 17. tanácsi rendelet bejelentési központját közvetlenül alkalmazandó kivétellel váltja fel; a nemzeti versenyhatóságok és bíróságok a 101. cikk (3) bekezdését is alkalmazzák, a vállalkozás pedig maga mérlegel. A tévedés a bejelentési központot írja a közvetlenül alkalmazandó kivétel helyére."
+        },
+        {
+          "text": "Kötelezettségvállalási határozatnak akkor is helye van, ha a Bizottság bírságot kíván kiróni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Bírság kiszabásának szándéka mellett kötelezettségvállalási határozatnak nincs helye. A helyes: az 1/2003/EK rendelet 9. cikk (1) bekezdése a kötelezettségvállalásokat kötelezővé teheti, ha a Bizottság a jogsértés befejezését előíró határozatot szándékozik elfogadni, de kötelezettségvállalási határozatnak nincs helye, ha a Bizottság bírságot kíván kiróni. A (2) bekezdés három újraindítási okot ad: tényváltozás, vállalással ellentétes magatartás, hiányos vagy félrevezető információ. A tévedés a szankciós szándékot a kötelezettségvállalással vegyíti."
+        },
+        {
+          "text": "A 103. cikk szerinti végrehajtási rendeleteket vagy irányelveket a Bizottság egyedül fogadja el, a Tanács és a Parlament nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a végrehajtási aktus döntése a Tanácsé, nem a Bizottság egyedüli aktusa. A helyes: az EUMSZ 103. cikk (1) bekezdése a Tanácsot hatalmazza fel, hogy a Bizottság javaslata alapján, az Európai Parlamenttel folytatott konzultációt követően állapítsa meg a 101. és 102. cikk elveit érvényre juttató rendeleteket vagy irányelveket. A Bizottság csoportmentességi rendelete a 105. cikk (3) bekezdésén nyugszik. A tévedés a Tanács döntési szerepét kihagyja."
+        },
+        {
+          "text": "A Bizottság eljárásának kezdeményezése után a nemzeti versenyhatóságok továbbra is párhuzamosan alkalmazhatják a 81. és 82. cikket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti versenyhatóságok alkalmazási jogköre az eljárás kezdeményezésekor elvész. A helyes: az 1/2003/EK rendelet 11. cikk (6) bekezdése automatikus hatáskörvesztést rendel el, ha a Bizottság a III. fejezet szerinti határozat elfogadására irányuló eljárást kezdeményez. A preambulum szerint a Bizottságnak a lehető leghamarabb kell lépnie. Ha a nemzeti hatóság már eljár, a Bizottság csak vele történt konzultációt követően indíthat eljárást."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "78de67b9c152"
+    },
+    {
+      "question": "Miben tér el a Bizottság kettős szerződéses szerepe a versenyjogban a puszta anyagi tilalomkimondástól?",
+      "options": [
+        {
+          "text": "Jogalkotásban a 103. cikk a Tanácsot a Bizottság javaslata és a Parlament konzultációja mellett végrehajtási rendeletre vagy irányelvre hatalmazza fel, a 105. cikk (3) bekezdése pedig a Bizottságnak csoportmentességi rendeletet ad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság javaslattevő és csoportmentességi rendeleti szerepe elválik a Tanács döntésétől. Az EUMSZ 103. cikk (1) bekezdése a Tanácsot hatalmazza fel a 101. és 102. cikk elveit érvényre juttató rendeletekre vagy irányelvekre; a (2) bekezdés a bírságot, a 101. cikk (3) bekezdésének rendjét, az ágazati hatályt, az intézményi feladatokat és a nemzeti jog viszonyát sorolja. A 105. cikk (3) bekezdése a Tanács 103. cikk (2) bekezdésének b) pontja szerinti felhatalmazása nyomán ad csoportmentességi címet. Az anyagi tilalomkimondás önmagában nem helyettesíti e másodlagos keretet."
+        },
+        {
+          "text": "A 105. cikk (1)–(2) bekezdése csak tájékoztatási szerepet ad a Bizottságnak; indokolással ellátott jogsértési határozatot nem hozhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés indokolással ellátott jogsértési határozatot ír elő. A helyes: az EUMSZ 105. cikk (2) bekezdése szerint, ha a jogsértést nem szüntetik meg, a Bizottság indokolással ellátott határozatában állapítja meg az elvek megsértését, a határozatot nyilvánosságra hozhatja, és felhatalmazhatja a tagállamokat a helyzet orvoslására. Az (1) bekezdés a vizsgálatot és a megszüntetési javaslatot adja. A tévedés a határozati hatáskört tájékoztatásra gyengíti."
+        },
+        {
+          "text": "Végrehajtásban a 105. cikk (1)–(2) bekezdése a vizsgálatot, a megszüntetésre irányuló megfelelő intézkedésekre tett javaslatot és az indokolással ellátott jogsértési határozatot a Bizottságra telepíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az őri szerep a vizsgálat–javaslat–határozat láncon áll. Az EUMSZ 105. cikk (1) bekezdése szerint a Bizottság biztosítja a 101. és 102. cikk elveinek alkalmazását, tagállami kérelemre vagy hivatalból vizsgál, és jogsértésnél a megszüntetésre irányuló megfelelő intézkedésekre javaslatot tesz. Ha a jogsértést nem szüntetik meg, a (2) bekezdés indokolással ellátott határozatot követel, amelyet a Bizottság nyilvánosságra hozhat, és amelynek alapján a tagállamokat a helyzet orvoslására hatalmazhatja fel. A 104. cikk szerinti átmeneti tagállami döntés e szerződéses őri hatáskört nem szünteti meg."
+        },
+        {
+          "text": "A Bizottság versenyjogi szerepe kimerül a 101. és 102. cikk szövegének ismétlésében; másodlagos jogalkotási és eljárási hatásköre nincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szerződéses szerep jogalkotási és végrehajtási ágat is ad. A helyes: az EUMSZ 103. cikke a Tanácsot a Bizottság javaslata mellett végrehajtási aktusokra hatalmazza fel, a 105. cikk (3) bekezdése csoportmentességi rendeletet ad a Bizottságnak, a 105. cikk (1)–(2) bekezdése pedig a vizsgálatot és a jogsértési határozatot telepíti. Az Eljárási Rendelet a 103. cikk szerinti végrehajtási célt konkretizálja. A tévedés a másodlagos és eljárási hatáskört törli."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "539f6a3e2e9a"
+    },
+    {
+      "question": "Milyen esetekben indíthat a Bizottság ágazati vizsgálatot az 1/2003/EK rendelet 17. cikke szerint?",
+      "options": [
+        {
+          "text": "Az ágazati vizsgálat során a Bizottság nem kérhet információt a vállalkozásoktól, és helyszíni vizsgálatot sem folytathat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ágazati vizsgálatban információkérés és helyszíni vizsgálat is nyitva áll. A helyes: az 1/2003/EK rendelet 17. cikk (1) bekezdése szerint a vállalkozásoktól a 81. és 82. cikk végrehajtásához szükséges információ kérhető, helyszíni vizsgálat folytatható, a megállapodásokról tájékoztatás kérhető, és a jelentés közzétehető. A vizsgálat a közös piaci verseny korlátozásának vagy torzulásának jelzéseire épül. A tévedés az eszközkészletet törli."
+        },
+        {
+          "text": "Az ágazati vizsgálatban a Bizottság a megállapodásokról, döntésekről és összehangolt magatartásokról tájékoztatást kérhet, helyszíni vizsgálatot folytathat, és a jelentést közzéteheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ágazati vizsgálat eszközkészlete a közösségi versenyszabályok végrehajtásához igazodik. Az 1/2003/EK rendelet 17. cikk (1) bekezdése szerint e vizsgálatban a vállalkozásoktól a 81. és 82. cikk végrehajtásához szükséges információ kérhető, helyszíni vizsgálat folytatható, a megállapodásokról, döntésekről és összehangolt magatartásokról tájékoztatás kérhető, és a jelentés közzétehető. A 30. cikk a 7–10., 23. és 24. cikk szerinti határozatok közzétételét külön rendezi. Az ágazati jelentés tehát a hálózat átláthatóságát is szolgálhatja."
+        },
+        {
+          "text": "Ha a tagállamok közötti kereskedelem alakulása, az árak merevsége vagy egyéb körülmények azt jelzik, hogy a közös piaci verseny esetleg korlátozott vagy torzult, a Bizottság a gazdaság meghatározott ágazatát vagy ágazatokon átnyúlóan a megállapodások valamely típusát megvizsgálhatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ágazati vizsgálat a piaci torzulás jelzéseire reagál. Az 1/2003/EK rendelet 17. cikk (1) bekezdése a Bizottságot felhatalmazza, hogy amennyiben a tagállamok közötti kereskedelem alakulása, az árak merevsége vagy egyéb körülmények azt jelzik, hogy a közös piaci verseny esetleg korlátozott vagy torzult, a gazdaság meghatározott ágazatát vagy ágazatokon átnyúlóan a megállapodások valamely típusát megvizsgálja. E vizsgálatban a vállalkozásoktól a 81. és 82. cikk végrehajtásához szükséges információ kérhető, helyszíni vizsgálat folytatható, és a jelentés közzétehető. Az ágazati vizsgálat tehát nem egyedi jogsértés-megállapítás, hanem strukturális felderítés."
+        },
+        {
+          "text": "Ágazati vizsgálat csak akkor indítható, ha már jogerős jogsértési határozat van az adott ágazatban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ágazati vizsgálat a torzulás jelzéseire épül, nem jogerős határozatra. A helyes: az 1/2003/EK rendelet 17. cikk (1) bekezdése szerint a Bizottság akkor vizsgálhat ágazatot vagy megállapodás-típust, ha a tagállamok közötti kereskedelem alakulása, az árak merevsége vagy egyéb körülmények a közös piaci verseny korlátozását vagy torzulását jelzik. A tévedés jogerős határozati előfeltételt ír a jelzéses indítás helyére."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "abba7e61b95d"
+    },
+    {
+      "question": "Mit jelent a 106. cikk (1) bekezdése a Bizottság versenyjogi hatáskörének kiterjedésére nézve?",
+      "options": [
+        {
+          "text": "A Bizottság versenyjogi hatásköre kizárólag a magánkartellekre korlátozódik; a tagállami kiváltságok kívül esnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatáskör a tagállam által teremtett piaci kiváltságra is kiterjed. A helyes: az EUMSZ 106. cikk (1) bekezdése a közvállalkozásokat és a különleges vagy kizárólagos joggal felruházott vállalkozásokat a Szerződések tilalma alá vonja a tagállami intézkedések oldalán. A 106. cikk nem váltja fel a 101–102. cikk tilalmát, hanem a tagállami intézkedések oldalán is érvényesíti a Szerződések tilalmait. A tévedés a közszférát kihagyja."
+        },
+        {
+          "text": "A 106. cikk a 101–102. cikk tilalmát nem váltja fel; a Bizottság e tilalmakat a tagállami kiváltságok mellett is érvényesíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvállalkozásokra vonatkozó szabály kiegészíti, nem helyettesíti a kartell- és erőfölényes tilalmat. Az EUMSZ 106. cikk (1) bekezdése a közvállalkozásokat és a különleges vagy kizárólagos joggal felruházott vállalkozásokat a Szerződések, különösen a 18. és a 101–109. cikk tilalma alá vonja a tagállami intézkedések oldalán, anélkül hogy a 101–102. cikk tilalmát felváltaná. A Bizottság versenyjogi hatásköre így a magánkartellen túl a tagállam által teremtett piaci kiváltságra is kiterjed. Az EUMSZ 105. cikk őri szerepe e körben is irányadó."
+        },
+        {
+          "text": "A közvállalkozásokat és a különleges vagy kizárólagos joggal felruházott vállalkozásokat a Szerződések, különösen a 18. és a 101–109. cikk tilalma alá vonja a tagállami intézkedések oldalán.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság versenyjogi hatásköre a magánkartellen túl a tagállam által teremtett piaci kiváltságra is kiterjed. Az EUMSZ 106. cikk (1) bekezdése a közvállalkozásokat és a különleges vagy kizárólagos joggal felruházott vállalkozásokat a Szerződések, különösen a 18. és a 101–109. cikk tilalma alá vonja a tagállami intézkedések oldalán. A 106. cikk nem váltja fel a 101–102. cikk tilalmát. A hatáskör tehát a magán- és a közszféra határán is érvényesül."
+        },
+        {
+          "text": "A 106. cikk (1) bekezdése a közvállalkozásokat teljesen kiveszi a 101. és 102. cikk hatálya alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 106. cikk nem veszi ki a közvállalkozásokat a 101–102. cikk tilalma alól. A helyes: az EUMSZ 106. cikk (1) bekezdése a közvállalkozásokat és a különleges vagy kizárólagos joggal felruházott vállalkozásokat a Szerződések, különösen a 18. és a 101–109. cikk tilalma alá vonja a tagállami intézkedések oldalán, anélkül hogy a 101–102. cikk tilalmát felváltaná. A tévedés kivételt ír a tilalom alá vonás helyére."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "020439128b48"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a kötelezettségvállalási határozat, ha a Bizottság eljárást folytat?",
+      "options": [
+        {
+          "text": "Kötelezettségvállalási határozat mindig párhuzamosan hozható bírsághatározattal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bírság szándéka kizárja a kötelezettségvállalást. A helyes: az 1/2003/EK rendelet 9. cikke szerinti kötelezettségvállalási határozatnak nincs helye, ha a Bizottság bírságot kíván kiróni; a 9. cikk az egyezségszerű lezárás útja. A 23. cikk szerinti bírság a 103. cikk (2) bekezdésének a) pontján nyugvó szankciós eszköz. A tévedés a két utat összevonja."
+        },
+        {
+          "text": "A 9. cikk egyezségszerű útja nem a szankciós eljárás kikerülése: bírság kiszabásának szándéka mellett kötelezettségvállalási határozatnak nincs helye.",
+          "isCorrect": true,
+          "rationale": "IGAZ, bírság kiszabásának szándéka mellett a 9. cikk nem nyílik meg. Az 1/2003/EK rendelet 9. cikke szerint a Bizottság a felajánlott kötelezettségvállalásokat kötelezővé teheti, de kötelezettségvállalási határozatnak nincs helye, ha a Bizottság bírságot kíván kiróni. A 9. cikk tehát a jogsértés lezárásának egyezségszerű útja, nem a szankciós eljárás kikerülése. A „mikor nincs helye” kérdésre a bírság szándéka a szerződéses-eljárási válasz."
+        },
+        {
+          "text": "A kötelezettségvállalási határozat automatikusan megállapítja a jogsértést, és elvonja a nemzeti bíróságok alkalmazási jogkörét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezettségvállalás nem állapít meg kötelezően jogsértést, és nem vonja el a nemzeti jogkört. A helyes: az 1/2003/EK rendelet 9. cikk (1) bekezdése szerinti határozatban nem kell megállapítani, hogy volt-e vagy fennáll-e jogsértés; a preambulum szerint a tagállami versenyhatóságok és bíróságok jogsértés-megállapítási jogkörét nem sérti. Az 1/2003/EK rendelet 16. cikkének kötöttsége a kötelezettségvállalásra nem települ. A tévedés a kötelezettségvállalást jogsértés-megállapítássá és jogkör-elvonássá torzítja."
+        },
+        {
+          "text": "Kötelezettségvállalási határozatnak nincs helye, ha a Bizottság bírságot kíván kiróni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, Ha a Bizottság bírságot kíván kiróni, a kötelezettségvállalási út zárva marad. Az 1/2003/EK rendelet 9. cikke szerint a Bizottság a vállalkozások kötelezettségvállalásait kötelezővé teheti, ha a jogsértés befejezését előíró határozatot szándékozik elfogadni, de kötelezettségvállalási határozatnak nincs helye, ha a Bizottság bírságot kíván kiróni. A 9. cikk tehát az egyezségszerű lezárás, nem a bírság kikerülése. A 23. cikk szerinti bírsághatározat előtt a 14. cikk a tanácsadó bizottsággal való egyeztetést írja elő."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "a53b9e503377"
+    },
+    {
+      "question": "A nemzeti versenyhatóság a 81. cikk alapján eljárást indít. Milyen értesítési kötelezettségei vannak a Bizottság felé az 1/2003/EK rendelet 11. cikke szerint?",
+      "options": [
+        {
+          "text": "A Bizottság a nemzeti hatóság által gyűjtött legfontosabb dokumentumokat soha nem kapja meg; az információcsere egyirányú, csak a nemzeti hatóság felé.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság átadja a nemzeti hatóságoknak a legfontosabb dokumentumok másolatait. A helyes: az 1/2003/EK rendelet 11. cikk (2) bekezdése szerint a Bizottság átadja a tagállamok versenyhatóságainak az általa a 7., 8., 9. és 10. cikk, valamint a 29. cikk (1) bekezdése céljából összegyűjtött legfontosabb dokumentumok másolatait; kérelemre egyéb iratot is. A tévedés a kétirányú információáramlást egyirányúra szűkíti."
+        },
+        {
+          "text": "Az első hivatalos vizsgálati cselekmény előtt vagy annak megkezdése után késedelem nélkül írásban értesíti a Bizottságot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hálózat az első lépésnél tájékoztatást követel. Az 1/2003/EK rendelet 11. cikk (3) bekezdése szerint, amennyiben a tagállamok versenyhatóságai a Szerződés 81. vagy 82. cikke alapján járnak el, az első hivatalos vizsgálati cselekmény előtt vagy annak megkezdése után késedelem nélkül írásban értesítik erről a Bizottságot. Ez az információ rendelkezésre bocsátható más tagállamok versenyhatóságai számára is. Az (1) bekezdés a közösségi versenyjog szoros együttműködésben való alkalmazását írja elő."
+        },
+        {
+          "text": "A nemzeti hatóság csak a jogerős határozat után értesíti a Bizottságot; előzetes tájékoztatás nincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értesítés az első vizsgálati cselekményhez és a határozat előtti harminc naphoz kötött. A helyes: az 1/2003/EK rendelet 11. cikk (3) bekezdése szerint az első hivatalos vizsgálati cselekmény előtt vagy annak megkezdése után késedelem nélkül írásban értesíteni kell a Bizottságot; a (4) bekezdés a jogsértés befejezésére felszólító, kötelezettségvállalási vagy csoportmentességi előnyt visszavonó határozat előtt legalább harminc nappal összefoglalót és tervezetet követel. A tévedés az előzetes tájékoztatást törli."
+        },
+        {
+          "text": "A jogsértés befejezésére felszólító, a kötelezettségvállalási vagy a csoportmentességi előnyt visszavonó határozat előtt legalább harminc nappal összefoglalót és tervezetet küld a Bizottságnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a döntés előtt harminc napos előzetes tájékoztatás kötelező. Az 1/2003/EK rendelet 11. cikk (4) bekezdése szerint a tagállamok versenyhatóságai legkésőbb harminc nappal a jogsértés befejezésére felszólító határozat elfogadása, kötelezettségvállalások elfogadása vagy a csoportmentességről szóló rendeletből származó előny visszavonása előtt értesítik a Bizottságot. E célból az ügy összefoglalását, a tervezett határozatot vagy ennek hiányában a tervezett eljárás menetéről szóló dokumentumot bocsátják rendelkezésre. A Bizottság kérelmére az eljáró hatóság az ügy értékeléséhez szükséges egyéb dokumentumokat is átadja."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "102057faf3bc"
+    },
+    {
+      "question": "Milyen határidővel kell a tanácsadó bizottságot összehívni ideiglenes intézkedés esetén, és mi a Bizottság kötelezettsége a véleménnyel?",
+      "options": [
+        {
+          "text": "Ideiglenes intézkedésnél az ülés hét nappal a tervezett határozat rendelkező részének elküldését követően megtartható; a tagállamok tiltakozásának hiányában rövidebb határidő is tartható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ideiglenes intézkedésnél a konzultációs határidő rövidül. Az 1/2003/EK rendelet 14. cikk (3) bekezdése szerint a 8. cikk szerinti határozatok tekintetében az ülés hét nappal a tervezett határozat rendelkező részének elküldését követően megtartható; ha a Bizottság rövidebb határidőt biztosít, az ülés a tervezett időpontban megtartható, ha a tagállamok nem tiltakoznak. A főszabály egyébként legalább tizennégy nap. Az írásbeli eljárásnál a 8. cikk szerinti határozatra a határidő tizennégy nap helyett hét nap."
+        },
+        {
+          "text": "A Bizottság a tanácsadó bizottság véleményét figyelmen kívül hagyhatja anélkül, hogy tájékoztatná a bizottságot a figyelembe vétel módjáról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vélemény figyelembe vétele és a visszajelzés a Bizottság kötelezettsége. A helyes: az 1/2003/EK rendelet 14. cikk (5) bekezdése szerint a Bizottság a legteljesebb mértékben figyelembe veszi a véleményt, és tájékoztatja a bizottságot arról, hogyan tette ezt; az írásbeli véleményt a határozattervezethez kell csatolni. A tévedés a visszajelzési kötelezettséget törli."
+        },
+        {
+          "text": "A Bizottság a tanácsadó bizottság véleményét a legteljesebb mértékben figyelembe veszi, és tájékoztatja a bizottságot arról, hogyan tette ezt; az írásbeli vélemény a határozattervezethez csatolandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a figyelembe vétel és a visszajelzés kötelező. Az 1/2003/EK rendelet 14. cikk (5) bekezdése szerint a Bizottság a legteljesebb mértékben figyelembe veszi a tanácsadó bizottság által adott véleményt, és tájékoztatja a bizottságot arról, hogyan vette figyelembe. A (6) bekezdés szerint az írásbeli véleményt a határozattervezethez kell csatolni; ha a bizottság a közzétételt javasolja, a Bizottság köteles azt az üzleti titok védelme mellett elvégezni. A szankciós és eljárási aktusok tehát hálózati kontroll mellett születnek."
+        },
+        {
+          "text": "Ideiglenes intézkedésnél a tanácsadó bizottsággal való egyeztetés mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 8. cikk szerinti határozat előtt is kötelező az egyeztetés. A helyes: az 1/2003/EK rendelet 14. cikk (1) bekezdése a 8. cikket is felsorolja a kötelező egyeztetés tárgyai között; a (3) bekezdés az ideiglenes intézkedésnél hét napos, akár rövidebb határidőt enged, de az egyeztetést nem törli. A tévedés a kötelező konzultációt mellőzhetővé teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "d4cfcfd4e14e"
+    },
+    {
+      "question": "A törvény által felsoroltak közül melyik szerepel ténylegesen a 103. cikk (2) bekezdésének céljai között?",
+      "options": [
+        {
+          "text": "A 101. cikk (1) bekezdésében és a 102. cikkben megállapított tilalmak betartásának biztosítása pénzbírság vagy kényszerítő bírság előírásával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az a) pont a szankciós célt nevesíti. Az EUMSZ 103. cikk (2) bekezdésének a) pontja szerint az (1) bekezdésben említett rendeletek vagy irányelvek célja különösen a 101. cikk (1) bekezdésében és a 102. cikkben megállapított tilalmak betartásának biztosítása pénzbírság vagy kényszerítő bírság előírásával. Ez a Bizottság szankciós hatáskörének szerződéses magja. Az 1/2003/EK rendelet 23. és 24. cikke e címen jelenik meg."
+        },
+        {
+          "text": "A Bizottság kizárólagos jogalkotói hatáskörének megállapítása a versenyjog egészére, a Tanács kizárásával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 103. cikk (2) bekezdése nem ad kizárólagos jogalkotói hatáskört a Bizottságnak a Tanács helyett. A helyes: az EUMSZ 103. cikk (1) bekezdése a Tanácsot hatalmazza fel a Bizottság javaslata alapján; a (2) bekezdés a) – e) pontja a bírságot, a 101. cikk (3) bekezdésének rendjét, az ágazati hatályt, az intézményi feladatokat és a nemzeti jog viszonyát sorolja. A tévedés a Tanács döntési szerepét törli."
+        },
+        {
+          "text": "A tagállami versenyhatóságok végleges kizárása a 101. és 102. cikk alkalmazásából.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 103. cikk (2) bekezdése nem zárja ki véglegesen a nemzeti hatóságokat. A helyes: az EUMSZ 103. cikk (2) bekezdésének e) pontja a nemzeti jogszabályok és az e szakaszban foglalt, illetve az e cikk alapján elfogadott rendelkezések közötti kapcsolat meghatározását rendeli a másodlagos aktusba; az 1/2003/EK rendelet a nemzeti hatóságokat a hálózatba vonja. A tévedés végleges kizárást ír a kapcsolatszabályozás helyére."
+        },
+        {
+          "text": "A Bizottság, illetve az Európai Unió Bírósága e bekezdés rendelkezéseinek alkalmazása terén betöltendő feladatainak meghatározása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a d) pont az intézményi feladatmegosztást rendeli a másodlagos aktusba. Az EUMSZ 103. cikk (2) bekezdésének d) pontja szerint a rendeletek vagy irányelvek célja különösen a Bizottság, illetve az Európai Unió Bírósága e bekezdés rendelkezéseinek alkalmazása terén betöltendő feladatainak meghatározása. A c) pont az ágazati hatályt, az e) pont a nemzeti jog és az e szakasz viszonyát rendezi. A modernizációs rendelet a szerződéses végrehajtási keretet intézményesíti."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "f12c71655f49"
+    },
+    {
+      "question": "Mely állítások tévesek az ideiglenes intézkedésről és az egységes alkalmazásról? (Tanító: minden válasz hamis.)",
+      "options": [
+        {
+          "text": "A nemzeti bíróság szabadon hozhat a Bizottság határozatával ellentétes döntést, ha az ügy már bizottsági határozat tárgya.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti bíróság nem dönthet a Bizottság határozatával ellentétesen. A helyes: az 1/2003/EK rendelet 16. cikk (1) bekezdése tiltja, hogy a nemzeti bíróság a már bizottsági határozat tárgyát képező ügyben a Bizottság határozatával ellentétes döntést hozzon. Kerülniük kell a tervezett bizottsági határozattal ellentétes aktust is; e célból felmérhetik az eljárás felfüggesztését. A tévedés az ellentmondás-tilalmat figyelmen kívül hagyja."
+        },
+        {
+          "text": "A kötelezettségvállalási határozat ugyanúgy köti a nemzeti bíróságot, mint a jogsértést megállapító bizottsági határozat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 9. cikk szerinti aktus nem vonja a nemzeti fórumokat a 16. cikk kötöttsége alá. A helyes: a preambulum szerint az 1/2003/EK rendelet 9. cikk szerinti aktus nem vonja el a nemzeti bíróság és a versenyhatóság 81. és 82. cikk alkalmazására vonatkozó jogkörét. Az 1/2003/EK rendelet 16. cikkének ellentmondás-tilalma a már bizottsági határozat tárgyát képező ügyekre áll, de a kötelezettségvállalás e kötöttséget nem telepíti. A tévedés a kötelezettségvállalást a jogsértés-megállapítással azonosítja."
+        },
+        {
+          "text": "Ideiglenes intézkedést csak a sértett kérelmére lehet elrendelni; a Bizottság saját kezdeményezésére nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ideiglenes intézkedés a Bizottság saját kezdeményezésén nyugszik. A helyes: az 1/2003/EK rendelet 8. cikk (1) bekezdése szerint a Bizottság saját kezdeményezésére rendelhet el ideiglenes intézkedést sürgős esetben, prima facie jogsértés és komoly, helyrehozhatatlan kár kockázata mellett. Az ideiglenes aktus határozott időtartamra szól, és szükség esetén meghosszabbítható. A tévedés a Bizottság saját indítását panaszos kérelemhez köti."
+        },
+        {
+          "text": "Ideiglenes intézkedéshez jogerős, teljes bizonyossággal megállapított jogsértés kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ideiglenes intézkedés prima facie jogsértést követel. A helyes: az 1/2003/EK rendelet 8. cikk (1) bekezdése szerint a Bizottság saját kezdeményezésére, prima facie megállapított jogsértés alapján rendelhet el ideiglenes intézkedést a versenyt veszélyeztető komoly és helyrehozhatatlan kár kockázata miatti sürgős esetben. A bizonyosság a későbbi érdemi határozaté. A tévedés a látszat szerinti jogsértést teljes bizonyossággá emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "6f84f3b91a6b"
+    }
+  ]
+}

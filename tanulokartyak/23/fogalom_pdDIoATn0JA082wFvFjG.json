@@ -1,0 +1,117 @@
+{
+  "id": "pdDIoATn0JA082wFvFjG",
+  "sorszam": 23,
+  "cim": "Az uniós jogi aktusok megsemmisítése iránti eljárás (az eljárás (...)",
+  "deckType": "fogalom",
+  "title": "23. Az uniós jogi aktusok megsemmisítése iránti eljárás (az eljárás (...)",
+  "flashcards": [
+    {
+      "id": "G6Dm6L9KAfCjyG9xahka",
+      "front": "Uniós jogszerűségi felülvizsgálat két kereseti ága",
+      "back": "A megsemmisítés iránti eljárás a meghozott, joghatást kiváltó aktus jogszerűségét támadja; a mulasztási eljárás a Szerződéseket sértő döntéshozatali hallgatást, az elmaradt aktus meghozatalát teszi per tárgyává.",
+      "explanation": "<p>A két út egymást kiegészíti: az egyiken a létező aktus, a másikon a hiányzó döntés áll bírói vizsgálat alatt.</p><p>Az <strong>EUMSZ 263–266. cikk</strong> a megsemmisítés keretét adja; az <strong>EUMSZ 277. cikk</strong> a két hónapos határidő lejárta után is megnyitja az általános hatályú aktus alkalmazhatatlanságára való hivatkozást.</p><p>Gyakori hiba a mulasztást puszta késedelemként kezelni: a 265. cikk szerint csak a Szerződéseket sértő hallgatás perelhető, nem minden intézményi tétlenség.</p>"
+    },
+    {
+      "id": "xSFQyVBRoCDj4wjZ4QKA",
+      "front": "Megtámadható uniós aktusok köre (semmisségi eljárás)",
+      "back": "A Bíróság megvizsgálja a jogalkotási aktusokat, a Tanács, a Bizottság és az Európai Központi Bank jogi aktusait ajánlás és vélemény kivételével, továbbá a Parlament és az Európai Tanács harmadik személyekre joghatással járó aktusait, valamint a szervek és hivatalok hasonló aktusait.",
+      "explanation": "<p>A felülvizsgálat tárgya nem intézményi címke, hanem az, hogy az aktus kötelező joghatást vált-e ki harmadik személyek vonatkozásában.</p><p>Az <strong>EUMSZ 263. cikk</strong> első és második bekezdése e kört taxatíve sorolja; az ajánlás és a vélemény kimarad, mert nem teremt kötelező jogviszonyt.</p><p>A szervek és hivatalok aktusaira a létrehozó jogi aktus további kereseti feltételeket is előírhat a magánfél számára.</p>"
+    },
+    {
+      "id": "Fzo07psCJFAe55PyAWcm",
+      "front": "Privilegiált felperesek a megsemmisítés iránti eljárásban",
+      "back": "Valamely tagállam, az Európai Parlament, a Tanács vagy a Bizottság keresetet nyújthat be hatáskör hiánya, lényeges eljárási szabályok megsértése, a Szerződések vagy az alkalmazásukra vonatkozó bármely jogi rendelkezés megsértése vagy hatáskörrel való visszaélés miatt.",
+      "explanation": "<p>A privilegiált felperes számára nincs érintettségi küszöb: a négy jogalap bármelyike önmagában elegendő.</p><p>Az <strong>EUMSZ 263. cikk</strong> (2) bekezdése e négy intézményi és tagállami aktort emeli ki; a kereset célja az uniós aktus legalitásának bírói ellenőrzése.</p><p>A magánfélhez képest itt nem kell bizonyítani személyes érintettséget, mert a felperes uniós jogi őrként lép fel.</p>"
+    },
+    {
+      "id": "PWSGr5pwO27hudiuLv23",
+      "front": "Félig privilegiált felperesek előjog-védelme",
+      "back": "A Számvevőszék, az Európai Központi Bank és a Régiók Bizottsága ugyanazon négy jogalapra hivatkozhat, de kizárólag előjogaik megóvása érdekében indíthat megsemmisítés iránti keresetet.",
+      "explanation": "<p>A félig privilegiált státusz nem általános legalitási panaszlehetőség, hanem intézményi szerepkör-védelem.</p><p>Az <strong>EUMSZ 263. cikk</strong> (3) bekezdése azonos feltételek mellett ad hatáskört e három szervnek, de csak előjogaik sérelmére.</p><p>Gyakori tévedés a Számvevőszéket teljes érdekű felperesként kezelni: a kereset tárgya nem bármely uniós aktus, hanem az őt megillető előjog sérelme.</p>"
+    },
+    {
+      "id": "VPD8QklDe8ytCMCbs9Z4",
+      "front": "Magánfél kereshetősége – címzett aktus",
+      "back": "Bármely természetes vagy jogi személy eljárást indíthat a neki címzett jogi aktus ellen, ha a 263. cikk (1) és (2) bekezdésében előírt feltételek egyébként teljesülnek.",
+      "explanation": "<p>A címzettség az egyik önálló kereseti ág a (4) bekezdésben: itt a személyes érintettség vizsgálata elmarad, mert maga a címzés individualizálja a felperes helyzetét.</p><p>Az <strong>EUMSZ 263. cikk</strong> (4) bekezdésének első fordulata a neki címzett aktust emeli ki a magánfél számára.</p><p>A címzett aktus lehet határozat jellegű döntés is: a Plaumann-ügyben a tagállamhoz címzett bizottsági határozat ellen a magánfél nem címzett, ezért a második ágra kellett volna támaszkodnia.</p>"
+    },
+    {
+      "id": "du0RmZflRvnOz3dtzq5O",
+      "front": "Plaumann-formula (személyes érintettség)",
+      "back": "A nem címzett felperes csak akkor állíthatja, hogy személyében érintett, ha a megtámadott aktus sajátos jellemzői vagy egy őt minden más személytől megkülönböztető ténybeli helyzet folytán a címzetthez hasonló módon egyéníti.",
+      "explanation": "<p>A Plaumann-teszt a magánfél második kereseti ágának központi szűrője: a puszta gazdasági érdek vagy bárki által folytatható tevékenység nem elég.</p><p>A <strong>C-25/62 Plaumann</strong> ítélet szerint: „csak akkor állíthatják, hogy személyükben érintettek, ha ez a határozat sajátos jellemzőik vagy egy őket minden más személytől megkülönböztető ténybeli helyzet folytán vonatkozik rájuk, és ezáltal a címzetthez hasonló módon egyéníti őket.”</p><p>Ha a személyes érintettség hiányzik, a Bíróság gyakran már a közvetlen érintettséget sem vizsgálja tovább, mert az elfogadhatatlanság ezen a ponton megállapítható.</p>"
+    },
+    {
+      "id": "Y1O4vkwtEMXLqQCSIQWE",
+      "front": "Rendeleti jellegű jogi aktus (263. cikk (4) bekezdése)",
+      "back": "A magánfél az őt közvetlenül érintő, végrehajtási intézkedést nem vonó rendeleti jellegű jogi aktus ellen is eljárást indíthat anélkül, hogy személyes érintettségét bizonyítaná.",
+      "explanation": "<p>A lisszaboni harmadik ág a magánfél kereshetőségét bővíti, de nem minden általános hatályú aktusra: csak a rendeleti jellegű, végrehajtás nélküli kategóriára.</p><p>Az <strong>EUMSZ 263. cikk</strong> (4) bekezdése szerint: „Bármely természetes vagy jogi személy az első és második bekezdésben említett feltételek mellett eljárást indíthat a neki címzett vagy az őt közvetlenül és személyében érintő jogi aktusok ellen, továbbá az őt közvetlenül érintő olyan rendeleti jellegű jogi aktusok ellen, amelyek nem vonnak maguk után végrehajtási intézkedéseket.”</p><p>A <strong>C-583/11 P Inuit Tapiriit Kanatami</strong> ítélet és az <strong>EUMSZ 294. cikk</strong> szerinti rendes jogalkotási eljárás együtt mutatja: a 1007/2009/EK rendelet jogalkotási aktus, ezért a Plaumann-ágon kellett volna megfelelnie a magánfélnek.</p>"
+    },
+    {
+      "id": "ILVHpeXk5Tu0N7UKanJF",
+      "front": "Megsemmisítés iránti kereset határideje",
+      "back": "Az eljárást az intézkedés kihirdetésétől, a felperessel való közlésétől, illetve ennek hiányában attól a naptól számított két hónapon belül kell megindítani, amikor arról a felperes tudomást szerzett.",
+      "explanation": "<p>A két hónap jogvesztő: a határidő lejárta után önálló semmisségi kereset már nem nyitható meg ugyanarra az aktusra.</p><p>Az <strong>EUMSZ 263. cikk</strong> hatodik bekezdése három lehetséges kezdőpontot ad: kihirdetés, közlés a felperessel, ennek hiányában a tudomásszerzés napja.</p><p>A határidő lejárta nem zárja ki teljesen a jogorvoslatot: az <strong>EUMSZ 277. cikk</strong> az általános hatályú aktus alkalmazhatatlanságára ad még eszközt a konkrét perben.</p>"
+    },
+    {
+      "id": "wUpxDUK05PRggtzpY4k6",
+      "front": "Négy megtámadási ok a semmisségi eljárásban",
+      "back": "A kereset hatáskör hiányára, lényeges eljárási szabályok megsértésére, a Szerződések vagy az alkalmazásukra vonatkozó bármely jogi rendelkezés megsértésére, illetve hatáskörrel való visszaélésre támaszkodhat.",
+      "explanation": "<p>A jogalapok kimerítő listát alkotnak: új, ötödik okot a kártya vagy a gyakorlat nem nyit.</p><p>Az <strong>EUMSZ 263. cikk</strong> (2) bekezdése e négy okot sorolja fel; a harmadik ok a tág anyagi jogalap, ideértve az alapjogokat és a másodlagos jogot is, ha az az aktusra irányadó.</p><p>A magánfél csak akkor hivatkozhat e okokra, ha a (4) bekezdés szerinti kereshetőségi küszöbön már átjutott.</p>"
+    },
+    {
+      "id": "evQDkmORlz8JLSFOtV6Z",
+      "front": "Semmissé nyilvánítás joghatása",
+      "back": "A megalapozott kereset esetén a Bíróság a megtámadott jogi aktust semmisnek nyilvánítja; szükség esetén azonban megjelölheti azokat a joghatásokat, amelyek továbbra is fennmaradnak.",
+      "explanation": "<p>A semmisség főszabály szerint az aktust a jogrendből kiveszi, de a Bíróság a jogbiztonság érdekében fenntarthat már kialakult joghatásokat.</p><p>Az <strong>EUMSZ 264. cikk</strong> szerint: „Ha a kereset megalapozott, az Európai Unió Bírósága a megtámadott jogi aktust semmisnek nyilvánítja.”</p><p>A <strong>C-25/62 Plaumann</strong> ügy mutatja a következményt: meg nem semmisített aktus joghatása alapján a kártérítés sem helyettesítheti a semmisséget.</p>"
+    },
+    {
+      "id": "dBdzgyB1QrZKO6W2VGgz",
+      "front": "Les Verts-ügy – Parlament joghatású aktusai",
+      "back": "Megsemmisítés iránti kereset indítható az Európai Parlament harmadik személyek vonatkozásában joghatások kiváltására irányuló jogi aktusai ellen, ha az aktus nem csupán belső szabályozás, hanem külső joghatást idéz elő.",
+      "explanation": "<p>A Les Verts-ügyben a költségvetési előirányzat európai parlamenti választási kampányra szánt részének elosztása harmadik személyekre hatással volt.</p><p>A <strong>C-294/83 Les Verts</strong> ítélet a korabeli 173. cikk korlátos felsorolását a Szerződés rendszeréhez igazította; a hatályos <strong>EUMSZ 263. cikk</strong> első bekezdése e ratiót szerződési szöveggé emeli.</p><p>A Parlament eredetileg nem szerepelt a megtámadható alperesek között, mert kezdetben főleg konzultációs hatáskörrel rendelkezett; a joghatás-kiváltó aktusok felülvizsgálata azonban a rendszer része lett.</p>"
+    },
+    {
+      "id": "j4vA6kr2wVI4x7RsEbGM",
+      "front": "Uniós jogközösség elve (Les Verts)",
+      "back": "Az Európai Gazdasági Közösség jogközösség, amennyiben sem a tagállamok, sem az intézmények nem mentesek annak vizsgálata alól, hogy jogi aktusaik megfelelnek-e a Szerződésnek, azaz az alkotmányos alapchartának.",
+      "explanation": "<p>A jogközösség elve a teljes jogorvoslati rendszer alapja: az uniós aktusok nem zárhatók ki a bírói felülvizsgálatból.</p><p>A <strong>C-294/83 Les Verts</strong> ítélet ezt a dogmát a magánfél védelmével köti össze: ahol az általános hatályú aktust közvetlenül nem támadhatja, ott végrehajtási aktus vagy alkalmazhatatlansági hivatkozás marad.</p><p>A Les Verts-ügy a <strong>22/70 ERTA</strong> ítélet vonalát folytatja, amely szerint közvetlen kereset nyitva áll minden joghatást kiváltó intézményi rendelkezéssel szemben.</p>"
+    },
+    {
+      "id": "mSCpuqOt0e4Yd6sEpRnt",
+      "front": "Jogellenességi kifogás (277. cikk)",
+      "back": "A két hónapos határidő lejárta ellenére általános hatállyal bíró uniós aktusra vonatkozó jogvitában bármelyik fél a 263. cikk második bekezdésében meghatározott okokkal hivatkozhat az aktus alkalmazhatatlanságára.",
+      "explanation": "<p>A 277. cikk exceptio illegalitatis: nem mond ki erga omnes semmisséget, csak a konkrét perben zárja ki az aktus alkalmazását.</p><p>Az <strong>EUMSZ 277. cikk</strong> szerint: „A 263. cikk hatodik bekezdésében megállapított határidő lejárta ellenére az Unió intézményei, szervei, vagy hivatalai által elfogadott általános hatállyal bíró jogi aktusokra vonatkozó jogvitában bármelyik fél élhet a 263. cikk második bekezdésében meghatározott eszközökkel annak érdekében, hogy az Európai Unió Bírósága előtt a szóban forgó jogi aktus alkalmazhatatlanságára hivatkozzon.”</p><p>A rendeleti jellegű harmadik ág és a 277. cikk nem helyettesítik egymást: az előbbi önálló semmisségi kereset, az utóbbi járulékos hivatkozás bármely általános hatályú aktusra.</p>"
+    },
+    {
+      "id": "pvNZ67EtTg2uoxdhiddq",
+      "front": "Mulasztási eljárás tárgya",
+      "back": "Ha az Európai Parlament, az Európai Tanács, a Tanács, a Bizottság vagy az Európai Központi Bank a Szerződéseket megsértve elmulasztja a döntéshozatalt, a tagállamok és az Unió többi intézménye keresettel kérheti a jogsértés megállapítását.",
+      "explanation": "<p>A mulasztási eljárás oka nem tetszőleges politikai várakozás, hanem a Szerződéseket sértő döntéshozatali hallgatás.</p><p>Az <strong>EUMSZ 265. cikk</strong> első bekezdése az alperesi kört és a privilegiált felpereseket nevezi meg; ugyanezt a cikket az Unió mulasztó szerveire és hivatalaira is alkalmazni kell.</p><p>A 263. cikk rendeleti jellegű harmadik ága ide nem analogizálható: a mulasztásnál csak a neki címzendő aktus elmaradása perelhető.</p>"
+    },
+    {
+      "id": "qGS5xj4ISkA858yzpX74",
+      "front": "Előzetes felkérés a mulasztási eljárásban",
+      "back": "A mulasztási kereset csak akkor elfogadható, ha az érintett intézményt, szervet vagy hivatalt előzetesen felkérték a cselekvésre; a felkéréstől számított két hónapon belül állásfoglalás hiányában további két hónapon belül indítható a kereset.",
+      "explanation": "<p>Az előzetes felkérés nem udvariassági lépés, hanem az elfogadhatóság kötelező eleme.</p><p>Az <strong>EUMSZ 265. cikk</strong> második bekezdése két egymást követő két hónapos időszakot állapít meg: először az intézmény reagálhat, utána nyílik meg a kereset benyújtása.</p><p>Ha az intézmény időben állásfoglal, a mulasztási kereset elfogadhatatlanná válhat, és a magánfél adott esetben a 263. cikk szerinti semmisségi útra kerülhet, ha az állásfoglalás maga joghatású aktus.</p>"
+    },
+    {
+      "id": "dNd6fT0nAej5r4T95KDy",
+      "front": "Magánfél mulasztási keresete",
+      "back": "Bármely természetes vagy jogi személy panasszal fordulhat a Bírósághoz, ha az Unió valamely intézménye, szerve vagy hivatala elmulasztott valamely neki címzendő jogi aktust ajánlás és vélemény kivételével meghozni, és az előzetes felkérésre vonatkozó feltételek teljesültek.",
+      "explanation": "<p>A magánfél mulasztási küszöbe szűkebb, mint a privilegiált felperesé: csak a neki címzendő aktus hiányát perelheti.</p><p>Az <strong>EUMSZ 265. cikk</strong> záró bekezdése e címzési feltételt és az ajánlás–vélemény kivételét rögzíti.</p><p>A 263. cikk harmadik ágán nyitott rendeleti jellegű aktus mulasztása nem pótolható itt: a 265. cikk nem ad keresetet a végrehajtás nélküli rendeleti aktus elmulasztására, ha az nem neki címzendő.</p>"
+    },
+    {
+      "id": "SWPzv0YO5Muv2gTRMBRa",
+      "front": "Teljesítési kötelezettség a Bíróság ítélete után",
+      "back": "Az az intézmény, szerv vagy hivatal, amelynek aktusát semmisnek, illetve mulasztását a Szerződésekkel ellentétesnek nyilvánították, köteles megtenni az ítélet teljesítéséhez szükséges intézkedéseket.",
+      "explanation": "<p>A semmisség önmagában nem pótolja a hiányzó aktust, és a mulasztás megállapítása sem hozza meg helyette a döntést: pozitív intézményi cselekvés kell.</p><p>Az <strong>EUMSZ 266. cikk</strong> mind a 263., mind a 265. cikk szerinti ítélet teljesítését az intézményre telepíti.</p><p>A záró mondat kifejezetten fenntartja a <strong>340. cikk</strong> második bekezdése szerinti kártérítési kötelezettséget: a teljesítés és a kártalanítás külön jogkövetkezmény.</p>"
+    },
+    {
+      "id": "E8jbKsWctDCM33iwOPJ4",
+      "front": "Hatékony bírói jogvédelem és a Charta 47. cikke",
+      "back": "A hatékony bírói jogvédelem elve a 263. cikk (4) bekezdésének feltételeit nem írja felül: a Szerződésben kifejezetten előírt kereshetőségi küszöböktől az uniós bíróság nem tekinthet el, bár a feltételeket a Charta 47. cikke fényében kell értelmezni.",
+      "explanation": "<p>A Charta 47. cikke nem nyit új, szerződésen kívüli kereseti utat, hanem az értelmezés mércéjét adja.</p><p>A <strong>C-583/11 P Inuit Tapiriit Kanatami</strong> ítélet 97–98. pontja ezt a Les Verts-ügy teljes jogorvoslati rendszerével együtt olvassa.</p><p>Az Inuit-ítélet szerint ha az aktus sem rendeleti jellegű, sem a felperesnek címzett, a közvetlen és a személyes érintettségnek egyszerre kell teljesülnie; az egyik hiánya elfogadhatatlanságot eredményez.</p>"
+    }
+  ]
+}

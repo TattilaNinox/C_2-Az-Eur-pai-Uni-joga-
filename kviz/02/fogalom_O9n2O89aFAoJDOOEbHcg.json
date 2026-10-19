@@ -1,0 +1,765 @@
+{
+  "id": "O9n2O89aFAoJDOOEbHcg",
+  "sorszam": 2,
+  "cim": "Az Európai Unió intézményei, főbb hatásköreik és egymáshoz való viszonyuk",
+  "generationType": "fogalom",
+  "title": "2. Az Európai Unió intézményei, főbb hatásköreik és egymáshoz való viszonyuk",
+  "questions": [
+    {
+      "question": "Az EUSZ 13. cikk szerinti intézményi fogalom mely ismérveket rögzít?",
+      "options": [
+        {
+          "text": "Az uniós ügynökségek és hivatalok a 13. cikk (1) bekezdése értelmében intézmények, ha a Szerződések hatáskört ruháznak rájuk.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 13. cikk taxatív listája negatív ismérv is: ami hiányzik belőle — ügynökség, hivatal, tanácsadó testület —, az e cikk értelmében nem intézmény. A helyes: intézmény csak a hét nevesített aktor; a szervek és hivatalok más szerződéses rendelkezések alapján működnek. A tévedés abból ered, hogy a hatáskör-telepítést összekeverik az intézményi státusszal."
+        },
+        {
+          "text": "Az Unió intézményei taxatív felsorolásban: Európai Parlament, Európai Tanács, Tanács, Bizottság, Európai Unió Bírósága, Európai Központi Bank és Számvevőszék.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 13. cikk (1) bekezdése zárt katalógust ad, és ezzel egyben negatív ismérvet is: ami a listából hiányzik, az e cikk értelmében nem „intézmény”. Az Unió saját intézményi kerettel rendelkezik, amelynek célja az értékek érvényesítése, a célkitűzések előmozdítása és a politikák egységességének biztosítása. A Gazdasági és Szociális Bizottság, a Régiók Bizottsága, az ügynökségek és a főképviselő ezért szerv, tanácsadó testület vagy személyi kapocs, nem nyolcadik intézmény."
+        },
+        {
+          "text": "Az egyes intézmények csak a Szerződésekben rájuk ruházott hatáskörök határain belül, az ott meghatározott eljárások, feltételek és célok szerint járhatnak el, és jóhiszeműen, kölcsönösen együttműködnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 13. cikk (2) bekezdése egyszerre hatásköri fegyelem és intézményközi lojalitás. Az intézmények nem vindikálhatnak általános hatáskört a többi intézmény rovására, és az ultra vires fellépés tilos. A kölcsönös jóhiszemű együttműködés az intézmények egymás közötti viszonyában érvényesül, míg a tagállamokkal szembeni lojális együttműködést az EUSZ 4. cikk (3) bekezdése rendezi. A részletes eljárási szabályokat az EUMSZ intézményi címe tölti ki."
+        },
+        {
+          "text": "A Gazdasági és Szociális Bizottság és a Régiók Bizottsága a 13. cikk taxatív listájának önálló intézményei.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két testület a 13. cikk (4) bekezdése szerint a Parlamentet, a Tanácsot és a Bizottságot segíti tanácsadói minőségben, intézményi státusz nélkül. A helyes: az (1) bekezdés hét intézményt sorol fel, a GSZB és a Régiók Bizottsága e listán kívül esik. A tévedés forrása, hogy a Szerződések más címei hatáskört telepítenek rájuk, és a gyakorló ezt összekeveri a 13. cikk szerinti intézményfogalommal."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "3809af914a74"
+    },
+    {
+      "question": "Miben különbözik az Unióra átruházott hatáskörök elhatárolása azok gyakorlásától?",
+      "options": [
+        {
+          "text": "A szubszidiaritás a kizárólagos uniós hatáskörökben is kötelező előzetes szűrő az uniós jogalkotáshoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szubszidiaritás az EUSZ 5. cikk szerint a nem kizárólagos hatáskörökre vonatkozik. A helyes: kizárólagos hatáskörben csak az Unió alkothat kötelező erejű jogi aktust (EUMSZ 2. cikk), a szubszidiaritás-teszt oda nem illeszkedik. A tévedés forrása a hatáskör-átruházás és a szubszidiaritás összekeverése: az előbbi minden hatáskörre áll, az utóbbi csak a megosztott és támogató sávokra."
+        },
+        {
+          "text": "A szubszidiaritás a nem kizárólagos hatáskörökben akkor engedi az uniós fellépést, ha a célt a tagállamok sem központi, sem regionális vagy helyi szinten nem tudják kielégítően megvalósítani, és az Unió szintjén jobban megvalósítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUSZ 5. cikk a szubszidiaritást a nem kizárólagos hatáskörökhöz köti, és kettős feltételt állít: a tagállami elégtelenség és az uniós szintű jobb megvalósíthatóság. A nemzeti parlamentek a szubszidiaritás és arányosság elvének alkalmazásáról szóló jegyzőkönyv szerinti eljárásban gondoskodnak a tiszteletben tartásról. Az arányosság ehhez képest azt kívánja, hogy az uniós intézkedés sem tartalmilag, sem formailag ne terjedjen túl a cél eléréséhez szükséges mértéken."
+        },
+        {
+          "text": "Az elhatárolásra a hatáskör-átruházás elve, a gyakorlásra a szubszidiaritás és az arányosság elve az irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUSZ 5. cikk a hatáskörök elhatárolására a hatáskör-átruházás elvét, gyakorlásukra a szubszidiaritást és az arányosságot rendeli. A hatáskör-átruházás szerint az Unió csak a Szerződésekben ráruházott hatáskörök határain belül jár el; minden egyéb a tagállamoknál marad. A szubszidiaritás és az arányosság ehhez képest a már átruházott, de nem kizárólagos hatáskörök gyakorlásának korlátai. Az intézmények e korlátok között maradnak; a 13. cikk (2) bekezdése ugyanezt a hatásköri fegyelmet ismétli meg intézményi nyelven."
+        },
+        {
+          "text": "Az arányosság elve szerint az Unió intézkedése mindig a lehető legszélesebb tartalmi és formai megoldást választhatja, ha a cél egyébként uniós.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az arányosság éppen a túlterjeszkedést tiltja. A helyes: az EUSZ 5. cikk szerint az Unió intézkedése sem tartalmilag, sem formailag nem terjedhet túl azon, ami a Szerződések célkitűzéseinek eléréséhez szükséges. A tévedés a célszerűségi érvelésből ered, amely a szükséges mértéket a maximális szabályozási sávval cseréli fel."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "ad43e4841f18"
+    },
+    {
+      "question": "Az Európai Parlament EUSZ 14. cikk szerinti összetételére és választására mi igaz?",
+      "options": [
+        {
+          "text": "A Parlament tagjait közvetlen és általános választójog alapján, szabad és titkos választásokon, ötéves időtartamra választják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 14. cikk (3) bekezdése a közvetlen, általános, szabad és titkos, ötéves választást rögzíti. A (4) bekezdés szerint a Parlament tagjai közül választja meg elnökét és tisztségviselőit. A 14. cikk a választás elveit adja; az EUMSZ 223. cikk ehhez képest a választási eljárás uniós szintű megalkotásának módját rendezi. A megbízatás így a polgári legitimáció időbeli kerete, nem a Tanács vagy a Bizottság naptárának függvénye."
+        },
+        {
+          "text": "A képviselők számát és elosztását a Bizottság a Tanács egyetértésével, egyszerű többséggel állapítja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az összetétel nem a Bizottság aktusa, és nem egyszerű többséggel dől el. A helyes: a 14. cikk (2) bekezdése szerint az Európai Tanács a Parlament kezdeményezésére és vele egyetértésben, egyhangúlag elfogadott határozatban határozza meg az összetételt, az arányosan csökkenő képviselet elveinek tiszteletben tartásával. A tévedés a rendes jogalkotási eljárás szereplőinek ráírásából ered: a képviseleti mátrix alkotmányos súlyú, egyhangú európai tanácsi határozat."
+        },
+        {
+          "text": "A Parlament megbízatása négy évre szól, és a képviselőket a nemzeti parlamentek delegálják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 14. cikk (3) bekezdése ötéves időtartamot és közvetlen, általános választójogot ír elő, nem nemzeti parlamenti delegálást. A helyes: a Parlament az Unió polgárainak képviselőiből áll, szabad és titkos választáson. A tévedés a korábbi, közvetett képviseleti modell emlékéből és a nemzeti parlamenti ciklusok négyéves szokásából ered."
+        },
+        {
+          "text": "A képviselők száma — az elnököt nem számítva — nem haladhatja meg a hétszázötvenet, a tagállamonkénti alsó küszöb legalább hat, a felső plafon kilencvenhat hely.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 14. cikk (2) bekezdése az arányosan csökkenő képviselet elvén nyugszik, és e három számszerű keretet adja. A polgárok képviselete arányosan csökkenő módon valósul meg: a kisebb tagállamok arányosan erősebben jelennek meg. Az Európai Tanács a Parlament kezdeményezésére és vele egyetértésben, egyhangú határozatban határozza meg az összetételt. Ez ritka, alkotmányos súlyú együttdöntés a két intézmény között."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "dc0ae08c84f2"
+    },
+    {
+      "question": "Az Európai Tanács EUSZ 15. cikk szerinti intézményi szerepére mi igaz?",
+      "options": [
+        {
+          "text": "Tagjai a tagállamok állam-, illetve kormányfői, valamint saját elnöke és a Bizottság elnöke; a külügyi és biztonságpolitikai főképviselő részt vesz a munkában.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 15. cikk (2) bekezdése hibrid tagságot rögzít: állam- és kormányfők, saját elnök, Bizottság elnöke. A főképviselő részt vesz a munkában, de nem a testület tagja ugyanabban a minőségben. A döntési főszabály a konszenzus, eltérő szerződéses rendelkezés hiányában; az elnököt viszont minősített többséggel, két és fél évre választják, a megbízatás egyszer megújítható. A főképviselő személyi híd a Tanács, a Bizottság és az Európai Tanács között, anélkül, hogy nyolcadik intézménnyé válna."
+        },
+        {
+          "text": "Az Európai Tanács elnökét a Parlament választja meg ötéves időtartamra, megújítás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elnököt nem a Parlament választja, és a megbízatás sem öt évre szól. A helyes: a 15. cikk (5) bekezdése szerint az Európai Tanács minősített többséggel, két és fél éves időtartamra választja meg elnökét; a megbízatás egy alkalommal megújítható, akadályoztatás vagy súlyos hivatali mulasztás esetén ugyanilyen eljárással megszüntethető. A tévedés a Bizottság elnökének parlamenti megválasztását (14. cikk (1) bekezdés) írja rá az Európai Tanács elnökére."
+        },
+        {
+          "text": "Az Európai Tanács adja az Uniónak a fejlődéséhez szükséges ösztönzést, meghatározza az általános politikai irányokat és prioritásokat, és nem lát el jogalkotási feladatokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 15. cikk (1) bekezdése a stratégiai iránymutatást telepíti ide, és kifejezetten eltiltja a jogalkotástól. Ezzel elválik a Tanácstól, amely a 14. cikk szerint a Parlamenttel közösen viseli a jogalkotást. A lisszaboni intézményesítés óta a 13. cikk taxatív listájának önálló intézménye, mégsem törvényhozó. A stratégiai iránymutatás nem válhat a 14. cikk szerinti együttdöntés helyettesítőjévé."
+        },
+        {
+          "text": "Az Európai Tanács a Parlamenttel közösen ellátja a rendes jogalkotási feladatokat, ha a napirend uniós rendeletet kíván.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 15. cikk (1) bekezdése kifejezetten kimondja, hogy az Európai Tanács nem lát el jogalkotási feladatokat. A helyes: a jogalkotást a Parlament és a Tanács közösen viseli a 14. cikk szerint. A tévedés a „Tanács” és az „Európai Tanács” névrokonságából ered: az előbbi társtörvényhozó, az utóbbi politikai irányadó."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "af5d67b34182"
+    },
+    {
+      "question": "Kizárólagos uniós hatáskörben ki alkothat kötelező erejű jogi aktust, és mely területek tartoznak ide?",
+      "options": [
+        {
+          "text": "Kizárólagos hatáskörben csak az Unió alkothat kötelező erejű jogi aktust; a tagállamok csak uniós felhatalmazás alapján vagy az uniós aktusok végrehajtása céljából.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 2. cikk a hatáskörgyakorlás típusait rögzíti, és ezzel az intézmények mozgásterét is előre meghatározza. A kizárólagos sávban a tagállami önálló jogalkotás főszabály szerint ki van zárva. A felhatalmazás és a végrehajtás a két kivételes csatorna, amelyen a tagállam mégis eljárhat. A 13. cikk (2) bekezdésének hatásköri fegyelme az intézményeket is ehhez a típushoz köti."
+        },
+        {
+          "text": "Az EUMSZ 3. cikk taxatíve sorolja a kizárólagos területeket, így a vámuniót, a belső piac működéséhez szükséges versenyszabályokat, az euroövezet monetáris politikáját, a tengeri biológiai erőforrások megőrzését a közös halászati politika keretében és a közös kereskedelempolitikát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 3. cikk zárt listát ad, és meghatározott feltételekkel a nemzetközi megállapodáskötést is ide sorolja. A taxativitás azt jelenti, hogy az intézmények nem bővíthetik a kizárólagos kört politikai célszerűséggel. A megosztott hatásköröktől (EUMSZ 4. cikk) és a párhuzamos szerkezetű kutatástól, fejlesztési együttműködéstől és humanitárius segítségnyújtástól el kell határolni. A monetáris politikában e kizárólagosság az EKB függetlenségének is alapja."
+        },
+        {
+          "text": "Kizárólagos hatáskörben a tagállamok a megosztott hatáskör szabályai szerint alkotnak, amíg az Unió nem lépett fel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megosztott hatáskör logikáját írja rá a kizárólagos sávra. A helyes: az EUMSZ 2. cikk szerint kizárólagos hatáskörben csak az Unió alkothat kötelező erejű jogi aktust; a tagállamok csak uniós felhatalmazás alapján vagy végrehajtás céljából. A tévedés forrása a megosztott hatáskör (4. cikk) preempciós szerkezete, ahol a tagállam addig alkothat, amíg az Unió nem gyakorolta a hatáskört."
+        },
+        {
+          "text": "A belső piac egésze kizárólagos uniós hatáskör, ezért a tagállamok semmilyen belső piaci szabályt nem alkothatnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a belső piac az EUMSZ 4. cikk (2) bekezdése szerint megosztott hatáskör fő területe. A helyes: kizárólagos a belső piac működéséhez szükséges versenyszabályok sávja (3. cikk), nem a belső piac egésze. A tévedés a „belső piac” és a „versenyszabályok” fogalmának összecsúszásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "78c2bc61289f"
+    },
+    {
+      "question": "Megosztott hatáskörben hogyan alakul az Unió és a tagállamok mozgástere?",
+      "options": [
+        {
+          "text": "Ha az Unió megosztott hatáskörben egyszer fellépett, a terület egésze automatikusan kizárólagos uniós hatáskörré válik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (25.) jegyzőkönyv egyetlen cikke szerint a hatáskör gyakorlása kizárólag azokra az elemekre terjed ki, amelyekre a szóban forgó uniós fellépés vonatkozik, és nem a terület egészére. A helyes: a preempció elemre szabott, nem az egész címre. A tévedés a kizárólagos hatáskör (3. cikk) zárt jellegét írja rá a megosztott sávra."
+        },
+        {
+          "text": "A kutatás, a fejlesztési együttműködés és a humanitárius segítségnyújtás párhuzamos szerkezetű: az uniós hatáskör gyakorlása nem akadályozhatja a tagállamokat saját hatásköreik gyakorlásában.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a megosztott hatáskör preempciós főszabályától elváló, sajátos típus. Az Unió fellépése itt nem zárja ki a tagállami párhuzamos intézkedést. A gazdaság- és foglalkoztatáspolitika összehangolása (EUMSZ 5. cikk) és a KKBP sajátos módszere (EUMSZ 2. cikk (4) bekezdés) további, nem klasszikus megosztott sávok. Az intézmények viszonyát e típusok döntően befolyásolják: a rendes jogalkotásban a Parlament és a Tanács együttdöntése a jellemző."
+        },
+        {
+          "text": "Megosztott hatáskörben a tagállamok csak akkor alkothatnak, ha az Unió kifejezett felhatalmazást ad nekik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felhatalmazási kivétel a kizárólagos hatáskör (EUMSZ 2. cikk) sajátja. A helyes: megosztott hatáskörben a tagállamok addig alkothatnak, amíg az Unió nem gyakorolta a hatáskört, és újra gyakorolhatják, ha az Unió lemondott a gyakorlásról. A tévedés a két hatáskörtípus modalitását cseréli fel."
+        },
+        {
+          "text": "Megosztott hatáskörben mind az Unió, mind a tagállamok alkothatnak; a tagállamok csak annyiban gyakorolhatják hatáskörüket, amennyiben az Unió nem gyakorolta, és akkor gyakorolhatják újra, ha az Unió lemondott a gyakorlásról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 2. cikk a preempció és a visszaengedés kettős szerkezetét adja. A megosztott hatáskörök gyakorlásáról szóló (25.) jegyzőkönyv szerint, amikor az Unió egy adott területen fellép, a hatáskör gyakorlása kizárólag azokra az elemekre terjed ki, amelyekre a szóban forgó uniós fellépés vonatkozik, és nem a terület egészére. A 4. cikk (2) bekezdése a fő területeket sorolja: belső piac, kohézió, mezőgazdaság a tengeri biológiai erőforrások megőrzése kivételével, környezet, fogyasztóvédelem, közlekedés, energia, a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "53e7c9aababa"
+    },
+    {
+      "question": "Mely megállapítások állják meg a helyüket az Európai Parlament jogalkotási és ellenőrző szerepéről?",
+      "options": [
+        {
+          "text": "Kiemelt személyi hatáskör, hogy a Parlament megválasztja a Bizottság elnökét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 14. cikk (1) bekezdése a végrehajtó testület politikai felelősségének első láncszemét a polgári képviselethez kapcsolja. A Bizottság elnökének megválasztása nem a Tanács vagy az Európai Tanács egyedüli aktusa a parlamenti szakaszban. A 234. cikk szerinti bizalmatlanság e választó hatáskör tükörképe: a testület egészét a Parlament buktathatja. A 13. cikk (2) bekezdésének lojalitása a kinevezési és a szankciós oldalt is összeköti."
+        },
+        {
+          "text": "A Parlament a Tanáccsal közösen ellátja a jogalkotási és költségvetési feladatokat, és a Szerződésekben meghatározott feltételek szerint politikai ellenőrzési és konzultatív feladatokat lát el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUSZ 14. cikk (1) bekezdése szerint: „Az Európai Parlament, a Tanáccsal közösen, ellátja a jogalkotási és költségvetési feladatokat.” A politikai ellenőrzés és a konzultáció nem általános szupervízió, hanem a Szerződésekben szabott feltételekhez kötött. A lisszaboni együttdöntés intézményi magja ez, szemben az Európai Tanács jogalkotástól eltiltott szerepével. A költségvetési feladat a 287. cikk szerinti számvevőszéki igazoló nyilatkozatra és éves jelentésre is támaszkodik."
+        },
+        {
+          "text": "A Parlament általános utasítási jogot gyakorol a Bizottság felett minden uniós szakpolitikában.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a politikai ellenőrzés nem utasítási hatalom. A helyes: a 14. cikk szerinti ellenőrzés a Szerződésekben meghatározott feltételekhez kötött; a 230. cikk a kérdezési jogot adja, a 225. cikk indokolási terhet, a 234. cikk bizalmatlanságot. A tévedés a nemzeti parlamenti kormányellenőrzés modelljét írja rá az uniós intézményközi viszonyra."
+        },
+        {
+          "text": "A jogalkotási feladatokat az Európai Tanács a Parlament egyetértésével egyedül látja el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Európai Tanács a 15. cikk (1) bekezdése szerint nem lát el jogalkotási feladatokat. A helyes: a jogalkotást a Parlament és a Tanács közösen viseli a 14. cikk (1) bekezdése szerint. A tévedés a „Tanács” és az „Európai Tanács” felcseréléséből, valamint az egyetértési eljárások ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "39dbfe1721a2"
+    },
+    {
+      "question": "Mi a jogkövetkezménye annak, ha a Parlament elfogadja a Bizottsággal szembeni bizalmatlansági indítványt?",
+      "options": [
+        {
+          "text": "A bizalmatlanság elfogadása automatikusan megszünteti a főképviselő Tanácsban viselt összes tisztségét is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizalmatlanság nem szünteti meg automatikusan a főképviselő Tanácsban viselt szerepét. A helyes: az EUMSZ 234. cikk szerint a főképviselőnek a bizottsági tagságról kell lemondania; a Tanácsban viselt minőség ettől elválik. A tévedés a főképviselő kettős minőségének egyszálú olvasatából ered, amely a 15. cikk (2) bekezdése szerinti európai tanácsi részvételt is a testületi bukás tárgyává tenné."
+        },
+        {
+          "text": "A bizalmatlansági indítvány elfogadásához elegendő a leadott szavazatok egyszerű többsége.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizalmatlansághoz nem elég az egyszerű többség. A helyes: az EUMSZ 234. cikk a leadott szavazatok kétharmadát és az Európai Parlament tagjainak többségét követeli meg együttesen, és az indítványról legkorábban három nap múlva, nyílt szavazással kell dönteni. A tévedés a 231. cikk mindennapi szavazási főszabályát (leadott szavazatok többsége) írja rá a politikai felelősség végső szankciójára."
+        },
+        {
+          "text": "A Bizottság tagjainak testületileg le kell mondaniuk, a külügyi és biztonságpolitikai főképviselőnek pedig le kell mondania a bizottsági tagságról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 234. cikk a testületi politikai felelősség végső szankciója. A kettős küszöb a leadott szavazatok kétharmada és a tagok többsége; az indítványról legkorábban három nap múlva, nyílt szavazással kell dönteni. A főképviselő kettős minősége itt válik láthatóvá: a bizottsági tagság elvész, a Tanácsban viselt szerep nem a testületi bukás automatikus tárgya. Az új Bizottság kinevezéséig a lemondó tagok a folyamatban lévő ügyeket továbbra is ellátják."
+        },
+        {
+          "text": "Az utódul kinevezett bizottsági tagok hivatali ideje azon a napon jár le, amikor a testületileg lemondásra kötelezett tagok hivatali ideje lejárt volna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 234. cikk szerint a szankció nem hosszabbítja és nem rövidíti önkényesen a mandátumot: az utódok az eredeti lejárathoz igazodnak. A lemondásra kötelezett testület a 17. cikkel összhangban történő új kinevezésig hivatalban marad. Ez elválik a 247. cikk szerinti egyéni bírói felmentéstől, amely egyetlen tagot érint. A 13. cikk (2) bekezdésének lojalitása az ügyfolytonosságot is védi."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "1d0e9a4fa384"
+    },
+    {
+      "question": "Mely esetben állítható fel ideiglenes vizsgálóbizottság, és milyen tilalmak kötik?",
+      "options": [
+        {
+          "text": "A vizsgálat kizárt, ha az állítólagos tényállást bíróság vizsgálja, és a bírósági eljárás még nem zárult le, továbbá nem sértheti a más intézményekre vagy szervekre ruházott hatásköröket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 226. cikk kettős tilalmat állít: intézményközi hatásköri kímélet és párhuzamos bírósági eljárás tilalma. A vizsgálati jog részletes szabályait a Parlament saját kezdeményezésű, különleges jogalkotási eljárásban, a Tanács és a Bizottság egyetértését követően elfogadott rendeletekben állapítja meg. A 13. cikk (2) bekezdésének lojalitása itt intézményközi zárként jelenik meg."
+        },
+        {
+          "text": "A vizsgálóbizottság felállításához elegendő bármely képviselő egyéni indítványa.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vizsgálóbizottság nem egyéni indítványra jön létre. A helyes: az EUMSZ 226. cikk a Parlament tagjai egynegyedének kérelmét követeli meg, és a tárgy az uniós jog végrehajtása során felmerülő állítólagos jogsértés vagy hivatali visszásság. A tévedés a petíció (227. cikk) egyéni indítási logikáját keveri a vizsgálóbizottság kollektív küszöbével."
+        },
+        {
+          "text": "A Parlament tagjai egynegyedének kérelmére ideiglenes vizsgálóbizottságot állíthat fel az uniós jog végrehajtása során felmerülő állítólagos jogsértések vagy hivatali visszásságok kivizsgálására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 226. cikk a politikai ellenőrzés legerősebb, egyben a többi intézmény hatáskörét kímélő eszköze. A küszöb a tagok egynegyede, nem a többség. A tárgy az uniós jog végrehajtása során felmerülő állítólagos jogsértés vagy hivatali visszásság. A bizottság a jelentés benyújtása után feloszlik, tehát nem állandó kontrollszerv."
+        },
+        {
+          "text": "A vizsgálóbizottság állandó szerv, amely a Parlament teljes megbízatása alatt folyamatosan működik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 226. cikk ideiglenes vizsgálóbizottságot rendel, amely jelentésének benyújtása után feloszlik. A helyes: nem állandó kontrollszerv, hanem egyedi ügyre létrehozott, majd megszűnő bizottság. A tévedés a parlamenti állandó bizottságok modelljét írja rá a 226. cikk szerinti ideiglenes vizsgálatra."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "29d67e495b5b"
+    },
+    {
+      "question": "Miben tér el a petíció az ombudsmani panasztól az intézményekkel szembeni polgári jogok körében?",
+      "options": [
+        {
+          "text": "Petíciót bárki, érintettség nélkül is benyújthat, ha az ügy az Unió valamely politikájához kapcsolódik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a petíció nem actio popularis, és érintettség nélkül nem indítható. A helyes: az EUMSZ 227. cikk szerint az ügynek az Unió tevékenységi területére kell tartoznia, és a kérelmezőt közvetlenül kell érintenie. Jogosult az uniós polgár, valamint a tagállamban lakóhellyel vagy létesítő okirat szerinti székhellyel rendelkező természetes vagy jogi személy, egyénileg vagy közösen. A tévedés az érintettség nélküli közérdekű panasz modelljét írja rá a parlamenti petícióra."
+        },
+        {
+          "text": "A petíció a Parlamenthez címzett alanyi jog uniós tevékenységi ügyben és közvetlen érintettségnél; eltérés az ombudsmantól: a petíciónál nincs a 228. cikk szerinti bírósági kizárás, és a tárgy nem csak a hivatali visszásság.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 227. cikk a petíciót alanyi jogként rögzíti (uniós tevékenységi terület + közvetlen érintettség). A 228. cikktől az elhatárolás: a petíció parlamenti eljárást indít, nem hivatali visszásság-vizsgálatot, és a 227. cikk nem zárja ki a bírósági eljárás alatt/után álló ügyeket úgy, ahogy a 228. cikk (1) bekezdése. Jogosult az uniós polgár, valamint a tagállamban lakóhellyel vagy létesítő okirat szerinti székhellyel rendelkező természetes vagy jogi személy."
+        },
+        {
+          "text": "Az ombudsman az igazságszolgáltatási hatáskörében eljáró Bíróság tevékenysége felett is teljes vizsgálati jogot gyakorol.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 228. cikk kifejezetten kivételt tesz az igazságszolgáltatási hatáskörében eljáró Európai Unió Bírósága alól. A helyes: az ombudsman a többi uniós intézmény, szerv és hivatal hivatali visszásságait vizsgálja; a bírói tevékenység e körön kívül esik. A tévedés a politikai és a bírói ellenőrzés összecsúsztatásából ered."
+        },
+        {
+          "text": "Az ombudsman a hivatali visszásságot vizsgálja — az igazságszolgáltatási hatáskörében eljáró Bíróság kivételével —, és tilos a vizsgálat, ha a tényállás bírósági eljárás tárgyát képezi vagy képezte; a petíciótól eltérően tehát bírósági kizárás van.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 228. cikk (1) bekezdése szerint az ombudsman kivizsgálja a panaszokat, „kivéve ha az állítólagos tényállás bírósági eljárás tárgyát képezi vagy képezte” — a tilalom a múltra is kiterjed. Kivétel továbbá az igazságszolgáltatási hatáskörében eljáró Bíróság. A petíció (227. cikk) ennél szélesebb tárgyi kört (uniós tevékenységi ügy) fed, bírósági kizárás nélkül. A panaszjog személyi köre a petícióhoz hasonló."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "fd6ddbd49888"
+    },
+    {
+      "question": "A Bizottság testületi döntésének és függetlenségének fogalmára mi igaz?",
+      "options": [
+        {
+          "text": "Egyetlen biztos felmentését a Parlament kétharmados szavazattal, bírói eljárás nélkül elrendelheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyéni felmentés bírói, nem parlamenti. A helyes: az EUMSZ 247. cikk szerint a Bíróság a Tanács egyszerű többségű vagy a Bizottság kérelmére mentheti fel a tagot, ha már nem felel meg a feltételeknek, vagy súlyos kötelezettségszegést követett el. A tévedés a 234. cikk testületi bizalmatlanságát keveri az egyéni szankcióval."
+        },
+        {
+          "text": "A Bizottság tagjai tartózkodnak a feladataikkal összeegyeztethetetlen cselekedetektől; a tagállamok tiszteletben tartják függetlenségüket, és nem kísérlik meg befolyásolásukat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 245. cikk kettős köteléket állít: a biztosok saját tartózkodása és a tagállami befolyásolási tilalom. Hivatali idejük alatt sem kereső, sem ingyenes egyéb foglalkozás nem folytatható; a hivatalba lépéskori kötelezettségvállalás a mandátum utáni kinevezésekre is kiterjed. A szankció bírói: a Bíróság a Tanács egyszerű többségű vagy a Bizottság kérelmére a 247. cikk szerint felmenthet. A 13. cikk (2) bekezdésének ultra vires tilalma a személyi oldalon az utasíthatatlanságban ölt testet."
+        },
+        {
+          "text": "A Bizottság a tagok többségével jár el; a határozatképesség feltételeit az eljárási szabályzat határozza meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 250. cikk szerint a Bizottság a tagok többségével jár el, és a határozatképességet az eljárási szabályzat tölti ki. A biztosok nem a küldő tagállam utasítható megbízottai a döntéshozatalban. A 249. cikk (1) bekezdése az eljárási szabályzat közzétételét kötelezővé teszi, tehát a kvórum nem maradhat belső titok. A 234. cikk szerinti bizalmatlanság a testület egészét buktatja; a 250. cikk a mindennapi többséget adja."
+        },
+        {
+          "text": "A Bizottság döntéseit a küldő tagállamok utasításai szerint hozza, ha a napirend nemzeti érdeket érint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 245. cikk a befolyásolási kísérletet kifejezetten tiltja, a 250. cikk pedig testületi többséget követel. A helyes: a biztosok az Unió általános érdekében, utasíthatatlanul járnak el; a kollegialitás a nemzeti utasítási láncot kizárja. A tévedés a Tanács tagállami képviseleti logikáját írja rá a Bizottságra."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "b1a7a9fc8d43"
+    },
+    {
+      "question": "Az előzetes döntéshozatal EUMSZ 267. cikk szerinti fogalmára mely állítások helyesek?",
+      "options": [
+        {
+          "text": "Az előzetes döntés kizárólag a Bizottság indítványára indítható, a nemzeti bíróság csak észrevételt tehet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az előterjesztő a nemzeti bíróság, nem a Bizottság. A helyes: a 267. cikk a tagállami bíróság kérelmére telepíti a hatáskört; a Bizottság a 258. cikk szerinti kötelezettségszegési eljárásban más szerepet kap. A tévedés a kötelezettségszegési és az előzetes döntési csatorna felcseréléséből ered."
+        },
+        {
+          "text": "Minden tagállami bíróság köteles minden uniós jogi kérdést azonnal a Bíróság elé terjeszteni, függetlenül attól, hogy az ítéletéhez szükséges-e.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nem utolsó fokon eljáró bíróság csak akkor kérhet, ha úgy ítéli meg, hogy ítélete meghozatalához szükség van a kérdés eldöntésére. A helyes: a 267. cikk a szükségességi szűrőt és az utolsó fokú kötelezettséget állítja. A tévedés a kötelező kérdezést a jogosultsági sávra is kiterjeszti."
+        },
+        {
+          "text": "Ha a nemzeti jog szerint nincs jogorvoslati lehetőség a bíróság határozata ellen, e bíróság köteles az Európai Unió Bíróságához fordulni, ha az uniós jog értelmezése vagy érvényessége az ügy eldöntéséhez szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 267. cikk a kérdezési jogosultság és a kérdezési kötelezettség kettős szerkezetét adja. A kötelezettség az utolsó fokon eljáró bíróságra esik. A tagállami hatékony jogvédelem (EUSZ 19. cikk) a kérdésfeltevési kötelezettségben ölt testet. A 263. cikk privilegiált semmisségi keresetétől abban különbözik, hogy a magánfél a nemzeti bírón keresztül éri el Luxembourgot."
+        },
+        {
+          "text": "A Bíróság hatáskörrel rendelkezik a Szerződések értelmezésére, valamint az uniós intézmények, szervek vagy hivatalok jogi aktusainak érvényességére és értelmezésére vonatkozó előzetes döntésre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 267. cikk a nemzeti bíróság és a Bíróság közötti hatáskörmegosztás csuklója. Az EUSZ 19. cikk (3) bekezdésének b) pontja e cikkben kapja meg az eljárási szerkezetet. A nem utolsó fokon eljáró bíróság kérhet, ha az ítéletéhez szükséges; az utolsó fokon eljáró bíróság köteles kérdezni. Fogvatartott személyt érintő ügyben a Bíróság a lehető legrövidebb időn belül határoz."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "aca94d4c9cbf"
+    },
+    {
+      "question": "A semmisségi kereset milyen aktusokra és milyen felperesi körre nyílik meg?",
+      "options": [
+        {
+          "text": "Privilegiált felperes a tagállam, a Parlament, a Tanács és a Bizottság; a Számvevőszék, az EKB és a Régiók Bizottsága előjogaik védelmében indíthatnak keresetet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 263. cikk a felperesi legitimációt több szinten szabályozza: privilegiált a tagállam, a Parlament, a Tanács és a Bizottság; a Számvevőszék, az EKB és a Régiók Bizottsága előjogaik védelmében indíthatnak keresetet. A magánfél a neki címzett, a közvetlenül és személyében érintő aktus, valamint a közvetlenül érintő, végrehajtást nem igénylő rendeleti jellegű aktus ellen indíthat. A határidő két hónap a kihirdetéstől, a közléstől vagy a tudomásszerzéstől. A 277. cikk szerinti exceptio illegalitatis e két hónapos zár relatív áttörése általános hatályú aktusnál."
+        },
+        {
+          "text": "A Bíróság megvizsgálja a jogalkotási aktusok, valamint a Tanács, a Bizottság és az EKB jogi aktusainak jogszerűségét — ajánlás és vélemény kivételével —, továbbá a Parlament és az Európai Tanács harmadik személyekre joghatással járó aktusait.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 263. cikk a jogszerűség központi fegyvere, és a vizsgálandó aktusok körét zártan adja: jogalkotási aktusok, a Tanács, a Bizottság és az EKB jogi aktusai — ajánlás és vélemény kivételével —, továbbá a Parlament és az Európai Tanács harmadik személyekre joghatással járó aktusai, valamint a szervek és hivatalok hasonló aktusai. A jogalapok: hatáskör hiánya, lényeges eljárási szabályok megsértése, a Szerződések vagy az alkalmazásukra vonatkozó rendelkezés megsértése, hatáskörrel való visszaélés. A megalapozott kereset joghatása a 264. cikk szerint a megtámadott aktus semmissé nyilvánítása; a Bíróság szükség esetén megjelölheti a fennmaradó joghatásokat."
+        },
+        {
+          "text": "Természetes személy semmisségi keresetet csak a Bizottság előzetes engedélyével indíthat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magánfél kereshetőségét nem a Bizottság engedélyezi. A helyes: az EUMSZ 263. cikk negyedik albekezdése szerint bármely természetes vagy jogi személy a neki címzett vagy őt közvetlenül és személyében érintő aktus, illetve a közvetlenül érintő, végrehajtást nem igénylő rendeleti jellegű aktus ellen indíthat eljárást. A tévedés a kötelezettségszegési eljárás bizottsági kapuőri szerepét írja rá a semmisségi keresetre."
+        },
+        {
+          "text": "Ajánlás és vélemény ellen is teljes semmisségi kereset indítható, mert uniós aktusok.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 263. cikk kifejezetten kivételt tesz az ajánlások és vélemények alól. A helyes: a Bíróság a Tanács, a Bizottság és az EKB jogi aktusait vizsgálja, kivéve az ajánlásokat és a véleményeket; a joghatással járó aktusok a vizsgálandó kör. A tévedés a kötelező és a nem kötelező aktusok fogalmának összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "2bcef153c746"
+    },
+    {
+      "question": "Milyen tartamban és milyen feltételekkel választják az Európai Unió Bíróságának bíráit?",
+      "options": [
+        {
+          "text": "A Bíróság bíráit és főtanácsnokait a tagállamok kormányai közös megegyezéssel, hatéves időtartamra nevezik ki; megbízatásuk megújítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUSZ 19. cikk (2) bekezdése és az EUMSZ 253. cikk ezt a kinevezési rendet adja. A függetlenséghez nem férhet kétség; a jelöltek a nemzeti legfelsőbb bírói tisztség feltételeinek felelnek meg, vagy elismert szakértelemmel rendelkező jogtudósok. A 255. cikk szerinti hétfős bizottság a kinevezés előtti alkalmassági véleményt ad. Az elnököt a bírák maguk közül három évre választják, és újraválasztható."
+        },
+        {
+          "text": "A Bíróság bíráit az Európai Parlament választja meg ötéves időtartamra, megújítás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bírói kar nem parlamenti választással áll fel, és a megbízatás sem öt évre szól. A helyes: az EUMSZ 253. cikk szerint a tagállamok kormányai közös megegyezéssel, hat évre nevezik ki a bírákat és főtanácsnokokat, a 255. cikk szerinti bizottsággal folytatott konzultáció után; a megbízatás megújítható. A tévedés a Bizottság elnökének parlamenti megválasztását (EUSZ 14. cikk) írja rá a bírói karra."
+        },
+        {
+          "text": "A bírák függetlenségéhez nem férhet kétség; a jelölteknek a nemzeti legfelsőbb bírói tisztség betöltéséhez szükséges feltételeknek kell megfelelniük, vagy elismert szakértelemmel rendelkező jogtudósoknak kell lenniük.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUSZ 19. cikk (2) bekezdése és az EUMSZ 253. cikk a bírói személyi küszöböt a függetlenséghez és a legfelsőbb bírói vagy elismert jogtudósi mércéhez köti. A 255. cikk szerinti hétfős bizottság a kinevezés előtti alkalmassági véleményt ad. A 252. cikk szerinti főtanácsnoki létszám külön tisztségre vonatkozik, nem a bírák tartamának vagy feltételeinek szabálya."
+        },
+        {
+          "text": "A Törvényszék bíráira ugyanaz a legfelsőbb bírói vagy jogtudósi mérce vonatkozik, mint a Bíróság bíráira.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Törvényszék személyi küszöbe enyhébb, mint a Bíróságé. A helyes: az EUMSZ 254. cikk a felsőbb bírói tisztségbe történő kinevezéshez szükséges alkalmasságot követeli, míg a 253. cikk a Bíróságnál a legfelsőbb bírói tisztséget vagy az elismert jogtudósi szakértelmet. A függetlenséghez mindkét fórumnál nem férhet kétség. A tévedés a 19. cikk egységes intézményfogalmát a személyi mércék azonosságával azonosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "ef2b5b306a79"
+    },
+    {
+      "question": "Az Európai Központi Bank célhierarchiája és személyi függetlensége hogyan épül fel?",
+      "options": [
+        {
+          "text": "A KBER elsődleges célja az árstabilitás fenntartása; e cél veszélyeztetése nélkül támogatja az Unión belüli általános gazdaságpolitikát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 282. cikk (2) bekezdése szerint a KBER elsődleges célja az árstabilitás fenntartása, és e cél veszélyeztetése nélkül támogatja az Unión belüli általános gazdaságpolitikát. Az EKB jogi személy, és kizárólag ő jogosult az euro kibocsátásának engedélyezésére. Hatásköreinek gyakorlásában és saját pénzügyei kezelésében függetlenséget élvez, amelyet az intézmények és a tagállami kormányok tiszteletben tartani kötelesek. A 15. cikk szerinti politikai iránymutatás a monetáris célhierarchiát nem írhatja felül."
+        },
+        {
+          "text": "Az Igazgatóság tagjainak megbízatása nyolc évre szól, és nem újítható meg; csak tagállami állampolgár lehet tag.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 283. cikk (2) bekezdése szerint: „Megbízatásuk nyolc évre szól és nem újítható meg.” A kinevezés az Európai Tanács minősített többsége, a Tanács ajánlása a Parlamenttel és a Kormányzótanáccsal folytatott konzultáció után, elismert monetáris vagy banki tekintély alapján. A meg nem újíthatóság a 245. cikk szerinti biztosi mandátumtól is élesebben védi a függetlenséget. A Kormányzótanács az Igazgatóság plusz az euroövezeti jegybankelnökök."
+        },
+        {
+          "text": "A Számvevőszék a monetáris politika érdemi tartalmát is teljes körűen felülvizsgálhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a számvevőszéki vizsgálat e sávban korlátozott. A helyes: a KBER és az EKB alapokmányáról szóló jegyzőkönyv 27.2. cikke szerint az EUMSZ 287. cikk rendelkezéseit csak az EKB ügyvezetése hatékonyságának vizsgálatára kell alkalmazni. A tévedés a 287. cikk általános ellenőrzési mandátumát írja rá a monetáris érdemi revízióra."
+        },
+        {
+          "text": "Az EKB elsődleges célja a foglalkoztatás maximalizálása; az árstabilitás csak másodlagos szempont.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a foglalkoztatás nem előzheti meg az árstabilitást. A helyes: az EUMSZ 282. cikk (2) bekezdése szerint a KBER elsődleges célja az árstabilitás fenntartása, és csak e cél veszélyeztetése nélkül támogatja az általános gazdaságpolitikát. A tévedés a gazdaságpolitikai célokat a monetáris elsődlegesség elé helyezi, noha a Szerződés fordított hierarchiát állít."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "bc81e770be75"
+    },
+    {
+      "question": "Mi következik abból, ha a Bizottság kötelezettségszegést állapít meg egy tagállamnál?",
+      "options": [
+        {
+          "text": "A Bizottság indokolással ellátott véleményt ad, miután a tagállamnak lehetőséget biztosított észrevételei megtételére; ha a tagállam a határidőn belül nem teljesít, a Bizottság a Bírósághoz fordulhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 258. cikk a perelőfeltételként kontradiktórius közigazgatási szakaszt állít. A Bírósághoz fordulás lehetőség, nem automatizmus. A 13. cikk (2) bekezdésének hatásköri fegyelme a Bizottságot a véleményben foglaltakhoz köti: a kereset tárgya nem tágítható a véleményen túlra. A 259. cikk szerinti tagállam–tagállam per ettől a csatornától elválik, de ugyanoda, a Bírósághoz tart."
+        },
+        {
+          "text": "Tagállam másik tagállam ellen közvetlenül a Bírósághoz fordulhat anélkül, hogy az ügyet előbb a Bizottság elé tenné.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tagállam–tagállam kereset nem közvetlenül indul. A helyes: az EUMSZ 259. cikk szerint mielőtt egy tagállam keresetet nyújt be egy másik ellen, az ügyet a Bizottság elé kell terjesztenie; ha a Bizottság három hónapon belül nem ad véleményt, a kereset a vélemény hiányától függetlenül megindítható. A tévedés a 258. cikk bizottsági keresetét és a 259. cikk tagállami keresetét keveri össze."
+        },
+        {
+          "text": "A Bizottság indokolással ellátott véleménye önmagában végrehajtható bírságot szab ki a tagállamra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az indokolással ellátott vélemény nem bírságcím és nem végrehajtható szankció. A helyes: az EUMSZ 258. cikk szerinti vélemény a perelőfeltétel; a fizetési szankció csak a későbbi, 260. cikk szerinti bírósági szakaszban jöhet szóba. A tévedés a közigazgatási szakaszt a bírói szankcióval azonosítja."
+        },
+        {
+          "text": "A Bizottság a kereset tárgyát a véleményben foglaltakhoz köti: a Bírósághoz fordulás a 258. cikk szerint lehetőség, és a kereset a véleményen túlra nem tágítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 258. cikk második bekezdése szerint, ha a tagállam a határidőn belül nem tesz eleget a véleményben foglaltaknak, a Bizottság a Bírósághoz fordulhat — ez lehetőség, nem automatizmus. A 13. cikk (2) bekezdésének hatásköri fegyelme a Bizottságot a véleményben foglaltakhoz köti: a kereset tárgya nem tágítható a véleményen túlra. A 260. cikk szerinti bírósági megállapítás és fizetési szankció későbbi szakasz, nem a Bizottság első megállapításának közvetlen jogkövetkezménye."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "9706d639805c"
+    },
+    {
+      "question": "Miben tér el a Tanács az Európai Tanácstól a jogalkotásban és a döntési küszöbökben?",
+      "options": [
+        {
+          "text": "Az Európai Tanács a Parlamenttel közösen fogadja el a rendes jogalkotási eljárás szerinti rendeleteket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Európai Tanács nem társtörvényhozó a rendes jogalkotásban. A helyes: az EUSZ 15. cikk (1) bekezdése kifejezetten eltiltja a jogalkotástól; a rendeleteket a Parlament és a Tanács fogadja el az EUSZ 14. cikk (1) bekezdése szerinti közös feladat keretében. A tévedés a „Tanács” és az „Európai Tanács” felcseréléséből ered."
+        },
+        {
+          "text": "A Tanácsban a minősített többség mindig a tagok egyszerű számbeli többségét jelenti, népességi küszöb nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyszerű többség és a minősített többség elválik. A helyes: az EUMSZ 238. cikk (1) bekezdése szerint egyszerű többségnél a tagok többsége elég; a minősített többség népességi küszöbhöz is kötött, a 16. cikk (4) bekezdése és a 238. cikk szerint. A tévedés a két döntési küszöb összecsúsztatásából ered."
+        },
+        {
+          "text": "A Tanács a Parlamenttel közösen ellátja a jogalkotási és költségvetési feladatokat, míg az Európai Tanács nem lát el jogalkotási feladatokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUSZ 14. cikk (1) bekezdése a Tanácsot társtörvényhozóvá teszi, a 15. cikk (1) bekezdése az Európai Tanácsot stratégiai irányadóvá és jogalkotástól eltiltottá. A közösségi módszer a Tanácsban dől el, nem az Európai Tanácsban. A 236. cikk mégis az Európai Tanácsot teszi a tanácsi formációk listájának és elnökségének urává, két kivétellel. A névrokonság ezért nem jelent hatásköri azonosságot."
+        },
+        {
+          "text": "Ha a Tanács nem a Bizottság vagy a főképviselő javaslata alapján jár el, a minősített többséghez a tanácsi tagok legalább hetvenkét százalékának a szavazata szükséges, akik egyben az Unió népességének legalább hatvanöt százalékát képviselik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 238. cikk (2) bekezdése a javaslat nélküli sávot szigorítja. A főszabályos minősített többség a 16. cikk (4) bekezdése szerinti ötvenöt/hatvanöt százalékos szerkezet; a 238. cikk ettől eltérő, hetvenkét százalékos küszöböt állít. A tartózkodás nem akadálya az egyhangúságot igénylő aktus elfogadásának. A képviseletnél bármely tag legfeljebb még egy másik tag nevében járhat el (239. cikk)."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "aa1e06df35eb"
+    },
+    {
+      "question": "Milyen előfeltételekhez kötött a mulasztási kereset, és milyen korlát vonatkozik a magánfél panaszára?",
+      "options": [
+        {
+          "text": "A kereset csak akkor elfogadható, ha az érintett intézményt, szervet vagy hivatalt előzetesen felkérték, hogy járjon el, és a felkéréstől számított két hónapon belül nem foglalt állást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 265. cikk a cselekvésre való előzetes felhívást perelőfeltételként állítja. Ha két hónapon belül nincs állásfoglalás, további két hónap áll rendelkezésre a kereset megindítására. A 263. cikk semmisségi keresetének tükörképe ez: ott a megtámadott aktus, itt a hallgatás a jogsértés. A 15. cikk szerint jogalkotástól eltiltott Európai Tanács is mulasztó lehet, ha a Szerződés döntésre kötelezi."
+        },
+        {
+          "text": "Természetes vagy jogi személy csak akkor panaszolhat, ha az Unió valamely intézménye, szerve vagy hivatala elmulasztott neki címzendő jogi aktust — ajánlás és vélemény kivételével — meghozni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 265. cikk a magánfél legitimációját a címzetti aktus elmaradásához köti. A privilegiált felperesek — tagállamok és a többi intézmény — szélesebb körben fordulhatnak a Bírósághoz a Parlament, az Európai Tanács, a Tanács, a Bizottság vagy az EKB mulasztása miatt. A 266. cikk a mulasztást megállapító ítélet teljesítési kötelmét az érintett intézményre telepíti. A 268. cikk szerinti kártérítési per a 340. cikk felelősségi alakzatán nyugszik, és e teljesítési kötelmet nem helyettesíti."
+        },
+        {
+          "text": "Ajánlás és vélemény elmaradása miatt a magánfél ugyanúgy indíthat mulasztási keresetet, mint kötelező aktusnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 265. cikk a magánfél panaszánál kivételt tesz az ajánlások és vélemények alól. A helyes: csak a neki címzendő jogi aktus — ajánlás és vélemény kivételével — elmaradása alapozza meg a magánfél keresetét. A tévedés a 263. cikk ajánlás/vélemény kivételét figyelmen kívül hagyja a mulasztási oldalon."
+        },
+        {
+          "text": "A mulasztási kereset azonnal indítható, amint az intézmény hallgat, előzetes felhívás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az előzetes felhívás kötelező, a hallgatás önmagában nem nyit azonnali keresetet. A helyes: az EUMSZ 265. cikk szerint a kereset csak akkor elfogadható, ha az érintett intézményt előzetesen felkérték, hogy járjon el, és két hónapon belül nem foglalt állást; ezt követően további két hónap a kereseti határidő. A tévedés a semmisségi kereset két hónapos határidejét keveri a mulasztási előfeltétellel."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "82a91f4f358b"
+    },
+    {
+      "question": "A közös kül- és biztonságpolitika bírósági felülvizsgálatának határaira mi jellemző?",
+      "options": [
+        {
+          "text": "Főszabály szerint a Bíróság nem rendelkezik hatáskörrel a KKBP rendelkezései és az azok alapján elfogadott jogi aktusok tekintetében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 275. cikk a Bíróság hatáskörének főszabály szerinti kizárását rögzíti. A 15. cikk szerinti politikai irányítás így nem teljes immunitás, de nem is belső piaci semmisségi rend. A 13. cikk (2) bekezdésének hatásköri fegyelme a Bíróságot is a kivételekhez köti. A KKBP tehát a 263. cikk rendes tárgyain kívül esik, kivéve a szerződéses záradékokat."
+        },
+        {
+          "text": "A Bíróság a tagállami rendőrség intézkedéseinek arányosságát is teljes körűen felülvizsgálhatja a szabadságon, biztonságon és a jog érvényesülésén alapuló térségben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EUMSZ 276. cikk éppen ezt a felülvizsgálatot zárja ki. A helyes: a Bíróság nem vizsgálhatja a rendőrség vagy más bűnüldöző szerv intézkedésének érvényességét vagy arányosságát, sem a közrend és a belső biztonság tagállami gyakorlását. A tévedés a 267. cikk előzetes döntési lehetőségét a 276. cikk tilalmának kiüresítésére használná."
+        },
+        {
+          "text": "A KKBP minden aktusa a 263. cikk szerinti semmisségi keresettel támadható, mint a belső piaci rendeletek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KKBP aktusai főszabály szerint nem a 263. cikk rendes tárgyai. A helyes: az EUMSZ 275. cikk szerint a Bíróság nem rendelkezik hatáskörrel a KKBP rendelkezései és aktusai tekintetében, kivéve az EUSZ 40. cikk ellenőrzését és a személyi korlátozó intézkedések felülvizsgálatát. A tévedés a belső piaci semmisségi rendet írja rá a külpolitikai sávra."
+        },
+        {
+          "text": "Kivételként a Bíróság ellenőrzi az EUSZ 40. cikk betartását, valamint a természetes vagy jogi személyekre vonatkozó tanácsi korlátozó intézkedések jogszerűségét a 263. cikk negyedik albekezdése szerinti kereset útján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 275. cikk két kivételt nyit: a KKBP és a többi uniós politika közti hatásköri fal ellenőrzése, valamint a személyi szankciók semmisségi felülvizsgálata. A magánfél tehát a személyi korlátozó intézkedés ellen a rendes semmisségi állással léphet. A KKBP általános bírósági felülvizsgálattá nem válik. A 276. cikk ehhez képest a rendőrségi és büntető együttműködésnél a tagállami erőszakmonopólium magvát védi."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "f6cb20c4ddd1"
+    },
+    {
+      "question": "A Számvevőszék ellenőrzési mandátumának mely elemei állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A Számvevőszék a 13. cikk taxatív listáján kívül eső tanácsadó szerv, nem intézmény.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Számvevőszék a 13. cikk (1) bekezdése szerinti hét intézmény egyike. A helyes: a 13. cikk taxatív listája a Számvevőszéket intézményként nevezi meg; a GSZB és a Régiók Bizottsága a (4) bekezdés szerinti tanácsadók. A tévedés a külső ellenőrző szerepet a tanácsadó státusszal azonosítja."
+        },
+        {
+          "text": "A Számvevőszék tagjait a Bizottság nevezi ki határozatlan időre, utasítható megbízottként.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kinevezés és a függetlenség fordított. A helyes: az EUMSZ 286. cikk szerint a tagokat hat évre nevezik ki, a Tanács a Parlamenttel folytatott konzultáció után a tagállami javaslatok listáját fogadja el; a tagok nem kérhetnek és fogadhatnak el utasításokat. A tévedés a Bizottság hierarchikus modelljét írja rá a külső ellenőrzőre."
+        },
+        {
+          "text": "A Számvevőszék megvizsgálja az Unió összes bevételre és kiadásra vonatkozó elszámolását, valamint az Unió által létrehozott szervek és hivatalok elszámolását, ha a létesítő okirat a vizsgálatot nem zárja ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 287. cikk (1) bekezdése a külső ellenőrzés tárgyi körét adja. Az igazoló nyilatkozat az elszámolás megbízhatóságát, valamint az ügyletek jogszerűségét és szabályszerűségét tanúsítja, a Parlament és a Tanács elé kerül, és a Hivatalos Lapban megjelenik. A 285. cikk szerint a Számvevőszék a tagállamok egy-egy állampolgárából áll, és tagjai teljesen függetlenek. A 14. cikk szerinti költségvetési feladat parlamenti oldala e független külső ellenőrzésre támaszkodik."
+        },
+        {
+          "text": "A Számvevőszék a jogszerűség és szabályszerűség mellett a pénzgazdálkodás hatékonyságát és eredményességét is vizsgálja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 287. cikk (2) bekezdése a hatékonyságot és eredményességet is a vizsgálat tárgyává teszi. A bevételt az esedékesként megállapított és a ténylegesen kifizetett összeg, a kiadást a vállalt kötelezettség és a teljesített kifizetés alapján ellenőrzik. Az éves jelentést a többi intézmény válaszaival együtt a Hivatalos Lapban közzé kell tenni. Az EKB-t illetően azonban a vizsgálat csak az ügyvezetés hatékonyságáig terjed."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "8db0c62c5340"
+    },
+    {
+      "question": "A lojális együttműködés EUSZ 4. cikk (3) bekezdése szerinti kötelme kire és mire terjed ki?",
+      "options": [
+        {
+          "text": "A nemzeti biztonság uniós megosztott hatáskör, ezért a Bizottság utasíthatja a tagállami biztonsági szerveket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti biztonság a 4. cikk szerint az egyes tagállamok kizárólagos feladata marad. A helyes: az Unió tiszteletben tartja az alapvető állami funkciókat; a nemzeti biztonság nem megosztott uniós hatáskör. A tévedés a megosztott hatáskör (EUMSZ 4. cikk) logikáját írja rá a biztonsági klauzulára."
+        },
+        {
+          "text": "A lojális együttműködés csak az intézmények egymás közötti viszonyában érvényesül, a tagállamokra nem terjed ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 4. cikk (3) bekezdése éppen a tagállam–Unió viszonyt rendezi. A helyes: a tagállamokkal szembeni lojális együttműködés az EUSZ 4. cikk (3) bekezdése, az intézmények egymás közötti jóhiszemű együttműködése a 13. cikk (2) bekezdése. A tévedés a két lojalitási alakzatot egybeolvassa, és a tagállami oldalt elhagyja."
+        },
+        {
+          "text": "Az Unió tiszteletben tartja a tagállamok Szerződések előtti egyenlőségét és nemzeti identitását, ideértve a regionális és helyi önkormányzatokat, valamint az alapvető állami funkciókat; a nemzeti biztonság az egyes tagállamok kizárólagos feladata marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 4. cikk a lojalitás mellett a nemzeti identitás és a nemzeti biztonság védelmét is adja. A lojális együttműködés nem olvasztja fel a tagállami alkotmányos önazonosságot. A 13. cikk (2) bekezdésének intézményközi lojalitása ettől elváló, intézmények közötti kötelém. A szubszidiaritás és az arányosság (5. cikk) a hatáskörgyakorlás további korlátai."
+        },
+        {
+          "text": "A tagállamok megteszik a Szerződésekből és az intézményi intézkedésekből eredő kötelezettségek teljesítéséhez szükséges intézkedéseket, segítik az Uniót, és tartózkodnak minden olyan intézkedéstől, amely veszélyeztetheti a célkitűzések megvalósítását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUSZ 4. cikk (3) bekezdése a lojális együttműködést kölcsönös kötelmeként rögzíti. Ez a tagállamok és az Unió közötti viszonyban érvényesül. Az intézmények egymás közötti jóhiszemű együttműködését ehhez képest a 13. cikk (2) bekezdése rendezi. A két kötelém egymást kiegészíti, de nem helyettesíti. A hatáskör-átruházás (4. cikk (1) bekezdés, 5. cikk (2) bekezdés) szerint a nem átruházott hatáskörök a tagállamoknál maradnak."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "69d12e5292ff"
+    },
+    {
+      "question": "A Parlament 225. cikk szerinti felkérési joga miben áll, és mi a Bizottság kötelezettsége?",
+      "options": [
+        {
+          "text": "A Parlament felkérése kötelezi a Bizottságot a javaslat előterjesztésére, bírói kényszerrel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felkérés nem utasítás és nem pótolja a javaslatot. A helyes: az EUMSZ 225. cikk szerint a Bizottság megtagadhatja az előterjesztést, de az okokról tájékoztatni köteles a Parlamentet. A tévedés a parlamenti felkérést kötelező jogalkotási indítvánnyá minősíti."
+        },
+        {
+          "text": "A Parlament a tagok többségével felkérheti a Bizottságot megfelelő javaslat előterjesztésére, ha megítélése szerint a Szerződések végrehajtása uniós jogi aktust tesz szükségessé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 225. cikk a Bizottság kezdeményezési helyzetének politikai ellensúlya. A felkérés nem pótolja a javaslatot: a Bizottság megtagadhatja az előterjesztést. A küszöb — a tagok többsége — kizárja, hogy kisebbségi frakció a kezdeményezési menetrendet kisajátítsa. A 13. cikk (2) bekezdésének lojalitása itt információs alakzatban jelenik meg."
+        },
+        {
+          "text": "A felkéréshez elegendő a Parlament bármely bizottságának többségi határozata.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felkérés nem bizottsági többséggel dől el. A helyes: az EUMSZ 225. cikk a Parlament tagjainak többségét követeli meg a megfelelő javaslat előterjesztésére irányuló felkéréshez. A küszöb ezzel kizárja, hogy kisebbségi frakció a kezdeményezési menetrendet kisajátítsa. A tévedés a parlamenti bizottsági többséget a tagsági többséggel cseréli fel."
+        },
+        {
+          "text": "Ha a Bizottság nem terjeszt elő javaslatot, ennek okairól tájékoztatja az Európai Parlamentet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 225. cikk a Bizottság megtagadását nem zárja ki, de az okokról tájékoztatási kötelezettséget ró rá. A kezdeményezési monopolhelyzet megmarad, a hallgatás azonban nem lehet indokolatlan. A Tanács párhuzamos felkérési joga az EUMSZ 241. cikk szerint egyszerű többséggel nyílik meg. A két csatorna a kezdeményezést mindkét jogalkotó oldaláról ellenpontozza, anélkül, hogy elvonná."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "be8a4f4faa94"
+    },
+    {
+      "question": "Az exceptio illegalitatis EUMSZ 277. cikk szerinti alakzata miben különbözik a semmisségi keresettől?",
+      "options": [
+        {
+          "text": "A kifogás védekező jellegű: a fél a folyamatban lévő jogvitában az általános hatályú aktus alkalmazhatatlanságára hivatkozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az exceptio illegalitatis nem önálló semmisségi keresetpótlék. A 263. cikk hatodik bekezdésének határideje után a közvetlen kereset főszabály szerint lezárult. A 277. cikk a 263. cikk második bekezdésében meghatározott eszközöket — hatáskör hiánya, eljárási szabálysértés, Szerződés-sértés, hatáskörrel való visszaélés — engedi a védekezésben. A 19. cikk (3) bekezdésének a) pontja e hivatkozást is a Bíróság elé viszi."
+        },
+        {
+          "text": "A 277. cikk alapján a határidő lejárta után az aktus erga omnes semmissé nyilvánítható, mint a 264. cikk szerinti keresetnél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 277. cikk szerinti kifogás nem vezet erga omnes semmisséghez. A helyes: az EUMSZ 277. cikk az adott jogvitában az általános hatályú aktus alkalmazhatatlanságára irányul; a 264. cikk szerinti semmissé nyilvánítás a határidőn belüli semmisségi kereset joghatása. A tévedés a két joghatás terjedelmét cseréli fel."
+        },
+        {
+          "text": "A 263. cikk két hónapos kereseti határidejének lejárta után is hivatkozhat a fél általános hatályú aktus alkalmazhatatlanságára a 263. cikk második bekezdése szerinti jogalapokkal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 277. cikk a határidő relatív áttörése, nem új privilegiált kereset. Az aktus nem semmisül meg erga omnes a kifogás nyomán, de az adott jogvitában alkalmazhatatlan lehet. A 264. cikk szerinti semmisségtől a hatály terjedelme különbözteti meg. A 13. cikk (2) bekezdésének jogbiztonsága a két hónapos zárat védi, a 277. cikk a későbbi egyedi alkalmazás igazságát."
+        },
+        {
+          "text": "Exceptio illegalitatis csak a Bizottság indítványára vehető igénybe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kifogás nem a Bizottság monopóliuma, és nem igényel bizottsági indítványt. A helyes szabályt az EUMSZ 277. cikk adja: általános hatályú aktusra vonatkozó jogvitában bármelyik fél élhet a 263. cikk második bekezdése szerinti eszközökkel. A kifogás célja az aktus alkalmazhatatlanságának megállapítása az adott ügyben, nem erga omnes semmisség. A tévedés a 258. cikk szerinti kötelezettségszegési eljárás bizottsági kapuőri szerepét írja rá a védekező kivételre."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "2b907290f400"
+    },
+    {
+      "question": "A külügyi és biztonságpolitikai főképviselő intézményközi helyzete hogyan írható le?",
+      "options": [
+        {
+          "text": "A bizalmatlanság joghatása a főképviselőnél a bizottsági tagságra korlátozódik a 234. cikk szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 234. cikk a testületi bukásnál a főképviselő kettős minőségét láthatóvá teszi: a bizottsági tagság elvész, a Tanácsban viselt szerep nem automatikus tárgy. Az új Bizottság kinevezéséig a lemondó tagok a folyamatban lévő ügyeket ellátják. A főképviselő pótlása a 18. cikk szerinti saját eljárást követi, nem a rendes biztosi helyettesítést. A 13. cikk (2) bekezdésének hatásköri fegyelme a kettős minőség szétválasztását védi."
+        },
+        {
+          "text": "A főképviselő a 13. cikk (1) bekezdése szerinti nyolcadik uniós intézmény.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 13. cikk (1) bekezdése hét intézményt sorol fel, a főképviselő nincs a listán. A helyes: a főképviselő intézményközi kapocs, aki a 15. cikk (2) bekezdése szerint részt vesz az Európai Tanács munkájában, de nem intézmény. A tévedés a funkcionális súlyt az intézményi státusszal azonosítja."
+        },
+        {
+          "text": "A bizalmatlanság elfogadása automatikusan megszünteti a főképviselő összes uniós tisztségét, ideértve a Külügyek Tanácsának elnöklését is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizalmatlanság nem szünteti meg automatikusan a főképviselő Tanácsban viselt szerepét. A helyes: az EUMSZ 234. cikk szerint a főképviselőnek a bizottsági tagságról kell lemondania; a Tanácsban viselt minőség ettől elválik, és a pótlás a 18. cikk szerinti eljárást követi. A tévedés a kettős minőséget egyszálú szankcióvá olvasztja."
+        },
+        {
+          "text": "A főképviselő nem szerepel a 13. cikk taxatív intézményi listáján, mégis részt vesz az Európai Tanács munkájában a 15. cikk (2) bekezdése szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főképviselő személyi híd a Tanács, a Bizottság és az Európai Tanács között, anélkül, hogy nyolcadik intézménnyé válna. A 236. cikk a Külügyek Tanácsát a formáció- és elnökségi lista alól kiveszi. A 248. cikk az elnöki portfólió-kiosztást a főképviselőre vonatkozó szerződéses záradék sérelme nélkül rögzíti. A 13. cikk taxációja tehát nem bővül, de a külügyi kapocs szerződésesen rögzített."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "0c921fe0e66f"
+    },
+    {
+      "question": "Az EUSZ és az EUMSZ közötti szabályozási dualizmus az intézményekre nézve mit jelent?",
+      "options": [
+        {
+          "text": "Az EUSZ a keretet és a politikai státuszt adja, az EUMSZ a hatáskörgyakorlás részletes eljárását; az EKB-re és a Számvevőszékre vonatkozó rendelkezéseket is az EUMSZ állapítja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUSZ 13. cikk (3) bekezdése a szabályozási dualizmust rögzíti. A 13–19. cikk a politikai státuszt és a taxatív listát adja; az EUMSZ 223–287. cikkének intézményi címe tölti ki a részleteket. Az EUSZ 1. cikk szerint az Unió a két, azonos jogi kötőerejű Szerződésen alapul. A dualizmus nem hierarchia a két szerződés között, hanem munkamegosztás."
+        },
+        {
+          "text": "Az EKB és a Számvevőszék részletes szabályait kizárólag az EUSZ 13. cikk (1) bekezdése tartalmazza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés csak a taxatív intézményi listát adja, nem a részletes szabályokat. A helyes: az EUSZ 13. cikk (3) bekezdése szerint az EKB-re és a Számvevőszékre vonatkozó rendelkezéseket, valamint a többi intézményre vonatkozó részletes rendelkezéseket az EUMSZ állapítja meg. A 282–287. cikk éppen ezt a részletes rendet tölti ki. A tévedés a státuszrögzítést a részletes eljárási szabályozással azonosítja."
+        },
+        {
+          "text": "A Gazdasági és Szociális Bizottság és a Régiók Bizottsága a Parlamentet, a Tanácsot és a Bizottságot segíti tanácsadói minőségben, a 13. cikk (4) bekezdése szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés a két testületet intézményi státusz nélkül helyezi el. A megfelelési táblázat a GSZB-t az EUMSZ 301–304. cikkéhez, a Régiók Bizottságát a 305–307. cikkhez rendeli. Véleményük a jogalkotási eljárásban a Szerződések különös címei szerint kötelezően kikérendő vagy fakultatív. A (6.) jegyzőkönyv szerint mindkettő székhelye Brüsszel."
+        },
+        {
+          "text": "Az EUMSZ alacsonyabb jogi kötőerejű, mint az EUSZ, ezért intézményi szabályai csak kisegítőek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két Szerződés között nincs kötőerőbeli hierarchia. A helyes: az EUSZ 1. cikk szerint az Unió a két, azonos jogi kötőerejű Szerződésen alapul. Az EUSZ 13. cikk (3) bekezdése munkamegosztást állít: a keretet az EUSZ, a részletes eljárást az EUMSZ adja. A tévedés a keret–részlet viszonyt hierarchikus lex superior olvasattá torzítja."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "d2b00292441b"
+    },
+    {
+      "question": "Az Állandó Képviselők Bizottsága (COREPER) és a Tanács Főtitkársága milyen szerepet tölt be?",
+      "options": [
+        {
+          "text": "A COREPER a 13. cikk taxatív listájának önálló intézménye, a Tanáccsal azonos jogalkotói hatáskörrel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a COREPER nem intézmény a 13. cikk (1) bekezdése szerint. A helyes: az EUMSZ 240. cikk a Tanács munkájának előkészítő bizottságaként írja le; jogalkotó a Tanács a Parlamenttel közösen. A tévedés az előkészítő szervet a taxatív intézményi listára emeli."
+        },
+        {
+          "text": "A COREPER a tagállamok állandó képviselőiből áll, előkészíti a Tanács munkáját, teljesíti a megbízatásokat, és az eljárási szabályzatban szabott esetekben eljárási határozatot is hozhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 240. cikk (1) bekezdése a COREPER-t a Tanács munkájának előkészítő és végrehajtó szűrőjeként rögzíti. A Főtitkárság a Tanács által kinevezett főtitkár alatt áll; szervezetét a Tanács egyszerű többséggel határozza meg. Az eljárási kérdések és az eljárási szabályzat elfogadása szintén egyszerű többség. A 235. cikk (4) bekezdése szerint az Európai Tanács munkáját is a Tanács Főtitkársága segíti."
+        },
+        {
+          "text": "A Tanács munkáját a Tanács által kinevezett főtitkár irányítása alatt álló Főtitkárság segíti; szervezetét a Tanács egyszerű többséggel határozza meg, és eljárási kérdésekben, valamint az eljárási szabályzat elfogadásakor is egyszerű többséggel jár el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 240. cikk (2) bekezdése a Főtitkárságot a főtitkár alá helyezi, és a szervezet meghatározását a Tanács egyszerű többségéhez köti; a (3) bekezdés szerint az eljárási kérdések és az eljárási szabályzat elfogadása szintén egyszerű többség. A 237. cikk szerinti összehívás külön szabály, nem a COREPER vagy a Főtitkárság szerepének része. A 238. cikk minősített többsége az érdemi aktusokra marad, az adminisztráció a tagok többségén fordul."
+        },
+        {
+          "text": "A Tanács Főtitkárságának szervezetét a Parlament rendeleti úton, egyhangúlag határozza meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Főtitkárság szervezetét nem a Parlament határozza meg. A helyes: az EUMSZ 240. cikk (2) bekezdése szerint a Főtitkárság a Tanács által kinevezett főtitkár irányítása alatt áll, és szervezetét a Tanács egyszerű többséggel határozza meg. Az eljárási kérdésekben ugyanez az egyszerű többség érvényesül a (3) bekezdés szerint. A tévedés a parlamenti együttdöntést írja rá a belső adminisztrációra."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "3c1e99f91e77"
+    },
+    {
+      "question": "A kereset halasztó hatályának és az ideiglenes intézkedésnek a viszonya a Bíróság előtt hogyan alakul?",
+      "options": [
+        {
+          "text": "A Bíróság az elé terjesztett ügyekben bármely szükséges ideiglenes intézkedést elrendelhet; a 279. cikk a status quo tágabb őrzése a 278. cikk szerinti felfüggesztés mellett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 279. cikk általános ideiglenes intézkedést enged, míg a 278. cikk a megtámadott aktus végrehajtásának felfüggesztésére szűkül. A két szabály együtt adja a kereset–felfüggesztés–ideiglenes védelem viszonyát: nincs automatikus halasztó hatály, de a fórum kérelemre ideiglenes védelmet adhat. A 280. cikk szerinti ítéleti végrehajthatóság későbbi, jogerős szakasz, nem a 278–279. viszony magja."
+        },
+        {
+          "text": "Minden semmisségi kereset automatikusan felfüggeszti a megtámadott aktus végrehajtását a kereset benyújtásának napjától.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a keresetnek nincs automatikus halasztó hatálya. A helyes: az EUMSZ 278. cikk szerint a kereseteknek nincs halasztó hatályuk; a felfüggesztést a Bíróság a körülmények alapján, ha szükségesnek tartja, rendelheti el. A tévedés a nemzeti közigazgatási per egyes automatikus felfüggesztési modelljeit írja rá az uniós eljárásra."
+        },
+        {
+          "text": "Ideiglenes intézkedést csak a Bizottság kérhet, a magánfél nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 279. cikk az elé terjesztett ügyekben bármely szükséges ideiglenes intézkedést enged, anélkül hogy a kérelmezőt a Bizottságra szűkítené. A helyes: a Bíróság — és az elsőfokú keresetekben a Törvényszék — a felek kérelmére rendelhet ideiglenes intézkedést a 278–279. cikk szerint. A tévedés a kötelezettségszegési eljárás bizottsági szerepét írja rá az ideiglenes jogvédelemre."
+        },
+        {
+          "text": "A Bírósághoz benyújtott kereseteknek nincs halasztó hatályuk; a Bíróság azonban elrendelheti a megtámadott jogi aktus végrehajtásának felfüggesztését, ha a körülmények alapján azt szükségesnek tartja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 278. cikk a végrehajtás folytonosságát védi, a felfüggesztés kérelemre adott ideiglenes védelem. A 279. cikk ehhez képest bármely szükséges ideiglenes intézkedés elrendelését engedi. A 13. cikk (2) bekezdésének hatásköri fegyelme a „szükséges” fordulathoz köti a beavatkozást. A 19. cikk szerinti jogszerűségi kontroll így nem bénítja meg eleve a 14. cikk szerinti jogalkotást."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "1e9083e16d11"
+    },
+    {
+      "question": "Az intézmények székhelyeire a (6.) jegyzőkönyv szerint mi igaz?",
+      "options": [
+        {
+          "text": "Az Európai Parlament összes plenáris ülését kizárólag Brüsszelben kell tartani.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Parlament összes plenáris ülése nem Brüsszelhez kötött. A helyes: a székhelyről szóló (6.) jegyzőkönyv szerint a Parlament székhelye Strasbourg, ahol a tizenkét havi plenáris — beleértve a költségvetési ülésszakot — zajlik; a további plenáris üléseket Brüsszelben tartják. Az EUSZ 14. cikk szerinti költségvetési feladat földrajzi megjelenése éppen a strasbourgi költségvetési plenáris. A tévedés a brüsszeli további üléseket a székhely fogalmával cseréli fel."
+        },
+        {
+          "text": "A Tanács székhelye Brüsszel, április, június és október hónapban Luxembourgban tartja üléseit; a Bíróság és a Számvevőszék székhelye Luxembourg, az EKB-é Frankfurt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (6.) jegyzőkönyv egyetlen cikke az intézmények földrajzi szétszórtságát rögzíti. A Bizottság székhelye Brüsszel, meghatározott szervezeti egységek Luxembourgban. Az Európai Beruházási Bank székhelye Luxembourg, az Europolé Hága. A GSZB és a Régiók Bizottsága székhelye Brüsszel. A 13. cikk taxatív listájának intézményei így szerződésesen rögzített telephelyeken működnek."
+        },
+        {
+          "text": "Az EKB székhelye Brüsszel, mert a Tanács és a Bizottság is ott székel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EKB nem Brüsszelben székel. A helyes: a székhelyről szóló (6.) jegyzőkönyv szerint az Európai Központi Bank székhelye Frankfurt; a Tanács és a Bizottság székhelye Brüsszel. Az EUMSZ 282. cikk szerinti monetáris függetlenség intézményi megjelenése a frankfurti székhely. A tévedés a politikai intézmények telephelyét írja rá a monetáris intézményre."
+        },
+        {
+          "text": "Az Európai Parlament székhelye Strasbourg, ahol a tizenkét, havonta tartandó plenáris ülésszak — beleértve a költségvetési ülésszakot — zajlik; a további plenáris üléseket Brüsszelben tartják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (6.) jegyzőkönyv a Parlament földrajzi működését rögzíti. A bizottságok Brüsszelben üléseznek, a Főtitkárság Luxembourgban marad. A költségvetési plenáris Strasbourghoz kötése a 14. cikk szerinti költségvetési feladat földrajzi megjelenése. A székhely tehát nem puszta logisztika, hanem a működési rend része."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "aa1ed0cefef9"
+    }
+  ]
+}

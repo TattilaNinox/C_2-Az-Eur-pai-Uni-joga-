@@ -1,0 +1,765 @@
+{
+  "id": "dsx0QGQKkk0w0zy7HV56",
+  "sorszam": 7,
+  "cim": "Az Európai Ombudsman és a petíciós jog; az Európai Adatvédelmi Biztos",
+  "generationType": "fogalom",
+  "title": "7. Az Európai Ombudsman és a petíciós jog; az Európai Adatvédelmi Biztos",
+  "questions": [
+    {
+      "question": "Miben tér el a petíció, az európai ombudsman és az európai adatvédelmi biztos útja egymástól a polgár intézményi védelmében?",
+      "options": [
+        {
+          "text": "A Bíróság igazságszolgáltatási hatáskörében eljáró tevékenysége elől mindhárom panaszút zárva marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bírói függetlenség mindhárom szövegben fal. Az EUMSZ 228. cikk (1) bekezdése és a Charta 43. cikke kivonja az igazságszolgáltatási hatáskörében eljáró Bíróságot az ombudsmani panasz tárgyából. A 45/2001/EK rendelet 46. cikk c) pontja ugyanezt a falat állítja az adatvédelmi biztos felügyelete elé, ha a Bíróság bírósági minőségében jár el. A petíció sem a bírói ítélkezést helyettesíti."
+        },
+        {
+          "text": "Mindhárom út ugyanazt a hatósági elrendelő hatalmat adja, csak a címzett intézmény neve különbözik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a joghatásokat összemosza. Az EUMSZ 227. cikk szerinti petíció parlamenti előterjesztés, meghatározott érdemi döntésre nem kötelezi a házat. Az EUMSZ 228. cikk (1) bekezdése az ombudsmannak megkeresést, jelentést és tájékoztatást ad, nem elrendelést. A helyes: elrendelő és tiltó hatalom a 45/2001/EK rendelet 47. cikk (1) bekezdésénél az adatvédelmi biztosnál van. A tévedés forrása a három polgári csatorna intézményi azonosságának feltételezése."
+        },
+        {
+          "text": "A petíció politikai-képviseleti előterjesztés a Parlamenthez, az ombudsman hivatali visszásságot vizsgál jelentéssel és megkereséssel, az adatvédelmi biztos pedig elrendelő hatósági kontrollt gyakorol.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három csatorna tárgya és joghatása elválik. A petíció az EUMSZ 227. cikk szerint a Parlamenthez címzett, tevékenységi területre tartozó és közvetlenül érintő ügy; az ombudsman az EUMSZ 228. cikk (1) bekezdése szerint hivatali visszásságot vizsgál, megkeres és jelent. Az európai adatvédelmi biztos a 45/2001/EK rendelet 47. cikke szerint elrendelhet, tilthat és a Bíróság elé utalhat — ez hatósági fog, nem petíciós vagy ombudsmani nyomás."
+        },
+        {
+          "text": "Az adatvédelmi biztos a 24. cikk polgári joglistájának negyedik elemeként ugyanarra a szerződési láncra kerül, mint a petíció és az ombudsman.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az európai adatvédelmi biztos nem része a 24. cikkben felsorolt polgári intézményi jogoknak. Az EUMSZ 24. cikk a petíciót a 227. cikkhez, az ombudsmant a 228. cikkhez, a nyelvhasználatot a 13. és az 55. cikkhez köti. Az európai adatvédelmi biztos szerződési alapja az EUMSZ 16. cikk, intézményi statútuma a 45/2001/EK rendelet 41–48. cikke. A tévedés a 20. cikk (2) bekezdés d) pontjának polgári csomagját kiterjeszti a 16. cikk adatvédelmi útjára."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "78b41e516f51"
+    },
+    {
+      "question": "Ki és milyen kettős szűrő mellett nyújthat be petíciót az Európai Parlamenthez?",
+      "options": [
+        {
+          "text": "A petíciót a Bizottsághoz kell benyújtani, és csak uniós polgár nyújthatja be, lakóhelyes nem polgár nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a címzett és a személyi kör is elcsúszik. Az EUMSZ 227. cikk címzettje az Európai Parlament, nem a Bizottság. Jogosult a lakóhellyel vagy székhellyel rendelkező nem polgár természetes és jogi személy is, nem csupán az uniós polgár. A tévedés forrása a 24. cikk polgári megszólításának leszűkítése és a petíció összekeverése a Bizottság jogalkotási szerepével."
+        },
+        {
+          "text": "Az ügynek az Unió tevékenységi területére kell tartoznia, és a kérelmezőt közvetlenül kell érintenie — a petíció nem actio popularis.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szűrő hatásköri és érintettségi zár. Az EUMSZ 227. cikk kifejezetten az Unió tevékenységi területére tartozó és a kérelmezőt közvetlenül érintő ügyet kíván. A közvetlenség kizárja a populáris panaszt; ami kívül esik az Unió feladatain, az nem petíciótárgy. A Charta 44. cikke a szűrőket nem ismétli, de a gyakorlás feltételeit a 227. cikk adja."
+        },
+        {
+          "text": "Jogosult bármely uniós polgár, valamint a tagállamban lakóhellyel vagy létesítő okirat szerinti székhellyel rendelkező természetes vagy jogi személy, egyénileg vagy közösen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyi kör tágabb a puszta uniós polgárságnál. Az EUMSZ 227. cikk uniós polgárt, valamint tagállami lakóhellyel vagy létesítő okirat szerinti székhellyel rendelkező természetes vagy jogi személyt jogosít, egyéni vagy közös benyújtással. A Charta 44. cikke ugyanezt a jogosulti kört emeli alapjogi rangra. A 24. cikk második albekezdése a polgár számára a 227. cikkre utal, a nem polgár lakóhelyes és székhelyes jogosult a 227. cikkből következik."
+        },
+        {
+          "text": "A kollektív petícióhoz ugyanaz a tagállami küszöb kell, mint a polgári kezdeményezéshez a 24. cikk első albekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a petíció és a polgári kezdeményezés elválik. Az EUMSZ 227. cikk lehetővé teszi a közös benyújtást tagállami küszöb nélkül. A 24. cikk első albekezdése a polgári kezdeményezést rendeleti, rendes jogalkotási pályára teszi, ideértve a tagállami küszöböt — ez napirend-képző eszköz, nem petíció. A tévedés a 11. cikk szerinti kezdeményezés szabályait írja rá a 227. cikkre."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "4df3986abdb9"
+    },
+    {
+      "question": "Mely esetben vizsgálhatja az európai ombudsman a hivatali visszásságot, és mi zárja ki a panaszt?",
+      "options": [
+        {
+          "text": "A panasz tárgya az uniós intézmények, szervek vagy hivatalok tevékenysége során felmerülő hivatali visszásság, kivéve az igazságszolgáltatási hatáskörében eljáró Bíróságot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tárgy és a Bíróság-kivétel szerződési szintű. Az EUMSZ 228. cikk (1) bekezdése az ombudsmant a hivatali visszásságokra vonatkozó panaszok átvételére jogosítja, „kivéve az igazságszolgáltatási hatáskörében eljáró Európai Unió Bíróságát”. A Charta 43. cikke ugyanezt a kivételt alapjogi nyelven ismétli. A vizsgálat saját kezdeményezésre vagy közvetlenül, illetve parlamenti tagon keresztül benyújtott panasz alapján indul."
+        },
+        {
+          "text": "Ha az állítólagos tényállás bírósági eljárás tárgyát képezi vagy képezte, az ombudsman nem folytatja le a vizsgálatot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lis pendens és a lezárt per egyaránt fal. Az EUMSZ 228. cikk (1) bekezdése szerint az ombudsman lefolytatja az indokoltnak ítélt vizsgálatokat, kivéve ha az állítólagos tényállás bírósági eljárás tárgyát képezi vagy képezte. Ez szigorúbb a 226. cikk szerinti vizsgálóbizottságnál, ahol a tilalom a még le nem zárt perre vonatkozik. Panaszt ugyanaz a személyi kör nyújthat, mint petíciót: uniós polgár, valamint tagállami lakóhelyes vagy székhelyes természetes és jogi személy."
+        },
+        {
+          "text": "Az ombudsman a Bíróság ítélkezési tevékenységét is felülvizsgálhatja, ha a panaszos uniós polgár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság igazságszolgáltatási tevékenysége ki van véve. Az EUMSZ 228. cikk (1) bekezdése és a Charta 43. cikke egyaránt kizárja az igazságszolgáltatási hatáskörében eljáró Bíróságot. A helyes: az ombudsman az intézmények, szervek, hivatalok igazgatási-etikai visszásságát vizsgálja, nem a bírói ítélkezést. A tévedés a polgári panaszjogot a bírói függetlenség fölé helyezi."
+        },
+        {
+          "text": "Hivatali visszásság megállapítása után az ombudsman azonnal kötelező határozattal elrendelheti az intézkedést, három hónapos válaszidő nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ombudsman nem elrendelő hatóság. Az EUMSZ 228. cikk (1) bekezdése szerint hivatali visszásság esetén megkeresi az érintett intézményt, amelynek három hónap áll rendelkezésére az álláspont közlésére; ezt követi a jelentés a Parlamentnek és az érintettnek. A helyes elrendelő hatalom a 45/2001/EK rendelet 47. cikkénél az adatvédelmi biztosnál van. A tévedés az ombudsmani jelentést hatósági aktussá torzítja."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "061441b4220e"
+    },
+    {
+      "question": "Hogyan választják meg és milyen függetlenségi kötelmek mellett jár el az európai ombudsman?",
+      "options": [
+        {
+          "text": "Feladatai ellátása során teljes mértékben független, nem kérhet vagy fogadhat el utasítást, és megbízatása alatt semmilyen — kereső vagy ingyenes — foglalkozást nem folytathat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a függetlenség és a foglalkozási tilalom kógens. Az EUMSZ 228. cikk (3) bekezdése kimondja a teljes függetlenséget, az utasítás tilalmát kormánytól, intézménytől, szervtől vagy szervezettől, valamint a megbízatás alatti kereső és ingyenes foglalkozás tilalmát. A (4) bekezdés a feladatellátás szabályait a Parlament saját kezdeményezésű, különleges jogalkotási rendeleteire bízza, a Bizottság véleménye és a Tanács egyetértése mellett."
+        },
+        {
+          "text": "Az ombudsmant a Parlament és a Tanács közös megegyezéssel nevezi ki ötéves időtartamra, a Bizottság listája alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez az adatvédelmi biztos kinevezési modellje. Az EUMSZ 228. cikk (2) bekezdése szerint az ombudsmant a Parlament választja a parlamenti ciklusra. A 45/2001/EK rendelet 42. cikk (1) bekezdése az európai adatvédelmi biztost a Parlament és a Tanács közös megegyezésével, ötéves időtartamra nevezi ki. A tévedés a 42. cikk szabályait írja rá a 228. cikkre."
+        },
+        {
+          "text": "Az ombudsman a megbízatás alatt folytathat ingyenes szakmai tevékenységet, ha abból nem származik jövedelme.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ingyenes foglalkozás is tilos. Az EUMSZ 228. cikk (3) bekezdése szerint az ombudsman a megbízatása ideje alatt „semmilyen egyéb — akár kereső, akár ingyenesen végzett — foglalkozást nem folytathat”. A 45/2001/EK rendelet 44. cikk (3) bekezdése a biztosnál is tiltja az egyéb szakmai tevékenységet jövedelemtől függetlenül. A tévedés a jövedelemhiányt mentesítő feltételként olvassa."
+        },
+        {
+          "text": "Az ombudsmant minden európai parlamenti választást követően, a Parlament megbízatásának időtartamára választják, és a megbízatás megújítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tisztség a parlamenti ciklushoz igazodik. Az EUMSZ 228. cikk (2) bekezdése szerint az ombudsmant minden európai parlamenti választást követően, a Parlament megbízatásának időtartamára választják, és a megbízatás megújítható. A felmentés bírói aktus: a Bíróság a Parlament kérelmére akkor mentheti fel, ha már nem felel meg a feltételeknek, vagy súlyos kötelezettségszegést követett el. Ez elválik az adatvédelmi biztos ötéves, Parlament–Tanács közös kinevezésétől."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "3c9b4773a032"
+    },
+    {
+      "question": "Mit rendel az EUMSZ 24. cikk a polgár intézményi jogairól, és mi esik e láncon kívül?",
+      "options": [
+        {
+          "text": "A nyelvhasználati jog szerint a polgár az EUSZ 55. cikk (1) bekezdésében említett nyelvek egyikén írásban fordulhat a megjelölt intézményhez vagy szervhez, és ugyanazon a nyelven kap választ.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nyelvi jog eljárási garancia a polgár intézményi megszólalásához. Az EUMSZ 24. cikk negyedik albekezdése lehetőséget ad, hogy a polgár az EUSZ 55. cikk (1) bekezdésében említett nyelvek valamelyikén írásban forduljon a 24. cikkben vagy a 13. cikkben említett intézményhez vagy szervhez, és ugyanazon a nyelven kapjon választ. A petíció és az ombudsmani panasz e nyelvi jog alatt is gyakorolható. A 24. cikk szövegében a nyelvhasználat jogosultja az uniós polgár, míg a 227. és a 228. cikk a lakóhelyes és székhelyes nem polgárt is bevonja."
+        },
+        {
+          "text": "A 24. cikk a petíciót a 227. cikkhez, az ombudsmanhoz fordulást a 228. cikkhez, a nyelvhasználatot pedig a 13. és az 55. cikkhez kapcsolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 24. cikk operatív utaló szabály, nem magát a petíciót és az ombudsmant szabályozza. Az EUMSZ 24. cikk második albekezdése a petíciót a 227. cikknek megfelelően, a harmadik az ombudsmanhoz fordulást a 228. cikkre utalva mondja ki. A negyedik albekezdés a polgárnak az EUSZ 55. cikk (1) bekezdésében említett nyelvek valamelyikén írásbeli fordulást és azonos nyelvű választ biztosít a 24. vagy a 13. cikk szerinti intézményhez, szervhez. A 16. cikk és a 45/2001/EK rendelet e láncon kívül áll."
+        },
+        {
+          "text": "A 24. cikk első albekezdése maga határozza meg a petíció két tárgyi szűrőjét: a tevékenységi területet és a közvetlen érintettséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két szűrő nem a 24. cikk első albekezdésében áll. Az EUMSZ 24. cikk első albekezdése a polgári kezdeményezés rendeleti keretét a rendes jogalkotásra bízza, ideértve a tagállami küszöböt. A tevékenységi terület és a közvetlen érintettség az EUMSZ 227. cikk petíciós feltétele. A tévedés a kezdeményezés és a petíció szerződési helyét cseréli fel."
+        },
+        {
+          "text": "Az adatvédelmi biztoshoz fordulás a 24. cikk negyedik albekezdésének része, a nyelvhasználattal egy sorban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az európai adatvédelmi biztoshoz fordulás nem szerepel a 24. cikk négy albekezdésében. Az EUMSZ 24. cikk a petíciót, az ombudsmanhoz fordulást és a nyelvhasználatot rendezi. Az adatvédelmi panasz az EUMSZ 16. cikk (1) bekezdése szerinti alanyi jogra és a 45/2001/EK rendelet 46. cikk a) pontjára épül. A tévedés a 20. cikk (2) bekezdés d) pontjának polgári csomagját keveri a 16. cikk adatvédelmi útjával."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "1d80ff5d58fb"
+    },
+    {
+      "question": "Mi következik abból, ha a személyes adatok védelmét a KKBP-sávban kell szabályozni?",
+      "options": [
+        {
+          "text": "A 39. cikk az európai adatvédelmi biztos kinevezésének szerződési alapja, és a biztos átveszi a tagállami KKBP-feldolgozás általános felügyeletét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 39. cikk nem hoz létre külön uniós adatvédelmi tisztséget. Az EUSZ 39. cikk a Tanács határozatát és független hatóságok ellenőrzését írja elő a tagállami KKBP-feldolgozásra. Az európai adatvédelmi biztos a 45/2001/EK rendelet 41. cikke szerint a közösségi intézmények és szervek feldolgozását ellenőrzi. A tévedés a 41. cikk intézményi hatáskörét keveri a 39. cikk kormányközi eltérésével."
+        },
+        {
+          "text": "Az EUMSZ 16. cikk (2) bekezdésének záró mondata kimondja, hogy az e cikk alapján elfogadott szabályok nem érintik az EUSZ 39. cikk szerinti különleges szabályokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a záradék zárt eltérést véd. Az EUMSZ 16. cikk (2) bekezdése a természetes személyek védelmét és az adatok szabad áramlását rendes jogalkotásra bízza, majd rögzíti: az e cikk alapján elfogadott szabályok nem érintik az EUSZ 39. cikkben említett különleges szabályokat. A 39. cikk pedig „eltérve” a (2) bekezdéstől jár el. A 16. cikk (1) bekezdése szerinti alanyi jog ettől nem szűnik meg."
+        },
+        {
+          "text": "A KKBP-sávban is az Európai Parlament és a Tanács rendes jogalkotási eljárásban fogad el rendeletet a tagállami feldolgozásról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KKBP-sávban a Tanács határozata lép a helyébe. Az EUSZ 39. cikk kifejezetten eltér az EUMSZ 16. cikk (2) bekezdésétől: nem rendes jogalkotási rendelet, hanem tanácsi határozat. A helyes: a Parlament társtörvényhozói szerepe e sávban kimarad a kormányközi jelleg miatt. A tévedés a 16. cikk (2) bekezdésének főszabályát írja rá a 39. cikkre."
+        },
+        {
+          "text": "A Tanács — eltérve az EUMSZ 16. cikk (2) bekezdésétől — határozatot fogad el a fejezet alkalmazási körébe tartozó tagállami személyesadat-feldolgozás védelméről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a formai eltérés a lényeg. Az EUSZ 39. cikk szerint a Tanács az EUMSZ 16. cikkének megfelelően és eltérve annak (2) bekezdésétől határozatot fogad el a KKBP-fejezet alkalmazási körébe tartozó, tagállamok által végzett személyesadat-feldolgozás védelmére és az adatok szabad áramlására. Nem rendes jogalkotási rendelet, hanem tanácsi határozat; a Parlament nincs társtörvényhozó. A tiszteletben tartást itt is független hatóságok ellenőrzik."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "ea20b96120b3"
+    },
+    {
+      "question": "Milyen alanyi jogot és ellenőrzési szerkezetet ad az EUMSZ 16. cikk a személyes adatok védelméhez?",
+      "options": [
+        {
+          "text": "A (2) bekezdés kettős tárgyi hatályt ölel: uniós intézmények, szervek, hivatalok feldolgozását, valamint az uniós jog alkalmazási körébe tartozó tagállami feldolgozást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kompetencia intézményi és tagállami sávra is kiterjed. Az EUMSZ 16. cikk (2) bekezdése a természetes személyek védelmét az uniós intézmények, szervek és hivatalok, illetve az uniós jog alkalmazási körében a tagállamok által végzett feldolgozás tekintetében, valamint az adatok szabad áramlását rendes jogalkotás tárgyává teszi. A tiszteletben tartást független hatóságok ellenőrzik — a többes szám szándékos. Az intézményi sávban a 45/2001/EK rendelet 41. cikke szerinti európai adatvédelmi biztos a független hatóság."
+        },
+        {
+          "text": "A 16. cikk (1) bekezdése mindenkinek — nem csupán az uniós polgárnak — alanyi jogot ad a rá vonatkozó személyes adatok védelméhez.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alanyi jog személyi köre a lehető legtágabb. Az EUMSZ 16. cikk (1) bekezdése szerint: „Mindenkinek joga van a rá vonatkozó személyes adatok védelméhez.” Ez elválik a 24. cikk polgári megszólításától és a 227–228. cikk lakóhelyes/székhelyes kiterjesztésétől. A (2) bekezdés e jogot jogalkotási kompetenciává és független hatósági ellenőrzéssé fordítja."
+        },
+        {
+          "text": "A 16. cikk (2) bekezdése egyetlen uniós hivatalt nevez ki a tagállami és intézményi ellenőrzésre egyaránt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a „független hatóságok” többes száma szándékos. Az EUMSZ 16. cikk (2) bekezdése párhuzamos intézményi és tagállami felügyeletet ír elő. Az intézményi sávban a 45/2001/EK rendelet 41. cikke hozza létre az európai adatvédelmi biztost; a tagállami sávban a nemzeti felügyelők a 46. cikk f) pontja szerinti együttműködés partnerei. A tévedés egyetlen központi hivatallá sűríti a felügyeleti hálózatot."
+        },
+        {
+          "text": "A 16. cikk (1) bekezdése csak uniós polgárnak ad adatvédelmi alanyi jogot, a nem polgár lakóhelyes személynek nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alanyi jog mindenkit megillet. Az EUMSZ 16. cikk (1) bekezdése „mindenkinek” fogalmaz, nem csupán az uniós polgárnak. A petíció és az ombudsman személyi köre a 227–228. cikkben a polgár plusz lakóhelyes/székhelyes személy; az adatvédelmi alanyi jog ettől is tágabb. A tévedés a 24. cikk polgári keretét írja rá a 16. cikkre."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "3271f6ef03c3"
+    },
+    {
+      "question": "Miben tér el a Charta 44. cikke az EUMSZ 227. cikk petíciós szabályától?",
+      "options": [
+        {
+          "text": "A Charta 44. cikke a petíció címzettjévé a Bizottságot teszi, míg a 227. cikk a Parlamentet nevezi meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, mindkét szöveg címzettje az Európai Parlament. A Charta 44. cikke szerint a jogosult „petíciót benyújtani az Európai Parlamenthez”; az EUMSZ 227. cikk ugyanezt mondja. A helyes elhatárolás a Charta 43. cikkétől a címzett: ott az európai ombudsman. A tévedés a petíciót a Bizottság jogalkotási szerepével keveri."
+        },
+        {
+          "text": "A 227. cikk szerződési feltételei adják a Charta 44. cikkének gyakorlási módját: a hatásköri és érintettségi zár a szerződésből olvasható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Chartabeli petíciós jog gyakorlását a szerződési feltételek határozzák meg. Az EUMSZ 227. cikk a tevékenységi területet és a közvetlen érintettséget állítja a petíció elé; a Charta 44. cikke e feltételeket nem írja felül. A 24. cikk a polgár számára a 227. cikkre utal; a nem polgár lakóhelyes és székhelyes jogosult a 227. cikkből és a 44. cikkből következik. A 43. cikktől a címzett és a tárgy határol: ott az ombudsman és a hivatali visszásság."
+        },
+        {
+          "text": "A Charta 44. cikke megszünteti a 227. cikk két szűrőjét, ezért a petíció actio popularisként is benyújtható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Charta nem oldja fel a szerződési feltételeket. Az EUMSZ 227. cikk továbbra is megkívánja a tevékenységi területet és a közvetlen érintettséget; a közvetlenség kizárja a populáris panaszt. A Charta 44. cikke a jogot emeli alapjogi rangra, de a gyakorlás feltételeit a 227. cikk adja. A tévedés a Chartát a szerződés fölé helyezi a tárgyi hatályban."
+        },
+        {
+          "text": "A Charta 44. cikke a petíciót alapjogként mondja ki ugyanarra a jogosulti körre, de nem ismétli a tevékenységi terület és a közvetlen érintettség szűrőjét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Charta a jogot emeli ki, a szerződés a gyakorlás zárát. A Charta 44. cikke uniós polgárt, valamint tagállami lakóhellyel vagy létesítő okirat szerinti székhellyel rendelkező természetes vagy jogi személyt jogosít petícióra az Európai Parlamenthez. Az EUMSZ 227. cikk adja a két tárgyi szűrőt és említi a kollektív benyújtást; a Charta ezeket nem ismétli. A két rendelkezés egy jog két rétege, nem két petíció."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "c87b3e5a02de"
+    },
+    {
+      "question": "Milyen státuszt és célt rögzít a 45/2001/EK rendelet az európai adatvédelmi biztosra?",
+      "options": [
+        {
+          "text": "A biztos a 39. cikk szerinti tagállami KKBP-feldolgozás általános felügyeletét veszi át a nemzeti hatóságok helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tárgyi hatály az intézményi feldolgozás. A 45/2001/EK rendelet 41. cikke a közösségi intézmények és szervek személyesadat-feldolgozásához köti a biztost. Az EUSZ 39. cikk a KKBP-sávban a Tanács határozatát és független hatóságok ellenőrzését írja elő a tagállami feldolgozásra; a biztos ezt nem írja felül. A tévedés a 41. cikk intézményi sávját keveri a 39. cikk kormányközi eltérésével."
+        },
+        {
+          "text": "A 41. cikk az ombudsman 228. cikkéhez hasonlóan csak megkeresést és jelentést ad, elrendelő hatalom nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az európai adatvédelmi biztos intézményi státusza nem merül ki a megkeresés–jelentés sémában. A 45/2001/EK rendelet 41. cikk (2) bekezdése a 46. cikk feladatait és a 47. cikk hatáskörét telepíti a biztosra, ideértve az elrendelést és a tilalmat. Az európai ombudsman az EUMSZ 228. cikk (1) bekezdése szerint megkeresi az érintett intézményt, majd jelentést küld a Parlamentnek — ez igazgatási-politikai nyomás, nem hatósági fog. A tévedés az ombudsmani eszközkészletet írja rá a hatósági tisztségre."
+        },
+        {
+          "text": "A biztos figyelemmel kíséri és biztosítja a rendelet és más közösségi adatvédelmi aktusok alkalmazását, valamint tanácsot ad az intézményeknek, szerveknek és az érintetteknek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 41. cikk (2) bekezdése státuszt, célt és utaló klauzulát ad. A 45/2001/EK rendelet 41. cikk (2) bekezdése a biztos feladatává teszi a rendelet és bármely más, a természetes személyek alapvető jogainak védelméről szóló közösségi jogi aktus alkalmazásának figyelemmel kísérését, valamint a tanácsadást. A fenti célok végrehajtására a 46. cikkben előírt feladatokat végzi és a 47. cikkben ráruházott hatáskört gyakorolja. Ez a 16. cikk (2) bekezdése szerinti független hatóság intézményi ága."
+        },
+        {
+          "text": "A 41. cikk (1) bekezdése független ellenőrző hatóságot hoz létre európai adatvédelmi biztos néven.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tisztség hatósági jellegű, nem ombudsmani. A 45/2001/EK rendelet 41. cikk (1) bekezdése szerint: „Európai adatvédelmi biztos néven független ellenőrző hatóság jön létre.” A (2) bekezdés a feladatot a közösségi intézmények és szervek személyesadat-feldolgozásához köti, különösen a magánélet tiszteletben tartásához való jog biztosításához. A feladatok a 46. cikkben, a hatáskör a 47. cikkben áll."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "625a443ce0a6"
+    },
+    {
+      "question": "Hogyan nevezik ki és milyen időtartamra az európai adatvédelmi biztost, és ki indíthat felmentést?",
+      "options": [
+        {
+          "text": "Felmentést csak a Parlament indíthat, a Tanács és a Bizottság nem jogosult kérelmezni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a biztosnál három intézmény indíthat. A 45/2001/EK rendelet 42. cikk (5) bekezdése a Parlament, a Tanács vagy a Bizottság kérelmét engedi. A helyes ombudsmani párhuzam: az EUMSZ 228. cikk (2) bekezdése szerint ott csak a Parlament kérelmez. A tévedés az ombudsmani felmentési monopóliumot írja rá a biztosra."
+        },
+        {
+          "text": "Az Európai Parlament és a Tanács közös megegyezéssel nevezi ki a biztost ötéves, megújítható időtartamra, a Bizottság nyilvános felhívás után készített listája alapján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kinevezés két intézmény közös aktusa. A 45/2001/EK rendelet 42. cikk (1) bekezdése szerint a Parlament és a Tanács közös megegyezéssel nevezi ki az európai adatvédelmi biztost ötéves időtartamra, a Bizottság listája alapján; ugyanezen az úton helyettes biztost is kineveznek. A (3) bekezdés szerint a kinevezés megújítható. Ez elválik az ombudsman 228. cikk (2) bekezdése szerinti, csak parlamenti választástól."
+        },
+        {
+          "text": "A Bíróság a Parlament, a Tanács vagy a Bizottság kérelmére felmentheti a biztost, ha már nem felel meg a feltételeknek, vagy súlyos kötelességszegést követett el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felmentési indítvány köre tágabb az ombudsmannál. A 45/2001/EK rendelet 42. cikk (5) bekezdése szerint a biztost a Parlament, a Tanács vagy a Bizottság kérelmére a Bíróság felmentheti, vagy a nyugdíjhoz való jogától megfoszthatja a megjelölt esetekben. Az EUMSZ 228. cikk (2) bekezdése szerint az ombudsmannál csak a Parlament kérelmezhet felmentést. A (6) bekezdés a folyamatosságot őrzi: lejárat vagy lemondás után a biztos hivatalában marad, amíg utódjáról nem gondoskodnak."
+        },
+        {
+          "text": "A biztost kizárólag az Európai Parlament választja a parlamenti ciklus időtartamára, a Tanács nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez az ombudsman modellje. Az EUMSZ 228. cikk (2) bekezdése szerint az ombudsmant a Parlament választja a parlamenti ciklusra. A 45/2001/EK rendelet 42. cikk (1) bekezdése a biztost a Parlament és a Tanács közös megegyezésével, ötéves időtartamra nevezi ki. A tévedés a 228. cikk szabályait írja rá a 42. cikkre."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "f9385b1d63ba"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható az európai adatvédelmi biztos felügyelete a Bíróságra?",
+      "options": [
+        {
+          "text": "A Bíróság-kivétel a 228. cikk (1) bekezdésével és a Charta 43. cikkével egy irányba mutat: a bírói függetlenség nem ombudsmani vagy adatvédelmi felügyelet tárgya.",
+          "isCorrect": true,
+          "rationale": "IGAZ, három szöveg ugyanazt a falat állítja. Az EUMSZ 228. cikk (1) bekezdése és a Charta 43. cikke az igazságszolgáltatási hatáskörében eljáró Bíróságot vonja ki az ombudsmani panasz alól. A 45/2001/EK rendelet 46. cikk c) pontja ugyanezt a falat az adatvédelmi biztos felügyelete elé állítja. A három rendelkezés a bírói működés védelmét szolgálja, nem az intézményi adminisztratív adatkezelés teljes mentességét."
+        },
+        {
+          "text": "A Bíróság-kivétel csak az ombudsmanra áll, az adatvédelmi biztosra a 46. cikk teljes hatállyal kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivétel a biztosra is áll. A 45/2001/EK rendelet 46. cikk c) pontja a Bíróság bírósági minőségét kiveszi a biztos felügyelete alól. Az EUMSZ 228. cikk (1) bekezdése és a Charta 43. cikke ugyanezt az ombudsmannál mondja ki. A tévedés a három szöveg párhuzamos falát figyelmen kívül hagyja."
+        },
+        {
+          "text": "A 46. cikk c) pontja kiveszi a Bíróságot, amennyiben bírósági minőségében jár el, a közösségi intézményi adatfeldolgozás figyelemmel kísérése alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bírói minőség fal a hatósági felügyelet előtt. A 45/2001/EK rendelet 46. cikk c) pontja szerint a biztos figyelemmel kíséri és biztosítja a rendelet és más közösségi adatvédelmi aktusok alkalmazását a közösségi intézmény vagy szerv feldolgozásával kapcsolatban, „kivéve ez utóbbiak közül az Európai Közösségek Bíróságát, amennyiben bírósági minőségében jár el”. Ez azonos funkciójú a 228. cikk (1) bekezdése és a Charta 43. cikke ombudsmani kivételével."
+        },
+        {
+          "text": "A biztos a Bíróság bírósági minőségében végzett tevékenységét is előzetesen ellenőrzi a 46. cikk j) pontja szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bírósági minőség kivétel a felügyelet alól. A 45/2001/EK rendelet 46. cikk c) pontja kifejezetten kiveszi a Bíróságot, ha bírósági minőségében jár el. A j) pont szerinti előzetes ellenőrzés az értesített adatfeldolgozásra vonatkozik, nem a bírói ítélkezésre. A tévedés az előzetes ellenőrzést a Bíróság-kivétel fölé helyezi."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "ae6d137d03e1"
+    },
+    {
+      "question": "Mi következik abból, ha az adatvédelmi biztos hivatali visszásság helyett személyesadat-feldolgozási jogsértést állapít meg?",
+      "options": [
+        {
+          "text": "A biztos csak három hónapos intézményi válaszidő után küldhet jelentést a Parlamentnek, elrendelés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három hónapos séma az ombudsmané. Az EUMSZ 228. cikk (1) bekezdése szerint hivatali visszásság esetén az érintett intézménynek három hónap áll rendelkezésére az álláspont közlésére, majd jelentés következik. A 45/2001/EK rendelet 47. cikke elrendelést és tilalmat ad; a 31. cikk szerinti válaszadás ésszerű időhöz kötött. A tévedés az ombudsmani megkeresés–jelentés sémát írja rá a biztosra."
+        },
+        {
+          "text": "A 47. cikk (1) bekezdése szerint elrendelheti többek között a helyesbítést, zárolást, törlést vagy megsemmisítést, valamint az adatfeldolgozás átmeneti vagy végleges tilalmát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a biztos elrendelő hatalma minőségileg elválik az ombudsmantól. A 45/2001/EK rendelet 47. cikk (1) bekezdés e) pontja szerint elrendelheti bármely adat helyesbítését, zárolását, törlését vagy megsemmisítését, ha a feldolgozás a rendelkezések megsértésével történt, és a címzettek értesítését. Az f) pont az adatfeldolgozás átmeneti vagy végleges tilalmát teszi lehetővé. Az EUMSZ 228. cikk (1) bekezdése az ombudsmannak csak megkeresést és jelentést ad."
+        },
+        {
+          "text": "A biztos a Szerződés feltételei szerint a Bíróság elé utalhatja az ügyet, és beavatkozóként is eljárhat a Bíróság előtti ügyekben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatósági út a perig ível. A 45/2001/EK rendelet 47. cikk (1) bekezdés h) pontja szerint a biztos az ügyet a Szerződésben meghatározott feltételek szerint a Bíróság elé utalhatja; az i) pont szerint beavatkozóként járhat el. A g) pont az ügyet az érintett intézmény, illetve szükség esetén a Parlament, a Tanács vagy a Bizottság elé utalhatja. Ez túlmutat az ombudsman parlamenti jelentésén."
+        },
+        {
+          "text": "A 47. cikk (2) bekezdése szerinti betekintés és helyiségbe lépés csak a Parlament előzetes engedélyével gyakorolható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vizsgálati hatáskör a biztos saját jogosítványa. A 45/2001/EK rendelet 47. cikk (2) bekezdése szerint a biztos hatáskörrel rendelkezik, hogy az adatkezelőtől vagy intézménytől valamennyi személyes adatba és a szükséges információba betekintést nyerjen, valamint belépjen a helyiségbe, ha ésszerűen feltételezhető, hogy ott a rendelet hatálya alá tartozó tevékenység zajlik. Parlamenti engedélyt a szöveg nem kíván. A tévedés a 228. cikk parlamenti kötődését írja rá a 47. cikkre."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "4f55b1dfa246"
+    },
+    {
+      "question": "Milyen függetlenségi szabályok mellett viseli hivatalát az európai adatvédelmi biztos a 44. cikk szerint?",
+      "options": [
+        {
+          "text": "Megbízatása ideje alatt nem vállalhat egyéb szakmai tevékenységet, jövedelemtől függetlenül, és a megbízatás lejárta után is feddhetetlenséget és tartózkodást követel a kinevezések és előnyök elfogadásában.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a tisztség idejére és utána is áll. A 45/2001/EK rendelet 44. cikk (3) bekezdése tiltja a feladatokkal össze nem egyeztethető cselekedetet és az egyéb szakmai tevékenységet, függetlenül attól, hogy abból jövedelem származik-e. A (4) bekezdés a megbízatás lejárta után a kinevezések és előnyök elfogadása tekintetében feddhetetlenséget és tartózkodást követel. A 45. cikk a szakmai titoktartást a megbízatási időre és az azt követő időszakra is kiterjeszti."
+        },
+        {
+          "text": "A biztos a megbízatás alatt folytathat kereső foglalkozást, ha azt a Parlament előzetesen engedélyezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyéb szakmai tevékenység tilos. A 45/2001/EK rendelet 44. cikk (3) bekezdése szerint a biztos megbízatásának ideje alatt nem vállalhat egyéb szakmai tevékenységet, jövedelemtől függetlenül. Az EUMSZ 228. cikk (3) bekezdése az ombudsmannál a kereső és az ingyenes foglalkozást egyaránt tiltja. A tévedés parlamenti engedélyt told a tilalomhoz."
+        },
+        {
+          "text": "A 44. cikk (2) bekezdése szerinti utasítási tilalom a Testület titkárságára is kiterjed, amelyet a biztos biztosít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két utasítási rend elválik. A 2016/679/EU rendelet 75. cikk (2) bekezdése szerint a Testület titkársága kizárólag a Testület elnökének utasításai alapján végzi feladatait. A 45/2001/EK rendelet 44. cikk (2) bekezdése a biztos saját feladatkörére marad; a 75. cikk (3) bekezdése eltérő függelmi rendszert ír elő. A tévedés a két titkársági rendet összevonja."
+        },
+        {
+          "text": "A biztos feladatkörének ellátása során teljesen függetlenül jár el, és senkitől nem kérhet és nem fogadhat el utasítást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az utasítási tilalom a függetlenség magva. A 45/2001/EK rendelet 44. cikk (1) bekezdése szerint a biztos feladatkörének ellátása során teljesen függetlenül jár el; a (2) bekezdés szerint senkitől nem kérhet és nem fogadhat el utasítást. A 43. cikk (4) bekezdése a titkárságot kizárólag a biztos alá rendeli — enélkül az utasítási tilalom kijátszható volna. Az EUMSZ 228. cikk (3) bekezdése hasonló klauzulát ad az ombudsmanra."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "cc56167375fc"
+    },
+    {
+      "question": "Egy uniós intézmény adatvédelmi tisztviselője panaszt tesz a biztosnál a belső szabályok tervezete előtt. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A belső szabályok tervezetéről csak az ombudsman adhat véleményt, mert a 228. cikk a hivatali visszásság megelőzésére is kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a preventív tanácsadás a biztos feladata. A 45/2001/EK rendelet 46. cikk d) pontja kifejezetten a belső szabályok meghatározása előtti tanácsadást írja elő. Az EUMSZ 228. cikk (1) bekezdése a hivatali visszásság panaszalapú vagy hivatalbóli vizsgálatát adja, nem a belső adatvédelmi szabályalkotás előzetes konzultációját. A tévedés az ombudsmani tárgyat kiterjeszti a 46. cikk d) pontjára."
+        },
+        {
+          "text": "A panasz meghallgatása és kivizsgálása után a biztosít ésszerű időn belül értesítenie kell az érintettet a vizsgálat eredményéről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az értesítés határidő-kötött. A 45/2001/EK rendelet 46. cikk a) pontja szerint a biztos meghallgatja és kivizsgálja a panaszokat, és ésszerű időn belül értesíti az érintettet a vizsgálat eredményéről; a b) pont ugyanezt a hivatalbóli vagy panaszalapú vizsgálatra mondja ki. Az EUMSZ 228. cikk (1) bekezdése az ombudsmani panaszost a vizsgálat eredményéről tájékoztatja, de ésszerű időt nem ír elő. A különbség a hatósági eljárásrendben van."
+        },
+        {
+          "text": "A 46. cikk d) pontja szerint a biztos tanácsot adhat, különösen mielőtt az intézmény a személyesadat-feldolgozás védelmére vonatkozó belső szabályokat határozna meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tanácsadás a belső szabályalkotás előtt nevesített. A 45/2001/EK rendelet 46. cikk d) pontja szerint a biztos saját kezdeményezése alapján vagy konzultáció keretében tanácsokkal lát el minden közösségi intézményt és szervet a személyes adatok feldolgozására vonatkozó kérdésekben, különösen a belső szabályok meghatározása előtt. A 47. cikk (1) bekezdés a) pontja az érintetteknek is tanácsot adhat jogaik gyakorlásáról. Ez hatósági-preventív eszköz, nem petíció."
+        },
+        {
+          "text": "A panaszos értesítésére nincs határidő, mert a 46. cikk a) pontja csak a meghallgatást írja elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értesítés ésszerű időhöz kötött. A 45/2001/EK rendelet 46. cikk a) pontja szerint a biztos meghallgatja és kivizsgálja a panaszokat, és ésszerű időn belül értesíti az érintettet. A b) pont ugyanezt a vizsgálatok eredményéről mondja ki. A tévedés a 228. cikk határidő nélküli tájékoztatási formuláját írja rá a 46. cikkre."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "912084ed74a8"
+    },
+    {
+      "question": "Kinek címzi az európai adatvédelmi biztos az éves jelentését, és mi a parlamenti vizsgálat tárgya?",
+      "options": [
+        {
+          "text": "A jelentés zárt hatósági aktus, amelyet tilos nyilvánosságra hozni a folyamatban lévő vizsgálatok miatt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyilvánosság kötelező. A 45/2001/EK rendelet 48. cikk (1) bekezdése szerint a biztos a jelentést egyidejűleg nyilvánosságra is hozza. A 45. cikk szerinti szakmai titoktartás a bizalmas információra áll; a 48. cikk nyilvánossága a tevékenységre vonatkozik. A tévedés a titoktartást a jelentés egészére kiterjeszti."
+        },
+        {
+          "text": "Az éves jelentés kizárólag a Parlamentnek szól, a Tanács és a Bizottság nem címzett, ahogy az ombudsmannál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az adatvédelmi biztos éves jelentése nem csak a Parlamentnek szól. A 45/2001/EK rendelet 48. cikk (1) bekezdése a Parlamentet, a Tanácsot és a Bizottságot egyaránt címzi, és a nyilvánosságot kötelezővé teszi. Az EUMSZ 228. cikk (1) bekezdése az ombudsman éves jelentését a Parlamentnek címzi. A tévedés az ombudsmani címzési mintát írja rá a biztosra."
+        },
+        {
+          "text": "A biztos tevékenységéről éves jelentést nyújt be a Parlamenthez, a Tanácshoz és a Bizottsághoz, és azt egyidejűleg nyilvánosságra is hozza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címzettek a három kinevezésben érdekelt intézmény. A 45/2001/EK rendelet 48. cikk (1) bekezdése szerint a biztos éves jelentést nyújt be az Európai Parlamenthez, a Tanácshoz és a Bizottsághoz, és azt egyidejűleg nyilvánosságra is hozza. Az EUMSZ 228. cikk (1) bekezdése az ombudsman éves jelentését csak a Parlamentnek címzi. A kinevezés, a felmentés és a jelentés tehát ugyanahhoz a három intézményhez kötődik."
+        },
+        {
+          "text": "A (2) bekezdés szerint a többi intézmény észrevételt nyújthat be, különösen a 31. cikk szerinti észrevételekre válaszként tett intézkedések ismertetése tekintetében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 31. cikk szerinti intézményi válasz parlamenti kontroll tárgyává válik. A 45/2001/EK rendelet 48. cikk (2) bekezdése a jelentést a többi közösségi intézménynek és szervnek is továbbítja; azok észrevételt nyújthatnak be, hogy a Parlament megvizsgálja a jelentést, különösen a 31. cikk szerinti észrevételekre válaszként tett intézkedések ismertetése tekintetében. A 31. cikk a 47. cikk (1) bekezdés b) pontjához kapcsolódó válaszadási kötelezettséget ró az adatkezelőre."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "474125572c79"
+    },
+    {
+      "question": "Miben tér el a 226. cikk szerinti ideiglenes vizsgálóbizottság a petíciótól és az ombudsmani panasztól?",
+      "options": [
+        {
+          "text": "A 226. cikknél a lis pendens-fal a folyamatban lévő perre áll; a 228. cikknél a folyamatban lévő vagy lezárt bírósági eljárás egyaránt kizárja a vizsgálatot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két fal időbeli hatálya különbözik. Az EUMSZ 226. cikk tilalma szerint a tényállást bíróság vizsgálja, és a per még nem zárult le. Az EUMSZ 228. cikk (1) bekezdése szerint az ombudsman nem folytat vizsgálatot, ha az állítólagos tényállás bírósági eljárás tárgyát képezi vagy képezte. A 226. cikk a más intézményekre ruházott hatáskörök sérelme nélkül jár el."
+        },
+        {
+          "text": "A vizsgálóbizottság a Bíróság igazságszolgáltatási tevékenységét is felülvizsgálhatja, ha a jogsértés súlyos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 226. cikk a más intézményekre ruházott hatáskörök sérelme nélkül jár el, és a folyamatban lévő bírósági eljárás falat állít. Az EUMSZ 226. cikk kifejezetten tilalmazza a vizsgálatot, ha a tényállást bíróság vizsgálja, és a per még nem zárult le. A Bíróság igazságszolgáltatási tevékenysége a 228. cikk és a Charta 43. cikke szerint sem ombudsmani tárgy. A tévedés a vizsgálóbizottságot szuper-bírósággá emeli."
+        },
+        {
+          "text": "A vizsgálóbizottság a Parlament tagjainak egynegyede kérelmére indul, míg a petíciót a polgár vagy a lakóhelyes, székhelyes személy indítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kezdeményező alany elválik. Az EUMSZ 226. cikk a Parlamentnek a tagok egynegyedének kérelmére ideiglenes vizsgálóbizottságot ad az uniós jog végrehajtása során felmerülő állítólagos jogsértés vagy hivatali visszásság kivizsgálására. Az EUMSZ 227. cikk szerinti petíciót a polgár vagy a lakóhelyes, székhelyes személy nyújtja be. Az ombudsman a 228. cikk (1) bekezdése szerint panaszra vagy hivatalból vizsgál — személyhez kötött tisztség, nem képviselői hányad."
+        },
+        {
+          "text": "A petícióhoz is a képviselők egynegyedének támogatása kell, különben a Parlament nem veszi át.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a petíció polgári indítású, küszöb nélkül. Az EUMSZ 227. cikk szerint a jogosult egyénileg vagy közösen nyújthat be petíciót; egynegyedes képviselői küszöböt nem ír elő. A helyes: az egynegyedes küszöb az EUMSZ 226. cikk szerinti vizsgálóbizottságé. A tévedés a belső parlamenti eszközt írja rá a polgári petícióra."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "1788978adce1"
+    },
+    {
+      "question": "Milyen tartamban áll rendelkezésére az érintett intézménynek, hogy az ombudsman megkeresésére álláspontját közölje?",
+      "options": [
+        {
+          "text": "A három hónapos válaszidő az adatvédelmi biztos 47. cikk szerinti megkeresésére is irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három hónapos séma csak az ombudsmané. Az EUMSZ 228. cikk (1) bekezdése ezt a határidőt a hivatali visszásság miatti megkereséshez köti. A 45/2001/EK rendelet 31. cikke a biztos észrevételére adott intézményi választ ésszerű időhöz köti; a 47. cikk elrendelést ad. A tévedés a 228. cikk határidőjét írja rá a biztosra."
+        },
+        {
+          "text": "Az intézménynek harminc nap áll rendelkezésére, és ha nem válaszol, az ombudsman kötelező határozatot hoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő három hónap, és nincs kötelező határozat. Az EUMSZ 228. cikk (1) bekezdése három hónapos tájékoztatási időt ad, majd jelentést ír elő. A helyes elrendelő hatalom a 45/2001/EK rendelet 47. cikkénél az adatvédelmi biztosnál van. A tévedés a határidőt lerövidíti és hatósági aktussá torzítja az ombudsmani eszközt."
+        },
+        {
+          "text": "A három hónapos megkeresést követően az ombudsman jelentést küld a Parlamentnek és az érintett intézménynek, szervnek vagy hivatalnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a joghatás jelentés, nem elrendelés. Az EUMSZ 228. cikk (1) bekezdése a három hónapos válaszidő után a jelentést a Parlamentnek és az érintettnek címzi, és a panaszost a vizsgálatok eredményéről tájékoztatja. Évente a vizsgálatok eredményeiről is jelentést nyújt be a Parlamentnek. A 45/2001/EK rendelet 47. cikke szerinti elrendelő hatalom itt nincs."
+        },
+        {
+          "text": "Hivatali visszásság megállapítása esetén az érintett intézménynek, szervnek vagy hivatalnak három hónap áll rendelkezésére az álláspont közlésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három hónapos válaszidő szerződési szintű. Az EUMSZ 228. cikk (1) bekezdése szerint ha az ombudsman hivatali visszásságot állapít meg, megkeresi az érintett intézményt, szervet vagy hivatalt, „amelynek három hónap áll rendelkezésére, hogy tájékoztassa őt álláspontjáról”. Ezt követően jelentést küld a Parlamentnek és az érintettnek, és a panaszost tájékoztatja. Az adatvédelmi biztosnál a 31. cikk szerinti válaszadás ésszerű időhöz kötött, nem három hónaphoz."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "6c481effc723"
+    },
+    {
+      "question": "A 15. cikk (3) bekezdése szerinti dokumentumhoz jutás hogyan határolódik el a petíciótól?",
+      "options": [
+        {
+          "text": "A dokumentumhoz jutás csak uniós polgárnak jár; a lakóhelyes nem polgár kizárólag petíciót nyújthat be.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a dokumentumhoz jutás személyi köre nem szűkül a polgárra. Az EUMSZ 15. cikk (3) bekezdése uniós polgárt, valamint tagállami lakóhellyel vagy székhellyel rendelkező természetes vagy jogi személyt jogosít. Az EUMSZ 227. cikk ugyanezt a kört adja a petícióhoz. A tévedés a 24. cikk polgári megszólítását leszűkíti mindkét intézményre."
+        },
+        {
+          "text": "A dokumentumhoz jutáshoz is szükséges, hogy az ügy a kérelmezőt közvetlenül érintse, mint a petíciónál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen érintettség a petíció szűrője. Az EUMSZ 227. cikk kívánja a közvetlen érintettséget; az EUMSZ 15. cikk (3) bekezdése szerinti dokumentumhoz jutás a nyitottság eszköze, nem e szűrő másolata. A tévedés a 227. cikk feltételeit írja rá a 15. cikkre."
+        },
+        {
+          "text": "A dokumentumhoz jutás ugyanannak a személyi körnek jár, mint a 227. cikk szerinti petíció: uniós polgár, valamint tagállami lakóhelyes vagy székhelyes természetes vagy jogi személy.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyi kör párhuzamos, a tárgy nem. Az EUMSZ 15. cikk (3) bekezdése a dokumentumhoz jutást adja ugyanannak a személyi körnek, mint az EUMSZ 227. cikk. A Charta a dokumentumhoz jutást a megjelenési formától függetlenül is kimondja. A petíció tevékenységi területre tartozó, közvetlenül érintő ügy; a dokumentumhoz jutás a nyitottság eszköze."
+        },
+        {
+          "text": "A dokumentumhoz jutás a nyitottság eszköze, nem a 227. cikk tevékenységi terület–közvetlen érintettség szűrője.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két jog tárgya elválik. Az EUMSZ 227. cikk a petícióhoz két tárgyi szűrőt állít: Unió tevékenységi területe és közvetlen érintettség. Az EUMSZ 15. cikk (3) bekezdése szerinti dokumentumhoz jutás e szűrők nélkül a nyitottságot szolgálja. A 24. cikk negyedik albekezdése a nyelvhasználatot a 13. cikk intézményeire is kiterjeszti; a petíció e nyelvi jog alatt is gyakorolható."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "00780dc2e5a2"
+    },
+    {
+      "question": "A Charta 43. cikke mit emel alapjoggá, és mit hagy a 228. cikk intézményi statútumán?",
+      "options": [
+        {
+          "text": "A 43. cikk a jogosultat, a címzettet, a hivatali visszásság tárgyát és a Bíróság-kivételt mondja ki alapjogi nyelven.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Charta az ombudsmani út alapjogi magvát adja. A Charta 43. cikke szerint bármely uniós polgár, valamint tagállami lakóhelyes vagy székhelyes természetes vagy jogi személy jogosult az európai ombudsmanhoz fordulni hivatali visszásság esetén, kivéve az igazságszolgáltatási hatáskörében eljáró Bíróságot. Az EUMSZ 228. cikk (1) bekezdése ugyanezt a kört és kivételt intézményesíti. A 44. cikktől a címzett határol: ott a Parlament és a petíció."
+        },
+        {
+          "text": "A Charta 43. cikke a Bíróság-kivételt megszünteti, ezért az ombudsman a bírói tevékenységet is vizsgálhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Charta a Bíróság-kivételt megőrzi, nem oldja fel. A Charta 43. cikke kifejezetten kivonja az igazságszolgáltatási hatáskörében eljáró Bíróságot az ombudsmanhoz fordulás tárgyából. Az EUMSZ 228. cikk (1) bekezdése ugyanezt a falat állítja a hivatali visszásság panaszához. A tévedés a Chartát a bírói függetlenség feloldásaként olvassa."
+        },
+        {
+          "text": "A választást, a felmentést, a három hónapos megkeresést és a foglalkozási tilalmat a Charta nem ismétli: azok a 228. cikk (1)–(4) bekezdésén maradnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Charta nem pótolja az intézményi statútumot. Az EUMSZ 228. cikk (2) bekezdése a parlamenti ciklushoz kötött választást és a bírói felmentést, az (1) bekezdés a három hónapos megkeresést, a (3) bekezdés a foglalkozási tilalmat adja — ezeket a Charta 43. cikke nem másolja át. A 24. cikk harmadik albekezdése a polgár számára a 228. cikkre utal; a 43. cikk a nem polgár lakóhelyes és székhelyes jogosultat is megnevezi."
+        },
+        {
+          "text": "A Charta 43. cikke az ombudsman felmentését a Parlament egyszerű többségére bízza, a Bíróság nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmentés nem a Charta, hanem a szerződés intézményi statútumának tárgya. Az EUMSZ 228. cikk (2) bekezdése szerint az ombudsmant a Bíróság a Parlament kérelmére mentheti fel, ha már nem felel meg a feltételeknek, vagy súlyos kötelezettségszegést követett el. A Charta 43. cikke a jogosultat, a tárgyat és a Bíróság-kivételt emeli alapjoggá, a felmentést nem szabályozza. A tévedés parlamenti egyszerű többséget told a Chartához."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "a4552fd57509"
+    },
+    {
+      "question": "Tanító kérdés: mely állítások hamisak az európai adatvédelmi biztos kinevezéséről és megbízatásának megszűnéséről?",
+      "options": [
+        {
+          "text": "Felmentést kizárólag a Parlament indíthat, a Tanács és a Bizottság kérelmezési joga nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmentési indítvány nem parlamenti monopólium a biztosnál. A 45/2001/EK rendelet 42. cikk (5) bekezdése szerint a biztost a Parlament, a Tanács vagy a Bizottság kérelmére a Bíróság felmentheti, ha már nem felel meg a feltételeknek, vagy súlyos kötelességszegést követett el. A helyes: három intézmény indíthat. Az EUMSZ 228. cikk (2) bekezdése szerinti ombudsmani modellnél csak a Parlament kérelmez — ezt nem szabad a biztosra írni."
+        },
+        {
+          "text": "A megbízatás lejárta után a biztos azonnal távozik, utód kinevezése nélkül is betöltetlenül hagyva a hivatalt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a folyamatosság védett. A 45/2001/EK rendelet 42. cikk (6) bekezdése szerint a megbízatás lejárta vagy lemondás esetén a biztos mindaddig hivatalában marad, amíg utódjáról nem gondoskodnak. A helyes: a lejárat nem hagyja betöltetlenül a hivatalt. A tévedés a (6) bekezdés hiányát feltételezi."
+        },
+        {
+          "text": "Helyettes biztost nem neveznek ki; akadályoztatás esetén a Parlament ideiglenes megbízottat jelöl ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet helyettes biztost ír elő. A 45/2001/EK rendelet 42. cikk (1) bekezdése szerint ugyanezen eljárás szerint és ugyanilyen időtartamra helyettes biztost neveznek ki, aki a távollétet és az akadályoztatást fedi. A (8) bekezdés a (2)–(7) bekezdést a helyettesre is alkalmazza. A helyes: nincs parlamenti ideiglenes megbízott a helyettes helyett."
+        },
+        {
+          "text": "A biztost a Bizottság elnöke egyoldalúan nevezi ki, a Parlament és a Tanács közreműködése nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kinevezés nem egyoldalú bizottsági aktus. A 45/2001/EK rendelet 42. cikk (1) bekezdése szerint az Európai Parlament és a Tanács közös megegyezéssel nevezi ki a biztost ötéves időtartamra, a Bizottság nyilvános felhívás után készített listája alapján. A helyes: a Bizottság listát készít, de a kinevezés a két intézmény közös megegyezése. A tévedés a listakészítést kinevezési monopóliummá torzítja."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "3c376a0c7afe"
+    },
+    {
+      "question": "A 43. cikk szerinti titkárság hogyan biztosítja az európai adatvédelmi biztos függetlenségét?",
+      "options": [
+        {
+          "text": "Az ombudsman 228. cikk (4) bekezdése szerinti pálya azonos: három intézmény közös megegyezése az illetményről.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két feladatellátási pálya szerkezete eltér. Az EUMSZ 228. cikk (4) bekezdése az ombudsman szabályait a Parlament saját kezdeményezésű, különleges jogalkotási rendeleteire bízza, a Bizottság véleménye és a Tanács egyetértése mellett. A 45/2001/EK rendelet 43. cikk (1) bekezdése a Parlament, a Tanács és a Bizottság közös megegyezését kívánja, és a tárgy különösen az illetmény és a juttatások. A tévedés a két statútumot azonos eljárássá sűríti."
+        },
+        {
+          "text": "A Parlament, a Tanács és a Bizottság közös megegyezéssel állapítja meg a feladatkör ellátásának szabályait, különösen az illetményt és a juttatásokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három intézmény közös megegyezése kell. A 45/2001/EK rendelet 43. cikk (1) bekezdése szerint a Parlament, a Tanács és a Bizottság közös megegyezéssel határozza meg a szabályokat és általános feltételeket, különösen az illetményt és a javadalmazás helyébe lépő juttatásokat. A (2) bekezdés szerint a költségvetési hatóság biztosítja a szükséges személyi és anyagi erőforrásokat; a (3) bekezdés szerint a költségvetés az Unió általános költségvetése VIII. szakaszának külön sorában jelenik meg. Ez elválik a 228. cikk (4) bekezdése szerinti, Parlament-kezdeményezésű ombudsmani rendeleti pályától."
+        },
+        {
+          "text": "A titkárság a Bizottság személyzeti főigazgatóságának irányítása alá tartozik, a biztos csak szakmai felügyeletet gyakorol.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a titkárság kizárólag a biztos alá tartozik. A 45/2001/EK rendelet 43. cikk (4) bekezdése a kinevezést és az irányítást a biztosra telepíti. A 44. cikk (2) bekezdése szerinti utasítási tilalom e nélkül kijátszható volna. A tévedés a Bizottság igazgatási szerepét írja rá a 43. cikkre."
+        },
+        {
+          "text": "A titkárság tisztviselőit és más alkalmazottait a biztos nevezi ki; felettesük a biztos, és kizárólag az ő irányítása alá tartoznak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kinevezési monopólium a szervezeti garancia. A 45/2001/EK rendelet 43. cikk (4) bekezdése szerint a titkárság tisztviselőit és más alkalmazottait az európai adatvédelmi biztos nevezi ki; a felettesük a biztos, és kizárólag az ő irányítása alá tartoznak. Létszámukról évente a költségvetési eljárás keretében döntenek. Ez a 44. cikk (2) bekezdése szerinti utasítási tilalom szervezeti feltétele."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "ff82fb7ef76b"
+    },
+    {
+      "question": "Mi következik abból, ha a petíció, az ombudsmani panasz és az adatvédelmi panasz tárgya részben fedné egymást?",
+      "options": [
+        {
+          "text": "A személyi kör a petíciónál és az ombudsmannál a polgár plusz a lakóhelyes, székhelyes természetes és jogi személy; a 16. cikk (1) bekezdése szerinti adatvédelmi alanyi jog mindenkit megillet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az adatvédelmi alanyi jog a legszélesebb. Az EUMSZ 227. és 228. cikk a polgárt, valamint a tagállami lakóhelyes vagy székhelyes személyt jogosítja. Az EUMSZ 16. cikk (1) bekezdése mindenkinek alanyi jogot ad a rá vonatkozó személyes adatok védelméhez. A 45/2001/EK rendelet 46. cikk a) pontja a panasz meghallgatását ehhez a hatósági úthoz köti."
+        },
+        {
+          "text": "Az adatvédelmi alanyi jog csak uniós polgárt illet meg, ezért a nem polgár kizárólag petíciót nyújthat be.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az adatvédelmi alanyi jog nem korlátozódik az uniós polgárra. Az EUMSZ 16. cikk (1) bekezdése szerint mindenkinek joga van a rá vonatkozó személyes adatok védelméhez. A petíció és az ombudsman személyi köre a 227–228. cikkben a polgár plusz lakóhelyes vagy székhelyes személy. A tévedés a 24. cikk polgári keretét írja rá a 16. cikkre."
+        },
+        {
+          "text": "Ha valaki petíciót nyújtott be, az ombudsmani panasz és az adatvédelmi panasz automatikusan elutasítandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a petíció benyújtása nem zárja el a többi utat. Az EUMSZ 227. cikk, az EUMSZ 228. cikk és a 45/2001/EK rendelet 41–48. cikke elválasztandó csatornák: a petíció nem zárja ki az ombudsmani panaszt, és az ombudsmani vizsgálat nem fogyasztja el a 47. cikk szerinti hatósági utat személyesadat-feldolgozásnál. A tévedés egyetlen panaszút-fogyasztást feltételez."
+        },
+        {
+          "text": "A három csatorna párhuzamosan nyitva marad: a petíció nem zárja ki az ombudsmani panaszt, az ombudsmani vizsgálat nem fogyasztja el a 47. cikk szerinti hatósági utat, ha a tárgy személyesadat-feldolgozás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három csatorna párhuzamosan nyitva marad, fogyasztás nélkül. Az EUMSZ 227. cikk petíciója parlamenti előterjesztés; az EUMSZ 228. cikk ombudsmani vizsgálata megkeresés és jelentés; a 45/2001/EK rendelet 47. cikke elrendelést ad. A petíció nem zárja ki az ombudsmani panaszt, és az ombudsmani vizsgálat nem fogyasztja el a 47. cikk szerinti hatósági utat, ha a tárgy személyesadat-feldolgozás. A 24. cikk a polgárt a 227. és a 228. cikkhez utalja, az adatvédelmi biztost nem említi."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "597601f8f05d"
+    },
+    {
+      "question": "A 46. cikk f) pontja szerinti együttműködés kivel és milyen céllal kötelezi az európai adatvédelmi biztost?",
+      "options": [
+        {
+          "text": "A nemzeti felügyelőkkel való együttműködés helyettesíti a 41. cikk szerinti intézményi felügyeletet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két sáv párhuzamos. A 45/2001/EK rendelet 41. cikke a közösségi intézmények és szervek feldolgozásának független ellenőrzőjét hozza létre. A 46. cikk f) pontja a nemzeti felügyelőkhöz és a volt VI. cím szerinti szervekhez kapcsolja a biztost. Az EUMSZ 16. cikk (2) bekezdése többes számban nevezi meg a független hatóságokat. A tévedés a hálózatot egyetlen hatáskör-átruházássá sűríti."
+        },
+        {
+          "text": "Az f) pont felhatalmazza a biztost, hogy a 39. cikk szerinti tanácsi határozatot maga fogadja el a KKBP-feldolgozásról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a biztos nem lép a Tanács helyébe. Az EUSZ 39. cikk a Tanács határozatát írja elő a KKBP-sávban. A 45/2001/EK rendelet 46. cikk f) pontja együttműködést ad a nemzeti és a volt VI. cím szerinti szervekkel, anélkül hogy a 39. cikk aktusát a biztos hozná. A tévedés az együttműködést jogalkotási hatáskörré torzítja."
+        },
+        {
+          "text": "A biztos együttműködik a 95/46/EK irányelv 28. cikke szerinti nemzeti felügyelő hatóságokkal, különösen a hasznos információk cseréje útján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti felügyelőkkel való együttműködés a felügyeleti hálózat része. Az európai adatvédelmi biztos a 45/2001/EK rendelet 46. cikk f) pont i. alpontja alapján együttműködik a 95/46/EK irányelv 28. cikkében említett nemzeti felügyelő hatóságokkal, olyan mértékben, amilyen mértékben e hatóságoknak saját feladatkörük ellátásához szükségük van, különösen információcsere és megkeresés útján. Ez az EUMSZ 16. cikk (2) bekezdése szerinti párhuzamos felügyelet kiegészítése, nem hatáskörelvonás."
+        },
+        {
+          "text": "Az f) pont ii. alpontja az Európai Unióról szóló szerződés VI. címe alapján létrehozott adatvédelmi ellenőrző szervekkel való együttműködést írja elő, különösen az egységesség javítása céljából.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a volt VI. cím szerinti szervekkel való kapcsolódás együttműködés, nem hatáskörelvonás. Az európai adatvédelmi biztos a 45/2001/EK rendelet 46. cikk f) pont ii. alpontja alapján együttműködik az Európai Unióról szóló szerződés VI. címe alapján létrehozott adatvédelmi ellenőrző szervekkel, különösen az egységesség javítása céljából. Az EUSZ 39. cikk tanácsi határozatát a biztos nem hozza meg. A g) pont a 95/46/EK irányelv 29. cikke szerinti munkacsoportban való részvételt adja."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "bbd027d85ef2"
+    },
+    {
+      "question": "Egy spanyolországi székhelyű társaság petíciót kíván benyújtani uniós támogatási eljárás miatt. Mely megállapítások helytállóak?",
+      "options": [
+        {
+          "text": "A társaság csak akkor petíciózhat, ha előbb ombudsmani panaszt nyújtott be hivatali visszásság miatt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a petíció nem feltételez ombudsmani előzetes utat. Az EUMSZ 227. cikk önálló előterjesztési jogot ad; az EUMSZ 228. cikk a hivatali visszásság panaszútja. A három csatorna párhuzamosan nyitva marad. A tévedés sorrendi kényszert told a szerződéshez."
+        },
+        {
+          "text": "A petíciónak az Unió tevékenységi területére kell tartoznia, és a társaságot közvetlenül kell érintenie.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szűrő a jogi személyre is áll. Az EUMSZ 227. cikk az Unió tevékenységi területére tartozó és a kérelmezőt közvetlenül érintő ügyet kíván. A közvetlenség kizárja a populáris panaszt; a tevékenységi terület a hatásköri fegyelem. A címzett az Európai Parlament, nem a Bizottság és nem az ombudsman."
+        },
+        {
+          "text": "A petíciót a Bizottsághoz kell címezni, mert a támogatási eljárás a Bizottság végrehajtó hatáskörébe tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a címzett a Parlament. Az EUMSZ 227. cikk szerint a petíciót az Európai Parlamenthez kell benyújtani. A Bizottság nem petíciós címzett; az ombudsman a 228. cikk szerinti panaszút. A tévedés a végrehajtó szerepet keveri a petíciós címzettel."
+        },
+        {
+          "text": "Jogosult a petícióra, ha létesítő okirat szerinti székhelye tagállamban van, még ha nem is uniós polgár természetes személyről van szó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a székhelyes jogi személy petícióra jogosult. Az EUMSZ 227. cikk szerint valamely tagállamban létesítő okirat szerinti székhellyel rendelkező jogi személy petíciót nyújthat be az Európai Parlamenthez. A Charta 44. cikke ugyanezt a jogosulti kört emeli alapjogi rangra. A 24. cikk második albekezdése a polgárra utal; a székhelyes jogi személy jogosultsága a 227. cikkből következik."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "a21242a1a1d0"
+    },
+    {
+      "question": "Milyen szakmai titoktartás terheli az európai adatvédelmi biztost és személyzetét?",
+      "options": [
+        {
+          "text": "A biztost és személyzetét minden olyan bizalmas információ tekintetében szakmai titoktartás terheli, amelyről hivatali feladataik ellátása során szereztek tudomást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a titoktartás a hatósági adatkezelő-ellenőr sajátos kockázatára szabott. A 45/2001/EK rendelet 45. cikke szerint az európai adatvédelmi biztost és személyzetét minden olyan bizalmas információ tekintetében, amelyről hivatali feladataik ellátása során szereztek tudomást, szakmai titoktartási kötelezettség terheli. A 47. cikk (2) bekezdése szerinti betekintés és belépés e hallgatás keretei között marad. Az EUMSZ 228. cikk az ombudsmanra külön titoktartási mondatot nem ír elő, hanem a függetlenséget és a foglalkozási tilalmat rögzíti."
+        },
+        {
+          "text": "A megbízatás lejárta után a titoktartás azonnal megszűnik, mert a 45. cikk csak a hivatali időre szól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a titoktartás a megbízatás után is fennmarad. A 45/2001/EK rendelet 45. cikke szerint a kötelezettség a megbízatási idejük alatt és után egyaránt terheli őket. A 44. cikk (4) bekezdése a tisztség utáni feddhetetlenséget a kinevezések és előnyök elfogadása tekintetében párhuzamosan szabályozza. A tévedés a hallgatási kötelezettséget a hivatali időre korlátozza."
+        },
+        {
+          "text": "A titoktartás időbeli hatálya a megbízatási időre és az azt követő időszakra egyaránt áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hallgatás a tisztség után is él. A 45/2001/EK rendelet 45. cikke kifejezetten a megbízatási idejük alatt és után egyaránt kötelez. A 44. cikk (4) bekezdése a tisztség utáni feddhetetlenséget a kinevezésekre és előnyökre szabja; a 45. cikk a bizalmas információt őrzi. A 48. cikk szerinti nyilvános éves jelentés a tevékenységre, nem a bizalmas adatra vonatkozik."
+        },
+        {
+          "text": "A titoktartás csak a biztos személyére áll, a titkárság alkalmazottaira nem terjed ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a személyzet is kötve van. A 45/2001/EK rendelet 45. cikke az európai adatvédelmi biztost és személyzetét egyaránt említi. A 43. cikk (4) bekezdése szerinti titkárság a biztos irányítása alatt áll, és a 45. cikk hallgatási kötelezettsége rájuk is vonatkozik. A tévedés a tisztségviselőt elválasztja a személyzettől."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "8cd3277a271c"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható az a feltételezés, hogy az ombudsman elrendelő hatóság a 47. cikk értelmében?",
+      "options": [
+        {
+          "text": "A 47. cikk (1) bekezdés f) pontja szerinti adatfeldolgozás-tilalom az európai adatvédelmi biztos hatásköre, nem az ombudsmané.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a biztos palettáján van. A 45/2001/EK rendelet 47. cikk (1) bekezdés f) pontja szerint a biztos elrendelheti az adatfeldolgozás átmeneti vagy végleges tilalmát. Az EUMSZ 228. cikk (1) bekezdése az ombudsmannak ilyen tilalmat nem ad. A c) pont szerinti kérelem-teljesítés elrendelése és az e) pont szerinti helyesbítés–törlés ugyancsak a biztosé."
+        },
+        {
+          "text": "Hivatali visszásság esetén az ombudsman a 47. cikk (1) bekezdés e) pontja szerint elrendelheti az adatok törlését.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törlés elrendelése nem az ombudsmané. A 45/2001/EK rendelet 47. cikk (1) bekezdés e) pontja a helyesbítést, zárolást, törlést vagy megsemmisítést az európai adatvédelmi biztosra telepíti. Az EUMSZ 228. cikk (1) bekezdése szerint az ombudsman hivatali visszásság esetén megkeresi az érintettet, majd jelentést küld — elrendelés nélkül. A tévedés a 47. cikk eszközét írja rá a 228. cikkre."
+        },
+        {
+          "text": "Az ombudsman a Bíróság elé utalhatja az ügyet a 47. cikk (1) bekezdés h) pontja szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bírósági út a biztosé. A 45/2001/EK rendelet 47. cikk (1) bekezdés h) pontja szerint a biztos az ügyet a Szerződés feltételei szerint a Bíróság elé utalhatja; az i) pont szerint beavatkozóként is eljárhat. Az EUMSZ 228. cikk (1) bekezdése az ombudsman éves és ügyenkénti jelentését a Parlamentnek címzi. A tévedés a 47. cikk perbeli eszközeit írja rá az ombudsmanra."
+        },
+        {
+          "text": "Az ombudsman jogi eszköze a megkeresés, a jelentés és a nyilvánosság; a 228. cikk (1) bekezdése nem ad elrendelő vagy tiltó hatalmat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ombudsman nem hatóság a 47. cikk szerinti elrendelő értelemben. Az EUMSZ 228. cikk (1) bekezdése a hivatali visszásság esetén megkeresést, három hónapos intézményi válaszidőt, majd jelentést a Parlamentnek és az érintettnek, valamint a panaszos tájékoztatását írja elő. A 45/2001/EK rendelet 47. cikk (1) bekezdése az adatvédelmi biztosnak elrendelést, tilalmat és bírósági utat ad. A két tisztség joghatása elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "fe6f7059ca83"
+    },
+    {
+      "question": "Tanító kérdés: mely állítások hamisak a petíció, az ombudsman és az adatvédelmi biztos elhatárolásáról?",
+      "options": [
+        {
+          "text": "Az ombudsman a 47. cikk (1) bekezdés f) pontja szerint végleges adatfeldolgozás-tilalmat rendelhet el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a végleges adatfeldolgozás-tilalom nem az ombudsmané. A 45/2001/EK rendelet 47. cikk (1) bekezdés f) pontja az európai adatvédelmi biztosra telepíti az adatfeldolgozás átmeneti vagy végleges tilalmát. Az EUMSZ 228. cikk (1) bekezdése az ombudsmannak három hónapos megkeresést és jelentést ad, hatósági tilalom nélkül. A helyes: az ombudsman nem elrendelő hatóság."
+        },
+        {
+          "text": "A petíció tárgya szükségszerűen hivatali visszásság, mert a 227. cikk ezt kívánja a 228. cikkel azonosan.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a petíció nem kíván hivatali visszásságot. Az EUMSZ 227. cikk a tevékenységi területet és a közvetlen érintettséget állítja szűrőként; a hivatali visszásság az EUMSZ 228. cikk (1) bekezdésének tárgya. A helyes: a két út tárgya elválik. A tévedés a 228. cikk fogalmát írja rá a 227. cikkre."
+        },
+        {
+          "text": "Az adatvédelmi panasz a 24. cikk negyedik albekezdésének nyelvhasználati jogából vezethető le.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyelvhasználat nem az adatvédelmi panasz alapja. Az EUMSZ 24. cikk negyedik albekezdése a polgár nyelvi jogát adja a 13. és az 55. cikkhez kötve. Az adatvédelmi panasz az EUMSZ 16. cikk (1) bekezdésére és a 45/2001/EK rendelet 46. cikk a) pontjára épül. A helyes: a 24. cikk az adatvédelmi biztost nem említi."
+        },
+        {
+          "text": "A Charta 44. cikke a petíció címzettjévé az európai ombudsmant teszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a petíció chartabeli címzettje nem az ombudsman. A Charta 44. cikke szerint a jogosult az Európai Parlamenthez nyújthat be petíciót; a Charta 43. cikke az európai ombudsmanhoz fordulást rendezi a hivatali visszásság esetén. Az EUMSZ 227. cikk ugyancsak a Parlamentet jelöli ki petíciós címzettként. A helyes: a két chartabeli jog címzettje elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "bff016a056e5"
+    },
+    {
+      "question": "A 42. cikk (2) bekezdése milyen kinevezési küszöböt állít az európai adatvédelmi biztos elé?",
+      "options": [
+        {
+          "text": "Példaként elfogadható a 95/46/EK irányelv 28. cikke szerinti felügyelő hatóságokhoz tartozás vagy a korábbi tagság.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet példát is ad a szakmai előéletre. A 45/2001/EK rendelet 42. cikk (2) bekezdése kifejezetten említi a 95/46/EK irányelv 28. cikkében említett felügyelő hatóságokhoz tartozást vagy a korábbi tagságot. A (8) bekezdés ugyanezt a küszöböt a helyettes biztosra is kiterjeszti. A 46. cikk f) pontja később ugyanezekkel a nemzeti felügyelőkkel való együttműködést írja elő."
+        },
+        {
+          "text": "A biztost olyan személyek közül kell kiválasztani, akiknek függetlenségéhez nem férhet kétség, és akik közismerten rendelkeznek a feladatellátáshoz szükséges gyakorlattal és képességekkel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kinevezési küszöb a függetlenséget és a szakmai alkalmasságot egyaránt követeli. A 45/2001/EK rendelet 42. cikk (2) bekezdése szerint a biztost olyan személyek közül kell kiválasztani, akiknek függetlenségéhez nem férhet kétség, és akik közismerten rendelkeznek a szükséges gyakorlattal és képességekkel, például azért, mert a 95/46/EK irányelv 28. cikkében említett felügyelő hatóságokhoz tartoznak vagy tartoztak. A 44. cikk ezt a hivatal viselésének idejére is kötelező magatartássá teszi."
+        },
+        {
+          "text": "A 42. cikk (2) bekezdése csak az ombudsmanra áll; a biztos kinevezésénél nincs szakmai alkalmassági küszöb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szakmai alkalmassági küszöb a biztosra szól, nem az ombudsmanra. A 45/2001/EK rendelet 42. cikk (2) bekezdése az európai adatvédelmi biztos kiválasztásánál követeli a függetlenséghez nem férhető kétséget és a közismert gyakorlatot, képességet. Az ombudsman függetlenségi és foglalkozási szabályai az EUMSZ 228. cikk (3) bekezdésében állnak, más szerkezetben. A tévedés a 42. cikk (2) bekezdését az ombudsmani tisztségre helyezi."
+        },
+        {
+          "text": "A függetlenséghez nem férhető kétség csak a felmentési eljárásban vizsgálandó, a kinevezésnél nem feltétele.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a küszöb már a kinevezésnél áll. A 45/2001/EK rendelet 42. cikk (2) bekezdése a kiválasztás feltételeként követeli a függetlenséghez nem férhető kétséget. A 42. cikk (5) bekezdése szerinti felmentés akkor jön szóba, ha a biztos már nem felel meg a feltételeknek, vagy súlyos kötelességszegést követett el. A tévedés a (2) és az (5) bekezdés időpontját cseréli fel."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "5f6a14a2c564"
+    }
+  ]
+}

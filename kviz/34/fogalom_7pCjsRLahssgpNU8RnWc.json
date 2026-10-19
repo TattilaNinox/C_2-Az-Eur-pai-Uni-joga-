@@ -1,0 +1,765 @@
+{
+  "id": "7pCjsRLahssgpNU8RnWc",
+  "sorszam": 34,
+  "cim": "A letelepedés szabadsága vállalkozások esetében",
+  "generationType": "fogalom",
+  "title": "34. A letelepedés szabadsága vállalkozások esetében",
+  "questions": [
+    {
+      "question": "Mit tilt az EUMSZ 49. cikk a szabad letelepedés körében a vállalkozások szempontjából is?",
+      "options": [
+        {
+          "text": "A 49. cikk csak az állampolgársági diszkriminációt tiltja, a fióktelep vagy leányvállalat alapításának korlátozása viszont a tőke fejezetébe tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a másodlagos letelepedés nem a tőke fejezetébe rejtett kivétel. A helyes: az EUMSZ 49. cikk kifejezetten kiterjeszti a tilalmat a képviselet, fióktelep vagy leányvállalat alapításának korlátozásaira, és a tilalom a szabad letelepedést akadályozó minden korlátozásra vonatkozik. A tőkére utaló záradék a társaságalapítást és az irányítást köti a tőkekorlátozásokhoz, de nem helyezi át a másodlagos letelepedést. A tévedés a 49. cikk saját tényállását a tőke fejezetébe tolja."
+        },
+        {
+          "text": "A 49. cikk szerint a társaság a származási állam társasági jogát viheti át a fogadó államba, és a fogadó állam saját állampolgári feltételei nem alkalmazhatók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti elbánás a fogadó állam feltételeire mutat. A helyes: az EUMSZ 49. cikk szerint a társaságalapítás és irányítás „a letelepedés országának joga által a saját állampolgáraira előírt feltételek szerint” gyakorolható; a Gebhard-ügy 33. pontja szerint ez nem a származási szabályok exportja. A társaság az 54. cikk alapján a természetes személy állampolgárral azonos elbánást kap, nem saját jogának kivitelét. A tévedés a fogadó állam feltételeit felcseréli a származási jog exportjával."
+        },
+        {
+          "text": "Tilos a valamely tagállam állampolgárainak másik tagállam területén történő szabad letelepedésére vonatkozó minden korlátozás, és ugyanez kiterjed a képviselet, fióktelep vagy leányvállalat alapításának korlátozásaira is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 49. cikk tilalmi magja a szabad letelepedés minden korlátozását fogja. Az EUMSZ 49. cikk szerint „tilos a valamely tagállam állampolgárainak egy másik tagállam területén történő szabad letelepedésére vonatkozó minden korlátozás”, és a rendelkezést a képviselet, fióktelep vagy leányvállalat alapításának korlátozásaira is alkalmazni kell. A másodlagos letelepedés tehát a cikk saját tényállása. A tilalom túlmutat a puszta állampolgársági diszkrimináción."
+        },
+        {
+          "text": "A szabad letelepedés magában foglalja a gazdasági tevékenység önálló vállalkozóként történő megkezdését és folytatását, valamint vállalkozások — különösen az 54. cikk szerinti társaságok — alapítását és irányítását a fogadó állam saját állampolgáraira előírt feltételek szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a cikk második része a tartalmat és a nemzeti elbánást adja. Az EUMSZ 49. cikk szerint a szabad letelepedés magában foglalja az önálló vállalkozói tevékenységet, valamint a társaságok alapítását és irányítását „a letelepedés országának joga által a saját állampolgáraira előírt feltételek szerint”, figyelemmel a tőkére vonatkozó fejezetre is. A Gebhard-ügy 33. pontja ezt megerősíti: nem a származási állam szabályainak exportjáról van szó. A fogadó állam feltételei a mérce."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "03c3d5db8c3a"
+    },
+    {
+      "question": "Miben tér el az EUMSZ 54. cikk szerinti társasági személyi hatály a nonprofit szervezetek helyzetétől?",
+      "options": [
+        {
+          "text": "Az 54. cikk egységes uniós kapcsolóelvet ír elő, amely a létesítő okirat szerinti székhelyet kötelezően a központi ügyvezetés helye fölé helyezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 54. cikk nem egységesíti a kapcsolóelvet, és a három ismérv azonos szintű. A helyes: a Cartesio-ügy 106. pontja a létesítő okirat szerinti székhelyet, a központi ügyintézés helyét és a fő telephelyet a kapcsolóelv szempontjából azonos szintre helyezi; a 109. pont szerint a közösségi jog nem határoz meg egységes kapcsolóelvet arra, hogy mely társaságok élhetnek a letelepedés jogával. A kérdésre a nemzeti jog ad választ. A tévedés hierarchiát olvas bele a vagylagos kapcsolókba."
+        },
+        {
+          "text": "A nonprofit szervezet is az 54. cikk szerinti társaság, ha Unióbeli székhellyel rendelkezik, és így a 49. cikk korlátozási tilalma alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nonprofit szervezet ki van zárva a társaságfogalomból. A helyes: az EUMSZ 54. cikk második albekezdése kifejezetten kivételt tesz a nonprofit szervezetekre; a kizárás a fejezet gazdasági jellegét őrzi, mert a 49. cikk haszonszerző önálló tevékenységet véd, nem az egyesülési szabadságot. A haszonszerző tevékenység hiánya a nonprofitot kiveszi a letelepedési és a részesedési szabály alól. A tévedés a gazdasági fejezetet az egyesülési szabadsággal azonosítja."
+        },
+        {
+          "text": "A „társaság” fogalma a polgári vagy kereskedelmi jog alapján létrejött társaságokat, a szövetkezeteket és a közjog vagy magánjog hatálya alá tartozó más jogi személyeket foglalja magában, de a nonprofit szervezeteket kizárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második albekezdés a fogalmat zárja és a nonprofitokat kiveszi. Az EUMSZ 54. cikk szerint „társaság” a polgári vagy kereskedelmi jog alapján létrejött társaság, beleértve a szövetkezeteket és a közjog vagy a magánjog hatálya alá tartozó más jogi személyeket, „kivéve a nonprofit szervezeteket”. A kizárás a fejezet gazdasági jellegét őrzi: a 49. cikk haszonszerző önálló tevékenységet véd. A nonprofit szervezet e gazdasági fejezet személyi hatályán kívül marad."
+        },
+        {
+          "text": "Az 54. cikk szerinti társaság a tagállami jogon létrejött, Unióbeli székhelyű, központi ügyvezetésű vagy főtelephelyű jogalany, és a fejezet alkalmazásában a tagállami állampolgárral azonos elbánásban részesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 54. cikk a bánásmód-egyenlőséget adja a feltételeknek megfelelő társaságnak. Az EUMSZ 54. cikk szerint a valamely tagállam jogszabályai alapján létrehozott társaság, amelynek létesítő okirat szerinti székhelye, központi ügyvezetése vagy üzleti tevékenysége fő helye az Unió területén van, ugyanolyan elbánásban részesül, mint a tagállami állampolgárok. A három kapcsoló vagylagos. A Cartesio-ügy 106. pontja e három ismérvet a kapcsolóelv szempontjából azonos szintre helyezi."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "82fbd93dca2f"
+    },
+    {
+      "question": "Egy dán házaspár az Egyesült Királyságban jogszerűen létrehozott, ott tevékenységet nem folytató társaság dániai fióktelepének bejegyzését kéri, feltehetően a dán minimális törzstőke elkerülése miatt. Mely megállapítások állják meg a helyüket a Centros-ügy alapján?",
+      "options": [
+        {
+          "text": "Önmagában nem tekinthető a letelepedési joggal való visszaélésnek, ha a tagállam állampolgára azt a társasági jogot választja, amely számára a legkevésbé szigorúnak tűnik, és más tagállamban fióktelepet alapít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a társasági jog választása a szabadság része. A C-212/97 Centros-ügy 27. pontja szerint nem tekinthető a letelepedési joggal való visszaélésnek önmagában az, ha a tagállam állampolgára azt a társasági jogot választja, amely számára a legkevésbé szigorúnak tűnik, és más tagállamban fióktelepet alapít; e jog az EUMSZ 49. és 54. cikk — a korábbi 52. és 58. cikk — szerinti szabadság gyakorlásának szerves része. A 29. pont szerint a székhely szerinti tevékenység hiánya önmagában nem elégséges a csalárd magatartás bizonyítására. A tagállam esetről esetre, objektív bizonyítékok alapján veheti figyelembe a visszaélést."
+        },
+        {
+          "text": "A fogadó állam jogszerűen megtagadhatja a fióktelep bejegyzését pusztán azért, mert a társaság a létrehozás szerinti államban nem folytat tevékenységet, és a tevékenységet a fióktelep államában tervezi gyakorolni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tevékenység hiánya önmagában nem alap a megtagadásra. A helyes: a Centros-ügy 21–22. pontja szerint a fióktelep bejegyzésének bizonyos körülmények közötti megtagadása korlátozza a 52. és 58. cikk — a mai 49. és 54. cikk — szerinti szabadságokat; a 29. pont szerint a székhely szerinti tevékenység hiánya nem elégséges a visszaélés bizonyítására. A 27. pont a társasági jog választását a szabadság részének tekinti. A tévedés a megtagadást a Centros ratio ellenére fő szabállyá emeli."
+        },
+        {
+          "text": "A közösségi jog hatálya alá tartozik, ha a székhelye szerinti joggal összhangban létrehozott társaság más tagállamban kíván fióktelepet alapítani, még akkor is, ha a létrehozás célja a fogadó állam szabályainak elkerülése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Centros elutasítja a „tisztán belső helyzet” érvet. A C-212/97 Centros-ügy 17. pontja szerint a közösségi jog hatálya alá tartozik, ha a székhelye szerinti joggal összhangban létrehozott társaság más tagállamban kíván fióktelepet alapítani; nincs jelentősége annak, hogy a társaságot az első tagállamban csak azért hozták létre, hogy a másodikban letelepüljön. A 18. pont szerint a minimális törzstőke elkerülésének célja sem zárja ki a letelepedés körét. A hatály és a visszaélés kérdése elválik."
+        },
+        {
+          "text": "A társasági jog összehangolásának hiánya felfüggeszti a 49. cikk alkalmazását, amíg a Tanács be nem fejezi a közelítést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hiányos összehangolás közömbös a tilalom alkalmazására. A helyes: a Centros-ügy 28. pontja szerint a társasági jog hiányos összehangolása a 49. cikk alkalmazását nem függeszti fel; a Tanács a mai 50. cikk (2) bekezdésének g) pontja alapján bármikor befejezheti a közelítést, de ez nem előfeltétel. A 27. pont a fióktelep alapítását a szabadság szerves részének tekinti. A tévedés a másodlagos jog programját a 49. cikk hatályának felfüggesztőjévé teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "49e43b0b839b"
+    },
+    {
+      "question": "Mi következik a Cartesio-ügyből a létrehozás szerinti államnak a honosság feletti hatáskörére nézve?",
+      "options": [
+        {
+          "text": "Ha a társaság a fogadó állam társasági formájába alakul át a székhelyáthelyezéssel, a létrehozás szerinti állam 110. pont szerinti lehetősége mentességet ad a letelepedési szabályok alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átalakulásos ág nem élvezi a 110. pont mentességét. A helyes: a C-210/06 Cartesio-ügy 111. pontja elválasztja a személyes jog megtartása melletti áthelyezést az alkalmazandó jog megváltozása melletti átalakulástól; a 112. pont szerint az utóbbi esetben a 110. pont lehetősége korántsem jelent mentességet az EUMSZ 49. és 54. cikk — a korábbi EK 43. és 48. cikk — szerinti letelepedési szabályok alól. A 124. pont ratio a honosság megtartása melletti esetre szól. A tévedés a két ágat összemossa."
+        },
+        {
+          "text": "A létrehozás szerinti állam soha nem tilthatja meg a székhely áthelyezését, mert a 49. cikk abszolút székhelyszabadságot biztosít a társaságoknak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vállalkozások letelepedése nem a székhely szabad exportja a fogadó és a létrehozás szerinti állam hatásköreinek figyelmen kívül hagyásával. A helyes: a C-210/06 Cartesio-ügy 110. pontja szerint a létrehozás szerinti tagállam meghatározhatja, milyen kapcsolat szükséges a nemzeti jog szerinti minőség fenntartásához, és a 124. pont szerint az EUMSZ 49. és 54. cikk — a korábbi EK 43. és 48. cikk — nem összeegyeztethetetlen azzal a szabályozással, amely megakadályozza a honosság megtartása melletti székhelyáthelyezést. A Centros a befelé irányuló másodlagos letelepedést védi; a Cartesio a kifelé irányuló honosság-kérdést. A tévedés a másodlagos jelenlét védelmét abszolút székhelyexporttá szélesíti."
+        },
+        {
+          "text": "A közösségi jog jelen állapotában nem összeegyeztethetetlen az a tagállami szabályozás, amely megakadályozza, hogy a belső joga szerint létrejött társaság székhelyét úgy helyezze át másik tagállamba, hogy eközben megtartsa a létrehozás szerinti honosságát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Cartesio a kifelé irányuló, honosság-megtartó áthelyezést a létrehozás szerinti állam hatáskörébe engedi. A C-210/06 Cartesio-ügy 124. pontja és a rendelkező rész 4. pontja szerint az EK 43. és 48. cikk — a mai 49. és 54. cikk — nem összeegyeztethetetlen azzal a szabályozással, amely megakadályozza a honosság megtartása melletti székhelyáthelyezést. A 110. pont szerint a tagállam meghatározhatja a honosság keletkezésének és fenntartásának kapcsolatát. Ez nem a fióktelep vagy a jogképesség elismerésének ügye."
+        },
+        {
+          "text": "A 49. cikk csak akkor nyílik meg, ha megállapítást nyert, hogy a társaság az 54. cikk feltételeire tekintettel a nemzeti jog alapján ténylegesen élhet a letelepedés szabadságával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a honosság előzetes kérdés a korlátozásvizsgálat előtt. A C-210/06 Cartesio-ügy 109. pontja szerint az, hogy az EUMSZ 49. cikk vonatkozik-e a hivatkozó társaságra — hasonlóan ahhoz, hogy a természetes személy állampolgár-e — előzetes kérdés, amelyre a közösségi jog jelenlegi állapotában a nemzeti jog ad választ. Csak ha a társaság az EUMSZ 54. cikk feltételeire tekintettel ténylegesen élhet a szabadsággal, merül fel a 49. cikk szerinti korlátozás. A közösségi jog nem határoz meg egységes kapcsolóelvet a társaságok körére."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "6093e18a5bbc"
+    },
+    {
+      "question": "Milyen feltételekkel részesül nemzeti elbánásban a társasági tőkében való részesedés az EUMSZ 55. cikk szerint?",
+      "options": [
+        {
+          "text": "Az 55. cikk a nonprofit szervezet tőkéjében való részesedésre is kiterjed, ha a szervezet Unióbeli székhellyel rendelkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti elbánás tőkerészesedési alakja nem terjed ki a nonprofit szervezetekre. A helyes: az EUMSZ 54. cikk a nonprofit szervezeteket kivonja a társaságfogalomból, és az EUMSZ 55. cikk tárgya kizárólag az 54. cikk értelmében vett társaságok tőkéje. A kizárás a fejezet gazdasági jellegét őrzi, mert a 49. cikk haszonszerző önálló tevékenységet véd. A tévedés a haszonszerző társasági kört a nonprofit szervezetekre is kiterjeszti."
+        },
+        {
+          "text": "A tagállamok az 54. cikk szerinti társaságok tőkéjében való részesedést illetően a többi tagállam állampolgárait ugyanolyan elbánásban részesítik, mint a saját állampolgáraikat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tőkerészesedésnél a többi tagállam állampolgára a saját állampolgárral azonos elbánást kap. Az EUMSZ 55. cikk szerint a tagállamok — a Szerződések egyéb rendelkezései alkalmazásának sérelme nélkül — az 54. cikk értelmében vett társaságok tőkéjében való részesedést illetően ugyanolyan elbánásban részesítik a többi tagállam állampolgárait, mint a saját állampolgáraikat. Az alany a többi tagállam állampolgára, a tárgy az 54. cikk szerinti társaság tőkéje. A nonprofit szervezet e nemzeti elbánási alak alá sem kerül."
+        },
+        {
+          "text": "Az 55. cikk a Szerződések egyéb — különösen a tőkére vonatkozó — rendelkezéseinek sérelme nélkül érvényesül, tehát a letelepedés és a tőke fejezete párhuzamosan köti a részesedésszerzést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a klauzula nem oltja ki a tőke fejezetét. Az EUMSZ 55. cikk a Szerződések egyéb rendelkezései alkalmazásának sérelme nélkül érvényesül; a 49. cikk tőkére utaló záradéka itt konkretizálódik. A más tagállami állampolgár nem szorítható a saját állampolgárnál szigorúbb részesedési küszöb alá csupán állampolgársága miatt. Az 55. cikk tehát nem új alanyi szabadság, hanem a nemzeti elbánás tőkerészesedési alakja."
+        },
+        {
+          "text": "Az 55. cikk önmagában eldönti, hogy a fogadó állam a részesedésátruházáshoz a székhelyáthelyezés kollíziós joghatását fűzheti-e.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 55. cikk a részesedésszerzés állampolgársági diszkriminációját tiltja, de a kollíziós joghatást nem dönti el. A helyes: az Überseering-ügy tényállásában a részesedésátruházás a fogadó állam Sitztheorie-je szerint a tényleges székhely áthelyezését eredményezte, ám az EUMSZ 55. cikk önmagában nem dönti el, hogy a fogadó állam e joghatást fűzheti-e. A cikk a nemzeti elbánást adja a tőkerészesedésre. A tévedés a diszkriminációtilalmat kollíziós döntéssé bővíti."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "990700f7d731"
+    },
+    {
+      "question": "Miben tér el az EUMSZ 50. cikk (2) bekezdésének f) és g) pontja a vállalkozások vizsgája szempontjából?",
+      "options": [
+        {
+          "text": "Az f) pont a képviseletek, fióktelepek vagy leányvállalatok létrehozásának feltételeit, valamint az ilyen egységek irányító és ellenőrző tisztségeinek az anyalétesítmény személyzete által történő betöltését rendeli fokozatosan lebontani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az f) pont a 49. cikk második mondatát bontja programmá. Az EUMSZ 50. cikk (2) bekezdésének f) pontja megvalósítja a letelepedési szabadság korlátozásainak fokozatos eltörlését egyrészt a képviseletek, fióktelepek vagy leányvállalatok létrehozásának feltételeit, másrészt az ilyen egységek irányító és ellenőrző tisztségeinek az anyalétesítmény személyzete által történő betöltését illetően. Ez a másodlagos letelepedés intézményi programja. A vállalkozások vizsgája ezen a ponton is dől el."
+        },
+        {
+          "text": "A g) pont a szükséges mértékben összehangolja azokat a biztosítékokat, amelyeket a tagállamok az 54. cikk szerinti társaságoktól a tagok és harmadik személyek érdekeinek védelme céljából megkövetelnek, hogy azokat az Unión belül egyenértékűvé tegyék.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a g) pont a társasági jog közelítésének szerződéses alapja. Az EUMSZ 50. cikk (2) bekezdésének g) pontja a tagok és harmadik személyek védelmére megkövetelt biztosítékokat a szükséges mértékben egyenértékűvé teszi. A Centros-ügy 28. pontja szerint a közelítés hiánya a 49. cikk alkalmazását nem függeszti fel; a Tanács e pont alapján bármikor befejezheti a közelítést. A g) pont tehát program, nem a tilalom előfeltétele."
+        },
+        {
+          "text": "A g) pont hatásköri katalógust ad a Bíróságnak arra, hogy a társasági biztosítékok közelítését ítélettel pótolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés a Parlament, a Tanács és a Bizottság feladatait rögzíti, nem bírósági hatásköri katalógust. A helyes: az EUMSZ 50. cikk (1) bekezdése szerint a Parlament és a Tanács rendes jogalkotási eljárásban irányelveket bocsát ki; a (2) bekezdés e feladatok tartalmi programja. A Centros 28. pontja szerint a közelítés hiánya a 49. cikk alkalmazását nem függeszti fel. A tévedés a jogalkotási programot bírósági pótlássá olvassa."
+        },
+        {
+          "text": "Az f) pont kizárólag az ingatlanszerzés nemzeti elbánását szabályozza, a g) pont pedig a munkavállaló önálló vállalkozóként maradását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ingatlan és a munkavállaló más pontokhoz tartozik. A helyes: az EUMSZ 50. cikk (2) bekezdésének e) pontja az ingatlantulajdon szerzését a 39. cikk (2) bekezdésének elveire figyelemmel engedi, a d) pont pedig a fogadó államban alkalmazott munkavállaló önálló vállalkozóként maradását biztosítja. Az f) és g) pont a másodlagos letelepedés feltételeire és a társasági biztosítékok egyenértékűsítésére szól. A tévedés a pontok tartalmát felcseréli."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "3a86bf6a32d1"
+    },
+    {
+      "question": "A Gebhard-ügy szerint hogyan illeti meg a letelepedési jog a jogi személyeket, és mit jelent a fogalom széles olvasata?",
+      "options": [
+        {
+          "text": "A fogalom állandó és folyamatos jellegű részvételt jelent a fogadó tagállam gazdasági életében, haszonszerzéssel, az önálló tevékenységek Unión belüli összefonódásával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Gebhard 25. pontja a fogalmat szélesen olvassa. A C-55/94 Gebhard-ügy 25. pontja szerint a letelepedés állandó és folyamatos jellegű részvétel a fogadó tagállam gazdasági életében, haszonszerzés, az önálló tevékenységek Unión belüli összefonódása. A 24. pont szerint egy személy több tagállamban is letelepedhet; a társaságok esetében képviselet, fióktelep vagy leányvállalat alapításával. A fogalom tehát nem egyszeri jelenlét."
+        },
+        {
+          "text": "A letelepedési jog a szerződés 58. cikke — a mai 54. cikk — alapján ugyanúgy megilleti a jogi személyeket, mint a tagállami állampolgárságú természetes személyeket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Gebhard a személyi kört a társaságokra is kiterjeszti. A C-55/94 Gebhard-ügy 23. pontja szerint a letelepedési jog a mai 54. cikk alapján ugyanúgy megilleti a jogi személyeket, mint a tagállami állampolgárságú természetes személyeket. Meghatározott kivételekkel és feltételekkel magában foglalja az önálló tevékenységek megkezdését és folytatását, vállalkozások alapítását és irányítását, valamint képviseletek, fióktelepek vagy leányvállalatok létrehozását. A jogi személy tehát a természetes személlyel azonos alanyi körben áll."
+        },
+        {
+          "text": "A Gebhard szerint a jogi személy csak a származási állam területén telepedhet le, a fióktelep alapítása a szolgáltatásnyújtás szabadságába tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a társaság több tagállamban is letelepedhet. A helyes: a Gebhard-ügy 24. pontja szerint egy személy több tagállamban is letelepedhet; a társaságok esetében képviselet, fióktelep vagy leányvállalat alapításával. A 23. pont a jogi személyeket a természetes személyekkel azonos alanyi körbe helyezi az EUMSZ 54. cikk — a korábbi 58. cikk — alapján. A tévedés a másodlagos letelepedést a szolgáltatásnyújtásba tolja."
+        },
+        {
+          "text": "A Gebhard a letelepedést egyszeri, alkalmi gazdasági jelenlétként határozza meg, haszonszerzési cél nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fogalom állandó és folyamatos jellegű, haszonszerző részvétel. A helyes: a Gebhard-ügy 25. pontja szerint a letelepedés állandó és folyamatos jellegű részvétel a fogadó tagállam gazdasági életében, haszonszerzéssel. Az EUMSZ 49. cikk is az önálló vállalkozói tevékenységet és a társaságok alapítását védi. A tévedés a letelepedést az alkalmi szolgáltatásnyújtással azonosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "7094eb588623"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a Centros szerint a visszaélés címkéje a fióktelep-alapításra?",
+      "options": [
+        {
+          "text": "Nem elég a visszaélésszerű magatartás bizonyítására az a tény, hogy a társaság a létesítő okirat szerinti székhely államában nem folytat kereskedelmi tevékenységet, és tevékenységét kizárólag a fióktelep államában gyakorolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tevékenység hiánya önmagában nem dönt. A C-212/97 Centros-ügy 29. pontja a Segers-ítélet 16. pontjára utalva rögzíti: a székhely szerinti tevékenység hiánya és a tevékenység kizárólagos gyakorlása a fióktelep államában nem elégséges a visszaélésszerű és csalárd magatartás bizonyítására. A 27. pont a társasági jog választását a szabadság részének tekinti. A visszaéléshez objektív bizonyítékok kellenek."
+        },
+        {
+          "text": "A fogadó állam mindig megtagadhatja a fióktelep bejegyzését, ha a társaság célja a minimális törzstőke elkerülése, mert ez önmagában visszaélés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törzstőke elkerülésének célja önmagában nem zárja ki a letelepedést és nem bizonyít visszaélést. A helyes: a Centros-ügy 18. pontja szerint a dán minimális törzstőke elkerülésének célja nem zárja ki, hogy a fióktelep-alapítás az EUMSZ 49. és 54. cikk — a korábbi 52. és 58. cikk — szerinti letelepedés körébe tartozzon; a 27. pont szerint a kevésbé szigorú társasági jog választása önmagában nem visszaélés. A tévedés a célt automatikus visszaéléssé minősíti."
+        },
+        {
+          "text": "A visszaélés megállapításához elegendő, hogy a társaságot olyan tagállamban hozták létre, amelynek társasági joga a legkevésbé szigorú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a legkevésbé szigorú társasági jog választása önmagában nem visszaélés. A helyes: a Centros-ügy 27. pontja szerint nem tekinthető a letelepedési joggal való visszaélésnek önmagában az, ha a társaságot a legkevésbé szigorú tagállamban hozzák létre, és más tagállamban fióktelepet alapítanak; e jog az EUMSZ 49. és 54. cikk szerinti szabadság gyakorlásának szerves része. A 25. pont objektív, eseti bizonyítást követel. A tévedés a szabadság magját visszaéléssé fordítja."
+        },
+        {
+          "text": "A nemzeti bíróságok objektív bizonyítékokat alapul véve, esetről esetre figyelembe vehetik a visszaélésszerű vagy csalárd magatartást, de a megítélés során tekintettel kell lenniük a rendelkezések által követett célokra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a visszaélésvizsgálat eseti és célhoz kötött. A C-212/97 Centros-ügy 24. pontja elismeri a tagállam jogát a nemzeti szabályok alóli kivonulás megakadályozására; a 25. pont szerint a nemzeti bíróságok objektív bizonyítékok alapján, esetről esetre figyelembe vehetik a csalárd magatartást, és adott esetben megtagadhatják az EUMSZ 49. és 54. cikk — a korábbi 52. és 58. cikk — szerinti közösségi kedvezményeket. A megítélésnek a letelepedési rendelkezések céljaira kell tekintettel lennie. A 26. pont a célokat a társaságalapításra szabja."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "7ee230f467cc"
+    },
+    {
+      "question": "Mi a közös és mi a különbség a másodlagos letelepedés és a székhelyáthelyezés pályája között a vállalkozásoknál?",
+      "options": [
+        {
+          "text": "A székhelyáthelyezés minden esetben a 49. cikk abszolút tilalma alá esik, ezért a létrehozás szerinti állam nem kötheti a honosságot a területével való kapcsolathoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a létrehozás szerinti állam a honosság felett rendelkezhet. A helyes: a C-210/06 Cartesio-ügy 110. pontja szerint a tagállam meghatározhatja a nemzeti jog szerinti minőség fenntartásához szükséges kapcsolatot, és a 124. pont szerint az EUMSZ 49. és 54. cikk nem összeegyeztethetetlen azzal a szabályozással, amely megakadályozza a honosság megtartása melletti székhelyáthelyezést. A közösségi jog nem határoz meg egységes kapcsolóelvet a társaságok körére. A tévedés a Cartesio ratiót abszolút tilalomra cseréli."
+        },
+        {
+          "text": "A székhelyáthelyezésnél a társaság a létesítő okirat szerinti vagy a tényleges székhelyét viszi át, a személyes jog megtartásával vagy annak megváltoztatásával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a székhelyáthelyezés a személyes jog kérdését is felveti. A vállalkozásoknál az EUMSZ 49. cikk második iránya a székhelyáthelyezés; a C-210/06 Cartesio-ügy 111. pontja elválasztja a személyes jog megtartása melletti áthelyezést az alkalmazandó jog megváltozása melletti átalakulástól. A Cartesio 124. pontja a honosság megtartása melletti áthelyezést a létrehozás szerinti állam hatáskörébe engedi. A két pálya tehát nem azonos."
+        },
+        {
+          "text": "A Centros és a Cartesio ugyanarra a pályára vonatkozik: mindkettő a fogadó államnak a fióktelep bejegyzése feletti teljes mérlegelését erősíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Centros befelé, a Cartesio kifelé irányuló pálya. A helyes: a Centros a létrehozás szerinti jogon fennálló társaság fogadó állambeli fióktelepét védi; a Cartesio a létrehozás szerinti államnak a honosság megtartása melletti kijelentkezés feletti hatáskörét adja az EUMSZ 49. és 54. cikk értelmezése mellett. A Cartesio 123. pontja a befelé irányuló pályát a 109. pont előzetes honossági kérdésétől elválasztja. A tévedés a két ügyet egy mérlegelési szabállyá olvasztja."
+        },
+        {
+          "text": "A másodlagos letelepedésnél a már valamely tagállamban jogszerűen létrejött társaság képviseletet, fióktelepet vagy leányvállalatot alapít egy másik tagállamban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a másodlagos pálya a második jelenlét. Az EUMSZ 49. cikk kifejezetten védi a képviselet, fióktelep vagy leányvállalat alapítását; a Gebhard-ügy 24. pontja szerint a társaság e három formával több tagállamban is letelepedhet. A Centros-ügy ezt a pályát a fióktelep bejegyzésének megtagadásán bontja ki. A társaság a létrehozás szerinti jogon fennmarad."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "9fbc764d0f67"
+    },
+    {
+      "question": "Az Überseering-ügyben a fogadó állam Sitztheorie-je milyen jogkövetkezményt fűzött a részesedésátruházáshoz, és hogyan jelöli meg a tárgyat az ítélet?",
+      "options": [
+        {
+          "text": "Az ítélet tárgyszava a fogadó tagállam általi jogképesség- és perképesség-megtagadást, a letelepedés szabadságának korlátozását és az igazolást jelöli meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tárgyszó a tárgyat a korlátozás–igazolás szerkezetben rögzíti. A C-208/00 Überseering-ügy tárgyszava: a fogadó tagállam joga szerint a tényleges székhelyet áthelyezettnek tekintett társaság; a jogképesség és a perképesség elismerésének megtagadása; a letelepedés szabadságának korlátozása; igazolás. Ez a tárgy megjelölése. A Cartesio 107. pontja az Überseering 70. pontját a létrehozás szerinti állam hatásköreként olvassa a honosság megtartása melletti áthelyezésnél."
+        },
+        {
+          "text": "Az Überseering szerint a fogadó állam mindig köteles a társaságot a saját joga szerint újraalapíttatni, mielőtt a fióktelepet bejegyezné.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Überseering a jogképesség és a perképesség elvesztésének Sitztheorie-beli következményét tárgyalja, nem a fióktelep-bejegyzés Centros-pályáját. A helyes: a Centros a fióktelep bejegyzésének megtagadását korlátozásnak minősíti; az Überseering a fogadó állam kollíziós kapcsolójának ütközése a már létrejött társaság perképességével. Az EUMSZ 49. és 54. cikk a két pályát elválasztja. A tévedés a két ügy tényállását összemossa."
+        },
+        {
+          "text": "A Sitztheorie szerint a részesedések megszerzése folytán a társaság tényleges székhelyét a fogadó államba helyezte át, és holland jog szerint alapított társaságként ott nem jogképes, következésképpen perképességgel sem rendelkezik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Überseering a jogképesség elvesztését a fogadó állam kollíziós kapcsolójához köti. A C-208/00 Überseering-ügyben két düsseldorfi lakóhelyű német állampolgár megszerezte a holland Überseering BV valamennyi részesedését; az Oberlandesgericht szerint ezzel a tényleges székhely Düsseldorfba került, és a társaság Németországban nem jogképes. A Zivilprozessordnung 50. § (1) bekezdése szerint perképes, aki jogképes. A tárgyszó a megtagadást, a korlátozást és az igazolást jelöli meg."
+        },
+        {
+          "text": "A német, olasz és spanyol kormány észrevételei a Bíróság válaszát adják: a fogadó állam joga szerint szabadon megítélhető a jogképesség a letelepedési szabályok sérelme nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kormányzati észrevételek nem a Bíróság válaszai. A helyes: a C-208/00 Überseering-ügy tárgyszava a jogképesség és a perképesség elismerésének megtagadását a letelepedés szabadságának korlátozásaként és igazolásként jelöli meg; a Cartesio-ügy 107. pontja az Überseering 70. pontját a létrehozás szerinti államnak a honosság megtartása melletti áthelyezés feletti hatásköreként olvassa. A befelé irányuló pályán — ahol a társaság honossága nem kétséges — a Cartesio 123. pontja elválasztja a 109. pont előzetes kérdésétől. A tévedés a kormányzati érvelést ítéleti ratióvá emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "ad2e849fd9ee"
+    },
+    {
+      "question": "Hogyan viszonyul az EUMSZ 50. cikk (1) bekezdése a 49. cikk tilalmához?",
+      "options": [
+        {
+          "text": "A (2) bekezdés a Parlament, a Tanács és a Bizottság feladatait nyolc irányban rögzíti; ez a másodlagos jog tartalmi programja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a–h) pontja a tartalmi irányokat adja. Az EUMSZ 50. cikk (2) bekezdése különösen az elsőbbségi tevékenységeket, a hatósági együttműködést, a korlátozó közigazgatási gyakorlat eltörlését, a munkavállaló önálló vállalkozóként maradását, az ingatlanszerzést, a másodlagos letelepedés feltételeinek lebontását, a társasági biztosítékok egyenértékűsítését és a támogatások ellenőrzését rendeli. A vállalkozások vizsgája az f) és a g) ponton dől el. Ez nem bírósági hatásköri katalógus."
+        },
+        {
+          "text": "Amíg a 50. cikk szerinti irányelvek el nem készülnek, a 49. cikk korlátozási tilalma nem alkalmazható a társaságokra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a másodlagos jog programja nem függeszti fel a tilalmat. A helyes: a C-212/97 Centros-ügy 28. pontja szerint a társasági jog hiányos összehangolása az EUMSZ 49. cikk alkalmazását nem függeszti fel; a Tanács az EUMSZ 50. cikk (2) bekezdésének g) pontja alapján bármikor befejezheti a közelítést. A 49. cikk a szabad letelepedés minden korlátozását tiltja, ideértve a fióktelep alapítását. A tévedés a jogalkotási programot a tilalom előfeltételévé teszi."
+        },
+        {
+          "text": "A 50. cikk a 49. cikk tilalmát intézményi programmá fordítja: a Parlament és a Tanács rendes jogalkotási eljárásban, a Gazdasági és Szociális Bizottsággal folytatott konzultációt követően irányelveket bocsát ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 50. cikk a megvalósítás programja, nem a tilalom helyettesítője. Az EUMSZ 50. cikk (1) bekezdése szerint az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében és a Gazdasági és Szociális Bizottsággal folytatott konzultációt követően irányelveket bocsát ki a letelepedési szabadság valamely meghatározott tevékenység tekintetében történő megvalósítása érdekében. A Centros 28. pontja szerint a közelítés hiánya a 49. cikk alkalmazását nem függeszti fel. A program és a tilalom párhuzamos."
+        },
+        {
+          "text": "A 50. cikk rendeletek kibocsátását írja elő a Bizottság kizárólagos hatáskörében, konzultáció nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az aktustípus irányelv, és a rendes jogalkotási eljárás a Parlament és a Tanács közös döntése. A helyes: az EUMSZ 50. cikk (1) bekezdése szerint a Parlament és a Tanács irányelveket bocsát ki, a Gazdasági és Szociális Bizottsággal folytatott konzultációt követően. A Bizottság a (2) bekezdésben a feladatok ellátásában vesz részt, nem kizárólagos rendeletalkotóként. A tévedés az aktustípust és az eljárást is eltéveszti."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "d71bcb29b44c"
+    },
+    {
+      "question": "Mely állítások igazak az EUMSZ 54. cikk három kapcsoló ismérvére?",
+      "options": [
+        {
+          "text": "A Centros szerint e kapcsolók — a természetes személy állampolgárságához hasonlóan — a jogrenddel való kapcsolat meghatározására szolgálnak, és ebből következik a képviselet, fióktelep vagy leányvállalat alapításának joga.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kapcsolók az állampolgárság analógiájára működnek. A C-212/97 Centros-ügy 20. pontja szerint a létesítő okirat szerinti székhely, a központi ügyvezetés vagy az üzleti tevékenység fő helye arra szolgál, hogy a jogrenddel való kapcsolatot meg lehessen határozni; ebből közvetlenül következik a képviselet, fióktelep vagy leányvállalat alapításának joga. A társaság „honossága” az 54. cikk feltételeinek a létrehozás szerinti joggal való találkozása. A kapcsoló nem puszta ténykérdés."
+        },
+        {
+          "text": "Az 54. cikk a kapcsolókat csak a nonprofit szervezetekre alkalmazza, a haszonszerző társaságokra a 55. cikk ad személyi hatályt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a személyi hatály a haszonszerző társaságokra az 54. cikkben van, nem a 55. cikkben. A helyes: az EUMSZ 54. cikk a polgári vagy kereskedelmi jog alapján létrejött társaságokat fedi, „kivéve a nonprofit szervezeteket”; az EUMSZ 55. cikk a tőkerészesedés nemzeti elbánását adja az 54. cikk szerinti társaságokra. A nonprofit szervezet sem a korlátozási tilalom, sem a tőkerészesedési nemzeti elbánás alanya. A tévedés a hatályt és a részesedési szabályt felcseréli."
+        },
+        {
+          "text": "A létesítő okirat szerinti székhely, a központi ügyvezetés és az üzleti tevékenység fő helye vagylagos Unióbeli ismérvek: a tagállami jog szerinti létrehozás mellett az egyik elégséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három kapcsoló vagylagos, nem kumulatív. Az EUMSZ 54. cikk szerint a tagállami jogszabályok alapján létrehozott társaság, amelynek létesítő okirat szerinti székhelye, központi ügyvezetése vagy üzleti tevékenysége fő helye az Unió területén van, a tagállami állampolgárral azonos elbánásban részesül. A C-210/06 Cartesio-ügy 106. pontja e három ismérvet a kapcsolóelv szempontjából azonos szintre helyezi. Egy Unióbeli kapcsoló a létrehozás mellett elég a személyi hatályhoz."
+        },
+        {
+          "text": "A három kapcsoló közül kizárólag a központi ügyvezetés helye jogosít fel a 49. cikk szerinti szabadságra; a létesítő okirat szerinti székhely önmagában nem elég.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három ismérv azonos szintű és vagylagos. A helyes: az EUMSZ 54. cikk a létesítő okirat szerinti székhelyet, a központi ügyvezetést és az üzleti tevékenység fő helyét vagylagosan sorolja; a Cartesio 106. pontja azonos szintre helyezi őket. A Centros 20. pontja mindhárom kapcsolót a jogrenddel való viszony jelölésére használja. A tévedés hierarchiát olvas bele a vagylagos szerkezetbe."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "a1b68a695f72"
+    },
+    {
+      "question": "Miben tér el a Sitztheorie és a Gründungstheorie a társaság jogképességének megítélésében az Überseering-ügy kontextusában?",
+      "options": [
+        {
+          "text": "Az Überseering szerint a fogadó állam Sitztheorie-je kizárólag a fióktelep bejegyzésének feltételeit szabályozza, a perképességre nincs hatása.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Überseering középpontjában a jogképesség és a perképesség elvesztése áll. A helyes: a részesedésátruházás folytán a fogadó állam a tényleges székhely áthelyezését és a jogképesség elvesztését fűzte a társasághoz, ezért a kereset elfogadhatatlan lett; a Centros ezzel szemben a fióktelep bejegyzésének megtagadását tárgyalja. Az EUMSZ 49. és 54. cikk a két pályát elválasztja. A tévedés a jogképességi kérdést fióktelep-üggyé szűkíti."
+        },
+        {
+          "text": "A Gründungstheorie szerint a fogadó állam mindig megtagadhatja a jogképességet, ha a társaság tényleges székhelye a területére került.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Gründungstheorie éppen a létrehozás államának jogát követi, nem a fogadó állam tényleges székhelyi kapcsolóját. A helyes: a C-208/00 Überseering-ügyben a Sitztheorie a tényleges székhely jogát alkalmazza, míg a Gründungstheorie a létrehozás államának jogát; a két kapcsoló szemben áll. A tárgyszó a jogképesség és a perképesség megtagadását a letelepedés szabadságának korlátozásaként jelöli meg. A tévedés a két elmélet tartalmát felcseréli."
+        },
+        {
+          "text": "A Bundesgerichtshof állandó gyakorlata a társaság jogképességét a tényleges székhely joga alapján állapítja meg (Sitztheorie), szemben a létrehozás államának jogát követő Gründungstheorie-val.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két kollíziós kapcsoló ellentéte a jogképesség megítélését dönti el. A C-208/00 Überseering-ügyben a német gyakorlat a tényleges székhely jogát követi; a szabály akkor is érvényesül, ha a társaság más államban, annak joga szerint jött létre, és tényleges székhelyét később Németországba helyezi. Ha a jogképességet a német jog alapján vizsgálják, a társaság sem jogok, sem kötelezettségek alanya nem lehet, hacsak Németországban újra nem alapítják. A Zivilprozessordnung 50. § (1) bekezdése a perképességet a jogképességhez köti."
+        },
+        {
+          "text": "A német gyakorlat a Sitztheorie fenntartását a jogbiztonsággal, a hitelezővédelemmel, a kisebbségi tulajdonosok és a vállalatcsoportok szabályaival, valamint az ügyvezetésben való munkavállalói részvétellel indokolta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fogadó állam a Sitztheorie-t védelmi érvekkel támasztotta alá. Az Überseering-ügyben a Bundesgerichtshof szerint nem minden tagállamban léteznek egyenértékű rendelkezések e területeken. A tárgyszó a jogképesség és a perképesség megtagadását a letelepedés szabadságának korlátozásaként és igazolásként jelöli meg. A C-210/06 Cartesio-ügy 107. pontja az Überseering 70. pontját a létrehozás szerinti állam hatásköreként olvassa a honosság megtartása melletti áthelyezésnél."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "2ba7e67ab71f"
+    },
+    {
+      "question": "Mi következik abból, ha a társaság az 54. cikk feltételei szerint nem élhet a szabadsággal?",
+      "options": [
+        {
+          "text": "Az 54. cikk egységes uniós fogalmat ad a társaság honosságára, ezért a nemzeti jog nem dönthet a személyi hatályról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a honosság nem egységes uniós fogalom a kapcsolóelv szintjén. A helyes: a Cartesio 109. pontja szerint a közösségi jog nem határoz meg egységes kapcsolóelvet; a 110. pont a létrehozás szerinti államra bízza a nemzeti jog szerinti minőség keletkezésének és fenntartásának feltételeit. Az EUMSZ 54. cikk a bánásmód-egyenlőséget adja a feltételeknek megfelelő társaságnak, anélkül hogy a kapcsolóelvet egységesítené. A tévedés a személyi hatályt egységes honosság-definícióvá olvassa."
+        },
+        {
+          "text": "Ha a társaság az 54. cikk feltételeire tekintettel nem élhet a szabadsággal, a 49. cikk szerinti korlátozásvizsgálat fel sem merül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyi hatály előzetes a tilalomvizsgálathoz. A C-210/06 Cartesio-ügy 109. pontja szerint csak ha megállapítást nyert, hogy a társaság az EUMSZ 54. cikk feltételeire tekintettel ténylegesen élhet a szabadsággal, merül fel az EUMSZ 49. cikk szerinti korlátozás. A kérdés a természetes személy állampolgárságához hasonló előzetes minőség. A közösségi jog jelenlegi állapotában a választ a nemzeti jog adja."
+        },
+        {
+          "text": "A közösségi jog nem határoz meg egységes kapcsolóelvet arra, hogy mely társaságok élhetnek a letelepedés jogával; a létrehozás szerinti állam határozza meg a szükséges kapcsolatot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egységes kapcsoló hiánya a nemzeti jogra utal. A C-210/06 Cartesio-ügy 109–110. pontja szerint a közösségi jog nem egységesíti azon társaságok körét, amelyek élhetnek a letelepedéssel; a tagállam meghatározhatja, milyen kapcsolat szükséges a nemzeti joga alapján létrejött minőséghez és annak fenntartásához. E lehetőség magában foglalja a honosság megtartásának megtagadását a kapcsolat megszakítása mellett. Az EUMSZ 54. cikk a feltételeknek megfelelő társaságnak a természetes személy állampolgárral azonos elbánást ad, nem székhelyexportot."
+        },
+        {
+          "text": "A 49. cikk akkor is alkalmazható, ha a társaság az 54. cikk szerint nem tartozik a fejezet személyi hatálya alá, mert a tilalom abszolút.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a korlátozásvizsgálat csak a személyi hatály megállapítása után nyílik meg. A helyes: a Cartesio-ügy 109. pontja szerint az EUMSZ 49. cikk vonatkozása előzetes kérdés, amelyre a nemzeti jog ad választ az EUMSZ 54. cikk feltételei alapján; csak e minőség után merül fel a korlátozás. A 124. pont a honosság megtartása melletti áthelyezést a létrehozás szerinti állam hatáskörébe engedi. A tévedés a tilalmat a személyi hatály elé helyezi."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "7844bcdbfaf0"
+    },
+    {
+      "question": "A 50. cikk (2) bekezdésének e) pontja és az 55. cikk milyen párhuzamos védelmet ad?",
+      "options": [
+        {
+          "text": "Az e) pont lehetővé teszi valamely tagállam állampolgára számára, hogy egy másik tagállam területén ingatlantulajdont szerezzen és használjon, amennyiben ez nem ellentétes a 39. cikk (2) bekezdésében megállapított elvekkel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ingatlan a letelepedési program egyik iránya. Az EUMSZ 50. cikk (2) bekezdésének e) pontja lehetővé teszi, hogy valamely tagállam állampolgára egy másik tagállam területén ingatlantulajdont szerezzen és használjon, amennyiben ez nem ellentétes a 39. cikk (2) bekezdésében megállapított elvekkel. Az e) pont az ingatlanra, az EUMSZ 55. cikk a részesedésre ad párhuzamos, diszkriminációtilalmi védelmet. A két szabály tehát nem helyettesíti egymást."
+        },
+        {
+          "text": "Az e) pont a társasági biztosítékok egyenértékűsítését rendeli, az 55. cikk pedig a fióktelep irányító tisztségeinek betöltését.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a biztosítékok és a tisztségek más pontokhoz tartoznak. A helyes: az EUMSZ 50. cikk (2) bekezdésének g) pontja a tagok és harmadik személyek védelmére megkövetelt biztosítékokat egyenértékűsíti, az f) pont pedig a képviseletek, fióktelepek és leányvállalatok létrehozásának, valamint az anyalétesítmény személyzete általi tisztségbetöltés feltételeit bontja le. Az e) pont az ingatlanra, az 55. cikk a részesedésre szól. A tévedés a pontok tárgyát felcseréli."
+        },
+        {
+          "text": "Az 55. cikk az ingatlanszerzés nemzeti elbánását szabályozza, az e) pont pedig a tőkerészesedést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ingatlan és a részesedés védelme fordítva áll. A helyes: az EUMSZ 50. cikk (2) bekezdésének e) pontja az ingatlantulajdon szerzését és használatát engedi a 39. cikk (2) bekezdésének elveire figyelemmel; az EUMSZ 55. cikk a társasági tőkében való részesedés nemzeti elbánását adja. A két szabály párhuzamos, de tárgyuk különböző. A tévedés a tárgyakat felcseréli."
+        },
+        {
+          "text": "Az 55. cikk a társasági tőkében való részesedés nemzeti elbánását adja, míg az e) pont az ingatlanra vonatkozó párhuzamos védelmet nyújt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szabály párhuzamos diszkriminációtilalmi védelmet ad. Az EUMSZ 55. cikk a többi tagállam állampolgárait a saját állampolgárokkal azonos elbánásban részesíti az 54. cikk szerinti társaságok tőkéjében való részesedésnél; az EUMSZ 50. cikk (2) bekezdésének e) pontja az ingatlant védi. Aki nem akar önálló vállalkozó lenni és nem hoz létre fióktelepet, de társasági tulajdont szerez, az 55. cikkre támaszkodik. Az ingatlan és a részesedés tehát elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "5388ea02b36b"
+    },
+    {
+      "question": "Mely megállapítások állják meg a helyüket a Cartesio magyar tényállására?",
+      "options": [
+        {
+          "text": "A Cartesio Oktató és Szolgáltató Bt. magyar jog szerint létrejött betéti társaság volt, amely a székhelyét Gallaratéba (Olaszország) kívánta áthelyezni a magyar honosság megtartása mellett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tényállás kifelé irányuló, honosság-megtartó áthelyezés. A C-210/06 Cartesio-ügyben a társaságot 2004-ben jegyezték be Baján; 2005-ben változásbejegyzést kértek az olaszországi székhely miatt, amelyet a cégbíróság megtagadott. A magyar nemzetközi magánjog szerint a jogi személy személyes joga a nyilvántartásba vétel államának joga. A 124. pont e szabályozást a közösségi joggal összeegyeztethetőnek tartja."
+        },
+        {
+          "text": "A Cartesio a Centrosszal azonos pályán áll: a fogadó állam fióktelep-bejegyzésének megtagadását bírálja el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Cartesio a létrehozás szerinti állam kijelentkezési hatáskörének ügye. A helyes: a Centros a befelé irányuló másodlagos letelepedés (fióktelep); a Cartesio a kifelé irányuló, honosság megtartása melletti székhelyáthelyezés. A Cartesio 123. pontja a befelé irányuló pályát a 109. pont előzetes honossági kérdésétől elválasztja. Az EUMSZ 49. és 54. cikk a két helyzetben más szerepet kap. A tévedés a két ügyet egy pályára kényszeríti."
+        },
+        {
+          "text": "A Bíróság a Cartesióban azt mondta ki, hogy a magyar társaság az olasz jog szerint automatikusan megőrzi a magyar honosságot a székhely áthelyezése után.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a ratio éppen a honosság megtartásának megakadályozását engedi. A helyes: a Cartesio 124. pontja szerint az EUMSZ 49. és 54. cikk — a korábbi EK 43. és 48. cikk — nem összeegyeztethetetlen azzal a szabályozással, amely megakadályozza a honosság megtartása melletti székhelyáthelyezést. A 110. pont a létrehozás szerinti államra bízza a kapcsolat meghatározását. A tévedés a megtartást automatikussá teszi."
+        },
+        {
+          "text": "A magyar cégjog szerint a cég székhelye a központi ügyintézés helye, és a cégjegyzék tartalmazza a székhelyet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a székhely a magyar szabályozásban a központi ügyintézés helyéhez kötött. A C-210/06 Cartesio-ügy szerint a magyar társasági és cégjog a Magyarország területén székhellyel rendelkező gazdasági társaságok alapítását, szervezetét és működését szabályozza; a társasági szerződésben meg kell meghatározni a cégnevet és a székhelyet. A cég a cégnyilvántartásba bejegyzéssel jön létre. Az EUMSZ 54. cikk szerinti honossági minőség fenntartása ehhez a nemzeti jogi kapcsolathoz kötött."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "cd7fb15019a4"
+    },
+    {
+      "question": "Hogyan olvassa a Cartesio az Überseering 70. pontját a létrehozás szerinti állam hatáskörére?",
+      "options": [
+        {
+          "text": "A Daily Mail érvelése a Cartesio szerint a fogadó államra is átültethető, ezért a jogképesség megtagadása mindig jogszerű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a német kormány Daily Mail-átültetése a fogadó államra nem a Cartesio ratio. A helyes: a C-208/00 Überseering-ügyben a német kormány a Daily Mail logikáját a fogadó államra akarta átültetni, de e kormányzati észrevételek nem a Bíróság válaszai; a C-210/06 Cartesio-ügy a Daily Mailt a létrehozás szerinti állam kifelé irányuló hatásköréhez köti az EUMSZ 49. és 54. cikk értelmezése mellett. A két pálya elválik. A tévedés a kormányzati érvelést ítéleti szabállyá emeli."
+        },
+        {
+          "text": "A Cartesio szerint az Überseering 70. pontja a fogadó államot kötelezi arra, hogy minden esetben elismerje a jogképességet a Sitztheorie ellenére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 107. pont a létrehozás szerinti állam hatáskörét olvassa ki, nem a fogadó állam kötelezését. A helyes: a C-210/06 Cartesio-ügy 107. pontja az Überseering 70. pontját úgy értelmezi, hogy a létrehozás szerinti állam rendelkezik a honosság megtartása melletti székhelyáthelyezésről, és korlátozásokat állapíthat meg; kifejezetten rögzíti, hogy ez nem az Überseering fogadó államra adott válasza. A tárgyszó a fogadó állam megtagadását korlátozásként jelöli. A tévedés a kifelé olvasatot befelé fordítja."
+        },
+        {
+          "text": "A 108. pont ugyanezt a Daily Mail 21. és 23. pontjára, valamint az Überseering 69. pontjára vezeti vissza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Cartesio a Daily Mail és az Überseering kifelé irányuló olvasatát köti össze. A C-210/06 Cartesio-ügy 108. pontja a Daily Mail 21. és 23. pontjára, valamint az Überseering 69. pontjára hivatkozik. A 69. és 70. pont Cartesio-beli kifelé olvasata nem azonos az Überseering fogadó államra vonatkozó tárgyával. A létrehozás szerinti állam hatásköre az EUMSZ 49. és 54. cikk értelmezése mellett elválik a fogadó állam jogképesség-elismerésének kérdésétől."
+        },
+        {
+          "text": "A Cartesio 107. pontja szerint a létesítő okiratban megjelölt vagy tényleges székhely más tagállamba helyezésének lehetőségéről — a jogi személyiség megtartása mellett — az a nemzeti jog rendelkezik, amelynek megfelelően a társaságot létrehozták.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a 70. pont kifelé olvasata. A C-210/06 Cartesio-ügy 107. pontja az Überseering 70. pontját úgy olvassa, hogy a létrehozás szerinti állam rendelkezik a honosság megtartása melletti székhelyáthelyezésről. A Bíróság ez alapján kimondta: a tagállam korlátozásokat állapíthat meg a tényleges székhely külföldre helyezésének feltételeként, ha a társaság megőrzi az e tagállam joga szerinti jogi személyiségét. Ez nem az Überseering fogadó államra adott válasza."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "9e357d47dae6"
+    },
+    {
+      "question": "Melyik állítás téves a letelepedés szabadságának vállalkozásokra vonatkozó fogalmi magjáról? (tanító)",
+      "options": [
+        {
+          "text": "Az 54. cikk a nonprofit szervezeteket is a természetes személy állampolgárral azonos elbánásba helyezi, ha Unióbeli székhellyel rendelkeznek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nonprofit szervezetek ki vannak zárva a társaságfogalomból. A helyes: az EUMSZ 54. cikk második albekezdése a polgári vagy kereskedelmi jog alapján létrejött társaságokat fedi, „kivéve a nonprofit szervezeteket”; a kizárás a fejezet gazdasági jellegét őrzi. A haszonszerző tevékenység hiánya a nonprofitot kiveszi a letelepedési és a részesedési szabály alól. A tévedés az egyesülési szabadságot a gazdasági fejezetbe emeli."
+        },
+        {
+          "text": "A Gebhard szerint a társaság csak egyetlen tagállamban telepedhet le, képviselet vagy fióktelep alapítása tilos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a társaság több tagállamban is letelepedhet. A helyes: a C-55/94 Gebhard-ügy 24. pontja szerint egy személy több tagállamban is letelepedhet; a társaságok esetében képviselet, fióktelep vagy leányvállalat alapításával. A 23. pont a jogi személyeket a természetes személyekkel azonos alanyi körbe helyezi az EUMSZ 54. cikk alapján. A tévedés a másodlagos letelepedést kizárja."
+        },
+        {
+          "text": "A 49. cikk tilalma csak az állampolgársági diszkriminációra korlátozódik, a fióktelep alapításának akadályai kívül esnek a tilalmon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom a szabad letelepedést akadályozó minden korlátozásra kiterjed. A helyes: az EUMSZ 49. cikk szerint tilos a szabad letelepedésre vonatkozó minden korlátozás, és a rendelkezést a képviselet, fióktelep vagy leányvállalat alapításának korlátozásaira is alkalmazni kell. A Centros 21–22. pontja a fióktelep bejegyzésének megtagadását e szabadságok korlátozásának minősíti. A tévedés a tilalmat diszkriminációra szűkíti."
+        },
+        {
+          "text": "A Centros szerint a társasági jog kevésbé szigorú tagállamának választása önmagában visszaélés, ezért a fióktelep bejegyzése mindig megtagadható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a társasági jog választása önmagában nem visszaélés. A helyes: a C-212/97 Centros-ügy 27. pontja szerint nem tekinthető visszaélésnek önmagában, ha a társaságot a legkevésbé szigorú tagállamban hozzák létre, és más tagállamban fióktelepet alapítanak; e jog az EUMSZ 49. és 54. cikk szerinti szabadság gyakorlásának szerves része. A 29. pont szerint a székhely szerinti tevékenység hiánya sem elégséges bizonyítás. A félreértés a szabadság magját visszaéléssé fordítja."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "cd9b56a09064"
+    },
+    {
+      "question": "Milyen szerepet kap a 49. cikk tőkére utaló záradéka a társaságalapításnál?",
+      "options": [
+        {
+          "text": "A tőkére utaló záradék azt jelenti, hogy a fióktelep alapítása kizárólag a tőke fejezetébe tartozik, a 49. cikk nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a képviselet, fióktelep vagy leányvállalat alapítása a letelepedési tilalom saját tényállása. A helyes: az EUMSZ 49. cikk kifejezetten kiterjeszti a tilalmat a képviselet, fióktelep vagy leányvállalat alapításának korlátozásaira; a tőkére utaló záradék a társaságalapítást és az irányítást köti a tőkekorlátozásokhoz, de nem helyezi át a másodlagos letelepedést. A Centros is a letelepedési cikkekre sűríti a kérdést. A tévedés a záradékot hatásköri áthelyezéssé olvassa."
+        },
+        {
+          "text": "A 49. cikk a társaságalapítást és az irányítást a tőkére vonatkozó fejezet rendelkezéseire is figyelemmel rendeli, tehát a letelepedés nem olvasható el az 55. cikktől és a tőkemozgás szabályaitól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a záradék a társaságalapítást a tőkekorlátozásokhoz köti. Az EUMSZ 49. cikk szerint a társaságok alapítása és irányítása a fogadó állam saját állampolgáraira előírt feltételek szerint történik, „figyelemmel a tőkére vonatkozó fejezet rendelkezéseire is”. Az 55. cikk e záradékot konkretizálja a tőkerészesedés nemzeti elbánásával. A két szabadság párhuzamosan köti a részesedésszerzést."
+        },
+        {
+          "text": "Az 55. cikk új, önálló alanyi szabadságot teremt a fióktelep alapítására, a 49. cikk helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tőkerészesedési nemzeti elbánás nem helyettesíti a fióktelep alapításának védelmét. A helyes: az EUMSZ 55. cikk a nemzeti elbánás tőkerészesedési alakja, a 49. cikk tilalmához és az 54. cikk személyi hatályához igazítva; a fióktelep alapítását az EUMSZ 49. cikk védi. Aki nem hoz létre fióktelepet, de társasági tulajdont szerez, az 55. cikkre támaszkodik. A tévedés a részesedési szabályt másodlagos letelepedéssé bővíti."
+        },
+        {
+          "text": "Az 55. cikk a 49. és az 54. cikk következményét a társasági tőkében való részesedésre viszi, a Szerződések egyéb rendelkezéseinek sérelme nélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a részesedésszerzésnél a többi tagállam állampolgára a saját állampolgárral azonos elbánást kap. Az EUMSZ 55. cikk a többi tagállam állampolgárait a saját állampolgárokkal azonos elbánásban részesíti az 54. cikk szerinti társaságok tőkéjében; a klauzula a Szerződések egyéb rendelkezései alkalmazásának sérelme nélkül érvényesül. A más tagállami állampolgár nem szorítható szigorúbb részesedési küszöb alá csupán állampolgársága miatt. A tőke és a letelepedés nem oltja ki egymást."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "bd4d4d0e6519"
+    },
+    {
+      "question": "Mely esetben alkalmazható a 50. cikk (2) bekezdésének h) pontja a letelepedési feltételekre?",
+      "options": [
+        {
+          "text": "A h) pont a 49. cikk tilalmának intézményi kiegészítője: a támogatásokkal előidézett torzítás is a letelepedési feltételeket érintheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a támogatási ellenőrzés a letelepedési program része. Az EUMSZ 50. cikk (1)–(2) bekezdése a 49. cikk tilalmát intézményi programmá fordítja; a h) pont ebben a keretben a támogatások torzító hatását rendeli vizsgálni. A g) pont a társasági biztosítékok egyenértékűsítését, az f) pont a másodlagos letelepedés feltételeinek lebontását adja. A h) pont tehát nem a versenyjog helyettesítője, hanem a letelepedési feltételek védelme."
+        },
+        {
+          "text": "A h) pont szerint meg kell bizonyosodni arról, hogy a tagállamok által nyújtott támogatások nem torzítják-e a letelepedés feltételeit.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a h) pont a támogatások torzító hatását ellenőrizteti. Az EUMSZ 50. cikk (2) bekezdésének h) pontja a letelepedési feltételek támogatásokkal való torzítását a versenyjog határán ellenőrizteti. Ez a Parlament, a Tanács és a Bizottság feladatainak része a (2) bekezdés programjában. A vállalkozások vizsgájában a h) pont a támogatási torzítást köti a letelepedéshez."
+        },
+        {
+          "text": "A h) pont az ingatlanszerzés nemzeti elbánását szabályozza a 39. cikk (2) bekezdésének elveire figyelemmel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ingatlan és a támogatási ellenőrzés tárgya elválik. A helyes: az EUMSZ 50. cikk (2) bekezdésének e) pontja az ingatlantulajdon szerzését és használatát engedi a 39. cikk (2) bekezdésének elveire figyelemmel. A h) pont ezzel szemben azt rendeli, hogy meg kell bizonyosodni: a tagállamok által nyújtott támogatások nem torzítják-e a letelepedés feltételeit. A tévedés az e) és a h) pontot felcseréli."
+        },
+        {
+          "text": "A h) pont a Bíróság számára hatásköri alapot ad arra, hogy a társasági biztosítékok közelítését ítélettel pótolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés a jogalkotási és intézményi feladatokat rögzíti, nem bírósági pótlást. A helyes: az EUMSZ 50. cikk (2) bekezdése a Parlament, a Tanács és a Bizottság feladatait adja; a biztosítékok egyenértékűsítése a g) pont programja. A Centros 28. pontja szerint a közelítés hiánya az EUMSZ 49. cikk alkalmazását nem függeszti fel. A tévedés a h) pontot bírósági hatáskörré olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "4ae61e18bf48"
+    },
+    {
+      "question": "A 50. cikk (2) bekezdésének d) pontja milyen feltételekkel biztosítja a munkavállaló önálló vállalkozóként maradását?",
+      "options": [
+        {
+          "text": "A d) pont szerint a munkavállaló minden további feltétel nélkül, automatikusan önálló vállalkozóvá válhat a fogadó államban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a maradás feltételekhez kötött, nem automatikus. A helyes: az EUMSZ 50. cikk (2) bekezdésének d) pontja szerint a fogadó államban alkalmazott munkavállaló akkor maradhat önálló vállalkozói tevékenység céljából, ha megfelel azoknak a feltételeknek, amelyeket akkor kellene teljesítenie, amikor a tevékenységet meg kívánja kezdeni. A feltétel a belépéskor irányadó követelményekhez igazodik. A tévedés a feltételt elhagyja, és automatikus státusváltást állít."
+        },
+        {
+          "text": "A d) pont a 49. cikk tilalmának intézményi kibontása: a munkavállaló önálló vállalkozóvá válása is a letelepedés megvalósításához tartozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a d) pont a tilalom programjának része. Az EUMSZ 50. cikk (1) bekezdése irányelveket rendel a letelepedési szabadság megvalósítására; a (2) bekezdés d) pontja e feladatok között biztosítja a fogadó államban alkalmazott munkavállaló önálló vállalkozói tevékenység céljából történő maradását. A 49. cikk az önálló vállalkozói tevékenység megkezdését és folytatását védi. A d) pont e tartalmat intézményi feladattá fordítja."
+        },
+        {
+          "text": "A d) pont a társasági biztosítékok egyenértékűsítését rendeli a tagok és harmadik személyek védelmére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a biztosítékok a g) pont tárgya. A helyes: az EUMSZ 50. cikk (2) bekezdésének g) pontja a szükséges mértékben összehangolja azokat a biztosítékokat, amelyeket a tagállamok az 54. cikk szerinti társaságoktól a tagok és harmadik személyek érdekeinek védelme céljából megkövetelnek. A d) pont a munkavállaló önálló vállalkozóként maradását biztosítja. A tévedés a d) és a g) pontot felcseréli."
+        },
+        {
+          "text": "A d) pont biztosítja, hogy valamely tagállamnak egy másik tagállam területén alkalmazott munkavállalói önálló vállalkozói tevékenység folytatása céljából ott maradhassanak, ha megfelelnek azoknak a feltételeknek, amelyeket akkor kellene teljesíteniük, amikor a tevékenységet meg kívánják kezdeni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a d) pont az alkalmazotti státusból az önálló vállalkozói státusba lépést védi. Az EUMSZ 50. cikk (2) bekezdésének d) pontja szerint a fogadó államban alkalmazott munkavállaló önálló vállalkozóként maradhat, amennyiben megfelel azoknak a feltételeknek, amelyeket akkor kellene teljesítenie, amikor a tevékenységet meg kívánja kezdeni. Ez a letelepedési program egyik iránya. A feltétel a belépéskor irányadó követelményekhez igazodik."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "996ecbf335cf"
+    },
+    {
+      "question": "Miben tér el a 49. cikk két albekezdése egymástól?",
+      "options": [
+        {
+          "text": "Az első albekezdés a korlátozási tilalom: nemcsak az állampolgársági diszkrimináció, hanem a szabad letelepedést akadályozó minden korlátozás, ideértve a másodlagos letelepedést is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az első rész a tilalmi mag, és túlmutat a diszkrimináción. Az EUMSZ 49. cikk szerint tilos a szabad letelepedésre vonatkozó minden korlátozás; a rendelkezést a képviselet, fióktelep vagy leányvállalat alapításának korlátozásaira is alkalmazni kell. A két albekezdés nem ismétlés: az első a tilalmat, a második a tartalmat adja. A Centros 21–22. pontja a fióktelep megtagadását e tilalom alá vonja."
+        },
+        {
+          "text": "A második albekezdés a tartalmat és a nemzeti elbánást adja: önálló tevékenység, társaságalapítás és irányítás a fogadó állam saját állampolgáraira szabott feltételek szerint, az 54. cikk társaságfogalmára utalva.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második rész a szabadság tartalmát rögzíti. Az EUMSZ 49. cikk szerint a szabad letelepedés magában foglalja az önálló vállalkozói tevékenységet, valamint a társaságok — különösen az 54. cikk második bekezdése szerinti társaságok — alapítását és irányítását a fogadó állam saját állampolgáraira előírt feltételek szerint. A Gebhard-ügy 33. pontja megerősíti: nem a származási szabályok exportjáról van szó. A nemzeti elbánás a fogadó állam feltételeire mutat."
+        },
+        {
+          "text": "A második albekezdés a tőke fejezetébe helyezi a fióktelep alapítását, ezért a 49. cikk első része oda nem vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a képviselet, fióktelep vagy leányvállalat alapítása a letelepedési tilalom saját tényállása, nem a tőke fejezetébe rejtett kivétel. A helyes: az EUMSZ 49. cikk első része kifejezetten kiterjeszti a tilalmat a másodlagos letelepedés korlátozásaira; a tőkére utaló záradék a társaságalapítást és az irányítást köti a tőkekorlátozásokhoz. A Centros a letelepedési cikkekre sűríti a fióktelep kérdését. A tévedés a tilalmat a tőke fejezetébe tolja."
+        },
+        {
+          "text": "A két albekezdés azonos tartalmú ismétlés: mindkettő csak az állampolgársági diszkriminációt tiltja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két albekezdés nem ismétlés. A helyes: az EUMSZ 49. cikk első része a korlátozási tilalmat — a szabad letelepedést akadályozó minden korlátozást — adja, a második a tartalmat és a nemzeti elbánást. A képviselet–fióktelep–leányvállalat hármasa a már letelepedett alany második jelenlétét védi. A tévedés a szerkezetet diszkriminációs ismétlésre szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "7232f0f04c70"
+    },
+    {
+      "question": "Mi a helyes elhatárolás a Centros, az Überseering és a Cartesio pályái között?",
+      "options": [
+        {
+          "text": "A három ügy együtt abszolút székhelyszabadságot biztosít: a társaság bármely tagállamba szabadon viheti a székhelyét a honosság megtartásával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vállalkozások letelepedése nem a székhely szabad exportja. A helyes: a Centros a másodlagos jelenlétet védi; az Überseering a fogadó állam jogképességi megtagadását a korlátozás–igazolás szerkezetbe helyezi; a Cartesio 110. és 124. pontja a létrehozás szerinti államnak a honosság feletti rendelkezését engedi. Az EUMSZ 49. és 54. cikk e három pályát elválasztja. A tévedés a korlátozott szabadságot abszolút exporttá szélesíti."
+        },
+        {
+          "text": "A Cartesio a kifelé irányuló pálya: a létrehozás szerinti állam megakadályozhatja, hogy a társaság székhelyét a honosság megtartása mellett helyezze át.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Cartesio a kijelentkezés feletti hatáskört adja. A C-210/06 Cartesio-ügy 124. pontja szerint az EUMSZ 49. és 54. cikk nem összeegyeztethetetlen azzal a szabályozással, amely megakadályozza a honosság megtartása melletti székhelyáthelyezést. A 110. pont a honosság fenntartásának kapcsolatát a létrehozás szerinti államra bízza. A 123. pont a befelé irányuló pályát ettől elválasztja."
+        },
+        {
+          "text": "Az Überseering és a Cartesio azonos ratiót ad: mindkettő a fogadó államot kötelezi a fióktelep azonnali bejegyzésére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Überseering a fogadó állam jogképességi megtagadását, a Cartesio a létrehozás szerinti állam honossági hatáskörét tárgyalja. A helyes: az Überseering tárgyszava a jogképesség és a perképesség megtagadását a letelepedés szabadságának korlátozásaként jelöli; a C-210/06 Cartesio-ügy 107. pontja az Überseering 70. pontját a létrehozás szerinti állam kifelé irányuló hatásköreként olvassa. A C-212/97 Centros-ügy a befelé irányuló fióktelep-bejegyzés megtagadását korlátozásnak minősíti. A tévedés a három ügyet egy kötelezettséggé olvasztja."
+        },
+        {
+          "text": "A Centros a befelé irányuló másodlagos letelepedés: a létrehozás szerinti jogon fennálló társaság fióktelepet kér a fogadó államban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Centros a fogadó állam fióktelep-bejegyzését védi. A C-212/97 Centros-ügyben a Bíróság a fióktelep bejegyzésének megtagadását korlátozásnak minősítette; a társasági jog választása és a székhely szerinti tevékenység hiánya önmagában nem elég a visszaéléshez. Az EUMSZ 49. és 54. cikk céljához igazodik a korlátozás és a visszaélés fogalma. A társaság honossága itt nem kétséges."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "dc3fe45f8f26"
+    },
+    {
+      "question": "A 50. cikk (2) bekezdésének a)–c) pontja milyen intézményi feladatokat rögzít?",
+      "options": [
+        {
+          "text": "A b) pont a fióktelep irányító tisztségeinek az anyalétesítmény személyzete által történő betöltését szabályozza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az anyalétesítményi tisztségek az f) pont tárgya. A helyes: az EUMSZ 50. cikk (2) bekezdésének f) pontja egyrészt a képviseletek, fióktelepek vagy leányvállalatok létrehozásának feltételeit, másrészt az ilyen egységek irányító és ellenőrző tisztségeinek az anyalétesítmény személyzete által történő betöltését rendeli lebontani. A b) pont a hatóságok együttműködését írja elő. A tévedés az f) és a b) pontot felcseréli."
+        },
+        {
+          "text": "A b) pont szoros együttműködést biztosít a tagállamok hatáskörrel rendelkező hatóságai között, a c) pont pedig eltörli a letelepedés szabadságát akadályozó közigazgatási eljárásokat és gyakorlatot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a b) és a c) pont a hatósági együttműködést és az akadályok lebontását rendeli. Az EUMSZ 50. cikk (2) bekezdésének b) pontja a különböző tevékenységek Unión belüli sajátos helyzetének megismerése érdekében ír elő együttműködést a tagállamok hatóságai között. A c) pont a nemzeti jogszabályokon vagy korábbi megállapodásokon alapuló, a letelepedést akadályozó közigazgatási eljárások és gyakorlat eltörlését rendeli. Ezek a feladatok a 49. cikk tilalmát intézményesítik a másodlagos jog programjában."
+        },
+        {
+          "text": "Az a) pont főszabályként elsőbbségi elbánást biztosít olyan tevékenységek számára, amelyeknél a letelepedés szabadsága különös mértékben előmozdítja a termelés és a kereskedelem fejlődését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az a) pont a termelést és a kereskedelmet különösen előmozdító tevékenységeknek ad elsőbbséget. Az EUMSZ 50. cikk (2) bekezdésének a) pontja szerint a Parlament, a Tanács, illetve a Bizottság főszabályként elsőbbségi elbánást biztosít e tevékenységeknek. Ez a másodlagos jog tartalmi programjának része. A program nem bírósági hatásköri katalógus."
+        },
+        {
+          "text": "Az a) pont a társasági biztosítékok egyenértékűsítését, a c) pont pedig a támogatások torzító hatásának ellenőrzését rendeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a biztosítékok a g), a támogatások a h) pont tárgya. A helyes: az EUMSZ 50. cikk (2) bekezdésének g) pontja a tagok és harmadik személyek védelmére megkövetelt biztosítékokat egyenértékűsíti; a h) pont a támogatások torzító hatását ellenőrzi. Az a) pont az elsőbbségi tevékenységeket, a c) pont a korlátozó közigazgatási gyakorlatot érinti. A tévedés a szerződési pontok tárgyát összecseréli."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "e7e8af96e938"
+    },
+    {
+      "question": "Melyik állítás téves a Cartesio 111–112. pontjának két ágáról? (tanító)",
+      "options": [
+        {
+          "text": "A 124. pont ratio az átalakulásos ágra is kiterjed, ezért a fogadó államba való átalakulás is mindig megtagadható a létrehozás szerinti állam által.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 124. pont ratio a honosság megtartása melletti áthelyezésre szól. A helyes: a Cartesio 124. pontja azt engedi, hogy a létrehozás szerinti állam megakadályozza a honosság megtartása melletti székhelyáthelyezést; a 112. pont az átalakulásos ágat ettől elválasztja, és nem ad mentességet. Az EUMSZ 49. és 54. cikk a két ágon más szerepet kap. A tévedés a ratio hatókörét az átalakulásra szélesíti."
+        },
+        {
+          "text": "Ha a társaság a fogadó állam formájába alakul át, a 110. pont lehetősége mentességet ad a letelepedési szabályok alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átalakulásos ág nem élvezi a mentességet. A helyes: a Cartesio-ügy 112. pontja szerint az alkalmazandó nemzeti jog megváltozása melletti átalakulásnál a 110. pont lehetősége korántsem jelent mentességet az EUMSZ 49. és 54. cikk szerinti letelepedési szabályok alól. A 111. pont a két tényállást választja el. A tévedés a mentességet az átalakulásra is kiterjeszti."
+        },
+        {
+          "text": "A létrehozás szerinti állam a 110. pont alapján a társaság létrehozására és megszüntetésére vonatkozó nemzeti szabályozást teljesen kivonhatja a letelepedési szabályok alól, még átalakulás esetén is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 112. pont kizárja a teljes mentességet az átalakulásnál. A helyes: a Cartesio 112. pontja szerint a 110. pont lehetősége korántsem jelent mentességet a társaságok létrehozására és megszüntetésére vonatkozó nemzeti szabályozásnak az EUMSZ 49. és 54. cikk szerinti letelepedési szabályok alól, ha az áthelyezés az alkalmazandó jog megváltozása mellett történik. A 111. pont a két ágat elválasztja. A tévedés a 110. pontot általános mentességgé bővíti."
+        },
+        {
+          "text": "A személyes jog megtartása melletti és az átalakulásos székhelyáthelyezés között nincs különbség: mindkettőre azonos mentesség vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két ág elválik, és a mentesség nem azonos. A helyes: a C-210/06 Cartesio-ügy 111. pontja a személyes jog megtartása melletti áthelyezést az alkalmazandó jog megváltozása melletti átalakulástól választja el; a 112. pont szerint az utóbbi nem élvezi a 110. pont mentességét. A 124. pont ratio az előbbi ágra szól. A tévedés a két ágat azonos mentesség alá vonja."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "291788cb4a9d"
+    },
+    {
+      "question": "Hogyan erősíti meg a Gebhard-ügy 33. pontja a nemzeti elbánást a letelepedésnél?",
+      "options": [
+        {
+          "text": "A Gebhard szerint a szabadság a fogadó állam saját állampolgáraira előírt feltételek szerint gyakorolható, nem a származási állam szabályainak exportjaként.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti elbánás a fogadó állam feltételeire mutat. A C-55/94 Gebhard-ügy 33. pontja megerősíti: a letelepedés szabadsága a fogadó állam saját állampolgáraira előírt feltételek szerint gyakorolható. Az EUMSZ 49. cikk ugyanezt a formulát adja a társaságalapításra és az irányításra. A származási jog kivitele nem a szabadság tartalma."
+        },
+        {
+          "text": "A nemzeti elbánás csak a természetes személyekre vonatkozik; a jogi személyek a származási jogot vihetik át.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogi személyek is a fogadó állam feltételei szerint gyakorolják a szabadságot. A helyes: a Gebhard-ügy 23. pontja a jogi személyeket a természetes személyekkel azonos alanyi körbe helyezi az EUMSZ 54. cikk alapján; a 33. pont a nemzeti elbánást a fogadó állam feltételeire szabja. A 49. cikk a társaságokra is a fogadó állam saját állampolgári feltételeit rendeli. A tévedés a személyi kört és a feltételeket elválasztja."
+        },
+        {
+          "text": "A Gebhard szerint a társaság a származási állam társasági jogát kötelezően átviheti a fogadó államba, és a fogadó állam feltételei nem alkalmazhatók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti elbánás nem a származási jog exportja. A helyes: a C-55/94 Gebhard-ügy 33. pontja szerint a szabadság a fogadó állam saját állampolgáraira előírt feltételek szerint gyakorolható; az EUMSZ 49. cikk ugyanezt a formulát adja a társaságalapításra és az irányításra. Az EUMSZ 54. cikk a feltételeknek megfelelő társaságnak a természetes személy állampolgárral azonos elbánást ad. A tévedés a fogadó állam feltételeit felcseréli a származási jog kivitelével."
+        },
+        {
+          "text": "A 49. cikk a társaságalapítást és az irányítást a letelepedés országának joga által a saját állampolgáraira előírt feltételek szerint rendezi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szerződés szövege a Gebhard olvasatát hordozza. Az EUMSZ 49. cikk szerint a szabad letelepedés magában foglalja a társaságok alapítását és irányítását „a letelepedés országának joga által a saját állampolgáraira előírt feltételek szerint”, figyelemmel a tőkére vonatkozó fejezetre is. Az 54. cikk a társaságot a természetes személy állampolgárral azonos elbánásba helyezi. A mérce a fogadó állam saját állampolgáraira szabott feltételek."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "c7f37ef81f35"
+    },
+    {
+      "question": "Mi következik abból, ha a fogadó állam a fióktelep bejegyzését a társasági jog összehangolásának hiányára hivatkozva tagadja meg?",
+      "options": [
+        {
+          "text": "A fogadó állam jogszerűen felfüggesztheti a 49. cikket, amíg a Tanács be nem fejezi a társasági jog közelítését.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom nem függ a közelítés befejezésétől. A helyes: a Centros-ügy 28. pontja szerint a társasági jog hiányos összehangolása az EUMSZ 49. cikk alkalmazását nem függeszti fel; a Tanács a 50. cikk (2) bekezdésének g) pontja alapján bármikor befejezheti a közelítést, de ez nem előfeltétel. A 27. pont a fióktelep alapítását a szabadság szerves részének tekinti. A tévedés a programot a tilalom felfüggesztőjévé teszi."
+        },
+        {
+          "text": "A társasági jog hiányos összehangolása közömbös: a 49. cikk alkalmazását nem függeszti fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közelítés hiánya nem előfeltétel a tilalomhoz. A C-212/97 Centros-ügy 28. pontja szerint a társasági jog hiányos összehangolása közömbös; a Tanács az EUMSZ 50. cikk (2) bekezdésének g) pontja — a korábbi 54. cikk (3) bekezdésének g) pontja — alapján bármikor befejezheti a közelítést. Az EUMSZ 49. cikk a szabad letelepedés minden korlátozását tiltja, ideértve a fióktelep alapítását. A fióktelep megtagadása a közelítés hiányára nem alapozható."
+        },
+        {
+          "text": "A g) pont a biztosítékok egyenértékűsítésének programja, de a program befejezése nem feltétele a 49. cikk alkalmazásának.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalkotási program és a tilalom párhuzamos. Az EUMSZ 50. cikk (2) bekezdésének g) pontja a tagok és harmadik személyek védelmére megkövetelt biztosítékokat a szükséges mértékben egyenértékűvé teszi. A Centros 28. pontja szerint e közelítés hiánya az EUMSZ 49. cikk alkalmazását nem függeszti fel. A vállalkozások vizsgája a g) ponton is dől el, de nem a tilalom felfüggesztésével."
+        },
+        {
+          "text": "A 50. cikk (2) bekezdésének g) pontja hatásköri alapot ad a fogadó államnak a fióktelep automatikus megtagadására.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a g) pont a biztosítékok egyenértékűsítésének jogalkotási programja, nem megtagadási jogalap. A helyes: az EUMSZ 50. cikk (2) bekezdésének g) pontja a Parlament, a Tanács és a Bizottság feladata; a Centros 21–22. pontja a fióktelep bejegyzésének megtagadását az EUMSZ 49. és 54. cikk szerinti szabadságok korlátozásának minősíti. A tévedés a közelítési programot megtagadási hatáskörré olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "aed7fa8ea1d7"
+    },
+    {
+      "question": "Mely megállapítások igazak a társaság „honosságára” az 54. cikk és a Cartesio alapján?",
+      "options": [
+        {
+          "text": "A társaság „honossága” nem puszta ténykérdés a Bíróság előtt, hanem az 54. cikk feltételeinek a létrehozás szerinti joggal való találkozása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a honosság a személyi hatály jogi minősége. A Cartesio-ügy 106. pontja a három kapcsolót azonos szintre helyezi; a 109. pont szerint az, hogy az EUMSZ 49. cikk vonatkozik-e a társaságra, előzetes kérdés, amelyre a nemzeti jog ad választ. A Centros 20. pontja a kapcsolókat az állampolgárság analógiájára a jogrenddel való viszony jelölésére használja. A tényleges helyzet önmagában nem dönt."
+        },
+        {
+          "text": "A Bíróság az 54. cikk alapján egységesen megállapítja a társaság honosságát, a nemzeti jog figyelmen kívül hagyásával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közösségi jog nem egységesíti a kapcsolóelvet. A helyes: a C-210/06 Cartesio-ügy 109. pontja szerint a közösségi jog jelenlegi állapotában kizárólag az alkalmazandó nemzeti jog adhat választ arra, hogy a társaság az EUMSZ 54. cikk feltételei szerint élhet-e a szabadsággal. A 110. pont a honosság keletkezésének és fenntartásának kapcsolatát a létrehozás szerinti államra bízza. A tévedés a személyi hatályt egységes honosság-ítéletté olvassa."
+        },
+        {
+          "text": "A honosság megállapítása után a létrehozás szerinti állam többé nem rendelkezhet a minőség fenntartásáról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fenntartás feltételeit is a létrehozás szerinti állam határozhatja meg. A helyes: a Cartesio 110. pontja szerint a tagállam azt is meghatározhatja, milyen kapcsolat szükséges a nemzeti jog szerinti minőség későbbi fenntartásához, és megtilthatja a honosság megtartását a kapcsolat megszakítása mellett. A 124. pont e szabályozást az EUMSZ 49. és 54. cikkel összeegyeztethetőnek tartja. A tévedés a keletkezést a fenntartástól elválasztja."
+        },
+        {
+          "text": "Csak ha a társaság az 54. cikk feltételei szerint ténylegesen élhet a szabadsággal, merül fel a 49. cikk szerinti korlátozás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a korlátozásvizsgálat a személyi hatály után következik. A C-210/06 Cartesio-ügy 109. pontja ezt előzetes kérdéssé emeli: csak a minőség megállapítása után merül fel az EUMSZ 49. cikk szerinti korlátozás. A 110. pont a létrehozás szerinti államra bízza a kapcsolat meghatározását. A befelé irányuló pályán — ahol a honosság nem kétséges — a 123. pont elválasztja e kérdést."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "27a07d288922"
+    }
+  ]
+}

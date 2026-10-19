@@ -1,0 +1,1089 @@
+{
+  "id": "NIjtaF1K6UHbsx6ml6Kd",
+  "sorszam": 27,
+  "cim": "Az Európai Unió intézményei vagy azok alkalmazottai által okozott kár (...)",
+  "generationType": "kerdes",
+  "title": "27. Az Európai Unió intézményei vagy azok alkalmazottai által okozott kár (...)",
+  "questions": [
+    {
+      "question": "Miért nem nyitja az EUMSZ 268. cikk a szerződéses felelősség vitáit a Bíróság elé?",
+      "options": [
+        {
+          "text": "A szerződéses felelősséget az adott szerződésre alkalmazandó jog szabályozza, nem a második bekezdés közös elvei; ezért a 268. cikk e vitát nem viszi Luxembourgba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az anyagi elválasztás fórumkövetkezménnyel jár. Az EUMSZ 340. cikk első bekezdése expressis verbis kimondja: az Unió szerződéses felelősségét az adott szerződésre alkalmazandó jog szabályozza. A közös általános elvek a második bekezdéshez tartoznak. A 268. cikk e szerződéses első bekezdést nem nyitja a Bíróság kártérítési hatáskörére."
+        },
+        {
+          "text": "A 268. cikk a szerződéses és a szerződésen kívüli kártérítési vitákat egyaránt a Bíróság elé utalja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szerződéses első bekezdés kívül esik a 268. cikk szövegén. A helyes: a 268. cikk csak a 340. cikk második és harmadik bekezdése szerinti kártérítési vitákra nyitja a hatáskört. A tévedés a 340. cikk négy bekezdésének fórumszempontú összemosásából ered."
+        },
+        {
+          "text": "A 268. cikk szöveg szerint csak a 340. cikk második és harmadik bekezdésében említett kártérítési vitákra nyitja a Bíróság hatáskörét, az első bekezdésre nem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fórumnyitás szelektív. Az EUMSZ 268. cikk a 340. cikk második és harmadik bekezdését említi, az első bekezdés szerződéses alakzatát nem. Az első bekezdés szerint a szerződéses felelősséget az adott szerződésre alkalmazandó jog szabályozza. A szerződésen kívüli Unió- és EKB-károkozás ezért külön hatásköri úton áll."
+        },
+        {
+          "text": "A szerződéses felelősségre is a tagállamok jogában közös általános elvek az irányadók, csak a fórum a nemzeti bíróság.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közös elvek a szerződésen kívüli alakzat mércéje. A helyes: a 340. cikk első bekezdése a szerződéses felelősséget az adott szerződésre alkalmazandó jogra utalja, a második bekezdés közös elveire nem. A tévedés a második bekezdés mércéjének a teljes 340. cikkre való kiterjesztése."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "c59d8a8f1eda"
+    },
+    {
+      "question": "A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy szerint mi jellemzi a kártérítési keresetet a megsemmisítési keresethez képest?",
+      "options": [
+        {
+          "text": "Csak a kellően meghatározott, a felperesre nézve vagyoni joghatású kérelem fogadható el; a meghatározatlan kártérítési kérelem elfogadhatatlan.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elfogadhatóság a kérelem tartalmán múlik. A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 5. pontja az elsődleges kérelmet kizárólag kártérítésre, a felperes vonatkozásában joghatású szolgáltatásra vonatkoztatta. A 9–10. pont a meghatározatlan másodlagos kérelmet elfogadhatatlannak minősítette. A kereset így az EUMSZ 340. cikk második bekezdése szerinti vagyoni szolgáltatásra irányulhat, nem a rendelet általános hatályának felszámolására."
+        },
+        {
+          "text": "A Bíróság a kártérítési perben az elfogadhatóság körében köteles újraszabályozni a megtámadott gazdaságpolitikai rendeletet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kiegyenlítés szempontjai az érdem, nem az elfogadhatóság kérdései. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 7. pontja a Tanács azon kifogását, hogy a kérelem új szabályozást követelne, az érdemhez utalta, az 5. pont szerint pedig az elsődleges kérelem kizárólag a felperesre nézve joghatású szolgáltatásra irányul. Az EUMSZ 268. cikk a kártérítési viták fórumát nyitja, nem a rendelet újraszabályozásának hatáskörét. A tévedés a Tanács hatásköri kifogásának elfogadhatósági szabályként való olvasatából fakad."
+        },
+        {
+          "text": "A kártérítési kereset csak akkor indítható, ha a felperes előbb sikeresen megsemmisíttette a kárt okozó aktust.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kártérítés nem a semmisség mellékhatása. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy szerint a kereset önálló, és a magánfél akkor is kérhet kártérítést az EUMSZ 340. cikk második bekezdése alapján, ha az EUMSZ 263. cikk a rendelet megsemmisítését nem engedi meg. Az EUMSZ 266. cikk záró mondata a semmisségi vagy mulasztási ítélet teljesítését a 340. cikk második bekezdéséből eredő kötelezettségektől elválasztja. A tévedés a jogszerűségi és a kártérítési sík összecsúsztatásából ered."
+        },
+        {
+          "text": "A kártérítési kereset önálló jogorvoslat, amely nem valamely intézkedés megsemmisítésére, hanem a hatáskör gyakorlása során okozott kár megtérítésére irányul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kereset két síkja nem olvad össze. A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 3. pontja szerint a kártérítési kereset sajátos tárgyú, a megsemmisítéstől elválasztott jogorvoslat. Alkalmazása sajátos tárgyának megfelelő feltételektől függ. A magánfél ezért akkor is kártérítést kérhet, ha a rendelet megsemmisítésére a 263. cikk szerinti út nem nyílik meg számára."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "dba3d93fef20"
+    },
+    {
+      "question": "A C-13-24/66. sz. Kampffmeyer ügy elvi összefoglalója a Bíróság alapokmányának elévülési szabályát hogyan olvassa?",
+      "options": [
+        {
+          "text": "Az ötéves főszabály megmarad; az intézményhez fordulás után a bírósági indítást a 263. cikk szerinti két hónap köti, de ez sem rövidíti az öt évet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszakítás a lejáratot tolja, nem a tartamot rövidíti. Az alapokmány 46. cikke szerint az előzetes követelés után az eljárást a 263. cikkben előírt két hónapos határidőn belül kell megindítani, adott esetben a 265. cikk második bekezdését alkalmazva. A Kampffmeyer-ügy szerint e szabályok az ötéves időt nem rövidítik. A 268. cikk a fórumot nyitja, az elévülési tartamot nem írja felül."
+        },
+        {
+          "text": "Az elévülési idő a 263. cikk szerinti két hónapos keresetindítási határidő, és az ötéves szabály csak az EKB elleni keresetekre vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két hónap nem a kártérítés fő határideje. A helyes: az alapokmány 46. cikke az Unió elleni szerződésen kívüli kártérítésre öt évet ír elő, és ugyanez az EKB elleni keresetekre is irányadó. A két hónap az intézményhez fordulás utáni bírósági indításra kapcsolódik. A tévedés a 263. cikk határidejének a 46. cikk helyére tolásából ered."
+        },
+        {
+          "text": "A második és a harmadik mondat nem az ötéves időt rövidíti, hanem a lejáratot halasztja, ha azon belül keresetet vagy előzetes kérelmet nyújtanak be.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kampffmeyer-ratio védelmi, nem rövidítő. A C-13-24/66. sz. Kampffmeyer ügy elvi összefoglalójának 1. pontja a korabeli alapokmány 43. cikkére — a hatályos 46. cikkre — olvassa, hogy a rendelkezés célja az ötéves időszak lejáratának elhalasztása. Az érintetteket védi azáltal, hogy bizonyos időszakok figyelembevételét megakadályozza. Az EUMSZ 340. cikk második bekezdése szerinti igény e védelmi olvasat alá tartozik."
+        },
+        {
+          "text": "A Kampffmeyer-ügy szerint az előzetes intézményi kérelem az ötéves időszakot három évre rövidíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelkezés nem rövidít. A helyes: a Bíróság alapokmányának 46. cikke öt évet ír elő az okot adó eseménytől. A C-13-24/66. sz. Kampffmeyer ügy elvi összefoglalójának 1. pontja szerint a második és a harmadik mondat célja csupán az ötéves időszak lejáratának elhalasztása, ha azon belül keresetet vagy előzetes kérelmet nyújtanak be. A szabály az érintetteket védi bizonyos időszakok figyelembevételének megakadályozásával. A tévedés a védelmi olvasatot rövidítő szabállyá fordítja."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "43d58292779a"
+    },
+    {
+      "question": "Mi következik abból, ha a Bíróság gazdaságpolitikai rendeletet semmisnek nyilvánít, a C-83/76. sz. Bayerische HNL ügy mércéje szerint?",
+      "options": [
+        {
+          "text": "Ha a rendeletet semmisnek nyilvánították, a 340. cikk második bekezdése szerinti kártérítés a felperesnek automatikusan jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisség a jogszerűségi síkon marad, ha a kártérítési küszöb hiányzik. A HNL-ügy 8. pontja kimondta: az a tény, hogy a rendelet semmis, nem elegendő a 215. cikk második bekezdése — mai 340. cikk második bekezdése — szerinti felelősséghez. Kell a védőnorma kellően egyértelmű megsértése, és széles mérlegelésnél a hatáskör korlátainak nyilvánvaló és súlyos túllépése. A tévedés a 264. cikk jogkövetkezményének a kártérítésre való átvitele."
+        },
+        {
+          "text": "A semmissé nyilvánítás önmagában nem elegendő a Közösség — ma az Unió — szerződésen kívüli kártérítési felelősségének megállapításához.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogszerűségi és a kártérítési sík elválik. A HNL-ügy 6–8. pontja szerint a magánszemélyektől elvárható, hogy ésszerű határokon belül elfogadják a jogalkotási aktus káros hatásait közpénzből járó kártérítés nélkül, még semmis intézkedés esetén is. A 264. és 266. cikk szerinti jogszerűség helyreállítása a 340. cikk második bekezdése szerinti kártérítést automatikusan nem nyitja meg. A Bíróság a kereseteket 1978. május 25-én elutasította."
+        },
+        {
+          "text": "A HNL-ügy a Schöppenstedt-formulát felváltotta: gazdaságpolitikai aktusnál elegendő a puszta jogellenesség.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a HNL-ratio szigorít, nem vált fel. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy a magánszemélyeket védő magasabb rendű jogszabály kellően egyértelmű megsértését követeli, a C-83/76. sz. Bayerische HNL ügy ehhez második lépcsőként a hatáskör korlátainak nyilvánvaló és súlyos túllépését kapcsolja az EUMSZ 340. cikk második bekezdése szerinti felelősséghez. A HNL-ügy 5. pontja a védőnorma megsértését teljesítettnek tekintette, a kártérítést mégis megtagadta. A tévedés a két döntés viszonyának felcseréléséből ered."
+        },
+        {
+          "text": "Széles mérlegelési jogkörű közös agrárpolitikai jogalkotásnál a felelősséghez a hatáskör korlátainak nyilvánvaló és súlyos túllépése is kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a HNL-ratio a Schöppenstedt-formulát szigorítja. A HNL-ügy 6. pontja szerint ilyen területen a Közösség felelőssége csak akkor áll fenn, ha az intézmény nyilvánvalóan és súlyosan túllépte hatásköre gyakorlásának korlátait. A magánszemélyeket védő magasabb rendű jogszabály megsértése — ott a 40. cikk szerinti hátrányos megkülönböztetés tilalma — szükséges, de nem elégséges. A 2%-os takarmányár-emelkedés a rendes gazdasági kockázat körében maradt."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "568aa33fee0b"
+    },
+    {
+      "question": "Mely esetben áll helyt maga az Európai Központi Bank a szerződésen kívüli károkozásért?",
+      "options": [
+        {
+          "text": "A 340. cikk harmadik bekezdése szerint az EKB a második bekezdéstől eltérve, de ugyanazon közös elvek szerint köteles megtéríteni az általa vagy alkalmazottai által feladataik ellátása során okozott károkat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EKB helytállása külön bekezdés. Az EUMSZ 340. cikk harmadik bekezdése a második bekezdéstől eltérve az Európai Központi Bankot kötelezi az általa vagy alkalmazottai által feladataik ellátása során okozott károk megtérítésére, a tagállamok jogában közös általános elvek szerint. A KBER alapokmányának 35.3. pontja ugyanezt a saját helytállást rögzíti. A 268. cikk e harmadik bekezdés szerinti kártérítési vitákat is Luxembourgba viszi."
+        },
+        {
+          "text": "Az EKB elleni szerződésen kívüli kereset elévülése a 263. cikk szerinti két hónap, mert intézményi aktusról van szó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EKB elleni szerződésen kívüli keresetre is az ötéves szabály irányadó. A helyes: a Bíróság alapokmányának 46. cikke szerint ugyanez a cikk az Európai Központi Bank elleni szerződésen kívüli keresetekre is irányadó, az okot adó eseménytől számított öt évvel. Az EUMSZ 263. cikk két hónapos határideje a jogszerűségi (semmisségi) kereset indítására szól, nem a kártérítés fő elévülésére. A tévedés a semmisségi és a kártérítési határidő összekeveréséből fakad."
+        },
+        {
+          "text": "Az EKB károkozásáért mindig az Unió áll helyt a 340. cikk második bekezdése alapján, az EKB maga soha nem kötelezett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a harmadik bekezdés kifejezetten eltér a másodiktól. A helyes: az EUMSZ 340. cikk harmadik bekezdése szerint az EKB köteles megtéríteni az általa vagy alkalmazottai által okozott károkat, közös elvek szerint. A 268. cikk a második és a harmadik bekezdés szerinti kártérítési vitákra nyitja a Bíróság hatáskörét. A tévedés a második bekezdés Unió-helytállásának az EKB-ra való erőltetéséből ered."
+        },
+        {
+          "text": "A nemzeti központi bankok felelősségét a KBER-alapokmány a saját nemzeti jogukra hagyja, nem az EUMSZ 340. cikk második bekezdésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti központi bankok nem az uniós közös elvek szerinti EKB-helytállás alá esnek. A KBER alapokmány 35.3. pontja mellett a nemzeti központi bankok felelőssége nemzeti jog kérdése marad. Az EUMSZ 340. cikk harmadik bekezdése csak az EKB-t emeli ki a második bekezdéstől eltérő helytállóként. A 268. cikk és az alapokmány 46. cikke az EKB elleni szerződésen kívüli keresetekre irányadó."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "46e924e405ed"
+    },
+    {
+      "question": "Milyen fórumon dől el az EUMSZ 340. cikk második és harmadik bekezdése szerinti kártérítési vita?",
+      "options": [
+        {
+          "text": "A 268. cikk a felelősség feltételeit is taxatíve felsorolja, ezért a Bíróság gyakorlata másodlagos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatásköri norma nem pótolja az anyagi mércét. A helyes: az EUMSZ 268. cikk csak a fórumot nyitja, a felelősség anyagi mércéjét a 340. cikk második és harmadik bekezdése, valamint a Bíróság gyakorlata — a C-5/71. sz. Schöppenstedt, a C-83/76. sz. HNL és a C-13-24/66. sz. Kampffmeyer ügy — adja. A feltételek a közös elvekből és az aktus természetéből következnek. A tévedés a hatásköri és az anyagi norma felcseréléséből fakad."
+        },
+        {
+          "text": "A 268. cikk szerint a Bíróság jár el a 340. cikk második és harmadik bekezdésében említett kártérítési vitákban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fórumot hatásköri norma jelöli ki. Az EUMSZ 268. cikk a Bíróság hatáskörét a 340. cikk második és harmadik bekezdésében említett kártérítési vitákra nyitja, anélkül hogy a felelősség anyagi feltételeit megismételné. A szerződéses első bekezdést e hatásköri nyitás nem érinti. Az EKB elleni szerződésen kívüli keresetet a harmadik bekezdés és a 268. cikk együtt viszi Luxembourgba."
+        },
+        {
+          "text": "A szerződéses felelősség vitája nem a 268. cikk alapján kerül a Bíróság elé, mert az első bekezdés az adott szerződésre alkalmazandó jogra utal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fórumnyitás szelektív. Az EUMSZ 268. cikk csak a 340. cikk második és harmadik bekezdését említi, az első bekezdés szerződéses alakzatát nem. Az első bekezdés szerint a szerződéses felelősséget az adott szerződésre alkalmazandó jog szabályozza. A szerződésen kívüli Unió- és EKB-károkozás ezért külön hatásköri úton áll."
+        },
+        {
+          "text": "A 268. cikk a szerződéses és a szerződésen kívüli kártérítési vitákat egyaránt a Bíróság elé utalja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szerződéses első bekezdés kívül esik a 268. cikk szövegén. A helyes: az EUMSZ 268. cikk a Bíróság hatáskörét csupán a 340. cikk második és harmadik bekezdése szerinti kártérítési vitákra nyitja. Az első bekezdés szerinti szerződéses felelősséget az adott szerződésre alkalmazandó jog szabályozza. A tévedés a 340. cikk négy bekezdésének fórumszempontú összemosásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "1ef10480f6e4"
+    },
+    {
+      "question": "Miben áll az EUMSZ 266. cikk és a 340. cikk második bekezdése viszonya a semmisségi vagy mulasztási ítélet után?",
+      "options": [
+        {
+          "text": "Ha az intézmény teljesítette a 266. cikk szerinti intézkedéseket, a 340. cikk második bekezdése szerinti kártérítési igény elenyészik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a teljesítés nem mentesít a kár alól. A helyes: az EUMSZ 266. cikk záró mondata szerint a semmisséget vagy a mulasztás Szerződés-ellenességét megállapító ítélet teljesítése a 340. cikk második bekezdéséből eredő kötelezettségeket nem érinti. A jogszerűség helyreállítása és a kártérítés külön sík. A tévedés a 266. cikk teljesítési kötelmének a kártérítés felemésztéseként való olvasatából ered."
+        },
+        {
+          "text": "A 266. cikk csak a 263. cikk szerinti semmisségi ítéletre vonatkozik, a 265. cikk szerinti mulasztási ítéletre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a teljesítési kötelesség a mulasztási megállapítást is lefedi. A helyes: az EUMSZ 266. cikk a semmisséget vagy a mulasztás Szerződés-ellenességét megállapító ítélet teljesítéséhez szükséges intézkedésekre kötelezi az intézményt, szervet vagy hivatalt, és e kötelezettség a 340. cikk második bekezdéséből eredő kártérítést nem érinti. Az EUMSZ 265. cikk szerinti mulasztási per tehát ugyanezen 266. cikken keresztül kapcsolódik a kártérítési síkhoz. A tévedés forrása a teljesítési norma hatályának indokolatlan leszűkítése a semmisségi ítéletekre."
+        },
+        {
+          "text": "A semmisséget vagy a mulasztás Szerződés-ellenességét megállapító ítélet teljesítése a 340. cikk második bekezdéséből eredő kötelezettségeket nem érinti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két kötelezettség párhuzamosan él. Az EUMSZ 266. cikk az érintett intézményt, szervet vagy hivatalt az ítélet teljesítéséhez szükséges intézkedésekre kötelezi, de e kötelezettség nem érinti a 340. cikk második bekezdésének alkalmazásából származó kötelezettségeket. A jogszerűség helyreállítása tehát nem mentesít a kár alól. A HNL-ügy ezt a jogszerűségi síkon befejezett semmisség után is megerősíti."
+        },
+        {
+          "text": "A 265. cikk szerinti mulasztási per a 266. cikken keresztül kapcsolódik: a mulasztás megállapítása a 340. cikk második bekezdése szerinti kártérítést nem fogyasztja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mulasztási ítélet sem zárja le a kártérítést. Az EUMSZ 265. cikk szerinti mulasztási pernél, ha a Bíróság a mulasztást a Szerződésekkel ellentétesnek nyilvánítja, az intézmény köteles a szükséges intézkedéseket megtenni. Az EUMSZ 266. cikk szerint e kötelesség a 340. cikk második bekezdéséből eredő kártérítést nem fogyasztja el. A magánfél tehát a teljesítési kötelmen túl is kérhet megtérítést."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "cf933e19b532"
+    },
+    {
+      "question": "Az Unió alkalmazottjának Unióval szembeni személyes felelőssége a 340. cikk negyedik bekezdése szerint miben különbözik a harmadik személynek okozott kár uniós megtérítésétől?",
+      "options": [
+        {
+          "text": "A negyedik bekezdés az alkalmazott Unióval szembeni személyes helytállását a személyzeti szabályzatra és az alkalmazási feltételekre telepíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a negyedik bekezdés belső regressz-út. Az EUMSZ 340. cikk negyedik bekezdése szerint az Unió alkalmazottainak az Unióval szembeni személyes felelősségét a személyzeti szabályzatukban vagy a rájuk vonatkozó alkalmazási feltételekben megállapított rendelkezések szabályozzák. A kötelezett itt az alkalmazott Unióval szemben. Ez nem a harmadik személynek okozott kár második bekezdés szerinti megtérítése."
+        },
+        {
+          "text": "A második bekezdés szerint a harmadik személynek a feladatok teljesítése során okozott kárt az Unió téríti meg a közös elvek szerint, nem az alkalmazott közvetlenül a károsultnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a külső helytálló az Unió. Az EUMSZ 340. cikk második bekezdése szerint az Unió a tagállamok jogában közös általános elveknek megfelelően megtéríti az intézményei vagy alkalmazottai által feladataik teljesítése során okozott károkat. Az EUMSZ 268. cikk e második bekezdés szerinti kártérítési vitákat a Bíróság elé viszi Luxembourgban. Az EUMSZ 340. cikk negyedik bekezdése ettől elválasztja az alkalmazott Unióval szembeni személyes felelősségét, amelyet a személyzeti szabályzat szabályoz."
+        },
+        {
+          "text": "A harmadik személynek okozott kárért az alkalmazott a negyedik bekezdés alapján közvetlenül a károsultnak felel, az Unió helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a negyedik bekezdés az Unióval szembeni személyes felelősséget rendezi. A helyes: az EUMSZ 340. cikk második bekezdése szerint a harmadik személynek okozott, feladatok teljesítése során keletkezett kárt az Unió téríti meg a közös elvek szerint; a negyedik bekezdés az alkalmazott Unióval szembeni személyes felelősségét a személyzeti szabályzatra telepíti. Az EUMSZ 268. cikk a második és harmadik bekezdés szerinti kártérítési vitákra nyit fórumot. A tévedés a károsulti és a belső regressz-út összekeveréséből ered."
+        },
+        {
+          "text": "A negyedik bekezdés felváltja a második bekezdést, ezért külső károkozásnál is csak a személyzeti szabályzat az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két bekezdés párhuzamosan él, más funkcióval. A helyes: a második bekezdés a külső uniós helytállás, a negyedik az alkalmazott Unióval szembeni személyes felelőssége. A 268. cikk a második és harmadik bekezdés szerinti kártérítési vitákra nyit fórumot. A tévedés a bekezdések felcseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "879bdf37aed8"
+    },
+    {
+      "question": "A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy a 769/68 cukoripari rendeletnél a 11. pontbeli formula alkalmazása után milyen érdemi eredményre jutott?",
+      "options": [
+        {
+          "text": "A felperes hipotetikus esetekkel nem bizonyította, hogy 1968. július 1-jén egyenlőtlen elbánás állt fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 15. pont a bizonyítást elégtelennek találta. A C-5/71. ügy szerint a nyerscukorra a fehércukor számítási módját alkalmazó megoldást sem minősítette a 40. cikk megsértésének, mert a felperes hipotetikus esetekkel nem bizonyította az egyenlőtlen elbánást. Az EUMSZ 340. cikk második bekezdése szerinti felelősség előfeltétele így hiányzott. A formula tehát nemcsak elvi küszöb, hanem a konkrét rendeletre alkalmazva a felelősség hiányát is kimondta."
+        },
+        {
+          "text": "A Bíróság a 40. cikk szerinti hátrányos megkülönböztetést nem állapította meg, ezért az előfeltétel hiányában a keresetet elutasította.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a formula alkalmazása a felperes pervesztéséhez vezetett. A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 13–15. pontja szerint a 769/68 rendelet nem jelentett hátrányos megkülönböztetést, és a Tanács eleget tett az 1009/67 rendelet 37. cikkének. A 16. pont az EUMSZ 340. cikk második bekezdése szerinti előfeltétel hiányában elutasította a keresetet. A magánszemélyeket védő magasabb rendű jogszabály kellően egyértelmű megsértése tehát nem igazolódott."
+        },
+        {
+          "text": "A formula szerint a felelősséghez a hatáskör korlátainak nyilvánvaló és súlyos túllépése is mindig kell, ezért a 769/68 rendeletnél ezt külön vizsgálták.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyilvánvaló és súlyos túllépés a HNL-ügy második lépcsője. A helyes: a C-5/71. ügy a védőnorma kellően egyértelmű megsértését követeli; a C-83/76. sz. Bayerische HNL ügy ezt a széles mérlegelési jogkörnél a hatáskör korlátainak nyilvánvaló és súlyos túllépésével szigorítja. A 769/68 rendeletnél már az első lépcső hiányzott. A tévedés a HNL-mércének a Schöppenstedt-formulára való visszavetítéséből fakad."
+        },
+        {
+          "text": "A Bíróság a 769/68 rendeletet a 40. cikk megsértése miatt semmisnek nyilvánította, és ezért kártérítést ítélt meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, sem a semmisség, sem a kártérítés nem következett be. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 13–16. pontja szerint a 769/68 rendelet nem sértette kellően egyértelműen a 40. cikket, ezért az EUMSZ 340. cikk második bekezdése szerinti előfeltétel hiányában a keresetet elutasították. A tévedés a későbbi HNL-féle semmisségi tényállást a Schöppenstedt-ügyre írja."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "fb9bb9084ecd"
+    },
+    {
+      "question": "Egy cukoripari vállalkozás a Tanács átmeneti kiegyenlítő rendelete miatt bevételkiesésre hivatkozva kártérítést kér, és a közös árpolitika egységes számítási módszereinek megsértését állítja. Mely megállapítások állják meg a helyüket a Schöppenstedt-ügy alapján?",
+      "options": [
+        {
+          "text": "A kártérítési kereset elfogadhatatlan volt, mert a magánfél rendelet megsemmisítését nem kérhette a 173. cikk második bekezdése alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kereset az elsődleges kérelem tekintetében elfogadható volt. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 3. és 5. pontja szerint a kártérítési kereset önálló, és az elsődleges, kizárólag kártérítésre irányuló kérelem elfogadható volt; a Tanács elfogadhatósági kifogását e körben elutasították. A 9–10. pont csak a meghatározatlan másodlagos kérelmet találta elfogadhatatlannak. A tévedés a megsemmisítési kereshetőségi korlátnak a kártérítésre való átviteléből fakad."
+        },
+        {
+          "text": "A Bíróság a különbséget nem minősítette hátrányos megkülönböztetésnek, mert az új közös piacszervezésben nincs egyetlen szabott ár, csak árkeretet alkotó minimális és maximális ár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átmeneti elv az árkerethez igazodik. A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 13. pontja szerint indokolt, hogy ahol a korábbi árak már a kereten belül voltak, ott a piaci mechanizmusok szabályozzanak. Díj csak akkor jár, ha a korábbi ár az új keret alsó határánál alacsonyabb volt; kompenzáció csak akkor, ha a korábbi ár a felső határnál magasabb volt. A felperes a Szerződés 40. cikke (3) bekezdésének utolsó albekezdésére hivatkozott, de a különbség nem volt diszkriminatív."
+        },
+        {
+          "text": "A keresetet a Bíróság az előfeltétel — a magánszemélyeket védő magasabb rendű jogszabály kellően egyértelmű megsértése — hiányában elutasította.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felperes pervesztes lett. A Schöppenstedt-ügy 14. pontja szerint a Tanács eleget tett az 1009/67 rendelet 37. cikkének, a 15. pont a nyerscukorra alkalmazott fehércukor-számítást sem minősítette a 40. cikk megsértésének. A 16. pont szerint a kereset az előfeltétel hiányában nem lehetett sikeres. Az EUMSZ 340. cikk második bekezdése szerinti felelősség tehát nem nyílt meg."
+        },
+        {
+          "text": "A Bíróság a felperes hipotetikus egyenlőtlen elbánásra vonatkozó érveit elegendőnek tartotta a 40. cikk megsértésének megállapításához.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hipotetikus esetek nem igazolták a jogsértést. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 15. pontja szerint a felperes hipotetikus esetekkel nem bizonyította, hogy 1968. július 1-jén egyenlőtlen elbánás állt fenn, ezért a 40. cikk megsértését nem állapította meg. A 16. pont a keresetet elutasította. A tévedés a bizonyítatlan hipotézisnek a védőnorma-sértéssel való azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "18c7c6bf5927"
+    },
+    {
+      "question": "A C-83/76. sz. Bayerische HNL ügyben a soványtejpor-rendeletet már semmisnek nyilvánították. Mely esetben nem állt fenn mégis a Közösség kártérítési felelőssége?",
+      "options": [
+        {
+          "text": "A rendelet a gazdasági szereplők igen széles kategóriáit érintette, az egyes vállalkozásokra gyakorolt hatás jelentősen csökkent, és a takarmányár alig több mint 2%-kal emelkedett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatás a rendes gazdasági kockázat körében maradt. A C-83/76. sz. Bayerische HNL ügy 7–8. pontja szerint a fehérjét tartalmazó összetett takarmányok valamennyi vásárlóját érintő intézkedésnél az egyedi hatás csökkent. A 2%-os áremelkedés csekély volt a világpiaci fehérjeár-ingadozások háromszor-négyszer magasabb emelkedéseihez képest. Az EUMSZ 340. cikk második bekezdése szerinti felelősséghez ez a hatás a vállalkozások jövedelmezőségére nézve nem lépte túl az ágazati gazdasági kockázatok határait."
+        },
+        {
+          "text": "A hátrányos megkülönböztetés tilalmának megsértése és a semmisség együttesen mindig megalapozza a kártérítést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a védőnorma megsértése szükséges, de nem elégséges. A helyes: a C-83/76. sz. Bayerische HNL ügy 5. pontja a Szerződés 40. cikke szerinti hátrányos megkülönböztetés tilalmának megsértését teljesítettnek tekintette, a 6–8. pont azonban a nyilvánvaló és súlyos túllépés, valamint a rendes kockázatot meghaladó kár hiányában a keresetet elutasította. Az EUMSZ 340. cikk második bekezdése szerinti felelősség e tényálláson nem nyílt meg. A tévedés a jogszerűségi sík eredményének a kártérítésre való átviteléből ered."
+        },
+        {
+          "text": "A Bíróság a kártérítést azért tagadta meg, mert a felperesek nem indítottak előbb semmisségi keresetet a 263. cikk alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisség már megállapítást nyert más ügyekben. A helyes: a C-83/76. sz. Bayerische HNL ügyben a Bíróság 1977. július 5-i ítéleteiben — Bela-Mühle, Granaria, Becher — az 563/76 rendeletet semmisnek nyilvánította, a kártérítési kereseteket azonban 1978. május 25-én a hatáskör korlátainak nyilvánvaló és súlyos túllépése, illetve a rendes kockázatot meghaladó kár hiánya miatt utasította el az EUMSZ 340. cikk második bekezdése alapján. A tévedés a semmisségi előfeltétel kitalálásából fakad."
+        },
+        {
+          "text": "Széles mérlegelési jogkörű közös agrárpolitikai jogalkotásnál a magánszemélyektől elvárható, hogy ésszerű határokon belül elfogadják a jogalkotási aktus bizonyos káros hatásait közpénzből járó kártérítés nélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a teherviselés a HNL-ügy 6. pontjának központi tétele. A Bíróság szerint a Közösség gazdaságpolitikájának hatálya alá tartozó ágazatokban e teherviselés akkor is elvárható, ha az intézkedést semmisnek nyilvánították. A felelősség csak a hatáskör korlátainak nyilvánvaló és súlyos túllépése esetén áll fenn. Az EUMSZ 340. cikk második bekezdése szerinti kártérítés tehát nem automatikus."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "cbd31022cb15"
+    },
+    {
+      "question": "Miben tér el az egyedi közigazgatási aktus Kampffmeyer-mércéje a gazdaságpolitikai normatív aktus Schöppenstedt–HNL küszöbétől?",
+      "options": [
+        {
+          "text": "A 19. sz. rendelet rendelkezései — noha általános jellegű érdekekre utalnak — az importőrök egyéni érdekeit is védhetik, és ez megalapozhatja a kártérítési keresetet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a védőnorma nem követeli a kizárólag egyéni jogot. A Kampffmeyer-ügy 7. pontja szerint a 19. sz. rendelet a termelők és a Közösségen belüli kereskedelemben részt vevő személyek érdekeit is biztosíthatja. A Bíróság e védő jelleget az importőrökre nézve is elfogadta, a Toepfer-ügy kereshetőségi jogával összhangban. Az EUMSZ 340. cikk második bekezdése szerinti felelősség így az egyedi, jogellenesen fenntartott védintézkedésre is nyílhat."
+        },
+        {
+          "text": "Egyedi bizottsági határozatnál is a HNL-ügy szerinti nyilvánvaló és súlyos túllépés a kizárólagos felelősségi küszöb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kampffmeyer-ratio ezt a küszöböt nem emeli át. A helyes: a C-13-24/66. sz. Kampffmeyer ügy az egyedi védintézkedést fenntartó határozatra a védőnormát és a kimerítő vizsgálatot köti, míg a C-83/76. sz. Bayerische HNL ügy a széles mérlegelési jogkörű jogalkotásra a nyilvánvaló és súlyos túllépést. A három döntés mércéje a károkozó aktus természetéhez igazodik. A tévedés a HNL-mércének az egyedi aktusra való kiterjesztéséből ered."
+        },
+        {
+          "text": "Egyedi aktusnál a védőnorma, a kimerítő vizsgálat elmulasztása és a jogellenes aktusba vetett bizalom károsodása a mérce; a HNL-féle nyilvánvaló és súlyos túllépés küszöbét ide nem emelik át.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az aktus természete határozza meg a küszöböt. A C-13-24/66. sz. Kampffmeyer ügy 6–7. pontja a Bizottságot a bejelentett védintézkedés kimerítő vizsgálatára és a fenntartásért való önálló felelősségre kötelezi, ha a megsértett norma védő jellegű. A gazdaságpolitikai rendeletnél a C-5/71. sz. Zuckerfabrik Schöppenstedt és a C-83/76. sz. Bayerische HNL ügy a védőnorma kellően egyértelmű megsértését, széles mérlegelésnél pedig a hatáskör korlátainak nyilvánvaló és súlyos túllépését követeli az EUMSZ 340. cikk második bekezdése szerint. A három döntés belső rendje a károkozó aktus természetéhez igazodik."
+        },
+        {
+          "text": "Normatív gazdaságpolitikai aktusnál elegendő a védőnorma puszta megsértése; a kellően egyértelmű jelleg és a súlyos túllépés csak egyedi aktusnál kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szigorúbb feltételek a normatív gazdaságpolitikai aktusra vonatkoznak. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy a magánszemélyeket védő magasabb rendű jogszabály kellően egyértelmű megsértését, a HNL-ügy pedig széles mérlegelésnél a hatáskör korlátainak nyilvánvaló és súlyos túllépését követeli. Az egyedi aktusnál a Kampffmeyer-ügy a védőnormát és a kimerítő vizsgálatot állítja középpontba. A tévedés a két aktustípus feltételeinek felcseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "11e871144c60"
+    },
+    {
+      "question": "Mely esetben jár a jogellenes közigazgatási aktusba vetett bizalom károsodásának, illetve az elmaradt haszonnak a megtérítése a Kampffmeyer-ügy szerint?",
+      "options": [
+        {
+          "text": "Bizalomkárosodás csak akkor térítendő, ha a felperes előbb sikeresen megsemmisíttette a bizottsági határozatot a kártérítési perben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizalomkárosodás megtérítése nem a kártérítési perben zajló megsemmisítéstől függ. A helyes: a Kampffmeyer-ügyben a Toepfer-ügyekben a Bíróság már 1965-ben megsemmisítette a jogellenes bizottsági határozatot, a kártérítési per pedig a 340. cikk — ott a 215. cikk — második bekezdése szerinti külön út. A 4. pont a jogellenes aktusba vetett bizalom kárát megtérítendőnek tartja. A tévedés a jogszerűségi és a kártérítési sík összekapcsolásából fakad."
+        },
+        {
+          "text": "A puszta behozatali engedély iránti kérelem önmagában megalapozza az elmaradt haszon teljes megtérítését.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az engedélykérés nem pótolja az ügylet megkezdését. A helyes: a C-13-24/66. sz. Kampffmeyer ügy 5. pontja szerint az elmaradt haszon megtérítése az EUMSZ 340. cikk második bekezdése alapján azt feltételezi, hogy a kereskedelmi ügylet teljesítése legalább megkezdődött; a puszta engedélykérés szerződéskötés nélkül nem nyitja a lucrum cessans teljes körét. A bizalomkárosodás ettől különálló kártétel a 4. pont szerint. A tévedés a két kártétel összemosásából ered."
+        },
+        {
+          "text": "Az EGK joghatósága alá tartozó személy által amiatt elszenvedett kárt, hogy egy jogellenes közigazgatási aktus jogszerűségében bízott, meg kell téríteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bizalomkárosodás önálló kártétel. A C-13-24/66. sz. Kampffmeyer ügy 4. pontja szerint a jogellenes közigazgatási aktusba vetett bizalom miatt elszenvedett kárt meg kell téríteni. A tényállásban azok a felperesek, akik október 1-jén ténylegesen vásároltak, és a szerződést kártalanítás ellenében bontották vagy a későbbi lefölözés mellett teljesítették, e körbe tartoztak. Az EUMSZ 340. cikk második bekezdése szerinti felelősség e kártételre is kiterjedhet."
+        },
+        {
+          "text": "Az elmaradt haszon (lucrum cessans) megtérítése azt feltételezi, hogy a szóban forgó kereskedelmi ügylet teljesítése legalább megkezdődött; a puszta engedélykérés szerződéskötés nélkül nem nyitja a teljes kört.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ügylet megkezdése a lucrum cessans feltétele. A C-13-24/66. sz. Kampffmeyer ügy 5. pontja a puszta engedélykérést, szerződéskötés nélkül, elégtelennek tartja az elmaradt haszon teljes köréhez. A 4. és az 5. pont a kár két fajtáját — bizalomkárosodás és elmaradt haszon — választja szét az EUMSZ 340. cikk második bekezdése szerinti felelősség körében. Aki csak engedélyt kért, de ügyletet nem indított, más helyzetben van, mint aki ténylegesen vásárolt."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "b06eefa5103a"
+    },
+    {
+      "question": "Mi következik abból, ha ugyanazon kárért a felperes tagállami bíróság előtt a tagállam ellen és a Bíróság előtt az Unió (Közösség) ellen is keresetet indít, a Kampffmeyer-ügy szerint?",
+      "options": [
+        {
+          "text": "Ha a kár a közösségi jog és a tagállam joga szerint is jogellenes aktusból ered, a felperestől kérhető annak bizonyítása, hogy a nemzeti jog szerint kimerítette a közigazgatási és bírósági jogorvoslatokat a jogalap nélkül fizetett összegek visszatérítésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti út kimerítése a kettős megtérítés ellen hat. A Kampffmeyer-ügy 3. pontja szerint csak e bizonyíték bemutatása után helyénvaló megvizsgálni, fennáll-e olyan kár, amelyet a Közösségnek — ma az Uniónak — meg kell térítenie. A szabály a közösségi és a tagállami károkozás együttállására vonatkozik. Az EUMSZ 340. cikk második bekezdése szerinti felelősség e sorrendhez igazodik."
+        },
+        {
+          "text": "A Bíróság köteles azonnal végleges ítéletet hozni, hogy a nemzeti bíróság ehhez igazodjon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a sorrend fordított. A helyes: a C-13-24/66. sz. Kampffmeyer ügy 2. pontja szerint a Bíróság végleges ítélete nem hozható meg a nemzeti bíróság ügyben hozott határozata előtt, ha ugyanazon kárért párhuzamos keresetek futnak az EUMSZ 268. cikk szerinti közösségi kártérítési úton és a nemzeti fórumon. A cél az elégtelen vagy túlzott kártérítés elkerülése. A tévedés a luxembourgi elsőbbség kitalálásából ered."
+        },
+        {
+          "text": "El kell kerülni, hogy a felperes két különböző bíróság eltérő értékelése miatt elégtelen vagy túlzott mértékű kártérítésben részesüljön; a Bíróság végleges ítélete nem hozható meg a nemzeti bíróság határozata előtt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a párhuzamos utak koordinációt igényelnek. A C-13-24/66. sz. Kampffmeyer ügy 2. pontja szerint ha ugyanazon kárért tagállami és közösségi keresetet indítanak, a luxembourgi végleges ítélet a nemzeti határozatot nem előzheti meg. Célja, hogy a felperes ne kapjon sem elégtelen, sem túlzott megtérítést az eltérő jogszabályokat alkalmazó fórumok miatt. Az EUMSZ 268. cikk szerinti kártérítési vita e koordináció alá esik."
+        },
+        {
+          "text": "A nemzeti jogorvoslat kimerítése soha nem követelhető, mert a 268. cikk kizárólagos fórumot biztosít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, együttálló közösségi és tagállami károkozásnál a nemzeti út kimerítése helyénvaló. A helyes: a C-13-24/66. sz. Kampffmeyer ügy 3. pontja szerint a felperestől kérhető annak bizonyítása, hogy az alkalmazandó nemzeti jog szerint kimerítette a visszatérítés eléréséhez szükséges közigazgatási és bírósági jogorvoslatokat, mielőtt az EUMSZ 340. cikk második bekezdése szerinti közösségi kártételt vizsgálnák. Az EUMSZ 268. cikk a közösségi kártérítési viták fórumát nyitja, de a párhuzamos nemzeti utat nem zárja ki. A tévedés forrása a fórumkizárólagosság túlolvasása."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "fd2fbebdc0c4"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a gazdaságpolitikai jogalkotásnál a kártérítés pusztán azért, mert a megsértett norma magasabb rendű és magánszemélyeket véd?",
+      "options": [
+        {
+          "text": "A közigazgatás felelőssége gazdaságpolitikai jogalkotási aktusokért a tagállami közös elvek szerint csak kivételesen és különleges körülmények között állapítható meg, mert a közérdekű jogalkotást nem gátolhatja állandóan a kártérítés kilátása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszorítást a HNL-ügy 5. pontja a közös elvekből vezeti le. A C-83/76. sz. Bayerische HNL ügy szerint a jogalkotó intézkedéseinek érvényessége bírósági felülvizsgálat tárgya lehet, mégsem gátolhatja mindig a kártérítési keresetek kilátása. A semmissé nyilvánítás a 264. és 266. cikk szerinti jogszerűségi síkon maradhat. A 340. cikk második bekezdése szerinti kártérítés ehhez képest szűkebb kapu."
+        },
+        {
+          "text": "A magánszemélyeket védő magasabb rendű jogszabály megsértése gazdaságpolitikai jogalkotásnál mindig elegendő a kártérítéshez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a HNL-ügy második lépcsőt is követel. A helyes: a C-83/76. sz. Bayerische HNL ügy szerint a védőnorma megsértése szükséges, de nem elégséges; széles mérlegelési jogkörnél a hatáskör korlátainak nyilvánvaló és súlyos túllépése is kell az EUMSZ 340. cikk második bekezdése szerinti felelősséghez. A Schöppenstedt-formula e szigorítással egészül ki. A tévedés az első lépcső elégséges voltának feltételezéséből ered."
+        },
+        {
+          "text": "Ha az intézmény nem lépte túl nyilvánvalóan és súlyosan hatásköre gyakorlásának korlátait, a HNL-ügy szerint a felelősség nem áll fenn a széles mérlegelési jogkörű területen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második lépcső hiányában a védőnorma-sértés kevés. A C-83/76. sz. Bayerische HNL ügy 6. pontja szerint a közös agrárpolitika végrehajtásánál, amelynek fő jellemzője a széles körű mérlegelési jogkör, a felelősség csak a hatáskör korlátainak nyilvánvaló és súlyos túllépése esetén áll fenn. Az 5. pont a 40. cikk szerinti hátrányos megkülönböztetés tilalmát védőnormának minősítette, a kártérítést mégis megtagadta. Az EUMSZ 340. cikk második bekezdése e szűkített olvasatot követeli."
+        },
+        {
+          "text": "A HNL-mérce csak akkor alkalmazható, ha a felperes magánszemély, intézmények közötti vitában soha.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a HNL-mérce az aktus természetéhez és a mérlegelési jogkörhöz, nem a felperes státuszának e leszűkítéséhez kötődik. A helyes: a C-83/76. sz. Bayerische HNL ügy a közös agrárpolitika széles mérlegelési jogkörű jogalkotására a nyilvánvaló és súlyos túllépést követeli, ha magánszemélyek káráról van szó az EUMSZ 340. cikk második bekezdése alapján. A tévedés egy kitalált személyi korlátozás bevezetéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "fe8199b41be3"
+    },
+    {
+      "question": "Az Unió szerződésen kívüli felelősségének anyagi jogcíméről mely állítások helyesek?",
+      "options": [
+        {
+          "text": "A szerződésen kívüli felelősség mércéjét egy uniós kódex taxatíve rögzíti, a közös elvek csak kisegítőek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mérce nyitott utaló norma. A helyes: az EUMSZ 340. cikk második bekezdése szerint az Unió a tagállamok jogában közös általános elveknek megfelelően térít; ez adta a Bíróságnak a Schöppenstedt-, HNL- és Kampffmeyer-ügyek ratioját. Nincs külön uniós kártérítési kódex e helyett. A tévedés a közös elvek kisegítő jellegének kitalálásából ered."
+        },
+        {
+          "text": "A 340. cikk második bekezdése csak akkor alkalmazható, ha a 263. cikk szerinti semmisségi kereset előbb eredményes volt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kártérítés a semmisségtől függetlenül is indítható. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy szerint a magánfél akkor is kérhet kártérítést az EUMSZ 340. cikk második bekezdése alapján, ha az EUMSZ 263. cikk a rendelet megsemmisítését nem engedi meg számára, feltéve hogy a kérelem vagyoni szolgáltatásra irányul. A HNL-ügy fordítva azt is mutatja, hogy a semmisség önmagában nem nyit kártérítést. A tévedés a két sík kötelező sorrendjének feltételezéséből fakad."
+        },
+        {
+          "text": "A károkozó az intézmény vagy az alkalmazott, a károkozás a feladatok teljesítése során történik, a kötelezett az Unió, a mérce a tagállamok jogában közös általános elvek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második bekezdés e négyes szerkezetet adja. Az EUMSZ 340. cikk második bekezdése a károkozót, a feladatok teljesítése során történő károkozást, a kötelezett Uniót és a közös általános elvek mércéjét köti össze. Ez a magánszemély keresetének anyagi jogcíme. A 268. cikk e második bekezdés szerinti kártérítési vitákra nyitja a Bíróság hatáskörét, de az anyagi jogcímet nem pótolja."
+        },
+        {
+          "text": "Anyagi jogcíme az EUMSZ 340. cikk második bekezdése: az Unió a tagállamok jogában közös általános elveknek megfelelően megtéríti az intézményei vagy alkalmazottai által feladataik teljesítése során okozott károkat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a témacím szerinti eljárás anyagi magja. Az EUMSZ 340. cikk második bekezdése szerint „Szerződésen kívüli felelősség esetén az Unió a tagállamok jogában közös általános elveknek megfelelően megtéríti az intézményei vagy alkalmazottai által feladataik teljesítése során okozott károkat.” A károkozó az intézmény vagy az alkalmazott, a kötelezett az Unió, a mérce a közös elvek. Az EUMSZ 268. cikk e második bekezdés szerinti kártérítési vitákra nyitja a Bíróság hatáskörét Luxembourgban."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "ee5065de2d55"
+    },
+    {
+      "question": "A C-13-24/66. sz. Kampffmeyer ügy szerint milyen vizsgálati kötelezettség terheli a Bizottságot a tagállami védintézkedés fenntartásakor?",
+      "options": [
+        {
+          "text": "A Bizottság elegendő, ha formálisan tudomásul veszi a tagállami védintézkedést; kimerítő vizsgálat csak a tagállamot terheli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottságot is kimerítő vizsgálat terheli. A helyes: a C-13-24/66. sz. Kampffmeyer ügy 6. pontja szerint a Bizottság köteles minden bejelentett védintézkedés tekintetében olyan kimerítő vizsgálatot lefolytatni, amilyet a tagállamoknak is le kell folytatniuk, és a fenntartásért önállóan felel. Az EUMSZ 340. cikk második bekezdése e mulasztásra is alapot adhat. A tévedés a bizottsági hatáskör formális tudomásulvételre szűkítéséből ered."
+        },
+        {
+          "text": "A Bizottság a fenntartásért önállóan felel, nem háríthatja át a felelősséget pusztán arra, hogy a védintézkedést a tagállam kezdeményezte.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felelősség nem olvad bele a tagállami kezdeményezésbe. A C-13-24/66. sz. Kampffmeyer ügy 6. pontja a Bizottság önálló felelősségét rögzíti: a 19. sz. rendelet 22. cikke szerinti hatáskörök gyakorlásakor a bejelentett védintézkedést kimerítően kell vizsgálnia, és a fenntartásért maga felel. Az EUMSZ 340. cikk második bekezdése szerinti uniós helytállás e bizottsági magatartásra is kiterjedhet. A nemzeti és a közösségi károkozás együttállásánál a 2–3. pont a párhuzamos utakat rendezi."
+        },
+        {
+          "text": "A 19. sz. rendelet 22. cikke által ráruházott hatáskörök gyakorlása során a Bizottság köteles minden bejelentett védintézkedés tekintetében kimerítő vizsgálatot lefolytatni, amilyet a tagállamoknak is le kell folytatniuk.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vizsgálat mélysége a tagállami mércéhez igazodik. A C-13-24/66. sz. Kampffmeyer ügy 6. pontja szerint a Bizottság önálló felelősséggel tartozik a védintézkedések fenntartásáért. A kimerítő vizsgálat elmulasztása az EUMSZ 340. cikk második bekezdése szerinti felelősség alapja lehet. A Toepfer-ügyekben a Bíróság a jogellenes bizottsági határozatot meg is semmisítette."
+        },
+        {
+          "text": "A kimerítő vizsgálat elmulasztása csak akkor számít, ha a felperes előbb a 263. cikk alapján megsemmisíttette a tagállami aktust.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kártérítési felelősség nem a tagállami aktus előzetes megsemmisítéséhez kötött. A helyes: a Kampffmeyer-ügyben a Toepfer-ügyekben a Bíróság a bizottsági határozatot semmisítette meg, a kártérítési per pedig az EUMSZ 340. cikk második bekezdése — ott a 215. cikk második bekezdése — szerinti önálló út. A 6. pont a Bizottság önálló felelősségét a fenntartásért rögzíti. A félreértés forrása a semmisségi előfeltétel kitalálásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "8c920c354e81"
+    },
+    {
+      "question": "Mikor kérhet a magánfél kártérítést akkor is, ha a rendelet megsemmisítésére az EUMSZ 263. cikk szerinti út nem nyílik meg számára?",
+      "options": [
+        {
+          "text": "A kártérítési kereset feltételei a Schöppenstedt-ügy 3. pontja szerint nem esnek egybe a semmisségi kereset feltételeivel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két kereset feltételei elválnak. A Schöppenstedt-ügy 3. pontja a kártérítést sajátos tárgyú, a megsemmisítéstől elválasztott jogorvoslatként írja le. Az EUMSZ 268. cikk a 340. cikk második és harmadik bekezdése szerinti vitákra nyitja a Bíróság hatáskörét. A 263. cikk szerinti kereshetőségi korlát tehát nem zárja automatikusan a kártérítést."
+        },
+        {
+          "text": "Ha a 263. cikk szerinti kereshetőség hiányzik, a 268. cikk hatásköre is megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisségi kereshetőség hiánya nem szünteti meg a kártérítési fórumot. A helyes: az EUMSZ 268. cikk a 340. cikk második és harmadik bekezdésében említett kártérítési vitákra utalja a Bíróságot, függetlenül attól, hogy a felperes az EUMSZ 263. cikk alapján megsemmisítést kérhet-e. A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy ezt az önállóságot megerősíti. A tévedés a semmisségi kereshetőség és a kártérítési fórum összekapcsolásából fakad."
+        },
+        {
+          "text": "A magánfél csak akkor kérhet kártérítést, ha előbb sikeresen megsemmisíttette a rendeletet a 263. cikk alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisség nem előfeltétele a kártérítésnek. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy szerint a magánfél akkor is kérhet kártérítést az EUMSZ 340. cikk második bekezdése alapján, ha az EUMSZ 263. cikk a rendelet megsemmisítését nem engedi meg, feltéve hogy a kérelem vagyoni szolgáltatásra irányul. A HNL-ügy fordítva azt mutatja, hogy a semmisség önmagában sem nyit kártérítést. A tévedés a két sík kötelező sorrendjének feltételezéséből ered."
+        },
+        {
+          "text": "Akkor, ha a kérelem nem a rendelet általános hatályának felszámolására, hanem a felperesre nézve vagyoni szolgáltatásra irányul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kártérítés tárgya a vagyoni szolgáltatás. A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy szerint a magánfél akkor is kérhet kártérítést az EUMSZ 340. cikk második bekezdése alapján, ha az EUMSZ 263. cikk — ott a 173. cikk második bekezdése — a rendelet megsemmisítését nem engedi meg. Az 5. pont szerint az elsődleges kérelem kizárólag a felperes vonatkozásában fejtene ki joghatásokat. A kereset így nem a megsemmisítés álcája."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "d38e8af6c936"
+    },
+    {
+      "question": "A C-83/76. sz. Bayerische HNL ügyben az 563/76 rendelet semmissége ellenére miért utasította el a Bíróság a kártérítési kereseteket?",
+      "options": [
+        {
+          "text": "A HNL-ügy a Schöppenstedt-formulát hatályon kívül helyezte, ezért a védőnorma megsértése már nem volt vizsgálandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a HNL-ratio szigorít, nem helyez hatályon kívül. A helyes: a C-5/71. ügy a védőnorma kellően egyértelmű megsértését követeli, a C-83/76. ügy ehhez a nyilvánvaló és súlyos túllépést kapcsolja az EUMSZ 340. cikk második bekezdése szerinti felelősséghez. A tévedés a két döntés viszonyának felcseréléséből fakad."
+        },
+        {
+          "text": "A takarmányár alig több mint 2%-os emelkedése és a széles címzetti kör miatt a hatás a rendes gazdasági kockázat határain belül maradt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 7–8. pont a teherviselést a tényállásra vetíti. A C-83/76. sz. Bayerische HNL ügy szerint az intézkedés a fehérjét tartalmazó összetett takarmányok valamennyi vásárlóját érintette, a takarmányár alig több mint 2%-kal emelkedett, és ez elmaradt a világpiaci áringadozásoktól. Az EUMSZ 340. cikk második bekezdése szerinti kártérítést a Bíróság 1978. május 25-én megtagadta. A semmisség önmagában nem döntötte el a felelősséget."
+        },
+        {
+          "text": "Széles mérlegelési jogkörnél hiányzott a hatáskör korlátainak nyilvánvaló és súlyos túllépése, noha a 40. cikk szerinti tilalom megsértése teljesült.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az első lépcső megvolt, a második nem. A HNL-ügy 5. pontja a hátrányos megkülönböztetés tilalmának megsértését teljesítettnek tekintette; a 6. pont szerint a közös agrárpolitika széles mérlegelési jogkörénél a felelősséghez a hatáskör korlátainak nyilvánvaló és súlyos túllépése is kell. Az EUMSZ 340. cikk második bekezdése e második lépcső nélkül nem nyílt meg. A 264. cikk szerinti semmisség a 266. cikk teljesítését kiváltotta, a kártérítést nem."
+        },
+        {
+          "text": "A semmisség megállapítása után a kártérítés a felpereseknek automatikusan járt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisség nem nyitott automatikus kártérítést. A helyes: a C-83/76. ügy 8. pontja szerint az a tény, hogy a rendelet semmis, nem elegendő a 215. cikk — mai EUMSZ 340. cikk — második bekezdése szerinti felelősséghez. A tévedés a jogszerűségi és a kártérítési sík összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "ceef5708fffb"
+    },
+    {
+      "question": "Egy importőr az Unió ellen kártérítést kér, és azt állítja: az elévülés három év; az intézményhez fordulás után bármikor indíthat; a szerződéses vita is a 268. cikk alá tartozik; az EKB helyett mindig az Unió a kötelezett. Mely megállapítások helytállóak a válaszokról?",
+      "options": [
+        {
+          "text": "A szerződéses felelősség vitája nem a 268. cikk alapján kerül a Bíróság elé; azt az adott szerződésre alkalmazandó jog szabályozza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szerződéses felelősség vitáját nem a luxembourgi kártérítési hatáskör dönti el. A helyes: Luxembourg a 268. cikk alapján csak a 340. cikk második és harmadik bekezdésében említett kártérítési ügyekben jár el. Az EUMSZ 340. cikk első bekezdése szerint a szerződéses felelősséget az adott szerződésre alkalmazandó jog szabályozza, nem a közös elvek. A tévedés a 340. cikk négy bekezdésének fórumszempontú összemosásából fakad."
+        },
+        {
+          "text": "Az ötéves elévülést három évre rövidíteni téves: a Bíróság alapokmányának 46. cikke öt évet ír elő az okot adó eseménytől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elévülés nem három év. A helyes: a Bíróság alapokmányának 46. cikke szerint az Unió elleni, szerződésen kívül okozott károkért való felelősségre vonatkozó eljárás megindításának joga az erre okot adó esemény felmerülésétől számított öt év alatt évül el. A C-13-24/66. sz. Kampffmeyer ügy e szabályt védelmi, nem rövidítő rendelkezésként olvasta. A tévedés forrása a nemzeti elévülési idők ráírása."
+        },
+        {
+          "text": "Az intézményhez fordulás után a bírósági eljárás indítását a 263. cikk szerinti két hónapos határidő köti, nem a korlátlan késedelem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az intézményhez fordulás nem nyit korlátlan indítási időt. A helyes: az alapokmány 46. cikke szerint ha a károsult az eljárás előtt követelésével az Unió megfelelő intézményéhez fordult, az eljárást a 263. cikkben előírt két hónapos határidőn belül kell megindítani, adott esetben a 265. cikk második bekezdését alkalmazva. Az EUMSZ 268. cikk a fórumot nyitja, e határidőt nem oldja fel. A tévedés a megszakítás és a korlátlan indítás összekeveréséből ered."
+        },
+        {
+          "text": "Az EKB saját és alkalmazottai károkozásáért a 340. cikk harmadik bekezdése szerint maga áll helyt, nem az Unió a második bekezdés alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az „Unió mindig kötelezett” állítás az EKB-ra nézve téves. A helyes: az EUMSZ 340. cikk harmadik bekezdése a második bekezdéstől eltérve az Európai Központi Bankot kötelezi az általa vagy alkalmazottai által okozott károk megtérítésére, közös elvek szerint; a KBER alapokmány 35.3. pontja ugyanezt rögzíti. A 268. cikk e harmadik bekezdés szerinti vitákat is Luxembourgba viszi. A tévedés a második bekezdés Unió-helytállásának az EKB-ra erőltetéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "1ab22953cdbf"
+    },
+    {
+      "question": "Német gabonaimportőrök Franciaországból származó kukoricára nulla lefölözéssel kértek engedélyt, majd a német védintézkedés és a Bizottság fenntartó határozata miatt kárt szenvedtek. Mely megállapítások állják meg a helyüket a Kampffmeyer-ügy alapján?",
+      "options": [
+        {
+          "text": "A Bíróság a 106. és 107/63. sz. Toepfer-ügyekben a bizottsági határozatot jogellenesnek ítélte és megsemmisítette; a kártérítési per ettől még külön vizsgálandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a semmisség és a kártérítés külön sík. A C-13-24/66. sz. Kampffmeyer ügy tényállása szerint a Bizottság október 3-i határozatával felhatalmazta a német kormányt a védintézkedések fenntartására, amelyet a Toepfer-ügyekben megsemmisítettek. A kártérítési keresetek 1966-ban érkeztek a 215. cikk — mai EUMSZ 340. cikk — második bekezdése alapján. A Bizottság 1966. március 2-i határozatával minden kártérítési kötelezettséget vitatott."
+        },
+        {
+          "text": "A nulla lefölözés közzététele önmagában mindig megalapozza a teljes elmaradt haszon megtérítését minden engedélyt kérőnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a puszta engedélykérés nem nyitja a lucrum cessans teljes körét. A helyes: a C-13-24/66. sz. Kampffmeyer ügy 5. pontja szerint az elmaradt haszon megtérítése az EUMSZ 340. cikk második bekezdése alapján azt feltételezi, hogy az ügylet teljesítése legalább megkezdődött. A 4. pont a bizalomkárosodást ettől külön kezeli. A tévedés a két kártétel és a címzetti kör összemosásából ered."
+        },
+        {
+          "text": "Azok a felperesek, akik október 1-jén ténylegesen vásároltak, más helyzetben vannak a kár számítása szempontjából, mint akiknél a kereskedelmi ügylet nem indult meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ügylet megkezdése elhatároló ismérv. A Kampffmeyer-ügy 4–5. pontja a bizalomkárosodást és az elmaradt hasznot választja szét: utóbbihoz a kereskedelmi ügylet legalább megkezdése kell. Aki szerződést bontott kártalanítás ellenében vagy a későbbi lefölözés mellett teljesített, más pozícióban van, mint a puszta engedélykérő. Az EUMSZ 340. cikk második bekezdése szerinti megtérítés e különbséghez igazodik."
+        },
+        {
+          "text": "A német EVSt elutasító határozata kizárja a Bizottság felelősségét, mert a károkozó aktus tisztán tagállami.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság a fenntartásért önállóan felel. A helyes: a C-13-24/66. sz. Kampffmeyer ügy 6. pontja szerint a Bizottság a 19. sz. rendelet 22. cikke szerinti hatáskörök gyakorlása során kimerítő vizsgálatot köteles folytatni, és a védintézkedések fenntartásáért önálló felelősséggel tartozik. Az EUMSZ 340. cikk második bekezdése e közösségi magatartásra is alapot adhat a nemzeti károkozás mellett. A tévedés a vegyes károkozás kizárólag tagállami olvasatából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "b2f098822204"
+    },
+    {
+      "question": "Milyen tartamban és milyen megszakítási szabályokkal évül el az EKB elleni szerződésen kívüli kártérítési kereset indításának joga?",
+      "options": [
+        {
+          "text": "Ha a károsult előzetesen követeléssel fordult az EKB-hoz, a bírósági eljárást a 263. cikk szerinti két hónapos határidőn belül kell megindítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszakítás utáni indítás kötött. Az alapokmány 46. cikke szerint az előzetes követelés esetén az eljárást a 263. cikkben előírt két hónapos határidőn belül kell megindítani, adott esetben a 265. cikk második bekezdését alkalmazva. A Kampffmeyer-ratio szerint ezek a szabályok a lejáratot halasztják, és az ötéves időt nem rövidítik. A 268. cikk a fórumot adja, de a két hónapos indítási kötöttséget nem oldja fel."
+        },
+        {
+          "text": "Az EKB elleni szerződésen kívüli keresetre a nemzeti központi bank székhelye szerinti elévülési jog az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EKB elleni uniós szerződésen kívüli keresetre az alapokmány 46. cikke irányadó. A helyes: az EUMSZ 340. cikk harmadik bekezdése és a 268. cikk az EKB-t Luxembourgba viszi, az alapokmány 46. cikke pedig öt éves elévülést ír elő. A nemzeti jog a nemzeti központi bankok felelősségére marad a KBER-alapokmány szerint. A tévedés az EKB és a nemzeti központi bank elévülési szabályának felcseréléséből fakad."
+        },
+        {
+          "text": "Az EKB elleni kereset elévülése a 263. cikk szerinti két hónap, mert intézményi aktusról van szó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két hónap nem a kártérítés fő elévülése. A helyes: a Bíróság alapokmányának 46. cikke az EKB elleni szerződésen kívüli keresetekre is öt évet ír elő az okot adó eseménytől; a két hónap az előzetes követelés utáni bírósági indításra vonatkozik. Az EUMSZ 340. cikk harmadik bekezdése a helytállást, nem az elévülést szabályozza. A tévedés a semmisségi és a kártérítési határidő összekeveréséből ered."
+        },
+        {
+          "text": "Az alapokmány 46. cikke az EKB elleni szerződésen kívüli keresetekre is irányadó: az okot adó eseménytől számított öt év.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EKB nem esik ki az ötéves szabály alól. A Bíróság alapokmányának 46. cikke szerint ugyanez a cikk az Európai Központi Bank elleni szerződésen kívüli keresetekre is irányadó. Az EUMSZ 340. cikk harmadik bekezdése az EKB helytállását, a 268. cikk a fórumot adja. A megszakítás a Bírósághoz benyújtott keresettel vagy az intézményhez — itt az EKB-hoz — intézett előzetes követeléssel történhet."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "9b59e6407bfe"
+    },
+    {
+      "question": "A Schöppenstedt-ügyben a Tanács milyen elfogadhatósági kifogásokat emelt, és mit döntött ezekről a Bíróság?",
+      "options": [
+        {
+          "text": "A Bíróság az elfogadhatóság körében újraszabályozta a 769/68 rendeletet a felperes szempontjai szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az újraszabályozás nem az elfogadhatóság tárgya. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 7. pontja a kiegyenlítés szempontjait az érdemhez utalta, az 5. pont szerint pedig az elsődleges kérelem kizárólag a felperesre nézve joghatású szolgáltatásra irányult. Az EUMSZ 268. cikk kártérítési fórumot, nem jogalkotói pótlást biztosít. A tévedés a Tanács hatásköri kifogásának elfogadhatósági szabállyá fordításából fakad."
+        },
+        {
+          "text": "A Bíróság elutasította azt a kifogást, hogy a kereset valójában a rendelet jogkövetkezményeinek megszüntetésére irányulna, és ezzel megkerülné a magánfél rendeletmegsemmisítési korlátait.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az önállóság ezt a kifogást elhárítja. A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 3. pontja a kártérítést a megsemmisítéstől elválasztott jogorvoslatként írja le. Az 5. pont szerint az elsődleges kérelem kizárólag kártérítésre, a felperesre nézve joghatású szolgáltatásra vonatkozik. Az EUMSZ 340. cikk második bekezdése szerinti út így nem a 263. cikk megkerülése."
+        },
+        {
+          "text": "A Bíróság a teljes keresetet elfogadhatatlannak nyilvánította, mert a magánfél rendeletet nem támadhatott meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elsődleges, kellően meghatározott kártérítési kérelem elfogadható maradt. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 5. és 9–10. pontja szerint csak a meghatározatlan másodlagos kérelem volt elfogadhatatlan; az elsődleges, kellően meghatározott kártérítési kérelem elfogadható maradt. Az EUMSZ 340. cikk második bekezdése szerinti út tehát megnyílt az érdemi vizsgálat előtt. A tévedés a Tanács kereshetőségi kifogásának teljes elutasításként való olvasatából ered."
+        },
+        {
+          "text": "A kiegyenlítés kiszámításakor alkalmazandó szempontokat a Bíróság nem az elfogadhatóság, hanem az érdem kérdésének minősítette.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mérlegelési kifogás az érdemhez tartozik. A Schöppenstedt-ügy 7. pontja a Tanács azon érvelését, hogy a kérelem új szabályozást követelne és a normatív mérlegelést sértené, az érdemhez utalta. A 9–10. pont viszont a meghatározatlan másodlagos kérelmet elfogadhatatlannak tartotta. Az EUMSZ 268. cikk a fórumot nyitja, de a kérelem pontosságát nem pótolja."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "99b4dda2a8f5"
+    },
+    {
+      "question": "Miben tér el a 340. cikk negyedik bekezdése szerinti személyes felelősség a második bekezdés szerinti uniós kártérítéstől?",
+      "options": [
+        {
+          "text": "A negyedik bekezdés szerint a károsult magánfél közvetlenül az alkalmazott ellen perel Luxembourgban a 268. cikk alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 268. cikk nem a negyedik bekezdés szerinti személyes felelősség fóruma. A helyes: az EUMSZ 268. cikk a 340. cikk második és harmadik bekezdésében említett kártérítési vitákra nyitja a Bíróság hatáskörét; a negyedik bekezdés az alkalmazott Unióval szembeni személyes felelősségét a személyzeti szabályzatra telepíti. A károsult külső igénye a második bekezdés szerinti uniós helytállás. A tévedés a belső és a külső út összekeveréséből ered."
+        },
+        {
+          "text": "A negyedik bekezdés az alkalmazott Unióval szembeni személyes felelősségét a személyzeti szabályzatra és az alkalmazási feltételekre telepíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a belső regressz-út külön bekezdés. Az EUMSZ 340. cikk negyedik bekezdése szerint az Unió alkalmazottainak az Unióval szembeni személyes felelősségét a személyzeti szabályzatukban vagy az alkalmazási feltételekben megállapított rendelkezések szabályozzák. A második bekezdés a harmadik személynek okozott kár uniós megtérítéséről szól. A 270. cikk a személyzeti jogviták fórumát adja, de nem azonosítja a két alakzatot."
+        },
+        {
+          "text": "A második bekezdés szerinti kártérítésnél a kötelezett az Unió, a károkozó pedig az intézmény vagy az alkalmazott a feladatok teljesítése során.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a külső kártérítés alanyi szerkezete más. Az EUMSZ 340. cikk második bekezdése szerint az Unió téríti meg az intézményei vagy alkalmazottai által feladataik teljesítése során okozott károkat, a tagállamok jogában közös általános elvek szerint. A negyedik bekezdés ehhez képest az alkalmazott belső, Unióval szembeni helytállását rendezi. A 268. cikk a második és harmadik bekezdés szerinti vitákra nyit fórumot."
+        },
+        {
+          "text": "A második és a negyedik bekezdés ugyanazt a jogviszonyt szabályozza, csak más elnevezéssel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két bekezdés különböző jogviszonyokat fed. A helyes: az EUMSZ 340. cikk második bekezdése a harmadik személynek okozott kár uniós megtérítéséről, a negyedik bekezdés az alkalmazott Unióval szembeni személyes felelősségéről szól; a 270. cikk pedig az Unió és alkalmazottai közötti személyzeti jogvitákat zárja a személyzeti szabályzat keretébe. A három út elválik. A tévedés a bekezdések azonosításából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "7d5d57056976"
+    },
+    {
+      "question": "A HNL-ügy 5. pontja szerint miért csak kivételesen állapítható meg a közigazgatás felelőssége gazdaságpolitikai jogalkotási aktusokért?",
+      "options": [
+        {
+          "text": "A tagállamok jogrendszereiben a közigazgatási szervek felelőssége ilyen aktusokért csak kivételesen és különleges körülmények között állapítható meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közös elvek ezt a megszorítást tükrözik. A C-83/76. sz. Bayerische HNL ügy 5. pontja szerint ezek az elvek tagállamonként eltérnek, de a gazdaságpolitikai jogalkotásért való felelősség kivételes. Az EUMSZ 340. cikk második bekezdése a tagállamok jogában közös általános elvekre utal. A jogalkotót nem gátolhatja mindig a kártérítési keresetek kilátása közérdekű, hátrányos hatású aktusoknál."
+        },
+        {
+          "text": "Közérdekből olyan jogalkotási aktusokat kell elfogadni, amelyek hátrányosan érinthetik a magánszemélyek érdekeit; a kártérítési keresetek állandó kilátása e döntéseket indokolatlanul gátolná, még ha az érvényesség bírósági felülvizsgálat tárgya is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszorítás indoka a közérdekű jogalkotás mozgástere. A HNL-ügy 5. pontja ezt kifejezetten kimondja. Az EUMSZ 264. cikk szerinti felülvizsgálat ettől még lehetséges, de a 340. cikk második bekezdése szerinti kártérítés szűkebb. A 6. pont a nyilvánvaló és súlyos túllépést követeli széles mérlegelésnél."
+        },
+        {
+          "text": "A HNL-ügy szerint a bírósági felülvizsgálat lehetősége kizárja a kártérítést minden esetben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felülvizsgálat és a kártérítés párhuzamosan élhet, de utóbbi szűkebb. A helyes: a C-83/76. sz. Bayerische HNL ügy 5. pontja szerint a jogalkotó intézkedéseinek érvényessége bírósági felülvizsgálat tárgya lehet, mégsem gátolhatja mindig a kártérítés kilátása; a kártérítéshez a 6. pont szerinti nyilvánvaló és súlyos túllépés kell az EUMSZ 340. cikk második bekezdése alapján. A tévedés a felülvizsgálat és a kártérítés egymást kizáró olvasatából fakad."
+        },
+        {
+          "text": "A felelősség azért kivételes, mert a 340. cikk második bekezdése kizárja a gazdaságpolitikai aktusok miatti kártérítést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a második bekezdés nem zárja ki e kört, csak a közös elvek szerint szűkíti. A helyes: az EUMSZ 340. cikk második bekezdése a szerződésen kívüli felelősséget a közös elvekre utalja; a C-83/76. sz. Bayerische HNL ügy ezekből vezeti le, hogy gazdaságpolitikai jogalkotásnál a felelősség csak kivételesen, a hatáskör korlátainak nyilvánvaló és súlyos túllépése esetén áll fenn. A tévedés a teljes kizárás és a szűkített mérce felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "178ba02a07ab"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a 265. cikk szerinti mulasztási ítélet teljesítése a 340. cikk második bekezdése szerinti kártérítés felemésztéseként?",
+      "options": [
+        {
+          "text": "A 265. cikk szerinti mulasztási per kizárja a 268. cikk szerinti kártérítési hatáskört.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mulasztási per és a kártérítési hatáskör nem zárja ki egymást. A helyes: az EUMSZ 268. cikk a 340. cikk második és harmadik bekezdése szerinti kártérítési vitákra nyitja a Bíróság hatáskörét, míg az EUMSZ 265. cikk a mulasztási pert szabályozza. Az EUMSZ 266. cikk a teljesítést a 340. cikk második bekezdéséből eredő kártérítéstől elválasztja. A tévedés a mulasztási és a kártérítési kereset egymást kizáró olvasatából fakad."
+        },
+        {
+          "text": "Ha a Bíróság a mulasztást a Szerződésekkel ellentétesnek nyilvánítja, az intézmény köteles a szükséges intézkedéseket megtenni, de e kötelesség a kártérítést nem zárja le.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mulasztási megállapítás a teljesítési és a kártérítési kötelezettséget elválasztja. Az EUMSZ 265. cikk a mulasztási pert, a 266. cikk a teljesítést, a 340. cikk második bekezdése a kártérítést adja. A magánfél a jogszerűség helyreállításán túl is kérhet megtérítést. A Schöppenstedt-ügy önállósági tétele e kapcsolatra is ráillik."
+        },
+        {
+          "text": "A mulasztási ítélet teljesítése után a 340. cikk második bekezdése szerinti igény elenyészik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a teljesítés nem old fel a kártérítési kötelezettség alól. A helyes: az EUMSZ 266. cikk szerint a mulasztás Szerződés-ellenességét megállapító ítélet teljesítése a 340. cikk második bekezdéséből eredő kötelezettségeket nem érinti. A jogszerűség helyreállítása és a kártérítés párhuzamos. A tévedés a 266. cikk teljesítési kötelmének felemésztő olvasatából ered."
+        },
+        {
+          "text": "A 266. cikk szerint a mulasztás Szerződés-ellenességét megállapító ítélet teljesítése a 340. cikk második bekezdéséből eredő kötelezettségeket nem érinti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogszerűség helyreállítása nem zárja le a kártérítést. Az EUMSZ 266. cikk a semmisséget vagy a mulasztás Szerződés-ellenességét megállapító ítélet után kötelezi az intézményt a szükséges intézkedésekre. E kötelezettség a 340. cikk második bekezdésének alkalmazásából származó kötelezettségeket nem érinti. Az EUMSZ 265. cikk szerinti mulasztási per tehát a kártérítési síkot nyitva hagyja."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "a3ff8cbf7552"
+    },
+    {
+      "question": "A Schöppenstedt-formula alkalmazásakor a Bíróság a 769/68 rendeletnél milyen sorrendben vizsgálta a felelősséget?",
+      "options": [
+        {
+          "text": "A 769/68 rendelet megsértette a 40. cikket, de a Bíróság a kártérítést a HNL-mérce hiánya miatt tagadta meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a cukoripari rendeletnél a hátrányos megkülönböztetés tilalmának megsértését nem állapították meg. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 13–16. pontja szerint a különbség nem volt hátrányos megkülönböztetés, ezért az előfeltétel hiányában a keresetet elutasították. A C-83/76. sz. Bayerische HNL ügy későbbi, és ott a 40. cikk megsértését már teljesítettnek tekintették. A tévedés a két ügy ténybeli eredményének összecseréléséből fakad."
+        },
+        {
+          "text": "A felperes a Szerződés 40. cikke (3) bekezdésének utolsó albekezdésére hivatkozott, de a Bíróság a különbséget nem minősítette hátrányos megkülönböztetésnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a védőnorma-sértés nem igazolódott. A Schöppenstedt-ügy 13. pontja szerint az új közös piacszervezésben nincs egyetlen szabott ár, csak árkeret, és az átmeneti elv indokolt. A 14–15. pont a Tanács intézkedését és a nyerscukor-számítást sem találta a 40. cikk megsértésének. A második bekezdés szerinti uniós felelősség ezért nem volt megállapítható."
+        },
+        {
+          "text": "A Bíróság először a kár összegét állapította meg, majd utóbb vizsgálta a jogellenességet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a sorrend fordított: előbb a jogsértési előfeltétel. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 11. pontja szerint először azt kellett vizsgálni, fennáll-e a magánszemélyeket védő magasabb rendű jogszabály kellően egyértelmű megsértése; a 16. pont az előfeltétel hiányában utasította el a keresetet az EUMSZ 340. cikk második bekezdése alapján. A tévedés a kárösszeg és a jogellenesség sorrendjének felcseréléséből ered."
+        },
+        {
+          "text": "Először azt kellett vizsgálnia, fennáll-e a magánszemélyeket védő magasabb rendű jogszabály kellően egyértelmű megsértése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogsértés az előfeltétel. A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 11. pontja szerint gazdaságpolitikai normatív aktusnál a felelősség csak e küszöb átlépése esetén állapítható meg a 215. cikk — mai EUMSZ 340. cikk — második bekezdése alapján. A Bíróság ezért először a jogsértés fennállását vizsgálta. Az előfeltétel hiányában a 16. pont a felperest pervesztesnek nyilvánította."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "0eeb4d37efc3"
+    },
+    {
+      "question": "Miben áll a közvetlen és szükségszerű összefüggés jelentősége a HNL-ügy kártérítési szakaszában?",
+      "options": [
+        {
+          "text": "A rendeletnek a takarmányárra gyakorolt, alig több mint 2%-os hatása a termelési költségek egyik tényezőjeként korlátozottnak minősült.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mértékadó hatás csekély volt. A HNL-ügy 7–8. pontja szerint ez különösen csekély a világpiaci fehérjeár-ingadozások háromszor-négyszer magasabb emelkedéseihez képest. A vállalkozások jövedelmezőségére gyakorolt hatás nem lépte túl az ágazati gazdasági kockázatok határait. Az EUMSZ 340. cikk második bekezdése szerinti kártérítéshez ez nem volt elegendő."
+        },
+        {
+          "text": "A 2%-os áremelkedés önmagában a hatáskör korlátainak nyilvánvaló és súlyos túllépését bizonyítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2%-os áremelkedés nem bizonyítja a hatáskör korlátainak nyilvánvaló és súlyos túllépését. A helyes: a C-83/76. sz. Bayerische HNL ügy 7–8. pontja szerint a takarmányár alig több mint 2%-os emelkedése korlátozott hatás, és nem lépi túl az ágazati gazdasági kockázatokat. A felelősséghez a 6. pont szerinti nyilvánvaló és súlyos túllépés kellene az EUMSZ 340. cikk második bekezdése alapján. A tévedés a csekély hatás súlyos túllépéssé minősítéséből fakad."
+        },
+        {
+          "text": "A közvetlen összefüggés vizsgálata szükségtelen, ha a rendeletet már semmisnek nyilvánították.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisség nem pótolja az okozatosság és a kártérítési küszöb vizsgálatát. A helyes: a C-83/76. sz. Bayerische HNL ügyben a Bíróság a semmisség után is kérte a rendelet és a kár közötti közvetlen és szükségszerű összefüggés bizonyítását, majd a 6–8. pont szerint a nyilvánvaló és súlyos túllépés, illetve a kockázatot meghaladó kár hiányában utasította el a keresetet az EUMSZ 340. cikk második bekezdése alapján. A tévedés a semmisség automatikus kártérítési hatásának feltételezéséből ered."
+        },
+        {
+          "text": "A Bíróság a feleket arra kérte, szolgáltassanak információt a rendelet rendelkezései és a követelt kár közötti közvetlen és szükségszerű összefüggésről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az okozatosság külön bizonyítási szakasz. A C-83/76. sz. Bayerische HNL ügyben a semmisség megállapítása után a Bíróság e kérdést tette fel, különösen arról, ellensúlyozhatták-e a felperesek a hatásokat a beszállítóikkal fennálló kapcsolatukban. Az EUMSZ 340. cikk második bekezdése szerinti felelősséghez a kár és a jogellenes aktus kapcsolata is kell. A kereseteket végül a kockázatot meghaladó kár és a súlyos túllépés hiánya miatt utasították el."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "dcbf5e7d4118"
+    },
+    {
+      "question": "Egy felperes azt állítja: a nemzeti út kimerítése soha nem kérhető; a luxembourgi ítélet megelőzheti a nemzeti határozatot; a puszta engedélykérés lucrum cessanst ad; a védőnorma csak kizárólag egyéni jog lehet. Mely válaszok helytállóak?",
+      "options": [
+        {
+          "text": "A 19. sz. rendelet — noha általános érdekekre is utal — az importőrök egyéni érdekeit is védheti, tehát a védőnorma nem csak kizárólag egyéni jog lehet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a „csak kizárólag egyéni jog” korlátozás téves. A helyes: a C-13-24/66. sz. Kampffmeyer ügy 7. pontja szerint a 19. sz. rendelet rendelkezései egyéni érdekek védelmét is biztosíthatják a termelők és a Közösségen belüli kereskedelemben részt vevő személyek számára, és ez megalapozhatja az EUMSZ 340. cikk második bekezdése szerinti keresetet. A tévedés a Vloeberghs-ügy túl szűk olvasatából fakad."
+        },
+        {
+          "text": "A puszta engedélykérés szerződéskötés nélkül nem nyitja az elmaradt haszon teljes körét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lucrum cessans állítás a puszta engedélykérésre nézve téves. A helyes: a C-13-24/66. sz. Kampffmeyer ügy 5. pontja szerint az elmaradt haszon megtérítése az EUMSZ 340. cikk második bekezdése alapján azt feltételezi, hogy a kereskedelmi ügylet teljesítése legalább megkezdődött. A 4. pont a bizalomkárosodást az elmaradt haszontól elválasztva kezeli. A félreértés forrása a két kártétel összemosásából ered."
+        },
+        {
+          "text": "Együttálló közösségi és tagállami károkozásnál a nemzeti jogorvoslatok kimerítésének bizonyítása helyénvaló lehet a Kampffmeyer-ügy 3. pontja szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti út kimerítése együttálló károkozásnál helyénvaló lehet. A helyes: a C-13-24/66. sz. Kampffmeyer ügy 3. pontja szerint ha a kár a közösségi jog és a tagállam joga szerint is jogellenes aktusból ered, kérhető annak bizonyítása, hogy a felperes a nemzeti jog szerint kimerítette a visszatérítéshez szükséges közigazgatási és bírósági jogorvoslatokat. Csak ezután vizsgálható, fennáll-e az EUMSZ 340. cikk második bekezdése szerinti közösségi kár. A tévedés a nemzeti út teljes mellőzéséből ered."
+        },
+        {
+          "text": "A Bíróság végleges ítélete nem hozható meg a nemzeti bíróság határozata előtt, ha ugyanazon kárért párhuzamos keresetek futnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a párhuzamos kereseteknél a nemzeti határozat megelőzi a luxembourgi végleges ítéletet. A helyes: a C-13-24/66. sz. Kampffmeyer ügy 2. pontja szerint el kell kerülni az elégtelen vagy túlzott kártérítést, ezért a Bíróság végleges ítélete nem hozható meg a nemzeti bíróság ügyben hozott határozata előtt. A 268. cikk szerinti luxembourgi kártérítési vita ugyanezen koordináció alá tartozik. A tévedés a fórumsorrend felcseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "8c2fe6eae521"
+    },
+    {
+      "question": "Az Unió szerződéses felelősségéről mely állítások helyesek az EUMSZ 340. cikk első bekezdése szerint?",
+      "options": [
+        {
+          "text": "A 268. cikk a szerződéses kártérítési vitákat is automatikusan Luxembourgba utalja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szerződéses vita nem kerül automatikusan a Bíróság elé. A helyes: a 268. cikk hatásköri nyitása az EUMSZ 340. cikk második és harmadik bekezdésére korlátozódik, az első bekezdésre nem. Az EUMSZ 340. cikk első bekezdése szerint a szerződéses felelősséget az adott szerződésre alkalmazandó jog szabályozza. A tévedés forrása a szerződéses és a szerződésen kívüli fórum összemosása."
+        },
+        {
+          "text": "A szerződéses felelősségre is a tagállamok jogában közös általános elvek az irányadók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közös elvek kizárólag a szerződésen kívüli alakzat mércéjét adják. A helyes: az EUMSZ 340. cikk első bekezdése a szerződéses felelősséget az adott szerződésre alkalmazandó jogra utalja; a második bekezdés közös elvei a szerződésen kívüli károkozásra vonatkoznak. A 268. cikk csak a második és harmadik bekezdést említi. A tévedés a második bekezdés mércéjének a teljes 340. cikkre terjesztéséből ered."
+        },
+        {
+          "text": "Az Unió szerződéses felelősségét az adott szerződésre alkalmazandó jog szabályozza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szerződéses alakzatot a Szerződés nem tölti ki saját közös elvekkel. Az EUMSZ 340. cikk első bekezdése szerint „Az Unió szerződéses felelősségét az adott szerződésre alkalmazandó jog szabályozza.” A második bekezdés közös elvei tehát ide nem irányadók. A 268. cikk e szerződéses vitát nem nyitja a Bíróság elé."
+        },
+        {
+          "text": "A szerződéses és a szerződésen kívüli felelősséget a 340. cikk élesen elválasztja: az előbbi az alkalmazandó jogra, az utóbbi a közös elvekre utal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szerkezeti elválasztás tudatos. Az EUMSZ 340. cikk első bekezdése a szerződéses, a második a szerződésen kívüli alakzatot rendezi. A harmadik bekezdés az EKB-t, a negyedik az alkalmazottak személyes felelősségét emeli ki. A magánfél intézményi károkozás miatti kártérítési keresetének anyagi magja a második bekezdés."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "d38b6d6aceb7"
+    },
+    {
+      "question": "Miért nem a 270. cikk a harmadik személynek okozott kár megtérítésének fóruma?",
+      "options": [
+        {
+          "text": "A 270. cikk felváltja a 340. cikk negyedik bekezdését, ezért a személyes felelősség megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két rendelkezés párhuzamosan él. A helyes: a 340. cikk negyedik bekezdése az alkalmazott Unióval szembeni személyes felelősségét a személyzeti szabályzatra telepíti, a 270. cikk pedig a személyzeti jogviták fórumát adja. Egyik sem a harmadik személy második bekezdés szerinti igénye. A tévedés a bekezdések és cikkek felcseréléséből fakad."
+        },
+        {
+          "text": "A külső kártérítés anyagi jogcíme a 340. cikk második bekezdése, fóruma a 268. cikk — a 270. cikk ezt nem váltja fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatásköri és anyagi út elválik a személyzeti pertől. Az EUMSZ 340. cikk második bekezdése szerint az Unió a közös elveknek megfelelően téríti meg az intézményei vagy alkalmazottai által feladataik teljesítése során okozott károkat; a 268. cikk e vitákat Luxembourgba viszi. A 270. cikk ehhez képest a belső személyzeti vitákat rendezi. A negyedik bekezdés szerinti személyes felelősség szintén más jogviszony."
+        },
+        {
+          "text": "A személyzeti jogvita automatikusan megnyitja a harmadik személy kártérítési igényét a 340. cikk második bekezdése alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a belső személyzeti per nem a külső kártérítés kapuja. A helyes: a 270. cikk az Unió és alkalmazottai közötti vitákat zárja, míg a 340. cikk második bekezdése a harmadik személynek okozott kár uniós megtérítéséről szól. A tévedés a két út összekapcsolásából ered."
+        },
+        {
+          "text": "A 270. cikk az Unió és alkalmazottai közötti személyzeti jogvitákat a személyzeti szabályzat keretébe zárja; ez belső foglalkoztatási viszony.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyzeti fórum tárgya más. Az EUMSZ 270. cikk az Unió és alkalmazottai közötti vitákat a személyzeti szabályzat és az alkalmazási feltételek keretei közé zárja. Ez nem a harmadik személynek okozott kár EUMSZ 340. cikk második bekezdése szerinti megtérítése. A külső kártérítési viták fórumát a 268. cikk jelöli ki."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "aee521579919"
+    },
+    {
+      "question": "Átvihető-e a C-83/76. sz. Bayerische HNL ügy „nyilvánvaló és súlyos túllépés” küszöbe a C-13-24/66. sz. Kampffmeyer ügy egyedi bizottsági aktusára?",
+      "options": [
+        {
+          "text": "A Kampffmeyer-ügy a gazdaságpolitikai rendeletre is a HNL-mércét írja elő kötelezően.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kampffmeyer-ügy az egyedi bizottsági aktusra ad mércét. A helyes: a C-13-24/66. sz. Kampffmeyer ügy a védintézkedés jogellenes fenntartására a védőnormát és a kimerítő vizsgálatot köti, míg a gazdaságpolitikai rendeletre a C-5/71. sz. Zuckerfabrik Schöppenstedt és a C-83/76. sz. Bayerische HNL ügy vonala az irányadó az EUMSZ 340. cikk második bekezdése szerint. A tévedés az aktustípusok összekeveréséből fakad."
+        },
+        {
+          "text": "Igen: mindhárom ügyben azonos a kizárólagos küszöb, a hatáskör korlátainak nyilvánvaló és súlyos túllépése.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyilvánvaló és súlyos túllépés a HNL-ügy széles mérlegelési jogkörű jogalkotására szabott. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy a védőnorma kellően egyértelmű megsértését, a C-83/76. sz. Bayerische HNL ügy ehhez a hatáskör korlátainak nyilvánvaló és súlyos túllépését, a C-13-24/66. sz. Kampffmeyer ügy az egyedi aktusra a védőnormát és a kimerítő vizsgálatot köti az EUMSZ 340. cikk második bekezdése alapján. A tévedés a három ratio azonosításából ered."
+        },
+        {
+          "text": "Gazdaságpolitikai normatív aktusnál a Schöppenstedt–HNL vonal marad: védőnorma kellően egyértelmű megsértése, széles mérlegelésnél pedig nyilvánvaló és súlyos túllépés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalkotási vonal kétlépcsős. A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy az első, a C-83/76. ügy a második lépcsőt adja. E feltételek hiányában a 340. cikk második bekezdése szerinti kártérítés nem nyílik meg. A semmisség önmagában kevés. A Kampffmeyer-ügy ezt a küszöbpárt az egyedi aktusra nem írja át."
+        },
+        {
+          "text": "Nem: a Kampffmeyer-ügy a védintézkedés fenntartására a védőnormát, a kimerítő vizsgálatot és a bizalomkárosodást köti, a HNL-küszöböt ide nem emeli át.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyedi aktus más mércét kap. A C-13-24/66. sz. Kampffmeyer ügy 6–7. pontja a Bizottságot a bejelentett védintézkedés kimerítő vizsgálatára és a fenntartásért való önálló felelősségre kötelezi, ha a megsértett norma védő jellegű. A C-83/76. sz. Bayerische HNL ügy a gazdaságpolitikai jogalkotásra a hatáskör korlátainak nyilvánvaló és súlyos túllépését kívánja. Az EUMSZ 340. cikk második bekezdése az aktus természetéhez igazodik."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "7344b8fefae9"
+    },
+    {
+      "question": "A Bíróság alapokmányának 46. cikke szerinti elévülés megszakadásáról mely állítások igazak?",
+      "options": [
+        {
+          "text": "Az elévülés megszakad, ha a Bírósághoz keresetet nyújtottak be.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a keresetindítás megszakító ok. A Bíróság alapokmányának 46. cikke szerint az Unió elleni szerződésen kívüli kártérítési eljárás megindításának joga az okot adó eseménytől számított öt év alatt évül el, de a Bírósághoz benyújtott kereset megszakítja az elévülést. Ugyanez a cikk az EKB elleni szerződésen kívüli keresetekre is irányadó. Az EUMSZ 268. cikk a fórumot, nem az elévülést szabályozza."
+        },
+        {
+          "text": "Megszakad akkor is, ha a károsult az eljárás megindítása előtt követelésével az Unió megfelelő intézményéhez fordult; ekkor a bírósági indítást a 263. cikk szerinti két hónap köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az előzetes intézményi követelés is megszakít. Az alapokmány 46. cikke szerint ebben az esetben az eljárást a 263. cikkben előírt két hónapos határidőn belül kell megindítani, adott esetben a 265. cikk második bekezdését alkalmazva. A C-13-24/66. sz. Kampffmeyer ügy szerint e szabályok a lejáratot halasztják, nem az ötéves időt rövidítik. Az EUMSZ 340. cikk második bekezdése az anyagi jogcímet adja."
+        },
+        {
+          "text": "Az intézményhez fordulás az ötéves határidőt automatikusan újabb öt évvel meghosszabbítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az intézményhez fordulás nem indít automatikus új ötéves ciklust. A helyes: az alapokmány 46. cikke szerint az előzetes követelés megszakít, majd a bírósági eljárást a 263. cikk szerinti két hónapon belül kell megindítani; a C-13-24/66. sz. Kampffmeyer ügy szerint a cél az ötéves időszak lejáratának elhalasztása. Az EUMSZ 268. cikk a kártérítési fórumot nyitja, az elévülési tartamot nem hosszabbítja meg öt újabb évvel. A tévedés a megszakítás és a teljes újraindulás összekeveréséből ered."
+        },
+        {
+          "text": "Az elévülés csak a 265. cikk szerinti mulasztási felszólítással szakítható meg, keresettel nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kereset is megszakító ok. A helyes: az alapokmány 46. cikke szerint az elévülés megszakad, ha a Bírósághoz keresetet nyújtottak be, vagy ha a károsult előzetesen az Unió megfelelő intézményéhez fordult. A 265. cikk második bekezdése az előzetes követelés utáni indításnál kapcsolódhat. Az EUMSZ 340. cikk második bekezdése szerinti igény e megszakítási szabályok alá esik. A tévedés a megszakítási okok indokolatlan leszűkítéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "98559546ca3a"
+    },
+    {
+      "question": "Egy tojástermelő a semmisnek nyilvánított soványtejpor-rendelet miatt kártérítést kér, mert a takarmányköltsége emelkedett. Mely megállapítások állják meg a helyüket a HNL-ügy alapján?",
+      "options": [
+        {
+          "text": "A HNL-ügy a Schöppenstedt-formulát hatályon kívül helyezte, ezért a védőnorma megsértése már nem vizsgálandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a HNL-ratio szigorít, nem helyez hatályon kívül. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy a védőnorma kellően egyértelmű megsértését követeli, a C-83/76. sz. Bayerische HNL ügy ehhez a hatáskör korlátainak nyilvánvaló és súlyos túllépését kapcsolja az EUMSZ 340. cikk második bekezdése szerinti felelősséghez. A tévedés a két döntés viszonyának felcseréléséből fakad."
+        },
+        {
+          "text": "A rendelet széles címzetti köre és a csekély áremelkedés miatt a hatás a rendes gazdasági kockázat határain belül maradt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a teherviselés elvárható volt. A HNL-ügy 7–8. pontja a fehérjét tartalmazó összetett takarmányok valamennyi vásárlóját érintő intézkedésnél az egyedi hatás csökkenését és az alig több mint 2%-os áremelkedést rögzítette. A jövedelmezőségre gyakorolt hatás nem lépte túl az ágazati kockázatokat. Az EUMSZ 340. cikk második bekezdése szerinti kártérítést a Bíróság megtagadta."
+        },
+        {
+          "text": "A semmisség megállapítása után a kártérítés a felperesnek automatikusan járt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisség nem nyitott automatikus kártérítést. A helyes: a C-83/76. sz. Bayerische HNL ügyben az 563/76 rendeletet más ügyekben semmisnek nyilvánították, a kártérítési kereseteket azonban 1978. május 25-én a nyilvánvaló és súlyos túllépés, illetve a kockázatot meghaladó kár hiánya miatt elutasították az EUMSZ 340. cikk második bekezdése alapján. A félreértés forrása a jogszerűségi és a kártérítési sík összecsúsztatásából ered."
+        },
+        {
+          "text": "A hátrányos megkülönböztetés tilalmának megsértése — mint magánszemélyeket védő magasabb rendű jogszabály megsértése — önmagában nem volt elegendő a kártérítéshez.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az első lépcső teljesült, a második nem. A C-83/76. sz. Bayerische HNL ügy 5. pontja a Szerződés 40. cikke szerinti tilalom megsértését teljesítettnek tekintette. A 6. pont szerint széles mérlegelési jogkörnél a hatáskör korlátainak nyilvánvaló és súlyos túllépése is kell. Emiatt a 340. cikk második bekezdése szerinti kártérítési felelősség nem állt fenn."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "b07b64101e53"
+    },
+    {
+      "question": "Milyen szerepet tölt be a KBER alapokmányának 35.3. pontja az EKB szerződésen kívüli felelősségénél?",
+      "options": [
+        {
+          "text": "A 35.3. pont a nemzeti központi bankok károkozását is az EUMSZ 340. cikk második bekezdése alá vonja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti központi bankok felelőssége nemzeti jog kérdése. A helyes: a KBER alapokmány 35.3. pontja az EKB helytállását rögzíti a közös elvek szerint, a nemzeti központi bankokat pedig a saját nemzeti jogukra hagyja. Az EUMSZ 340. cikk harmadik bekezdése csak az EKB-t emeli ki a második bekezdéstől eltérő helytállóként. A tévedés az EKB és a nemzeti központi bank felelősségi útjának összekeveréséből ered."
+        },
+        {
+          "text": "A 35.3. pont felváltja a 268. cikket, ezért az EKB elleni kártérítési per nemzeti bíróság elé tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fórum továbbra is Luxembourg. A helyes: az EUMSZ 268. cikk a 340. cikk második és harmadik bekezdése szerinti kártérítési vitákra nyitja a Bíróság hatáskörét, a KBER 35.3. pont pedig az anyagi helytállást erősíti meg. Az alapokmány 46. cikke az EKB elleni szerződésen kívüli keresetek elévülésére is irányadó. A tévedés az anyagi és a hatásköri norma felcseréléséből fakad."
+        },
+        {
+          "text": "A 35.3. pont az EUMSZ 340. cikk harmadik bekezdésével egyezően az EKB saját és alkalmazottai károkozásáért való helytállását rögzíti a közös elvek szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alapokmány megerősíti a Szerződés szerinti helytállást. Az EUMSZ 340. cikk harmadik bekezdése a második bekezdéstől eltérve az EKB-t kötelezi. A KBER alapokmány 35.3. pontja ugyanezt mondja ki. A 268. cikk e harmadik bekezdés szerinti kártérítési vitákat Luxembourgba viszi."
+        },
+        {
+          "text": "A nemzeti központi bankok felelősségét a KBER-alapokmány a saját nemzeti jogukra hagyja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti központi bankok nem az EKB uniós helytállása alá esnek. A KBER alapokmány 35.3. pontja mellett a nemzeti központi bankok felelőssége nemzeti jog kérdése. Az EUMSZ 340. cikk harmadik bekezdése csak az EKB-t emeli ki. Az alapokmány 46. cikke az EKB elleni szerződésen kívüli keresetek elévülésére irányadó."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "b3d5b5c57f7d"
+    },
+    {
+      "question": "A Kampffmeyer-ügyben a lefölözés előzetes rögzítése hogyan kapcsolódott a károkozó tényálláshoz?",
+      "options": [
+        {
+          "text": "A 22. cikk szerinti védintézkedés fenntartása kizárólag tagállami felelősséget keletkeztet, közösségi síkon soha.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság a védintézkedés fenntartásáért önálló felelősséggel tartozik. A helyes: a C-13-24/66. sz. Kampffmeyer ügy 6. pontja a Bizottság önálló felelősségét rögzíti a védintézkedések fenntartásáért, a 2–3. pont pedig a közösségi és tagállami károkozás együttállását rendezi. Az EUMSZ 340. cikk második bekezdése a közösségi magatartásra is alapot adhat. A félreértés forrása a vegyes károkozás kizárólag tagállami olvasatából fakad."
+        },
+        {
+          "text": "A német kormány a 19. sz. rendelet 22. cikkének (1) bekezdése szerinti védintézkedéssel függesztette fel a behozatali engedélyeket; a Bizottság a (2) bekezdés szerint hatalmazta fel a fenntartásra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a védintézkedés és a bizottsági fenntartás a károkozás két síkja. A Kampffmeyer-ügy szerint az EVSt október 3-án elutasította a kérelmeket a védintézkedésre hivatkozva, a Bizottság pedig október 3-i határozatával felhatalmazta a német kormányt a fenntartásra. A Toepfer-ügyekben e bizottsági határozatot megsemmisítették. Az EUMSZ 340. cikk második bekezdése szerinti felelősség a Bizottság önálló magatartására is nyílhat."
+        },
+        {
+          "text": "A 31/63. sz. rendelet lehetővé tette, hogy a Franciaországból származó kukorica esetén a lefölözés mértékét a behozatali engedélyben előre rögzítsék az engedélykérelem napján hatályos mértékkel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az előzetes rögzítés a bizalom alapja volt. A C-13-24/66. sz. Kampffmeyer ügy tényállása szerint az EVSt október 1-jén 0,00 DM lefölözést hirdetett, és a felperesek előre rögzített nulla mértékkel kértek engedélyt. A Bizottság határparitásos árat megállapító határozatára támaszkodtak. Az EUMSZ 340. cikk második bekezdése szerinti későbbi kártérítési igény e bizalmi helyzethez kötődött."
+        },
+        {
+          "text": "A nulla lefölözés közzététele után a Bizottságnak nem volt vizsgálati kötelezettsége, mert a mérték már rögzített volt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fenntartásnál a Bizottságot kimerítő vizsgálat terheli. A helyes: a C-13-24/66. sz. Kampffmeyer ügy 6. pontja a Bizottságot a bejelentett védintézkedés kimerítő vizsgálatára és a fenntartásért való önálló felelősségre kötelezi. Az EUMSZ 340. cikk második bekezdése szerinti uniós helytállás e vizsgálati mulasztásra is alapot adhat. A tévedés az előzetes rögzítésnek a vizsgálati kötelezettséget megszüntető olvasatából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "22cf2a3e078b"
+    },
+    {
+      "question": "Egy magánfél a következőket állítja: a semmisség automatikusan kártérítést ad; a két kereset feltételei azonosak; a 263. cikk kereshetőségi hiánya kizárja a kártérítést; a 266. cikk szerinti teljesítés felemészti a 340. cikk második bekezdését. Mely válaszok helytállóak?",
+      "options": [
+        {
+          "text": "A 266. cikk szerinti teljesítés felemészti a 340. cikk második bekezdéséből eredő kötelezettségeket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a teljesítés nem emészti fel a kártérítési kötelezettséget. A helyes szabály: az EUMSZ 266. cikk záró mondata szerint a semmisséget vagy a mulasztás Szerződés-ellenességét megállapító ítélet teljesítése a 340. cikk második bekezdéséből eredő kötelezettségeket nem érinti. A jogszerűség helyreállítása és a kár megtérítése párhuzamos. A tévedés a teljesítési kötelmek felemésztő olvasatából ered."
+        },
+        {
+          "text": "A kártérítési kereset feltételei mindig azonosak a 263. cikk szerinti semmisségi kereset feltételeivel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két kereset feltételei nem esnek egybe. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 3. pontja szerint a kártérítési kereset sajátos tárgyú, a megsemmisítéstől elválasztott jogorvoslat. Az EUMSZ 340. cikk második bekezdése és a 268. cikk önálló anyagi és hatásköri alapot ad. A tévedés a feltételek azonosításából ered."
+        },
+        {
+          "text": "A 264. cikk szerinti semmisség után a 340. cikk második bekezdése szerinti kártérítés automatikusan jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisség nem nyit automatikus kártérítést. A helyes: a C-83/76. sz. Bayerische HNL ügy szerint a 264. cikk szerinti semmissé nyilvánítás a 266. cikk szerinti teljesítést kiváltja, az EUMSZ 340. cikk második bekezdése szerinti kártérítést azonban csak a védőnorma kellően egyértelmű megsértése és széles mérlegelésnél a nyilvánvaló és súlyos túllépés nyitja meg. A tévedés a semmisség automatikus hatásának feltételezése."
+        },
+        {
+          "text": "Ha a 263. cikk szerinti kereshetőség hiányzik, kártérítés soha nem kérhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kereshetőség hiánya nem zárja a kártérítést. A helyes szabály: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy szerint a magánfél akkor is kérhet kártérítést az EUMSZ 340. cikk második bekezdése alapján, ha az EUMSZ 263. cikk a rendelet megsemmisítését nem engedi meg, feltéve hogy a kérelem vagyoni szolgáltatásra irányul. A tévedés a semmisségi korlátnak a kártérítésre való átviteléből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "20e2d2ce7bcd"
+    },
+    {
+      "question": "A Schöppenstedt-ügy 11. pontjában rögzített minimális feltétel és a gazdaságpolitikai normatív aktusra vonatkozó szigorítás viszonyáról mely állítások helyesek?",
+      "options": [
+        {
+          "text": "Normatív gazdaságpolitikai aktusnál a puszta jogellenesség nem elég: kell a magánszemélyeket védő magasabb rendű jogszabály kellően egyértelmű megsértése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a Schöppenstedt-formula magva. A 11. pont szerint a Közösség — ma az Unió — felelőssége a 215. cikk — mai EUMSZ 340. cikk — második bekezdése alapján csak e jogsértés esetén állapítható meg. A HNL-ügy ezt a széles mérlegelési jogkörnél a nyilvánvaló és súlyos túllépéssel szigorítja. A 769/68 rendelet e küszöböt nem lépte át."
+        },
+        {
+          "text": "A szerződésen kívüli felelősség minimális feltétele azon jogi aktus jogellenessége, amely a kár alapjául szolgált.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogellenesség a kiindulópont. A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 11. pontja e minimális feltételt rögzíti. Gazdaságpolitikai döntéseket is magában foglaló normatív aktusnál azonban ezen túl a magánszemélyeket védő magasabb rendű jogszabály kellően egyértelmű megsértése kell. Az EUMSZ 340. cikk második bekezdése e mércét a közös elvek szerint tölti meg."
+        },
+        {
+          "text": "Egyedi közigazgatási aktusnál is mindig a HNL-féle nyilvánvaló és súlyos túllépés a kizárólagos küszöb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyedi aktusra a Kampffmeyer-mérce az irányadó. A helyes: a C-13-24/66. sz. Kampffmeyer ügy a védőnormát és a kimerítő vizsgálatot köti az egyedi, védintézkedést fenntartó határozatra, míg a C-83/76. sz. Bayerische HNL ügy a széles mérlegelési jogkörű jogalkotásra a nyilvánvaló és súlyos túllépést. Az EUMSZ 340. cikk második bekezdése az aktus természetéhez igazodik. A tévedés a HNL-mércének az egyedi aktusra kiterjesztéséből ered."
+        },
+        {
+          "text": "A jogellenesség megállapítása után a kártérítés mértéke automatikusan a felperes által megjelölt összeg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogellenesség önmagában nem dönti el a kártérítést. A helyes: a C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 11. pontja a jogellenességet minimális feltételként rögzíti, normatív gazdaságpolitikai aktusnál azonban a védőnorma kellően egyértelmű megsértése is kell az EUMSZ 340. cikk második bekezdése alapján; a HNL-ügy további küszöböt állít. A tévedés a kárösszeg automatikus elfogadásának feltételezéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "0e7ca74318aa"
+    },
+    {
+      "question": "A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 3. pontja szerint miben különbözik a kártérítési kereset tárgya a semmisségi keresetétől?",
+      "options": [
+        {
+          "text": "A kártérítési kereset nem valamely meghatározott intézkedés megsemmisítésére, hanem a hatáskör gyakorlása során okozott kár megtérítésére irányul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tárgy különbözik. A C-5/71. sz. Zuckerfabrik Schöppenstedt ügy 3. pontja szerint a kártérítési kereset sajátos tárgyú, a megsemmisítéstől elválasztott jogorvoslat. Az EUMSZ 340. cikk második bekezdése e kereset anyagi jogcíme: az Unió a közös elvek szerint térít. A 264. cikk szerinti semmisség a jogszerűségi sík eredménye, nem a kártérítés automatikus kapuja."
+        },
+        {
+          "text": "A 266. cikk záró mondata a semmisségi vagy mulasztási ítélet teljesítését elválasztja a 340. cikk második bekezdéséből eredő kötelezettségektől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a teljesítés nem mentesít a kár alól. Az EUMSZ 266. cikk szerint az érintett intézmény az ítélet teljesítéséhez szükséges intézkedésekre kötelezett, de e kötelezettség a 340. cikk második bekezdésének alkalmazásából származó kötelezettségeket nem érinti. A Schöppenstedt-ügy önállósági tétele e kapcsolatra is ráillik. A magánfél vagyoni szolgáltatást kérhet akkor is, ha a 263. cikk szerinti megsemmisítés nem áll nyitva."
+        },
+        {
+          "text": "A 264. cikk szerinti semmisség mindig magában foglalja a 340. cikk második bekezdése szerinti kártérítést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisség nem foglalja magában a kártérítést. A helyes: a C-83/76. sz. Bayerische HNL ügy szerint a 264. cikk szerinti semmissé nyilvánítás a 266. cikk szerinti teljesítést kiváltja, az EUMSZ 340. cikk második bekezdése szerinti kártérítést azonban csak a védőnorma kellően egyértelmű megsértése és széles mérlegelésnél a nyilvánvaló és súlyos túllépés nyitja meg. A tévedés a két jogkövetkezmény azonosításából ered."
+        },
+        {
+          "text": "A 266. cikk záró mondata a kártérítési kötelezettséget a semmisségi ítélet teljesítésébe olvasztja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a záró mondat éppen elválaszt. A helyes: az EUMSZ 266. cikk a semmisséget vagy a mulasztás Szerződés-ellenességét megállapító ítélet utáni teljesítést elválasztja a 340. cikk második bekezdéséből eredő kötelezettségektől. A jogszerűség helyreállítása nem mentesít a kár alól. A tévedés a teljesítés és a kártérítés összeolvasztásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "392f4138b5d2"
+    },
+    {
+      "question": "Egy vállalkozás azt állítja: az Unió szerződésen kívüli felelőssége uniós kódexen alapul; a közös elvek csak kisegítőek; az alkalmazott közvetlenül a károsultnak felel a negyedik bekezdés alapján; a 270. cikk a külső kártérítés fóruma. Mely válaszok helytállóak?",
+      "options": [
+        {
+          "text": "Az Unió szerződésen kívüli felelősségét külön uniós kártérítési kódex taxatíve rögzíti, a közös elvek csak kisegítőek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mérce nyitott utaló norma, nem kódex. A helyes: az EUMSZ 340. cikk második bekezdése szerint az Unió a tagállamok jogában közös általános elveknek megfelelően megtéríti az intézményei vagy alkalmazottai által feladataik teljesítése során okozott károkat. E nyitott utaló norma adta a Schöppenstedt-, HNL- és Kampffmeyer-ügyek ratioját. A tévedés a kódex-elsőbbség kitalálásából ered."
+        },
+        {
+          "text": "A közös elvek csupán kisegítő szabályok a második bekezdés mellett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közös elvek maguk a második bekezdés mércéje. A helyes: az EUMSZ 340. cikk második bekezdése a szerződésen kívüli felelősség mércéjeként a közös elveket jelöli ki; a Bíróság gyakorlata — C-5/71 Schöppenstedt, C-83/76 HNL, C-13-24/66 Kampffmeyer — ezekből épít. A kártérítési viták fórumát az EUMSZ 268. cikk Luxembourgban nyitja meg. A tévedés a közös elvek rangjának alábecsléséből fakad."
+        },
+        {
+          "text": "A 270. cikk a harmadik személy 340. cikk második bekezdése szerinti kártérítésének fóruma.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a személyzeti fórum nem a külső kártérítés útja. A helyes: az EUMSZ 270. cikk az Unió és alkalmazottai közötti személyzeti jogvitákat a személyzeti szabályzat keretébe zárja; a harmadik személy kártérítése a 340. cikk második bekezdése és a 268. cikk útja. A negyedik bekezdés a személyes felelősséget választja le. A tévedés a személyzeti és a kártérítési fórum összekeveréséből fakad."
+        },
+        {
+          "text": "A 340. cikk negyedik bekezdése alapján a károsult magánfél közvetlenül az alkalmazott ellen perelhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a negyedik bekezdés nem a károsult közvetlen igénye. A helyes: az EUMSZ 340. cikk negyedik bekezdése szerint az alkalmazottak Unióval szembeni személyes felelősségét a személyzeti szabályzat és az alkalmazási feltételek szabályozzák; a harmadik személynek okozott kárt a második bekezdés szerint az Unió téríti meg. A második és harmadik bekezdés szerinti viták fórumát a 268. cikk jelöli ki Luxembourgban. A tévedés a belső regressz és a külső igény felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "ae326ae26c4a"
+    }
+  ]
+}

@@ -1,0 +1,1251 @@
+{
+  "id": "uckVi0jKYjYwrEHvv3cN",
+  "sorszam": 26,
+  "cim": "A tagállam kárfelelőssége az uniós jog megsértéséért (általános alapelvek)",
+  "generationType": "kerdes",
+  "title": "26. A tagállam kárfelelőssége az uniós jog megsértéséért (általános alapelvek)",
+  "questions": [
+    {
+      "question": "Miben áll a tagállami kárfelelősség helye a Szerződés rendszerében a Francovich és Bonifaci egyesített ügyek szerint?",
+      "options": [
+        {
+          "text": "A tagállami kárfelelősség kizárólag a nemzeti kárfelelősségi törvényből ered, a közösségi jog csak a nemzeti szabályok alkalmazását írja elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felelősség forrása a közösségi jog, nem a nemzeti kodifikáció. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 35. és 37. pontja szerint az elv a Szerződés rendszerének része, és a megtérítési kötelezettséget magából a közösségi jogból kell levezetni. A helyes: az állam felel a neki betudható közösségi jogsértésért okozott károkért. A tévedés a felelősséget tisztán nemzeti jogintézménnyé szűkíti."
+        },
+        {
+          "text": "A kártérítéshez való jog csak akkor áll fenn, ha a Szerződés kifejezetten tartalmaz a tagállamra szabott kárfelelősségi cikket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Szerződés nem tartalmaz ilyen, a tagállamra szabott kifejezett cikket. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 35. pontja az elvet a Szerződés rendszerének szerves részeként ismeri el; a C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 27. pontja szerint a Bíróság a Szerződés értelmezési feladatát ellátva dönt a következményekről. A helyes: a felelősség a közösségi jogból következik. A tévedés a kifejezett szerződéses cikk hiányát a felelősség hiányaként olvassa."
+        },
+        {
+          "text": "Az az elv, mely szerint az állam felelős a közösségi jog neki betudható megsértésével a magánszemélyeknek okozott károkért, szerves része a Szerződés rendszerének.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felelősség nem nemzeti kodifikációból és nem külön, a tagállamra szabott szerződéses cikkből ered. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 35. pontja szerint az elv szerves része a Szerződés rendszerének. A 37. pont a kötelezettséget magából a közösségi jogból vezeti le: a tagállamok kötelesek megtéríteni a nekik betudható jogsértésből származó károkat. A ratio a teljes érvényesülés védelme."
+        },
+        {
+          "text": "A teljes érvényesülés kérdésessé válna, és a magánszemélyek közösségi jogból származó jogainak védelme gyengülne, ha a tagállamnak betudható jogsértés esetén nem juthatnának kártérítéshez.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kártérítés a teljes hatályosulás eszköze. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 33. pontja szerint a teljes érvényesülés és a jogvédelem gyengülne kártérítés hiányában. A 34. pont e védelmet különösen akkor tekinti nélkülözhetetlennek, ha a norma hatályosulása az állam jogi aktusától függ, és annak hiányában a magánszemély a nemzeti bíróság előtt nem érvényesítheti jogait. A 32. pont a Simmenthal- és a C-213/89 Factortame-ügyre utalva a nemzeti bíróságok teljes hatályosulási feladatát emlékezteti."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "698bdce520d8"
+    },
+    {
+      "question": "A Francovich-feltételek teljesülése után mi a nemzeti bíróság feladata és az állam kötelezettsége a 80/987/EGK irányelv átültetésének elmaradásánál?",
+      "options": [
+        {
+          "text": "A feltételek teljesülése után a kártérítést kizárólag a Bíróság ítéli meg közvetlenül, a nemzeti bíróság nem járhat el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogvédelem a nemzeti bíróság feladata. A helyes: a C-6/90 és C-9/90 Francovich és Bonifaci ítélet 45. pontja a nemzeti bíróságokra telepíti, hogy a nemzeti felelősségi szabályok keretében biztosítsák a munkavállalók kártérítési jogát. A 46. pont szerint az állam köteles megtéríteni a 80/987 irányelv átültetésének elmaradásából származó károkat. A tévedés a nemzeti fórumot kiiktatná, és a Bíróság közvetlen ítéletére bízná a kártérítést."
+        },
+        {
+          "text": "A nemzeti bíróságok feladata, hogy a nemzeti jog felelősségi szabályainak keretein belül biztosítsák a munkavállalók jogát az átültetés elmaradása miatt őket ért károk megtérítésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a feltételek után a jogvédelem a nemzeti fórumra települ. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 45. pontja a nemzeti bíróságokra bízza, hogy a nemzeti felelősségi szabályok keretében biztosítsák a munkavállalók kártérítési jogát. A 44. pont a perbeli irányelvre vetíti: a díjazással kapcsolatos követelések kifizetésére adott garancia tartalma az irányelvből meghatározható. A három feltétel felsorolása más kérdés tárgya; itt a teljesülés utáni feladat a lényeg."
+        },
+        {
+          "text": "Az állam köteles megtéríteni a magánszemélyeket ért azon károkat, amelyek a 80/987 irányelv átültetésének elmaradásából származnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a 46. pont szerinti kötelezettségtartalom. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 46. pontja szerint az állam köteles megtéríteni az átültetés elmaradásából származó károkat. A 22/87 Bizottság kontra Olaszország ügyben a Bíróság már megállapította a kötelezettségszegést. A jogkövetkezmény a közösségi jogból eredő igény érvényesítése, nem külön nemzeti felhatalmazás."
+        },
+        {
+          "text": "Az állam csak akkor köteles megtéríteni a kárt, ha a nemzeti jog külön törvényben ismerte el a közösségi jogi felelősséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezettség a közösségi jogból ered, külön nemzeti törvényi elismerés nélkül. A helyes: a C-6/90 és C-9/90 Francovich 41. pontja szerint a feltételek elegendőek a közösségi jogból eredő kártérítési joghoz; a 46. pont az államot az átültetés elmaradásából származó károk megtérítésére kötelezi. A 22/87 Bizottság kontra Olaszország ügyben a kötelezettségszegést már megállapították. A tévedés nemzeti törvényi előfeltételt kíván."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "aba075bfa23e"
+    },
+    {
+      "question": "A Szerződés 30. és 52. cikkének közvetlen hatálya milyen következménnyel jár a kártérítésre a Brasserie du Pecheur és Factortame ítélet szerint?",
+      "options": [
+        {
+          "text": "Közvetlen hatályú szerződéses rendelkezés megsértése esetén kártérítésnek nincs helye, mert a magánszemély már a nemzeti bíróság előtt érvényesítheti a jogát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen hatály nem zárja ki a kártérítést. A helyes: a C-46/93 és C-48/93 Brasserie 22–23. pontja szerint a 30. és az 52. cikk megsértésekor a kártérítés a közvetlen hatály szükségszerű következménye. A tévedés a két védelmet egymást kizárónak tekinti."
+        },
+        {
+          "text": "A közvetlen hatályú szerződéses rendelkezés megsértése nem zárja ki a kártérítést: a magánszemély a nemzeti bíróság előtt hivatkozhat a jogokra, és emellett kártérítést is követelhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két eszköz kiegészíti egymást, nem helyettesíti. A C-46/93 és C-48/93 Brasserie ítélet 22–23. pontja szerint a közvetlen hatályú rendelkezés megsértésekor a kártérítés szükségszerű következmény. A Francovich-ügyben a 80/987 irányelv állammal szembeni közvetlen hivatkozhatóságát elutasították, és ugyanott a kártérítést nyitották meg; a Brasserie a másik esetkört is rendszerbe foglalja. A téves olvasat szerint közvetlen hatály mellett kártérítésnek nem volna helye."
+        },
+        {
+          "text": "A 30. és az 52. cikk csak a Bizottság kötelezettségszegési eljárásában érvényesíthető; magánszemély kártérítési keresete kizárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magánszemély a nemzeti bíróság előtt hivatkozhat e cikkekre, és kártérítést is követelhet. A helyes: a C-46/93 és C-48/93 Brasserie 23. pontja szerint a 30. és az 52. cikk közvetlen hatállyal rendelkezik, és megsértésük esetén helye lehet kártérítésnek. A tévedés a védelmet kizárólag a Bizottság eljárására szűkíti."
+        },
+        {
+          "text": "A 30. cikk a C-46/93. sz. ügyben és az 52. cikk a C-48/93. sz. ügyben közvetlen hatállyal rendelkezik; megsértésük esetén a kártérítéshez való jog e rendelkezések közvetlen hatályának szükségszerű következménye.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a perbeli szerződéses rendelkezések a közvetlen hatály–kártérítés síkját példázzák. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 23. pontja a 30. és az 52. cikket ide sorolja: olyan jogokat ruháznak a magánszemélyekre, amelyekre a nemzeti bíróságok előtt hivatkozhatnak. A 22. pont szerint e körben a kártérítés a közvetlen hatály szükségszerű következménye. Ez elválik az irányelv átültetésének hiányától, ahol a rendelkezések nem kellően pontosak és feltétlenek."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "cb618287fa51"
+    },
+    {
+      "question": "Az eljárási autonómia keretében mit hagy a közösségi jog a nemzeti igazságszolgáltatásra, és milyen párhuzamot ad a Just-ügy a visszatérítésre?",
+      "options": [
+        {
+          "text": "A közösségi jog maga jelöli ki a hatáskörös nemzeti bíróságot, és a tagállam e kijelöléstől nem térhet el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatáskör kijelölése nemzeti. A helyes: a C-224/01 Köbler-ítélet 47. pontja szerint a Bíróságnak nem feladata a nemzeti igazságszolgáltatás hatásköri kérdéseinek megoldása (SEIM; Dorsch Consult). A Francovich és Bonifaci ítélet 42. pontja ugyanezt a belső jogra bízza a hatáskörös bíróság kijelölését. A tévedés uniós hatásköri kijelölést feltételez."
+        },
+        {
+          "text": "A Just-ügy szerint a 95. cikkbe ütköző díjak visszatérítésének feltételeit teljes egészében a közösségi jog határozza meg, nemzeti eljárási autonómia nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a visszatérítés a belső jog szerint történik, két uniós korláttal. A helyes: a C-68/79 Just-ügy szerint közösségi szabályok hiányában a tagállamok gondoskodnak a Szerződés 95. cikkének megsértésével kivetett díjak visszatérítéséről belső jogrendszerük követelményei szerint. A feltételek nem lehetnek kedvezőtlenebbek a hasonló belső kereseteknél, és a gyakorlatban nem tehetik lehetetlenné a közösségi jogok gyakorlását. A tévedés a nemzeti keretet kiiktatná."
+        },
+        {
+          "text": "A Bíróságnak nem feladata a nemzeti igazságszolgáltatás rendszerében felmerülő hatásköri kérdések megoldása; a hatáskör kijelölése a nemzeti jogra marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Köbler 47. pont a hatáskört a nemzeti fórumra hagyja. A C-224/01 Köbler-ítélet 47. pontja szerint a Bíróságnak nem feladata az olyan hatásköri kérdések megoldása, amelyeket bizonyos jogi helyzetek közösségi jog alapján történő minősítése vethet fel (SEIM; Dorsch Consult). A Francovich 42. pont ugyanezt a belső jogra bízza a hatáskörös bíróság kijelölését. Az egyenértékűség–tényleges érvényesülés képlete más kérdés tárgya."
+        },
+        {
+          "text": "A Just-ügy a 95. cikk megsértésével kivetett díjak visszatérítésére is a belső jogot rendeli: a feltételek nem lehetnek kedvezőtlenebbek a hasonló belső kereseteknél, és a gyakorlatban nem tehetik lehetetlenné a közösségi jogok gyakorlását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a visszatérítés az eljárási autonómia ugyanazon két korlátja között áll. A C-68/79 Just-ügy szerint közösségi szabályok hiányában a tagállamok gondoskodnak a Szerződés 95. cikkének megsértésével kivetett díjak visszatérítéséről belső jogrendszerük követelményei szerint. A Francovich 43. ponttal rokon egyenértékűségi és tényleges érvényesülési korlát itt a visszatérítési keresetre vetül, nem a kárfelelősségi feltételrendszerre."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "f52dfd7f91dd"
+    },
+    {
+      "question": "Mi a jogkövetkezménye annak, ha a közösségi jogsértés a nemzeti jogalkotónak tudható be a Brasserie du Pecheur és Factortame ítélet szerint?",
+      "options": [
+        {
+          "text": "Az a körülmény, hogy a felrótt jogsértés a jogalkotónak tudható be, nem kérdőjelezheti meg, hogy a magánszemélyek a nemzeti bíróságok előtt érvényesíthessék a károk megtérítéséhez való jogot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalkotói betudhatóság nem zárja el a nemzeti keresetet. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 35. pontja ezt rögzíti. A 33. pont szerint a kármegtérítési kötelezettség nem függhet a hatáskörök hatalmi ágak közötti megosztására vonatkozó belső szabályoktól. A hatalmi ágak absztrakt felsorolása más kérdés; itt a jogalkotói sík jogkövetkezménye a lényeg."
+        },
+        {
+          "text": "Az elv alkalmazandó akkor is, ha a felrótt kötelezettségszegés a nemzeti jogalkotónak tudható be; a Biersteuergesetz közösségi joghoz igazításának elmulasztása e körbe tartozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 36. pont a jogalkotói mulasztásra is kiterjeszti az elvet. A C-46/93 és C-48/93 Brasserie ítélet 36. pontja szerint az elv alkalmazandó, ha a kötelezettségszegés a nemzeti jogalkotónak tudható be. A perben a Biersteuergesetz 9. és 10. cikkének a Szerződés 30. cikkéhez igazításának elmulasztása volt a kérdés. A nemzetközi egység-elv (34. pont) e kiterjesztést indokolja."
+        },
+        {
+          "text": "Ha a jogsértés a jogalkotónak tudható be, a magánszemélyek csak a Bizottság kötelezettségszegési eljárásában érvényesíthetik a kártérítést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti bírósági út nyitva marad. A helyes: a C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 35. pontja szerint a jogalkotói betudhatóság nem zárja ki, hogy a magánszemélyek a nemzeti bíróságok előtt érvényesítsék a károk megtérítéséhez való jogot. A 36. pont szerint az elv akkor is alkalmazandó, ha a kötelezettségszegés a nemzeti jogalkotónak tudható be. A tévedés a védelmet kizárólag a Bizottság kötelezettségszegési eljárására telepíti."
+        },
+        {
+          "text": "A parlamenti törvény közösségi jogsértése esetén a felelősség csak külön nemzeti törvényi elismeréssel áll fenn.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felelősség a közösségi jogból ered, külön nemzeti elismerés nélkül. A helyes: a C-46/93 és C-48/93 Brasserie 32. pontja szerint az elv a közösségi jog bármilyen megsértésére érvényes, a 36. pont pedig a nemzeti jogalkotónak betudható jogsértésre is kiterjeszti. A Biersteuergesetz 9. és 10. cikkének a Szerződés 30. cikkéhez igazításának elmulasztása e körbe tartozott. A tévedés nemzeti törvényi előfeltételt kíván."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "7edee4891663"
+    },
+    {
+      "question": "Mikor térhetnek el a tagállami felelősség feltételei a Közösség 215. cikk szerinti szerződésen kívüli felelősségétől a Brasserie szerint?",
+      "options": [
+        {
+          "text": "A 215. cikk körében kialakult, a mérlegelési jogkörhöz és a gazdaságpolitikai normatív aktusokhoz igazított megszorító olvasat a tagállami jogalkotóra is vetül; ez nem önálló „különleges indok” a szimmetria kiiktatására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszorító olvasat a szimmetria tartalmát adja, nem az attól való szabad eltérést. A C-46/93 és C-48/93 Brasserie ítélet 43–45. pontja a szabályozandó helyzetek összetettségét, a normaszöveg értelmezésének nehézségeit és a mérlegelési mozgásteret emeli ki. A Köbler 53. pont ugyanezt a megszorítást a végső fórumon a nyilvánvaló figyelmen kívül hagyásra szűkíti. A kivételi „különleges indokok” ennél szűkebb kapu."
+        },
+        {
+          "text": "Csak különleges indokok esetén; a főszabály szerint a feltételek nem térhetnek el a hasonló körülmények között a Közösség felelősségére vonatkozó szabályoktól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 42. pont a szimmetriát főszabályként, az eltérést kivételként kezeli. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 42. pontja a „különleges indokok hiányában” fordulattal jelöli ki a kivételi küszöböt. A 28–29. pont a 215. cikk második bekezdésének párhuzamát adja. A kérdés az eltérés lehetőségére, nem a párhuzam absztrakt kimondására irányul."
+        },
+        {
+          "text": "A tagállami felelősség feltételei mindig enyhébbek lehetnek a Közösség 215. cikk szerinti felelősségénél, mert a nemzeti szuverenitás ezt megkívánja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály a nem-eltérés, nem a szuverenitás miatti általános enyhítés. A helyes: a C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 42. pontja szerint a tagállami felelősség feltételei — különleges indokok hiányában — nem térhetnek el a hasonló körülmények között a Közösség felelősségére vonatkozó szabályoktól. A 28–29. pont a Szerződés 215. cikkének második bekezdését állítja párhuzamba. A tévedés a nemzeti szuverenitást általános eltérési jogcímnek tekinti."
+        },
+        {
+          "text": "A 215. cikk csak a Közösségre vonatkozik, ezért a tagállami felelősség feltételeinek kialakításánál figyelmen kívül hagyható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Közösség szerződésen kívüli felelőssége a tagállami feltételek mércéjének párja. A helyes: a C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 28–29. pontja a Szerződés 215. cikkének második bekezdésére támaszkodik, a 42. pont pedig a feltételek szimmetriáját mondja ki. A 43–45. pont a mérlegelési jogkörhöz igazított megszorító olvasatot a tagállami jogalkotóra is vetíti. A tévedés e párhuzamot figyelmen kívül hagyná."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "69ebabc2da69"
+    },
+    {
+      "question": "A német sörtisztasági tilalom ügyében miért nem írhatta felül a BGB 839. cikke és a Grundgesetz 34. cikke szerinti Drittbezogenheit-korlát a közösségi jogvédelmet?",
+      "options": [
+        {
+          "text": "A Drittbezogenheit-korlát a közösségi jogi felelősséget is kizárja, ha a megsértett nemzeti törvény mindenkire vonatkozik, nem pedig meghatározott személyekre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti korlát a közösségi jogvédelmet nem írhatja felül. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 35–36. pontja szerint a jogalkotónak való betudhatóság nem kérdőjelezheti meg a kártérítéshez való jog nemzeti bíróság előtti érvényesíthetőségét. A helyes: az elv a parlamenti törvény közösségi joghoz igazításának elmulasztására is kiterjed. A tévedés a német Drittbezogenheit-olvasatot a közösségi elv fölé helyezi."
+        },
+        {
+          "text": "A kártérítéshez való jog csak akkor áll fenn, ha a nemzeti jog a magasabb szintű nemzeti jogszabály megsértéséhez kötött korlátozásokat a közösségi jogsértésre is alkalmazza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti jog nem szűkítheti le a közösségi felelősséget a saját, magasabb szintű norma megsértésére szabott korlátaira. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet a felelősség fennállását és terjedelmét a Szerződés értelmezésének kérdéseként a Bíróság hatáskörébe utalja. A helyes: a feltételek a közösségi jogból következnek, a nemzeti keret csak az egyenértékűség és a tényleges érvényesülés között járul hozzá. A tévedés a Bundesgerichtshof második kérdését a helyes válaszként kezeli."
+        },
+        {
+          "text": "A BGB 839. cikke és a Grundgesetz 34. cikke szerinti, harmadik személyre szűkített nemzeti korlát a közösségi jogvédelmet nem írhatja felül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Drittbezogenheit a közösségi kárfelelősséget nem zárja ki. A C-46/93 Brasserie du Pecheur ügyben a Bundesgerichtshof a BGB 839. és a GG 34. cikk Drittbezogenheit-olvasatára hivatkozott; a Bíróság szerint a közösségi jogi elv akkor is alkalmazandó, ha a jogsértés parlamenti törvény közösségi joghoz igazításának elmulasztásából ered. A Szerződés 30. cikkének közvetlen hatálya és a kártérítés lehetősége e védelmet támasztja, de a törzs a nemzeti korlát felülírhatatlanságát kéri."
+        },
+        {
+          "text": "A közösségi jogi kárfelelősségi elv akkor is alkalmazandó, ha a jogsértés abból ered, hogy egy parlamenti törvényt nem igazítottak a magasabb szintű közösségi normához — a Biersteuergesetz 9. és 10. cikkét a Szerződés 30. cikkéhez.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti harmadik személyre szűkített korlát nem zárja ki a felelősséget. A C-46/93 Brasserie du Pecheur ügyben a Bundesgerichtshof a BGB 839. cikke és a GG 34. cikke alapján azt állította, hogy az állam csak harmadik személlyel szemben fennálló kötelezettség megszegéséért felel. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 36. pontja szerint az elv a jogalkotónak betudható jogsértésre is kiterjed. A 178/84 Bizottság kontra Németország ítélet már megállapította a Szerződés 30. cikkébe ütközést."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "e2ea089b8174"
+    },
+    {
+      "question": "A Köbler-ítélet szerint a jogerő hogyan hat a végső fórum határozatáért fennálló felelősségre, és mi e hatás megjelenési formája a súlyossági mércénél?",
+      "options": [
+        {
+          "text": "A szigorítás megjelenési formája, hogy a „kellően súlyos” feltétel a végső fórumon csak a nyilvánvaló figyelmen kívül hagyás kivételes esetében teljesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogerő miatti szigorítás a második feltétel szűkítésében jelenik meg. A C-224/01 Köbler-ítélet 53. pontja szerint a végső fórum felelőssége csak akkor állapítható meg, ha a bíróság az alkalmazandó jogot nyilvánvaló módon hagyta figyelmen kívül. A háromfeltételes lista és az utalási mérlegelési szempontok sorolása más kérdés tárgya; itt a jogerő és a súlyossági mérce kapcsolata a lényeg."
+        },
+        {
+          "text": "A jogerő abszolút módon kizárja a végső fórum határozatáért fennálló tagállami felelősséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogerő nem ad abszolút mentességet. A helyes: a C-224/01 Köbler-ítélet szerint a jogerő és a bírói függetlenség a felelősség feltételeit szigoríthatja, de nem zárja ki teljes egészében a felelősség megállapítását. A 53. pont a „kellően súlyos” feltételt a nyilvánvaló figyelmen kívül hagyás kivételes esetére szűkíti. A tévedés a jogerőt teljes kizárási oknak tekinti."
+        },
+        {
+          "text": "A jogerő miatt a felelősség feltételei enyhébbek a végső fórumon, mint az alsóbb bíróságoknál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogerő szigorít, nem enyhít. A helyes: a C-224/01 Köbler-ítélet 53. pontja szerint a végső fórum felelőssége csak akkor állapítható meg, ha a bíróság az alkalmazandó jogot nyilvánvaló módon hagyta figyelmen kívül. A 55. pont az EK 234. cikk harmadik bekezdése szerinti utalási kötelezettséget is a mérlegelési szempontok közé sorolja. A tévedés a jogerő hatását fordítva olvassa."
+        },
+        {
+          "text": "A jogerő és a bírói függetlenség a felelősséget nem zárja ki, hanem a feltételeket szigorítja; a hatáskörös bíróságot továbbra is a nemzeti jog jelöli ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogerő szigorít, de nem abszolút mentességet ad. A C-224/01 Köbler-ítélet szerint a jogerő és a bírói függetlenség a felelősség feltételeit szigoríthatja, anélkül hogy a felelősséget teljesen kizárná. A 50. és 47. pont a hatáskörös bíróság kijelölését a nemzeti jogra hagyja. Az elv alkalmazandóságának kimondása más kérdés; itt a jogerő jogkövetkezménye a lényeg."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "1fdeb44dac7c"
+    },
+    {
+      "question": "Mit jelent a „kellően súlyos” jogsértés a végső fokon ítélkező bíróság esetében a Köbler-ítélet szerint?",
+      "options": [
+        {
+          "text": "A mérlegeléshez tartozik a megsértett jogszabály egyértelműségének és pontosságának foka, a jogsértés szándékossága, a jogi hiba menthetősége, esetleg valamely közösségi intézmény állásfoglalása, valamint az előzetes döntéshozatalra utalás elmulasztása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nyilvánvalóság nem üres címke, hanem többtényezős vizsgálat. A C-224/01 Köbler-ítélet 55. pontja e tényezőket jelöli, köztük az EK 234. cikk harmadik bekezdése szerinti utalási kötelezettséget. A német és holland kormány a „különösen súlyos és nyilvánvaló” megsértést, a Bizottság a hatáskörrel való nyilvánvaló visszaélést vagy a jelentés és hatály nyilvánvaló figyelmen kívül hagyását javasolta. A Bíróság a kivételes, nyilvánvaló figyelmen kívül hagyás mércéjét fogadta el."
+        },
+        {
+          "text": "A felelősséghez elegendő a bírói gondatlanság megállapítása a nemzeti kárfelelősségi szabályok szerint, a nyilvánvalóság vizsgálata nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közösségi mérce a nyilvánvaló figyelmen kívül hagyást követeli. A C-224/01 Köbler-ítélet 53. pontja a második feltételt az igazságszolgáltatás különleges természetéhez és a jogbiztonsághoz igazítja. A helyes: a nemzeti bíróság az 55. pont tényezőit mérlegeli. A tévedés a nemzeti vétkességi küszöböt a közösségi, kivételes mérce helyébe teszi."
+        },
+        {
+          "text": "Bármely téves közösségi jogértelmezés elegendő a felelősséghez, mert a végső fórum döntése ellen nincs jogorvoslat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a küszöb magasabb a közönséges tévedésnél. A C-224/01 Köbler-ítélet 53. pontja a második feltételt a nyilvánvaló figyelmen kívül hagyás kivételes esetére szűkíti. A helyes: a jogerő és a jogbiztonság a feltételeket megszorítja, de nem zárja ki. A tévedés minden értelmezési hibát automatikus felelősséggé emel."
+        },
+        {
+          "text": "A végső fórum határozatáért fennálló állami felelősség csak abban a kivételes esetben állapítható meg, ha a bíróság az alkalmazandó jogot nyilvánvaló módon hagyta figyelmen kívül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második feltétel az igazságszolgáltatás különleges természetéhez igazodik. A C-224/01 Köbler-ítélet 53. pontja szerint a felelősség csak a nyilvánvaló figyelmen kívül hagyás kivételes esetében állapítható meg. A 54. pont a kártérítési igényt elbíráló nemzeti bíróságra telepíti az ügy összes körülményének figyelembevételét. A 55. pont a mérlegelendő tényezőket — egyértelműség, szándékosság, menthetőség, intézményi állásfoglalás, utalási kötelezettség — sorolja."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "3fe5197334ec"
+    },
+    {
+      "question": "Miért nem olvasható a Just-ügy szerinti jogellenes díj-visszatérítés a Francovich-féle kárfelelősségi kereset helyettesítőjeként?",
+      "options": [
+        {
+          "text": "A Just-ügy a Francovich-féle kárfelelősségi keresetet helyettesíti: ahol visszatérítés jár, kártérítésnek nincs helye.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két intézmény nem helyettesíti egymást. A helyes: a C-68/79 Just a visszatérítést rendezi; a C-6/90 és C-9/90 Francovich a kárfelelősséget. A tévedés a visszatérítést a kárfelelősség kizáró pótlékának tekinti."
+        },
+        {
+          "text": "A visszatérítés, a közvetlen hatály és a kárfelelősség egyetlen védelmi lánc elemei: ahol a norma jogot ad, a tagállam a jogsértés jogellenes következményeit köteles orvosolni — a Just a visszatérítési ágat adja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lánc elemei kiegészítik, nem helyettesítik egymást. A forrás összefoglalója szerint a kárfelelősség, a közvetlen hatály és a jogellenes díj visszatérítése egyetlen védelmi láncot alkot. A C-68/79 Just a 95. cikk közvetlen hatályához a bíróságok 5. cikk szerinti jogvédelmi feladatát köti, és a visszatérítést szabályozza. A Francovich-féle kárfelelősségi kereset ettől elválik."
+        },
+        {
+          "text": "A Just-ügy és a Francovich azonos keresetet ad: mindkettő kizárólag a három Francovich-feltétel szerinti kártérítést jelenti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Just nem a háromfeltételes kárfelelősségi kereset. A helyes: a C-68/79 Just a 95. cikkbe ütköző díj visszatérítését a gazdagodás és az áthárítás figyelembevételével szabályozza. A tévedés a két döntést egyetlen keresetté olvasztja."
+        },
+        {
+          "text": "A Just-ügy a kárfelelősséghez képest előbbi, de ugyanazon együttműködési és tényleges érvényesülési vázban a közösségi joggal ellentétesen kivetett díj visszatérítését rendezi — nem a háromfeltételes kárfelelősségi keresetet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két eszköz funkciója elválik. A C-68/79 Just-ítélet a Szerződés 95. cikkébe ütköző díj visszatérítését, a jogalap nélküli gazdagodás és az áthárítás figyelembevételét adja. A C-6/90 és C-9/90 Francovich a jogsértés káros következményeinek megtérítését a felelősségi feltételekhez köti. A négy döntés (Francovich, Brasserie, Köbler, Just) együtt adja az általános alapelveket; a Just nem a Francovich pótléka."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "13583232b8b7"
+    },
+    {
+      "question": "Mit ír elő a közösségi jog a Szerződés 95. cikkébe ütköző, eltérő jövedéki adómértékek esetén a Just-ügy szerint?",
+      "options": [
+        {
+          "text": "A 95. cikk szerinti elbánást a belföldi gyártók is követelhetik ugyanarra a kedvezőbb adómértékre, mert a hátrányos megkülönböztetés tilalma általános.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 95. cikk e bánásmódot csak a más tagállamokból behozott termékeknek biztosítja. A C-68/79 Just-ítélet kifejezetten rögzíti: a Szerződés 95. cikke ilyen elbánást csak az importált termékeknek biztosít. A helyes: a tiltott megkülönböztetés orvoslása az importőr védelmére szabott. A tévedés a 3. kérdésben felvetett, dán gyártókra kiterjesztő olvasatot fogadja el."
+        },
+        {
+          "text": "A közösségi jog a visszatérítés feltételeit teljes egészében maga határozza meg, a nemzeti eljárási autonómiának e körben nincs helye.",
+          "isCorrect": false,
+          "rationale": "HAMIS, közösségi szabályok hiányában a visszatérítés a belső jog szerint történik. A C-68/79 Just-ítélet szerint a tagállamok feladata gondoskodni a 95. cikk megsértésével kivetett díjak visszatérítéséről belső jogrendszerük követelményeinek megfelelően, az egyenértékűség és a tényleges érvényesülés mellett. A helyes: a nemzeti eljárási autonómia e két korláttal él. A tévedés a visszatérítést teljes közösségi eljárási kódexnek tekinti."
+        },
+        {
+          "text": "A Szerződés 5. cikkében megállapított együttműködési elv alapján a tagállamok bíróságainak feladata biztosítani a jogalanyokat a közösségi rendelkezések közvetlen hatálya alapján megillető jogvédelmet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a visszatérítés és az adóztatás igazítása a nemzeti bíróság feladata. A C-68/79 Just-ítélet a Szerződés 5. cikkét együttműködési elvként hívja: a bíróságok biztosítják a közvetlen hatályon alapuló jogvédelmet. A Francovich és Bonifaci ítélet 36. pontja ugyanezen 5. cikkre támaszkodik a lojalitásnál. A belső jog adja az eljárást, de a közösségi jog a védelem tartalmát."
+        },
+        {
+          "text": "Összeegyeztethetetlenség esetén a behozott termékekre olyan adómértéket kell alkalmazni, amely megszünteti a Szerződés által tiltott hátrányos megkülönböztetés vagy protekcionizmus mértékét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogkövetkezmény a tiltott különbség megszüntetése. A C-68/79 Just-ítélet szerint, ha az eltérő adómértékek a közösségi joggal összeegyeztethetetlenek, az érintett tagállamnak a behozott termékekre olyan mértéket kell alkalmaznia, amely a hátrányos megkülönböztetést vagy protekcionizmust megszünteti. A Szerződés 95. cikke ilyen elbánást csak a más tagállamokból behozott termékeknek biztosít. A dán aquavit–más szeszes italok megkülönböztetése e vázban került elbírálásra."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "f977c299ae8b"
+    },
+    {
+      "question": "Hogyan kapcsolódik a lojalitás a tagállami kárfelelősséghez a Francovich és Bonifaci ítélet szerint?",
+      "options": [
+        {
+          "text": "A Szerződés 5. cikke csak a végrehajtó szervekre vonatkozik; a bíróságokra és a jogalkotóra a lojalitás nem terjed ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lojalitás és a felelősség a tagállam egészét köti. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 36. pontja a 5. cikket a jogsértés jogellenes következményeinek megszüntetésére is kiterjeszti; a C-46/93 és C-48/93 Brasserie-ítélet a jogalkotóra, a C-224/01 Köbler-ítélet a végső bíróságra is alkalmazza az elvet. A helyes: a tagállam egységként felel. A tévedés a lojalitást a végrehajtó ágra szűkíti."
+        },
+        {
+          "text": "A Just-ügy ugyanezen 5. cikket együttműködési elvként hívja: a nemzeti bíróságok feladata biztosítani a közösségi jog közvetlen hatályán alapuló jogvédelmet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lojalitás a Just-ügyben az együttműködési elv alakjában jelenik meg. A C-68/79 Just-ügy a Szerződés 5. cikkét úgy hívja, hogy a tagállamok bíróságainak feladata biztosítani azt a jogvédelmet, amely a jogalanyokat a közösségi jogi rendelkezések közvetlen hatálya alapján megilleti. A Francovich 36. pont a 5. cikket a jogsértés jogellenes következményeinek megszüntetésére is kiterjeszti, és a 6/60 Humblet-ügyre utal. A Brasserie 25. pont hatásköri mondata a lojalitás-törzshöz nem tartozik."
+        },
+        {
+          "text": "A lojalitás csak politikai kötelezettség; a magánszemélyek kártérítési igénye nem vezethető le belőle.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság a lojalitásból a jogsértés következményeinek megszüntetését, s ezzel a kárfelelősséget is levezeti. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 36. pontja a Szerződés 5. cikkét e kötelezettséghez köti, a 35. és 37. pont pedig az elvet a Szerződés rendszerének részeként ismeri el. A helyes: a lojalitás a teljes érvényesülés szolgálatában áll. A tévedés a Szerződés 5. cikkét mereven politikai jellegű kötelezettséggé minősíti, és ezzel elszakítja a magánjogi orvoslástól."
+        },
+        {
+          "text": "A lojalitás a Szerződés 5. cikkére támaszkodik: a tagállamok kötelesek minden általános vagy különös intézkedést megtenni a közösségi kötelezettségeik végrehajtása érdekében, ideértve a jogsértés jogellenes következményeinek megszüntetését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kárfelelősség a lojalitás egyik megjelenése. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 36. pontja a Szerződés 5. cikkére támaszkodik. A Bíróság e körben az ESZAK-Szerződés 86. cikkének hasonló rendelkezésével kapcsolatban a 6/60 Humblet-ügyre utal. A C-68/79 Just-ügy ugyanezen 5. cikket az együttműködési elvként hívja a bíróságok jogvédelmi feladatánál."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "b4ccf47460c4"
+    },
+    {
+      "question": "A 80/987/EGK irányelv átültetésének olasz elmaradása nyomán milyen tényállási elemek alapozták a Francovich és Bonifaci kereseteket?",
+      "options": [
+        {
+          "text": "Az irányelv átültetési határideje 1991. november 19. volt, és a Bíróság csak e dátum után állapíthatta meg a kötelezettségszegést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 11. cikk szerinti átültetési határidő 1983. évi október 23-áig szólt. A C-6/90 és C-9/90 Francovich és Bonifaci ügyben a kötelezettségszegést a 22/87 Bizottság kontra Olaszország 1989. évi február 2-i ítélete már megállapította. A helyes: az átültetés elmaradása az 1983-as határidőhöz kötődik. A tévedés a Francovich-ítélet 1991. évi november 19-i dátumát az átültetési határidővel cseréli fel."
+        },
+        {
+          "text": "A felperesek csak a magánmunkáltató ellen indíthattak keresetet; az állammal szembeni kártalanítás a közösségi jogból nem következhetett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felperesek másodlagosan éppen az államtól kértek kártalanítást, és a Bíróság a közösségi jogból eredő megtérítési kötelezettséget mondta ki. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 46. pontja szerint az állam köteles megtéríteni a 80/987/EGK irányelv átültetésének elmaradásából származó károkat. A helyes: a magánvégrehajtás kudarca után a közösségi jog az államot kötelezi. A tévedés a keresetet a magánadóssal zárja le."
+        },
+        {
+          "text": "A 80/987/EGK irányelv a munkáltató fizetésképtelensége esetén a munkavállalóknak közösségi jogi minimumvédelmet kívánt biztosítani; a 11. cikk szerint a tagállamok 1983. október 23-ig voltak kötelesek az átültető rendelkezéseket hatályba léptetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határidő és a védelmi cél a kötelezettségszegés kerete. A C-6/90 és C-9/90 Francovich és Bonifaci ügyben az Olasz Köztársaság e kötelezettségnek nem tett eleget. A Bíróság a 22/87 Bizottság kontra Olaszország ügyben 1989. február 2-án állapította meg a kötelezettségszegést. A felperesek a végrehajtás sikertelensége után az államtól kérték a garanciákat, másodlagosan kártalanítást."
+        },
+        {
+          "text": "Francovich a CDN Elettronica SnC-nél dolgozott, bérét csak szórványosan kapta; Bonifaci és társai a fizetésképtelenné nyilvánított Gaia Confezioni Srl-lel szemben több mint 253 millió LIT követelést tartottak nyilván, öt évvel később sem kaptak kifizetést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a magánszemélyi sérelem a nemzeti végrehajtás kudarcához kapcsolódik. A C-6/90 ügyben a Pretura di Vicenza a vállalkozást hozzávetőleg 6 millió LIT megfizetésére kötelezte, a végrehajtás sikertelen volt. A C-9/90 ügyben Bonifaci és társai az 1985. évi április 5-én fizetésképtelenné nyilvánított vállalkozással szemben öt év után sem kaptak kifizetést. A Bíróság e tényállásból vezette le a közösségi jogi kártérítési utat."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "d07f16422610"
+    },
+    {
+      "question": "A Francovich-ügyben miért nem érvényesíthették a munkavállalók az irányelv jogait közvetlenül az állammal szemben, és mi pótolta e hiányt?",
+      "options": [
+        {
+          "text": "Ugyanazon válasz második pontja szerint a tagállam köteles megtéríteni a magánszemélyeket ért azon károkat, amelyek a 80/987/EGK irányelv átültetésének elmaradásából származnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kártérítés a közvetlen hatály hiányát orvosolja. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet a közvetlen hivatkozhatóság elutasítása mellett a közösségi jogból eredő megtérítési kötelezettséget írta elő. A Brasserie du Pecheur és Factortame ítélet 21. pontja e kettősséget rendszerbe foglalja: ahol az irányelv nem kellően pontos és feltétlen, a kártérítés szünteti meg az átültetés hiányának káros következményeit. A kárfelelősség tehát kiegészíti a közvetlen hatályt."
+        },
+        {
+          "text": "A munkavállalók az állammal szemben közvetlenül érvényesíthették az irányelv összes rendelkezését, mert az irányelv határidő elmulasztása automatikusan közvetlen hatályt keletkeztet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő elmulasztása önmagában nem ad közvetlen hatályt minden rendelkezésnek. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet a 8/81 Becker-ügyre utalva a feltétlenséget és a kellő pontosságot követeli; a 80/987/EGK irányelv munkavállalói rendelkezéseit e mércén elutasította. A helyes: a közvetlen hatály hiánya mellett a kártérítés nyílik meg. A tévedés a feltétlenség és a kellő pontosság Becker-mércéjét mellőzi."
+        },
+        {
+          "text": "A Bíróság úgy határozott, hogy a 80/987/EGK irányelv munkavállalói jogokat meghatározó rendelkezéseit az érdekeltek az állammal szemben nem érvényesíthetik a nemzeti bíróságok előtt, ha a végrehajtási intézkedéseket határidőn belül nem hozták meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetlen hatály vizsgálata negatív eredménnyel zárult. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet a kedvezményezettekre, a garancia tartalmára és a garancia kötelezettjére terjedő vizsgálat után elutasította az állammal szembeni közvetlen hivatkozhatóságot. A 8/81 Becker-ügy 24–25. pontjára hivatkozva emlékeztetett: feltétlen és kellően pontos rendelkezésekre a magánszemély az állammal szemben hivatkozhat — e feltétel itt nem teljesült. Ugyanazon válasz második pontja nyitotta meg a kártérítést."
+        },
+        {
+          "text": "A közvetlen hatály elutasítása egyben a kártérítés kizárását is jelentette, mert a közösségi jog csak egyetlen orvoslási utat ismer.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság ugyanazon válaszban nyitotta meg a kártérítést. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet szerint a közvetlen hivatkozhatóság elutasítása mellett az állam köteles megtéríteni az átültetés elmaradásából származó károkat. A helyes: a kárfelelősség a közvetlen hatályt kiegészíti. A tévedés a két orvoslási utat kizáró viszonyba állítja."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "13be45698bf6"
+    },
+    {
+      "question": "Köbler ügyében milyen közösségi jogi sérelem merült fel az osztrák egyetemi szolgálati idő alapján járó különleges pótlék körül?",
+      "options": [
+        {
+          "text": "A pótlék kizárólag osztrák egyetemekre szűkítése a csatlakozás után is megengedett maradt, mert a közösségi jog a nemzeti hűségjutalmakat nem érinti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Köbler álláspontja szerint a kizárólag osztrák egyetemekre szűkített számítás közvetett hátrányos megkülönböztetés, amelyet a közösségi jog nem enged meg. A C-224/01 Köbler-ügy a Verwaltungsgerichtshof hűségjutalom-minősítését éppen e közösségi jogi vita keretében vizsgálta. A helyes: a szabad mozgás szabályai a szolgálati idő beszámítását is érinthetik. A tévedés a hűségjutalom-címkét automatikus mentesülésnek tekinti."
+        },
+        {
+          "text": "A Verwaltungsgerichtshof előbb előzetes döntéshozatali kérelmet nyújtott be, majd a Schöning-Kougebetopoulou-ítélet fényében a kérelmet visszavonta, és a pótlékot hűségjutalomnak minősítve elutasította a keresetet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a végső fórum eljárása a felelősségi vita középpontja. A C-224/01 Köbler-ügyben a Verwaltungsgerichtshof 1997. évi október 22-én a C-382/97. sz. kérelmet terjesztette elő, majd 1998. évi március 25-én előzetesen Köbler javára állónak látta a kérdést, végül 1998. évi június 24-én a kérelmet visszavonta és a keresetet elutasította. Indokolása szerint a pótlék hűségjutalom, amely objektíven igazolja az eltérést. A korábbi, a felekre nézve nem kötelező jogértelmezést — mely szerint a pótlék az illetmény eleme — elvetette."
+        },
+        {
+          "text": "A Gehaltsgesetz 50a. §-a a különleges pótlékot olyan egyetemi tanárnak tartotta fenn, aki tizenöt évnél hosszabb időt töltött osztrák egyetemen; Köbler szerint a más tagállami egyetemi szolgálati idő figyelmen kívül hagyása közvetett hátrányos megkülönböztetés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tényállás a munkavállalók szabad mozgásához kapcsolódik. A C-224/01 Köbler-ügyben Köbler 1986. évi március 1-je óta innsbrucki rendes egyetemi tanár volt, és 1996. évi február 28-án kérte a pótlékot. Az előírt tizenöt éves szolgálati idővel kizárólag osztrák egyetemeken nem rendelkezett, de rendelkezett vele, ha a Közösség más tagállamainak egyetemein töltött idejét is figyelembe veszik. A Landesgericht az EK 48. cikk (később EK 39. cikk) értelmezését kérte."
+        },
+        {
+          "text": "A Verwaltungsgerichtshof soha nem fordult a Bírósághoz; a felelősségi vita kizárólag a nemzeti jogerő kérdéséről szólt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Verwaltungsgerichtshof 1997. évi október 22-én előzetes döntéshozatali kérelmet nyújtott be, majd azt visszavonta. A C-224/01 Köbler-ítélet 55. pontja az EK 234. cikk harmadik bekezdése szerinti utalási kötelezettség elmulasztását a mérlegelendő tényezők közé sorolja. A helyes: a kérelem visszavonása és a tartalmi elutasítás együtt alapozta a felelősségi keresetet. A tévedés a tényállásból kihagyja az előzetes eljárást."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "f54fe7b68d6a"
+    },
+    {
+      "question": "Mely állítások tévesek a végső fokon ítélkező bíróság közösségi jogsértéséért fennálló tagállami felelősségről?",
+      "options": [
+        {
+          "text": "A hatáskörös bíróságot a közösségi jog jelöli ki, mert a Bíróság feladata a nemzeti igazságszolgáltatás hatásköri kérdéseinek megoldása is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatáskör kijelölése a nemzeti jogra marad. A C-224/01 Köbler-ítélet 47. és 50. pontja szerint a Bíróságnak nem feladata a nemzeti hatásköri kérdések megoldása; az egyes tagállami jogrendszerek jelölik ki a kártérítési jogviták fórumát. A helyes: a közösségi jog a felelősség elvét, nem a fórumot írja elő. A tévedés a hatáskört közösségi kijelöléssé emeli."
+        },
+        {
+          "text": "A felelősség feltételei a végső bíróság esetében teljesen azonosak a végrehajtó szerv közönséges jogsértésével: elegendő a kellően súlyos jogsértés általános küszöbe, a nyilvánvalóság külön vizsgálata nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a második feltétel a végső fórumra megszorított. A C-224/01 Köbler-ítélet 53. pontja szerint a felelősség csak akkor állapítható meg, ha a bíróság az alkalmazandó jogot „nyilvánvaló módon hagyta figyelmen kívül”. A helyes: a három feltétel érvényes, de a súlyosság kivételes, nyilvánvaló figyelmen kívül hagyást követel. A tévedés a közönséges Brasserie-küszöböt a bírói fórumra változtatás nélkül írja át."
+        },
+        {
+          "text": "A felelősség csak akkor állapítható meg, ha a bíró szubjektív szándékossága is bizonyított, mert a német kormány szerint ez a kellően súlyos jogsértés egyetlen mércéje.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szándékosság csak egy a mérlegelendő tényezők közül. A C-224/01 Köbler-ítélet 55. pontja a jogszabály egyértelműségét, a szándékosságot, a menthetőséget, az intézményi állásfoglalást és az utalási kötelezettség elmulasztását együtt sorolja. A helyes: a második feltétel a nyilvánvaló figyelmen kívül hagyás. A tévedés a német kormány szubjektív szándékossági megszorítását kötelező egyedüli mércévé emeli."
+        },
+        {
+          "text": "A felelősség teljes egészében kizárt, mert a végső bíróság rendeltetése a jogvita végleges lezárása, és e zárás a közösségi jogrendben is abszolút.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogerő nem zárja ki a felelősséget. A C-224/01 Köbler-ítélet 48. pontja szerint a jogerő és a bírói függetlenség megfontolásai nem zárják ki teljes egészében a felelősség megállapítását. A helyes: az elv a végső fórumra is alkalmazandó, de csak a nyilvánvaló figyelmen kívül hagyás kivételes esetében. A tévedés az osztrák kormány kizáró álláspontját ismétli."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "c657f26aa217"
+    },
+    {
+      "question": "A Brasserie du Pecheur ügyben milyen kötelezettségszegési előzmény előzte meg a kártérítési keresetet?",
+      "options": [
+        {
+          "text": "A Bizottság a Szerződés 30. cikkére hivatkozva kötelezettségszegési eljárást indított a más tagállamokban jogszerűen előállított „Bier” elnevezés alatti forgalmazás, illetve az adalékanyagokat tartalmazó sörök importjának tilalma miatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kártérítési per a kötelezettségszegési megállapításra épült. A C-46/93 Brasserie du Pecheur ügyben a társaság 1981 végén németországi sörexportjának beszüntetésére kényszerült a Biersteuergesetz 9. és 10. cikke szerinti tisztasági követelmények miatt. A Bíróság a 178/84 Bizottság kontra Németország ügyben 1987. március 12-én a Szerződés 30. cikkével összeegyeztethetetlennek ítélte a német törvényeknek nem megfelelő, más tagállamokból származó sörök forgalmazásának tilalmát. Ezt követően indult az 1 800 000 DM iránti kártérítési kereset."
+        },
+        {
+          "text": "A kötelezettségszegési eljárás hiányában kártérítésnek egyáltalán nincs helye, mert a magánszemély csak a Bizottság győzelme után perelhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezettségszegési ítélet nem a kártérítés fogalmi előfeltétele. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet a felelősséget a Szerződés rendszerének részeként, a közvetlen hatályú 30. és 52. cikk megsértéséhez kapcsolódóan ismeri el. A helyes: a magánjogi orvoslás a közösségi jogsértésből ered. A tévedés a Bizottság pernyertességét magánjogi előfeltétellé emeli."
+        },
+        {
+          "text": "A Brasserie du pêcheur az 1981. és 1987. közötti importkorlátozás miatt indított kártérítési keresetet tényleges kárának egy része iránt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a káridőszak a tilalom fennállásához igazodik. A C-46/93 Brasserie du Pecheur ügyben a kereset az 1981–1987 közötti időszakra szólt. A Bundesgerichtshof a BGB 839. cikke és a GG 34. cikke alapján a Drittbezogenheit-korlátot vetette fel. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet a közösségi elvet a jogalkotónak betudható jogsértésre is kiterjesztette."
+        },
+        {
+          "text": "A sörtisztasági tilalom csak a nemzeti élelmiszerjog kérdése volt, a Szerződés 30. cikke e tilalomra nem vonatkozott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság a 178/84 Bizottság kontra Németország ügyben a Szerződés 30. cikkével összeegyeztethetetlennek ítélte a tilalmat. A C-46/93 Brasserie du Pecheur ügy e kötelezettségszegési megállapításra építette a magánjogi kártérítési utat. A helyes: a forgalmazási tilalom az áruk szabad mozgását sértette. A tévedés a tilalmat a közösségi jog hatályán kívülre helyezi."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "fdbd088c20a5"
+    },
+    {
+      "question": "Miben tér el a Factortame-ág a Brasserie-ágtól a közvetlen hatály szempontjából az egyesített ügyekben?",
+      "options": [
+        {
+          "text": "A Brasserie-ágban a 30. cikk közvetlen hatályú, a Factortame-ágban az 52. cikk nem az; ezért csak az előbbi esetben járhat kártérítés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, mindkét rendelkezés közvetlen hatályú a Brasserie–Factortame rendszerben. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 23. pontja a Szerződés 30. cikkét és az 52. cikkét egyaránt ide sorolja, és megsértésük esetén helyet ad a kártérítésnek. A helyes: a két ág a szabadság tárgyában tér el, nem a közvetlen hatály meglétében. A tévedés az 52. cikket közvetlen hatály nélkülivé minősíti, holott a 23. pont mindkét cikket védi."
+        },
+        {
+          "text": "Mindkét ágon igaz, hogy a kártérítéshez való jog a megsértett, közvetlenül hatályos rendelkezések szükségszerű következménye.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Szerződés 30. cikke és az 52. cikke ugyanazon rendszerbe tartozik. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 22. pontja szerint a kártérítés a közvetlen hatály szükségszerű következménye. A 23. pont mindkét rendelkezést ide sorolja. A Francovich-féle, közvetlen hatály nélküli irányelv-átültetési ágtól e két ügy elválik."
+        },
+        {
+          "text": "A C-48/93. sz. ügyben a Bíróság a kört a Szerződés 52. cikkének — a letelepedés szabadságának — közvetlen hatályához köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Factortame-ág más szerződéses szabadságra épül. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 23. pontja szerint a Szerződés 52. cikke a C-48/93. sz. ügyben közvetlen hatállyal rendelkezik. A magánszemélyek e jogokra a nemzeti bíróságok előtt hivatkozhatnak. Megsértésük esetén helye lehet kártérítésnek."
+        },
+        {
+          "text": "A Factortame-ágban a letelepedés szabadsága csak a Bizottság kötelezettségszegési perében érvényesülhet, magánszemély a nemzeti bíróság előtt nem hivatkozhat rá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a letelepedés szabadsága nem csupán a Bizottság kötelezettségszegési perének tárgya. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 23. pontja szerint a Szerződés 52. cikke jogokat ruház a magánszemélyekre, amelyekre azok a nemzeti bíróságok előtt hivatkozhatnak. A helyes: a kártérítés e közvetlen hatály következménye. A tévedés a letelepedés szabadságát tisztán intézményközi eszközzé szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "6c0797fd19cb"
+    },
+    {
+      "question": "A Róma II mely kollíziós részletszabályai mutatják, hogy a rendelet nem a Francovich anyagi felelősségi elvét helyettesíti?",
+      "options": [
+        {
+          "text": "A Róma II hatályon kívül helyezi a Francovich-elvet, mert a kollíziós szabályok teljes egészében pótolják a tagállami kárfelelősséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két sík egymás mellett él. A helyes: a 864/2007/EK rendelet kollíziós síkon rendezi az alkalmazandó jogot — ideértve a (32) preambulum közrendi korlátját —, míg a C-6/90 és C-9/90 Francovich és Bonifaci ítélet az uniós jog megsértéséért fennálló anyagi felelősséget adja. A Róma II a Francovich-elvet nem helyezi hatályon kívül. A tévedés a rendeletet a felelősségi elv pótlékának tekinti."
+        },
+        {
+          "text": "A 4. cikk (2) bekezdése a közös szokásos tartózkodási helyhez kötött különös kapcsolatot, a 4. cikk (3) bekezdése pedig a nyilvánvalóan szorosabb kapcsolat menekülési záradékát adja — ez kollíziós technika, nem felelősségi feltétel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 4. cikk a jogválasztás technikáját adja, nem azt, hogy a tagállam felel-e az uniós jogsértésért. A 864/2007/EK rendelet 4. cikk (2)–(3) bekezdése az általános kollíziós elv alóli kivételeket rendezi. A Francovich-elv az anyagi felelősség feltételeit adja; a Róma II e feltételeket nem váltja fel. A (32) preambulum közrendi korlátja szintén alkalmazási, nem felelősségi szabály."
+        },
+        {
+          "text": "A szellemi tulajdonjogok megsértésénél a lex loci protectionis marad fenn; a környezeti kár fogalma és a Szerződés 174. cikkének elvei a károsult javára történő megkülönböztetést indokolják — mind kollíziós sík.",
+          "isCorrect": true,
+          "rationale": "IGAZ, e szabályok az alkalmazandó jogot jelölik ki, nem a tagállami uniós kárfelelősség fennállását. A 864/2007/EK rendelet a lex loci protectionis elvét a szellemi tulajdonnál megtartja; a környezeti kárnál a 174. cikk elővigyázatossági, megelőzési, forrásnál való elhárítási és „szennyező fizet” elve a károsult javára szóló megkülönböztetést indokolja. A Francovich háromfeltételes anyagi mércéje ettől elválik."
+        },
+        {
+          "text": "A Róma II 4. cikke felváltja a Francovich-feltételeket, és a tagállami uniós jogi kárfelelősséget is kollíziós szabályként rendezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Róma II kollíziós, nem anyagi felelősségi eszköz. A helyes: a 864/2007/EK rendelet a szerződésen kívüli kötelmi viszonyokra alkalmazandó jogot a Francovich-elvtől elválasztott kollíziós síkon rendezi; a 4. cikk (2)–(3) bekezdése a különös kapcsolatot és a menekülési záradékot adja. A Francovich és Bonifaci ítélet a tagállami kárfelelősség anyagi feltételeit határozza meg. A tévedés a kollíziót felelősségi feltételrendszernek olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "7e5a13ce49c1"
+    },
+    {
+      "question": "Mi következik abból, ha a közösségi norma teljes körű hatályosulása az állam valamely jogi aktusától függ, és ez az aktus hiányzik?",
+      "options": [
+        {
+          "text": "A kártérítés csak akkor jár, ha az állam aktusa megvan, de tartalmilag hibás; a teljes mulasztás esetén a közösségi jog hallgat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tipikus Francovich-helyzet éppen a mulasztás. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet a 80/987/EGK irányelv átültetésének elmaradására mondta ki a megtérítési kötelezettséget. A helyes: a teljes érvényesülés védelme a mulasztásra is kiterjed. A tévedés a felelősséget a hibás aktusra szűkíti, és a mulasztást kimaradással bünteti."
+        },
+        {
+          "text": "Az irányelv-átültetés elmaradása tipikusan ilyen helyzet: a magánszemély a kellően pontos és feltétlen jelleg hiányában nem hivatkozhat közvetlenül, ezért a kártérítés orvosolja a hiányt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Francovich-ügy pontosan e mintát adja. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet a 80/987/EGK irányelv munkavállalói rendelkezéseinek közvetlen hivatkozhatóságát elutasította, és ugyanazon válaszban a kártérítést nyitotta meg. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 21. pontja e kettősséget rendszerbe foglalja. A kárfelelősség tehát a teljes érvényesülés szolgálatában áll."
+        },
+        {
+          "text": "Ilyen helyzetben a nemzeti bíróság a hiányzó állami aktust maga pótolhatja, és a kártérítésre ezért nincs szükség.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Francovich-logika éppen azt mondja, hogy a hiányzó állami aktus miatt a magánszemély nem érvényesítheti jogait, ezért kell a kártérítés. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 34. pontja e nélkülözhetetlenséget rögzíti. A helyes: a kártérítés a hatályosulás zárlatát orvosolja. A tévedés a nemzeti bíróságot jogalkotó pótlássá emeli."
+        },
+        {
+          "text": "A Francovich és Bonifaci ítélet 34. pontja szerint a kártérítési védelem különösen akkor nélkülözhetetlen, ha a közösségi norma teljes körű hatályosulása az állam valamely jogi aktusától függ, és ennek hiányában a magánszemély a nemzeti bíróság előtt nem érvényesítheti a közösségi jog által elismert jogait.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kártérítés a hatályosulás zárlatát oldja. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 34. pontja e helyzetet kiemeli. A 33. pont szerint a teljes érvényesülés kérdésessé válna kártérítés nélkül. A 32. pont a Simmenthal-ügy 16. pontjára és a C-213/89 Factortame-ügy 19. pontjára utalva a nemzeti bíróságok teljes hatályosulási feladatát emlékezteti."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "c2a236ee6877"
+    },
+    {
+      "question": "Mi a jogkövetkezménye a Francovich 38. pont szerinti elválasztásnak, ha a jogsértés jellege szerinti feltételek teljesülnek?",
+      "options": [
+        {
+          "text": "Jogalkotói jogsértésnél a Brasserie a jellegfüggő feltételeket a kellően súlyos jogsértés mércéjével tölti ki, miközben a felelősség elve változatlanul a közösségi jogból ered.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 38. pont jellegfüggése a Brasserie-ban a jogalkotói síkon a súlyossági mércében jelenik meg. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet a Francovich-feltételeket a jogalkotónak betudható jogsértéshez igazítja, és a kellően súlyos jogsértést emeli be. Az irányelv-átültetés elmaradásánál a Francovich 39. pont három feltétele marad. A felelősség előírása nem válik nemzeti engedménnyé."
+        },
+        {
+          "text": "A magánszemélyek számára kártérítéshez való jog keletkezik, melynek közvetlen alapja a közösségi jog; az állam a nemzeti felelősségi szabályok keretében köteles orvosolni a kárt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elválasztás jogkövetkezménye a közösségi jogból eredő igény és a nemzeti eljárási keret. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 41. pontja szerint a feltételek elegendőek a közösségi jogból eredő kártérítési joghoz; a 42. pont az államot a nemzeti jog felelősségi szabályainak keretei között kötelezi a kár orvoslására. A 38. pont maga az elvet és a feltételeket választja el; itt a teljesülés következménye a kérdés."
+        },
+        {
+          "text": "A feltételek teljesülése csak politikai kötelezettséget keletkeztet; bíróság előtt nem érvényesíthető kártérítési jog.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a feltételek teljesülése érvényesíthető kártérítési jogot ad. A helyes: a C-6/90 és C-9/90 Francovich 41. pontja szerint a feltételek elegendőek a közösségi jogból eredő kártérítési joghoz; a 45. pont a nemzeti bíróságra telepíti a munkavállalók jogvédelmét. A 46. pont szerint az állam köteles megtéríteni az átültetés elmaradásából származó károkat. A tévedés a jogkövetkezményt politikai síkra szorítaná."
+        },
+        {
+          "text": "Ha a feltételek teljesülnek, a kártérítés automatikusan a Bíróság közvetlen ítéletéből jár, nemzeti kereset nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a feltételek teljesülése közösségi jogból eredő igényt ad, de a kereset útja nemzeti. A helyes: a C-6/90 és C-9/90 Francovich és Bonifaci ítélet 41. pontja szerint a feltételek elegendőek a közösségi jogból eredő kártérítési joghoz; a 42. pont az államot a nemzeti jog felelősségi szabályainak keretei között kötelezi a kár orvoslására. A 45. pont a nemzeti bíróságra telepíti a jogvédelmet. A tévedés a nemzeti eljárást kiiktatná."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "194585debe81"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a nemzeti Drittbezogenheit-korlát a közösségi jogi kárfelelősség kizárására?",
+      "options": [
+        {
+          "text": "A Drittbezogenheit-korlát mindig érvényesül, ha a nemzeti alkotmány a közfeladatot ellátó személy kötelezettségét harmadik személyhez köti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti korlát a közösségi jogvédelmet nem írhatja felül. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 35–36. pontja a jogalkotónak betudható jogsértésre is kiterjeszti az elvet. A helyes: a felelősség a hatalmi ágaktól független. A tévedés a német nemzeti korlátot a közösségi elv fölé helyezi."
+        },
+        {
+          "text": "A nemzeti jogalkotónak betudható jogsértés esetén a kártérítéshez való jog csak akkor áll fenn, ha a nemzeti parlament külön törvényben elismeri a közösségi felelősséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felelősség a Szerződés rendszerének része, nem parlamenti elismerés függvénye. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet a német kormány hatáskörmegosztási és intézményi egyensúlyi kifogását a 25–31. pontban elutasította. A helyes: az elv a jogalkotóra is kiterjed. A tévedés a bírói elismerést törvényhozói feltétellé emeli."
+        },
+        {
+          "text": "Akkor sem, ha a nemzeti szabályok szerint a felrótt jogsértés a jogalkotónak tudható be, és a megsértett nemzeti törvény mindenkire vonatkozik, nem pedig meghatározott „harmadik személyre”.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közösségi elv a jogalkotói mulasztásra is kiterjed. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 35. pontja szerint a jogalkotónak való betudhatóság nem kérdőjelezheti meg a kártérítéshez való jog érvényesíthetőségét. A 36. pont a nemzeti bíróságoknak adott válasz: az elv a nemzeti jogalkotónak betudható kötelezettségszegésre is alkalmazandó. A BGB 839. cikke és a GG 34. cikke szerinti korlát ezt nem írhatja felül."
+        },
+        {
+          "text": "A kármegtérítési kötelezettség nem függhet a hatáskörök hatalmi ágak közötti megosztására vonatkozó belső szabályoktól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egységes alkalmazás a belső szervezeti megosztástól független. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 33. pontja a Zuckerfabrik-ügy 26. pontjára utalva ezt kimondja. A 34. pont a nemzetközi jogi egység-elvet is bevonja. A közösségi jogban minden állami szervnek tiszteletben kell tartania a magánszemélyeket közvetlenül szabályozó normákat."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "6e25bde9d392"
+    },
+    {
+      "question": "A Just-ügyben milyen adózási megkülönböztetés került a Szerződés 95. cikke alá?",
+      "options": [
+        {
+          "text": "A dán jövedéki szabályozás az aquavitra és schnappsra kedvezményes, a más szeszes italokra magasabb adómértéket alkalmazott; a megkülönböztetés nyersanyag-, extrakt- és alkoholtartalmon, valamint ízjellemzőkön alapult.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tényállás a belső adózás diszkriminációjának mintája. A C-68/79 Just-ügyben az 1978. évi április 4-i dán törvény 3. és 4. cikke határozta meg az aquavit fogalmát. Az 1977. évi szeptember 7-től hatályos 437. sz. törvény az aquavit adóját tiszta etil-alkohol literenként 167,50 DKK-ra, a más szeszes italokét 257,15 DKK-ra emelte. A Hans Just I/S jelentős forgalmat bonyolított a magasabban adóztatott kategóriában."
+        },
+        {
+          "text": "A megkülönböztetés jogszerű volt, mert nem azon alapult, hogy az áruk importált vagy belföldi termékek-e, ezért a 95. cikk egyáltalán nem volt alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 95. cikk a hátrányos megkülönböztető vagy protekcionista belső adózást is fogja, nem csupán a nyílt származási megkülönböztetést. A C-68/79 Just-ítélet a közösségi joggal összeegyeztethetetlen eltérő adómértékek joghatásait rögzítette. A helyes: összeegyeztethetetlenség esetén a behozott termékekre a tiltott különbséget megszüntető mértéket kell alkalmazni. A tévedés a kérdező bíróság 1A. kérdésének egyik tényelemét mentesülésnek tekinti."
+        },
+        {
+          "text": "A társaság a 95. cikkre hivatkozva azt állította, hogy a más szeszes italokra kivetett adót csak az aquavitra vonatkozó mértékkel lehet kivetni, és a megfizetett különbözet visszatérítését kérte.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a per a visszatérítés és a kár viszonyát is felvetette. A C-68/79 Just-ügyben a társaság a júniusi adókötelezettségnél 193 563,30 DKK különbözetet tiltakozással fizetett meg. Az Østre Landsret négy kérdéscsoportot terjesztett elő, köztük a visszatérítés közösségi szabályaira és a kárbizonyítás jelentőségére. A Bíróság a nemzeti eljárási autonómiát az egyenértékűségi és tényleges érvényesülési korláttal kötötte össze."
+        },
+        {
+          "text": "A 95. cikk csak akkor sérül, ha a nemzeti adó az importált termékeket kifejezetten megnevezi; a fogalmi megkülönböztetés automatikusan mentesít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fogalmi megkülönböztetés nem mentesít automatikusan. A C-68/79 Just-ítélet a közösségi joggal összeegyeztethetetlen, eltérő adómértékeket alkalmazó nemzeti adórendszer joghatásait vizsgálta. A helyes: a tiltott hátrányos megkülönböztetés vagy protekcionizmus mértékének megszüntetése a behozott termékekre. A tévedés a 95. cikk hatályát a nyílt címkézésre szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "6b040ecd8a0d"
+    },
+    {
+      "question": "Mit kell mérlegelnie a kártérítési igényt elbíráló nemzeti bíróságnak a végső fórum jogsértése esetén a Köbler-ítélet 54–55. pontja szerint?",
+      "options": [
+        {
+          "text": "Figyelembe veendő esetleg valamely közösségi intézmény állásfoglalása, illetve az, hogy a kérdéses bíróság nem tett eleget az EK 234. cikk harmadik bekezdése szerinti előzetes döntéshozatalra utalásnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az utalási kötelezettség elmulasztása önálló mérlegelési szempont. A C-224/01 Köbler-ítélet 55. pontja a megsértett jogszabály egyértelműsége mellett az EK 234. cikk harmadik bekezdése szerinti előzetes döntéshozatalra utalás elmulasztását is a mérlegelendő tényezők közé sorolja. A holland kormány a felelősséget éppen az utalási kötelezettség nyilvánvaló és súlyos megsértésére kívánta szűkíteni. A Bíróság tágabb, többtényezős mércét fogadott el a nyilvánvaló figyelmen kívül hagyás keretében."
+        },
+        {
+          "text": "A nemzeti bíróság csak azt vizsgálhatja, volt-e előzetes döntéshozatali kérelem; a jogszabály egyértelműsége és a hiba menthetősége irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az utalás elmulasztása csak egy a tényezők közül. A C-224/01 Köbler-ítélet 55. pontja az egyértelműséget, a szándékosságot, a menthetőséget, az intézményi állásfoglalást és az utalási kötelezettséget együtt sorolja. A helyes: a mérlegelés többtényezős. A tévedés a holland kormány szűkítő javaslatát kötelező egyedüli mércévé emeli."
+        },
+        {
+          "text": "Az ügy összes körülményét, különösen a megsértett jogszabály egyértelműségének és pontosságának fokát, a jogsértés szándékosságát, a jogi hiba menthetőségét vagy menthetetlenségét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nyilvánvalóság többtényezős vizsgálat. A C-224/01 Köbler-ítélet 54. pontja a nemzeti bíróságra telepíti az összes körülmény figyelembevételét. A 55. pont a felsorolt tényezőket jelöli. A 53. pont szerint a felelősség csak a nyilvánvaló figyelmen kívül hagyás kivételes esetében állapítható meg."
+        },
+        {
+          "text": "Elegendő a nemzeti vétkességi szabályok szerinti gondatlanság megállapítása; a közösségi tényezők csak kiegészítő jellegűek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közösségi mérce a nyilvánvaló figyelmen kívül hagyást követeli. A C-224/01 Köbler-ítélet 53–55. pontja a második feltételt az igazságszolgáltatás különleges természetéhez igazítja, és konkrét mérlegelési tényezőket sorol. A helyes: a nemzeti bíróság e tényezőket vizsgálja. A tévedés a nemzeti gondatlanságot a közösségi kivételes küszöb helyébe teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "4e5e6325b12a"
+    },
+    {
+      "question": "Mely állítások tévesek a Francovich-féle három feltételről irányelv-átültetés elmaradása esetén?",
+      "options": [
+        {
+          "text": "Elegendő, ha az irányelv a tagállamokat intézményi kötelezettséggel terheli; magánszemélyi jogok létesítése nem szükséges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az első feltétel éppen az, hogy az irányelv eredménye jogokat ruház a magánszemélyekre. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 39. pontja e három feltételt konjunktívan rendeli. A helyes: a magánszemélyi jogok, a tartalmi meghatározhatóság és az okozatiság együtt kell. A tévedés az első feltételt elhagyja."
+        },
+        {
+          "text": "A jogok tartalmának az irányelvből való meghatározhatósága helyettesíthető a nemzeti bíróság méltányossági mérlegelésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a második feltétel az irányelv rendelkezéseire épül. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 39. pontja szerint a jogok tartalmát az irányelv rendelkezései alapján meg kell tudni határozni. A helyes: a tartalmi meghatározhatóság objektív, irányelvi követelmény. A tévedés a második feltételt méltányossági pótlékká alakítja."
+        },
+        {
+          "text": "A három feltétel csak akkor elegendő, ha a nemzeti parlament külön törvényben elismeri a közösségi jogból eredő kártérítési jogot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 41. pont szerint a három feltétel elegendő, és a jognak közvetlen alapja a közösségi jog. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 41. pontja ezt kimondja. A helyes: nemzeti törvényi elismerés nem előfeltétel. A tévedés a közösségi jogi alapot parlamenti feltétellé emeli."
+        },
+        {
+          "text": "Az okozati összefüggés a kötelezettségszegés és a kár között elhagyható, ha a Bíróság korábban már megállapította a kötelezettségszegést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a harmadik feltétel az okozatiság. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 39. pontja szerint okozati összefüggés kell a kötelezettség állam általi megsértése és a kár között. A 22/87 kötelezettségszegési ítélet a jogsértést állapítja meg, de az egyéni kár okozatiságát nem pótolja. A helyes: a három feltétel konjunktív. A tévedés a harmadik feltételt a Bizottság pernyertességével helyettesíti."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "034da0cdbbb1"
+    },
+    {
+      "question": "Hogyan kapcsolódik a Simmenthal- és a Factortame-ügy a Francovich-féle kárfelelősség ratiojához?",
+      "options": [
+        {
+          "text": "A Francovich és Bonifaci ítélet 32. pontja a Simmenthal-ügy 16. pontjára és a C-213/89 Factortame-ügy 19. pontjára utalva emlékeztet: a nemzeti bíróságok feladata a közösségi normák teljes körű hatályosulásának biztosítása és a magánszemélyek jogainak védelme.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kárfelelősség a teljes érvényesülés vázában áll. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 32. pontja e két döntésre támaszkodik. A 33. pont szerint a teljes érvényesülés kérdésessé válna kártérítés nélkül. A 34. pont a védelmet különösen az állam aktusától függő hatályosulásnál tekinti nélkülözhetetlennek."
+        },
+        {
+          "text": "A Simmenthal- és a Factortame-ügy a kárfelelősséget kizárja, mert a nemzeti bíróság a közösségi jogot közvetlenül alkalmazza, ezért kártérítésre nincs szükség.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Francovich-ítélet éppen e két ügyre támaszkodva indokolja a kártérítést. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 32–33. pontja a teljes hatályosulás feladatából vezeti le a kártérítés szükségességét. A helyes: a közvetlen alkalmazás és a kártérítés kiegészítik egymást. A tévedés a teljes érvényesülési vázat a kárfelelősség kizárásaként olvassa."
+        },
+        {
+          "text": "A kártérítés nélküli helyzetben a közösségi jog által biztosított jogok védelme gyengülne, ha a magánszemélyeket a tagállamnak betudható jogsértés éri.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a ratio a jogvédelem kiüresedésének elkerülése. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 33. pontja ezt kimondja. A Brasserie du Pecheur és Factortame ítélet 21. pontja ugyanezt a Francovich 33. pontjából olvassa ki az irányelv-átültetés hiányánál. A kárfelelősség így a teljes hatályosulás eszköze."
+        },
+        {
+          "text": "A Factortame-ügy csak az ideiglenes intézkedésekre vonatkozik, ezért a Francovich-féle kárfelelősséghez nem kapcsolható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Francovich-ítélet a C-213/89 Factortame-ügy 19. pontját a teljes hatályosulás és a jogvédelem általános feladataként hívja. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 32. pontja e hivatkozást a kárfelelősség ratiojához köti. A helyes: a Factortame-logika a teljes érvényesülés része. A tévedés az ügyet az ideiglenes intézkedésekre szűkíti, és elszakítja a kárfelelősségtől."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "a27f365ab1b9"
+    },
+    {
+      "question": "Mi a különbség a Közösség szerződésen kívüli felelőssége és a tagállami Francovich-elv között a párhuzam ellenére?",
+      "options": [
+        {
+          "text": "A párhuzam a feltételek szimmetriájában áll: különleges indokok hiányában a tagállami felelősség feltételei nem térhetnek el a Közösség 215. cikk szerinti felelősségének szabályaitól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szimmetria a magánszemély védelmének egységét szolgálja. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 42. pontja ezt kimondja. A 28–29. pont a Szerződés 215. cikkének második bekezdését a tagállamok jogában közös általános elvek kifejezéseként állítja párhuzamba. A Köbler-ügyben a kormányok ugyanezt az EK 288. cikkre vetítették."
+        },
+        {
+          "text": "A 215. cikk párhuzama miatt a tagállami felelősség csak a Bíróság előtt érvényesíthető, a nemzeti bíróságok hatásköre kizárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kereset útja a nemzeti bíróságoké. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 42. pontja, valamint a C-224/01 Köbler-ítélet 50. pontja a hatáskör kijelölését a nemzeti jogra hagyja. A helyes: a közösségi jog a felelősség elvét, a belső jog a fórumot adja. A tévedés a 215. cikk intézményi útját a tagállami felelősségre is kiterjeszti."
+        },
+        {
+          "text": "A Közösség felelőssége és a tagállami felelősség feltételei mindig azonosak, a végső bíróságra is ugyanazzal a közönséges „kellően súlyos” küszöbbel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a végső fórumra a Köbler-ítélet megszorítja a második feltételt. A C-224/01 Köbler-ítélet 53. pontja szerint a végső fokon ítélkező bíróság határozatáért fennálló felelősség csak akkor állapítható meg, ha a bíróság az alkalmazandó jogot nyilvánvaló módon hagyta figyelmen kívül. A helyes: a szimmetria a főszabály, de a bírói fórum különleges természete kivételes küszöböt indokol. A tévedés a közönséges Brasserie-küszöböt változtatás nélkül a végső bíróságra írja."
+        },
+        {
+          "text": "A 215. cikk gyakorlata a mérlegelési jogkörhöz és a gazdaságpolitikai normatív aktusokhoz igazított megszorító olvasatot ad, amely a tagállami jogalkotóra is vetül; a Köbler-ítélet 53. pontja ugyanezt a megszorítást a végső bírói fórumra a nyilvánvaló figyelmen kívül hagyás kivételes esetére szűkíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a párhuzam nem azonos küszöb minden szervre. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 43–45. pontja a mérlegelési mozgásteret hangsúlyozza. A C-224/01 Köbler-ítélet 53. pontja a végső fórumra a nyilvánvaló figyelmen kívül hagyást követeli. A különbség tehát a szerv jellegéhez igazított súlyossági küszöbben jelenik meg."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "28f1a576eb94"
+    },
+    {
+      "question": "Polgári perben egy magyar munkavállaló azt állítja, hogy a tagállam határidőn túl nem ültette át a fizetésképtelenségi irányelvet, és emiatt nem kapta meg a garanciát. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A kereset útját a magyar felelősségi és eljárási szabályok adják, de az egyenértékűség és a tényleges érvényesülés korlátja között.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közösségi jog a felelősséget előírja, a keresetet a belső jogra bízza. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 42–43. pontja szerint a hatáskör és az eljárás a nemzeti jog feladata, a feltételek azonban nem lehetnek kedvezőtlenebbek a hasonló nemzeti igényeknél, és nem tehetik lehetetlenné vagy túlzottan nehézzé a kártérítést. A Bíróság e körben a 199/82 San Giorgio-ügyre utal a közösségi jog megsértésével beszedett adók visszafizetésének hasonló esetére. Az egyenértékűség és a tényleges érvényesülés így együtt határolja az eljárási autonómiát."
+        },
+        {
+          "text": "Ha az irányelv eredménye jogokat ruház rá, e jogok tartalma az irányelvből meghatározható, és okozati összefüggés van az átültetés elmaradása és a kára között, a közösségi jogból eredő kártérítéshez való joga keletkezhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Francovich-hármas a tipikus irányelv-mulasztási helyzet. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 39. és 41. pontja szerint e feltételek elegendőek, és a jognak közvetlen alapja a közösségi jog. A 80/987/EGK irányelv átültetésének elmaradása e minta forrása. A nemzeti bíróság a nemzeti felelősségi szabályok keretében biztosítja a védelmet."
+        },
+        {
+          "text": "A munkavállaló mindenképpen közvetlenül hivatkozhat az irányelv összes rendelkezésére az állammal szemben, mert a határidő elmulasztása automatikus közvetlen hatályt keletkeztet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen hatály a feltétlenségtől és a kellő pontosságtól függ. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet a 80/987/EGK irányelv munkavállalói rendelkezéseinek állammal szembeni közvetlen hivatkozhatóságát elutasította, és a kártérítést nyitotta meg. A helyes: a kárfelelősség a közvetlen hatály hiányát orvosolhatja. A tévedés a közvetlen hatály automatizmusát állítja a Becker-vizsgálat helyébe."
+        },
+        {
+          "text": "A magyar bíróság a kártérítést megtagadhatja azzal, hogy a közösségi jog nem tartalmaz kifejezett, a tagállamra szabott kárfelelősségi cikket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felelősség a Szerződés rendszerének szerves része kifejezett cikk nélkül is. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 35. pontja szerint „az az elv, mely szerint az állam felelős a közösségi jog neki betudható megsértésével a magánszemélyeknek okozott károkért, szerves része a Szerződés rendszerének”. A helyes: a kifejezett cikk hiánya nem zárja ki a felelősséget. A tévedés a 35. pontot félreérti."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "cd22cd084816"
+    },
+    {
+      "question": "A Francovich és Bonifaci ítélet 45–46. pontja milyen feladatot telepít a nemzeti bíróságokra?",
+      "options": [
+        {
+          "text": "A nemzeti bíróságnak adott válasz szerint az állam köteles megtéríteni a magánszemélyeket ért azon károkat, amelyek a 80/987/EGK irányelv átültetésének elmaradásából származnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a perbeli válasz zárt megtérítési kötelezettséget mond ki. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 46. pontja ezt rögzíti. A 44. pont a három feltételt a perbeli irányelvre vetítette: a kötelezettségszegés megállapított, a munkavállalói garancia eredménye és tartalma meghatározható. A nemzeti bíróság e kötelezettséget a belső felelősségi szabályok között érvényesíti."
+        },
+        {
+          "text": "Az egyes tagállamok bíróságainak feladata, hogy a nemzeti jog felelősségre vonatkozó szabályainak keretein belül biztosítsák a munkavállalók jogát az irányelv átültetésének elmaradása miatt őket ért károk megtérítésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogvédelem a nemzeti fórumon érvényesül. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 45. pontja e feladatot a nemzeti bíróságokra telepíti. A 41. pont szerint a kártérítéshez való jognak közvetlen alapja a közösségi jog. A nemzeti keret tehát az orvoslás módját, nem a jog létezését adja."
+        },
+        {
+          "text": "A nemzeti bíróság csak akkor járhat el, ha a Bíróság előzetesen külön kártérítési ítéletet hozott az egyéni kárról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Francovich-válasz a nemzeti bíróságra telepíti a jogvédelmet. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 45–46. pontja szerint a nemzeti fórum biztosítja a megtérítést a nemzeti felelősségi szabályok keretében. A helyes: a közösségi jog a kötelezettséget, a nemzeti bíróság az egyéni orvoslást adja. A tévedés az egyéni kárt a Bíróság közvetlen ítélkezési tárgyává emeli."
+        },
+        {
+          "text": "A 46. pont csak elvi jellegű; a nemzeti bíróság a megtérítést megtagadhatja, ha a belső jog nem ismer állami kárfelelősséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közösségi jogból eredő kötelezettség a nemzeti felelősségi kereten belül érvényesítendő, de nem üresíthető ki. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 43. pontja szerint a feltételek nem tehetik lehetetlenné vagy túlzottan nehézzé a kártérítést. A helyes: a 46. pont kötelező megtérítési választ ad. A tévedés a nemzeti hallgatást a közösségi kötelezettség kizárásává emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "7794263eb74c"
+    },
+    {
+      "question": "A Köbler-ügyben a német és holland kormány, valamint a Bizottság hogyan kívánta korlátozni a bírói jogsértésért fennálló felelősséget?",
+      "options": [
+        {
+          "text": "A Bizottság a kellően súlyos megsértést a hatáskörrel való nyilvánvaló visszaéléshez vagy a közösségi jog jelentésének és hatályának nyilvánvaló figyelmen kívül hagyásához kötötte, és a Verwaltungsgerichtshof állítólagos hibáját menthetőnek tartotta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság a C-424/97 Haim-ügy 43. pontjára is utalt a kellően súlyos jogsértés fogalmánál. A C-224/01 Köbler-ügyben a Bizottság a felelősséget elismerte, de korlátozottnak tartotta, és a Verwaltungsgerichtshof állítólagos hibáját menthetőnek ítélte. A Bíróság a 53. pontban a nyilvánvaló figyelmen kívül hagyás kivételes esetét rögzítette. A Bizottság álláspontja így a korlátozott, nem a kizárt felelősség mellett állt."
+        },
+        {
+          "text": "A német és holland kormány a felelősséget minden bírósági jogsértésre kiterjesztette, a jogerő védelme nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, e kormányok éppen korlátozni kívánták a felelősséget. A C-224/01 Köbler-ügyben a különösen súlyos és nyilvánvaló megsértést, illetve a szándékosságot hangsúlyozták. A helyes: a felelősséget a jogerő védelmére hivatkozva szűkítették. A tévedés a kormányok álláspontját a tág felelősséggel cseréli fel."
+        },
+        {
+          "text": "A Bizottság a felelősséget teljes egészében kizárta, mert az EK 288. cikk csak a Közösség intézményeire vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság a felelősséget elismerte, de korlátozottnak tartotta. A C-224/01 Köbler-ügyben a teljes kizárást az Osztrák Köztársaság, a francia kormány és az Egyesült Királyság Kormánya képviselte. A helyes: a Bizottság a nyilvánvaló visszaélés vagy a jelentés és hatály nyilvánvaló figyelmen kívül hagyása mellett állt. A tévedés a kizáró kormányok álláspontját a Bizottságnak tulajdonítja."
+        },
+        {
+          "text": "A német és holland kormány a kellően súlyos jogsértést csak akkor tartotta megállapíthatónak, ha a bírósági határozat az alkalmazandó közösségi jogot különösen súlyosan és nyilvánvalóan megsértette.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kormányok magas küszöböt javasoltak. A C-224/01 Köbler-ügyben e megszorítást a jogerő és a bírói függetlenség védelmével indokolták. A német kormány szerint a közösségi jog értelmezése vagy mellőzése egyrészt ténylegesen igazolhatatlan, másrészt szubjektív szempontok alapján szándékos kell legyen. A Bíróság a nyilvánvaló figyelmen kívül hagyás kivételes mércéjét fogadta el, nem a teljes kizárást."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "71a7075e2d88"
+    },
+    {
+      "question": "Miben tér el a Just-ügy szerinti visszatérítés a Francovich-féle kárfelelősségi keresettől a jogalap nélküli gazdagodás szempontjából?",
+      "options": [
+        {
+          "text": "Ugyanakkor összeegyeztethető a közösségi joggal, ha a nemzeti jog keretében figyelembe veszik az importőr forgalomkorlátozásból eredő kárát is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kárbizonyítás nem idegen a közösségi jogtól. A C-68/79 Just-ítélet szerint a hátrányosan megkülönböztető vagy protekcionista adójogi rendelkezések a behozatal volumenét korlátozhatják, és e kár érvényesíthető. A forgalomkorlátozásból eredő kár érvényesítése tehát a visszatérítés mellett áll. A két orvoslási elem — visszatérítés és kár — így együtt kezelhető."
+        },
+        {
+          "text": "A Just-ügy lehetővé teszi annak figyelembevételét, hogy a jogalap nélkül kivetett díjak terhét más kereskedőkre vagy a fogyasztókra áthárították, és nem kényszerít gazdagodással járó visszatérítésre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a visszatérítés nem abszolút. A C-68/79 Just-ítélet szerint a közösségi jog nem írja elő, hogy a visszatérítést a jogosultak jogalap nélküli gazdagodásával járó feltételek mellett kellene elrendelni. Az áthárítás tehát figyelembe vehető, ha a díjak terhét más kereskedőkre vagy fogyasztókra hárították. A C-6/90 és C-9/90 Francovich-féle kárfelelősség ezzel szemben a jogsértés káros következményeinek megtérítésére irányul."
+        },
+        {
+          "text": "A közösségi jog minden esetben teljes visszatérítést ír elő, és az áthárítás figyelembevételét tiltja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Just-ítélet éppen az áthárítás figyelembevételét engedi. A C-68/79 Just-ítélet szerint a közösségi jog nem kényszerít gazdagodással járó visszatérítésre. A helyes: a visszatérítés a belső jog szerint történik, az egyenértékűség és a tényleges érvényesülés mellett. A tévedés a visszatérítést abszolút kötelezettséggé emeli."
+        },
+        {
+          "text": "A Francovich-féle kárfelelősségnél is kötelező az áthárítás vizsgálata, mert a Just-ügy e szabályt minden közösségi kártérítésre kiterjeszti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Just-ügy a jogellenes díj visszatérítésére vonatkozik, nem a Francovich-féle kárfelelősségi keresetre. A C-68/79 Just-ítélet a visszatérítést a jogalap nélküli gazdagodás figyelembevételével szabályozza. A helyes: a két intézmény elválik. A tévedés az áthárítási vizsgálatot a kárfelelősség általános feltételévé emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "2ee2abe44b19"
+    },
+    {
+      "question": "A Rewe–Comet–Peterbroeck-váz hogyan jelenik meg a Köbler-ítéletben a nemzeti eljárási autonómia körül?",
+      "options": [
+        {
+          "text": "A Bíróságnak nem feladata az olyan hatásköri kérdések megoldásában való részvétel, amelyeket bizonyos jogi helyzetek közösségi jog alapján történő minősítése vethet fel a nemzeti igazságszolgáltatás rendszerében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatáskör nemzeti kérdés. A C-224/01 Köbler-ítélet 47. pontja a SEIM és a Dorsch Consult ügyekre utalva ezt rögzíti. A 50. pont szerint az egyes tagállami jogrendszerek jelölik ki a kártérítési jogviták fórumát. A közösségi jog a felelősség elvét, nem a fórumot írja elő."
+        },
+        {
+          "text": "A Rewe–Comet-váz csak az adóvisszatérítésre vonatkozik, a kárfelelősségi keresetekre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Köbler-ítélet e vázat a kárfelelősségi keresetekre is kiterjeszti. A C-224/01 Köbler-ítélet 46. pontja a Francovich 42. pontját is e láncba fűzi. A helyes: az eljárási autonómia és a két korlát a kártérítésre is érvényes. A tévedés a vázat az adóvisszatérítésre szűkíti."
+        },
+        {
+          "text": "A Köbler-ítélet 46. pontja a Rewe-ügy 5. pontjára, a 45/76 Comet-ügy 13. pontjára, a C-68/79 Just-ügy 25. pontjára, a Francovich 42. pontjára és a C-312/93 Peterbroeck-ügy 12. pontjára fűzi az eljárási autonómia vázát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti eljárás közösségi korlátai állandóak. A C-224/01 Köbler-ítélet 46. pontja a Rewe–Comet–Just–Francovich–Peterbroeck láncot idézi az eljárási autonómia vázaként. A lényeg: közösségi szabályok hiányában a belső jog adja az eljárást, de az egyenértékűség és a tényleges érvényesülés korlátozza. A 47. pont a hatáskör kijelölését a nemzeti igazságszolgáltatásra hagyja."
+        },
+        {
+          "text": "A Peterbroeck-ügy óta a Bíróság maga jelöli ki a hatáskörös nemzeti bíróságot minden Francovich-típusú perben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Peterbroeck-hivatkozás az eljárási autonómia korlátait erősíti, nem a fórum közösségi kijelölését. A C-224/01 Köbler-ítélet 47. pontja szerint a Bíróságnak nem feladata a nemzeti hatásköri kérdések megoldása. A helyes: a hatáskör a nemzeti jogé, miközben a C-312/93 Peterbroeck-ügy a tényleges érvényesülés korlátját illusztrálja. A tévedés a Peterbroeck-precedenst hatáskör-kijelölő döntéssé olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "b500b1118cdb"
+    },
+    {
+      "question": "Mely állítások tévesek a Brasserie du Pecheur és Factortame ítélet szerinti felelősségi feltételekről?",
+      "options": [
+        {
+          "text": "A nemzeti jog a kártérítéshez való jogot szabadon a szándékosság vagy gondatlanság bizonyításához kötheti, a közösségi feltételektől függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bundesgerichtshof vétkességi kérdése nem oldja fel a közösségi feltételeket. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet a felelősség fennállását és terjedelmét a Szerződés értelmezésének kérdéseként a Bíróság hatáskörébe utalja. A helyes: a feltételek a közösségi jogból következnek. A tévedés a nemzeti vétkességi küszöböt a közösségi elv fölé helyezi."
+        },
+        {
+          "text": "A feltételek mindig azonosak a Francovich-féle irányelv-átültetési hárommal, mert a jogsértés jellege irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a feltételek a jogsértés jellegétől függnek. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 38. pontja elválasztja a felelősség előírását a feltételektől; a C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 37–45. pontja a 215. cikk párhuzamára és a mérlegelési jogkörre támaszkodik. A helyes: az irányelv-mulasztás és a jogalkotói jogsértés feltételei nem mechanikusan azonosak. A tévedés a 38. pontot félreérti."
+        },
+        {
+          "text": "A magánszemély védelme változhat aszerint, hogy a károkozásért közösségi vagy nemzeti hatóság a felelős, mert a 215. cikk csak a Közösségre vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 42. pont szerint a védelme nem változhat. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 42. pontja a feltételek szimmetriáját mondja ki különleges indokok hiányában. A helyes: a magánszemély közösségi jogból származó jogának védelme egységes. A tévedés a 215. cikk személyi hatályát a szimmetria feloldásává emeli."
+        },
+        {
+          "text": "A jogalkotói feladatkör gyakorlásához kapcsolódó megszorító olvasat kizárólag a Közösség intézményeire vonatkozik, a tagállami parlamentre soha.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 215. cikk megszorító olvasata a tagállami jogalkotóra is vetül. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 43–45. pontja a mérlegelési mozgásteret és a gazdaságpolitikai normatív aktusokat említi. A helyes: a szimmetria a jogalkotói helyzetre is kiterjed. A tévedés a megszorítást kizárólag uniós intézményi felelősségre szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "6cc75aee4093"
+    },
+    {
+      "question": "A 864/2007/EK rendelet (Róma II) környezeti kárra és a Szerződés 174. cikkére vonatkozó megállapításai közül melyek helytállóak?",
+      "options": [
+        {
+          "text": "A szervezett fellépésnél a rendelet mindig a károsult szokásos tartózkodási helyének jogát rendeli, a fellépés helyétől függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kapcsoló a szervezett fellépés helyének joga. A 864/2007/EK rendelet (27) preambulumbekezdése és 9. cikke e szabályt adja. A helyes: a fellépés országának joga az irányadó. A tévedés a károsult lakóhelyének jogát általánosítja e különös kapcsolóra."
+        },
+        {
+          "text": "A Róma II a Francovich-feltételeket a környezeti kárra is kiterjeszti, és a tagállami uniós jogi kárfelelősséget a 174. cikk alapján kodifikálja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet kollíziós síkon áll, nem a Francovich-feltételeket kodifikálja. A 864/2007/EK rendelet a szerződésen kívüli kötelmi viszonyokra alkalmazandó jogot rendezi; a C-6/90 és C-9/90 Francovich-elv a közösségi jogsértés anyagi jogi orvoslása. A helyes: a 174. cikk a környezeti kár kollíziós indoklásához kapcsolódik. A tévedés a két síkot összemossa."
+        },
+        {
+          "text": "A környezeti kár fogalmát a természeti erőforrásokban, illetve azok funkciójában beálló kedvezőtlen változásként, valamint az élő szervezetek változatosságának csökkenéseként kell érteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet a környezeti kárt tartalmilag meghatározza. A 864/2007/EK rendelet e fogalmat a természeti erőforrásokra és az élő szervezetek változatosságára építi. A Szerződés 174. cikkének elővigyázatossági, megelőzési, forrásnál való elhárítási és „szennyező fizet” elve a károsult javára történő megkülönböztetés elvét indokolja. A jogválasztás időpontját az eljáró bíróság helye szerinti tagállam joga határozza meg."
+        },
+        {
+          "text": "A (27) preambulumbekezdés a szervezett fellépésre — sztrájk, munkabeszüntetés — annak az országnak a jogát rendeli, ahol a szervezett fellépésre sor került.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kollíziós kapcsoló a fellépés helyéhez köt. A 864/2007/EK rendelet (27) preambulumbekezdése e szabályt rögzíti. A 9. cikk szervezett fellépésre vonatkozó különös szabálya nem érinti a nemzeti jognak megfelelően végrehajtott szervezett fellépés feltételeit, sem a szakszervezetek jogállását. A Francovich-elv ettől a kollíziós síktól elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "d8d08eda66ab"
+    },
+    {
+      "question": "Egy importőr a közösségi jogba ütköző jövedéki adó különbözetét fizette meg, majd visszatérítést és forgalomkorlátozásból eredő kárt is követel. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A visszatérítés automatikus és teljes, az áthárítás vizsgálata tilos, mert a 95. cikk abszolút visszatérítési jogot ad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Just-ítélet az áthárítás figyelembevételét engedi. A C-68/79 Just-ítélet szerint a közösségi jog nem ír elő gazdagodással járó visszatérítést. A helyes: a visszatérítés a belső jog szerint, a két korlát között történik. A tévedés a visszatérítést abszolút kötelezettséggé emeli."
+        },
+        {
+          "text": "A visszatérítés a belső jog szerint történik, de a feltételek nem lehetnek kedvezőtlenebbek a hasonló nemzeti kereseteknél, és nem tehetik lehetetlenné a közösségi jogok gyakorlását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Just-ügy az eljárási autonómiát a két korláttal köti. A C-68/79 Just-ítélet szerint közösségi szabályok hiányában a tagállamok gondoskodnak a Szerződés 95. cikkének megsértésével kivetett díjak visszatérítéséről. Az egyenértékűség és a tényleges érvényesülés a Francovich 43. pontjával rokon. A visszatérítés tehát nem szabadon szigorítható."
+        },
+        {
+          "text": "A forgalomkorlátozásból eredő kár csak Francovich-féle kárfelelősségi keresetben érvényesíthető; a Just-ügy e kárt kizárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Just-ügy kifejezetten engedi a forgalomkorlátozásból eredő kár figyelembevételét. A C-68/79 Just-ítélet szerint e kár a nemzeti jog keretei között érvényesíthető. A helyes: a visszatérítés és a kár együtt kezelhető. A tévedés a kárt kizárólag a Francovich-keresetre szűkíti."
+        },
+        {
+          "text": "A közösségi jog lehetővé teszi az áthárítás és az importőr forgalomkorlátozásból eredő kárának figyelembevételét a nemzeti jog keretei között.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két orvoslási elem együtt kezelhető. A C-68/79 Just-ítélet szerint a közösségi jog nem kényszerít gazdagodással járó visszatérítésre, és engedi az áthárítás vizsgálatát. Ugyanakkor a behozatal volumenének korlátozásából eredő kár érvényesíthető. A forgalomkorlátozásból eredő kár érvényesítése nem idegen a közösségi jogtól."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "9f0c6c50d2b7"
+    },
+    {
+      "question": "Hogyan jelenik meg a Humblet-ügy a Francovich-féle lojalitás indokolásában?",
+      "options": [
+        {
+          "text": "A Humblet-ügy a kárfelelősséget kizárja, mert az ESZAK-Szerződés 86. cikke csak intézményközi kötelezettségeket ismert.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Francovich-ítélet a Humblet-ügyet éppen a lojalitás és a következmények megszüntetése mellett hívja. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 36. pontja e hivatkozással erősíti a megtérítési kötelezettséget. A helyes: a Humblet-párhuzam a lojalitás mellett áll. A tévedés az ügyet a felelősség kizárásaként olvassa."
+        },
+        {
+          "text": "A Just-ügy ugyanezen 5. cikket együttműködési elvként hívja: a tagállamok bíróságainak feladata a közvetlen hatályon alapuló jogvédelem biztosítása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Szerződés 5. cikke a bírói jogvédelemhez is kapcsolódik, nem csupán a végrehajtó szervek intézményközi kötelezettségeihez. A C-68/79 Just-ítélet e cikket az együttműködési elvként alkalmazza, amikor a bíróságokra telepíti a közvetlen hatályon alapuló jogvédelmet. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 36. pontja ugyanezen cikket a jogsértés következményeinek megszüntetéséhez köti. A lojalitás így a végrehajtást és a bírói védelmet egyaránt fogja."
+        },
+        {
+          "text": "A Szerződés 5. cikke csak a Bizottság és a tagállamok közötti viszonyra vonatkozik, a magánszemélyek kártérítési igényére nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság a Szerződés 5. cikkét a jogsértés jogellenes következményeinek megszüntetésére és a bírói jogvédelemre is kiterjeszti. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 36. pontja, valamint a C-68/79 Just-ítélet ezt mutatja. A helyes: a lojalitás a teljes érvényesülés szolgálatában áll. A tévedés e cikket tisztán intézményközi kötelezettséggé szűkíti, és elszakítja a magánjogi orvoslástól."
+        },
+        {
+          "text": "A Francovich és Bonifaci ítélet 36. pontja a Szerződés 5. cikkére támaszkodva a jogsértés jogellenes következményeinek megszüntetését is a tagállami kötelezettségek közé sorolja, és e körben a 6/60 Humblet-ügyre utal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lojalitás a következmények orvoslására is kiterjed. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 36. pontja az ESZAK-Szerződés 86. cikkének hasonló rendelkezésével kapcsolatban hívja a Humblet-ügyet. A tagállamok kötelesek minden általános vagy különös intézkedést megtenni a közösségi kötelezettségek végrehajtása érdekében. A kárfelelősség e lojalitási váz része."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "deb97dfab4e2"
+    },
+    {
+      "question": "A Factortame-ágban a High Court milyen eljárásban terjesztett elő kérdést, és mi volt a szerződéses súlypont?",
+      "options": [
+        {
+          "text": "A Factortame-ágban a kérdező bíróság a német Bundesgerichtshof volt, mert a sörtisztasági tilalom is a letelepedés szabadságát sértette.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a német ág a C-46/93 Brasserie du Pecheur ügy, a brit ág a C-48/93 Factortame. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet a két fórumot elválasztja. A helyes: a High Court a Factortame-ág kérdezője. A tévedés a fórumokat és a szabadságokat összekeveri."
+        },
+        {
+          "text": "A High Court of Justice, Queen’s Bench Division, Divisional Court a Factortame Ltd. és társai, valamint a Secretary of State for Transport közötti eljárásban terjesztett elő kérdést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-48/93. sz. ügy e brit fórum előzetes kérdéseiből indult. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame egyesített ügyek a két nemzeti perből álltak össze. A brit ág a letelepedés szabadságához kapcsolódott. A német ág ezzel párhuzamosan a Szerződés 30. cikkét érintette."
+        },
+        {
+          "text": "A Bíróság a 23. pontban e kört a Szerződés 52. cikkének — a letelepedés szabadságának — közvetlen hatályához köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Factortame-ág szerződéses súlypontja a Szerződés 52. cikke, vagyis a letelepedés szabadsága. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 23. pontja szerint e rendelkezés jogokat ruház a magánszemélyekre, amelyekre a nemzeti bíróságok előtt hivatkozhatnak. Megsértésük esetén helye lehet kártérítésnek. A kártérítéshez való jog e közvetlen hatályból következik."
+        },
+        {
+          "text": "A Szerződés 52. cikke csak a Bizottság kötelezettségszegési perében érvényesülhet, ezért a High Court kérdése eleve hatáskörön kívül esett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Szerződés 52. cikke közvetlen hatályú, nem csupán a Bizottság kötelezettségszegési perének tárgya. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 23. pontja szerint a magánszemélyek a nemzeti bíróságok előtt hivatkozhatnak rá. A helyes: a High Court előzetes kérdése a közvetlen hatályú rendelkezés megsértéséhez kapcsolódó kártérítést nyitja. A tévedés a letelepedés szabadságát csupán a Bizottság peres eszközévé szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "a3655702db35"
+    },
+    {
+      "question": "Mi a jogkövetkezménye annak, ha a nemzeti szabályok a közösségi jogi kártérítési igényt kedvezőtlenebb feltételekhez kötik, mint a hasonló nemzeti igényeket?",
+      "options": [
+        {
+          "text": "Az egyenértékűségi korlát sérül: a Francovich és Bonifaci ítélet 43. pontja szerint a tartalmi és formai követelmények nem lehetnek kedvezőtlenebbek a hasonló, nemzeti jogon alapuló igényeknél.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az eljárási autonómia nem enged diszkriminációt a közösségi jogi igény rovására. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 43. pontja e tilalmat rögzíti. A Bíróság a 199/82 San Giorgio-ügyre utal. A Just-ügy ugyanezt a díjak visszatérítésénél alkalmazza."
+        },
+        {
+          "text": "A kedvezőtlenebb nemzeti feltételek megengedettek, ha a jogbiztonság vagy a bírói függetlenség indokolja őket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyenértékűség tilalma a kedvezőtlenebb feltételeket nem engedi. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 43. pontja szerint a követelmények nem lehetnek kedvezőtlenebbek a hasonló nemzeti igényeknél. A helyes: a jogbiztonság nem oldja fel az egyenértékűséget. A tévedés a Köbler-féle jogerőérveket az eljárási autonómia korlátainak feloldásává emeli."
+        },
+        {
+          "text": "A közösségi jog ilyen esetben automatikusan a Bíróság előtti közvetlen kártérítési keresetet nyitja meg, a nemzeti bíróságok megkerülésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kereset útja a nemzeti bíróságoké marad. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 42. pontja a hatáskört a belső jogra bízza; a 43. pont a feltételeket korlátozza, de nem cseréli le a fórumot. A helyes: a nemzeti eljárás a két korlát között érvényesül. A tévedés a 215. cikk intézményi útját a tagállami felelősségre írja."
+        },
+        {
+          "text": "Emellett a tényleges érvényesülés korlátja is érvényesül: a feltételek nem tehetik gyakorlatilag lehetetlenné vagy túlzottan nehézzé a kártérítés elérését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két korlát együtt hat. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 43. pontja a lehetetlenné vagy túlzottan nehézzé tétel tilalmát is kimondja. A C-224/01 Köbler-ítélet 46. pontja a Rewe–Comet–Peterbroeck-lánccal ugyanezt a tilalmat a kárfelelősségi keresetekre is kiterjeszti. A nemzeti keret tehát nem ürítheti ki a közösségi jogvédelmet."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "cb12ceffcce9"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a „közvetlen hatály hiányában nincs orvoslás” olvasat a Francovich-logika szerint?",
+      "options": [
+        {
+          "text": "A kárfelelősség a közvetlen hatályt nem helyettesíti, hanem kiegészíti: ahol a közvetlen hatály megvan, a kártérítés annak szükségszerű következménye lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két eszköz együtt alkot védelmi láncot. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 22–23. pontja a közvetlen hatályú 30. és 52. cikk megsértésénél a kártérítést a közvetlen hatály következményeként kezeli. A Just-ügy a 95. cikk közvetlen hatályához a bíróságok 5. cikk szerinti jogvédelmi feladatát köti. A közvetlen hatály tehát nem zárja ki a kártérítést."
+        },
+        {
+          "text": "Ha a közvetlen hatály hiányzik, a magánszemély minden orvoslás nélkül marad, mert a közösségi jog csak a közvetlen hivatkozhatóságot ismeri.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Francovich-elv éppen e helyzetre ad kártérítést. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet a közvetlen hivatkozhatóság elutasítása mellett a megtérítési kötelezettséget mondta ki. A helyes: a kárfelelősség a közvetlen hatály hiányát orvosolja. A tévedés a közösségi jogvédelmet egyetlen eszközre szűkíti."
+        },
+        {
+          "text": "Akkor sem, ha az irányelv rendelkezései nem kellően pontosak és feltétlenek: a kártérítés éppen az átültetés hiányának káros következményeit szünteti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetlen hatály hiánya a kártérítés tipikus indoka. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 21. pontja a Francovich 33. pontjából olvassa ki e kettősséget. A C-6/90 és C-9/90 Francovich-ügyben az állammal szembeni közvetlen hivatkozás a 80/987/EGK irányelv munkavállalói rendelkezéseinél megbukott. A kárfelelősség e hiányt orvosolja."
+        },
+        {
+          "text": "A kártérítés csak akkor jár, ha a magánszemély előbb sikertelenül kísérletezett a közvetlen hatály érvényesítésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Francovich-feltételek nem kívánnak előzetes, sikertelen közvetlen hatályú kísérletet. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 39. és 41. pontja a három feltételt rendeli, amelyek elegendőek a közösségi jogból eredő kártérítési joghoz. A helyes: a közvetlen hatály hiánya a kártérítés indoka lehet, nem eljárásjogi előfeltétel-sor. A tévedés a két orvoslást kötelező sorrendbe állítja."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "db1ce93b9ead"
+    },
+    {
+      "question": "A 864/2007/EK rendelet (Róma II) (34) preambulumbekezdése szerint mire kell figyelemmel lenni a felek közötti ésszerű egyensúly érdekében?",
+      "options": [
+        {
+          "text": "Ha másik ország joga alkalmazandó, a cselekmény helyének biztonsági szabályai teljesen figyelmen kívül hagyandók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 864/2007/EK rendelet (34) preambulumbekezdése éppen a cselekmény helyének biztonsági és magatartási szabályaira utal. A 4. cikk szerinti jogkijelölés mellett is indokolt e figyelem, ha a kötelmi viszonyra másik ország joga alkalmazandó. A helyes: az ésszerű egyensúly a cselekmény helyét is figyelembe veszi. A tévedés a kollíziós kijelölést a magatartási szabályok teljes kizárásává emeli."
+        },
+        {
+          "text": "A rendelet a kárfelelősségi elvtől elválasztott kollíziós síkon rendezi a szerződésen kívüli kötelmi viszonyokra alkalmazandó jogot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Róma II nem a tagállami uniós jogi kárfelelősség anyagi feltételeit kodifikálja. A 864/2007/EK rendelet 4. cikk (2) és (3) bekezdése a különös kapcsolatot és a menekülési záradékot adja. A C-6/90 és C-9/90 Francovich-elv a közösségi jogsértés orvoslását adja, miközben a rendelet a szerződésen kívüli kötelmi viszonyok jogát rendezi. A két sík párhuzamosan él."
+        },
+        {
+          "text": "Figyelemmel kell lenni arra az országra, amelyben a kárt okozó cselekményt elkövették, valamint a biztonsági és magatartási szabályokra — ideértve a közúti biztonsági szabályokat —, még akkor is, ha a szerződésen kívüli kötelmi viszonyra másik ország joga alkalmazandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kollíziós kijelölés nem törli el a cselekmény helyének magatartási szabályait. A 864/2007/EK rendelet (34) preambulumbekezdése szerint a 4. cikk szerinti jogválasztás mellett is figyelemmel kell lenni a károkozó cselekmény országára és a biztonsági szabályokra. A (33) preambulumbekezdés a közúti baleset áldozatánál a tényleges veszteség és az orvosi költségek figyelembevételére utal. A C-6/90 és C-9/90 Francovich-elv ettől a kollíziós síktól elválik."
+        },
+        {
+          "text": "A (34) preambulumbekezdés a Francovich-feltételeket a közúti balesetekre is kiterjeszti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a preambulumbekezdés kollíziós és magatartási szabályokról szól, nem a tagállami uniós jogi kárfelelősségről. A 864/2007/EK rendelet a szerződésen kívüli kötelmi viszonyok jogát rendezi; a C-6/90 és C-9/90 Francovich-elv más sík. A helyes: a két intézmény elválik. A tévedés a kollíziós figyelmet Francovich-feltétellé olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "6d0d0c65387e"
+    },
+    {
+      "question": "Mely állítások tévesek a tagállami kárfelelősség betudhatóságáról a hatalmi ágak szerint?",
+      "options": [
+        {
+          "text": "A nemzetközi jogi egység-elv a közösségi jogban gyengébb, ezért a jogalkotó mulasztása csak politikai felelősséget keletkeztet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Brasserie-ítélet szerint a nemzetközi jogi egység-elv a közösségi jogban még inkább köti a jogalkotót. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 34. pontja ezt rögzíti. A helyes: minden állami szervnek tiszteletben kell tartania a magánszemélyeket közvetlenül szabályozó közösségi normákat. A tévedés az egység-elvet gyengébbként olvassa."
+        },
+        {
+          "text": "A magánszemély csak akkor perelhet, ha előbb megállapítást nyer, melyik hatalmi ág a felelős, mert a közösségi jog a szerv szerinti felelősséget követeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közösségi jog az államot egységként kezeli. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 34–36. pontja szerint a jogalkotónak való betudhatóság sem kérdőjelezi meg a nemzeti bíróság előtti érvényesíthetőséget. A helyes: a szerv azonosítása nem a kereshetőség előfeltétele. A tévedés a belső szervezeti kérdést közösségi perelőfeltétellé emeli."
+        },
+        {
+          "text": "A kármegtérítési kötelezettség a hatáskörök nemzeti megosztásától függ: ha a jogsértés a bíróságnak tudható be, a felelősség kizárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a belső hatáskörmegosztás nem feltétele és nem kizáró oka a felelősségnek. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 33. pontja szerint a kötelezettség nem függhet a hatalmi ágak közötti belső szabályoktól; a C-224/01 Köbler-ítélet a végső bíróságra is kiterjeszti az elvet. A helyes: a felelősség a szervtől független, a súlyossági küszöb viszont igazodhat. A tévedés a megosztást kizárássá emeli."
+        },
+        {
+          "text": "A felelősség csak a végrehajtó szerv mulasztására terjed ki; a parlament és a végső bíróság a nemzeti szuverenitás miatt mentes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elv a bármilyen megsértésre érvényes. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 32. és 36. pontja a jogalkotóra is kiterjeszti a felelősséget; a C-224/01 Köbler-ítélet 50. pontja a végső fórumra. A helyes: a közösségi jog az államot egységként kezeli a betudhatóságnál. A tévedés a hatalmi ágakat a közösségi jogvédelem alól kivonja."
+        }
+      ],
+      "sourceKerdesSorszam": 41,
+      "sourceHash": "2d52a09b974f"
+    },
+    {
+      "question": "A Becker-ügy hogyan jelenik meg a Francovich-féle közvetlen hatály vizsgálatában?",
+      "options": [
+        {
+          "text": "A Bíróság a 8/81 Becker-ügy 24. és 25. pontjára hivatkozva emlékeztet: a tagállam, amely határidőn belül nem hozza meg az irányelv végrehajtási intézkedéseit, a magánszemélyekkel szemben nem hivatkozhat saját mulasztására; feltétlen és kellően pontos rendelkezésekre a magánszemély az állammal szemben hivatkozhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Becker-mérce a közvetlen hatály kapuja. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet e hivatkozással indítja a 80/987/EGK irányelv vizsgálatát. A vizsgálatnak a kedvezményezettekre, a garancia tartalmára és a garancia kötelezettjére kellett kiterjednie. A perbeli irányelvnél a közvetlen hivatkozhatóság végül elutasítást nyert."
+        },
+        {
+          "text": "A Becker-ügy szerint minden irányelv-határidő elmulasztása automatikusan közvetlen hatályt keletkeztet, ezért a Francovich-féle kártérítés felesleges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Becker-mérce a feltétlenséget és a kellő pontosságot követeli, nem automatikus hatályt. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet a 80/987/EGK irányelv munkavállalói rendelkezéseit e mércén elutasította. A helyes: a közvetlen hatály hiánya a kártérítést indokolhatja. A tévedés a határidő-mulasztást önmagában közvetlen hatálynak tekinti."
+        },
+        {
+          "text": "A Francovich-ügyben a Becker-hivatkozás csak a Bizottság kötelezettségszegési perére vonatkozott, a magánszemélyekre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Becker-hivatkozás éppen a magánszemélyek állammal szembeni hivatkozhatóságát vizsgálja. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet a Pretura kérdéseire válaszolva alkalmazza. A helyes: a közvetlen hatály a magánjogi orvoslás egyik ága. A tévedés a Becker-mércét intézményközi eszközzé szűkíti."
+        },
+        {
+          "text": "Ugyanazon válasz második pontja a közvetlen hatály elutasítása mellett a kártérítést nyitja: az állam köteles megtéríteni az átültetés elmaradásából származó károkat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Becker-vizsgálat negatív eredménye nem zárja le az orvoslást. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet a közvetlen hatály hiányát a kárfelelősséggel pótolja. A Brasserie du Pecheur és Factortame ítélet 21. pontja e kettősséget rendszerbe foglalja. A közvetlen hatály és a kártérítés így kiegészítik egymást."
+        }
+      ],
+      "sourceKerdesSorszam": 42,
+      "sourceHash": "d9c16247b745"
+    },
+    {
+      "question": "Egy egyetemi tanár a más tagállami szolgálati idejét is beszámíttatná az osztrák különleges pótlékhoz, a végső közigazgatási bíróság azonban hűségjutalomnak minősítve elutasítja. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A kártérítési kereset csak a Bíróság előtt indítható, mert a végső nemzeti fórum döntését nemzeti bíróság nem vizsgálhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kártérítési fórum kijelölése továbbra is a nemzeti jog feladata. A C-224/01 Köbler-ítélet 47. és 50. pontja szerint a Bíróságnak nem feladata a nemzeti hatásköri kérdések megoldása; az egyes tagállami jogrendszerek jelölik ki a fórumot. A helyes: a felelősségi per nemzeti bíróság előtt folyik. A tévedés a felelősséget a Bíróság közvetlen ítélkezési tárgyává emeli."
+        },
+        {
+          "text": "A felelősséghez a megsértett szabály magánszemélyi jogot állapító jellege, a kellően súlyos — végső fórumon: nyilvánvaló figyelmen kívül hagyáson alapuló — jogsértés és a közvetlen okozatiság szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három feltétel a Haim-vázra épül, a második megszorítva. A C-224/01 Köbler-ítélet 51–53. pontja a magánszemélyi jogot, a kellően súlyos — nyilvánvaló figyelmen kívül hagyáson alapuló — jogsértést és a közvetlen okozatiságot köti össze. A 55. pont a mérlegeléshez az egyértelműséget, a szándékosságot, a menthetőséget, az intézményi állásfoglalást és az utalási kötelezettséget rendeli. A Verwaltungsgerichtshof kérelem-visszavonása e tényezők közé tartozhat."
+        },
+        {
+          "text": "A hűségjutalom-minősítés önmagában kizárja a felelősséget, mert a nemzeti bíróság jogértelmezése abszolút.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti jogértelmezés nem mentesít automatikusan. A C-224/01 Köbler-ítélet 53. pontja szerint a felelősség akkor állapítható meg, ha a bíróság az alkalmazandó jogot nyilvánvaló módon hagyta figyelmen kívül. A helyes: a hűségjutalom-címke a mérlegelés tárgya lehet, nem abszolút mentesülés. A tévedés a nemzeti minősítést a közösségi felelősség kizárásává emeli."
+        },
+        {
+          "text": "A tagállami kárfelelősség elve akkor is alkalmazandó, ha a jogsértés a végső fokon ítélkező bíróság határozatából ered.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Köbler-ügy e helyzetre mondta ki az elvet. A C-224/01 Köbler-ítélet 50. pontja szerint a felelősség a végső fórumra is kiterjed. A 48. pont szerint a jogerő és a bírói függetlenség nem zárja ki teljes egészében a felelősséget. A hatáskörös bíróságot a nemzeti jog jelöli ki."
+        }
+      ],
+      "sourceKerdesSorszam": 43,
+      "sourceHash": "f039d32b7238"
+    },
+    {
+      "question": "A 22/87 Bizottság kontra Olaszország ítélet milyen szerepet játszott a Francovich-ügyben?",
+      "options": [
+        {
+          "text": "A Francovich-ítélet 44. pontja e megállapított kötelezettségszegésre támaszkodva vetíti a három feltételt a perbeli irányelvre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelezettségszegési ítélet a jogsértés elemét adja. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 44. pontja szerint a Bíróság ítéletben állapította meg a határidőn belüli átültetés elmulasztását; az irányelv eredménye a munkavállalói díjazási garancia, amely tartalmilag meghatározható. A 39. pont három feltétele így a perre illeszkedett."
+        },
+        {
+          "text": "A Bíróság ebben az ítéletben már megállapította, hogy az Olasz Köztársaság megsértette a közösségi jogot azzal, hogy nem ültette át határidőn belül a 80/987/EGK irányelvet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelezettségszegési megállapítás a Francovich-tényállás előzménye. A C-6/90 és C-9/90 Francovich és Bonifaci ügyben a 22/87 Bizottság kontra Olaszország 1989. évi február 2-i ítélete e jogsértést rögzítette. A 11. cikk szerinti átültetési határidő 1983. évi október 23-áig szólt. A felperesek ezt követően kértek állami orvoslást."
+        },
+        {
+          "text": "A 22/87 ítélet hiányában a magánszemélyek kártérítési joga egyáltalán nem keletkezhetett volna, mert a kötelezettségszegési per fogalmi előfeltétel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Francovich-feltételek nem teszik a Bizottság pernyertességét fogalmi előfeltétellé. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 39. és 41. pontja a három feltételt rendeli; a 22/87 ítélet a perbeli tényállásban a jogsértést igazolta. A helyes: a kötelezettségszegési megállapítás bizonyító erővel bírhat, de nem általános előfeltétel. A tévedés a Bizottság perét magánjogi kapuvá emeli."
+        },
+        {
+          "text": "A 22/87 ítélet egyben a magánszemélyek egyéni kárát is megállapította, ezért a nemzeti bíróságnak már csak a végrehajtás maradt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezettségszegési ítélet a tagállam jogsértését állapítja meg, nem az egyéni kárt. A C-6/90 és C-9/90 Francovich és Bonifaci ítélet 45. pontja a nemzeti bíróságra telepíti a károrvoslást a nemzeti felelősségi szabályok keretében. A helyes: az okozatiság és a kár a nemzeti eljárásban dől el. A tévedés a 22/87 ítéletet egyéni kártérítési ítéletként olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 44,
+      "sourceHash": "1ba67bdf6432"
+    },
+    {
+      "question": "A Brasserie du Pecheur ügyben a német kormány milyen intézményi kifogást emelt a magánszemélyek általános kártérítési jogával szemben, és hogyan válaszolt a Bíróság?",
+      "options": [
+        {
+          "text": "A német kormány azt állította, hogy a magánszemélyek általános kártérítési jogát csak jogalkotás útján lehet megállapítani, és a bírói elismerés összeegyeztethetetlen lenne a hatáskörmegosztással és az intézményi egyensúllyal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kormány a bírói út helyett törvényhozást követelt. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 25–31. pontja e kifogást elutasította. A kérdés a Szerződés értelmezése, a 177. cikk szerinti előzetes eljárás tárgya, a 164. cikk szerinti jogőrködés és a 215. cikkben tükrözött általános elv körébe tartozik. A Francovich 35. pontját megerősítve a Bíróság ismételten kimondta: az állam felelőssége a Szerződés rendszerének szerves része."
+        },
+        {
+          "text": "A Bíróság elfogadta a német kifogást, és a kártérítési jogot csak a közösségi jogalkotó külön aktusára bízta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság a 25–31. pontban elutasította a kifogást. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet a felelősséget a Szerződés rendszerének részeként erősítette meg. A helyes: a bírói út a Szerződés értelmezéséből következik. A tévedés a német kormány álláspontját a Bíróság válaszaként tünteti fel."
+        },
+        {
+          "text": "A hatáskörmegosztás miatt a kártérítési jog csak a végrehajtó szerv mulasztására terjedhet ki, a jogalkotóra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 32–36. pont éppen a jogalkotóra is kiterjeszti az elvet. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet szerint a felelősség a hatalmi ágaktól független. A helyes: a nemzeti jogalkotónak betudható jogsértés is orvoslandó. A tévedés a hatáskörmegosztási kifogást a jogalkotói mentesülésbe fordítja."
+        },
+        {
+          "text": "A Bíróság a kifogást elutasítva rögzítette: a felelősség fennállása és terjedelme a Szerződés értelmezését érinti, ezért a Bíróság hatáskörébe tartozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a német intézményi kifogás elutasításának magja a hatásköri válasz. A C-46/93 és C-48/93 Brasserie du Pecheur és Factortame ítélet 25. pontja szerint a felelősség fennállása és terjedelme a Szerződés értelmezését érinti. A 27. pont szerint a Szerződés nem tartalmaz a tagállami jogsértés következményeit kifejezetten szabályozó rendelkezéseket, ezért a Bíróság a 164. cikk szerinti feladatát ellátva dönt. A 215. cikk párhuzama a feltételek kialakítását segíti, nem a nemzeti törvényhozás előfeltételét."
+        }
+      ],
+      "sourceKerdesSorszam": 45,
+      "sourceHash": "7419dbef5d8e"
+    },
+    {
+      "question": "Összefoglalóan: mely négy döntés adja együtt a tagállami kárfelelősség általános alapelveit?",
+      "options": [
+        {
+          "text": "Elegendő önmagában a Francovich-ítélet; a Brasserie, a Köbler és a Just csak történeti előzmények, a hatályos elvhez nem tartoznak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a négy döntés együtt adja az általános alapelveket. A C-46/93 és C-48/93 Brasserie a jogalkotóra, a C-224/01 Köbler a végső fórumra, a C-68/79 Just a visszatérítésre terjeszti a vázat. A helyes: az elv létezése, a betudhatóság, a feltételek és a visszatérítés–kár viszonya e négyesből áll. A tévedés a későbbi döntéseket történeti mellékúttá minősíti."
+        },
+        {
+          "text": "A kárfelelősség, a közvetlen hatály és a jogellenes díj visszatérítése együtt szolgálja, hogy ahol a norma a magánszemélynek jogot ad, ott a tagállam — jogalkotója, végrehajtója vagy végső bírósága útján — a jogsértés jogellenes következményeit orvosolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a záró összegzés e védelmi láncot emeli ki. A C-6/90 és C-9/90 Francovich a közvetlen hatály hiányát kártérítéssel pótolja; a C-46/93 és C-48/93 Brasserie a közvetlen hatályú 30. és 52. cikk megsértésénél a kártérítést a közvetlen hatály következményeként kezeli; a C-68/79 Just a 95. cikkbe ütköző adó visszatérítését az áthárítás figyelembevételével rendezi. A C-224/01 Köbler a végső bírói fórumot is a láncba vonja."
+        },
+        {
+          "text": "A C-6/90 és C-9/90 Francovich és Bonifaci, a C-46/93 és C-48/93 Brasserie du Pecheur és Factortame, a C-224/01 Köbler, valamint a C-68/79 Just döntések együtt adják az elv létezését, a betudhatóságot, a felelősség feltételeit — ideértve a végső bírói fórumot —, valamint a visszatérítés és a kár viszonyát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a négy döntés egy védelmi láncot alkot. A C-6/90 és C-9/90 Francovich az elvet és az irányelv-mulasztás feltételeit mondja ki. A C-46/93 és C-48/93 Brasserie a jogalkotóra és a 215. cikk párhuzamára terjeszti. A C-224/01 Köbler a végső fórumot, a C-68/79 Just a jogellenes díj visszatérítését rendezi."
+        },
+        {
+          "text": "A Just-ügy a Francovich-elvet felváltotta, ezért a kárfelelősség helyett ma már csak a díjak visszatérítése él.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Just-ügy a kárfelelősséghez képest előbbi, de ugyanazon vázban álló visszatérítési eszköz. A C-68/79 Just-ítélet a jogellenes díj visszatérítését rendezi; a C-6/90 és C-9/90 Francovich-féle kárfelelősség továbbra is a jogsértés káros következményeit orvosolja. A helyes: a két intézmény kiegészíti egymást. A tévedés a visszatérítést a kárfelelősség helyébe állítja, és a két eszközt kizáróvá teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 46,
+      "sourceHash": "fe692651cafa"
+    }
+  ]
+}

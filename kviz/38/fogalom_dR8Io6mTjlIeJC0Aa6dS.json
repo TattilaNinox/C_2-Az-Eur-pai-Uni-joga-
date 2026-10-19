@@ -1,0 +1,765 @@
+{
+  "id": "dR8Io6mTjlIeJC0Aa6dS",
+  "sorszam": 38,
+  "cim": "A tőke szabad mozgása",
+  "generationType": "fogalom",
+  "title": "38. A tőke szabad mozgása",
+  "questions": [
+    {
+      "question": "Miben tér el a tőkemozgás a fizetési művelettől a Luisi és Carbone egyesített ügyek szerint?",
+      "options": [
+        {
+          "text": "A fizetési művelet a mögöttes áru- vagy szolgáltatási ügylet ellenértékét teljesítő átutalás, míg a tőkemozgás a tőke elhelyezésére vagy befektetésére irányuló pénzügyi művelet, nem a szolgáltatás díjazása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szerződési tényállás párhuzamos, de nem felcserélhető. A C-286/82 és C-26/83. sz. Luisi és Carbone egyesített ügyekben a Bíróság a szerződés 67. és 106. cikkének összevetéséből olvasta ki a megkülönböztetést. A fizetési művelet a mögöttes áru- vagy szolgáltatási ügylet ellenértékét teljesíti. A tőkemozgás a tőke elhelyezésére vagy befektetésére irányul, nem a szolgáltatás díjazása."
+        },
+        {
+          "text": "A bankjegyek fizikai átadása minden esetben tőkemozgás, mert a tőkeirányelvek D. jegyzéke így sorolja be.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a D. jegyzék említése nem teszi automatikusan tőkemozgássá az átadást. A helyes: a C-286/82 és C-26/83 Luisi és Carbone ügy szerint a bankjegyek fizikai átadása nem tőkemozgás, ha áru- vagy szolgáltatási ügyletből eredő fizetési kötelezettséget teljesít. Az EUMSZ 63. cikk (2) bekezdése a fizetési műveletet külön védi; a turisztikai fizetés e vonalon ide igazodik. A tévedés a tőkeirányelvek D. jegyzékének említését minden körülményre kiterjeszti."
+        },
+        {
+          "text": "A tőkemozgás és a fizetési művelet ugyanaz a szerződési tényállás, mert mindkettő pénzügyi átutalást jelent a tagállamok között.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két tényállás nem azonos. A helyes: a C-286/82 és C-26/83 Luisi és Carbone ügyek szerint a fizetési művelet a mögöttes áru- vagy szolgáltatási ügylet ellenértéke, a tőkemozgás pedig a tőke elhelyezése vagy befektetése. Az EUMSZ 63. cikk (1) bekezdése a tőkemozgást, a (2) bekezdés a fizetési műveletet fedi, párhuzamosan, de nem felcserélhetően. A tévedés a pénzügyi átutalás közös formájából vonja össze a két szerződési tényállást."
+        },
+        {
+          "text": "A bankjegyek fizikai átadása önmagában nem tőkemozgás, ha az áru- vagy szolgáltatási ügyletből eredő fizetési kötelezettséget teljesít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fizikai átadás a mögöttes ügylet jellegéhez igazodik. A C-286/82 és C-26/83. sz. Luisi és Carbone egyesített ügyek szerint a bankjegyek fizikai átadása nem minősíthető tőkemozgásnak, ha a kérdéses átadás áru- vagy szolgáltatási ügyletből eredő fizetési kötelezettségnek felel meg. A turisztikai és üzleti utazás fizetései e vonalon a fizetési művelethez, nem a tőkemozgáshoz igazodnak. Az EUMSZ 63. cikk (1) és (2) bekezdése e fogalmi elhatárolást a tőkemozgás és a fizetési művelet párhuzamos tilalmával rögzíti."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "40d919624090"
+    },
+    {
+      "question": "Mit tilt az EUMSZ 63. cikk a tőke- és fizetési műveletek körében?",
+      "options": [
+        {
+          "text": "A „minden korlátozás” fordulat nem csupán az állampolgársági diszkriminációt tiltja, hanem a határokon átnyúló tőke- és fizetési műveletet terhelő bármely akadályt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom tágabb a diszkriminációtilalomnál. Az EUMSZ 63. cikk a Maastricht utáni rend: nem a korábbi, irányelvekre bízott fokozatos liberalizáció maradéka, hanem elsődleges jogi tilalom. A „minden korlátozás” a határokon átnyúló tőke- és fizetési műveletet terhelő bármely akadályt fogja. A tilalom alanyi köre szélesebb, mint az áruké vagy a munkavállalóké, mert a harmadik országos viszony már a főszabályban szerepel."
+        },
+        {
+          "text": "A 63. cikk csak az állampolgársági diszkriminációt tiltja, a határokon átnyúló tőkeművelet egyéb akadályait nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom nem áll meg a diszkriminációnál. A helyes: az EUMSZ 63. cikk „minden korlátozás” fordulata a határokon átnyúló tőke- és fizetési műveletet terhelő bármely akadályt tiltja, nem csupán az állampolgársági diszkriminációt; a 64–66. cikk a fejezet saját záradéka. A tévedés a tilalmat a nemzeti elbánás szűk olvasatára cseréli."
+        },
+        {
+          "text": "A 63. cikk csak a tagállamok közötti tőkemozgást tiltja; a harmadik országokkal szembeni korlátozás a szerződési főszabályon kívül esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a harmadik országos viszony a főszabály része. A helyes: az EUMSZ 63. cikk (1) és (2) bekezdése a tagállamok, valamint a tagállamok és harmadik országok közötti tőkemozgás és fizetési művelet minden korlátozását tiltja; a C-503/99. sz. ügy 36. pontja ezt kettős tilalomként olvassa. A tévedés a harmadik országos sávot a 64. cikk záradékára szűkíti, holott a tilalom már a 63. cikkben áll."
+        },
+        {
+          "text": "A 63. cikk (1) bekezdése szerint e fejezet rendelkezéseinek keretei között tilos a tagállamok, valamint a tagállamok és harmadik országok közötti tőkemozgásra vonatkozó minden korlátozás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a belső és a külső tőkemozgásra egyaránt kiterjed. Az EUMSZ 63. cikk (1) bekezdése szerint „tilos a tagállamok, valamint a tagállamok és harmadik országok közötti tőkemozgásra vonatkozó minden korlátozás”. A C-503/99. sz. ügy 36. pontja a korábbi 73B cikk (1) bekezdését — a mai 63. cikket — éppen e kettős tilalomként olvassa. A harmadik ország viszonylata eleve a szerződési főszabályba van írva."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "3388e0df7d19"
+    },
+    {
+      "question": "Hogyan viszonyul egymáshoz az EUMSZ 63. cikk (1) és (2) bekezdése?",
+      "options": [
+        {
+          "text": "Az (1) bekezdés a tőkemozgást, a (2) bekezdés a fizetési műveletet fedi; a kettő párhuzamos, de nem felcserélhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két bekezdés nem ismétlés. Az EUMSZ 63. cikk (1) bekezdése a tőke elhelyezését és befektetését, a (2) bekezdés a mögöttes ügylethez kapcsolódó fizetést védi. Mindkettő a tagállamok, valamint a tagállamok és harmadik országok közötti viszonyra vonatkozik. A Luisi és Carbone ügy szerinti fogalmi elhatárolás ehhez a szerződési szerkezethez igazodik."
+        },
+        {
+          "text": "A (2) bekezdés csupán az (1) bekezdés ismétlése, ezért a fizetési műveletre külön tilalmi mag nincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két bekezdés nem ismétlés. A helyes: az EUMSZ 63. cikk (1) bekezdése a tőkemozgást, a (2) bekezdés a fizetési műveletet fedi. Az (1) bekezdés a tőke elhelyezését és befektetését, a (2) a mögöttes ügylethez kapcsolódó fizetést védi. A tévedés a párhuzamos szerkezetet egyetlen tilalmi maggá olvasztja."
+        },
+        {
+          "text": "A 63. cikk (2) bekezdése szerint e fejezet rendelkezéseinek keretei között tilos a tagállamok, valamint a tagállamok és harmadik országok közötti fizetési műveletekre vonatkozó minden korlátozás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fizetési tilalom önálló bekezdésben áll. Az EUMSZ 63. cikk (2) bekezdése szerint „tilos a tagállamok, valamint a tagállamok és harmadik országok közötti fizetési műveletekre vonatkozó minden korlátozás”. A (2) bekezdés a mögöttes ügylethez kapcsolódó fizetést védi, szemben az (1) bekezdés tőkeelhelyezési-befektetési védelmével. A tőkemozgástól elválasztott tilalom a fejezet keretei között érvényesül."
+        },
+        {
+          "text": "A fizetési művelet tilalma csak a tagállamok között áll fenn; harmadik országok felé kizárólag a tőkemozgás (1) bekezdése érvényesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fizetési tilalom is kiterjed a harmadik országos viszonyra. A helyes: az EUMSZ 63. cikk (2) bekezdése a tagállamok, valamint a tagállamok és harmadik országok közötti fizetési műveletekre vonatkozó minden korlátozást tiltja; a C-503/99. sz. ügy 36. pontja a kettős, belső és külső tilalmat a tőkemozgás oldalán is megerősíti. A tévedés a (2) bekezdés alanyi körét indokolatlanul szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "6f21d87671bf"
+    },
+    {
+      "question": "Mely műveletek minősülnek tőkemozgásnak a C-503/99. sz. Bizottság kontra Belgium ügy és a 88/361/EGK irányelv nómenklatúrája szerint?",
+      "options": [
+        {
+          "text": "Csak a közvetlen befektetés tőkemozgás; a tőkepiaci értékpapírszerzés és a pénzügyi kölcsön a szolgáltatásnyújtás szabadságának kizárólagos hatálya alá tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nómenklatúra szélesebb kört fed. A helyes: a C-503/99. sz. ügy szerint a közvetlen befektetés és a tőkepiaci értékpapírszerzés egyaránt tőkemozgás. A C-484/93 Svensson-ügy a rövid, közép- és hosszú lejáratú pénzügyi kölcsönöket a 88/361/EGK irányelv liberalizált ügyletei közé sorolja; a banki hitel emellett szolgáltatás is lehet. A tévedés a tőkepiaci és hitelműveleteket kizárja a tőkemozgásból."
+        },
+        {
+          "text": "A fizetőeszközök fizikai kivitele az áru szabad mozgásának (akkor a szerződés 30. cikkének) hatálya alá esik, nem a tőke- és fizetésfejezeté alá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fizikai kivitel nem az áruszabadság alá esik. A helyes: a C-358/93 és C-416/93. sz. Bordessa és társai egyesített ügyekben a fizetőeszközök fizikai kivitele a tőke- és fizetésfejezet ténye. A Thompson-ügy 25. pontja kizárja, hogy a fizetési eszközök a szerződés 30–37. cikke szerinti árunak minősüljenek. A tévedés a kézzelfogható bankjegyből árucikket csinál."
+        },
+        {
+          "text": "A C-484/93. sz. Svensson és Gustavsson ügy a rövid, közép- és hosszú lejáratú pénzügyi kölcsönöket és hiteleket ugyanezen nómenklatúra liberalizált ügyletei közé sorolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a banki kölcsön a tőkemozgás liberalizált ténye. A C-484/93. sz. Svensson és Gustavsson ügy a 88/361/EGK irányelv I. mellékletének VIII. címe alapján a rövid, közép- és hosszú lejáratú pénzügyi kölcsönöket és hiteleket liberalizált ügyletek közé sorolja. Az ilyen ügyletekkel kapcsolatos tőkemozgások a tényállás idején már liberalizálva voltak. Az EUMSZ 63. cikk (1) bekezdése e liberalizációt elsődleges jogi tilalomként rögzíti."
+        },
+        {
+          "text": "A vállalkozás részvényével való rendelkezés formájában megvalósuló közvetlen befektetés — a vállalat irányításában vagy ellenőrzésében való tényleges részvétel lehetőségével — és a tőkepiacon történő értékpapírszerzés tőkemozgás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nómenklatúra a fogalom jelzésértéke. A C-503/99. sz. ügy 37. és 38. pontja a 88/361/EGK irányelv I. mellékletének nómenklatúráját a tőkemozgás fogalmának jelzésértékeként kezeli. A közvetlen befektetést a vállalat irányításában, illetve ellenőrzésében való tényleges részvétel lehetősége jellemzi. A tőkepiaci értékpapírszerzés ugyanezen fogalmi körbe tartozik."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "d312b07cb1dd"
+    },
+    {
+      "question": "Mit hagy meg az EUMSZ 64. cikk (1) bekezdése a harmadik országos tőkemozgás korlátozásainak körében?",
+      "options": [
+        {
+          "text": "A 63. cikk rendelkezései nem érintik azoknak a nemzeti vagy uniós jogszabályok alapján 1993 december 31-én hatályban lévő korlátozásoknak a harmadik országokra történő alkalmazását, amelyek közvetlen befektetéssel — az ingatlanbefektetést is beleértve —, letelepedéssel, pénzügyi szolgáltatások nyújtásával vagy értékpapírok tőkepiaci bevezetésével összefüggnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a záradék időbeli és tárgyi fennmaradást ad. Az EUMSZ 64. cikk (1) bekezdése szerint a 63. cikk rendelkezései „nem érintik” azoknak a 1993 december 31-én hatályban lévő korlátozásoknak a harmadik országokra történő alkalmazását, amelyek közvetlen befektetéssel — az ingatlanbefektetést is beleértve —, letelepedéssel, pénzügyi szolgáltatások nyújtásával vagy értékpapírok tőkepiaci bevezetésével függnek össze. A záradék a tagállamok közötti tőkemozgást nem menti, csak a harmadik országos viszonyt. A 64. cikk a külső tőkemozgás fennmaradási záradéka, nem általános közérdekű kimentés."
+        },
+        {
+          "text": "Bulgária, Észtország és Magyarország vonatkozásában a fennmaradási időpont 1999 december 31.; Horvátországé 2002 december 31.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a csatlakozó államokra eltérő fordulónapok vonatkoznak. Az EUMSZ 64. cikk (1) bekezdése szerint a Bulgária, Észtország, illetve Magyarország nemzeti jogszabályai alapján hatályban lévő korlátozások vonatkozásában az időpont 1999 december 31. A Horvátország nemzeti jogszabályai alapján hatályban lévő korlátozások vonatkozásában az időpont 2002 december 31. A főszabály szerinti 1993 december 31. tehát nem egyetemes minden tagállamra."
+        },
+        {
+          "text": "A 64. cikk (1) bekezdése a tagállamok közötti tőkemozgás 1993. december 31. előtt hatályban lévő korlátozásait is fenntartja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a záradék csak a harmadik országos viszonyt menti. A helyes: az EUMSZ 64. cikk (1) bekezdése a harmadik országokra történő továbbalkalmazást hagyja meg, és a tagállamok közötti tőkemozgást nem menti. A belső tilalom az EUMSZ 63. cikk (1) bekezdése szerint a tagállamok közötti tőkemozgás minden korlátozására kiterjed. A tévedés a fennmaradási záradékot a belső piacra is kiterjeszti."
+        },
+        {
+          "text": "A 64. cikk általános közérdekű kimentés, amely bármely tőkekorlátozást igazolhat a belső piacon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fennmaradási záradék nem általános közérdekű kimentés. A helyes: az EUMSZ 64. cikk a külső tőkemozgás időbeli fennmaradási záradéka és intézményi programja; a tagállami fenntartások katalógusa a 65. cikk (1) bekezdésének a) és b) pontja. A belső tilalom az EUMSZ 63. cikk (1)–(2) bekezdése alatt a tőkemozgást és a fizetési műveletet egyaránt védi. A tévedés a fennmaradási záradékot nyitott kimentéssé olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "bdf13b7f43af"
+    },
+    {
+      "question": "Miben tér el az EUMSZ 64. cikk (2) és (3) bekezdése a harmadik országos liberalizáció eljárásában?",
+      "options": [
+        {
+          "text": "A (3) bekezdés szerinti visszalépéshez a Parlament egyetértése szükséges, a Tanács pedig minősített többséggel dönt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Parlament nem egyetértési helyzetben van. A helyes: az EUMSZ 64. cikk (3) bekezdése a Parlamenttel folytatott konzultációt követően a Tanács egyhangú döntését írja elő; a (2) bekezdés szerinti továbbvitel a rendes jogalkotási eljárás. A tévedés a konzultációt egyetértésre, az egyhangúságot minősített többségre cseréli."
+        },
+        {
+          "text": "A (3) bekezdés a liberalizációban való visszalépést különleges jogalkotási eljárásra és a Tanács egyhangúságára zárja, az Európai Parlamenttel folytatott konzultációt követően.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a visszalépés szigorúbb eljárást kíván. Az EUMSZ 64. cikk (3) bekezdése szerint a (2) bekezdéstől eltérve, az Európai Parlamenttel folytatott konzultációt követően, különleges jogalkotási eljárás keretében, egyhangúlag eljárva kizárólag a Tanács fogadhat el visszalépést jelentő intézkedéseket. A Parlament itt csak konzultációs helyzetben van. A továbbvitel és a visszalépés intézményi aszimmetriája a külső tőkemozgás védelmét szolgálja."
+        },
+        {
+          "text": "A (2) bekezdés szerint az Európai Parlament és a Tanács a rendes jogalkotási eljárás keretében intézkedéseket hoz a lehető legnagyobb mértékű szabad tőkemozgás érdekében, a Szerződések egyéb fejezeteinek sérelme nélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a továbbvitel rendes jogalkotási pálya. Az EUMSZ 64. cikk (2) bekezdése a tagállamok és harmadik országok közötti szabad tőkemozgás lehető legnagyobb mértékű megvalósítására törekedve ad intézkedési hatáskört. A tárgy a közvetlen befektetéssel — az ingatlanbefektetést is beleértve —, letelepedéssel, pénzügyi szolgáltatások nyújtásával vagy értékpapírok tőkepiaci bevezetésével összefüggő tőkemozgás. A (2) és a (3) bekezdés aszimmetriája szándékos."
+        },
+        {
+          "text": "A visszalépést jelentő intézkedést a Parlament és a Tanács rendes jogalkotási eljárásban, minősített többséggel fogadhatja el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a visszalépés nem a rendes pálya. A helyes: az EUMSZ 64. cikk (3) bekezdése szerint a visszalépést jelentő intézkedést kizárólag a Tanács fogadhatja el egyhangúlag, különleges jogalkotási eljárásban, az Európai Parlamenttel folytatott konzultációt követően. A rendes jogalkotás a (2) bekezdés szerinti továbbvitelre vonatkozik. A tévedés a két bekezdés eljárását felcseréli."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "c3faa553f583"
+    },
+    {
+      "question": "Mit enged az EUMSZ 65. cikk (1) bekezdésének a) és b) pontja a 63. cikk tilalma alól?",
+      "options": [
+        {
+          "text": "A 65. cikk (1) bekezdése csak a közrendet engedi; az adóügyi különbségtétel és a bejelentési eljárás a tilalom alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés szélesebb kört fed. A helyes: az EUMSZ 65. cikk (1) bekezdés a) pontja a lakóhely vagy tőkebefektetés helye szerinti adóügyi különbségtételt hagyja meg. A b) pont a nemzeti törvények megsértésének megakadályozását, a bejelentést, valamint a közrendet vagy közbiztonságot is engedi. A tévedés a katalógust a közrendre szűkíti."
+        },
+        {
+          "text": "Az (1) bekezdés a) pontja az adójog lakóhely vagy tőkebefektetés helye szerinti különbségtételét hagyja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az adóügyi különbségtétel nevesített fenntartás. Az EUMSZ 65. cikk (1) bekezdés a) pontja szerint a tagállamok alkalmazhatják adójoguk azon vonatkozó rendelkezéseit, amelyek a lakóhely vagy a tőkebefektetés helye alapján az adózók között különbséget tesznek. A 65. cikk a 63. cikk alóli tagállami fenntartások katalógusa, nem nyitott közérdekű kimentés. A (3) bekezdés e jogot elzárja az önkényes megkülönböztetéstől és a rejtett korlátozástól."
+        },
+        {
+          "text": "Az (1) bekezdés b) pontja a nemzeti törvények és rendeletek megsértésének megakadályozását — különösen az adózás és a prudenciális felügyelet terén —, a tőkemozgások igazgatási vagy statisztikai célú bejelentését, valamint a közrend vagy a közbiztonság indokolta intézkedést engedi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a b) pont zárt intézkedési kört sorol fel. Az EUMSZ 65. cikk (1) bekezdés b) pontja szerint a tagállamok meghozhatják a szükséges intézkedéseket a nemzeti törvények és rendeletek megsértésének megakadályozására, különösen az adózás és a pénzügyi szervezetek prudenciális felügyelete terén. Eljárásokat alakíthatnak ki a tőkemozgások igazgatási vagy statisztikai célú bejelentésére. A közrend vagy a közbiztonság által indokolt intézkedést is meghozhatják."
+        },
+        {
+          "text": "A 65. cikk nyitott közérdekű kimentés, ezért bármely nemzeti gazdasági cél igazolhatja a tőkekorlátozást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tagállami fenntartások katalógusa nem nyitott kimentés. A helyes: az EUMSZ 65. cikk a 63. cikk alóli tagállami fenntartások katalógusa; az (1) bekezdés a) pontja az adóügyi különbségtételt, a b) pont a jogsértés megakadályozását, a bejelentést és a közrendet vagy közbiztonságot engedi. A (3) bekezdés elzárja az önkényes megkülönböztetéstől és a rejtett korlátozástól. A tévedés a katalógust nyitott gazdasági kimentéssé tágítja."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "a7f9e7429866"
+    },
+    {
+      "question": "Mi a jelentősége az EUMSZ 65. cikk (2) és (3) bekezdésének a tőke fejezete és a letelepedés viszonyában?",
+      "options": [
+        {
+          "text": "A (3) bekezdés az (1) és (2) bekezdésben említett intézkedést és eljárást elzárja attól, hogy a szabad tőkemozgás és a fizetési művelet önkényes megkülönböztetésének vagy rejtett korlátozásának eszköze legyen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fenntartások arányossági záradékkal vannak ellátva. Az EUMSZ 65. cikk (3) bekezdése szerint az (1) és (2) bekezdésben említett intézkedések és eljárások nem szolgálhatnak a 63. cikkben meghatározott szabad tőkemozgásra és fizetési műveletekre vonatkozó önkényes megkülönböztetés vagy rejtett korlátozás eszközéül. A Bordessa-ügy az (1) bekezdés b) pontja típusú szükséges intézkedést az előzetes engedély és a nyilatkozat különbségén méri. A felügyelet megengedett, a szabadság közigazgatási mérlegeléssé üresítése nem."
+        },
+        {
+          "text": "A (2) bekezdés szerint e fejezet rendelkezései nem érintik a letelepedési jogra vonatkozó és a Szerződésekkel összeegyeztethető korlátozások alkalmazhatóságát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tőke tilalma nem nyitja fel a letelepedés saját záradékait. Az EUMSZ 65. cikk (2) bekezdése a letelepedési jog Szerződésekkel összeegyeztethető korlátozásait a tőke fejezete nem nyitja fel. A C-503/99. sz. kereset a 52. cikket — a mai 49. cikket — és a 73B cikket együtt hívta fel, mert a különleges részvény a részesedést és az ügyvitelt is érinti. A két szabadság párhuzamosan érvényesülhet, anélkül hogy felcserélhető lenne."
+        },
+        {
+          "text": "A 65. cikk (2) bekezdése a tőke tilalmával feloldja a letelepedési jog Szerződésekkel összeegyeztethető korlátozásait.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tőke fejezete nem nyitja fel a letelepedést. A helyes: az EUMSZ 65. cikk (2) bekezdése szerint e fejezet rendelkezései nem érintik a letelepedési jogra vonatkozó és a Szerződésekkel összeegyeztethető korlátozások alkalmazhatóságát; a 49. cikk saját záradékai fennmaradnak. A tévedés a tőketilalmat a letelepedési korlátozások feloldásává olvassa."
+        },
+        {
+          "text": "A (3) bekezdés csak az adóügyi intézkedésekre vonatkozik; a közrendi intézkedés önkényes megkülönböztetésként is alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés az (1) és (2) bekezdés teljes körére kiterjed. A helyes: az EUMSZ 65. cikk (3) bekezdése az (1) és (2) bekezdésben említett intézkedéseket és eljárásokat zárja el az önkényes megkülönböztetéstől és a rejtett korlátozástól, ideértve a közrendet és a közbiztonságot is. A tévedés a záradékot az adóügyi sávra szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "791a05d11ea4"
+    },
+    {
+      "question": "Milyen feltételekkel hozható védintézkedés az EUMSZ 66. cikk alapján?",
+      "options": [
+        {
+          "text": "A 66. cikk a 65. cikk tagállami katalógusának folytatása, ezért a közrend alapján is korlátlan ideig alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két cikk eltérő eszköz. A helyes: az EUMSZ 66. cikk nem a 65. cikk folytatása, hanem uniós védintézkedés a harmadik országos tőkemozgás GMU-sokkja ellen. Feltétele a rendkívüli körülmény, a súlyos nehézség, a hat hónapos felső határ és a feltétlen szükségesség. A közrendi-közbiztonsági sáv a 65. cikk (1) bekezdés b) pontja; a tévedés a két intézményt összevonja."
+        },
+        {
+          "text": "Ha rendkívüli körülmények fennállása esetén a harmadik országokba irányuló vagy onnan származó tőkemozgás a gazdasági és monetáris unió működésében súlyos nehézségeket okoz vagy azzal fenyeget, a Tanács védintézkedéseket hozhat harmadik országokkal szemben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a GMU-védintézkedés uniós eszköz, nem tagállami katalógus. Az EUMSZ 66. cikk szerint a Tanács a Bizottság javaslata alapján, az Európai Központi Bankkal folytatott konzultációt követően jár el. Az intézkedés csak harmadik országokkal szemben hozható, hat hónapot meg nem haladó időszakra, és csak ha feltétlenül szükséges. A tagállamok közötti tőkemozgás e cikkel nem függeszthető fel."
+        },
+        {
+          "text": "A védintézkedés hat hónapot meg nem haladó időszakra szól, és csak akkor alkalmazható, ha feltétlenül szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az időtartam és a szükségesség konjunktív korlát. Az EUMSZ 66. cikk szövege szerint a Tanács „védintézkedéseket hozhat harmadik országokkal szemben hat hónapot meg nem haladó időszakra, amennyiben ezek az intézkedések feltétlenül szükségesek”. A 65. cikk közrendi-közbiztonsági sávja és a 66. cikk GMU-védintézkedése eltérő alanyú, eltérő időtávú és eltérő célú eszköz. A 66. cikk nem ad a tagállamnak egyoldalú tőkekorlátozási jogot a belső piacon."
+        },
+        {
+          "text": "A 66. cikk alapján a tagállam egyoldalúan felfüggesztheti a többi tagállammal szembeni tőkemozgást, ha a GMU működését veszélyeztetve látja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a védintézkedés uniós és csak harmadik országos. A helyes: az EUMSZ 66. cikk szerint a Tanács hozhat intézkedést harmadik országokkal szemben; a tagállamok közötti tőkemozgás e cikkel nem függeszthető fel, és a cikk nem ad a tagállamnak egyoldalú tőkekorlátozási jogot a belső piacon. A tévedés a GMU-védintézkedést belső, egyoldalú tagállami jogra cseréli."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "80fd48808c7f"
+    },
+    {
+      "question": "Mi következik a Bordessa-ügyből az előzetes engedély és az előzetes nyilatkozat viszonyára nézve?",
+      "options": [
+        {
+          "text": "A 88/361/EGK irányelv 1. és 4. cikke tiltja, hogy az érmék, bankjegyek vagy bemutatóra szóló csekkek kivitelét előzetes engedélytől tegyék függővé, de nem tiltja ugyanazon ügyletek előzetes nyilatkozathoz kötését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az engedély és a nyilatkozat arányossági mércéje eltér. A C-358/93 és C-416/93. sz. Bordessa és társai egyesített ügyekben az előzetes engedély a valutakivitelt felfüggeszti, és a közigazgatási hatóság külön kérelemre adott hozzájárulásától teszi függővé. A Bíróság szerint az ilyen követelmény a tőke szabad mozgásának gyakorlását a közigazgatási hatóságok mérlegelési jogkörének vetné alá. Az előzetes nyilatkozat nem vonja maga után az ügylet felfüggesztését, de lehetővé teszi a hatékony felügyeletet."
+        },
+        {
+          "text": "Az előzetes engedély és az előzetes nyilatkozat egyaránt tilos, mert mindkettő felfüggeszti a tőkemozgást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyilatkozat nem tilos. A helyes: a C-358/93 és C-416/93 Bordessa-ügy szerint a 88/361/EGK irányelv 1. és 4. cikke tiltja az előzetes engedélyt, de nem tiltja az előzetes nyilatkozatot. A nyilatkozat nem vonja maga után az ügylet felfüggesztését, az engedély viszont a szabadságot közigazgatási mérlegeléssé üresítheti. A tévedés a két felügyeleti eszközt azonosnak veszi."
+        },
+        {
+          "text": "Csak az engedélyrendszer teszi lehetővé a büntetőjogi szankciót és az elkobzást a valutakivitel szabályainak megszegése esetén.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szankció a nyilatkozat elmulasztásához is fűzhető. A helyes: a Bordessa-ügyben a Bíróság elutasította a spanyol kormány álláspontját, mert nem bizonyította, hogy lehetetlen büntetőjogi szankciókat fűzni az előzetes nyilatkozat elmulasztásához; az irányelv 1. és 4. cikke az engedélyt tiltja, a nyilatkozatot nem. A tévedés a szankciót kizárólag az engedélyhez köti."
+        },
+        {
+          "text": "Az irányelv 1. cikke pontos és feltétel nélküli, külön végrehajtási intézkedést nem igényel, és a nemzeti bíróságok előtt érvényesíthető jogokat ruház az egyénekre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetlen hatály a felügyeleti kivétellel együtt áll. A C-358/93 és C-416/93 Bordessa-ügy szerint a 88/361/EGK irányelv 1. cikkére a 4. cikkel összefüggésben a nemzeti bíróságok előtt hivatkozni lehet, és az ellentétes nemzeti szabályokat alkalmazhatatlanná teszi. A 4. cikk szerinti kivétel alkalmazása bírósági felülvizsgálat tárgya, de ez nem akadályozza az 1. cikk egyéni érvényesíthetőségét. Az 1. cikk pontos és feltétel nélküli, külön végrehajtási intézkedést nem igényel."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "0802d053c8d7"
+    },
+    {
+      "question": "Milyen megállapítások állják meg a helyüket a fizetőeszközök fizikai kivitelének jogi besorolásáról a Bordessa-ügyben?",
+      "options": [
+        {
+          "text": "Még ha a fizetőeszköz átadása áru- vagy szolgáltatáskereskedelemmel kapcsolatos fizetésnek minősülne is, a szerződés 106. cikke lenne az irányadó, nem a 30. vagy a 59. cikk.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fizetésnek minősülő átutalás sem az áru- vagy szolgáltatási tilalom alá esik. A C-358/93 és C-416/93. sz. Bordessa egyesített ügyek szerint a szabályozás nem tartozik a szerződés 30. és 59. cikkének hatálya alá. A Thompson-ügy 25. pontja a fizetési eszközök áru-minőségét elutasítja. A 106. cikk a fizetési pályát jelöli ki, ha a mögöttes ügylet fizetés."
+        },
+        {
+          "text": "A fizetőeszközök fizikai kivitele az áruk szabad mozgásának hatálya alá esik, mert a bankjegy kézzelfogható árucikk.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bankjegy kézzelfoghatósága nem teszi áruvá a fizetőeszközt. A helyes: a C-358/93 és C-416/93 Bordessa-ügy a Thompson-ügy 25. pontjára támaszkodva kimondja, hogy a fizetési eszközök nem esnek a szerződés 30–37. cikke szerinti áru fogalma alá. A fizikai átadás a 67. cikk és a tőkeirányelv, nem a 30. és 59. cikk alá tartozik. A tévedés a fizikai megjelenést az áruszabadságra váltja."
+        },
+        {
+          "text": "A fizetési eszközök a szerződés 30–37. cikke szerinti árunak a Thompson-ügy 25. pontja szerint nem minősülnek, ezért a fizikai átadás a tőke- és fizetésfejezet, nem az áru- vagy szolgáltatási tilalom alá esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fizetőeszköz nem áru. A C-358/93 és C-416/93 Bordessa-ügy szerint az ilyen szabályozás nem tartozik a szerződés 30. és 59. cikkének hatálya alá. Az eszközök fizikai átadása a 67. cikk és az azt végrehajtó irányelv alá esik. Még ha az átutalás áru- vagy szolgáltatáskereskedelemmel kapcsolatos fizetésnek minősülne is, a 106. cikk lenne az irányadó."
+        },
+        {
+          "text": "A fizetőeszköz kivitele kizárólag a szolgáltatásnyújtás szabadságának 59. cikke alá tartozik, ha turisztikai célú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bordessa-ügy a tőke- és fizetésfejezethez köti a fizikai kivitelt. A helyes: a C-358/93 és C-416/93 ügy szerint a szabályozás nem tartozik a 30. és 59. cikk hatálya alá; a fizikai átadás a 67. cikk és a végrehajtó irányelv ténye. A Luisi és Carbone ügy a turisztikai fizetést a fizetési művelethez, nem automatikusan a szolgáltatási tilalomhoz köti. A tévedés a kivitelt a szolgáltatási szabadság alá helyezi."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "1480e8338948"
+    },
+    {
+      "question": "Mi a Svensson és Gustavsson ügy tanulsága a más tagállamban letelepedett banktól felvett kölcsön kamattámogatásáról?",
+      "options": [
+        {
+          "text": "A letelepedés helyén alapuló hátrányos megkülönböztetés igazolható azzal, hogy a kamattámogatás a költségvetés jelentős részét köti le, és a hitelintézetek nyereségadóján keresztül részben visszatérül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a gazdasági cél nem igazol. A helyes: a C-484/93 Svensson-ügy szerint a letelepedés helyén alapuló hátrányos megkülönböztetés csak a szerződés 56. cikk (1) bekezdésében említett, a 66. cikk által hivatkozott közérdekű indokokkal igazolható, amelyek nem foglalnak magukban gazdasági célokat. A Bachmann-féle adórendszeri koherencia itt nem alkalmazható, mert a kamattámogatás és a nyereségadó között nincs közvetlen kapcsolat. A tévedés a költségvetési érvet igazoló közérdeknek veszi."
+        },
+        {
+          "text": "Azok a rendelkezések, amelyekből az következik, hogy egy banknak a tagállamban kell letelepednie ahhoz, hogy a területén lakóhellyel rendelkező hitelfelvevők az államtól közpénzből kamattámogatást kaphassanak, akadályozzák a tőkemozgásokat, például a banki kölcsönöket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a letelepedési feltétel tőkekorlátozás. A C-484/93. sz. Svensson és Gustavsson ügy szerint az ilyen szabály alkalmas arra, hogy az érintetteket elriassza attól, hogy más tagállamban letelepedett bankokhoz forduljanak. A 88/361/EGK irányelv mellékletének VIII. címe a rövid, közép- és hosszú lejáratú pénzügyi kölcsönöket liberalizálta. A mai EUMSZ 63. cikk (1) bekezdése ugyanezt a tilalmi magot elsődleges jogként hordozza."
+        },
+        {
+          "text": "A bankok által nyújtott építési hitelek a szerződés 59. cikke értelmében szolgáltatásnak is minősülnek, és a fogadó államban engedélyezett intézményhez kötött kamattámogatás hátrányos megkülönböztetést valósít meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tőke és a szolgáltatás párhuzamosan érvényesülhet. A Svensson-ügy 11. pontja a szerződés 61. cikk (2) bekezdését — a mai EUMSZ 58. cikk (2) bekezdését — olvassa: a tőkemozgásokkal kapcsolatos banki szolgáltatások liberalizálását a tőkemozgások liberalizálásával összhangban kell megvalósítani. A kamattámogatás intézményhez kötése a 59. cikk első bekezdése szerinti szolgáltatási tilalmat is sérti. A két fejezet azonban nem felcserélhető."
+        },
+        {
+          "text": "A banki kölcsön kizárólag a szolgáltatásnyújtás szabadsága alá esik, ezért a tőkemozgás tilalma a kamattámogatás-feltételre nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kölcsön tőkemozgás is. A helyes: a C-484/93 Svensson-ügy a 88/361/EGK irányelv melléklete alapján a pénzügyi kölcsönöket liberalizált tőkemozgásként kezeli, és a letelepedési feltételt tőkekorlátozásként olvassa. Emellett a hitel szolgáltatás is lehet a szerződés 59. cikke szerint, anélkül hogy a két fejezet felcserélhető lenne. A tévedés a két szabadság közül csak a szolgáltatást tartja fenn."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "7ec1d81ca4c1"
+    },
+    {
+      "question": "Hogyan méri a C-503/99. sz. Bizottság kontra Belgium ügy a különleges részvény közbiztonsági igazolhatóságát?",
+      "options": [
+        {
+          "text": "A közbiztonságra kizárólag alapvető társadalmi érdeket érintő, valós és kellően komoly fenyegetés esetében lehet hivatkozni, és tartalmát a tagállamok nem határozhatják meg egyoldalúan a közösségi intézmények ellenőrzése nélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közbiztonság szigorú olvasatú. A C-503/99. sz. ügy szerint a közbiztonságot — különösen a tőke alapvető szabadságától való eltérésnél — szigorúan kell értelmezni. A Campus Oil ítélet 34. és 35. pontja a minimális energiaellátást közérdekként ismerte el; ugyanez az indokolás a tőkére is érvényes, mert a közbiztonság a 73D cikk (1) bekezdés b) pontjában — a mai EUMSZ 65. cikk (1) bekezdés b) pontjában — szerepel. A belga különleges részvény célja az energiaellátás biztonságának válság esetén való garantálása volt."
+        },
+        {
+          "text": "Nemzeti szabályozás a tőke szabad mozgását mint alapelvet csak a 73D cikk (1) bekezdésében — a mai EUMSZ 65. cikk (1) bekezdésében — meghatározott ok vagy nyomós közérdek alapján korlátozhatja, ha hatálya a befogadó állam területén tevékenységet végző minden személyre kiterjed, alkalmas a célra, nem haladja meg a szükséges mértéket, és megfelel az arányosságnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kimentés négyes próbához kötött. A C-503/99. sz. ügy 45–47. pontja a 73D cikk (1) bekezdését a tőke mint alapelv kimentési szabályaként olvassa. A felsorolt ok vagy nyomós közérdek, az általános hatály, az alkalmasság, a szükségesség és az arányosság konjunktív. A Bíróság e próbát a Sanz de Lera egyesített ügyek 23. pontjára és az Église de scientologie ügy 18. pontjára ülteti."
+        },
+        {
+          "text": "A közbiztonság tartalmát a tagállamok egyoldalúan meghatározhatják, mert a tőke szabadságától való eltérés nemzeti hatáskör.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közbiztonság nem egyoldalú nemzeti fogalom. A helyes: a C-503/99. sz. ügy szerint a közbiztonságot szigorúan kell értelmezni úgy, hogy tartalmát a tagállamok ne határozhassák meg egyoldalúan a közösségi intézmények ellenőrzése nélkül; csak alapvető társadalmi érdeket érintő, valós és kellően komoly fenyegetésnél hívható fel. A tévedés a szigorú olvasatot nemzeti szabad mérlegeléssé cseréli."
+        },
+        {
+          "text": "A tagállam a szerződés 222. cikkében említett tulajdoni rendjére hivatkozva mentesülhet a magánosított vállalkozásbeli részvényesi előjogokból eredő tőkekorlátozás alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tulajdoni rend nem mentesít. A helyes: a C-503/99. sz. ügy 43. pontja a Konle-ügy 38. pontjára utalva kimondja, hogy a meglévő tulajdoni rend nem mentesül a szerződés alapvető szabályai alól. A korlátozás csak a 73D cikk (1) bekezdése — a mai EUMSZ 65. cikk (1) bekezdése — szerinti ok vagy nyomós közérdek, általános hatály és arányosság mellett igazolható. A tévedés a tulajdoni rendet abszolút mentességgé emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "6416dd6c4155"
+    },
+    {
+      "question": "Miben tér el a C-503/99. sz. ügyben vizsgált belga tiltási rendszer a Bordessa-ügy előzetes engedélyétől?",
+      "options": [
+        {
+          "text": "A belga rendszer tiltási rendszer: a vállalkozás döntési autonómiájából indul ki, a miniszteri ellenőrzés minden egyedi esetben a kormányzati hatóságok kezdeményezésétől függ, előzetes jóváhagyásra nincs szükség, a megtiltási jog gyakorlását szoros határidők kötik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az utólagos, határidős tiltás más mérce. A C-503/99. sz. ügy 49. pontja szerint a rendszer a társaságok stratégiai eszközeire, különösen az energiahálózatokra irányul. A kimentés a szigorúan értett közbiztonságra és az utólagos, határidős tiltási szerkezetre épül. Ez szemben áll a Bordessa-ügy előzetes engedélyével, amely a műveletet felfüggeszti."
+        },
+        {
+          "text": "A különleges részvényhez kapcsolódó előzetes bejelentés és a miniszteri megtiltási jog a csővezetékek és stratégiai eszközök átruházására, biztosítékul lekötésére vagy rendeltetésváltozására irányul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatály stratégiai eszközre szabott. A C-503/99. sz. ügy tényállása szerint a különleges részvényhez kapcsolódott a stratégiai eszközök átruházásának, biztosítékul lekötésének vagy rendeltetésváltozásának előzetes bejelentése. A felügyeletet ellátó miniszter megtilthatta a műveletet, ha az energiával kapcsolatos nemzeti érdeket sértette. A Bíróság 50. pontja a rendszert a társaságok stratégiai eszközeire, különösen az energiahálózatokra irányulóként írja le."
+        },
+        {
+          "text": "A különleges részvény minden ügyviteli döntést előzetes miniszteri jóváhagyáshoz kötött, határidő nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatály és az eljárás szűkebb. A helyes: a C-503/99. sz. ügy 49. és 50. pontja szerint a rendszer a stratégiai eszközökre, különösen az energiahálózatokra irányul. Előzetes jóváhagyásra nincs szükség, a megtiltási jogot szoros határidők kötik, és a miniszteri ellenőrzés a hatóság kezdeményezésétől függ. A tévedés a hatályt minden ügyviteli döntésre, az eljárást előzetes jóváhagyásra tágítja."
+        },
+        {
+          "text": "A belga különleges részvény előzetes közigazgatási engedélyhez kötötte minden tőkeműveletet, ugyanúgy, ahogy a Bordessa-ügy spanyol engedélye a valutakivitelt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a belga rendszer nem előzetes engedély. A helyes: a C-503/99. sz. ügy 49. pontja szerint előzetes jóváhagyásra nincs szükség, a miniszteri ellenőrzés a hatóság kezdeményezésétől függ, és a megtiltási jogot szoros határidők kötik. A C-358/93 és C-416/93 Bordessa-ügy előzetes engedélye ezzel szemben a valutakivitelt felfüggeszti és közigazgatási mérlegeléssé üresítheti a szabadságot. A tévedés a két szerkezetet azonosnak veszi."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "2099ef3dfcce"
+    },
+    {
+      "question": "Kit tekint a Luisi és Carbone ügy a szolgáltatás igénybevevőjének, és hogyan kapcsolódik ez a fizetési művelethez?",
+      "options": [
+        {
+          "text": "Csak a szolgáltatás nyújtója lépheti át a határt; az igénybevevő mozgása nem tartozik a szolgáltatási szabadsághoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az igénybevevő is átlépheti a határt. A helyes: a C-286/82 és C-26/83 Luisi és Carbone ügy szerint a teljesítéshez a nyújtó vagy az igénybevevő is átlépheti a határt; a második eset a díjazás ellenében végzett tevékenység felszabadításának szükséges kiegészítője. A turista, a beteg, a tanulmányi vagy üzleti utas a szolgáltatás igénybevevője. A tévedés az igénybevevő mozgását kihagyja."
+        },
+        {
+          "text": "A turisztikai és üzleti utazás fizetései a fizetési művelethez, nem a tőkemozgáshoz igazodnak, ha a bankjegyátadás a szolgáltatás ellenértékét teljesíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mögöttes ügylet dönti el a besorolást. A Luisi és Carbone ügy szerint a bankjegyek fizikai átadása nem tőkemozgás, ha áru- vagy szolgáltatási ügyletből eredő fizetési kötelezettségnek felel meg. A szerződés 67. és 106. cikkének összevetése erősíti meg: a fizetési művelet a mögöttes ügylet ellenértéke, a tőkemozgás a tőke elhelyezése vagy befektetése. Az EUMSZ 63. cikk (2) bekezdése e fizetési tilalmat elsődleges jogként rögzíti."
+        },
+        {
+          "text": "A turisztikai fizetés minden esetben tőkemozgás, mert a bankjegyek fizikai átadása a tőkeirányelvek D. jegyzékében szerepel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a turisztikai fizetés a fizetési művelethez igazodik. A helyes: a C-286/82 és C-26/83 Luisi és Carbone ügy szerint a bankjegyátadás nem automatikusan tőkemozgás; ha a szolgáltatás ellenértékét teljesíti, fizetési művelet. A szerződés 67. és 106. cikkének összevetése ezt az elhatárolást erősíti; a D. jegyzék említéséből nem következik, hogy az átadás minden körülmények között tőkemozgás. A tévedés a jegyzéket abszolút besorolássá emeli."
+        },
+        {
+          "text": "A Bíróság 16. pontja szerint a szolgáltatásnyújtás szabadsága magában foglalja az igénybevevők szabadságát arra, hogy egy másik tagállamba menjenek a szolgáltatás igénybevételére, anélkül hogy fizetési korlátozások gátolnák őket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az igénybevevő mozgása a szolgáltatási szabadság része. A C-286/82 és C-26/83 Luisi és Carbone ügy szerint a turisták, az orvosi ellátásban részesülők, valamint a tanulmányi vagy üzleti utat tevők a szolgáltatás igénybevevőinek minősülnek. A teljesítéshez a nyújtó vagy az igénybevevő is átlépheti a határt. A fizetési művelet e mögöttes szolgáltatási ügylet ellenértékét teljesíti, nem tőkeelhelyezés."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "c24ef94d104d"
+    },
+    {
+      "question": "Mit állapít meg az EUMSZ 65. cikk (4) bekezdése a harmadik országot érintő korlátozó adóügyi intézkedés összeegyeztethetőségéről?",
+      "options": [
+        {
+          "text": "A (4) bekezdés a tagállamok közötti tőkemozgás adóügyi korlátozásait is feloldja, ha a Bizottság hallgat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés a harmadik országos adóügyi intézkedésre vonatkozik. A helyes: az EUMSZ 65. cikk (4) bekezdése egy vagy több harmadik országot érintő korlátozó adóügyi intézkedés összeegyeztethetőségének megállapítását szabályozza a 64. cikk (3) bekezdése szerinti uniós intézkedés hiányában; a belső tilalom a 63. cikk alatt marad. A tévedés a záradékot a belső piacra is kiterjeszti."
+        },
+        {
+          "text": "A megállapítás feltétele, hogy az intézkedést valamely uniós célkitűzés indokolja, és a belső piac megfelelő működésével összeegyeztethető legyen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két feltétel konjunktív. Az EUMSZ 65. cikk (4) bekezdése szó szerint a Szerződésekkel való összeegyeztethetőséget ahhoz köti, hogy az intézkedéseket „valamely uniós célkitűzés indokolja, és a belső piac megfelelő működésével összeegyeztethetők”. A Bizottság elsődleges döntéshozó; három hónapos hallgatása után a Tanács léphet. A záradék a harmadik országos adóügyi korlátozásra vonatkozik, nem a belső tőkemozgás általános feloldására."
+        },
+        {
+          "text": "A 64. cikk (3) bekezdése szerinti uniós intézkedés hiányában a Bizottság, illetve — ha a tagállam kérelmétől számított három hónapon belül nem fogad el határozatot — a Tanács megállapíthatja, hogy a harmadik országot érintő korlátozó adóügyi intézkedés a Szerződésekkel összeegyeztethető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés intézményi eljárást ad. Az EUMSZ 65. cikk (4) bekezdése a megállapítást uniós célkitűzéshez és a belső piac megfelelő működéséhez köti. A Tanács a tagállam kérelmére egyhangúlag határoz. A 64. cikk (3) bekezdése szerinti visszalépő uniós intézkedés hiánya az eljárás előfeltétele."
+        },
+        {
+          "text": "A Bizottság határozata hiányában bármely tagállam egyhangúság nélkül, saját hatáskörben nyilváníthatja összeegyeztethetőnek a korlátozó adóügyi intézkedést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megállapítás intézményi. A helyes: az EUMSZ 65. cikk (4) bekezdése szerint a Bizottság, illetve a tagállam kérelmétől számított három hónapon belüli határozat hiányában a Tanács állapíthatja meg a harmadik országot érintő korlátozó adóügyi intézkedés összeegyeztethetőségét. A Tanács döntése a tagállami kérelemre egyhangúságot kíván. A tévedés a tagállami egyoldalú nyilatkozatot helyettesíti az uniós eljárással."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "3b9300a2574e"
+    },
+    {
+      "question": "Milyen intézményi eljárásban dönthető el az EUMSZ 66. cikk szerinti védintézkedés, és mi következik abból a tagállami egyoldalúságra nézve?",
+      "options": [
+        {
+          "text": "A 66. cikk szerinti intézkedéshez a Parlament egyetérése és a Tanács minősített többsége kell, az EKB nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Parlament egyetértése és a minősített többség e cikk szövege szerint nem a döntési pálya. A helyes: az EUMSZ 66. cikk a Tanácsot a Bizottság javaslata alapján, az Európai Központi Bankkal folytatott konzultációt követően hatalmazza fel. A 64. cikk (2)–(3) bekezdésének parlamenti szerepei más intézményi programot fednek. A tévedés a GMU-védintézkedés eljárását a 64. cikk pályáira cseréli."
+        },
+        {
+          "text": "A tagállam a Bizottság hallgatása esetén saját hatáskörben elrendelheti a belső tőkemozgás felfüggesztését a GMU védelmére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 66. cikk nem ad a tagállamnak egyoldalú belső felfüggesztési jogot. A helyes: az EUMSZ 66. cikk szerint a Tanács hozhat védintézkedést harmadik országokkal szemben a Bizottság javaslata és az EKB konzultációja után. A tagállamok közötti tőkemozgás e cikkel nem függeszthető fel; az EUMSZ 63. cikk (1) bekezdése a belső tilalmat tartja fenn. A tévedés az uniós eljárást tagállami önsegéllyé fordítja."
+        },
+        {
+          "text": "Az EKB konzultációja a 66. cikk szöveg szerinti előfeltétele; a Parlament egyetértése e cikkben nem jelenik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 66. cikk a Tanácsot, a Bizottság javaslatát és az Európai Központi Bankkal folytatott konzultációt nevezi meg. A 64. cikk (3) bekezdésénél az Európai Parlament csak konzultációs helyzetben van a visszalépő intézkedésnél, egyhangú Tanács mellett. A 65. cikk (1) bekezdés b) pontjának közrendi-közbiztonsági sávja tagállami eszköz, nem e GMU-eljárás."
+        },
+        {
+          "text": "A Tanács a Bizottság javaslata alapján, az Európai Központi Bankkal folytatott konzultációt követően jár el; a tagállam e cikk alapján nem hozhat egyoldalú belső tőkekorlátozást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az eljárás uniós és az EKB-t bevonja. Az EUMSZ 66. cikk a monetáris unió működésének védelmét a tőke fejezeten belül is intézményesíti. A védintézkedés csak harmadik országokkal szemben hozható. A cikk nem ad a tagállamnak egyoldalú tőkekorlátozási jogot a belső piacon."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "0687dd22a01c"
+    },
+    {
+      "question": "Mi a különbség a Maastricht előtti fokozatos liberalizáció és az EUMSZ 63. cikk tilalma között?",
+      "options": [
+        {
+          "text": "A 63. cikk ma is csak irányelvi végrehajtás után érvényesül, mert a tőkemozgás liberalizációja továbbra is másodlagos jogi feladat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom ma elsődleges jogi rangú. A helyes: az EUMSZ 63. cikk a Maastricht utáni rend, amely a 88/361/EGK irányelv által végrehajtott liberalizációt elsődleges jogi rangra emeli. Nem a korábbi, irányelvekre bízott fokozatos liberalizáció maradéka. A tévedés a Casati-korszak irányelvi modelljét a hatályos tilalomra vetíti."
+        },
+        {
+          "text": "A Svensson-ügy 5. pontja a Casati-ítéletre utalva emlékeztet: a szerződés 67. cikkének (1) bekezdése önmagában nem szüntette meg a korlátozásokat az átmeneti időszak végéig; azok eltörlése a 69. cikk alapján elfogadott tanácsi irányelvek feladata volt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a korábbi rend irányelvekre bízott fokozatos liberalizáció volt. A 88/361/EGK irányelv ezt a liberalizációt a tényállások idején már végrehajtotta. Az EUMSZ 63. cikk — az Európai Közösséget létrehozó szerződés korábbi 56. cikke — e tilalmat elsődleges jogi rangra emeli. A Maastricht utáni rend nem a fokozatos liberalizáció maradéka."
+        },
+        {
+          "text": "A harmadik országos tőkemozgás tilalma csak a 64. cikk (2) bekezdése szerinti uniós intézkedés után válik főszabállyá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a harmadik országos tilalom már a főszabály része. A helyes: az EUMSZ 63. cikk (1) bekezdése a tagállamok és harmadik országok közötti tőkemozgás minden korlátozását tiltja. A 64. cikk ezt időbeli fennmaradási záradékkal és intézményi programmal töri meg, nem pedig a tilalmat késlelteti. A tévedés a főszabályt és a záradékot felcseréli."
+        },
+        {
+          "text": "A 63. cikk a tagállamok, valamint a tagállamok és harmadik országok közötti tőkemozgás és fizetési művelet minden korlátozásának tilalma, alanyi köre szélesebb, mint az áruké vagy a munkavállalóké.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harmadik ország viszonylata eleve a főszabályba van írva. Az EUMSZ 63. cikk (1) és (2) bekezdése párhuzamosan fedi a tőkemozgást és a fizetési műveletet. A C-503/99. sz. ügy 36. pontja a korábbi 73B cikk (1) bekezdését kettős tilalomként olvassa. A 64–66. cikk a fejezet saját záradéka, nem idegen kivétel."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "5f83b1e19a8f"
+    },
+    {
+      "question": "Hogyan kapcsolódik az EUMSZ 58. cikk (2) bekezdése a tőkemozgáshoz a Svensson-ügy olvasatában?",
+      "options": [
+        {
+          "text": "A 58. cikk (2) bekezdése a banki szolgáltatásokat teljesen kivonja a tőkemozgás tilalma alól, ezért a kamattámogatás-feltétel csak a szolgáltatási fejezetben vizsgálható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a banki szolgáltatások igazítása nem kivonás. A helyes: az EUMSZ 58. cikk (2) bekezdése a banki és biztosítási szolgáltatások liberalizációját a tőkemozgások liberalizációjához igazítja. A C-484/93 Svensson-ügy a kölcsönt tőkemozgásként és szolgáltatásként is olvassa. A tévedés az igazítást kivétellé fordítja."
+        },
+        {
+          "text": "A tőke és a szolgáltatás fejezete felcserélhető: ha a hitel szolgáltatás, a tőketilalom nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két fejezet nem felcserélhető. A helyes: a C-484/93 Svensson-ügy és az EUMSZ 58. cikk (2) bekezdése szerint a tőke és a szolgáltatás ugyanazon banki kölcsönön párhuzamosan érvényesülhet. Az EUMSZ 65. cikk (2) bekezdése pedig a letelepedés saját záradékait a tőke fejezete nem nyitja fel. A tévedés a párhuzamosságot felcserélhetőséggé olvassa."
+        },
+        {
+          "text": "A 58. cikk (2) bekezdése a tőkemozgásokkal kapcsolatos banki és biztosítási szolgáltatások liberalizációját a tőkemozgások liberalizációjához igazítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a banki szolgáltatás a tőke liberalizációjához igazodik. A Svensson-ügy 11. pontja ezt a szerződés 61. cikk (2) bekezdéseként olvassa. A bankok által nyújtott építési hitelek a 59. cikk értelmében szolgáltatásnak is minősülnek. A tőke és a szolgáltatás ugyanazon banki kölcsönön párhuzamosan érvényesülhet, anélkül hogy a két fejezet felcserélhető lenne."
+        },
+        {
+          "text": "A kamattámogatásnak a fogadó államban engedélyezett intézményhez kötése a más tagállamokban letelepedett hitelintézetekkel szembeni hátrányos megkülönböztetést valósít meg, amelyet a 59. cikk első bekezdése tilt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szolgáltatási tilalom is sérül. A C-484/93 Svensson-ügy szerint a letelepedési feltétel elriasztja a hitelfelvevőket a más tagállami bankoktól, ezért tőkekorlátozás is. A 88/361/EGK irányelv melléklete a pénzügyi kölcsönöket már liberalizálta. A gazdasági célú költségvetési érv a közérdekű záradék alatt nem igazol."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "5c85c71a9ba0"
+    },
+    {
+      "question": "Egy spanyol szabályozás 5 millió peseta felett előzetes közigazgatási engedélyhez köti a bankjegyek kivitelét. Mely megállapítások állják meg a helyüket a Bordessa-mérce szerint?",
+      "options": [
+        {
+          "text": "Az előzetes engedély a tőke szabad mozgásának gyakorlását a közigazgatási hatóságok mérlegelési jogkörének vetné alá, és e szabadságot illuzórikussá tehetné.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az engedély aránytalan felügyeleti eszköz. A C-358/93 és C-416/93 Bordessa-ügy a Luisi és Carbone egyesített ügyek 34. pontjára utalva állapítja meg ezt. Az engedély a valutakivitelt felfüggeszti, és külön kérelemre adott hozzájárulástól teszi függővé. A 88/361/EGK irányelv 1. és 4. cikke ezért tiltja az előzetes engedélyt."
+        },
+        {
+          "text": "Az előzetes engedély jogszerű, ha a tagállam terrorizmus vagy pénzmosás megelőzésére hivatkozik, mert a 4. cikk minden felügyeleti formát engedi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felügyeleti cél nem legitimálja az engedélyt. A helyes: a C-358/93 és C-416/93 Bordessa-ügy szerint a 88/361/EGK irányelv 4. cikke a jogsértés megakadályozását és a bejelentést engedi, és súlyos jogellenes tevékenységek megelőzésére is kiterjedhet. Az előzetes engedélyt azonban az 1. és 4. cikk együtt tiltja; a nyilatkozat a megengedett út. A tévedés a felügyeleti célt az engedély igazolására fordítja."
+        },
+        {
+          "text": "Az előzetes nyilatkozat megengedett alternatíva, mert nem vonja maga után az ügylet felfüggesztését, de lehetővé teszi a hatékony felügyeletet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nyilatkozat a 65. cikk (1) bekezdés b) pontja típusú szükséges intézkedés arányos formája. A Bordessa-ügy szerint a spanyol kormány nem bizonyította, hogy csak az engedélyrendszer teszi lehetővé a büntetőjogi szankciót. Az irányelv 4. cikke a törvények megsértésének megakadályozását és a bejelentést engedi. A hatályos EUMSZ 65. cikk (1) bekezdés b) pontja ugyanezt a felügyeleti sávot tartja fenn."
+        },
+        {
+          "text": "A szabályozás az áruk szabad mozgása alá esik, ezért a tőkeirányelv 1. cikke nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a peseta-kivitel nem áruszabályozás. A helyes: a Bordessa-ügy tényállásában a fizikai átadás a 67. cikk és a végrehajtó irányelv alá esik. A Thompson-ügy 25. pontja szerint a fizetési eszközök nem minősülnek a 30–37. cikk szerinti árunak. A tévedés a kivitelt az áruk szabad mozgása alá helyezi."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "a78e918dc5f9"
+    },
+    {
+      "question": "Mit jelent a közvetlen befektetés a C-503/99. sz. ügy fogalmi jelzésértéke szerint?",
+      "options": [
+        {
+          "text": "A szerződés a tőke- és fizetési mozgásokat nem határozza meg; a 88/361 irányelv mellékletének nómenklatúrája a fogalom jelzésértéke.",
+          "isCorrect": true,
+          "rationale": "IGAZ, nincs szerződési fogalommeghatározás. A C-503/99. sz. ügy 36. pontja a korábbi 73B cikk (1) bekezdését a tagállamok közötti és a harmadik országos tilalomként olvassa. A Bíróság a nómenklatúrára támaszkodik a közvetlen befektetés és az értékpapírszerzés besorolásánál. Az EUMSZ 63. cikk (1) bekezdése e tilalmat elsődleges jogként rögzíti."
+        },
+        {
+          "text": "A közvetlen befektetést a vállalat irányításában, illetve ellenőrzésében való tényleges részvétel lehetősége jellemzi, és a vállalkozás részvényével való rendelkezés formájában valósulhat meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a részvételi lehetőség a megkülönböztető ismérv. A C-503/99. sz. ügy 37. és 38. pontja a 88/361/EGK irányelv mellékletének nómenklatúráját a tőkemozgás fogalmának jelzésértékeként kezeli. A tőkepiaci értékpapír-vásárlás ugyancsak e fogalmi körbe esik. A különleges részvény e tükörben a tagállamok közötti tőkemozgás korlátozásaként volt vizsgálandó."
+        },
+        {
+          "text": "A közvetlen befektetés kizárólag az ingatlanbefektetésre vonatkozik; a részvényszerzés a letelepedés hatálya alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen befektetés a részvényszerzést is lefedi. A helyes: a C-503/99. sz. ügy a vállalkozás részvényével való rendelkezést közvetlen befektetésként kezeli, ha a tényleges részvétel lehetősége fennáll; az EUMSZ 64. cikk (1) bekezdése az ingatlanbefektetést a közvetlen befektetés körébe említi, nem pedig kizárólagos tartalomként. A tévedés a fogalmat az ingatlanra szűkíti."
+        },
+        {
+          "text": "Közvetlen befektetés csak akkor áll fenn, ha a befektető a szavazatok többségét megszerzi; a kisebbségi részesedés soha nem tőkemozgás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mérce a tényleges részvétel lehetősége, nem a többség. A helyes: a C-503/99. sz. ügy szerint a közvetlen befektetést a vállalat irányításában vagy ellenőrzésében való tényleges részvétel lehetősége jellemzi; a tőkepiaci értékpapírszerzés is tőkemozgás. A tévedés a többségi küszöböt a fogalom helyére állítja."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "ed1620b18781"
+    },
+    {
+      "question": "Mi következik abból, ha egy tagállam a 65. cikk (1) bekezdés b) pontjára hivatkozva a tőkemozgást önkényesen megkülönböztető módon korlátozza?",
+      "options": [
+        {
+          "text": "A 65. cikk (3) bekezdése szerint az (1) és (2) bekezdésben említett intézkedések és eljárások nem szolgálhatnak a 63. cikkben meghatározott szabad tőkemozgásra és fizetési műveletekre vonatkozó önkényes megkülönböztetés vagy rejtett korlátozás eszközéül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fenntartás nem abszolút. Az EUMSZ 65. cikk (3) bekezdése az (1) bekezdés b) pontja szerinti szükséges intézkedést is elzárja az önkényes megkülönböztetéstől. A Bordessa-ügy az arányosságot az engedély és a nyilatkozat különbségén méri. A hatékony ellenőrzés elfogadható, a szabadság közigazgatási mérlegeléssé ürítése nem."
+        },
+        {
+          "text": "A 65. cikk (1) bekezdés b) pontjára hivatkozás automatikusan igazol minden korlátozást, a (3) bekezdés csak tájékoztató jellegű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fenntartásra hivatkozás nem abszolút mentesség. A helyes: az EUMSZ 65. cikk (3) bekezdése elzárja az (1) és (2) bekezdés szerinti intézkedéseket az önkényes megkülönböztetéstől és a rejtett korlátozástól. A C-503/99. sz. ügy a kimentést arányossági próbához köti: felsorolt ok vagy nyomós közérdek, általános hatály, alkalmasság, szükségesség. A tévedés a fenntartást automatikus igazolássá emeli."
+        },
+        {
+          "text": "A C-503/99. sz. ügy szerint a kimentéshez a felsorolt ok vagy nyomós közérdek, az általános hatály, az alkalmasság, a szükségesség és az arányosság együttes vizsgálata szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a próba konjunktív. A C-503/99. sz. ügy 45–47. pontja a 73D cikk (1) bekezdését — a mai EUMSZ 65. cikk (1) bekezdését — így olvassa. A közbiztonság csak valós és kellően komoly fenyegetésnél hívható fel. Az önkényes vagy rejtett korlátozás a (3) bekezdés miatt elesik."
+        },
+        {
+          "text": "Az önkényes megkülönböztetés csak a fizetési műveletnél tilos; a tőkemozgásnál a (3) bekezdés nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés mindkét szabadságra kiterjed. A helyes: az EUMSZ 65. cikk (3) bekezdése a 63. cikkben meghatározott szabad tőkemozgásra és fizetési műveletekre vonatkozó önkényes megkülönböztetést vagy rejtett korlátozást zárja ki. A tévedés a záradékot a fizetési sávra szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "12d2ecad6865"
+    },
+    {
+      "question": "Mely állítások HAMISAK a tőke szabad mozgásának fogalmi elhatárolásáról? (tanító)",
+      "options": [
+        {
+          "text": "A turisztikai bankjegyátadás minden esetben tőkemozgás a tőkeirányelvek D. jegyzéke miatt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a D. jegyzék nem abszolút besorolás. A helyes: a C-286/82 és C-26/83 Luisi és Carbone ügy szerint a bankjegyátadás nem tőkemozgás, ha a szolgáltatás ellenértékét teljesíti. A 67. és a 106. cikk párhuzamos olvasata erősíti az elhatárolást; a D. jegyzék puszta említése nem teszi minden átadást tőkemozgássá. A tévedés a jegyzéket automatikus tőkemozgássá emeli."
+        },
+        {
+          "text": "A tőke tilalma felnyitja a letelepedési jog Szerződésekkel összeegyeztethető korlátozásait.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a letelepedési záradékok fennmaradnak. A helyes: az EUMSZ 65. cikk (2) bekezdése szerint e fejezet rendelkezései nem érintik a letelepedési jogra vonatkozó és a Szerződésekkel összeegyeztethető korlátozások alkalmazhatóságát. A 49. cikk saját záradékai tehát a tőketilalom mellett is érvényesülhetnek. A tévedés a tőketilalmat a letelepedési korlátozások feloldásává olvassa."
+        },
+        {
+          "text": "A fizetőeszközök fizikai kivitele az áruk szabad mozgásának hatálya alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fizikai átadás a tőke- és fizetésfejezet alá tartozik. A helyes: a C-358/93 és C-416/93. sz. Bordessa egyesített ügyek szerint a szabályozás nem a 30. és 59. cikk hatálya alá esik. A Thompson-ügy 25. pontja a fizetési eszközök áru-minőségét elutasítja. A tévedés a bankjegy formájából az áruszabadságra következtet."
+        },
+        {
+          "text": "A tőkemozgás és a fizetési művelet ugyanaz a szerződési tényállás, mert mindkettő pénzügyi átutalás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két tényállás párhuzamos, de nem felcserélhető. A helyes: a C-286/82 és C-26/83 Luisi és Carbone ügy szerint a fizetési művelet a mögöttes áru- vagy szolgáltatási ügylet ellenértéke, a tőkemozgás a tőke elhelyezése vagy befektetése. Az EUMSZ 63. cikk (1) és (2) bekezdése e kettőt külön fedi. A tévedés a közös pénzügyi formából azonosságot vezet le."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "5a58661e4ed4"
+    },
+    {
+      "question": "Mi a jogkövetkezménye annak, ha a 66. cikk szerinti védintézkedés időtartama a hat hónapos felső határt átlépné?",
+      "options": [
+        {
+          "text": "A védintézkedés határozatlan időre is fenntartható, ha a Parlament évente megújítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozatlan vagy évente megújítható tartam a 66. cikkbe nem fér. A helyes: az EUMSZ 66. cikk hat hónapos felső határt és feltétlen szükségességet ír elő; a Parlament egyetértése e cikkben nem jelenik meg. A tévedés az időablakot és az intézményi szereplőt elcsúsztatja."
+        },
+        {
+          "text": "A hat hónapos felső határ a tagállamok közötti tőkemozgás felfüggesztését sem oldja fel: a 66. cikk e belső viszonyra nem ad időablakot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az időzár a külső védintézkedésre szól. Az EUMSZ 66. cikk a harmadik országos tőkemozgás GMU-sokkja elleni uniós eszköz; a tagállamok közötti tőkemozgás e cikkel nem függeszthető fel. Az EUMSZ 63. cikk (1) bekezdése a belső tilalmat a hat hónapos külső intézkedés mellett is fedi. A belső felfüggesztés időablaka e szövegbe nem fér."
+        },
+        {
+          "text": "A hat hónap elteltével a Bizottság egyoldalú határozattal meghosszabbíthatja a védintézkedést, ha az EKB egyetért.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szöveg meghosszabbítási klauzulát nem ad. A helyes: az EUMSZ 66. cikk „hat hónapot meg nem haladó időszakra” engedi a védintézkedést feltétlen szükségesség mellett; a Tanács jár el a Bizottság javaslata és az EKB konzultációja után. A Bizottság egyoldalú meghosszabbítása e szövegbe nem fér. A tévedés az időbeli zártságot feloldja."
+        },
+        {
+          "text": "A védintézkedés csak hat hónapot meg nem haladó időszakra hozható, és csak ha feltétlenül szükséges; a hosszabb időablak a szövegbe nem fér.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az időzár és a szükségesség konjunktív. Az EUMSZ 66. cikk szövege szerint a Tanács harmadik országokkal szemben „hat hónapot meg nem haladó időszakra” hozhat intézkedést, amennyiben az feltétlenül szükséges. A 65. cikk (1) bekezdés b) pontjának közrendi-közbiztonsági sávja ettől eltérő időtávú és alanyú. Az EUMSZ 63. cikk (1)–(2) bekezdése a belső tőkemozgás és fizetési művelet tilalmát a 66. cikk mellett is fenn tartja."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "756884d73967"
+    },
+    {
+      "question": "Mi a jogkövetkezménye annak, ha a 88/361/EGK irányelv 1. cikke a nemzeti bíróság előtt érvényesül a Bordessa-ügy szerint?",
+      "options": [
+        {
+          "text": "A 4. cikk kivétele automatikusan kizárja az 1. cikk egyéni érvényesíthetőségét minden felügyeleti intézkedésnél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivétel nem oltja ki a közvetlen hatályt. A helyes: a Bordessa-ügy szerint az, hogy a tagállam a 88/361/EGK irányelv 4. cikk lehetőségével élhet, nem akadályozza, hogy az 1. cikk az egyénekre érvényesíthető jogokat ruházzon. A kivétel alkalmazása bírósági felülvizsgálat tárgya marad. A tévedés a kivételt abszolút kizárássá emeli."
+        },
+        {
+          "text": "Az előzetes engedélyt előíró nemzeti szabály a közösségi joggal ellentétes, ezért a nemzeti bíróság mellőzheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ellentétes szabály alkalmazhatatlan. A Bordessa-ügyben a nemzeti bíróság a kedvezőbb büntetőjogi rendelkezés visszaható hatályát is figyelembe vehette. Az irányelv 1. és 4. cikke tiltja az érmék, bankjegyek vagy bemutatóra szóló csekkek kivitelének előzetes engedélyhez kötését. A nyilatkozati kötelezettség ugyanakkor fennmaradhat."
+        },
+        {
+          "text": "Az 1. cikk csak a Bizottság kötelezettségszegési eljárásában érvényesül, egyéni perben nem hivatkozható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyéni érvényesíthetőség fennáll. A helyes: a C-358/93 és C-416/93 Bordessa-ügy szerint a 88/361/EGK irányelv 1. cikkére a 4. cikkel összefüggésben a nemzeti bíróságok előtt hivatkozni lehet. Az ellentétes nemzeti szabályokat ez alkalmazhatatlanná teszi. A tévedés a közvetlen hatályt kizárólag a kötelezettségszegési eljárásra szűkíti."
+        },
+        {
+          "text": "Az 1. cikkre a 4. cikkel összefüggésben a nemzeti bíróságok előtt hivatkozni lehet, és az ellentétes nemzeti szabályokat alkalmazhatatlanná teszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetlen hatály a felügyeleti kivétel mellett is áll. A C-358/93 és C-416/93 Bordessa-ügy szerint a 88/361/EGK irányelv 1. cikke pontos és feltétel nélküli, külön végrehajtási intézkedést nem igényel. A 4. cikk szerinti kivétel alkalmazása bírósági felülvizsgálat alá esik, de ez nem oltja ki az egyéni jogokat. Az, hogy a tagállam a kivétellel élhet, nem akadályozza az egyéni érvényesíthetőséget."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "a47d1088277e"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a Bachmann-féle adórendszeri koherencia a Svensson-ügy szerint?",
+      "options": [
+        {
+          "text": "A Bachmann-ügy és a C-300/90. sz. Bizottság kontra Belgium ügy adórendszeri koherenciája itt nem alkalmazható, mert a kamattámogatás és annak a hitelintézetek nyereségadójából történő finanszírozása között nincs közvetlen kapcsolat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetlen kapcsolat hiánya kizárja a koherencia-érvet. A C-484/93 Svensson-ügy a Bachmann-ügytől és a C-300/90. sz. Bizottság kontra Belgium ügytől elhatárolva állapítja meg: ott a járulékok levonhatósága és a biztosító által fizetendő összegekre kivetett adó között közvetlen kapcsolat állt fenn. A luxemburgi kamattámogatás költségvetési visszatérülése ilyen kapcsolatot nem teremt. Ezért a koherencia-érv a kamattámogatás-feltétel igazolására nem hívható fel."
+        },
+        {
+          "text": "A kamattámogatás és a nyereségadó közötti bármely költségvetési kapcsolat elegendő a Bachmann-koherencia alkalmazásához.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetett költségvetési visszatérülés nem elég. A helyes: a C-484/93 Svensson-ügy szerint a Bachmann-féle koherencia csak közvetlen kapcsolatnál áll; a kamattámogatás és a hitelintézetek nyereségadójából történő finanszírozás között ilyen kapcsolat nincs. A letelepedési feltétel ezért nem igazolható e koherencia-érvvel. A tévedés a közvetett költségvetési összefüggést a Bachmann-mércével azonosítja."
+        },
+        {
+          "text": "A Svensson-ügy a Bachmann-koherenciát a tőkemozgás minden korlátozására kiterjeszti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Svensson-ügy éppen elutasítja a Bachmann-érvet. A helyes: a C-484/93 ügy a kamattámogatás és a nyereségadó között hiányzó közvetlen kapcsolat miatt nem alkalmazza a Bachmann-koherenciát. A letelepedési feltétel tőkekorlátozásként és a 59. cikk szerinti szolgáltatási diszkriminációként bukik. A tévedés az elutasítást kiterjesztő alkalmazássá fordítja."
+        },
+        {
+          "text": "A letelepedés helyén alapuló hátrányos megkülönböztetés csak a szerződés 56. cikk (1) bekezdésében említett, a 66. cikk által hivatkozott közérdekű indokokkal igazolható, amelyek nem foglalnak magukban gazdasági célokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a gazdasági cél kiesik. A Svensson-ügy a szolgáltatásnyújtás szabadságának akkori közérdekű záradékát alkalmazza. Az ítélet 56. és 66. cikke a szolgáltatási záradék, nem a mai EUMSZ 63. cikk tőketilalma és nem a 66. cikk GMU-védintézkedése. A költségvetési arány önmagában nem közérdekű igazolás."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "1b6a9c99d5f8"
+    },
+    {
+      "question": "Mely állítások HAMISAK a 64. cikk szerepéről a belső és a külső tőkemozgás között? (tanító)",
+      "options": [
+        {
+          "text": "A harmadik országos tilalom csak a 64. cikk (2) bekezdése után válik főszabállyá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a harmadik országos tilalom már a főszabály része. A helyes: az EUMSZ 63. cikk (1) bekezdése a tagállamok és harmadik országok közötti tőkemozgás minden korlátozását tiltja. A 64. cikk ezt záradékkal töri meg, nem pedig a tilalmat késlelteti. A tévedés a főszabályt és a záradékot felcseréli."
+        },
+        {
+          "text": "A 64. cikk a tagállamok közötti tőkemozgás 1993 előtti korlátozásait is fenntartja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a záradék csak a harmadik országos viszonyt menti. A helyes: az EUMSZ 64. cikk (1) bekezdése a harmadik országokra történő továbbalkalmazást hagyja meg. A tagállamok közötti tőkemozgás tilalma az EUMSZ 63. cikk (1) bekezdése szerint a belső viszonyra is kiterjed. A tévedés a fennmaradási záradékot a belső piacra is kiterjeszti."
+        },
+        {
+          "text": "A visszalépést jelentő intézkedést a Parlament és a Tanács rendes jogalkotásban, minősített többséggel fogadja el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a visszalépés egyhangú Tanácsot kíván. A helyes: az EUMSZ 64. cikk (3) bekezdése szerint a visszalépést jelentő intézkedést kizárólag a Tanács fogadhatja el egyhangúlag, különleges jogalkotási eljárásban. Az Európai Parlamenttel folytatott konzultáció kötelező, de a döntés nem a rendes jogalkotás. A rendes pálya a (2) bekezdés szerinti továbbvitel."
+        },
+        {
+          "text": "A 64. cikk általános közérdekű kimentés bármely tőkekorlátozásra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fennmaradási záradék nem nyitott kimentés. A helyes: az EUMSZ 64. cikk a külső tőkemozgás időbeli fennmaradási záradéka és intézményi programja. A tagállami fenntartások katalógusa a 65. cikk (1) bekezdésének a) és b) pontja. A tévedés a fennmaradási záradékot általános kimentéssé olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "ecb2ed5a623f"
+    },
+    {
+      "question": "Mit enged az EUMSZ 65. cikk (1) bekezdés a) pontja az adójog területén?",
+      "options": [
+        {
+          "text": "Az a) pont lehetővé teszi, hogy a tagállam bármely gazdasági céllal eltérjen a tőketilalomtól az adójog ürügyén.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az a) pont nem gazdasági szabadkártya. A helyes: az EUMSZ 65. cikk (1) bekezdés a) pontja csak a lakóhely vagy tőkebefektetés helye szerinti adóügyi különbségtételt hagyja meg. A (3) bekezdés elzárja az önkényes megkülönböztetéstől és a rejtett korlátozástól. A tévedés a fenntartást nyitott gazdasági kimentéssé tágítja."
+        },
+        {
+          "text": "Az adóügyi különbségtétel a 63. cikk tilalma alá esik, az a) pont csak tájékoztató jellegű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az a) pont érdemi fenntartás. A helyes: az EUMSZ 65. cikk (1) bekezdés a) pontja szerint a 63. cikk rendelkezései nem érintik a lakóhely vagy tőkebefektetés helye szerinti adóügyi különbségtétel alkalmazását. A korlát a (3) bekezdés önkényességi és rejtettkorlátozási tilalma. A tévedés a fenntartást puszta tájékoztatássá gyengíti.\n\n# 38 tudas n=46"
+        },
+        {
+          "text": "Az a) pont fenntartása a (3) bekezdés korlátja alatt áll: a lakóhelyi vagy befektetési hely szerinti adóügyi különbségtétel sem lehet a szabad tőkemozgás önkényes megkülönböztetésének vagy rejtett korlátozásának eszköze.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az a) pont nem abszolút mentesség. Az EUMSZ 65. cikk (1) bekezdés a) pontja a lakóhely vagy a tőkebefektetés helye szerinti adóügyi különbségtételt hagyja meg. A (3) bekezdés ugyanakkor az (1) és (2) bekezdés intézkedéseit elzárja az önkényes megkülönböztetéstől és a rejtett korlátozástól. A fenntartás tehát a 63. cikk tilalmát csak e korlátok között töri meg."
+        },
+        {
+          "text": "A tagállamok alkalmazhatják adójoguk azon vonatkozó rendelkezéseit, amelyek a lakóhely vagy a tőkebefektetés helye alapján az adózók között különbséget tesznek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az adóügyi különbségtétel nevesített fenntartás. Az EUMSZ 65. cikk (1) bekezdés a) pontja a lakóhely vagy a tőkebefektetés helye szerinti különbségtételt kifejezetten meghagyja. A (3) bekezdés ugyanakkor elzárja az önkényes megkülönböztetéstől és a rejtett korlátozástól. A fenntartás tehát nem abszolút mentesség a 63. cikk tilalma alól."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "5759edc55936"
+    }
+  ]
+}

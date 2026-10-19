@@ -1,0 +1,549 @@
+{
+  "id": "Fqkpt0OAuFXGea0SlZ9P",
+  "sorszam": 37,
+  "cim": "A szolgáltatások szabad mozgása, a szolgáltatás fogalma, az (...)",
+  "generationType": "fogalom",
+  "title": "37. A szolgáltatások szabad mozgása, a szolgáltatás fogalma, az (...)",
+  "questions": [
+    {
+      "question": "Mit tilalmaz az EUMSZ 56. cikk első albekezdése a szolgáltatásnyújtás szabadsága körében, és kiket érint a személyi hatály?",
+      "options": [
+        {
+          "text": "Tilos az Unión belüli szolgáltatásnyújtás szabadságára vonatkozó minden korlátozás a tagállamok olyan állampolgárai tekintetében, akik nem abban a tagállamban letelepedettek, mint a szolgáltatást igénybe vevő személy.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a határon átnyúló nyújtás minden korlátozására kiterjed. Az EUMSZ 56. cikk első albekezdése szerint tilos az Unión belüli szolgáltatásnyújtás szabadságára vonatkozó minden korlátozás a tagállamok olyan állampolgárai tekintetében, akik nem abban a tagállamban letelepedettek, mint a szolgáltatást igénybe vevő. A tényállás hárompólusú: a nyújtó, az igénybe vevő és a két letelepedési hely eltérése. A tilalom nem csupán az állampolgárságon alapuló nyílt hátrányos megkülönböztetést fogja át."
+        },
+        {
+          "text": "Az EUMSZ 56. cikk csak a belföldi szolgáltatói piac megnyitását írja elő, és a nyújtó valamint az igénybe vevő letelepedési helyének azonosságát feltételezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom nem a belföldi piacot nyitja meg. A helyes: az EUMSZ 56. cikk a határon átnyúló nyújtást védi, ahol a nyújtó és az igénybe vevő letelepedési helye eltér; a tilalom a nem az igénybe vevő államában letelepedett tagállami állampolgárra vonatkozik. A tévedés a határon átnyúló tényállást belföldi piacnyitásra cseréli. A szolgáltatásnyújtás szabadsága a belső piac negyedik alapszabadságaként éppen a határon átnyúló elemet feltételezi."
+        },
+        {
+          "text": "A tilalom személyi hatálya a tagállami állampolgár nyújtóra terjed, aki nem az igénybe vevő tagállamában letelepedett; a második albekezdés lehetővé teszi, hogy a fejezet harmadik országok Unióban letelepedett állampolgáraira is kiterjedjen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyi kör alapból a tagállami állampolgárokra szűkül, kiterjesztés külön jogalkotással lehetséges. Az EUMSZ 56. cikk első albekezdése a nem az igénybe vevő államában letelepedett tagállami állampolgárt védi. A második albekezdés szerint az Európai Parlament és a Tanács rendes jogalkotási eljárásban a fejezet rendelkezéseit kiterjesztheti harmadik országok olyan állampolgáraira, akik szolgáltatásokat nyújtanak és az Unió területén letelepedettek. A kiterjesztés tehát nem automatikus, hanem jogalkotási aktushoz kötött."
+        },
+        {
+          "text": "A tilalom kizárólag az állampolgárságon alapuló nyílt hátrányos megkülönböztetésre korlátozódik, egyéb korlátozásra nem terjed ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom tárgyi köre nem szűkül a nyílt diszkriminációra. A helyes: az EUMSZ 56. cikk első albekezdése szerint tilos a szolgáltatásnyújtás szabadságára vonatkozó minden korlátozás a megjelölt személyi körben. A megszüntetendő korlátozás magában foglalja az állampolgárságon vagy a fogadó államban való letelepedés, illetve szokásos tartózkodás hiányán alapuló követelményt is, amely a fogadóban letelepedettekre nem vonatkozik. A tévedés forrása a tilalomnak a nyílt hátrányos megkülönböztetésre szűkített olvasata."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "a58e662901dc"
+    },
+    {
+      "question": "Hogyan határozza meg az EUMSZ 57. cikk a szolgáltatás fogalmát, és mi a szubszidiaritás lényege?",
+      "options": [
+        {
+          "text": "Szolgáltatás a rendszerint díjazás ellenében nyújtott tevékenység, ha nem tartozik az áruk, a tőke és a személyek szabad mozgására vonatkozó rendelkezések hatálya alá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fogalom szubszidiárius és gazdasági jellegű. Az EUMSZ 57. cikk első mondata szerint a Szerződések alkalmazásában „szolgáltatás” a rendszerint díjazás ellenében nyújtott szolgáltatás, ha nem tartozik az áruk, a tőke és a személyek szabad mozgására vonatkozó rendelkezések hatálya alá. A díjazás a tevékenység gazdasági jellegét jelöli. A szubszidiaritás azt jelenti, hogy a szolgáltatási fejezet csak akkor lép be, ha a másik három mozgásszabadság hatálya nem fogja át a tevékenységet."
+        },
+        {
+          "text": "Az EUMSZ 57. cikk a szolgáltatást kizárólag a négy taxatíve felsorolt tevékenységtípusra korlátozza, és a díjazás nem feltétele a fogalomnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lista nem taxatív, a díjazás pedig a fogalom része. A helyes: az EUMSZ 57. cikk a szolgáltatást rendszerint díjazás ellenében nyújtott tevékenységként határozza meg, és a különösen felsorolt ipari, kereskedelmi, kézműipari és szabadfoglalkozású tevékenységek példák, nem kimerítő kör. A tévedés a „különösen” listát zárt taxációnak olvassa, és a díjazási ismérvet kihagyja."
+        },
+        {
+          "text": "Szolgáltatásnak minősülnek különösen az ipari, a kereskedelmi, a kézműipari és a szabadfoglalkozásúként végzett tevékenységek; a felsorolás nem kimerítő jellegű.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a cikk példáló felsorolást ad. Az EUMSZ 57. cikk szerint szolgáltatásnak minősülnek különösen: a) az ipari jellegű tevékenységek; b) a kereskedelmi jellegű tevékenységek; c) a kézműipari tevékenységek; d) a szabadfoglalkozásúként végzett tevékenységek. A „különösen” fordulat mutatja, hogy a lista nem taxatív. A gazdasági jellegű, díjazás ellenében végzett tevékenység tehát a négy példán túl is a fogalom alá eshet, ha a szubszidiárius feltétel teljesül."
+        },
+        {
+          "text": "A szolgáltatás fogalma elsődleges a többi alapszabadsághoz képest: ha a tevékenység díjazás ellenében történik, mindig a szolgáltatási fejezet az irányadó, az áruk és a személyek szabályait megelőzve.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fogalom szubszidiárius, nem elsődleges. A helyes: az EUMSZ 57. cikk szerint szolgáltatás csak az a díjazás ellenében nyújtott tevékenység, amely nem esik az áruk, a tőke vagy a személyek szabad mozgásának hatálya alá; a szolgáltatási fejezet tehát a másik három szabadság után következik. A tévedés a szubszidiaritást elsőbbségre fordítja. A díjazás önmagában nem billenti a tevékenységet a szolgáltatási fejezet alá, ha más szabadság hatálya már lefedi."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "d17dd2758b1e"
+    },
+    {
+      "question": "Miben különbözik a szolgáltatás ideiglenes jellege a letelepedéstől a C-55/94. sz. Gebhard-ügy szerint?",
+      "options": [
+        {
+          "text": "Ha a szolgáltató a fogadó államban irodát vagy fogadóhelyiséget tart fenn, a tevékenység automatikusan letelepedésnek minősül, függetlenül az időtartamtól és a folyamatosságtól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az infrastruktúra önmagában nem telepíti a nyújtót. A helyes: a C-55/94. sz. Gebhard-ügy szerint az ideiglenesség nem zárja ki a szükséges infrastruktúra — iroda, dolgozószoba, fogadóhelyiség — megteremtését; a minősítést az időtartam, a gyakoriság, az ismétlődés és a folyamatosság együtt dönti el. A tévedés az infrastruktúrát automatikus letelepedési ismérvvé emeli. Az EUMSZ 57. cikk harmadik albekezdése is az ideiglenes jelenlétet engedi a fogadó államban."
+        },
+        {
+          "text": "A szolgáltatás ideiglenes jellegét nemcsak az időtartam, hanem a gyakoriság, az ismétlődő vagy folyamatos jelleg alapján kell elbírálni; a szükséges infrastruktúra — iroda, dolgozószoba, fogadóhelyiség — önmagában nem zárja ki az ideiglenességet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ideiglenesség több tényezős mérce, és az infrastruktúra nem döntő. A C-55/94. sz. Gebhard-ügy szerint a szolgáltatás ideiglenes jellegét az időtartam mellett a gyakoriság, az ismétlődő vagy folyamatos jelleg alapján kell elbírálni. Az ideiglenesség nem zárja ki a fogadó államban szükséges infrastruktúra megteremtését. A letelepedés ezzel szemben állandó és folyamatos részvétel egy másik tagállam gazdasági életében."
+        },
+        {
+          "text": "A letelepedés tág fogalom: állandó és folyamatos részvétel egy másik tagállam gazdasági életében; a szolgáltatási fejezet csak akkor alkalmazható, ha a letelepedési fejezet nem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két fejezet között a letelepedés elsőbbséget élvez a hatályban. A C-55/94. sz. Gebhard-ügy szerint a szolgáltatási fejezet csak akkor alkalmazható, ha a letelepedési fejezet nem. A letelepedés magában foglalja a tevékenység önálló vállalkozóként való megkezdését és folytatását, valamint telephelyek létrehozását. Gebhard állandó és folyamatos ügyvédi tevékenysége Olaszországban telephelyről ezért a letelepedési, nem a szolgáltatási fejezet alá esett."
+        },
+        {
+          "text": "A szolgáltatási fejezet mindig megelőzi a letelepedési fejezetet, ha a tevékenység díjazás ellenében történik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatály sorrendje fordított. A helyes: a C-55/94. sz. Gebhard-ügy szerint a szolgáltatási fejezet csak akkor alkalmazható, ha a letelepedési fejezet nem; a letelepedés az állandó és folyamatos gazdasági részvétel. A tévedés a szolgáltatást elsőbbségi fejezetként kezeli. Az EUMSZ 57. cikk a letelepedési jog sérelme nélkül engedi az ideiglenes tevékenységet a célállamban."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "bdbe1a4017e3"
+    },
+    {
+      "question": "Mi a C-33/74. sz. van Binsbergen-ügy tanulsága a fogadó államban való szokásos tartózkodás megköveteléséről?",
+      "options": [
+        {
+          "text": "Korlátozásmentes szakmai tevékenységnél a lakóhelyi követelmény összeegyeztethetetlen a szabadsággal, ha az igazságszolgáltatás kevésbé korlátozó intézkedéssel, például kézbesítési megbízott címének választásával is biztosítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kevésbé korlátozó eszköz arányossági mércét ad. A C-33/74. sz. van Binsbergen-ügy szerint, ha a szolgáltatás semmiféle képesítési vagy szakmai szabályozási követelményhez nem kötött, és a lakóhelyet a területre hivatkozással írják elő, a követelmény a szabadsággal összeegyeztethetetlen. Az igazságszolgáltatás kevésbé korlátozó intézkedéssel, például kézbesítési megbízott címének választásával is biztosítható. A holland szabály e körbe tartozott, mert a képviselői tevékenységhez nem fűződött képesítési feltétel."
+        },
+        {
+          "text": "A van Binsbergen-ügy szerint a lakóhelyi követelmény mindig jogszerű, ha a nyújtó a per folyamán másik tagállamba helyezi át a tartózkodását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tartózkodás áthelyezése nem legitimálja a követelményt. A helyes: a C-33/74. sz. van Binsbergen-ügyben Kortmann Zeistből Belgiumba helyezte át a szokásos tartózkodását, és a Bíróság a holland lakóhelyi szabályt a tilalom hasznos hatásának kiüresítéseként olvasta, ha képesítési feltétel nélkül vonja el a képviseletet. A tévedés a tényállási mozzanatot igazoló oknak tünteti fel. Az EUMSZ 61. cikk is a fennmaradó korlátozások állampolgárság és lakóhely szerinti különbségtétel nélküli alkalmazását parancsolja."
+        },
+        {
+          "text": "A fogadó állam minden esetben megkövetelheti a szokásos tartózkodást a bírósági képviseletnél, mert az igazságszolgáltatás működése önmagában igazolja a lakóhelyi követelményt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lakóhelyi követelmény nem automatikusan igazolt. A helyes: a C-33/74. sz. van Binsbergen-ügy szerint a szokásos tartózkodás megkövetelése a tilalom hasznos hatását elveszítheti; képesítés nélküli tevékenységnél a kézbesítési cím kevésbé korlátozó eszközként jön szóba, és a lakóhelyi szabály összeegyeztethetetlen lehet. A tévedés az igazságszolgáltatást abszolút igazolássá emeli. A közjó által igazolt, mindenkire kötelező szakmai szabályok más mérce szerint maradhatnak fenn."
+        },
+        {
+          "text": "A fogadó államban való szokásos tartózkodás megkövetelése a körülményektől függően a szolgáltatásnyújtási szabadság minden hasznos érvényesülését elveszítheti, mert a tilalom célja éppen a nem ott letelepedett nyújtók korlátozásainak megszüntetése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lakóhelyi követelmény kiüresítheti a tilalom hasznos hatását. A C-33/74. sz. van Binsbergen-ügy szerint a fogadó államban való szokásos tartózkodás megkövetelése a körülményektől függően a korábbi 59. cikk minden hasznos érvényesülését elveszíti. A megszüntetendő korlátozás magában foglal minden, különösen állampolgárságon vagy a fogadó államban való szokásos tartózkodás hiányán alapuló követelményt, amely a nemzeti területen letelepedettekre nem vonatkozik. Kortmann Belgiumba helyezett tartózkodása miatt a holland képviselői jogosultság elvonása e formula alá esett."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "13f5cdc198a7"
+    },
+    {
+      "question": "Mit enged az EUMSZ 57. cikk harmadik albekezdése a szolgáltatást nyújtó személynek a fogadó államban?",
+      "options": [
+        {
+          "text": "A fogadó államban a nyújtó csak a származási állam feltételei szerint tevékenykedhet, a fogadó saját állampolgáraira irányadó szabályoktól mentesen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fogadó saját állampolgáraira irányadó feltételek az irányadók az ideiglenes jelenlétnél. A helyes: az EUMSZ 57. cikk harmadik albekezdése szerint a nyújtó ideiglenesen a szolgáltatásnyújtás helye szerinti tagállamban is folytathatja tevékenységét „az ezen állam saját állampolgáraira irányadó feltételek szerint”. A tévedés a származási állam feltételeit teszi kizárólagossá. A C-55/94. sz. Gebhard-ügy a fogadó szakmai feltételeket a négyes arányossági próba alá helyezi."
+        },
+        {
+          "text": "Az EUMSZ 57. cikk harmadik albekezdése a nyújtót kötelezi arra, hogy a fogadó államban állandó telephelyet létesítsen, mielőtt szolgáltatást nyújtana.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a harmadik albekezdés ideiglenes jelenlétet enged, nem állandó telephelyet ír elő. A helyes: az EUMSZ 57. cikk szerint a nyújtó a szolgáltatásnyújtás érdekében tevékenységét ideiglenesen a fogadó tagállamban is folytathatja a saját állampolgárokra irányadó feltételek szerint, a letelepedési fejezet sérelme nélkül. A tévedés a szolgáltatást letelepedési kötelezettséggel cseréli fel. A 2006/123/EK irányelv 16. cikke (2) bekezdése a fogadó államban való telephely előírását tiltott követelményként is kezeli."
+        },
+        {
+          "text": "Az ideiglenes fogadó állami tevékenység nem jelenti automatikusan a letelepedést; a szükséges infrastruktúra önmagában nem billenti át a minősítést, ha a tevékenység ideiglenes marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az infrastruktúra nem döntő a letelepedés javára. Az EUMSZ 57. cikk harmadik albekezdése az ideiglenes folytatást engedi a fogadó államban. A C-55/94. sz. Gebhard-ügy szerint az ideiglenesség nem zárja ki az iroda, dolgozószoba vagy fogadóhelyiség megteremtését. A letelepedés akkor jön szóba, ha a nyújtó állandó és folyamatos módon vesz részt a fogadó állam gazdasági életében."
+        },
+        {
+          "text": "A letelepedési jogra vonatkozó fejezet sérelme nélkül a szolgáltatást nyújtó személy a szolgáltatásnyújtás érdekében tevékenységét ideiglenesen a szolgáltatásnyújtás helye szerinti tagállamban is folytathatja az ezen állam saját állampolgáraira irányadó feltételek szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ideiglenes jelenlét a saját állampolgárokkal azonos feltételek mellett megengedett. Az EUMSZ 57. cikk harmadik albekezdése kimondja: „A letelepedési jogra vonatkozó fejezet rendelkezéseinek sérelme nélkül a szolgáltatást nyújtó személy a szolgáltatásnyújtás érdekében tevékenységét ideiglenesen a szolgáltatásnyújtás helye szerinti tagállamban is folytathatja az ezen állam saját állampolgáraira irányadó feltételek szerint.” Az ideiglenesség a letelepedéstől elválasztó ismérv. A C-55/94. sz. Gebhard-ügy szerint ezt az időtartam, a gyakoriság, az ismétlődés és a folyamatosság együtt dönti el."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "ae1e1d3d7f29"
+    },
+    {
+      "question": "Miben tér el az EUMSZ 58. cikk a szolgáltatási fejezet általános rendjétől a közlekedés, illetve a banki és biztosítási szolgáltatások tekintetében?",
+      "options": [
+        {
+          "text": "A banki és biztosítási szolgáltatások liberalizációja a 56. cikk alapján, a tőkemozgásoktól függetlenül valósul meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a banki-biztosítási liberalizáció a tőkéhez van kötve. A helyes: az EUMSZ 58. cikk (2) bekezdése szerint a tőkemozgásokkal kapcsolatos banki és biztosítási szolgáltatások liberalizációja a tőkemozgások liberalizációjával összhangban valósul meg. A tévedés a 56. cikk általános tilalmát teszi önálló liberizációs alappá. A közlekedés ezzel párhuzamosan a közlekedési címhez utalódik az (1) bekezdés szerint."
+        },
+        {
+          "text": "A közlekedés területén a szolgáltatásnyújtás szabadságára a közlekedésre vonatkozó cím rendelkezései az irányadók, tehát a 56. cikk tilalma itt nem a saját fejezet szerint érvényesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közlekedés ágazati címhez van utalva. Az EUMSZ 58. cikk (1) bekezdése szerint a közlekedés területén a szolgáltatásnyújtás szabadságára a közlekedésre vonatkozó cím rendelkezései az irányadók. A szolgáltatási fejezet tehát nem húzható rá általános klauzulaként a közlekedési piacra. Az utaló a belső piac ágazati szerkezetét védi."
+        },
+        {
+          "text": "A tőkemozgásokkal kapcsolatos banki és biztosítási szolgáltatások liberalizációja a tőkemozgások liberalizációjával összhangban valósul meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a banki és biztosítási liberalizáció a tőke címéhez kötött. Az EUMSZ 58. cikk (2) bekezdése szerint a tőkemozgásokkal kapcsolatos banki és biztosítási szolgáltatások liberalizációja a tőkemozgások liberalizációjával összhangban valósul meg. A két utaló szabály a közlekedés és a tőke saját címének sérelme nélkül tartja a szolgáltatási fejezetet. A banki-biztosítási piac tehát nem a 56. cikk általános tilalmának önálló ágazati klauzulája."
+        },
+        {
+          "text": "Az EUMSZ 58. cikk a közlekedési szolgáltatásokat a 56. cikk általános tilalma alá vonja, és a közlekedési cím szabályait kizárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közlekedés a közlekedési címhez van utalva. A helyes: az EUMSZ 58. cikk (1) bekezdése szerint a közlekedés területén a szolgáltatásnyújtás szabadságára a közlekedésre vonatkozó cím rendelkezései az irányadók; a 56. cikk tilalma itt nem a saját fejezet szerint érvényesül. A tévedés a közlekedést a szolgáltatási általános klauzula alá helyezi. A banki és biztosítási ágazat a (2) bekezdés szerint a tőkemozgások liberalizációjához igazodik."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "f28ac924c5ad"
+    },
+    {
+      "question": "Milyen másodlagos jogi eszközt ad az EUMSZ 59. cikk a szolgáltatások liberalizációjához, és milyen sorrendet szab a (2) bekezdés?",
+      "options": [
+        {
+          "text": "Az Európai Parlament és a Tanács a Gazdasági és Szociális Bizottsággal folytatott konzultációt követően, rendes jogalkotási eljárásban irányelveket bocsát ki valamely meghatározott szolgáltatás liberalizációjának elérése érdekében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a liberalizáció irányelvi úton történik. Az EUMSZ 59. cikk (1) bekezdése szerint az Európai Parlament és a Tanács a Gazdasági és Szociális Bizottsággal folytatott konzultációt követően, rendes jogalkotási eljárás keretében irányelveket bocsát ki. Az irányelv nem a 56. cikk tilalmát helyettesíti, hanem meghatározott szolgáltatás piacra lépési akadályait közelíti. A másodlagos eszköz tehát a szerződéses tilalom mellett, nem helyette áll."
+        },
+        {
+          "text": "Főszabályként azok a szolgáltatások élveznek elsőbbséget, amelyek közvetlen hatást gyakorolnak a termelési költségekre, vagy amelyek liberalizációja hozzájárul a termékek kereskedelmének előmozdításához.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a termékek belső piacához köti a sorrendet. Az EUMSZ 59. cikk (2) bekezdése szerint az (1) bekezdésben említett irányelvek tekintetében főszabályként azok a szolgáltatások élveznek elsőbbséget, amelyek közvetlen hatást gyakorolnak a termelési költségekre, vagy amelyek liberalizációja hozzájárul a termékek kereskedelmének előmozdításához. Ez a sorrend a szolgáltatást az áruk belső piacához kapcsolja. Nem önálló iparági politikaként kezeli a liberalizációt."
+        },
+        {
+          "text": "A (2) bekezdés szerint elsőbbséget élveznek azok a szolgáltatások, amelyek semmilyen kapcsolatban nem állnak a termékek kereskedelmével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a sorrend éppen a termékkereskedelemhez és a termelési költségekhez köt. A helyes: az EUMSZ 59. cikk (2) bekezdése szerint főszabályként azok a szolgáltatások élveznek elsőbbséget, amelyek közvetlen hatást gyakorolnak a termelési költségekre, vagy amelyek liberalizációja hozzájárul a termékek kereskedelmének előmozdításához. A tévedés a kapcsolódás hiányát teszi elsőbbségi szemponttá. Az (1) bekezdés az irányelvi eszközt a Gazdasági és Szociális Bizottság konzultációjához is köti."
+        },
+        {
+          "text": "Az EUMSZ 59. cikk rendeleti formát ír elő a liberalizációhoz, és az irányelv a 56. cikk tilalmát helyettesíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a cikk irányelvet ír elő, és az nem helyettesíti a 56. cikk tilalmát. A helyes: az EUMSZ 59. cikk (1) bekezdése szerint az Európai Parlament és a Tanács rendes jogalkotási eljárásban irányelveket bocsát ki meghatározott szolgáltatás liberalizációja érdekében; az irányelv a piacra lépési akadályokat közelíti, nem a szerződéses tilalmat váltja fel. A tévedés a jogi aktus típusát és a tilalomhoz való viszonyt is elcsúsztatja. A (2) bekezdés a termelési költségre és a termékkereskedelemre ható szolgáltatásoknak ad elsőbbséget."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "5a7f7bd887a7"
+    },
+    {
+      "question": "Mely négy együttes feltételnek kell megfelelniük a nemzeti rendelkezéseknek a C-55/94. sz. Gebhard-ügy szerint, ha az alapvető szabadságok gyakorlását akadályozhatják?",
+      "options": [
+        {
+          "text": "A Gebhard-formula csak a szolgáltatási szabadságra vonatkozik, a letelepedési szabadság korlátozásaira nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a formula közös mérce. A helyes: a C-55/94. sz. Gebhard-ügy a Kraus-ügy 32. pontjára utaló négyes feltételt a szolgáltatási és a letelepedési szabadság közös mércéjeként mondja ki: hátrányos megkülönböztetéstől mentesség, közérdeken alapuló kényszerítő indok, alkalmasság és a szükséges mértéken túl nem lépés. A tévedés a közös mércét a szolgáltatási fejezetre szűkíti. A milánói kamarai tagság is e közös próba alá esett."
+        },
+        {
+          "text": "Alkalmazásuk hátrányos megkülönböztetéstől mentes, közérdeken alapuló kényszerítő indok által igazoltak, alkalmasak az elérni kívánt cél megvalósításának biztosítására, és nem lépnek túl az elérni kívánt célhoz szükséges mértéken.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a négy feltétel konjunktív. A C-55/94. sz. Gebhard-ügy szerint azoknak a nemzeti rendelkezéseknek, amelyek a Szerződés által biztosított alapvető szabadságok gyakorlását akadályozhatják vagy kevésbé vonzóvá tehetik, meg kell felelniük annak, hogy alkalmazásuk hátrányos megkülönböztetéstől mentes, közérdeken alapuló kényszerítő indok által igazoltak, alkalmasak a cél biztosítására, és nem lépnek túl a szükséges mértéken. A Kraus-ügy 32. pontjára utaló formula a szolgáltatási és a letelepedési szabadság közös mércéje. Egyetlen feltétel hiánya a korlátozást igazolatlanná teszi."
+        },
+        {
+          "text": "A négy feltétel a szolgáltatási és a letelepedési szabadság közös mércéje a Kraus-ügy 32. pontjára utaló formula szerint; egyetlen elem hiánya a nemzeti korlátozást igazolatlanná teszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a formula közös és konjunktív. A C-55/94. sz. Gebhard-ügy szerint azoknak a nemzeti rendelkezéseknek, amelyek a Szerződés által biztosított alapvető szabadságok gyakorlását akadályozhatják vagy kevésbé vonzóvá tehetik, meg kell felelniük a hátrányos megkülönböztetéstől mentesség, a közérdeken alapuló kényszerítő indok, az alkalmasság és a szükséges mértéken túl nem lépés együttesének. A Kraus-ügy 32. pontjára utaló formula a szolgáltatási és a letelepedési szabadság közös mércéje. A közérdekű indok önmagában nem elegendő."
+        },
+        {
+          "text": "Elegendő, ha a nemzeti rendelkezés közérdeken alapul; a hátrányos megkülönböztetéstől mentesség, az alkalmasság és az arányosság külön vizsgálata nem szükséges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a négy feltétel együttesen kötelező. A helyes: a C-55/94. sz. Gebhard-ügy szerint a nemzeti rendelkezésnek hátrányos megkülönböztetéstől mentesnek, közérdeken alapuló kényszerítő indokkal igazoltnak, a célra alkalmasnak kell lennie, és nem léphet túl a szükséges mértéken. A tévedés a közérdekű indokot önálló, elegendő igazolássá emeli. A fogadó képesítés-egyenértékűségi vizsgálata is e mérce mellett áll."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "bce5eacedf27"
+    },
+    {
+      "question": "Mi következik abból, ha a szolgáltatásnyújtás szabadságának korlátozásai még fennállnak — mit parancsol az EUMSZ 61. cikk?",
+      "options": [
+        {
+          "text": "A 61. cikk nem engedi, hogy a fennmaradó korlátozást a fogadó állam a nyújtó állampolgársága vagy lakóhelye szerint eltérően alkalmazza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különbségtétel tilalma a fennmaradó korlátozásokra is kiterjed. Az EUMSZ 61. cikk az átmeneti egyenlő bánásmódot írja elő a korlátozások eltörléséig. A különbségtétel tilalma az állampolgárság és a lakóhely szerint egyaránt áll. A C-33/74. sz. van Binsbergen-ügy a lakóhelyi követelményt a tilalom hasznos hatásának kiüresítéseként olvassa, ha az a nem letelepedett nyújtót zárja ki."
+        },
+        {
+          "text": "Az EUMSZ 61. cikk a fennmaradó korlátozások azonnali, teljes eltörlését írja elő rendeleti úton.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a cikk nem azonnali eltörlést, hanem egyenlő alkalmazást parancsol. A helyes: az EUMSZ 61. cikk a korlátozások eltörléséig az állampolgárság vagy lakóhely szerinti különbségtétel nélküli alkalmazást írja elő az 56. cikk szerinti nyújtókra. A tévedés az átmeneti egyenlő bánásmódot teljes eltörlésre és rendeleti formára cseréli. A liberalizáció irányelvi útját az EUMSZ 59. cikk adja, nem a 61. cikk."
+        },
+        {
+          "text": "Amíg a korlátozások fennállnak, a tagállam szabadon alkalmazhatja őket szigorúbban a más tagállami lakóhellyel rendelkező nyújtókra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lakóhely szerinti szigorítás tilos. A helyes: az EUMSZ 61. cikk szerint a korlátozások eltörléséig a tagállamok ezeket állampolgárság vagy lakóhely alapján történő különbségtétel nélkül alkalmazzák az 56. cikk szerinti nyújtókra. A tévedés a lakóhelyi különbségtételt megengedett átmeneti eszköznek tünteti fel. A C-33/74. sz. van Binsbergen-ügy ugyanezt a kiüresítő lakóhelyi követelményt veti el képesítés nélküli tevékenységnél."
+        },
+        {
+          "text": "A korlátozások eltörléséig a tagállamok ezeket a korlátozásokat állampolgárság vagy lakóhely alapján történő különbségtétel nélkül alkalmazzák az 56. cikk első bekezdése értelmében szolgáltatást nyújtó minden személyre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átmeneti egyenlő bánásmód a fennmaradó korlátozásokra is kötelező. Az EUMSZ 61. cikk szerint „A szolgáltatásnyújtás szabadságára vonatkozó korlátozások eltörléséig a tagállamok ezeket a korlátozásokat állampolgárság vagy lakóhely alapján történő különbségtétel nélkül alkalmazzák az 56. cikk első bekezdése értelmében szolgáltatást nyújtó minden személyre.” A viszonyítási alany tehát az 56. cikk első bekezdése szerinti nyújtó, nem a belföldi szolgáltató. A C-33/74. sz. van Binsbergen-ügy a lakóhelyi különbségtételt a tilalom hasznos hatásának kiüresítéseként olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "667eb14d8d42"
+    },
+    {
+      "question": "Miben tér el az EUMSZ 60. cikk szerinti többletliberalizáció az 59. cikk irányelveitől?",
+      "options": [
+        {
+          "text": "A Bizottság a többletliberalizáció érdekében ajánlásokat tesz az érintett tagállamoknak, nem kötelező aktust bocsát ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ajánlás a Bizottság eszköze ebben a körben. Az EUMSZ 60. cikk szerint a Bizottság ennek érdekében ajánlásokat tesz az érintett tagállamoknak. Az ajánlás nem kötelező aktus. A kötelező közelítés az EUMSZ 59. cikk (1) bekezdése szerinti irányelvekhez kapcsolódik, a többletút ehhez képest önkéntes."
+        },
+        {
+          "text": "Az EUMSZ 60. cikk kötelező rendeletben írja elő a tagállamoknak az 59. cikk irányelvein túli liberalizációt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 60. cikk nem kötelező rendeletet, hanem törekvést és ajánlást ad. A helyes: az EUMSZ 60. cikk szerint a tagállamok törekednek az 59. cikk (1) bekezdése szerinti irányelveken túli liberalizációra, ha gazdasági helyzetük és az ágazat ezt lehetővé teszi; a Bizottság ajánlásokat tesz. A tévedés a többletutat kötelező rendeletté emeli. Az 59. cikk (1) bekezdése az irányelvi eszközt tartja fenn a meghatározott szolgáltatás liberalizációjához."
+        },
+        {
+          "text": "A többletliberalizáció feltétele a Bizottság kötelező határozata, a tagállam gazdasági helyzetétől függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a feltétel a gazdasági helyzet, az eszköz pedig ajánlás. A helyes: az EUMSZ 60. cikk a többletliberalizációt az általános gazdasági helyzethez és az érintett ágazat helyzetéhez köti, és a Bizottság ajánlást tesz, nem kötelező határozatot. A tévedés a helyzetfüggő önkéntességet kötelező határozati útra cseréli. Az 59. cikk (1) bekezdése szerinti irányelv marad a kötelező közelítés fő másodlagos eszköze."
+        },
+        {
+          "text": "A tagállamok törekednek arra, hogy az 59. cikk (1) bekezdése alapján kibocsátott irányelvek által előirányzott mértéken túl is vállalják a szolgáltatások liberalizációját, ha általános gazdasági helyzetük és az érintett ágazat helyzete ezt lehetővé teszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a többletliberalizáció önkéntes, helyzetfüggő vállalás. Az EUMSZ 60. cikk a tagállamokat arra ösztönzi, hogy az 59. cikk (1) bekezdése szerinti irányelveken túl is vállaljanak liberalizációt. A vállalás feltétele az általános gazdasági helyzet és az érintett gazdasági ágazat helyzete. A Bizottság e körben ajánlást tesz, tehát nem kötelező aktust bocsát ki."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "7e41793372ae"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható önmagában a szolgáltatási fejezet a C-33/74. sz. van Binsbergen-ügy szerint, ha a nyújtó a szabadsággal a fogadó szakmai szabályokat kerülni kívánja?",
+      "options": [
+        {
+          "text": "A szolgáltatási szabadság mindig felülírja a fogadó szakmai magatartási szabályokat, még ha a nyújtó tevékenysége főként a fogadó területére irányul is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kijátszás esetén a letelepedési fejezet jöhet szóba. A helyes: a C-33/74. sz. van Binsbergen-ügy szerint, ha a tevékenység teljes egészében vagy főként a fogadó területére irányul, a tagállam megakadályozhatja a letelepedési szakmai magatartási szabályok kijátszását, és e helyzet a letelepedési fejezet alá tartozhat. A tévedés a szolgáltatási szabadságot abszolút pajzzsá emeli. A közjó által igazolt, mindenkire kötelező szakmai szabályok külön igazolási úton maradhatnak fenn."
+        },
+        {
+          "text": "A közjó által igazolt szakmai szabályok csak akkor tarthatók fenn, ha kizárólag a más tagállamból érkező nyújtókra vonatkoznak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szabályoknak mindenkire kötelezőnek kell lenniük. A helyes: a C-33/74. sz. van Binsbergen-ügy szerint a közjó által igazolt szakmai szabályok — szervezet, képesítés, etika, felügyelet, felelősség — akkor igazolhatók, ha minden fogadóban letelepedett személyre kötelezőek, és a másik tagállamban való letelepedés e szabályok alól kimentené a nyújtót. A tévedés a csak külföldiekre szabott követelményt tekinti igazoltnak. A lakóhelyi követelmény képesítés nélküli tevékenységnél ettől elválva összeegyeztethetetlen lehet."
+        },
+        {
+          "text": "A közjó által igazolt szakmai szabályok — szervezet, képesítés, szakmai etika, felügyelet, felelősség — fennmaradhatnak, ha minden, a fogadó államban letelepedett személyre kötelezőek, és a másik tagállamban való letelepedés e szabályok alól kimentené a nyújtót.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mindenkire kötelező, közjó által igazolt szakmai szabályok igazolhatók. A C-33/74. sz. van Binsbergen-ügy szerint a nyújtandó szolgáltatások különös jellege igazolhat különös követelményeket, ha azok a közjó által igazolt szakmai szabályok alkalmazását szolgálják. A feltételek: minden fogadóban letelepedett személyre kötelezőek, és a másik tagállamban való letelepedés e szabályok alól kimentené a nyújtót. A lakóhelyi követelmény ettől elválik, ha képesítési feltétel nélkül csupán a területre hivatkozik."
+        },
+        {
+          "text": "A tagállam intézkedéseket hozhat annak megakadályozására, hogy az, akinek tevékenysége teljes egészében vagy főként a területére irányul, a szolgáltatásnyújtási szabadsággal a letelepedés esetén alkalmazandó szakmai magatartási szabályokat kerülje ki; e helyzet a letelepedési, nem a szolgáltatási fejezet alá tartozhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kijátszás a letelepedési fejezethez utalható. A C-33/74. sz. van Binsbergen-ügy szerint a tagállam intézkedéseket hozhat a szabadsággal való kijátszás megakadályozására, ha a tevékenység teljes egészében vagy főként a fogadó területére irányul. Ilyenkor a letelepedés esetén alkalmazandó szakmai magatartási szabályok megkerülése a letelepedési, nem a szolgáltatási fejezet alá tartozhat. A szolgáltatási szabadság tehát nem pajzs a letelepedési deontológia alól."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "781c43d75c8c"
+    },
+    {
+      "question": "A törvény által felsoroltak közül melyik szerepel ténylegesen a 2006/123/EK irányelv 16. cikke (2) bekezdésének tiltott követelményei között?",
+      "options": [
+        {
+          "text": "Tiltott többek között a fogadó államban való telephely, az ottani engedély, nyilvántartás vagy szakmai tagság, a szükséges iroda vagy helyiség tilalma, az önálló vállalkozói nyújtást akadályozó szerződéses kikötés, valamint a fogadó hatóság által kiállított azonosító okmány előírása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés zárt tiltólistát ad a tipikus fogadó akadályokra. A 2006/123/EK irányelv 16. cikke (2) bekezdése tiltott követelményként sorolja a fogadó államban való telephelyet, az ottani engedélyt, nyilvántartást vagy szakmai tagságot, a szükséges iroda vagy helyiség tilalmát, az önálló vállalkozói nyújtást akadályozó szerződéses kikötést, valamint a fogadó hatóság által kiállított azonosító okmányt. A 16. cikk (1) bekezdése a szolgáltatásnyújtás szabadságát mondja ki a letelepedési helytől eltérő tagállamban. A tilalmi lista a szabadság kiüresítését akadályozza."
+        },
+        {
+          "text": "Tiltott a fogadó hatóság által kiállított azonosító okmány előírása, valamint az önálló vállalkozói nyújtást akadályozó szerződéses kikötés is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés tiltólistája e tipikus akadályokat is lefedi. A 2006/123/EK irányelv 16. cikke (2) bekezdése tiltott követelményeket sorol: a fogadó államban való telephely, az ottani engedély, nyilvántartás vagy szakmai tagság, a szükséges iroda vagy helyiség tilalma, az önálló vállalkozói nyújtást akadályozó szerződéses kikötés, valamint a fogadó hatóság által kiállított azonosító okmány. A lista a szolgáltatásnyújtás szabadságának magját védi. A 17. cikk a 16. cikk alóli további eltéréseket nyitja, többek között az ÁGEI körében."
+        },
+        {
+          "text": "A 16. cikk (2) bekezdése csak az azonosító okmányt tiltja, a telephely, az engedély és a szakmai tagság előírása megengedett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tiltólista a telephelyet, az engedélyt és a szakmai tagságot is lefedi. A helyes: a 2006/123/EK irányelv 16. cikke (2) bekezdése tiltottként sorolja a fogadó államban való telephelyet, az ottani engedélyt, nyilvántartást vagy szakmai tagságot, a szükséges iroda tilalmát, az önálló vállalkozói nyújtást akadályozó kikötést és a fogadó azonosító okmányt. A tévedés a listát az azonosító okmányra csonkítja. A 17. cikk a 16. cikk alóli további eltéréseket nyitja, többek között az általános gazdasági érdekű szolgáltatások körében."
+        },
+        {
+          "text": "A fogadó állam szabadon előírhatja a területén való állandó telephely létesítését a szolgáltatásnyújtás feltételeként.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a telephely előírása tiltott követelmény. A helyes: a 2006/123/EK irányelv 16. cikke (2) bekezdése tiltja a fogadó államban való telephely előírását; a 16. cikk a szolgáltatók jogát védi, hogy a letelepedési helyüktől eltérő tagállamban nyújtsanak szolgáltatást. A tévedés a tiltott telephelyi követelményt megengedett feltételnek tünteti fel. A megtartható követelmények csak a diszkriminációmentesség, a közrendi–közbiztonsági–közegészségügyi–környezetvédelmi szükségesség és az arányosság mellett állhatnak fenn."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "c3c338f43f54"
+    },
+    {
+      "question": "Mit rendel az EUMSZ 62. cikk a letelepedési fejezet 51–54. cikkének a szolgáltatási fejezethez való viszonyáról?",
+      "options": [
+        {
+          "text": "Az EUMSZ 62. cikk a 56. cikk tilalmát felváltja a letelepedési 51–54. cikk szabályaival, ezért a szolgáltatási tilalom önállóan nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az utaló a 56. cikk tilalma mellett áll, nem helyette. A helyes: az EUMSZ 62. cikk szerint az 51–54. cikk rendelkezéseit a szolgáltatási fejezet által szabályozott kérdésekre is alkalmazni kell, anélkül hogy a 56. cikk tilalma helyettük lépne; az utaló nem nyit új tilalmat és nem szűkíti a 56. cikk hatályát. A tévedés a kiegészítő utalót helyettesítő hatályúnak olvassa. A 54. cikk társasági fogalma is csak e kiegészítő úton hathat ki a szolgáltatásokra."
+        },
+        {
+          "text": "Az 51–54. cikk rendelkezéseit a szolgáltatási fejezet által szabályozott kérdésekre is alkalmazni kell; az utaló nem nyit új tilalmat, és nem szűkíti a 56. cikk hatályát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 62. cikk a letelepedési 51–54. cikket a szolgáltatási kérdésekre is irányadóvá teszi. Az EUMSZ 62. cikk szerint az 51–54. cikk rendelkezéseit az e fejezet által szabályozott kérdésekre is alkalmazni kell. Nem nyit új tilalmat, és nem szűkíti a 56. cikk hatályát: a 56–61. cikk mellett a letelepedési fejezet e négy cikkét is irányadónak rendeli. A 54. cikk második albekezdésének társasági fogalma — polgári vagy kereskedelmi jog alapján létrejött társaság, szövetkezet és más jogi személy, a nonprofit szervezetek kivételével — így a szolgáltatási fejezetre is kihathat."
+        },
+        {
+          "text": "A 62. cikk kizárja, hogy a 54. cikk társasági fogalma a szolgáltatási fejezetre kihasson.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a társasági fogalom kihathat a szolgáltatási fejezetre. A helyes: az EUMSZ 62. cikk a letelepedési 51–54. cikket a szolgáltatási fejezet kérdéseire is alkalmazni rendeli, ezért a 54. cikk második albekezdésének társasági fogalma — polgári vagy kereskedelmi jog alapján létrejött társaság, szövetkezet és más jogi személy, a nonprofit szervezetek kivételével — a szolgáltatási fejezetre is kihathat. A tévedés az utaló hatását a társasági fogalomtól elvágja. A 56. cikk tilalma e kiegészítő utaló mellett továbbra is a határon átnyúló szolgáltatásnyújtás korlátozásait fogja át."
+        },
+        {
+          "text": "A szolgáltatási tényállásra is irányadók a letelepedési 51–54. cikk szabályai, anélkül hogy a 56. cikk tilalma helyettük lépne.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az utaló kiegészít, nem helyettesít. Az EUMSZ 62. cikk a letelepedési 51–54. cikket a szolgáltatási fejezet kérdéseire is alkalmazni rendeli. A 56. cikk tilalma mellett állnak ezek a szabályok, nem helyettük. A korábbi EKSz 55. cikk helyén álló utaló tehát a két fejezet párhuzamos irányadóságát biztosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "c5fc7df35e19"
+    },
+    {
+      "question": "Olaszországban közösségi állampolgár ügyvéd telephelyről, állandó és folyamatos jelleggel folytat ügyvédi tevékenységet, többek között olasz ügyfelek számára. Mely megállapítások állják meg a helyüket a C-55/94. sz. Gebhard-ügy szerint?",
+      "options": [
+        {
+          "text": "E tényállásra a letelepedési, nem a szolgáltatási fejezet vonatkozik, mert a letelepedés állandó és folyamatos részvétel egy másik tagállam gazdasági életében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, Gebhard tényállása letelepedés. A C-55/94. sz. Gebhard-ügy szerint Gebhard közösségi tagállam állampolgáraként Olaszországban, egy telephelyről, állandó és folyamatos jelleggel folytatott ügyvédi tevékenységet, többek között olasz ügyfelek számára; e tényállásra a letelepedési, nem a szolgáltatási fejezet vonatkozik. A szolgáltatási fejezet csak akkor alkalmazható, ha a letelepedési fejezet nem. Az ideiglenes szolgáltatás ettől elváló, több tényezős mércével bír."
+        },
+        {
+          "text": "A milánói kamara azon érve, hogy csak a kamarai tagsággal vagy tagsággal rendelkezőkkel való együttműködéssel lehet „letelepedett”, nem fogadható el: a tagság a tevékenység megkezdésének és folytatásának feltétele, nem a letelepedés fogalmi eleme.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kamarai tagság feltétel, nem fogalmi előkérdés. A C-55/94. sz. Gebhard-ügy elutasította azt az érvet, hogy csak kamarai tagsággal vagy tagsággal rendelkezőkkel való együttműködéssel lehetne „letelepedett”. A tagság a tevékenység megkezdésének és folytatásának feltétele. A milánói „avvocato” cím és a kamarai tagság a négyes arányossági próba és az egyenértékűségi vizsgálat alá esik."
+        },
+        {
+          "text": "Gebhard tényállására a szolgáltatási fejezet az irányadó, mert ügyvédi tevékenység díjazás ellenében történik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a díjazás önmagában nem billenti a szolgáltatási fejezet alá. A helyes: a C-55/94. sz. Gebhard-ügy szerint az állandó és folyamatos, telephelyről végzett ügyvédi tevékenység a letelepedési fejezet alá tartozik; a szolgáltatási fejezet csak akkor alkalmazható, ha a letelepedési nem. A tévedés a díjazást a fejezetválasztás döntő ismérvévé emeli. Az EUMSZ 57. cikk szerint szolgáltatás csak az a díjazás ellenében nyújtott tevékenység, amely nem esik az áruk, a tőke vagy a személyek szabad mozgásának hatálya alá."
+        },
+        {
+          "text": "A kamarai tagság a letelepedés fogalmi eleme: tagság nélkül a tevékenység nem minősülhet letelepedésnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tagság nem fogalmi elem. A helyes: a C-55/94. sz. Gebhard-ügy szerint a kamarai tagság a tevékenység megkezdésének és folytatásának feltétele, nem a letelepedés fogalmi eleme; a letelepedés az állandó és folyamatos gazdasági részvétel. A tévedés a fogalmi elemet és a gyakorlási feltételt felcseréli. A cím és a tagság a négyes arányossági próba alá esik."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "2032ac9cd811"
+    },
+    {
+      "question": "Miért hoz létre a 2006/123/EK irányelv általános jogi keretet a belső piaci szolgáltatásokról?",
+      "options": [
+        {
+          "text": "Azért, mert a Szerződés 43. és 49. cikkének (ma 49. és 56. cikk) közvetlen alkalmazása eseti alapon, különösen a bővítés után, nem szüntette meg az akadályokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv a szerződéses tilalom eseti alkalmazásának elégtelenségére válaszol. A 2006/123/EK irányelv általános jogi keretet hoz létre, mert a Szerződés 43. és 49. cikkének — ma 49. és 56. cikk — közvetlen alkalmazása eseti alapon, különösen a bővítés után, nem szüntette meg az akadályokat. Az irányelv a letelepedési szabadságra és a szolgáltatások szabad mozgására vonatkozó rendelkezéseit csak annyiban teszi kötelezővé, amennyiben az érintett tevékenységek a versenyre nyitottak. Nem kötelez általános gazdasági érdekű szolgáltatások liberalizációjára."
+        },
+        {
+          "text": "Az irányelv a szerződéses 56. cikk tilalmát hatályon kívül helyezi, és kizárólag a másodlagos jogot teszi irányadóvá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelv a szerződéses tilalmat nem helyezi hatályon kívül. A helyes: a 2006/123/EK irányelv azért jött létre, mert a Szerződés 43. és 49. cikkének — ma 49. és 56. cikk — eseti alkalmazása nem szüntette meg az akadályokat; általános keretet ad, nem a 56. cikk tilalmát váltja fel. A tévedés a másodlagos jogot a szerződéses tilalom helyébe állítja. A 16. cikk a szolgáltatásnyújtás szabadságát a szerződéses mércével összhangban fogalmazza meg."
+        },
+        {
+          "text": "Azért, hogy a letelepedési és a szolgáltatásnyújtási szabadságra vonatkozó rendelkezések általános keretben kötelezőek legyenek a versenyre nyitott tevékenységekre, anélkül hogy ÁGEI-liberalizációra, magánosításra vagy monopólium-eltörlésre kényszerítenének.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv a szerződéses tilalom eseti elégtelenségére válaszol, de nem szerkezeti privatizációs parancs. A 2006/123/EK irányelv a Szerződés 43. és 49. cikkének (ma 49. és 56. cikk) közvetlen alkalmazása után született általános keret. A letelepedési és szolgáltatásnyújtási rendelkezéseit csak annyiban teszi kötelezővé, amennyiben az érintett tevékenységek a versenyre nyitottak. Nem kötelez általános gazdasági érdekű szolgáltatások liberalizációjára, közintézmények magánosítására vagy monopóliumok eltörlésére."
+        },
+        {
+          "text": "Az irányelv kötelezi a tagállamokat az általános gazdasági érdekű szolgáltatások liberalizációjára, a közintézmények magánosítására és a monopóliumok eltörlésére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelv nem kötelez ilyen szerkezeti liberalizációra. A helyes: a 2006/123/EK irányelv nem kötelez általános gazdasági érdekű szolgáltatások liberalizációjára, közintézmények magánosítására vagy monopóliumok eltörlésére; rendelkezései csak annyiban kötelezőek, amennyiben az érintett tevékenységek a versenyre nyitottak. A tévedés a keretirányelvet kötelező privatizációs eszköznek tünteti fel. A 17. cikk a 16. cikk alóli eltéréseket is nyitja e szolgáltatások körében."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "16f0d1c75a29"
+    },
+    {
+      "question": "Holland géplakatos társadalombiztosítási perében a képviselő a per folyamán szokásos tartózkodását Belgiumba helyezi át, és a holland szabály szerint csak Hollandiában letelepedett személy járhat el. Mely megállapítások állják meg a helyüket a C-33/74. sz. van Binsbergen-ügy szerint?",
+      "options": [
+        {
+          "text": "A tartózkodás Belgiumba helyezése önmagában igazolja a képviselet elvonását, mert a képviselő már nem a per államában lakik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tartózkodás áthelyezése nem legitimálja az elvonást. A helyes: a C-33/74. sz. van Binsbergen-ügyben a Bíróság a holland lakóhelyi szabályt a tilalom hasznos hatásának kiüresítéseként olvasta, ha képesítési feltétel nélkül a tartózkodás áthelyezése önmagában elvonja a képviseletet; kevésbé korlátozó eszköz a kézbesítési cím. A tévedés a tényállási mozzanatot igazoló oknak tünteti fel. Az EUMSZ 61. cikk is a lakóhely szerinti különbségtétel nélküli alkalmazást parancsolja."
+        },
+        {
+          "text": "A van Binsbergen-ügy szerint a lakóhelyi követelmény mindig jogszerű az igazságszolgáltatást állandó jelleggel segítő személyeknél, képesítési feltétel nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állandó szakmai jelenlét igazolása nem érvényes képesítés nélküli tevékenységre. A helyes: a C-33/74. sz. van Binsbergen-ügy szerint az igazságszolgáltatást állandó jelleggel segítő személyek szakmai jelenléte objektíve indokolható a magatartási szabályok betartásával, ez azonban nem áll fenn, ha a szolgáltatás semmiféle képesítési vagy szakmai szabályozási követelményhez nem kötött. A tévedés a képesítés nélküli képviseletre is kiterjeszti az állandó jelenlét igazolását. A kézbesítési cím kevésbé korlátozó eszközként jön szóba."
+        },
+        {
+          "text": "A megszüntetendő korlátozás magában foglal minden, különösen állampolgárságon vagy a fogadó államban való szokásos tartózkodás hiányán alapuló követelményt, amely a nemzeti területen letelepedettekre nem vonatkozik, vagy amely a nyújtó tevékenységét megakadályozza vagy gátolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a tartózkodási hely hiányán alapuló követelményt is átfogja. A C-33/74. sz. van Binsbergen-ügy szerint a megszüntetendő korlátozás magában foglal minden ilyen, a nemzeti területen letelepedettekre nem vonatkozó követelményt. Kortmann Zeistből a belgiumi Neeroeterenbe helyezte át a szokásos tartózkodását, és a Beroepswet 48. cikkének (1) bekezdése a képviseletet elvonta. A fogadó tartózkodás megkövetelése a tilalom hasznos érvényesülését elveszítheti."
+        },
+        {
+          "text": "Ha a képviselői tevékenységhez nem fűződik képesítési feltétel, a lakóhelyi követelmény összeegyeztethetetlen a szabadsággal, amennyiben kézbesítési megbízott címének választásával is biztosítható az igazságszolgáltatás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a képesítés nélküli tevékenységnél a kevésbé korlátozó eszköz dönt. A C-33/74. sz. van Binsbergen-ügy szerint korlátozásmentes szakmai tevékenységnél a lakóhelyi követelmény összeegyeztethetetlen, ha az igazságszolgáltatás kevésbé korlátozó intézkedéssel, például kézbesítési megbízott címének választásával is biztosítható. A holland szabály e formula alá esett. A közjó által igazolt, mindenkire kötelező szakmai szabályok ettől elváló igazolási úton maradhatnak fenn."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "78d1be5f8637"
+    },
+    {
+      "question": "Milyen tartamban és milyen ismérvekkel kell megítélni a szolgáltatás ideiglenes jellegét a 2006/123/EK irányelv preambuluma szerint?",
+      "options": [
+        {
+          "text": "Az ideiglenességet kizárólag a naptári napokban mért időtartam dönti el; a rendszeresség és a folyamatosság nem vizsgálható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ideiglenesség több tényezős. A helyes: a 2006/123/EK irányelv preambuluma szerint nemcsak az időtartamot, hanem a rendszerességet, az időszakos vagy folyamatos jelleget is figyelembe kell venni; a C-55/94. sz. Gebhard-ügy ugyanezt a több tényezős mércét alkalmazza. A tévedés az időtartamot egyedüli ismérvvé szűkíti. A szükséges infrastruktúra önmagában nem zárja ki az ideiglenességet."
+        },
+        {
+          "text": "A kulcskérdés az, hogy a gazdasági szereplő letelepedett-e abban a tagállamban, amelyben a szolgáltatást nyújtja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elhatárolás a letelepedés meglétén fordul. A 2006/123/EK irányelv preambuluma a Bíróság joggyakorlatát követve a kulcskérdést abban jelöli meg, hogy a gazdasági szereplő letelepedett-e abban a tagállamban, amelyben a szolgáltatást nyújtja. Ha letelepedett, a letelepedési szabályok az irányadók. A szolgáltatásnyújtás szabadsága a letelepedési helytől eltérő tagállamban való nyújtást védi a 16. cikk szerint."
+        },
+        {
+          "text": "Ha a szolgáltató irodahelyiséget tart fenn a fogadó államban, az ideiglenesség fogalmilag kizárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az infrastruktúra nem zárja ki az ideiglenességet. A helyes: a 2006/123/EK irányelv preambuluma szerint a tevékenység ideiglenes jellege nem zárja ki a szükséges infrastruktúrát; a C-55/94. sz. Gebhard-ügy az irodát, dolgozószobát és fogadóhelyiséget az ideiglenes szolgáltatással összeegyeztethetőnek tartja. A tévedés az infrastruktúrát automatikus letelepedési ismérvvé emeli. A letelepedés az állandó és folyamatos gazdasági részvétel."
+        },
+        {
+          "text": "Az ideiglenesség megítélésekor nemcsak az időtartamot, hanem a rendszerességet, az időszakos vagy folyamatos jelleget is figyelembe kell venni; a tevékenység ideiglenes jellege nem zárja ki a szükséges infrastruktúrát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv a Gebhard-mércét ismétli. A 2006/123/EK irányelv preambuluma szerint az ideiglenesség megítélésekor nemcsak az időtartamot, hanem a rendszerességet, az időszakos vagy folyamatos jelleget is figyelembe kell venni. A tevékenység ideiglenes jellege nem zárja ki a szükséges infrastruktúrát. A C-55/94. sz. Gebhard-ügy szerint az ideiglenességet az időtartam, a gyakoriság, az ismétlődő vagy folyamatos jelleg alapján kell elbírálni, és az iroda önmagában nem telepíti a nyújtót."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "c6736b5d18d7"
+    },
+    {
+      "question": "Mi következik abból, ha a fogadó állam a szolgáltatás igénybevevőjét állampolgárság vagy lakóhely szerint megkülönbözteti — mit mond a 2006/123/EK irányelv?",
+      "options": [
+        {
+          "text": "Az irányelv kötelező kollíziós szabályt ad a szolgáltató–ügyfél szerződés irányadó jogára, és felülírja a nemzetközi magánjogot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelv nem szabályozza az irányadó jogot. A helyes: a 2006/123/EK irányelv a szolgáltató és az ügyfél szerződéses viszonyának irányadó jogát nem szabályozza, azt a nemzetközi magánjog határozza meg; a 16. cikk a szolgáltatásnyújtás szabadságát és a fogadó követelmények diszkriminációmentes, szükséges és arányos keretét adja. A tévedés az irányelvet kollíziós kódexnek tünteti fel. A megkülönböztetési tilalom az igénybevevő állampolgárságára és lakóhelyére vonatkozik."
+        },
+        {
+          "text": "A Szerződés szabályaival összhangban tilos a szolgáltatás igénybevevőjének állampolgárság vagy nemzeti, illetve helyi lakóhely szerinti megkülönböztetése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom az igénybevevő oldalán is áll. A 2006/123/EK irányelv szerint a Szerződés szabályaival összhangban tilos a szolgáltatás igénybevevőjének állampolgárság vagy nemzeti, illetve helyi lakóhely szerinti megkülönböztetése. A szabadság tehát nemcsak a nyújtót, hanem az igénybevevőt is védi a megkülönböztetéstől. Az EUMSZ 56. cikk hárompólusú tényállása az igénybevevő letelepedési helyét is a tilalom szerkezetébe emeli."
+        },
+        {
+          "text": "A tilalom a nemzeti és a helyi lakóhely szerinti megkülönböztetésre is kiterjed, nem csupán az állampolgárság szerinti különbségtételre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az igénybevevő védelme a lakóhelyi síkot is átfogja. A 2006/123/EK irányelv 16. cikkének szabadsági kerete mellett — a Szerződés szabályaival összhangban — tilos a szolgáltatás igénybevevőjének állampolgárság vagy nemzeti, illetve helyi lakóhely szerinti megkülönböztetése. A belföldi fogyasztó védelme nem nyit diszkriminációs kivételt e tilalom alól. Az irányelv a szolgáltató és az ügyfél szerződéses viszonyának irányadó jogát nem szabályozza; azt a nemzetközi magánjog határozza meg."
+        },
+        {
+          "text": "Az igénybevevő állampolgárság szerinti megkülönböztetése megengedett, ha a fogadó állam a nyújtót egyébként egyenlően kezeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az igénybevevő megkülönböztetése is tilos. A helyes: a 2006/123/EK irányelv szerint a Szerződés szabályaival összhangban tilos a szolgáltatás igénybevevőjének állampolgárság vagy nemzeti, illetve helyi lakóhely szerinti megkülönböztetése. A tévedés a tilalmat a nyújtó oldalára szűkíti. Az EUMSZ 56. cikk a nyújtó és az igénybevevő letelepedési helyének eltérését a tilalom szerkezeti elemévé teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "33a661c9aec6"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a 2006/123/EK irányelv a munkaviszony és a kiküldetés területén?",
+      "options": [
+        {
+          "text": "A visszaélést a tagállam általános, absztrakt vélelemmel is megállapíthatja, anélkül hogy az adott ügy körülményeit vizsgálná.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a visszaélést eseti alapon kell megállapítani. A helyes: a 2006/123/EK irányelv szerint a tagállam megőrzi a jogát, hogy megakadályozza a belső piaci elvekkel való visszaélést, de a visszaélést eseti alapon kell megállapítani; a 16. cikk szerinti szabadságtól csak kifejezett eltérésekkel lehet eltérni. A tévedés az absztrakt vélelmet teszi elegendővé. A 96/71/EK irányelv szerinti kiküldött munkavállalók foglalkoztatási feltételei továbbra is kívül esnek a 2006/123/EK irányelv hatályán."
+        },
+        {
+          "text": "Az irányelv nem érinti a munkaviszony fennállásának, valamint az önálló vállalkozó és az alkalmazott elhatárolásának fogadó állami minősítését; a 96/71/EK szerinti kiküldött munkavállalók foglalkoztatási feltételei kívül esnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkajogi minősítés és a kiküldetés kizárt. A 2006/123/EK irányelv nem alkalmazandó a 96/71/EK irányelv szerinti kiküldött munkavállalók foglalkoztatási feltételeire, és nem érinti a munkaviszony fennállásának, valamint az önálló vállalkozó és az alkalmazott elhatárolásának fogadó állami minősítését. A szolgáltatásnyújtás szabadságától csak kifejezett eltérésekkel lehet eltérni a 16. cikk keretében. A visszaélés megakadályozásának joga fennmarad, de azt eseti alapon kell megállapítani — ez azonban nem a kiküldetés-kizárás magja."
+        },
+        {
+          "text": "Az irányelv felülírja a 96/71/EK irányelv szerinti kiküldött munkavállalók foglalkoztatási feltételeit, és egységes uniós munkaviszony-fogalmat ad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kiküldetés és a munkaviszony-minősítés kívül esik. A helyes: a 2006/123/EK irányelv nem alkalmazandó a 96/71/EK irányelv szerinti kiküldött munkavállalók foglalkoztatási feltételeire, és nem érinti a munkaviszony fennállásának, valamint az önálló vállalkozó és az alkalmazott elhatárolásának fogadó állami minősítését; a 16. cikk a szolgáltatásnyújtás szabadságát rendezi. A tévedés a szolgáltatási keretet munkajogi kódexnek tünteti fel. A visszaélést a tagállam eseti alapon állapíthatja meg."
+        },
+        {
+          "text": "Az irányelv nem alkalmazandó a 96/71/EK irányelv szerinti kiküldött munkavállalók foglalkoztatási feltételeire, és nem érinti a munkaviszony fennállásának, valamint az önálló vállalkozó és az alkalmazott elhatárolásának fogadó állami minősítését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkajogi minősítés és a kiküldetés kívül esik. A 2006/123/EK irányelv nem alkalmazandó a 96/71/EK irányelv szerinti kiküldött munkavállalók foglalkoztatási feltételeire. Ugyanezen keret szerint az irányelv nem érinti a munkaviszony fennállásának, valamint az önálló vállalkozó és az alkalmazott elhatárolásának fogadó állami minősítését. A 16. cikk szolgáltatásnyújtási szabadsága tehát nem írja felül a fogadó munkajogi minősítést."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "1694905ae772"
+    },
+    {
+      "question": "Mit mond ki szó szerint az EUMSZ 56. cikk első albekezdése a szolgáltatásnyújtás szabadságára vonatkozó korlátozásokról?",
+      "options": [
+        {
+          "text": "Az EUMSZ 56. cikk szerint tilos az Unión belüli szolgáltatásnyújtás szabadságára vonatkozó minden korlátozás a tagállamok olyan állampolgárai tekintetében, akik nem abban a tagállamban letelepedettek, mint a szolgáltatást igénybe vevő személy.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom szövegszerűen a határon átnyúló nyújtásra vonatkozik. Az EUMSZ 56. cikk első albekezdése kimondja: „tilos az Unión belüli szolgáltatásnyújtás szabadságára vonatkozó minden korlátozás a tagállamok olyan állampolgárai tekintetében, akik nem abban a tagállamban letelepedettek, mint a szolgáltatást igénybe vevő személy.” A személyi hatály a tagállami állampolgár nyújtóra szűkül. A tényállás a nyújtó és az igénybe vevő letelepedési helyének eltérését feltételezi."
+        },
+        {
+          "text": "Az EUMSZ 56. cikk csak a harmadik országbeli állampolgárok Unióban letelepedett körére vonatkozik, a tagállami állampolgárokra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a személyi hatály alapból a tagállami állampolgárokra terjed. A helyes: az EUMSZ 56. cikk első albekezdése a tagállamok olyan állampolgárait védi, akik nem az igénybe vevő tagállamában letelepedettek; a második albekezdés teszi lehetővé, hogy a fejezet harmadik országok Unióban letelepedett állampolgáraira is kiterjedjen rendes jogalkotási eljárásban. A tévedés a kiterjeszthető kört az alapesettel cseréli fel. A tilalom szövege a tagállami állampolgári kört rögzíti."
+        },
+        {
+          "text": "Az EUMSZ 56. cikk a tilalmat kizárólag a tőke szabad mozgásának hatálya alá tartozó pénzügyi szolgáltatásokra korlátozza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EUMSZ 56. cikk általános szolgáltatási tilalom, nem a tőkeág saját klauzulája. A helyes: az EUMSZ 56. cikk az Unión belüli szolgáltatásnyújtás szabadságára vonatkozó minden korlátozást tilalmaz a megjelölt személyi körben; a banki és biztosítási liberalizációt az EUMSZ 58. cikk (2) bekezdése a tőkemozgások liberalizációjához utalja. A tévedés a tőke szabad mozgásának síkját keveri a szolgáltatási általános tilalomba. Az EUMSZ 57. cikk a szolgáltatást a tőke hatályán kívüli, szubszidiárius fogalomként határozza meg."
+        },
+        {
+          "text": "A tilalom minden korlátozásra kiterjed, nem csupán az állampolgárságon alapuló nyílt hátrányos megkülönböztetésre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tárgyi kör a nyílt diszkrimináción túlnyúlik. Az EUMSZ 56. cikk első albekezdése a szolgáltatásnyújtás szabadságára vonatkozó minden korlátozást tilalmaz a megjelölt személyi körben. A megszüntetendő korlátozás a fogadó államban való letelepedés vagy szokásos tartózkodás hiányán alapuló követelményt is magában foglalhatja. A C-33/74. sz. van Binsbergen-ügy a lakóhelyi követelményt e tág tilalom hasznos hatásának kiüresítéseként olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "845755ffda35"
+    }
+  ]
+}

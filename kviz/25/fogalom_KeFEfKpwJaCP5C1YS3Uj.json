@@ -1,0 +1,765 @@
+{
+  "id": "KeFEfKpwJaCP5C1YS3Uj",
+  "sorszam": 25,
+  "cim": "Az előzetes döntéshozatali eljárás és a magyar bírósági jogalkalmazás (...)",
+  "generationType": "fogalom",
+  "title": "25. Az előzetes döntéshozatali eljárás és a magyar bírósági jogalkalmazás (...)",
+  "questions": [
+    {
+      "question": "Az előzetes döntéshozatali eljárás és a nemzeti perrend viszonyában mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A közösségi jog a kezdeményező végzések elleni fellebbezés rendjét is kógensen szabályozza, ezért a nemzeti perrend e kérdésben nem rendelkezhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fellebbezés a nemzeti kiegészítő keret tárgya. A helyes: az 1/2009. (VI. 24.) PK-KK közös vélemény szerint a kezdeményező végzések elleni fellebbezésre a közösségi jogi szabályozás nem terjed ki; a magyar megoldást a Pp. 130. § és a Be. 490. § (4) bekezdése, valamint a Cartesio-ítélet autonómia-korlátja adja. A tévedés a szerződéses utalási hatáskört a nemzeti perorvoslati szabályokkal azonosítja."
+        },
+        {
+          "text": "Az EKSz. 234. cikk (3) bekezdése azoknak a fórumoknak, amelyeknek határozatai ellen a nemzeti jog értelmében nincs jogorvoslati lehetőség, a kezdeményezést kötelezettségként írja elő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelező utalás a végső fórumot terheli. Az 1/2009. (VI. 24.) PK-KK közös vélemény szerint az EKSz. 234. cikk (3) bekezdése azoknak a fórumoknak, amelyeknek határozatai ellen a nemzeti jog értelmében nincs jogorvoslati lehetőség, a kezdeményezést kötelezettségként írja elő; a (2) bekezdés ezzel szemben a fordulás jogát adja, ha az ítélethez a kérdés eldöntése szükséges. A magyar gyakorlat szerint — ha a felülvizsgálat nincs kizárva — a kötelezett fórum a Legfelsőbb Bíróság. A kötelezettség és a fakultatív jog tehát fórumszinten elválik."
+        },
+        {
+          "text": "Az előzetes döntéshozatali eljárás uniós jogi intézmény, a nemzeti szabályozás csak kiegészítő keret lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fordulás hatásköre nem a magyar perrendből ered. Az 1/2009. (VI. 24.) PK-KK közös vélemény szerint a nemzeti szabályozás csak kiegészítő lehet: az EKSz. 234. cikk (2) bekezdése minden tagállami bíróságnak biztosítja, hogy a közösségi jog értelmezésével vagy az intézmények és az EKB aktusainak érvényességével kapcsolatos kérdésben a Bírósághoz forduljon, ha az ítélethez a kérdés eldöntése szükséges. A Pp. 130. § és a Be. 490. § e szerződéses hatáskört a magyar perrend nyelvére fordítja, de nem pótolja."
+        },
+        {
+          "text": "A magyar bíróság az előzetes döntéshozatali eljárás megindításának hatáskörét kizárólag a Pp. 130. §-ból nyeri, a szerződések szabályai csak tájékoztató jellegűek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nemzeti kiegészítő keretet elsődleges hatáskörforrássá emeli. A helyes: a polgári bíróság nem a Pp.-ből nyeri az előzetes döntéshozatal uniós jogi hatáskörét; a Pp. 130. § az Európai Unió alapját képező szerződésekben foglalt szabályokra utal, és ezzel a nemzeti perrendet kiegészítő eljárási keretté teszi. Az 1/2009. vélemény szerint a 234. cikk (2) bekezdése adja a fordulás jogát. A tévedés a Pp. formai szabályait a szerződéses hatáskör helyébe tolja."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "68e55c197a6f"
+    },
+    {
+      "question": "A polgári perbeli előzetes döntéshozatali kezdeményezés Pp. 130. § szerinti formájára mely állítások igazak?",
+      "options": [
+        {
+          "text": "A kezdeményező végzést a bíróság csak a fellebbviteli bíróság engedélyével változtathatja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megváltoztatás joga a kérdező bíróságnál marad. A helyes: a Pp. 130. § (2) bekezdése szerint a bíróság a kezdeményező végzését maga is megváltoztathatja; a Cartesio-ügy 96. pontja a kérelem fenntartását, megváltoztatását vagy visszavonását a kérdező felelősségéhez köti. A tévedés a fellebbviteli felülmérlegelést a nemzeti saját megváltoztatási jog helyébe tolja, noha a Cartesio-ratio éppen ezt zárja ki."
+        },
+        {
+          "text": "A bíróság az előzetes döntéshozatali eljárást a szerződésekben foglalt szabályok szerint hivatalból vagy kérelemre kezdeményezheti, és e döntéséről végzéssel határoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a polgári modell fakultatív és kétoldalú indítási utat ad. A Pp. 130. § (1) bekezdése szerint a bíróság az Európai Unió Bírósága előzetes döntéshozatali eljárását az Európai Unió alapját képező szerződésekben foglalt szabályok szerint hivatalból vagy kérelemre kezdeményezheti; a (2) bekezdés szerint a kezdeményezésről végzéssel határoz. Az 1/2009. vélemény ezt a fakultatív hatáskört a 234. cikk (2) bekezdésének magyar nyelvű fordításaként rögzíti. A forma tehát végzés, az indítás hivatalból és kérelemre egyaránt nyitott."
+        },
+        {
+          "text": "A bíróság a kezdeményező végzését maga is megváltoztathatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kérdező bíróság felelőssége a kérelem fenntartására, megváltoztatására vagy visszavonására is kiterjed. A Pp. 130. § (2) bekezdése expressis verbis kimondja: „a bíróság e végzését maga is megváltoztathatja”. A Cartesio-ügy 96. pontja és az 1/2009. vélemény szerint a kérelem helytállóságának és szükségességének megítélése a kérdező bíróság mérlegelésétől függ. A nemzeti eszköz tehát a saját végzés megváltoztatása, nem a fellebbvitel felülmérlegelése."
+        },
+        {
+          "text": "A bíróság az előzetes döntéshozatali eljárást kizárólag a fél kérelmére indíthatja, hivatalból soha.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a hivatalból indítást kizárja. A helyes: a Pp. 130. § (1) bekezdése szerint a bíróság az eljárást „hivatalból vagy kérelemre kezdeményezheti”, a szerződésekben foglalt szabályok szerint. A C-210/06. sz. Cartesio-ügy 90. pontja a felektől független, bíróságok közötti közvetlen együttműködést rögzíti. A tévedés a fél kérelmét a bírósági hatáskör előfeltételévé emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "e2ecde69e477"
+    },
+    {
+      "question": "Mi a tartalma a polgári perben hozott előzetes döntéshozatali kezdeményező végzésnek, és milyen szerepe van a miniszteri tájékoztatásnak?",
+      "options": [
+        {
+          "text": "A polgári kezdeményező végzésnek elegendő csupán a feltett kérdést tartalmaznia; a tényállás és a jogszabályok ismertetése a Be. modelljére tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tartalmi terhek fordítva állnak. A helyes: a Pp. 130. § (2) bekezdése a kérdés mellett a tényállást, a magyar és az uniós rendelkezéseket, valamint az indokokat is kéri. A Be. 490. § (2) bekezdése ehhez képest a tényállás és a magyar jogszabályok lényegét ismerteti, külön uniós rendelkezési és indokolási katalógus nélkül. A tévedés a szűkebb büntető kellékkört a polgári végzésre írja rá."
+        },
+        {
+          "text": "A miniszter előzetes hozzájárulása nélkül a bíróság nem kézbesítheti a kezdeményező végzést az EuB részére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a tájékoztatást engedélyezési feltétellé emeli. A helyes: a Pp. 130. § (2) bekezdése szerint a végzést az EuB részére történő kézbesítéssel egyidejűleg kell tájékoztatásul megküldeni a miniszternek; a tájékoztatás a magyar igazságügy-igazgatást informálja, nem a fordulás feltétele. A Be. 490. § (2) bekezdése ugyanezt az egyidejűséget írja elő. A tévedés a tájékoztatási kötelezettséget hozzájárulási jogosultsággá torzítja."
+        },
+        {
+          "text": "A bíróság a végzését az EuB részére történő kézbesítéssel egyidejűleg tájékoztatásul megküldi az igazságügyért felelős miniszternek is, ez azonban nem a fordulás feltétele.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a miniszteri tájékoztatás igazgatási informálás. A Pp. 130. § (2) bekezdése előírja, hogy a bíróság végzését az Európai Unió Bírósága részére történő kézbesítéssel egyidejűleg tájékoztatásul megküldi az igazságügyért felelős miniszter részére is. E tájékoztatás a magyar igazságügy-igazgatást informálja, nem a fordulás feltételét képezi. A Be. 490. § (2) bekezdése ugyanezt az egyidejű miniszteri kézbesítést rendeli. A tájékoztatás elmaradása tehát nem vonja el a szerződéses utalási hatáskört."
+        },
+        {
+          "text": "A végzésben a bíróság meghatározza a kérdést, és a szükséges mértékben ismerteti a tényállást, az érintett magyar jogszabályokat, a vonatkozó uniós rendelkezéseket, valamint a kezdeményezést megalapozó körülményeket és indokokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a polgári végzés tartalmi katalógusa széles. A Pp. 130. § (2) bekezdése szerint a bíróság a végzésben meghatározza azt a kérdést, amely az EuB előzetes döntését igényli, valamint — a feltett kérdés megválaszolásához szükséges mértékben — ismerteti a tényállást, az érintett magyar jogszabályokat, a vonatkozó uniós jogi rendelkezéseket, valamint azokat a körülményeket és indokokat, amelyek a kezdeményezést megalapozzák. A Be. 490. § (2) bekezdése ehhez képest szűkebb: a tényállás és a magyar jogszabályok lényegét kéri. A két modell formai kellékei tehát elválnak."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "a25e8c79aeb9"
+    },
+    {
+      "question": "Mi következik abból, ha a polgári bíróság az előzetes döntéshozatali eljárás kezdeményezésére irányuló kérelmet elutasítja?",
+      "options": [
+        {
+          "text": "Az elutasító végzés ellen a fél azonnali, külön fellebbezéssel támadhatja a 234. cikk (2) bekezdése szerinti mérlegelést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a külön fellebbezés a hatályos polgári modellben nincs megnyitva. A helyes: a Pp. 130. § (3) bekezdése szerint az elutasításról végzéssel határoz a bíróság, indokolási kötelezettsége legkésőbb az ítéletben teljesítendő; a hatályos Pp. 130. § a külön fellebbezést e szakaszban nem nyitja meg. A 2010. évi módosítás a külön fellebbezést a később indult ügyekben megszüntette. A tévedés a régi, Cartesio előtti fellebbezési utat a hatályos zárás helyébe tolja."
+        },
+        {
+          "text": "Az elutasítással a per automatikusan felfüggesztésre kerül, amíg a fél újabb kérelmet nem terjeszt elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elutasítás nem indít felfüggesztést. A helyes: a Pp. 126. § (1) bekezdése a peres eljárást akkor függeszti fel kötelezően, ha a bíróság az előzetes döntéshozatali eljárás kezdeményezéséről határoz. A Pp. 130. § (3) bekezdése szerint elutasításnál a per nem áll le, az indokolás legkésőbb az ítéletben teljesítendő. A tévedés a kezdeményezéshez kapcsolódó kötelező felfüggesztést az elutasításra írja át."
+        },
+        {
+          "text": "Az elutasításról a bíróság végzéssel határoz, e döntését azonban legkésőbb az ítéletében köteles megindokolni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elutasítás formai és indokolási ideje elválik. A Pp. 130. § (3) bekezdése szerint: „Ha a bíróság az előzetes döntéshozatali eljárás kezdeményezésére irányuló kérelmet elutasítja, erről végzéssel határoz, e döntését legkésőbb az ítéletében köteles megindokolni.” A per tehát nem áll le, a fél nem kap azonnal külön, a 234. cikk (2) bekezdése szerinti mérlegelést felülíró perorvoslatot. A Be. 490. § (3)–(4) bekezdése ehhez képest az elutasításról is végzéssel határoz, fellebbezés nélkül."
+        },
+        {
+          "text": "A hatályos Pp. 130. § a külön fellebbezést e szakaszban nem nyitja meg, a megváltoztatás jogát a kérdező bíróságnál hagyja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Cartesio utáni magyar zárás a külön fellebbezést megszüntette. Az 1/2009. vélemény szerint a 2010. január 1-jétől indult ügyekben a régi Pp.-módosítás a külön fellebbezés tilalmát mondta ki; a hatályos Pp. 130. § e zárást a külön fellebbezés nyitása nélkül, a bíróság saját megváltoztatási jogának fenntartásával viszi tovább. A Be. 490. § (4) bekezdése a büntetőeljárásban ugyanezt a tilalmat tételesen kimondja. A fél kérelmének sorsa tehát a bíróság mérlegelésétől függ, nem azonnali fellebbviteltől."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "8d7ca6dca15c"
+    },
+    {
+      "question": "A polgári per Pp. 126. § (1) bekezdése szerinti felfüggesztése mely esetekben kötelező jogkövetkezmény?",
+      "options": [
+        {
+          "text": "A kötelező felfüggesztés csak az EuB előzetes döntéshozatali eljárásának kezdeményezéséhez kapcsolódik; az alkotmánybírósági és a kúriai kezdeményezésnél a per folytatható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a taxatív lista három eljárást fed le, nem csupán az uniós utalást. A helyes: a Pp. 126. § (1) bekezdése a) az EuB előzetes döntéshozatali, b) az Alkotmánybíróság alaptörvény-ellenességi vagy nemzetközi szerződésbe ütközési, c) a Kúria önkormányzati rendeletet vizsgáló eljárásának kezdeményezéséről való határozáshoz egyaránt kötelező felfüggesztést kapcsol. A Be. 489. § az alkotmánybírósági és kúriai kezdeményezést a büntetőeljárásban külön szakaszban rendezi, elválasztva a 490. §-tól. A tévedés a háromtagú listát az EuB-kezdeményezésre szűkíti."
+        },
+        {
+          "text": "A Pp. 126. § (1) bekezdése szerinti felfüggesztés a bíróság méltányossági belátásától függ, és minden esetben külön fellebbezéssel támadható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kötelező jogkövetkezményt méltányossággá és szabadon támadhatóvá fordítja. A helyes: a Pp. 126. § (1) bekezdése szerinti felfüggesztés a három kezdeményezéshez kapcsolódóan nem méltányossági, hanem kötelező jogkövetkezmény, és külön fellebbezéssel nem támadható. A külön fellebbezés a 126. § (2) bekezdése szerinti diszkrecionális felfüggesztésnél nyílik meg. A tévedés a (2) bekezdés perorvoslati nyitottságát az (1) bekezdésre írja át."
+        },
+        {
+          "text": "A Pp. 126. § (1) bekezdése szerinti, a kezdeményezéshez kapcsolódó kötelező felfüggesztés külön fellebbezéssel nem támadható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kezdeményezéshez kötött kötelező felfüggesztés perorvoslatilag zárt. A Pp. 128. § szerint a felfüggesztést elrendelő végzés ellen — a 126. § (1) bekezdése szerinti eset kivételével — külön fellebbezésnek van helye, ezért a 126. § (1) bekezdése szerinti kötelező felfüggesztés külön fellebbezéssel nem támadható. A 126. § (2) bekezdése szerinti diszkrecionális felfüggesztés ellen viszont van helye külön fellebbezésnek. A bíróság a felfüggesztő végzését maga is megváltoztathatja."
+        },
+        {
+          "text": "A bíróság a peres eljárást felfüggeszti, ha az EuB előzetes döntéshozatali eljárásának, az Alkotmánybíróság meghatározott eljárásának vagy a Kúria önkormányzati rendeletet vizsgáló eljárásának kezdeményezéséről határoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelező felfüggesztés három kezdeményezéshez kapcsolódik. A Pp. 126. § (1) bekezdése szerint a bíróság a peres eljárást felfüggeszti, ha a) az EuB előzetes döntéshozatali eljárásának, b) az Alkotmánybíróságnak a jogszabály, közjogi szervezetszabályozó eszköz vagy jogegységi határozat alaptörvény-ellenességének, illetve nemzetközi szerződésbe ütközésének megállapítására irányuló eljárásának, c) a Kúriának az önkormányzati rendelet jogszabályba ütközésének vizsgálatára irányuló eljárásának kezdeményezéséről határoz. A felfüggesztés e három kezdeményezéshez kapcsolódóan nem méltányossági, hanem kötelező jogkövetkezmény. A Be. 490. § (2) bekezdése a büntetőeljárásban a kezdeményezést és a felfüggesztést egyidejűleg rendeli."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "f30701092179"
+    },
+    {
+      "question": "Miben tér el a Pp. 126. § (2) bekezdése szerinti diszkrecionális felfüggesztés az (1) bekezdés kötelező modelljétől?",
+      "options": [
+        {
+          "text": "A (2) bekezdés szerinti felfüggesztés csak az EuB már folyamatban lévő eljárására terjed ki; az Alkotmánybíróság vagy a Kúria párhuzamos eljárása miatt nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatályos (2) bekezdés mindhárom (1) bekezdés szerinti eljárásra kiterjed. A helyes: a Pp. 126. § (2) bekezdése az (1) bekezdés szerinti valamely eljárásra — tehát az Alkotmánybíróság és a Kúria már folyamatban lévő eljárására is — kiterjed. A 3/2005. vélemény 2. pontja eredetileg tiltotta a más perben kezdeményezett alkotmánybírósági eljárás miatti felfüggesztést, de a 2/2015. BKMPJE e 2. pontot nem tartja fenn. A tévedés a hatályon kívül került 2. pont ratioját a hatályos törvény helyébe tolja."
+        },
+        {
+          "text": "A 126. § (2) bekezdése szerinti diszkrecionális felfüggesztés ellen külön fellebbezésnek van helye.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a perorvoslati nyitottság a diszkrécióhoz igazodik. A Pp. 128. § alapján a felfüggesztést elrendelő végzés ellen — a 126. § (1) bekezdése szerinti eset kivételével — külön fellebbezésnek van helye, ezért a 126. § (2) bekezdése szerinti diszkrecionális felfüggesztés támadható. Az (1) bekezdés szerinti, a kezdeményezéshez kapcsolódó kötelező felfüggesztés külön fellebbezéssel nem támadható. A bíróság a diszkrecionális felfüggesztő végzését is maga megváltoztathatja."
+        },
+        {
+          "text": "Ha azonos tényekre alapítva más közigazgatási vagy polgári eljárásban az (1) bekezdés szerinti valamely eljárást már kezdeményezték, a bíróság az írásbeli ellenkérelem — vagy annak hiányában a beszámítás — előterjesztését követően a pert e másik eljárás befejezéséig felfüggesztheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a párhuzamos utalás elkerülését szolgálja. A Pp. 126. § (2) bekezdése a 3/2005. (XI. 14.) PK-KK közös vélemény 1. pontjának törvényi utóda: ha azonos tényekre alapítva más eljárásban az (1) bekezdés szerinti valamely eljárást már kezdeményezték, a bíróság az írásbeli ellenkérelem — vagy annak hiányában a beszámítás — előterjesztését követően a pert e másik eljárás befejezéséig felfüggesztheti. A 3/2005. vélemény szerint a bíróság belátásától függően önállóan is fordulhat a Bírósághoz. A modalitás tehát „felfüggesztheti”, nem „felfüggeszti”."
+        },
+        {
+          "text": "A Pp. 126. § (2) bekezdése szerinti felfüggesztés a bíróság belátásától függetlenül kötelező, ha más ügyben már van folyamatban lévő EUB-utalás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a diszkréciót kógens kötelességgé emeli. A helyes: a Pp. 126. § (2) bekezdése szerint a bíróság a pert a másik eljárás befejezéséig „felfüggesztheti”; a 3/2005. vélemény 1. pontja is belátástól függő lehetőséget ad, és meghagyja az önálló fordulás jogát. Az (1) bekezdés szerinti kötelező felfüggesztés a saját kezdeményezéshez kapcsolódik. A tévedés a „felfüggesztheti” modalitást „köteles felfüggeszteni” olvasatra cseréli."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "97fea9f9b7ec"
+    },
+    {
+      "question": "Milyen határidőben esedékes a per folytatásának elrendelése a Pp. 126. § szerinti felfüggesztés után?",
+      "options": [
+        {
+          "text": "A felfüggesztés tartama alatt a per érdemére vonatkozó bírói rendelkezések hatályosak maradnak, csak a felek határidői nyugszanak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felfüggesztés hatása a bírói rendelkezésre és a felek cselekményeire is kiterjed. A helyes: a felfüggesztés a végzés jogerőre emelkedésével hatályosul; tartama alatt a per érdemére vonatkozó bírói rendelkezés és a felek eljárási cselekménye hatálytalan, a határidők megszakadnak. A Pp. 128. § e hatálytalansági és határidő-szabályokat a 126. § szerinti felfüggesztéshez rendeli. A tévedés a határidő-nyugvásra szűkíti a hatálytalansági szabályt."
+        },
+        {
+          "text": "A 126. § (1) bekezdése szerinti felfüggesztés esetén a folytatás elrendelése a Bíróság, az Alkotmánybíróság vagy a Kúria határozatának a bírósággal történő közlésétől számított tizenöt napon belül esedékes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelező felfüggesztés folytatási határideje a közléshez kötött. A 128. § a felfüggesztés időtartamát és jogorvoslatát a 126. §-hoz kapcsolja: a 126. § (1) bekezdése szerinti esetben a folytatás elrendelése a Bíróság, az Alkotmánybíróság vagy a Kúria határozatának a bírósággal történő közlésétől számított tizenöt napon belül esedékes. A felfüggesztés a végzés jogerőre emelkedésével hatályosul; tartama alatt a per érdemére vonatkozó bírói rendelkezés és a felek eljárási cselekménye hatálytalan, a határidők megszakadnak. A Be. 491. § a büntetőeljárásban a folytatást a felfüggesztés oka megszűnéséhez köti."
+        },
+        {
+          "text": "A 126. § (2) bekezdése szerinti esetben a folytatás a másik eljárás befejezéséről való tudomásszerzéstől számítottan esedékes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a diszkrecionális modell más időpontot használ. A 126. § (2) bekezdése szerinti esetben a folytatás elrendelése a másik eljárás befejezéséről való tudomásszerzéstől esedékes, szemben az (1) bekezdés közléshez kötött tizenöt napos határidejével. A (2) bekezdés a pert a másik ügyben kezdeményezett eljárás befejezéséig függesztheti fel. A két modell tehát a folytatás indító tényében is elválik: közlés versus tudomásszerzés."
+        },
+        {
+          "text": "A folytatás elrendelése mindkét bekezdés szerinti felfüggesztésnél a határozat közlésétől számított harminc napon belül kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mérték és az indító tény is elcsúszott. A helyes: a 126. § (1) bekezdése szerinti esetben a folytatás a Bíróság, az Alkotmánybíróság vagy a Kúria határozatának közlésétől számított tizenöt napon belül esedékes; a (2) bekezdés szerinti esetben a másik eljárás befejezéséről való tudomásszerzéstől. A tévedés a tizenöt napot harmincra emeli, és a két bekezdés eltérő indító tényét összemosja."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "084b967a5d41"
+    },
+    {
+      "question": "A büntetőeljárás Be. 490. § szerinti előzetes döntéshozatali kezdeményezése miben különbözik a polgári Pp. 130. § modelljétől?",
+      "options": [
+        {
+          "text": "A kezdeményezésről a bíróság végzéssel határoz, és egyidejűleg az eljárást felfüggeszti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Be. a kezdeményezést és a felfüggesztést egyetlen szakaszban kapcsolja össze. A Be. 490. § (2) bekezdése szerint: „Az előzetes döntéshozatali eljárás kezdeményezéséről a bíróság végzéssel határoz, egyidejűleg az eljárást felfüggeszti.” A polgári modellben a Pp. 130. § a kezdeményezést, a Pp. 126. § (1) bekezdése a kötelező felfüggesztést külön szakaszban rendezi. A Be. 490. § tehát a Pp. 130. § és a Pp. 126. § (1) bekezdésének együttes szerepét tölti be."
+        },
+        {
+          "text": "A bíróság az EuB előzetes döntéshozatali eljárását hivatalból vagy indítványra kezdeményezi, ha megállapítja, hogy az bármely európai uniós jogi aktus vagy jogszabály vonatkozásában szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a büntető fordulat a szükségesség megállapításához kötött. A Be. 490. § (1) bekezdése szerint a bíróság az Európai Unió alapját képező szerződésekbe foglalt szabályok szerint az EuB előzetes döntéshozatali eljárását hivatalból vagy indítványra kezdeményezi, ha megállapítja, hogy az bármely európai uniós jogi aktus vagy jogszabály vonatkozásában szükséges. A törvényi fordulat nem a polgári „kezdeményezheti”, hanem a „kezdeményezi”. A fordulás a bíróság saját, a szerződések szerinti szükségességi megállapításához kötött."
+        },
+        {
+          "text": "A büntetőeljárásban a kezdeményezésről szóló végzés után a felfüggesztés külön, későbbi végzéssel rendelhető el, a polgári 126. § mintájára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a büntető modell a kezdeményezést és a felfüggesztést nem választja szét időben. A helyes: a Be. 490. § (2) bekezdése szerint a kezdeményezésről a bíróság végzéssel határoz, egyidejűleg az eljárást felfüggeszti. A 490. § ezzel a Pp. 130. § és a Pp. 126. § (1) bekezdésének együttes szerepét tölti be. A tévedés a polgári két szakaszos szerkezetet a büntető egyidejű modell helyébe tolja."
+        },
+        {
+          "text": "A Be. 490. § szerint a bíróság az eljárást „kezdeményezheti”, pontosan ugyanazzal a fakultatív modalitással, mint a Pp. 130. § (1) bekezdése.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a modalitás elválik. A helyes: a Be. 490. § (1) bekezdése a „kezdeményezi” fordulatot használja, ha a bíróság megállapítja a szükségességet; a Pp. 130. § (1) bekezdése a „kezdeményezheti” fakultatív alakot adja. A büntető modell a fordulást a bíróság saját szükségességi megállapításához köti. A tévedés a polgári fakultatív nyelvet a büntető szakaszra másolja."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "9729064eeb99"
+    },
+    {
+      "question": "Mi következik a Be. 490. § szerint a kezdeményező és az elutasító végzés elleni jogorvoslatra?",
+      "options": [
+        {
+          "text": "A 490. § alapján hozott végzés ellen a törvényesség érdekében bejelentett jogorvoslat mindig nyitva áll, mert az a fellebbezéstől független út.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvényességi út is zárt. A helyes: a Be. 667. § (2a) bekezdése szerint a 490. § alapján hozott végzéssel szemben a törvényesség érdekében bejelentett jogorvoslatnak nincs helye. A 490. § (4) bekezdése a rendes fellebbezést zárja ugyanerre a végzéskörre. A tévedés a törvényességi jogorvoslatot a 490. § perorvoslati tilalmán kívülre helyezi."
+        },
+        {
+          "text": "A kezdeményező végzés ellen a vádlott és az ügyész külön fellebbezéssel élhet, az elutasító végzés ellen azonban nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom mindkét végzésre kiterjed. A helyes: a Be. 490. § (4) bekezdése a kezdeményezésről és az indítvány elutasításáról hozott végzés ellen egyaránt kizárja a fellebbezést. A 513. § (1) bekezdés a) pontja és a 535. § (3) bekezdése ugyanezt a zárást erősíti. A tévedés a két végzéstípus között nem létező perorvoslati különbséget teremt."
+        },
+        {
+          "text": "Az előzetes döntéshozatali eljárás kezdeményezéséről, illetve a kezdeményezésre irányuló indítvány elutasításáról hozott végzés ellen fellebbezésnek nincs helye.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a büntető modell a külön fellebbezést tételesen kizárja. A Be. 490. § (4) bekezdése szerint: „Az előzetes döntéshozatali eljárás kezdeményezéséről, illetve az előzetes döntéshozatali eljárás kezdeményezésére irányuló indítvány elutasításáról hozott végzés ellen fellebbezésnek nincs helye.” A 513. § (1) bekezdés a) pontja a tárgyalás előkészítése során megerősíti ugyanezt a zárást a 489–490. § szerinti felfüggesztésre és indítványelutasításra. A 535. § (3) bekezdése a tárgyalás megkezdése után is kizárja a fellebbezést e körben."
+        },
+        {
+          "text": "A 667. § (2a) bekezdése a törvényesség érdekében bejelentett jogorvoslatot is elzárja a 490. § alapján hozott végzéssel szemben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a zárás a törvényességi jogorvoslatra is kiterjed. A Be. 667. § (2a) bekezdése szerint a 490. § alapján hozott végzéssel szemben a törvényesség érdekében bejelentett jogorvoslatnak nincs helye. A 490. § (4) bekezdése a rendes fellebbezést, a 667. § (2a) bekezdése a törvényességi utat zárja. A másodfok a 597. § (3) bekezdése szerint tanácsülésen maga is felfüggeszthet a 490. § okából, anélkül hogy a végzést perorvoslattal megnyitná."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "23c0dd5a6a59"
+    },
+    {
+      "question": "Miben tér el a Be. 490. § (2) bekezdése szerinti végzés tartalma a Pp. 130. § (2) bekezdésétől?",
+      "options": [
+        {
+          "text": "A büntető végzésben a bíróság a kérdést, valamint a tényállás és a magyar jogszabályok lényegét ismerteti; külön uniós rendelkezési és indokolási katalógus e szakaszban nem szerepel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a büntető kellékkör szűkebb. A Be. 490. § (2) bekezdése szerint a bíróság a végzésben meghatározza a kérdést, valamint — a feltett kérdés megválaszolásához szükséges mértékben — ismerteti a tényállás és az érintett magyar jogszabályok lényegét. A Pp. 130. § (2) bekezdése ehhez képest a magyar és az uniós rendelkezéseket, valamint a körülményeket és indokokat is kéri. A polgári és a büntető modell különbsége a formai kellékekben és a jogorvoslatban áll."
+        },
+        {
+          "text": "A Be. 490. § (2) bekezdése a polgárihoz képest bővebb katalógust ír elő: kötelezően fel kell sorolni az összes érintett uniós rendelkezést és a teljes indokolást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a büntető katalógus szűkebb, nem bővebb. A helyes: a Be. 490. § (2) bekezdése a kérdést, valamint a tényállás és a magyar jogszabályok lényegét kéri; külön uniós rendelkezési és indokolási katalógus e szakaszban nem szerepel. A Pp. 130. § (2) bekezdése a magyar és uniós rendelkezéseket, valamint az indokokat is tartalmazza. A tévedés a két modell tartalmi terhét megfordítja."
+        },
+        {
+          "text": "A bíróság a végzését az EuB számára való kézbesítéssel egyidejűleg tájékoztatásul kézbesíti az igazságügyért felelős miniszter részére is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a miniszteri tájékoztatás a büntető modellben is egyidejű. A Be. 490. § (2) bekezdése előírja, hogy a bíróság a végzését az Európai Unió Bírósága számára való kézbesítéssel egyidejűleg tájékoztatásul kézbesíti az igazságügyért felelős miniszter részére is. A Pp. 130. § (2) bekezdése ugyanezt az egyidejű tájékoztatást rendeli. A miniszteri tájékoztatás igazgatási informálás, nem a fordulás feltétele."
+        },
+        {
+          "text": "A büntetőeljárásban a miniszteri tájékoztatás a végzés EuB-hoz való kézbesítésének előfeltétele, a polgári eljárásban nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, egyik modellben sem előfeltétel a miniszteri tájékoztatás. A helyes: a Be. 490. § (2) bekezdése és a Pp. 130. § (2) bekezdése egyaránt az EuB részére történő kézbesítéssel egyidejű tájékoztatást ír elő. A tájékoztatás a magyar igazságügy-igazgatást informálja, nem a fordulás feltételét képezi. A tévedés a tájékoztatást engedélyezési feltétellé emeli a büntető ágon."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "b0c3f8aaa08c"
+    },
+    {
+      "question": "A 3/2005. (XI. 14.) PK-KK közös vélemény 1. pontja szerint mi a helyes olvasat a párhuzamos EUB-utalásra tekintettel gyakorolt felfüggesztésről?",
+      "options": [
+        {
+          "text": "Ha a perben olyan jogkérdés merül fel, amelynek tárgyában más polgári perben — azonos tényekre alapítottan — az EuB előzetes döntéshozatali eljárását kezdeményezték, a bíróság a per tárgyalását e másik eljárás befejezéséig felfüggesztheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vélemény a felesleges párhuzamos utalások elkerülését szolgálja. A 3/2005. (XI. 14.) PK-KK közös vélemény 1. pontja szerint, ha a perben bizonyított tények alapján olyan jogkérdés merül fel, amelynek tárgyában más polgári perben — azonos tényekre alapítottan — az Európai Bíróság előzetes döntéshozatali eljárását kezdeményezték, a bíróság a Pp. akkori 152. § (2) bekezdésének megfelelő alkalmazásával a per tárgyalását e másik eljárás befejezéséig felfüggesztheti. A 2/2017. KMPJE és a 2/2015. BKMPJE V. 1. pontja szerint e 1. pont az új Pp. és a Kp. alkalmazásában is irányadó; a hatályos Pp. 126. § (2) bekezdése e diszkréciót törvényi alakban hordozza."
+        },
+        {
+          "text": "A 3/2005. vélemény 1. pontja csak a régi Pp. alatt volt irányadó; az új Pp. és a Kp. alkalmazásában nem hivatkozható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 1. pont továbbél. A helyes: a 2/2017. KMPJE határozat rendelkező része és a 2/2015. BKMPJE határozat V. 1. pontja szerint a 3/2005. vélemény 1. pontja az új Pp. és a Kp. alkalmazásában is megfelelően irányadó; a hatályos Pp. 126. § (2) bekezdése e diszkréciót kifejezett törvényi alakban hordozza. A tévedés a véleményt a régi Pp. hatályához köti."
+        },
+        {
+          "text": "Ha más perben már van folyamatban lévő EUB-utalás azonos jogkérdésben, a bíróság köteles felfüggeszteni, és önállóan nem fordulhat a Bírósághoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vélemény diszkréciót és önálló fordulási jogot ad, nem kógens tilalmat. A helyes: a 3/2005. vélemény 1. pontja szerint a bíróság a per tárgyalását felfüggesztheti, és belátásától függően önállóan is fordulhat a Bírósághoz. A Pp. 126. § (2) bekezdése ugyanezt a „felfüggesztheti” modalitást hordozza. A tévedés a diszkréciót kötelezettséggé és az önálló utalás tilalmává fordítja."
+        },
+        {
+          "text": "A bíróság belátásától függően önállóan is fordulhat a Bírósághoz, a tárgyalás felfüggesztése mellett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a párhuzamos felfüggesztés nem zárja ki az önálló utalást. A 3/2005. vélemény 1. pontja szerint magától értetődik, hogy a bíróság belátásától függően önállóan is fordulhat a Bírósághoz, a tárgyalás felfüggesztése mellett. A ratio a közösségi jog egységes alkalmazása: indokolatlan azonos közösségi jogszabály, azonos tények és azonos jogkérdés mellett további utalásokat tenni, de az önálló fordulás joga megmarad. A Pp. 126. § (2) bekezdése e diszkréciót a hatályos törvényben is megőrzi."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "fff12f84da27"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a 3/2005. vélemény eredeti 2. pontja a hatályos Pp. fényében, és mi lépett a helyébe?",
+      "options": [
+        {
+          "text": "A 2/2015. BKMPJE határozat 2. pontja a 3/2005. vélemény 2. pontját nem tartja fenn, ezért az alkotmánybírósági párhuzamos eljárás miatti felfüggesztési tilalom nem él tovább.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2. pont fenntartásának hiánya a tilalmat feloldja. A 3/2005. vélemény 2. pontja eredetileg azt mondta: a bíróság nem függesztheti fel a per tárgyalását abból az okból, hogy más polgári perben az Alkotmánybíróság eljárását kezdeményezték. A 2/2015. BKMPJE határozat 2. pontja e 2. pontot nem tartja fenn. A Pp. 126. § (2) bekezdése e változással összhangban az (1) bekezdés szerinti bármely — tehát az alkotmánybírósági — már kezdeményezett eljárásra is kiterjed."
+        },
+        {
+          "text": "A Pp. 126. § (2) bekezdése kizárólag az EuB párhuzamos utalására alkalmazható, az alkotmánybírósági és kúriai párhuzamot a 3/2005. 2. pont továbbra is kizárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatályos (2) bekezdés mindhárom (1) bekezdés szerinti eljárásra kiterjed. A helyes: a Pp. 126. § (2) bekezdése az (1) bekezdés szerinti valamely eljárásra — tehát az Alkotmánybíróság és a Kúria eljárására is — kiterjed; a 3/2005. 2. pontját a 2/2015. BKMPJE nem tartja fenn. A tévedés a fenntartott 1. pont EUB-arányát a megszűnt 2. pont tilalmával keveri."
+        },
+        {
+          "text": "A 3/2005. vélemény 2. pontja továbbra is kötelező: más perben kezdeményezett alkotmánybírósági eljárás miatt a per soha nem függeszthető fel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2. pontot a 2/2015. BKMPJE nem tartja fenn. A helyes: a 2/2015. BKMPJE határozat 2. pontja a 3/2005. vélemény 2. pontját nem tartja fenn, és a Pp. 126. § (2) bekezdése az (1) bekezdés szerinti bármely — így az alkotmánybírósági — már kezdeményezett eljárásra is kiterjed. A tévedés a hatályát vesztett tilalmat a hatályos törvény helyébe tolja."
+        },
+        {
+          "text": "A hatályos Pp. 126. § (2) bekezdése az (1) bekezdés szerinti valamely eljárásra — tehát az Alkotmánybíróság és a Kúria már folyamatban lévő eljárására is — kiterjed.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a törvényi szöveg a három kezdeményezési típust egyaránt bevonja a diszkrécióba. A Pp. 126. § (2) bekezdése szerint, ha azonos tényekre alapítva más eljárásban az (1) bekezdés szerinti valamely eljárást már kezdeményezték, a bíróság a pert e másik eljárás befejezéséig felfüggesztheti. Ez eltér a 3/2005. vélemény 2. pontjától, amely a más perben kezdeményezett alkotmánybírósági eljárás miatt tiltott felfüggesztést. A 2/2015. BKMPJE e 2. pontot nem tartja fenn."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "c77d913b549a"
+    },
+    {
+      "question": "Az 1/2009. (VI. 24.) PK-KK közös vélemény 1. pontja szerint melyik fórumot terheli az EKSz. 234. cikk (3) bekezdése szerinti kezdeményezési kötelezettség?",
+      "options": [
+        {
+          "text": "A kezdeményezésre kötelezett bíróság önállóan mérlegelheti, hogy az érdemi döntés elleni felülvizsgálati — vagy annak kizártsága esetén a fellebbezési — eljárásban szükséges-e előzetes döntéshozatali eljárást kezdeményeznie.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelezettség a szükségességi mérlegelést nem vonja el. Az 1/2009. vélemény 1. pontja szerint a kezdeményezésre kötelezett bíróság önállóan mérlegelheti, hogy a jogvita eldöntése szempontjából szükséges-e előzetes döntéshozatali eljárást kezdeményeznie. A mérlegeléshez a vélemény a C-283/81. sz. CILFIT-ügy 10. pontját és a C-495/03. sz. Intermodal Transports-ügy 45. pontját hívja. A kötelezettség tehát a fórumot jelöli ki, a szükségesség eldöntését nem helyettesíti automatizmussal."
+        },
+        {
+          "text": "Amennyiben törvény az adott ügyben nem zárja ki a felülvizsgálat lehetőségét, a Legfelsőbb Bíróságot kell annak a fórumnak tekinteni, amelyet a kezdeményezés kötelezettsége terhel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelezett fórum a felülvizsgálat nyitva állásához igazodik. Az 1/2009. (VI. 24.) PK-KK közös vélemény 1. pontja szerint, amennyiben törvény az adott ügyben nem zárja ki a felülvizsgálat lehetőségét, a Legfelsőbb Bíróságot kell annak a fórumnak tekinteni, amelyet az EKSz. 234. cikk (3) bekezdése, illetve a 68. cikk (1) bekezdése alapján a kezdeményezés kötelezettsége terhel. A Cartesio-ügy a Lyckeskog-ügy (C-99/00.) értelmezését erősítette: ha a másodfokú, jogerős ítélettel szemben van felülvizsgálat, a másodfokú bíróságot nem terheli a kötelezettség. A kötelezett fórum tehát nem automatikusan a másodfok."
+        },
+        {
+          "text": "Ha a másodfokú jogerős ítélettel szemben van felülvizsgálat, a másodfokú bíróságot is kötelezettség terheli az EKSz. 234. cikk (3) bekezdése alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felülvizsgálat nyitva állása a másodfokot mentesíti. A helyes: az 1/2009. vélemény szerint a Cartesio-ügy a Lyckeskog-ügy (C-99/00.) értelmezését erősítette — ha a másodfokú, jogerős ítélettel szemben van felülvizsgálat, a másodfokú bíróságot nem terheli a kötelezettség; a kötelezett fórum ilyenkor a Legfelsőbb Bíróság. A tévedés a végső fórum fogalmát a jogerőt hozó másodfokra szűkíti."
+        },
+        {
+          "text": "A kötelezett fórum mindig az elsőfokú bíróság, mert az előzetes döntéshozatal a felek kezdeményezéséhez kötött.",
+          "isCorrect": false,
+          "rationale": "HAMIS, sem az alany, sem a felekhez kötöttség nem áll. A helyes szabály: az 1/2009. (VI. 24.) PK-KK közös vélemény 1. pontja szerint, ha a felülvizsgálat nincs kizárva, az EKSz. 234. cikk (3) bekezdése szerinti kötelezett fórum a Legfelsőbb Bíróság. A Cartesio-ügy 90. pontja szerint a rendszer a felek kezdeményezésétől független, bíróságok közötti együttműködést hoz létre. A tévedés a kötelezettséget az elsőfokra és a félkérelemre helyezi."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "2f58434e5f47"
+    },
+    {
+      "question": "Mikor terheli mégis a másodfokú bíróságot az előzetes döntéshozatali kezdeményezés kötelezettsége az 1/2009. vélemény szerint?",
+      "options": [
+        {
+          "text": "A közigazgatási perek meghatározott körében, ha a felülvizsgálat ki van zárva, az elsőfokú bíróságot is terhelheti a kötelezettség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közigazgatási különszabály az elsőfokot is végső fórummá teheti. Az 1/2009. vélemény szerint a Pp. XX. fejezete szerinti közigazgatási perekben a 340. § (1) bekezdésének hatálya alá tartozó ügyekben az elsőfokú bíróságokat akkor terheli a kötelezettség, ha a Pp. a jogerős ítélet elleni felülvizsgálatot kizárja. A Lyckeskog-Cartesio-vonal a felülvizsgálat meglététől teszi függővé, ki a végső fórum. A kötelezettség tehát nem intézménynévhez, hanem a jogorvoslati záráshoz kötött."
+        },
+        {
+          "text": "Az elsőfokú bíróságot a közigazgatási perekben soha nem terheli kezdeményezési kötelezettség, mert az mindig csak jogosultság.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közigazgatási kivétel az elsőfokot is kötelezheti. A helyes: az 1/2009. vélemény szerint a Pp. XX. fejezete szerinti közigazgatási perekben a 340. § (1) bekezdésének hatálya alá tartozó ügyekben az elsőfokú bíróságokat akkor terheli a kötelezettség, ha a felülvizsgálat ki van zárva. A tévedés a fakultatív (2) bekezdésbeli jogot a kötelezett fórum kivételes esetére is kiterjeszti."
+        },
+        {
+          "text": "A másodfokú bíróságokat akkor terheli a kötelezettség, ha a Pp. a jogerős ítélet elleni felülvizsgálatot kizárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felülvizsgálat kizártsága a másodfokot végső fórummá teszi. Az 1/2009. vélemény 1. pontja szerint kivétel: a másodfokú — a Pp. XX. fejezete szerinti közigazgatási perekben a 340. § (1) bekezdésének hatálya alá tartozó ügyekben az elsőfokú — bíróságokat akkor terheli a kötelezettség, ha a Pp. 271. §-a, illetve 235. § (4) bekezdése a jogerős ítélet elleni felülvizsgálatot kizárja. A főszabály szerint a felülvizsgálat nyitva állása esetén a Legfelsőbb Bíróság a kötelezett fórum. A kizárás tehát a kötelezettséget lefelé tolja."
+        },
+        {
+          "text": "A másodfokú bíróságot a felülvizsgálat nyitva állása esetén is mindig kötelezettség terheli, mert a jogerős ítéletet ő hozza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogerő nem egyenlő a végső fórummal. A helyes: az 1/2009. vélemény szerint, ha a felülvizsgálat nincs kizárva, a kötelezett fórum a Legfelsőbb Bíróság; a Cartesio-Lyckeskog-olvasat szerint a másodfokot ilyenkor nem terheli a kötelezettség. A másodfokot akkor terheli a kötelezettség, ha a Pp. a felülvizsgálatot kizárja. A tévedés a jogerőt a 234. cikk (3) bekezdése szerinti jogorvoslat hiányával azonosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "a43e11eff6ca"
+    },
+    {
+      "question": "Az EKSz. 68. cikk szerinti speciális előzetes döntéshozatali szabály miben tér el a 234. cikk általános modelljétől?",
+      "options": [
+        {
+          "text": "A 68. cikk hatálya alá tartozó, az EKSz. IV. címén alapuló aktusok érvényességével vagy értelmezésével kapcsolatban előzetes döntéshozatali eljárást csak azok a nemzeti bíróságok kezdeményezhetnek, amelyeknek határozatai ellen nincs jogorvoslati lehetőség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 68. cikk a jogosulti kört a végső fórumra szűkíti. Az 1/2009. vélemény szerint a 68. cikk a 234. cikkhez képest speciális: a közösségi intézményeknek az EKSz. IV. címén — vízumok, menekültügy, bevándorlás, a személyek szabad mozgása, a polgári ügyekben folytatott igazságügyi együttműködés — alapuló jogi aktusainak érvényességével vagy értelmezésével kapcsolatban előzetes döntéshozatali eljárást csak azok a nemzeti bíróságok kezdeményezhetnek, amelyek határozatai ellen nincs jogorvoslati lehetőség. A 234. cikk (2) bekezdése ezzel szemben minden tagállami bíróságnak biztosítja a fordulás jogát."
+        },
+        {
+          "text": "A 68. cikk a Legfelsőbb Bíróságot akkor sem köti, ha a felülvizsgálat nyitva áll, mert a speciális cím csak az elsőfokra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a speciális szabály éppen a végső fórumot jelöli. A helyes: az 1/2009. vélemény szerint a 68. cikk hatálya alá a Legfelsőbb Bíróság tartozik, kivéve, ha az adott ügyben a Pp. kizárja a felülvizsgálatot. A 68. cikk a 234. cikkhez képest speciális, de a kötelezett fórum kijelölése a felülvizsgálat logikáját követi. A tévedés a 68. cikket az alsóbb fórumok kiváltságává fordítja."
+        },
+        {
+          "text": "A vélemény szerint e szabály hatálya alá a Legfelsőbb Bíróság tartozik, kivéve, ha az adott ügyben a Pp. kizárja a felülvizsgálatot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 68. cikk szerinti speciális utalás is a kötelezett fórum kijelöléséhez igazodik. Az 1/2009. vélemény szerint a 68. cikk hatálya alá a Legfelsőbb Bíróság tartozik, kivéve, ha az adott ügyben a Pp. kizárja a felülvizsgálatot — ilyenkor a kötelezettség a felülvizsgálatot kizáró szabály szerinti fórumra száll. A vélemény a 68. cikk szerinti speciális utalást is a Legfelsőbb Bírósághoz vonja a felülvizsgálat nyitva állása esetén. A 234. cikk (3) bekezdése és a 68. cikk tehát párhuzamosan jelöli a végső fórumot."
+        },
+        {
+          "text": "A 68. cikk alapján bármely tagállami bíróság kezdeményezhet előzetes döntéshozatalt az IV. cím szerinti aktusok értelmezéséről, ugyanúgy, mint a 234. cikk (2) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a speciális szabály a jogosulti kört a végső fórumra szűkíti. A helyes: az 1/2009. vélemény szerint az EKSz. 68. cikk alapján előzetes döntéshozatali eljárást csak azok a nemzeti bíróságok kezdeményezhetnek, amelyeknek határozatai ellen nincs jogorvoslati lehetőség. Az EKSz. 234. cikk (2) bekezdése a fordulás jogát általában minden tagállami bíróságnak adja. A tévedés a speciális IV. címbeli szabályt az általános fakultatív modellel azonosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "8318c062b87d"
+    },
+    {
+      "question": "A C-210/06. sz. Cartesio-ügy szerint milyen korlátot állít az uniós jog a nemzeti fellebbezésnek a kérdező bíróság autonómiájával szemben?",
+      "options": [
+        {
+          "text": "A kérelem helytállóságának és szükségességének megítélése főszabály szerint a kérdező bíróság felelősségéhez kötött; a kérdező dönt a kérelem fenntartásáról, megváltoztatásáról vagy visszavonásáról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a háromágú döntés a kérdezőnél marad. A Cartesio-ügy 96. pontja a kérelem helytállóságának és szükségességének megítélését főszabály szerint a kérdező felelősségéhez köti; az 1/2009. vélemény ebből a fenntartás, a megváltoztatás és a visszavonás háromágú döntését olvassa ki. A Pp. 130. § (2) bekezdése a saját végzés megváltoztatásának jogát a kérdező bíróságnál hagyja. A fellebbvitel tehát nem veheti át a szükségességi mérlegelést."
+        },
+        {
+          "text": "A fellebbviteli bíróság a kezdeményező végzést megváltoztathatja, a kezdeményezést mellőzheti, és a nemzeti eljárás folytatására utasíthatja anélkül, hogy ez a 234. cikkbe ütközne.",
+          "isCorrect": false,
+          "rationale": "HAMIS, éppen ez a Cartesio által tiltott nemzeti gyakorlat. A helyes: a Cartesio-ítélet rendelkező része szerint a 234. cikk (2) bekezdésében biztosított hatáskör nem kérdőjelezhető meg olyan nemzeti szabályok alkalmazásával, amelyek lehetővé teszik, hogy a fellebbviteli bíróság a kezdeményező végzést megváltoztassa, a kezdeményezést mellőzze, és a nemzeti eljárás folytatására utasítsa. A 95. pont szerint ez az autonóm hatáskört vonná el. A tévedés a régi magyar külön fellebbezés gyakorlatát az uniós korláttal azonosítja."
+        },
+        {
+          "text": "A kérdező bíróság a fellebbviteli határozat után köteles a kezdeményezést visszavonni, ha a fellebbvitel a folytatást rendeli el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kérdező nem automatikusan visszavonásra köteles a fellebbviteli folytatási utasítás után. A helyes: a C-210/06. sz. Cartesio-ügy 96. pontja szerint a kérdést előterjesztő bíróság dönti el, hogy a kérelem fenntartásának, megváltoztatásának vagy visszavonásának van-e helye. Az 1/2009. (VI. 24.) PK-KK közös vélemény e háromágú döntést a kérdező felelősségéhez köti. A tévedés a fellebbviteli utasítást a kérdező autonóm döntésének helyébe tolja."
+        },
+        {
+          "text": "A jogorvoslat kimenetele nem korlátozhatja a bíróságnak a 234. cikkben biztosított azon hatáskörét, hogy a Bírósághoz forduljon, ha az előtte folyamatban lévő ügyben a közösségi jog értelmezésével összefüggő kérdések merülnek fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti fellebbezés eltűrt, de az autonómiát nem vonhatja el. A Cartesio-ügy 93. pontja kimondja: a jogorvoslat kimenetele nem korlátozhatja a bíróságnak a 234. cikkben biztosított azon hatáskörét, hogy a Bírósághoz forduljon. A 95. pont szerint megkérdőjeleződne az elsőfokú bíróság autonóm hatásköre, ha a fellebbviteli bíróság a végzést megváltoztatva, a kezdeményezést mellőzve, a felfüggesztett eljárás folytatására utasítva megakadályozhatná a kérdezőt. A 89. pont szerint maga a rendes jogorvoslat nem összeegyeztethetetlen a 234. cikkel."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "14b90ea49d9e"
+    },
+    {
+      "question": "Az EBH 2008.1815 (Legf. Bír. Kfv. I. 35.055/2007.) szerint milyen kötelezettség terheli a magyar bíróságot a más ügyben született előzetes döntéssel szemben?",
+      "options": [
+        {
+          "text": "Az adózási jogszabályok eleve kívül esnek a közösségi jogon, ezért a regisztrációs adó ügyében az EuB gyakorlatát nem kellett figyelembe venni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az adójog közösségi jogon kívül helyezése téves. A helyes: az EBH 2008.1815 szerint téves volt az a hivatkozás, hogy az adózási jogszabályok nem tartoznak a közösségi jogszabályok körébe — a konkrét adójogszabályok meghatározása a belső jogé, de annak főbb elveit közösségi jogszabályok meghatározhatják. A C-290/05. és C-333/05. sz. ítéletek a magyar regisztrációs adó közösségi joggal való összeegyeztethetőségéről szóltak. A tévedés az adójogot a közösségi jog hatályán kívülre helyezi."
+        },
+        {
+          "text": "A magyar bíróságok az Európai Bíróság ítélkezési gyakorlatát nem hagyhatják figyelmen kívül; a közösségi jog a csatlakozással a belső jog részévé vált.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a más ügyben született előzetes döntés a saját ügyben is érvényesül. Az EBH 2008.1815 szerint Magyarországnak az Európai Közösséghez való csatlakozásával a közösségi jog a belső jog részévé vált, és a magyar bíróságok az Európai Bíróság ítélkezési gyakorlatát nem hagyhatják figyelmen kívül. A határozat a C-26/62. sz. van Gend en Loos ítéletből a közvetlen hatály elvét, a C-6/64. sz. Costa v. ENEL ügyből a közösségi jog elsőbbségét emeli ki. A regisztrációs adós ügyben a C-290/05. és C-333/05. sz. ítéletek tartalmát nem lehetett volna figyelmen kívül hagyni."
+        },
+        {
+          "text": "A más ügyben született előzetes döntés csak a kérdező bíróságra kötelező; a többi magyar bíróság szabadon figyelmen kívül hagyhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EBH a normatív, más ügyre is kiterjedő erőt mondja ki. A helyes: az EBH 2008.1815 szerint az előzetes döntéseknek olyan normatív ereje van, hogy joghatást fejt ki más ügyben is; a Da Costa- és a CILFIT-olvasat szerint a bírósági gyakorlat mindenkire kiterjedő és kötelező hatállyal bír. A magyar bíróságok az EuB ítélkezési gyakorlatát nem hagyhatják figyelmen kívül. A tévedés az erga omnes vitát inter partes korlátozássá szűkíti."
+        },
+        {
+          "text": "Az előzetes döntéseknek olyan normatív ereje van, hogy joghatást fejt ki más ügyben is, mert adott esetben az indítványozási kötelezettséget megfosztja céljától, ha a kérdés lényegileg azonos egy már eldöntött kérdéssel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a normatív erő a Da Costa- és a CILFIT-olvasaton nyugszik. Az EBH 2008.1815 a C-28–30/62 számú Da Costa-ügyre és a C-283/81 számú CILFIT-gyakorlatra hivatkozva azt a következtetést vonja le, hogy a bírósági gyakorlat mindenkire kiterjedő és kötelező hatállyal bír. Az előzetes döntések normatív ereje más ügyben is joghatást fejt ki, mivel az indítványozási kötelezettséget üressé teheti, ha a felhozott kérdés lényegileg azonos. A párhuzamos utalás diszkréciója és a már meghozott döntés kötelező alkalmazása így elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "744fbcb2cd51"
+    },
+    {
+      "question": "Mi az értelmező előzetes döntés időbeli hatálya az EBH 2008.1815 által hivatkozott EuB gyakorlat szerint?",
+      "options": [
+        {
+          "text": "Az elsőfokú bíróság ítélete meghozatalának időpontjában már létező EuB-ítélet tartalmát nem lehetett figyelmen kívül hagyni azon az alapon, hogy az az alperes határozatának meghozatalakor még nem született meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ex tunc hatály a közigazgatási határozat meghozatalának időpontjára is visszahat. Az EBH 2008.1815 szerint az elsőfokú bíróság ítélete meghozatalakor a Bíróság már ítéletet hozott a magyar regisztrációs adó ügyben; annak tartalmát nem lehetett volna figyelmen kívül hagyni azon az alapon, hogy az az alperesi határozat meghozatalakor még nem született meg. Az ex tunc hatályra figyelemmel az alperesi határozat a meghozatalakor hatályban lévő jogszabály alapján is törvénysértő volt. A folyamatban lévő perben tehát dönteni kellett a jogszerűségről."
+        },
+        {
+          "text": "Az értelmező előzetes döntés csak ex nunc hatályú, ezért az EuB ítélete előtt keletkezett jogviszonyokra nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály ex tunc, nem ex nunc. A helyes: az EBH 2008.1815 szerint az értelmező előzetes döntések időbeli hatálya az EuB gyakorlatában ex tunc. A C-66/79. és kapcsolódó ügyek szerint az értelmezett szabályt a hatálybalépéstől, akár az értelmezési ítélet előtt keletkezett jogviszonyokra is alkalmazni kell. A tévedés az alkotmánybírósági megsemmisítés ex nunc főszabályát az EuB értelmező döntésére írja át."
+        },
+        {
+          "text": "Az értelmező előzetes döntések időbeli hatálya az EuB gyakorlatában ex tunc: a közösségi jogszabály hatálybalépésétől kell alkalmazni az értelmezett tartalmat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az értelmezés visszamenőleg tisztázza a norma jelentését. Az EBH 2008.1815 szerint az értelmező előzetes döntések időbeli hatálya az EuB gyakorlatában ex tunc: a közösségi jogszabály hatálybalépésétől kell alkalmazni az értelmezett tartalmat. A C-66/79., C-127. és 128/79. számú ügyekben a Bíróság kifejtette, hogy a közösségi jog egy szabályáról nyújtott értelmezés meghatározza és tisztázza e szabály jelentését és hatáskörét, ahogy kell és kellett volna ezt érteni a hatálybalépésétől. Az így értelmezett szabályt a bíróságoknak az ítélet előtt keletkezett jogviszonyokra is alkalmazniuk kell."
+        },
+        {
+          "text": "Ha az EuB ítélete az alperesi határozat után született, a magyar bíróság a határozatot jogszerűnek köteles tekinteni, mert a meghozatalkor még nem volt EuB-iránytű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ex tunc hatály éppen ezt a hivatkozást zárja ki. A helyes: az EBH 2008.1815 szerint az EuB már meglévő ítéletének tartalmát nem lehetett figyelmen kívül hagyni azon az alapon, hogy az az alperesi határozat meghozatalakor még nem született meg; az ex tunc hatályra figyelemmel a határozat a meghozatalkor is törvénysértő volt. A tévedés a közigazgatási határozat időpontját az értelmezés időbeli hatályának felső határává emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "4d9c26c6ceac"
+    },
+    {
+      "question": "Mi következik abból, ha a felperes a regisztrációs adó mértékét a közigazgatási és a peres eljárásban is vitatta — az EBH 2008.1815 szerint?",
+      "options": [
+        {
+          "text": "A Legfelsőbb Bíróság a közösségi jog ellenére helybenhagyhatta volna az elsőfokú ítéletet, mert a regisztrációs adó tisztán belső jogi kérdés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EBH a közösségi jog figyelmen kívül hagyását tévesnek minősítette. A helyes: az EBH 2008.1815 szerint az elsőfokú bíróság a közösségi joggal ellentétes ítéletet hozott, és a Legfelsőbb Bíróság a Pp. 275. § (4) bekezdése alapján hatályon kívül helyezte az ítéletet és a határozatot. A C-290/05. és C-333/05. sz. ítéletek tartalmát nem lehetett volna figyelmen kívül hagyni. A tévedés a belső adójogot a közösségi jog hatályán kívülre helyezi."
+        },
+        {
+          "text": "A folyamatban lévő ügyben dönteni kellett az alperesi határozat, majd az elsőfokú ítélet jogszerűségéről; a visszatérítési különeljárás nem mentesített.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a perbeli vita nem tologatható el külön visszatérítési útra. Az EBH 2008.1815 szerint nem lehetett arra hivatkozni, hogy a felperes külön eljárásban majd visszaigényelheti az adókülönbözetet. A 2006. évi CXX. törvény (Visszatérítési tv.) arra az esetkörre vonatkozik, ahol az ügyfél vagy nem vitatta a regisztrációs adó mértékét, vagy vitatta, de jogorvoslatait elutasították. A perbeli esetben a felperes a közigazgatási eljárásban és a peres eljárásban is vitatta az adó mértékét, ezért a folyamatban lévő ügyben dönteni kellett."
+        },
+        {
+          "text": "A Visszatérítési tv. minden folyamatban lévő peres vitát magához von, ezért a bíróságnak a keresetet el kellett utasítania.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Visszatérítési tv. más esetkörre szól. A helyes: az EBH 2008.1815 szerint a 2006. évi CXX. törvény arra az esetkörre vonatkozik, ahol az ügyfél vagy nem vitatta a regisztrációs adó mértékét, vagy vitatta, de jogorvoslatait elutasították; a perbeli, folyamatban lévő vitában dönteni kellett. A tévedés a külön visszatérítési utat a perbeli döntési kötelezettség helyébe tolja."
+        },
+        {
+          "text": "A Legfelsőbb Bíróság az elsőfokú ítéletet és a keresettel támadott határozatot az elsőfokú határozatra is kiterjedően hatályon kívül helyezte, és az első fokon eljáró közigazgatási szervet új eljárásra kötelezte.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogkövetkezmény a Pp. szerinti hatályon kívül helyezés és új eljárás. Az EBH 2008.1815 szerint a Legfelsőbb Bíróság az elsőfokú ítéletet és a keresettel támadott határozatot az elsőfokú határozatra is kiterjedően a Pp. 275. § (4) bekezdése alapján hatályon kívül helyezte, és az első fokon eljáró közigazgatási szervet új eljárásra kötelezte. Az ex tunc hatály és a közösségi jog belső jogba olvadása együtt indokolta a teljes közigazgatási lánc felülvizsgálatát. A visszatérítési különút tehát nem helyettesítette a perbeli döntést."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "da8bc126ed59"
+    },
+    {
+      "question": "Mely állítások tévesek az előzetes döntéshozatal magyar perorvoslati zárásáról? (tanító — egyik állítás sem helyes)",
+      "options": [
+        {
+          "text": "A Cartesio-ügy szerint a fellebbviteli bíróság szabadon mellőzheti a kezdeményezést, és a nemzeti eljárás folytatására utasíthatja a kérdezőt anélkül, hogy ez a 234. cikkbe ütközne.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Cartesio-ratio a kérdező autonómiáját védi a fellebbviteli mellőzéssel szemben. A helyes: a C-210/06. sz. Cartesio-ügy rendelkező része szerint az EKSz. 234. cikk (2) bekezdésében biztosított hatáskör nem kérdőjelezhető meg olyan nemzeti szabályokkal, amelyek lehetővé teszik, hogy a fellebbviteli bíróság a kezdeményező végzést megváltoztassa, a kezdeményezést mellőzze, és a nemzeti eljárás folytatására utasítsa. A 93. pont a jogorvoslat kimenetelét e hatáskör korlátozásától eltiltja. A tévedés a régi magyar külön fellebbezés gyakorlatát uniós jogilag megengedettnek tünteti fel."
+        },
+        {
+          "text": "A 667. § (2a) bekezdése a 490. § alapján hozott végzéssel szemben a törvényesség érdekében bejelentett jogorvoslatot nyitva hagyja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvényességi jogorvoslat sem töri át a 490. § zárását. A helyes: a Be. 667. § (2a) bekezdése expressis verbis kimondja, hogy a 490. § alapján hozott végzéssel szemben a törvényesség érdekében bejelentett jogorvoslatnak nincs helye. A rendes fellebbezést a Be. 490. § (4) bekezdése, a törvényességi utat a 667. § (2a) bekezdése zárja le. A tévedés a törvényességi panaszt a 490. § tilalmán kívüli, mindig nyitott útnak tekinti."
+        },
+        {
+          "text": "A Be. 490. § (4) bekezdése csak a kezdeményező végzés ellen zárja ki a fellebbezést; az elutasító végzés ellen mindig van helye fellebbezésnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a büntető tilalom nem válogat a két végzés között. A helyes: a Be. 490. § (4) bekezdése a kezdeményezésről és az indítvány elutasításáról hozott végzés ellen egyaránt kizárja a fellebbezést. A Be. 513. § (1) bekezdés a) pontja a tárgyalás előkészítése során, a Be. 535. § (3) bekezdése a tárgyalás megkezdése után erősíti ugyanezt. A tévedés az elutasítást kivételesen megnyitható perorvoslattá teszi."
+        },
+        {
+          "text": "A Pp. 126. § (1) bekezdése szerinti kötelező felfüggesztés ellen külön fellebbezésnek van helye, a (2) bekezdés szerinti diszkrecionális felfüggesztés ellen nincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a perorvoslati nyitottság fordítva áll a két bekezdés között. A helyes: a Pp. 128. § alapján a felfüggesztést elrendelő végzés ellen — a 126. § (1) bekezdése szerinti eset kivételével — külön fellebbezésnek van helye. Ebből következik, hogy az (1) bekezdés szerinti kötelező felfüggesztés külön fellebbezéssel nem támadható, a (2) bekezdés szerinti diszkrecionális viszont igen. A tévedés a két bekezdés perorvoslati szabályát megfordítja."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "d2240a823b23"
+    },
+    {
+      "question": "A C-210/06. sz. Cartesio-ügy 89–92. pontja szerint milyen viszonyban áll a nemzeti rendes jogorvoslat az utaló végzéssel?",
+      "options": [
+        {
+          "text": "Ha a fellebbviteli bíróság a kezdeményezést mellőzi, az EuB automatikusan megszünteti az előzetes döntéshozatali eljárást, a kérdező beleegyezése nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az utaló végzéshez az EuB tartja magát a visszavonásig. A helyes: a C-210/06. sz. Cartesio-ügy 89. pontja szerint a Bíróságnak tartania kell magát az utaló végzéshez, amíg azt vissza nem vonják (Rheinmühlen-Düsseldorf). A 96. pont a fenntartás, megváltoztatás vagy visszavonás döntését a kérdezőhöz köti. A tévedés a fellebbviteli mellőzést az EuB előtti automatikus megszűnéssé fordítja."
+        },
+        {
+          "text": "Az olyan bíróság utaló határozatával szemben, amelynek határozataival szemben a nemzeti jog értelmében jogorvoslatra van lehetőség, a nemzeti jogban előírt rendes jogorvoslat nem összeegyeztethetetlen a 234. cikkel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, maga a fellebbezési lehetőség nem tiltott. A Cartesio-ügy 89. pontja szerint az olyan bíróság utaló határozatával szemben, amelynek határozataival szemben a nemzeti jog értelmében jogorvoslatra van lehetőség, a nemzeti jogban előírt rendes jogorvoslat nem összeegyeztethetetlen a 234. cikkel. A Bíróságnak mindazonáltal tartania kell magát az utaló végzéshez, amíg azt vissza nem vonják (Rheinmühlen-Düsseldorf). A 93. pont a korlátot mondja ki: a jogorvoslat kimenetele nem vonhatja el a 234. cikk szerinti hatáskört."
+        },
+        {
+          "text": "A magyar szabályról a 92. pont azt állapítja meg, hogy a kezdeményező végzés ellen külön fellebbezésnek van helye, az alapügy egésze azonban a kérelmet előterjesztő bíróság előtt marad, és az eljárás a Bíróság ítéletéig felfüggesztésre kerül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Cartesio az akkor hatályos magyar külön fellebbezést írja le. A C-210/06. sz. ügy 92. pontja szerint a kezdeményező végzés ellen külön fellebbezésnek van helye, az alapügy egésze a kérelmet előterjesztő bíróság előtt marad, és az eljárás a Bíróság ítéletéig felfüggesztésre kerül. Az így eljáró fellebbviteli bíróság a végzést megváltoztathatja, mellőzheti a kezdeményezést, és utasíthatja a végzést meghozó bíróságot a felfüggesztett nemzeti eljárás folytatására. A Cartesio-ügy 95–96. pontja ezt a gyakorlatot az autonómia védelmében korlátozza."
+        },
+        {
+          "text": "A nemzeti rendes jogorvoslat eleve összeegyeztethetetlen a 234. cikkel, ezért a kezdeményező végzés ellen soha nem lehet fellebbezni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Cartesio a rendes jogorvoslatot eltűri, a hatáskör elvonását nem. A helyes: a C-210/06. sz. Cartesio-ügy 89. pontja szerint a nemzeti jogban előírt rendes jogorvoslat nem összeegyeztethetetlen a 234. cikkel; a 93. pont a jogorvoslat kimenetelétől tiltja el a 234. cikk szerinti hatáskör korlátozását. A tévedés a fellebbezés puszta létezését a Cartesio által tiltott mellőzési gyakorlattal azonosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "36ef36b97571"
+    },
+    {
+      "question": "Miben tér el a Be. 489. § az előzetes döntéshozataltól a büntetőeljárásban?",
+      "options": [
+        {
+          "text": "A Be. 489. § az Alkotmánybíróság és a Kúria eljárásának kezdeményezését szabályozza, nem az előzetes döntéshozatalt; a 490. § e körtől elválasztott, önálló szakasz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szakasz tárgya elválik. A Be. 489. § az Alkotmánybíróság és a Kúria eljárásának kezdeményezését szabályozza, nem az előzetes döntéshozatalt; a Be. 490. § e körtől elválasztott, önálló szakasz. A Pp. 126. § (1) bekezdése a polgári perben a három kezdeményezést — EuB, Alkotmánybíróság, Kúria — egy felfüggesztési szerkezetbe illeszti. A büntető modell a 489. és a 490. § között választ."
+        },
+        {
+          "text": "A 513. § (1) bekezdés a) pontja a 489–490. § szerinti felfüggesztés és indítványelutasítás ellen egyaránt kizárja a fellebbezést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a perorvoslati zárás mindkét szakaszra kiterjed. A Be. 513. § (1) bekezdés a) pontja szerint nincs helye fellebbezésnek az eljárásnak a 489–490. § alapján történt felfüggesztése, valamint a 489–490. §-ban meghatározott eljárás kezdeményezésére irányuló indítvány elutasítása ellen. A 535. § (3) bekezdése a tárgyalás megkezdése után is kizárja a fellebbezést e körben. A 490. § (4) bekezdése az EuB-utalás végzéseire külön is kimondja a tilalmat."
+        },
+        {
+          "text": "A Be. 489. § az EuB előzetes döntéshozatali eljárását szabályozza, a 490. § pedig kizárólag az alkotmánybírósági kezdeményezést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szakaszok tárgya fordítva áll. A helyes: a Be. 489. § az Alkotmánybíróság és a Kúria eljárásának kezdeményezését szabályozza. A Be. 490. § az EuB előzetes döntéshozatali eljárását rendezi, elválasztott önálló szakaszként. A tévedés a két szakasz tárgyi hatályát megcseréli."
+        },
+        {
+          "text": "A 489. § szerinti alkotmánybírósági kezdeményezés ellen a fellebbezés mindig nyitva áll, mert a 490. § (4) bekezdése csak az EuB-utalásra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alkotmánybírósági és kúriai kezdeményezés perorvoslata sem nyílik meg. A helyes: a Be. 513. § (1) bekezdés a) pontja a 489–490. § alapján történt felfüggesztés és az indítványelutasítás ellen egyaránt kizárja a fellebbezést. A Be. 535. § (3) bekezdése ugyanezt erősíti a tárgyalás megkezdése után. A tévedés a 490. § (4) bekezdését a 489. § perorvoslati nyitásának fordítottjaként olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "5bf1b6e29c21"
+    },
+    {
+      "question": "Az 1/2009. vélemény és a közösségi hűség elve szerint mi köti a magyar bíróságokat az EuB gyakorlatához?",
+      "options": [
+        {
+          "text": "A kérelem helytállóságát és szükségességét a fellebbviteli bíróság mérlegeli, a kérdező csak a végzés formai meghozatalára jogosult.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mérlegelés a kérdezőnél marad, nem a fellebbvitelnél. A helyes: a C-210/06. sz. Cartesio-ügy 91. pontja szerint az előterjesztés a nemzeti bíróságnak a kérelem helytállóságára és szükségességére vonatkozó mérlegelésétől függ. A 96. pont a fenntartás, megváltoztatás vagy visszavonás döntését a kérdező felelősségéhez köti. A tévedés a fellebbviteli felülmérlegelést a Cartesio által védett kérdezői autonómia helyébe tolja."
+        },
+        {
+          "text": "Az 1/2009. vélemény — noha a Cartesio-ítéletnek nincs erga omnes hatálya — az EKSz. 10. cikkének közösségi hűség elvére, a Köbler-ügyre és a Kempter-ügyre utalva köti a magyar bíróságokat az EuB gyakorlatához.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hűség elve pótolja az erga omnes vita hiányát. Az 1/2009. (VI. 24.) PK-KK közös vélemény — noha a Cartesio-ítéletnek nincs erga omnes hatálya — az EKSz. 10. cikkének közösségi hűség elvére, a C-224/01. sz. Köbler-ügy 31. és 56. pontjára, valamint a C-2/06. sz. Kempter-ügy 34–35. pontjára utalva köti a magyar bíróságokat az EuB gyakorlatához. A Cartesio 90. pontja a közvetlen bíróságok közötti együttműködést rögzíti. A magyar fórum tehát nem tekintheti a Cartesio-ratiót „más ügyre nem vonatkozó” magánvéleménynek."
+        },
+        {
+          "text": "Mivel a Cartesio-ítéletnek nincs erga omnes hatálya, a magyar bíróságok szabadon figyelmen kívül hagyhatják az abban foglalt autonómia-korlátot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hűség elve és a hivatkozott ügyek a gyakorlatot kötelezővé teszik. A helyes: az 1/2009. vélemény — noha a Cartesio-ítéletnek nincs erga omnes hatálya — az EKSz. 10. cikkének közösségi hűség elvére, a C-224/01. sz. Köbler-ügyre és a C-2/06. sz. Kempter-ügyre utalva köti a magyar bíróságokat az EuB gyakorlatához. A tévedés az erga omnes hiányát a hűség elvének kiiktatásává fordítja."
+        },
+        {
+          "text": "A Cartesio-ügy 91. pontja szerint az előterjesztés teljes mértékben a nemzeti bíróságnak a kérelem helytállóságára és szükségességére vonatkozó mérlegelésétől függ.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a párbeszéd a kérdező mérlegelésén nyugszik. A C-210/06. sz. Cartesio-ügy 91. pontja a kérelmet bíróságok közötti párbeszédként írja le: az előterjesztés teljes mértékben a nemzeti bíróságnak a kérelem helytállóságára és szükségességére vonatkozó mérlegelésétől függ. A 90. pont szerint a rendszer a felek kezdeményezésétől független eljárás keretében hoz létre közvetlen együttműködést. A 96. pont a fenntartás–megváltoztatás–visszavonás döntését ugyanehhez a felelősséghez köti."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "3a7ed90def61"
+    },
+    {
+      "question": "A bírósági titkár felfüggesztési jogköre a büntetőeljárásban kiterjed-e a 490. § szerinti előzetes döntéshozatali kezdeményezésre?",
+      "options": [
+        {
+          "text": "A másodfok a 597. § (3) bekezdése szerint tanácsülésen maga is felfüggeszthet a 490. § okából.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a másodfok saját maga is élhet a 490. § szerinti felfüggesztéssel. A Be. 597. § (3) bekezdése a másodfokú bíróságnak tanácsülésen lehetővé teszi a 489–490. §-ban meghatározott okból való felfüggesztést. A 490. § (4) bekezdése és a 667. § (2a) bekezdése eközben a kezdeményező, illetve elutasító végzést perorvoslattal nem nyitja meg. A másodfok tehát maga dönthet a felfüggesztésről, anélkül hogy az alsóbb fok végzését fellebbezésben felülmérlegelné."
+        },
+        {
+          "text": "A 512. § (3) bekezdése a bírósági titkár felfüggesztési jogkörét a 487. §-ra, a 488. § meghatározott pontjaira és a 488. § (2) bekezdésére szűkíti; a 489–490. § szerinti kezdeményezés és felfüggesztés e felsorolásban nem szerepel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a titkár nem helyettesíti a bírót az EuB-utalásnál. A Be. 512. § (3) bekezdése a bírósági titkár felfüggesztési jogkörét a 487. §-ra, a 488. § (1) bekezdés a)–b) és e)–g) pontjára, valamint a 488. § (2) bekezdésére szűkíti. A 489–490. § szerinti kezdeményezés és felfüggesztés e felsorolásban nem szerepel, ezért a 490. § szerinti utalás bírói döntés. A Be. 491. § az eljárás folytatását akkor rendeli, ha a felfüggesztés oka megszűnt — a 490. § szerinti utalásnál ez a Bíróság döntésének megérkezése."
+        },
+        {
+          "text": "A másodfok a 490. § okából csak akkor függeszthet fel, ha az elsőfok kezdeményező végzését fellebbezésben helybenhagyta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a másodfok saját hatáskörben, tanácsülésen is felfüggeszthet. A helyes: a Be. 597. § (3) bekezdése szerint a másodfokú bíróság tanácsülésen maga is felfüggeszthet a 489–490. §-ban meghatározott okból; a 490. § (4) bekezdése a kezdeményező és elutasító végzés elleni fellebbezést kizárja. A tévedés a másodfoki felfüggesztést az elsőfok végzésének fellebbezési felülbírálatához köti."
+        },
+        {
+          "text": "A bírósági titkár a 512. § (3) bekezdése alapján önállóan kezdeményezheti az EuB előzetes döntéshozatali eljárását és felfüggesztheti az eljárást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a titkár nem kezdeményezhet EuB előzetes döntéshozatalt. A helyes: a Be. 512. § (3) bekezdése a titkár jogkörét a 487. §-ra és a 488. § meghatározott pontjaira szűkíti, a 489–490. § szerinti kezdeményezés és felfüggesztés nélkül. A Be. 490. § szerinti utalás ezért bírói döntés marad. A tévedés a titkár általános felfüggesztési jogosultságát az EuB-utalásra is kiterjeszti."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "d51c8d13ca45"
+    },
+    {
+      "question": "A Rheinmühlen-Düsseldorf-elv a Cartesio-ügy 94. pontja szerint hogyan védi az alsóbb fokú bíróság utalási autonómiáját?",
+      "options": [
+        {
+          "text": "A Cartesio 95. pontja szerint a fellebbviteli bíróság kötelezően mellőzheti a kezdeményezést, ha a magasabb fok már állást foglalt a közösségi jog kérdésében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 95. pont a mellőzést nem engedi az autonómia rovására. A helyes: a C-210/06. sz. Cartesio-ügy 95. pontja szerint megkérdőjeleződne az elsőfokú bíróság autonóm hatásköre, ha a fellebbvitel a kezdeményezést mellőzve és a folytatásra utasítva megakadályozhatná a kérdezőt. A 93. pont a jogorvoslat kimenetelétől tiltja el a 234. cikk szerinti hatáskör korlátozását. A tévedés a mellőzést kötelező és megengedett gyakorlattá emeli."
+        },
+        {
+          "text": "A 95. pont szerint megkérdőjeleződne az elsőfokú bíróság 234. cikk szerinti autonóm hatásköre, ha a fellebbviteli bíróság a végzést megváltoztatva, a kezdeményezést mellőzve, a felfüggesztett eljárás folytatására utasítva megakadályozhatná a kérdezőt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mellőzési-utasítási modell az autonómia elvonása. A C-210/06. sz. Cartesio-ügy 95. pontja szerint megkérdőjeleződne az elsőfokú bíróság 234. cikk szerinti autonóm hatásköre, ha a fellebbviteli bíróság a végzést megváltoztatva, a kezdeményezést mellőzve, a felfüggesztett eljárás folytatására utasítva megakadályozhatná a kérdezőt abban, hogy éljen a Szerződésben biztosított lehetőségével. A 93. pont ugyanezt a korlátot a jogorvoslat kimenetelére nézve általánosítja. A 2010. évi magyar módosítás a külön fellebbezés megszüntetésével e feszültséget oldotta."
+        },
+        {
+          "text": "A magasabb fok jogi értékelése mindig kizárja, hogy az elsőfokú bíróság a hatályon kívül helyezés után az EuB-hoz forduljon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Rheinmühlen-elv éppen a szabad utalást védi. A helyes: a Cartesio-ügy 94. pontja szerint az elsőfokú bíróság a hatályon kívül helyezés után szabadon a Bírósághoz fordulhat annak ellenére, hogy a nemzeti jog szerint köti a magasabb fok jogi értékelése. A 95. pont a fellebbviteli mellőzést az autonómia elvonásaként értékeli. A tévedés a nemzeti kötő erőt a 234. cikk fölé helyezi."
+        },
+        {
+          "text": "Ha az ügy másodjára kerül az elsőfokú bíróság elé, miután ítéletét a végső fórum hatályon kívül helyezte, az elsőfokú bíróság szabadon a Bírósághoz fordulhat annak ellenére, hogy a nemzeti jog szerint köti a magasabb fok jogi értékelése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a magasabb fok kötőereje nem zárja ki az újabb utalást. A Cartesio-ügy 94. pontja a Rheinmühlen-Düsseldorf 1974. január 16-i ítéletét idézi: ha az ügy másodjára kerül az elsőfokú bíróság elé a végső fórum hatályon kívül helyezése után, az elsőfokú bíróság szabadon a Bírósághoz fordulhat annak ellenére, hogy a nemzeti jog szerint köti a magasabb fok jogi értékelése. A 95. pont szerint megkérdőjeleződne az elsőfokú bíróság 234. cikk szerinti autonóm hatásköre, ha a fellebbvitel a kezdeményezést mellőzve megakadályozhatná a kérdezőt. A kötő erő tehát nem nyelheti el a szerződéses utalási jogot."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "736682c874ba"
+    },
+    {
+      "question": "Egy polgári perben a fél előzetes döntéshozatali kezdeményezést kér, a bíróság elutasítja, majd később hivatalból mégis az EuB-hoz fordul. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A hivatalbóli kezdeményezésről szóló végzéshez a Pp. 126. § (1) bekezdése szerinti kötelező felfüggesztés kapcsolódik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a saját kezdeményezés kötelezően felfüggeszti a pert. A Pp. 126. § (1) bekezdése szerint a bíróság a peres eljárást felfüggeszti, ha az EuB előzetes döntéshozatali eljárásának kezdeményezéséről határoz. A felfüggesztés e kezdeményezéshez kapcsolódóan nem méltányossági, hanem kötelező jogkövetkezmény. A Be. 490. § (2) bekezdése a büntetőeljárásban a kezdeményezést és a felfüggesztést egyidejűleg rendeli."
+        },
+        {
+          "text": "A hivatalbóli kezdeményezéshez nem kapcsolódik felfüggesztés, mert a Pp. 126. § (1) bekezdése csak a fél kérelmére indított utalásra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelező felfüggesztés a kezdeményezés tényéhez kötött, nem a fél kérelméhez. A helyes: a Pp. 126. § (1) bekezdése a peres eljárást felfüggeszti, ha a bíróság az EuB előzetes döntéshozatali eljárásának kezdeményezéséről határoz — akár hivatalból, akár kérelemre indult a Pp. 130. § (1) bekezdése szerint. A tévedés a felfüggesztést a félkérelemhez köti."
+        },
+        {
+          "text": "A kérelem elutasításáról végzéssel kellett határozni, de az indokolás legkésőbb az ítéletben teljesíthető; a későbbi hivatalbóli kezdeményezés a Pp. 130. § (1) bekezdése szerint nyitva áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elutasítás és a későbbi hivatalbóli fordulás nem zárja ki egymást. A Pp. 130. § (3) bekezdése szerint a kérelem elutasításáról végzéssel határoz a bíróság, e döntését legkésőbb az ítéletében köteles megindokolni. A Pp. 130. § (1) bekezdése szerint a bíróság hivatalból vagy kérelemre kezdeményezheti az eljárást. A Cartesio-ügy 90–91. pontja a felektől független, a kérdező mérlegelésén nyugvó párbeszédet rögzíti."
+        },
+        {
+          "text": "Ha a bíróság egyszer elutasította a fél kérelmét, később hivatalból már nem fordulhat az EuB-hoz ugyanabban a perben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elutasítás nem emészt fel minden későbbi fordulási lehetőséget. A helyes: a Pp. 130. § (1) bekezdése szerint a bíróság hivatalból vagy kérelemre kezdeményezheti az eljárást; a Cartesio-ügy 91. pontja a szükségességi mérlegelést a kérdezőhöz köti. A Pp. 130. § (3) bekezdése az elutasítás indokolását legkésőbb az ítélethez rendeli, de nem tiltja a későbbi hivatalbóli kezdeményezést. A tévedés az elutasítást végleges utalási tilalommá emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "ed6e89698af9"
+    },
+    {
+      "question": "Az 1/2009. vélemény 2. pontja szerint a kezdeményező végzés elleni fellebbezés elbírálásakor mit nem vizsgálhatott a másodfokú bíróság a Cartesio-ratio alapján?",
+      "options": [
+        {
+          "text": "A másodfokú bíróság nem vizsgálhatta a kezdeményezés szükségességét, az előterjesztett kérdések tartalmát és indokoltságát, és ebben a körben az elsőfokú határozatot nem változtathatta meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szükségességi felülmérlegelés tilos volt. Az 1/2009. vélemény 2. pontja szerint a másodfokú bíróság nem vizsgálhatja a kezdeményezés szükségességét, az előterjesztett kérdések tartalmát és indokoltságát, és ebben a körben az elsőfokú határozatot nem változtathatja meg. A Cartesio-ítélet rendelkező része szerint a 234. cikk (2) bekezdésében biztosított hatáskör nem kérdőjelezhető meg a fellebbviteli mellőzéssel és a folytatásra utasítással. A 2010. évi módosítás a külön fellebbezést a később indult ügyekben megszüntette."
+        },
+        {
+          "text": "Az eljárásjogi kizáró okok — hatáskörhiány, kizáró ok — sem voltak vizsgálhatók a fellebbezésben, mert a Cartesio minden felülvizsgálatot tiltott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az eljárásjogi akadályok vizsgálata megmaradt. A helyes: az 1/2009. vélemény 2. pontja szerint változatlanul alkalmazni kell azokat a szabályokat, amelyek eljárásjogi okból zárják ki a kezdeményezést — kötelező megszüntetés, hatáskör vagy illetékesség hiánya, bírói kizáró ok —, miközben a C-210/06. sz. Cartesio-ügy a szükségesség és a kérdések tartalmának fellebbviteli felülmérlegelését tiltja. A tilalom tehát a 234. cikk (2) bekezdése szerinti hatáskör védelmére vonatkozik, nem az eljárásjogi érvénytelenségre. A tévedés a Cartesio-ratiót abszolút felülvizsgálati tilalommá tágítja."
+        },
+        {
+          "text": "A másodfokú bíróság a Cartesio ellenére szabadon felülmérlegelhette a kérdések tartalmát és a kezdeményezés szükségességét, majd mellőzhette az utalást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felülmérlegelés és a mellőzés a Cartesio által tiltott. A helyes: az 1/2009. vélemény 2. pontja szerint a másodfok nem vizsgálhatja a kezdeményezés szükségességét, a kérdések tartalmát és indokoltságát; a C-210/06. sz. Cartesio-ügy szerint a 234. cikk (2) bekezdése szerinti hatáskör nem kérdőjelezhető meg a fellebbviteli mellőzéssel. A tévedés a régi magyar külön fellebbezés gyakorlatát a Cartesio-korlát helyébe tolja."
+        },
+        {
+          "text": "Változatlanul alkalmazni kellett azokat a Pp.-szabályokat, amelyek eljárásjogi okból zárják ki a kezdeményezést: kötelező megszüntetés, hatáskör vagy illetékesség hiánya, illetve kizáró ok a bíróval szemben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Cartesio nem védte az eljárási akadályokkal terhelt utalást. Az 1/2009. vélemény 2. pontja szerint változatlanul alkalmazni kell azokat a Pp.-szabályokat, amelyek eljárásjogi okból zárják ki a kezdeményezést: ha a per kötelező megszüntetésének lenne helye, a végzést olyan bíróság hozta, amely az ügy érdemében hatáskör vagy illetékesség hiányában nem dönthet, illetve a meghozatalában olyan bíró vett részt, akivel szemben kizáró ok áll fenn. A szükségességi felülmérlegelés tilalma tehát nem jelenti az eljárásjogi érvénytelenségi okok vizsgálatának tilalmát. A hatályos Pp. 130. § a külön fellebbezést e körben már nem nyitja meg."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "9d430182b5ef"
+    },
+    {
+      "question": "Mely állítások tévesek a párhuzamos utalás diszkréciója és a már meghozott előzetes döntés alkalmazása viszonyáról? (tanító — egyik állítás sem helyes)",
+      "options": [
+        {
+          "text": "A párhuzamos utalás diszkréciója és a már meghozott előzetes döntés kötelező alkalmazása ugyanazt jelenti: mindkettő azt írja elő, hogy a bíróság újabb kérdést tegyen fel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két intézmény ellentétes irányú. A helyes: a 3/2005. vélemény 1. pontja és a Pp. 126. § (2) bekezdése a felesleges párhuzamos utalások elkerülését szolgálja; az EBH 2008.1815 a már meghozott előzetes döntés kötelező alkalmazását mondja ki. A magyar bíró feladata: feleslegesen nem szaporítja az utalásokat, a megszületett választ viszont a saját ügyében érvényesíti. A tévedés a két elválasztott intézményt azonosítja."
+        },
+        {
+          "text": "Az értelmező előzetes döntés csak a kérdező ügyében hatályos, ezért a regisztrációs adós C-290/05. és C-333/05. ítéleteket a későbbi magyar perekben nem kellett alkalmazni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EBH éppen e döntések figyelmen kívül hagyását minősítette tévesnek. A helyes: az EBH 2008.1815 szerint a C-290/05. és C-333/05. sz. regisztrációs adós ítéletek tartalmát nem lehetett volna figyelmen kívül hagyni; az értelmező döntés ex tunc hatályú. A magyar bíróság és a közigazgatási szerv a van Gend en Loos- és a Costa-elvek, valamint a Da Costa- és a CILFIT-olvasat folytán köteles érvényesíteni a választ. A tévedés az inter partes hatályt a normatív erő helyébe tolja."
+        },
+        {
+          "text": "Ha más ügyben már született előzetes döntés azonos kérdésben, a magyar bíróság a saját ügyében szabadon figyelmen kívül hagyhatja azt, mert az erga omnes hatály vitatott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EBH a normatív erőt és a kötelező alkalmazást mondja ki. A helyes: az EBH 2008.1815 szerint az előzetes döntéseknek olyan normatív ereje van, hogy joghatást fejt ki más ügyben is; a magyar bíróságok az EuB ítélkezési gyakorlatát nem hagyhatják figyelmen kívül. A Da Costa- és a CILFIT-olvasat szerint a bírósági gyakorlat mindenkire kiterjedő és kötelező hatállyal bír. A tévedés az erga omnes irodalmi vitát a figyelmen kívül hagyás jogává fordítja."
+        },
+        {
+          "text": "A 3/2005. vélemény 1. pontja szerint a párhuzamos EUB-utalás miatt a bíróság soha nem függesztheti fel a pert, hanem mindig önállóan kell fordulnia.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vélemény éppen a felfüggesztési diszkréciót engedi. A helyes: a 3/2005. (XI. 14.) PK-KK közös vélemény 1. pontja szerint a bíróság a per tárgyalását a másik eljárás befejezéséig felfüggesztheti, és belátásától függően önállóan is fordulhat a Bírósághoz. A Pp. 126. § (2) bekezdése e diszkréciót törvényi alakban hordozza. A tévedés a diszkréciót kógens önálló utalási kötelességgé fordítja."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "67ba5805676e"
+    }
+  ]
+}

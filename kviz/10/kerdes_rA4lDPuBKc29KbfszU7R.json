@@ -1,0 +1,1251 @@
+{
+  "id": "rA4lDPuBKc29KbfszU7R",
+  "sorszam": 10,
+  "cim": "A nemzeti parlamentek szerepe az uniós jogalkotási eljárásban",
+  "generationType": "kerdes",
+  "title": "10. A nemzeti parlamentek szerepe az uniós jogalkotási eljárásban",
+  "questions": [
+    {
+      "question": "Milyen szerepet szán a Lisszaboni Szerződés a nemzeti parlamenteknek az uniós jogalkotási eljárásban?",
+      "options": [
+        {
+          "text": "A nemzeti parlamentek harmadik uniós kamaraként a Tanáccsal és az Európai Parlamenttel együtt fogadják el a rendeleteket és irányelveket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti parlament nem uniós társtörvényhozó, és jogalkotási aktust nem fogad el. A Lisszaboni Szerződés őket a demokratikus legitimáció szerződéses szereplőiként helyezi az eljárásba; az EUSZ 12. cikk és a jegyzőkönyvek tájékoztatást, szubszidiaritás-ellenőrzést és politikai kontrollt adnak, nem közös olvasatot. A tévedés forrása a nemzeti parlamenti belépés összekeverése a Tanács–Parlament társtörvényhozói tengellyel."
+        },
+        {
+          "text": "A szubszidiaritás-ellenőrzés a kizárólagos uniós hatáskörökön is kötelező, mert az EUSZ 5. cikk (3) bekezdése minden uniós intézkedésre kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szubszidiaritás csak a nem kizárólagos hatáskörökön nyílik. Az EUSZ 5. cikk (3) bekezdése szerint azokon a területeken, amelyek nem tartoznak kizárólagos hatáskörébe, az Unió csak akkor és annyiban jár el, amikor a célokat a tagállamok sem központi, sem regionális vagy helyi szinten nem tudják kielégítően megvalósítani, és az Unió szintjén jobban megvalósíthatók. Ahol csak az Unió alkothat kötelező aktust, a nemzeti parlamenti őrszerep sem ezen a címen fut. A tévedés a hatáskörgyakorlás és a hatáskör-átruházás síkjának összecseréléséből ered."
+        },
+        {
+          "text": "A nemzeti parlamentek a demokratikus legitimáció saját, szerződéses szereplői, de nem uniós társtörvényhozók, és jogalkotási aktust nem fogadnak el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti parlament a hatáskörgyakorlás és az áthidaló klauzulák ellenőrzője, nem a Tanács vagy a Parlament olvasatainak helyettesítője. A Lisszaboni Szerződés őket nem harmadik uniós kamaraként, hanem a demokratikus legitimáció saját, szerződéses szereplőiként helyezi a jogalkotási eljárásba. Az EUSZ 5. cikk (3) bekezdése a szubszidiaritás tiszteletben tartásának őreit a nemzeti parlamentekben jelöli ki, a 12. cikk pedig hat funkcióban írja le a hozzájárulást. A szerződéses eszközök — indokolt vélemény, felülvizsgálati kényszer, a 81. cikk (3) bekezdésének hat hónapos kifogása — ellenőrzést adnak, nem társtörvényhozást."
+        },
+        {
+          "text": "Az Unió hatáskörgyakorlását az EUSZ 5. cikk a szubszidiaritáshoz és az arányossághoz köti, és a (3) bekezdés a szubszidiaritás tiszteletben tartásának őreit a nemzeti parlamentekben jelöli ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti parlamenti őrszerep a hatáskörgyakorlás elveihez, nem a hatáskör-átruházás elhatárolásához kapcsolódik. Az EUSZ 5. cikk (1) bekezdése szerint a hatáskörök elhatárolására a hatáskör-átruházás elve, a már átruházott hatáskörök gyakorlására a szubszidiaritás és az arányosság az irányadó. A (3) bekezdés a szubszidiaritást a nem kizárólagos hatáskörökön nyitja, és a nemzeti parlamenteket a jegyzőkönyv eljárásának címzettjeivé teszi. A kizárólagos uniós hatáskörön a „jobban megvalósítható” teszt és ez az őrszerep nem fut."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "1912b66ca809"
+    },
+    {
+      "question": "Az EUSZ 5. cikk (3) bekezdése a szubszidiaritást milyen kettős feltételhez köti?",
+      "options": [
+        {
+          "text": "A szubszidiaritás egyetlen feltétele, hogy az Unió szintjén a cél hatékonyabban valósítható meg; a tagállami kielégítő megvalósítás vizsgálata nem kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a teszt kettős és konjunktív: előbb a tagállami kielégítő megvalósítás hiánya, majd az uniós szintű jobb megvalósíthatóság. Az EUSZ 5. cikk (3) bekezdése mindkét ágat kimondja, és a nemzeti megvalósítást központi, regionális és helyi szinten is vizsgálja. A tévedés forrása a „jobban megvalósítható” ág önálló olvasata a kielégítő nemzeti megvalósítás ága nélkül."
+        },
+        {
+          "text": "A szubszidiaritás csak akkor nyílik, ha a célkitűzést a Szerződések kifejezetten a nemzeti parlamentek hatáskörébe utalják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szubszidiaritás a nem kizárólagos uniós hatáskörök gyakorlásának feltétele, nem a nemzeti parlamentek saját hatáskörének előfeltétele. Az EUSZ 5. cikk (3) bekezdése a célok tagállami és uniós szintű összevetését írja elő, és a nemzeti parlamenteket a jegyzőkönyvi eljárás címzettjeivé teszi. A tévedés a hatáskör-átruházás (2) bekezdésbeli elhatárolásának és a (3) bekezdésbeli gyakorlási tesztnek az összecseréléséből ered."
+        },
+        {
+          "text": "A nemzeti megvalósítás vizsgálatánál a központi szint mellett a regionális és a helyi szintet is figyelembe kell venni, mielőtt az uniós szintű jobb megvalósíthatóság megállapítható lenne.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szubszidiaritás első ága háromtagú nemzeti szintet vizsgál. Az EUSZ 5. cikk (3) bekezdése szerint az Unió csak akkor és annyiban jár el, amikor és amennyiben a célokat a tagállamok sem központi, sem regionális vagy helyi szinten nem tudják kielégítően megvalósítani, és azok a tervezett intézkedés terjedelme vagy hatása miatt az Unió szintjén jobban megvalósíthatók. A regionális-helyi ág tehát nem díszítő elem, hanem a kettős feltétel része. A (2.) jegyzőkönyv konzultációs szabályai ehhez a háromszintű olvasathoz igazodnak."
+        },
+        {
+          "text": "A tervezett intézkedés céljait a tagállamok sem központi, sem regionális vagy helyi szinten nem tudják kielégítően megvalósítani, és a terjedelem vagy a hatás miatt az Unió szintjén jobban megvalósíthatók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szubszidiaritás konjunktív, kétszintű teszt a nem kizárólagos hatáskörön. Az EUSZ 5. cikk (3) bekezdése szerint az Unió csak akkor és annyiban jár el, amikor és amennyiben a célokat a tagállamok sem központi, sem regionális vagy helyi szinten nem tudják kielégítően megvalósítani, így azok a tervezett intézkedés terjedelme vagy hatása miatt az Unió szintjén jobban megvalósíthatók. A kielégítő nemzeti megvalósítás három szintje a (2.) jegyzőkönyv regionális-helyi konzultációjával rímel. Az intézmények a szubszidiaritást a jegyzőkönyv szerint alkalmazzák, a nemzeti parlamentek pedig gondoskodnak a tiszteletben tartásáról."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "f1a2f1474313"
+    },
+    {
+      "question": "Az EUSZ 12. cikk a nemzeti parlamentek uniós hozzájárulását milyen funkciókban írja le?",
+      "options": [
+        {
+          "text": "A katalógus magában foglalja a tájékoztatást és a jogalkotási tervezetek kézhezvételét, a szubszidiaritás-ellenőrzést, a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség értékelését, az Europol politikai ellenőrzését és az Eurojust értékelését, a Szerződések felülvizsgálatát, a csatlakozási kérelmekről szóló értesítést, valamint a parlamentközi együttműködést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 12. cikk a nemzeti parlamentek uniós szerepének taxatív katalógusa. Az EUSZ 12. cikk a)–f) pontja szerint a nemzeti parlamentek tevékenyen hozzájárulnak az Unió jó működéséhez: az (1.) jegyzőkönyv szerinti tájékoztatás és tervezetkézhezvétel, a (2.) jegyzőkönyv szerinti szubszidiaritás-ellenőrzés, a 70., 88. és 85. cikk szerinti térségi értékelés és ügynökségi kontroll, a 48. cikk felülvizsgálati eljárásai, a 49. cikk szerinti csatlakozási értesítés, valamint a parlamentközi együttműködés. Az a), b) és d) pont a jogalkotási pályához, a c) pont a végrehajtás és a bűnügyi ügynökségek politikai kontrolljához, az e) pont pedig nem jogalkotáshoz kötődik."
+        },
+        {
+          "text": "A 12. cikk f) pontja szerinti parlamentközi konferencia észrevételei a nemzeti parlamenteket kötelezik, és álláspontjukat kötelesen befolyásolják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a konferencia észrevételei nem kötelezik a nemzeti parlamenteket. Az (1.) jegyzőkönyv II. címe szerint az uniós ügyekre szakosodott parlamenti bizottságok konferenciája észrevételt tehet, előmozdítja az információcserét, és KKBP-konferenciákat szervezhet, de az észrevételek a nemzeti parlamenteket nem kötelezik, és álláspontjukat nem befolyásolják. Ez az EUSZ 12. cikk f) pontjának intézményes alakja, nem vétójog. A tévedés a parlamentközi együttműködés és a kötelező nemzeti álláspont összekeveréséből ered."
+        },
+        {
+          "text": "A 12. cikk e) pontja a csatlakozási kérelmekről szóló értesítést a nemzeti parlamentek egyetértési jogává emeli, amely nélkül a csatlakozási tárgyalás nem indítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az e) pont értesítés, nem egyetértés vagy vétó. Az EUSZ 12. cikk e) pontja szerint a nemzeti parlamentek az EUSZ 49. cikkével összhangban értesítést kapnak az Unióhoz való csatlakozási kérelmek benyújtásáról; ez nem jogalkotás és nem egyetértési zár. A tévedés forrása a 81. cikk (3) bekezdésének hat hónapos kifogásának vagy a parlamenti egyetértési aktusoknak a ráírása a csatlakozási értesítésre."
+        },
+        {
+          "text": "A 12. cikk c) pontja a térség keretében a 70. cikk szerinti végrehajtás-értékelést, a 88. cikk szerinti Europol-ellenőrzést és a 85. cikk szerinti Eurojust-értékelést köti össze.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a c) pont egy térségi ellenőrzési csomag, nem általános intézményi beszámoló. Az EUSZ 12. cikk c) pontja szerint a nemzeti parlamentek az EUMSZ 70. cikkével összhangban részt vesznek az uniós politikák e területen való végrehajtását értékelő eljárásokban, a 88. cikkel összhangban az Europol politikai ellenőrzésében, valamint a 85. cikkel összhangban az Eurojust tevékenységének értékelésében. A szerződéses különbség is megjelenik: a 88. cikk politikai ellenőrzést, a 85. cikk értékelést nevez meg. A 71. cikk belső biztonsági állandó bizottságának folyamatos tájékoztatása ugyanezen vonalhoz kapcsolódik, de nem az Europol-kontroll."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "058413c82105"
+    },
+    {
+      "question": "Az EUMSZ 81. cikk (3) bekezdése a családjogi áttérésnél milyen nemzeti parlamenti kifogást ad?",
+      "options": [
+        {
+          "text": "A kifogás az eljárási forma váltását támadja: a különleges, egyhangú pályáról a rendes eljárásra való áttérést, nem a családjogi intézkedés tartalmát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 81. cikk (3) bekezdésének kifogása eljárási, nem tartalmi eszköz. Az EUMSZ 81. cikk (3) bekezdése a több államra kiterjedő családjogot főszabályként különleges jogalkotási eljárásban, tanácsi egyhangúsággal és európai parlamenti konzultációval tartja; az áttérési határozat ezt a formát nyitná a rendes eljárásra. A nemzeti parlamenti kifogás ezt a forma váltását hiúsítja meg. A családjogi intézkedés érdemi tartalmát e zár nem bírálja el."
+        },
+        {
+          "text": "Ha valamely nemzeti parlament az értesítés időpontjától számított hat hónapon belül kifogást emel, a rendes eljárásra való áttérésről szóló határozat nem fogadható el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a családjogi áttérésnél egyetlen nemzeti parlament hat hónapos kifogása elég a meghiúsításhoz. Az EUMSZ 81. cikk (3) bekezdése szerint a második albekezdésben említett javaslatról értesíteni kell a nemzeti parlamenteket; ha valamely nemzeti parlament az értesítés időpontjától számított hat hónapon belül kifogást emel, a határozat nem fogadható el. Kifogás hiányában a Tanács a határozatot elfogadhatja. Ez nem szavazat-egyharmados sárga lap, hanem egyparlamenti áttérési zár."
+        },
+        {
+          "text": "A családjogi áttérés meghiúsításához a nemzeti parlamenti szavazatok egyharmada kell, mint a szubszidiaritási sárga lapnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 81. cikk (3) bekezdésénél egyetlen nemzeti parlament kifogása elég, nem kell egyharmad. Az EUMSZ 81. cikk (3) bekezdése „valamely nemzeti parlament” hat hónapos kifogásáról beszél. A helyes: a (2.) jegyzőkönyv 7. cikk (2) bekezdésének egyharmados — térségben egynegyedes — küszöbe a szubszidiaritási indokolt vélemények felülvizsgálatára vonatkozik, nem erre az áttérési zárra. A tévedés a sárga lap küszöbét írja rá a családjogi kifogásra."
+        },
+        {
+          "text": "A kifogás a családjogi rendelet szövegének tartalmi visszavonását kényszeríti a Bizottságra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kifogás nem a családjogi intézkedés tartalmát semmisíti meg, és nem kötelezi a Bizottságot visszavonásra. Az EUMSZ 81. cikk (3) bekezdése szerint a kifogás a rendes eljárásra való áttérésről szóló tanácsi határozatot hiúsítja meg; kifogás esetén a különleges, egyhangú pálya marad. A helyes: ez eljárási formazár, nem tartalmi megsemmisítés. A tévedés a szubszidiaritási indokolt vélemény tartalmi támadását keveri az áttérési kifogással."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "19495f056c04"
+    },
+    {
+      "question": "Az (1.) jegyzőkönyv 4. cikke a nyolchetes várakozás alatt milyen főszabályt és milyen sürgős kivételt ír elő a megállapodásokra?",
+      "options": [
+        {
+          "text": "A nyolc hét alatt főszabályként semmilyen megállapodás nem köthető a tervezet hivatalos nyelvi rendelkezésre bocsátása és a Tanács ideiglenes napirendjére tűzése között.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főszabály a nemzeti parlamenti belépés időbeli védelmét a megállapodási tilalommal erősíti. Az (1.) jegyzőkönyv 4. cikke szerint a tervezetnek az Unió hivatalos nyelvein való rendelkezésre bocsátása és a Tanács ideiglenes napirendjére tűzése között nyolc hétnek kell eltelnie, és e nyolc hét alatt főszabályként semmilyen megállapodás nem köthető. A tilalom tehát nem csupán „várakozás”, hanem a trilógus-típusú előzetes lezárás szerződéses akadálya is. A napirendre tűzés utáni tíz napos zár ettől elválik, és nem helyettesíti a nyolchetes tilalmat."
+        },
+        {
+          "text": "Kellően indokolt sürgős esetben a nyolchetes várakozás alól kivétel tehető, de az indokokat a tanácsi aktusban vagy álláspontban meg kell jelölni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a sürgősségi kivétel dokumentált indokhoz kötött, nem csendes megrövidítés. Az (1.) jegyzőkönyv 4. cikke a nyolchetes főszabály mellett megengedi a kellően indokolt sürgős esetet, és előírja, hogy az indokokat a tanácsi aktusban vagy álláspontban fel kell tüntetni. Indokolás nélküli „sürgősség” nem nyitja a kivételt. A kivétel a főszabály tilalmát szűkíti, de nem üríti ki a nemzeti parlamenti ellenőrzési időt indoklás nélkül."
+        },
+        {
+          "text": "A nyolc hét alatt a Tanács szabadon köthet megállapodást, ha a Bizottság szóban jelzi a sürgősséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály szerinti tilalom és a kivétel indokolási kötelezettsége is sérül. Az (1.) jegyzőkönyv 4. cikke szerint a nyolc hét alatt főszabályként semmilyen megállapodás nem köthető; kivétel csak kellően indokolt sürgős esetben lehetséges, és az indokokat a tanácsi aktusban vagy álláspontban meg kell jelölni. A helyes: szóbeli bizottsági jelzés nem helyettesíti a dokumentált indoklást. A tévedés a sürgősséget formalitás nélküli politikai engedménnyé olvassa."
+        },
+        {
+          "text": "A megállapodási tilalom csak az Európai Parlamentre vonatkozik; a Tanács a nyolc hét alatt szabadon állapodhat meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom nem intézményspecifikus engedmény a Tanácsnak. Az (1.) jegyzőkönyv 4. cikke a nyolc hét alatt főszabályként semmilyen megállapodást tilt, nem csupán a parlamenti oldalt. A helyes: a tilalom a tervezet–napirend szakasz egészére szól, és csak indokolt sürgős esetben, feltüntetett indokkal enged kivételt. A tévedés a trilógus egyik szereplőjére szűkíti a szerződéses zárat."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "84a64114b386"
+    },
+    {
+      "question": "Mi következik abból, ha a szubszidiaritási indokolt vélemények a nemzeti parlamenti szavazatok legalább egyharmadát képviselik?",
+      "options": [
+        {
+          "text": "A szabadságon, a biztonságon és a jog érvényesülésén alapuló térségre vonatkozó, a 76. cikk alapján előterjesztett tervezeteknél a felülvizsgálatot kiváltó küszöb az összes szavazat egynegyede.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a térségben alacsonyabb a sárga lap küszöbe. A (2.) jegyzőkönyv 7. cikk (2) bekezdése a 76. cikk szerinti, a térségre vonatkozó tervezeteknél az összes szavazat egynegyedére szállítja a felülvizsgálati küszöböt. Az EUMSZ 69. cikk ugyanezt a jegyzőkönyvi őrszerepet a büntetőügyi igazságügyi együttműködés és a rendőrségi együttműködés fejezeteire külön is kimondja. Az EUMSZ 76. cikk e fejezetek jogi aktusait a Bizottság javaslata vagy a tagállamok egynegyedének kezdeményezése alapján rendeli elfogadni, ezért a csökkentett szavazatküszöb ehhez a kezdeményezési szerkezethez igazodik."
+        },
+        {
+          "text": "Az egyharmados küszöb elérésekor a tervezet automatikusan elbukik, és a Bizottság nem tarthatja fenn a javaslatot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felülvizsgálat kötelező, de a fenntartás, módosítás vagy visszavonás a kezdeményező döntése. A (2.) jegyzőkönyv 7. cikk (2) bekezdése a felülvizsgálatot és az indokolt döntést írja elő, nem az automatikus elbukást. A rendes eljárásban a 7. cikk (3) bekezdése külön, egyszerű többséges narancs lapot ad a tárgyalás megszüntetésére. A tévedés a sárga lap és a narancs lap jogkövetkezményének összecseréléséből ered."
+        },
+        {
+          "text": "A tervezetet felül kell vizsgálni; a kezdeményező a tervezetet fenntarthatja, módosíthatja vagy visszavonhatja, és a döntést indokolni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyharmados küszöb felülvizsgálati kényszert vált ki, de nem automatikus visszavonást. A (2.) jegyzőkönyv 7. cikk (2) bekezdése szerint ha az indokolt vélemények a szavazatok legalább egyharmadát képviselik, a tervezetet felül kell vizsgálni. A kezdeményező fenntarthatja, módosíthatja vagy visszavonhatja a tervezetet, és a döntést indokolni kell. Minden nemzeti parlamentnek — a nemzeti rendszernek megfelelően elosztva — két szavazata van; kétkamarás parlamentnél kamaránként egy."
+        },
+        {
+          "text": "A felülvizsgálati küszöbhöz minden nemzeti parlamentnek négy szavazata van, mert a két kamara és a regionális parlamentek együttesen számítanak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, minden nemzeti parlamentnek két szavazata van. A (2.) jegyzőkönyv 7. cikk (1) bekezdése szerint minden nemzeti parlamentnek — a nemzeti rendszernek megfelelően elosztva — két szavazata van; kétkamarás parlamentnél kamaránként egy. A jogalkotói hatáskörű regionális parlamentekkel való egyeztetés a nemzeti kamarákra tartozik, de nem növeli a szavazatszámot négyre. A tévedés a regionális konzultáció és a szavazati súly összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "721ea3e01347"
+    },
+    {
+      "question": "A narancs lapnál, ha a Bizottság a rendes eljárásban fenntartja a javaslatot, melyik jogalkotói küszöb szüntetheti meg önállóan a tárgyalhatóságot?",
+      "options": [
+        {
+          "text": "A tárgyalhatóság megszűnik, ha a Parlamentben leadott szavazatok többsége szerint a javaslat nem összeegyeztethető a szubszidiaritással.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Európai Parlament szavazattöbbsége a narancs lap másik, önálló megszüntetési ága. A (2.) jegyzőkönyv 7. cikk (3) bekezdése a Parlamentben leadott szavazatok többségét a Tanács 55 százalékával párhuzamos, nem együttes feltételként nevezi meg. Ha e parlamenti többség a szubszidiaritással való összeegyeztethetetlenséget állapítja meg, a javaslat a továbbiakban nem tárgyalható. A Bizottság indokolt fenntartása előfeltétel, de a megszüntetés alanya a jogalkotó egyik ága."
+        },
+        {
+          "text": "A tárgyalhatóság megszűnik, ha a Tanács tagjainak 55 százalékát kitevő többség szerint a javaslat nem összeegyeztethető a szubszidiaritással.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tanács 55 százaléka önálló megszüntetési ág a narancs lapon. A (2.) jegyzőkönyv 7. cikk (3) bekezdése szerint a Bizottság fenntartása és indokolt véleménye után a jogalkotó dönt; ha a Tanács tagjainak 55 százalékát kitevő többség a szubszidiaritással való összeegyeztethetetlenséget állapítja meg, a javaslat a továbbiakban nem tárgyalható. Ez a küszöb nem követel parlamenti szavazattöbbséget ugyanabban a döntésben. A nemzeti parlamentek egyszerű többségi indokolt véleménye önmagában nem ez a tanácsi 55 százalék."
+        },
+        {
+          "text": "Elegendő bármelyik nemzeti parlament ismételt indokolt véleménye a Bizottság fenntartása után a tárgyalás megszüntetéséhez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, egyetlen nemzeti parlament ismételt véleménye nem szünteti meg a tárgyalhatóságot. A (2.) jegyzőkönyv 7. cikk (3) bekezdése a Tanács 55 százalékához vagy a parlamenti szavazattöbbséghez köti a megszüntetést. A helyes: a nemzeti parlamentek egyszerű többsége a felülvizsgálatot és a Bizottság indokolt fenntartását indítja, nem a végleges tárgyalási zárat. A tévedés a sárga lap nemzeti parlamenti szavazatát írja rá a narancs lap intézményközi döntésére."
+        },
+        {
+          "text": "A Régiók Bizottságának negatív véleménye önmagában megszünteti a javaslat tárgyalhatóságát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Régiók Bizottságának véleménye nem a 7. cikk (3) bekezdésbeli megszüntetési küszöb. A (2.) jegyzőkönyv 7. cikk (3) bekezdése a Tanács 55 százalékát vagy a parlamenti szavazattöbbséget követeli. A helyes: a Régiók Bizottsága a 8. cikk szerint meghatározott, konzultációköteles aktusoknál 263. cikk szerinti keresetet indíthat, ami bírósági út, nem a tervezet tárgyalásának megszüntetése. A tévedés a kereseti legitimációt keveri a narancs lap jogalkotói zárával."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "9cf7d2cd288d"
+    },
+    {
+      "question": "A (2.) jegyzőkönyv 8. cikke a Régiók Bizottságának milyen kereseti utat nyit a szubszidiaritás védelmében?",
+      "options": [
+        {
+          "text": "A 8. cikk szerinti út csak ajánlások ellen nyílik, kötelező jogalkotási aktusok ellen nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 8. cikk a szubszidiaritást sértő jogalkotási aktus megtámadására ad hatáskört. A (2.) jegyzőkönyv 8. cikke kifejezetten a jogalkotási aktust nevezi meg a 263. cikk szerinti kereset tárgyaként. A helyes: ajánlás és vélemény nem e zár tipikus tárgya; a kötelező jogalkotási aktus igen. A tévedés a nem kötelező aktusokat keveri a megsemmisítési kereset rendes tárgyával."
+        },
+        {
+          "text": "A Régiók Bizottságának e keresete a 263. cikk szerinti megsemmisítési pályán fut, nem a kötelezettségszegési eljárásban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 8. cikk a megsemmisítési keresetet köti a szubszidiaritás védelméhez. A (2.) jegyzőkönyv 8. cikke kifejezetten az EUMSZ 263. cikk szerinti keresetet nevezi meg a szubszidiaritást sértő jogalkotási aktus ellen. A kötelezettségszegési út (EUMSZ 258–260. cikk) más intézmény, amelyet például a 70. cikk fenntart, de nem ez a 8. cikk eszköze. A Régiók Bizottsága tehát a konzultációköteles körben megsemmisítést kérhet, nem kötelezettségszegést indít."
+        },
+        {
+          "text": "A Régiók Bizottsága bármely uniós jogalkotási aktust megtámadhat szubszidiaritás címén, konzultációs klauzula nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kereseti jog nem korlátlan. A (2.) jegyzőkönyv 8. cikke a Régiók Bizottságának keresetét azokra a jogalkotási aktusokra korlátozza, amelyeknél a Szerződés szerint vele konzultálni kell. A helyes: konzultációköteles körön kívül e jegyzőkönyvi ág nem ad általános legitimációt. A tévedés a regionális érdekképviseletet általános uniós felperesi státusszá tágítja."
+        },
+        {
+          "text": "A Régiók Bizottsága azoknál a jogalkotási aktusoknál indíthat keresetet, amelyeknél a Szerződés szerint vele konzultálni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Régiók Bizottságának kereseti joga konzultációköteles aktusokra korlátozódik. A (2.) jegyzőkönyv 8. cikke szerint a Bíróság hatáskörrel rendelkezik a szubszidiaritást sértő jogalkotási aktus megtámadására az EUMSZ 263. cikk szerinti keresettel, és e körben a Régiók Bizottsága is indíthat keresetet, ha a Szerződés szerint vele konzultálni kell. Ez nem általános keresetindítási jog minden jogalkotási aktusra. A politikai sárga és narancs lap ettől függetlenül a tervezet szakaszában fut."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "241ab1202e32"
+    },
+    {
+      "question": "A Szerződések rendes felülvizsgálati eljárásában hogyan kapcsolódnak be a nemzeti parlamentek?",
+      "options": [
+        {
+          "text": "A nemzeti parlamentek a rendes felülvizsgálatban minősített többséggel megvétózhatják a módosítási javaslat továbbítását az Európai Tanácsnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés értesítési kötelezettséget ír elő, nem nemzeti parlamenti vétót a továbbításra. Az EUSZ 48. cikk (2) bekezdése szerint a Tanács a javaslatot továbbítja az Európai Tanácsnak, és értesíti a nemzeti parlamenteket; a belépés a konventbeli képviselettel és a tagállami megerősítéssel folytatódik. A tévedés forrása a 81. cikk (3) bekezdésének egyetlen parlamenti kifogásának ráírása a szerződésmódosításra."
+        },
+        {
+          "text": "A Tanács a módosítási javaslatot továbbítja az Európai Tanácsnak, és arról értesíti a nemzeti parlamenteket; ha konvent hívandó össze, abban a nemzeti parlamentek képviselői is helyet kapnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendes felülvizsgálat értesítéssel és konventbeli képviselettel vonja be a nemzeti parlamenteket. Az EUSZ 48. cikk (2) bekezdése szerint a javaslatot a Tanács továbbítja az Európai Tanácsnak, és arról értesíti a nemzeti parlamenteket. A (3) bekezdés szerint a konvent a nemzeti parlamenteknek, a tagállamok állam- illetve kormányfőinek, valamint az Európai Parlamentnek és a Bizottságnak a képviselőiből áll. Ez az EUSZ 12. cikk d) pontjának intézményes alakja a szerződésmódosításban."
+        },
+        {
+          "text": "A konvent mellőzése csak az Európai Parlament egyetértését követően, az Európai Tanács egyszerű többségű döntésével lehetséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a konvent mellőzése nem egyoldalú európai tanácsi döntés. Az EUSZ 48. cikk (3) bekezdése szerint amennyiben a javasolt módosítások terjedelme nem indokolja, az Európai Tanács az Európai Parlament egyetértését követően egyszerű többséggel a konvent összehívásának mellőzéséről dönthet. Ilyenkor az Európai Tanács meghatározza a kormányközi konferencia mandátumát. A nemzeti parlamenti képviselet tehát a konvent útján jelenik meg; a mellőzés parlamenti egyetértéshez kötött."
+        },
+        {
+          "text": "A rendes felülvizsgálatban a módosítások hatálybalépéséhez elegendő a tagállamok kétharmadának megerősítése, a nemzeti parlamentek értesítése nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a módosítások csak azt követően lépnek hatályba, hogy azokat alkotmányos követelményeiknek megfelelően valamennyi tagállam megerősítette. Az EUSZ 48. cikk (4) bekezdése ezt a teljes körű megerősítést írja elő; a (2) bekezdés pedig a nemzeti parlamentek értesítését. Az (5) bekezdés a két év utáni négyötödös helyzetet az Európai Tanács elé utalja, de nem váltja fel a teljes megerősítést. A tévedés a nemzetközi szerződések általános kétharmados képét ráírja a lisszaboni felülvizsgálatra."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "cd0688411ebd"
+    },
+    {
+      "question": "Az EUSZ 48. cikk (7) bekezdésének áthidaló klauzulája milyen nyitást enged, és mi a katonai-védelmi kivétel?",
+      "options": [
+        {
+          "text": "A katonai vagy védelmi vonatkozású döntéseknél is alkalmazható a minősített többségre nyitás, ha az Európai Parlament egyetért.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a katonai-védelmi kivétel a minősített többségre nyitást zárja. Az EUSZ 48. cikk (7) bekezdésének első albekezdése szerint ez az albekezdés nem alkalmazható a katonai vagy védelmi vonatkozású döntések esetén; parlamenti egyetértés e tilalmat nem oldja fel. A tévedés forrása a konvent mellőzésének parlamenti egyetértési feltételének ráírása az áthidaló klauzula kivételére."
+        },
+        {
+          "text": "Az Európai Tanács felhatalmazhatja a Tanácsot, hogy egyhangúság helyett minősített többséggel határozzon — a katonai vagy védelmi vonatkozású döntések kivételével —, illetve hogy a különleges jogalkotási eljárás helyett rendes eljárást nyisson.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az áthidaló klauzula két síkon nyit: szavazási küszöb és jogalkotási forma. Az EUSZ 48. cikk (7) bekezdésének első albekezdése szerint ha az EUMSZ vagy az EUSZ V. címe egyhangú határozathozatalt ír elő, az Európai Tanács felhatalmazhatja a Tanácsot a minősített többségű döntésre; ez az albekezdés nem alkalmazható a katonai vagy védelmi vonatkozású döntések esetén. A második albekezdés a különleges eljárás helyett a rendes jogalkotási eljárás megnyitását engedi. Az (1.) jegyzőkönyv 6. cikke e két albekezdéshez legalább hat hónapos előzetes tájékoztatást kapcsol."
+        },
+        {
+          "text": "A nemzeti parlamenteket legalább hat hónappal a határozat elfogadása előtt tájékoztatni kell az Európai Tanács 48. cikk (7) bekezdés szerinti kezdeményezéséről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az áthidaló klauzula nem csendben futó intézményközi átminősítés. Az (1.) jegyzőkönyv 6. cikke a 48. cikk (7) bekezdésének első és második albekezdéséhez külön tájékoztatási zárat kapcsol: a nemzeti parlamenteket legalább hat hónappal a határozat elfogadása előtt tájékoztatni kell. Ez a hat hónapos előzetes tájékoztatás az EUSZ 12. cikk d) pontját a jogalkotási eljárás átalakítására is kiterjeszti. A családjogi 81. cikk (3) bekezdés hat hónapos kifogásától ez abban különbözik, hogy itt tájékoztatási, nem automatikus meghiúsító zár."
+        },
+        {
+          "text": "Az áthidaló klauzula határozatát a Bizottság a nemzeti parlamentek értesítése nélkül, egyszerű többséggel fogadhatja el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a döntés az Európai Tanácsé, és a nemzeti parlamenteket legalább hat hónappal korábban tájékoztatni kell. Az EUSZ 48. cikk (7) bekezdése az Európai Tanács határozatáról beszél; az (1.) jegyzőkönyv 6. cikke a hat hónapos előzetes tájékoztatást írja elő. A tévedés a rendes jogalkotási bizottsági javaslat modelljét írja rá az alkotmányos súlyú áthidaló klauzulára."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "d519796f27b5"
+    },
+    {
+      "question": "Az EUMSZ 70. cikk szerinti végrehajtás-értékelés mit vizsgál, és milyen tájékoztatást ad a nemzeti parlamenteknek?",
+      "options": [
+        {
+          "text": "Az értékelés tartalmáról és eredményéről tájékoztatni kell az Európai Parlamentet és a nemzeti parlamenteket; a 258–260. cikk szerinti kötelezettségszegési út ettől nem válik automatikussá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti parlament tájékoztatást kap, nem szankciót indít. Az EUMSZ 70. cikk szerint az értékelés tartalmáról és eredményéről tájékoztatni kell az Európai Parlamentet és a nemzeti parlamenteket, a 258., 259. és 260. cikk sérelme nélkül. Az értékelés mulasztása vagy kedvezőtlen eredménye önmagában nem váltja ki a kötelezettségszegési eljárást, és nem is zárja ki. A (2.) jegyzőkönyv 6–7. cikkének tervezeti indokolt véleménye ettől a végrehajtási szakasztól elválik."
+        },
+        {
+          "text": "A 70. cikk alapján a nemzeti parlamentek nyolc héten belül indokolt véleménnyel megállíthatják a térségi rendelettervezetet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 70. cikk nem a tervezet elleni indokolt véleményt adja. Az EUMSZ 70. cikk a végrehajtás értékelésének tájékoztatását írja elő. A helyes: a tervezet elleni indokolt vélemény a (2.) jegyzőkönyv 6. cikke szerinti nyolchetes eljáráson fut, felülvizsgálati küszöbbel a 7. cikk (2) bekezdése szerint. A tévedés az EUSZ 12. cikk c) pontjának végrehajtási ágát a b) pont szubszidiaritás-ellenőrzésével cseréli fel."
+        },
+        {
+          "text": "A kedvezőtlen értékelés kötelezően megindítja a Bizottság kötelezettségszegési eljárását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értékelés nem automatikus szankció. Az EUMSZ 70. cikk a 258–260. cikk sérelme nélkül rendelkezik. A helyes: az értékelés tartalmáról és eredményéről tájékoztatni kell a nemzeti parlamenteket is, de a kötelezettségszegési út indítása ettől külön döntés. A tévedés az értékelési mechanizmust a Bizottság szankciós monopóliumával azonosítja."
+        },
+        {
+          "text": "A Tanács a Bizottság javaslata alapján szabályokat állapíthat meg a tagállami hatóságok általi végrehajtás objektív és pártatlan értékeléséről, különösen a kölcsönös elismerés teljes körű alkalmazása érdekében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 70. cikk a már futó uniós politika tagállami alkalmazásának tükörszabályait adja. Az EUMSZ 70. cikk szerint a Tanács a Bizottság javaslata alapján intézkedéseket fogadhat el, amelyekben megállapítja az objektív és pártatlan értékelés szabályait; az értékelést a tagállamok a Bizottsággal együttműködve végzik, különösen a kölcsönös elismerés elvének teljes körű alkalmazása érdekében. Ez nem a tervezet szubszidiaritásáról szóló indokolt vélemény. Az EUSZ 12. cikk c) pontja ezt a részvételt a térség keretébe emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "0bb5e303a6a1"
+    },
+    {
+      "question": "A családjogi áttérési kifogásnál ki emelhet önállóan kifogást, és mit támad a kifogás?",
+      "options": [
+        {
+          "text": "A kifogáshoz a két kamara együttes, azonos tartalmú nyilatkozata kell, különben hatástalan.",
+          "isCorrect": false,
+          "rationale": "HAMIS, nincs együttes kamarákhoz kötött érvényességi feltétel a 81. cikk (3) bekezdésében. Az EUMSZ 81. cikk (3) bekezdése szerint valamely nemzeti parlament hat hónapos kifogása elég. A helyes: egyetlen kamara fellépése is meghiúsíthatja az áttérési határozatot; a másik kamara hallgatása nem menti meg a határozatot. A tévedés a nemzeti alkotmányos együttes aktus modelljét írja rá a szerződéses egyparlamenti zárra."
+        },
+        {
+          "text": "A kifogás tárgya az eljárási forma váltása: a különleges, egyhangú pályáról a rendes eljárásra való áttérés, nem a családjogi intézkedés érdemi tartalma.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a családjogi zár eljárási, nem tartalmi ellenőrzés. Az EUMSZ 81. cikk (3) bekezdése a több államra kiterjedő családjogot különleges eljárásban, egyhangúsággal és parlamenti konzultációval tartja; az áttérési határozat ezt a formát nyitná. A nemzeti parlamenti vagy kamarai kifogás ezt a forma váltását hiúsítja meg. A családjogi intézkedés szövegének érdemi bírálata nem e kifogás feladata."
+        },
+        {
+          "text": "Kétkamarás rendszerben egyetlen kamara is emelhet kifogást; a határozat így sem fogadható el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 81. cikk (3) bekezdése „valamely nemzeti parlament” kifogásáról beszél, és a kamarák önálló fellépése is elég a meghiúsításhoz. Az EUMSZ 81. cikk (3) bekezdése szerint ha valamely nemzeti parlament az értesítés időpontjától számított hat hónapon belül kifogást emel, a határozat nem fogadható el. A forrás és a jegyzőkönyvi logika szerint a kamarák önállóan is beléphetnek az uniós eljárásokba; egy kamara kifogása tehát nem vár a másik kamara egyetértésére. Ez erősebb, mint a szavazatküszöbhöz kötött sárga lap."
+        },
+        {
+          "text": "A kifogás a családjogi rendelet egyes cikkelyeinek tartalmi megsemmisítését kéri a Bíróságtól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 81. cikk (3) bekezdésének kifogása nem bírósági megsemmisítési kereset. Az EUMSZ 81. cikk (3) bekezdése politikai-eljárási meghiúsítést ad az áttérési határozat ellen. A helyes: a szubszidiaritást sértő, már elfogadott jogalkotási aktus ellen a (2.) jegyzőkönyv 8. cikke a 263. cikk szerinti keresetet nyitja, ami más út. A tévedés az áttérési kifogást keveri a bírósági megsemmisítéssel."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "172fa4e6cdd5"
+    },
+    {
+      "question": "Az EUMSZ 71. cikk szerinti belső biztonsági állandó bizottság milyen tájékoztatási kötelezettséget ró a nemzeti parlamentek felé?",
+      "options": [
+        {
+          "text": "A folyamatos tájékoztatás helyett elegendő az éves összesített jelentés, mert a 70. cikk is csak az értékelés eredményéről szól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 71. cikk folyamatos tájékoztatást ír elő, ami szigorúbb a 70. cikk utólagos értesítésénél. Az EUMSZ 71. cikk szerint a bizottság munkájáról folyamatosan tájékoztatni kell az Európai Parlamentet és a nemzeti parlamenteket. A 70. cikk az értékelés tartalmáról és eredményéről szóló tájékoztatást adja. A tévedés a két tájékoztatási intenzitás összecseréléséből ered."
+        },
+        {
+          "text": "A bizottság munkájáról az Európai Parlamentet és a nemzeti parlamenteket folyamatosan tájékoztatni kell; a bizottság a hatáskörrel rendelkező tagállami hatóságok intézkedéseinek összehangolását segíti, nem váltja fel azokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a folyamatos tájékoztatás szigorúbb, mint a 70. cikk utólagos, tartalmi-eredmény szerinti értesítése. Az EUMSZ 71. cikk szerint a belső biztonságra vonatkozó operatív együttműködés előmozdítására a Tanácson belül állandó bizottság jön létre, amely a 240. cikk sérelme nélkül segíti a tagállami hatóságok intézkedéseinek összehangolását. A bizottság munkájáról folyamatosan tájékoztatni kell az Európai Parlamentet és a nemzeti parlamenteket. Ez a 12. cikk c) pontjának tájékoztatási-ellenőrzési vonala, de nem a 88. cikk szerinti Europol-kontroll."
+        },
+        {
+          "text": "Az Unió érintett szerveinek és hivatalainak képviselői bevonhatók a bizottság munkájába, miközben az operatív összehangolás a tagállami hatáskörben marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bizottság segíti, nem helyettesíti a nemzeti hatóságokat. Az EUMSZ 71. cikk szerint e bizottság munkájába be lehet vonni az Unió érintett szerveinek és hivatalainak képviselőit. A 240. cikk sérelmének kikötése az állandó bizottságot a tanácsi előkészítés rendszerében tartja. A 88. cikk (3) bekezdése szerinti kényszerítő intézkedés tilalma az Europolra, nem e bizottságra vonatkozik; a 71. cikk a politikai láthatóságot adja, a kényszer monopóliumát nem helyezi uniós szintre."
+        },
+        {
+          "text": "A 71. cikk szerinti bizottság az Europol politikai ellenőrzésének szerződéses fóruma, ezért a nemzeti parlamentek itt indokolt véleményt adnak az Europol-rendelettervezetről.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 71. cikk címzettje a tanácsi állandó bizottság, nem az Europol. Az EUMSZ 71. cikk a belső biztonsági operatív együttműködés tanácsi állandó bizottságáról rendelkezik; az Europol politikai ellenőrzését az EUMSZ 88. cikk (2) bekezdése a Parlament és a nemzeti parlamentek közös eljárásához köti. A tervezet elleni indokolt véleményt a (2.) jegyzőkönyv 6. cikke nyolc héten belül engedi, az EUMSZ 69. cikk pedig a büntetőügyi és rendőrségi fejezetekben ezt az őrszerepet külön megerősíti. A tévedés az EUSZ 12. cikk c) pontján belüli eszközök összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "0b45bce0ad1b"
+    },
+    {
+      "question": "Miben tér el az Eurojust tevékenységének értékelése az Europol politikai ellenőrzésétől?",
+      "options": [
+        {
+          "text": "Az Europol-kontroll pusztán utólagos tájékoztatás, mint a 70. cikk végrehajtás-értékelése, közös parlamenti eljárás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Europol-kontroll nem utólagos tájékoztatás, hanem a rendeletben rögzítendő, közös parlamenti eljárás. Az EUMSZ 88. cikk (2) bekezdése harmadik albekezdése szerint a rendeletek határozzák meg, hogyan ellenőrzi a Parlament a nemzeti parlamentekkel közösen az Europol tevékenységét. Az EUMSZ 70. cikk ezzel szemben a végrehajtás objektív értékelésének tartalmáról és eredményéről szóló tájékoztatást írja elő az Európai Parlament és a nemzeti parlamentek felé. A tévedés a 70. cikk és a 88. cikk intenzitásának összecseréléséből ered."
+        },
+        {
+          "text": "Mindkét ügynökség felépítését, működését, tevékenységi területét és feladatait rendes jogalkotási eljárásban elfogadott rendeletekben a Parlament és a Tanács határozza meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szervezeti keret mindkét esetben rendeleti, rendes eljárásban születik. Az EUMSZ 85. cikk (1) és a 88. cikk (2) bekezdése egyaránt a rendes jogalkotási eljárásban elfogadott rendeletekhez köti a felépítést, a működést, a tevékenységi területet és a feladatokat. A 69. cikk a rendelettervezet szubszidiaritás-ellenőrzését a 4. és 5. Fejezeten külön is kimondja. Az értékelés, illetve a politikai kontroll a már működő ügynökségre, nem a tervezetre vonatkozik."
+        },
+        {
+          "text": "Az Eurojust értékelése azonos a (2.) jegyzőkönyv szerinti indokolt véleménnyel a rendelettervezetről, ezért nyolc héten belül kell megküldeni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értékelés a már működő Eurojust tevékenységére vonatkozik, nem a tervezet szubszidiaritására. Az EUMSZ 85. cikk (1) bekezdése az értékelésben való részvétel szabályait a rendeletekhez köti. A rendelettervezet szubszidiaritás-ellenőrzését a (2.) jegyzőkönyv 6–7. cikke (nyolc hét, indokolt vélemény, szavazatküszöb) adja, az EUMSZ 69. cikk pedig a 4. és 5. Fejezeten külön is kimondja. A tévedés az EUSZ 12. cikk b) és c) pontjának összecseréléséből ered."
+        },
+        {
+          "text": "A 85. cikk az Eurojust tevékenységének értékelésében való parlamenti részvétel szabályait, a 88. cikk pedig a Parlament és a nemzeti parlamentek közös Europol-ellenőrzési eljárását írja elő a rendeletekben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szerződéses különbség a rendeleti klauzulában is megjelenik. Az EUMSZ 85. cikk (1) bekezdése szerint a rendeletekben kell meghatározni azokat a szabályokat, amelyek alapján az Európai Parlament és a nemzeti parlamentek részt vesznek az Eurojust tevékenységének értékelésében. Az EUMSZ 88. cikk (2) bekezdése szerint a rendeletek határozzák meg azokat az eljárásokat, amelyek szerint az Európai Parlament — a nemzeti parlamentekkel közösen — ellenőrzi az Europol tevékenységét. Az EUSZ 12. cikk c) pontja a 88. cikket politikai ellenőrzésként, a 85. cikket értékelésként nevezi meg."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "e2538a74491e"
+    },
+    {
+      "question": "Mi következik abból, ha az Europol operatív cselekményt hajtana végre kényszerítő intézkedéssel?",
+      "options": [
+        {
+          "text": "Az Europol operatív cselekményeit az érintett tagállam hatóságaival kapcsolatot tartva és velük egyetértésben kell végrehajtani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 88. cikk (3) bekezdése a kényszer monopóliuma mellett az operatív végrehajtás egyetértési kötöttségét is kimondja. Az EUMSZ 88. cikk (3) bekezdése szerint az Europol által végzett operatív cselekményeket annak a tagállamnak a hatóságaival kapcsolatot tartva és velük egyetértésben kell végrehajtani, amelynek területét ezek a cselekmények érintették. Kényszerítő intézkedések alkalmazására kizárólag a hatáskörrel rendelkező nemzeti hatóságok jogosultak. Az uniós ügynökség tehát nem válik önálló rendőri hatósággá a tagállami egyetértés nélkül."
+        },
+        {
+          "text": "Az Europol a 88. cikk (3) bekezdése alapján önállóan alkalmazhat kényszerítő intézkedést, ha a Parlament és a nemzeti parlamentek közös ellenőrzése ezt utólag jóváhagyja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kényszerítő intézkedés kizárólag a nemzeti hatóságokat illeti, és utólagos parlamenti jóváhagyás ezt nem pótolja. Az EUMSZ 88. cikk (3) bekezdése egyértelműen a hatáskörrel rendelkező nemzeti hatóságok kizárólagos jogosultságát rögzíti. A politikai ellenőrzés a (2) bekezdés szerinti közös parlamenti eljárás, nem a kényszer átengedése. A tévedés a politikai kontroll és az operatív kényszerhatáskör összekeveréséből ered."
+        },
+        {
+          "text": "Kényszerítő intézkedések alkalmazására kizárólag a hatáskörrel rendelkező nemzeti hatóságok jogosultak; az Europol operatív cselekményeit az érintett tagállam hatóságaival egyetértésben kell végrehajtani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kényszer monopóliuma a tagállamnál marad. Az EUMSZ 88. cikk (3) bekezdése szerint az Europol által végzett operatív cselekményeket annak a tagállamnak a hatóságaival kapcsolatot tartva és velük egyetértésben kell végrehajtani, amelynek területét ezek a cselekmények érintették, és kényszerítő intézkedések alkalmazására kizárólag a hatáskörrel rendelkező nemzeti hatóságok jogosultak. Az uniós ügynökség így nem válik rendőri hatósággá. A 69. cikk a rendelettervezet szubszidiaritás-ellenőrzését, a 88. cikk (2) bekezdése a működés közbeni politikai kontrollt adja."
+        },
+        {
+          "text": "A belső biztonsági állandó bizottság a 71. cikk alapján átveheti a kényszerítő intézkedések elrendelését, ha az Europol nem jár el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 71. cikk a tagállami hatóságok intézkedéseinek összehangolását segíti, a kényszert nem helyezi uniós szintre. Az EUMSZ 71. cikk szerint a bizottság segíti az összehangolást; a 88. cikk (3) bekezdésének kényszerítő intézkedési tilalma az Europolra vonatkozik, de a 71. cikk sem ad uniós kényszerhatáskört. A tévedés a politikai láthatóság és a kényszermonopólium összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "df43065831c8"
+    },
+    {
+      "question": "Az (1.) jegyzőkönyv szerint ki továbbítja a jogalkotási aktus tervezetét a nemzeti parlamenteknek?",
+      "options": [
+        {
+          "text": "Minden jogalkotási tervezetet kizárólag a Bizottság továbbít a nemzeti parlamenteknek, függetlenül attól, ki a kezdeményező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a továbbító a kezdeményező típusától függ, nem minden esetben a Bizottság. Az (1.) jegyzőkönyv tájékoztatási rendje szerint a bizottsági tervezetet a Bizottság, a parlamenti tervezetet a Parlament, a tagállami csoport, a Bíróság, az Európai Központi Bank vagy az Európai Beruházási Bank kezdeményezését pedig a Tanács továbbítja a nemzeti parlamenteknek. A (2.) jegyzőkönyv 6. cikke ugyanezen tervezetekre engedi az indokolt véleményt a szubszidiaritás sérelméről. A tévedés a Bizottság általános javaslattevő szerepének ráírása minden tervezettípusra."
+        },
+        {
+          "text": "A Bizottság a konzultációs dokumentumokat — zöld és fehér könyveket, közleményeket — közzétételükkor közvetlenül továbbítja a nemzeti parlamenteknek, az éves jogalkotási programot pedig az Európai Parlamenttel és a Tanáccsal egyidejűleg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatás a konzultációs szakaszra és a programra is kiterjed, nem csak a végleges tervezetre. Az (1.) jegyzőkönyv I. címe a Bizottság közvetlen továbbítási kötelezettségét írja elő a konzultációs dokumentumokra — zöld és fehér könyvekre, közleményekre —, és az éves jogalkotási programot az Európai Parlamenttel és a Tanáccsal egyidejűleg küldi meg. Az EUSZ 12. cikk a) pontja éppen ezt a tájékoztatást és a jogalkotási aktusok tervezeteinek kézhezvételét nevezi meg a nemzeti parlamentek hozzájárulásaként. A tervezetek egyidejű továbbítása a (2.) jegyzőkönyvben is megjelenik az uniós jogalkotókkal párhuzamosan."
+        },
+        {
+          "text": "A bizottsági tervezetet a Bizottság, a parlamenti tervezetet a Parlament, a tagállami csoport, a Bíróság, az Európai Központi Bank vagy az Európai Beruházási Bank kezdeményezését pedig a Tanács továbbítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a továbbítás a kezdeményező intézményhez igazodik. Az (1.) jegyzőkönyv I. címe szerint jogalkotási aktus tervezete a Bizottság javaslata, a tagállamok egy csoportjának vagy a Parlament kezdeményezése, a Bíróság kérelme, az Európai Központi Bank ajánlása, illetve az Európai Beruházási Bank kérelme, ha jogalkotási aktus elfogadására irányul. A bizottsági tervezetet a Bizottság, a parlamenti tervezetet a Parlament, a többit a Tanács továbbítja. A nemzeti parlamentek a (2.) jegyzőkönyv 6. cikke szerint indokolt véleményt küldhetnek arra, hogy a tervezet összhangban van-e a szubszidiaritás elvével."
+        },
+        {
+          "text": "A nemzeti parlamentek csak a Tanács ideiglenes napirendjére tűzés után kapják meg a tervezetet, mert a nyolchetes határidő akkor kezdődik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tervezeteket az uniós jogalkotókkal egyidejűleg kell továbbítani, és a nyolc hét a hivatalos nyelveken való rendelkezésre bocsátástól számít. Az (1.) jegyzőkönyv 4. cikke a rendelkezésre bocsátás és a Tanács ideiglenes napirendjére tűzés közé teszi a nyolc hetet; a (2.) jegyzőkönyv a tervezetek egyidejű továbbítását írja elő. A tévedés a napirendre tűzést a kézhezvétel előfeltételévé emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "9dd9694e65c9"
+    },
+    {
+      "question": "A (2.) jegyzőkönyv szerint a jogalkotási aktus tervezetét a szubszidiaritás és az arányosság tekintetében hogyan kell indokolni?",
+      "options": [
+        {
+          "text": "A tervezetet külön indokolni kell: a feljegyzés a pénzügyi hatásokat, irányelvnél a tagállami és regionális végrehajtási jogszabályok hatásait, valamint minőségi és — ahol lehet — mennyiségi mutatókat tartalmaz arra, hogy a cél az Unió szintjén jobban megvalósítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az indokolási kötelezettség a „jobban megvalósítható” teszt bizonyítását szolgálja. A (2.) jegyzőkönyv szerint a tervezetet a szubszidiaritás és az arányosság tekintetében külön indokolni kell, és a feljegyzésnek tartalmaznia kell a pénzügyi hatásokat, irányelvnél a tagállami és regionális végrehajtási jogszabályok hatásait, valamint minőségi és — ahol lehetséges — mennyiségi mutatókat. A terheket a lehető legkisebbre kell csökkenteni, és arányban kell állniuk a célkitűzésekkel. Az EUSZ 5. cikk (3) és (4) bekezdése a szubszidiaritás és az arányosság elvét mondja ki, a (2.) jegyzőkönyv pedig ennek eljárási kitöltését adja."
+        },
+        {
+          "text": "Az indokolás elég, ha csak az uniós szintű hatékonyságot említi; a pénzügyi és a regionális végrehajtási hatások bemutatása nem kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a feljegyzésnek a pénzügyi hatásokat, irányelvnél a tagállami és regionális végrehajtási hatásokat, valamint minőségi és — ahol lehet — mennyiségi mutatókat is tartalmaznia kell. A szubszidiaritás és az arányosság elvének alkalmazásáról szóló (2.) jegyzőkönyv — az EUSZ 5. cikk (3) és (4) bekezdésének eljárási kitöltéseként — ezt a tartalmi minimumot a külön indokoláshoz köti, tehát az uniós szintű hatékonyság puszta említése nem elég. A tévedés a „jobban megvalósítható” ág önálló, bizonyíték nélküli olvasatából ered."
+        },
+        {
+          "text": "A külön indokolás csak a kizárólagos uniós hatáskörű aktusokra kötelező, mert ott a szubszidiaritás a legszigorúbb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szubszidiaritás és a hozzá kapcsolódó indokolás a nem kizárólagos hatáskörökön nyílik. Az EUSZ 5. cikk (3) bekezdése a szubszidiaritást azokon a területeken alkalmazza, amelyek nem tartoznak kizárólagos hatáskörébe; a (2.) jegyzőkönyv ezt az eljárást tölti ki. A tévedés a kizárólagos hatáskör és a szubszidiaritási őrszerep összecseréléséből ered."
+        },
+        {
+          "text": "A Bizottság a javaslatok előtt széles körű konzultációt folytat, adott esetben a regionális és helyi vonatkozásokat is figyelembe véve; különösen sürgős esetben a konzultáció elmaradhat, de a döntést indokolni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a konzultáció a szubszidiaritás előzetes érvényesítésének része. A (2.) jegyzőkönyv előírja a Bizottság széles körű konzultációját a javaslatok előtt, regionális és helyi vonatkozások figyelembevételével. Különösen sürgős esetben a konzultáció elmaradhat, de a döntést indokolni kell. A tervezeteket az uniós jogalkotókkal egyidejűleg kell a nemzeti parlamenteknek továbbítani. Ez kapcsolódik az EUSZ 5. cikk (3) bekezdésének háromszintű nemzeti megvalósítási tesztjéhez."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "94626e7bd03c"
+    },
+    {
+      "question": "Az EUSZ 48. cikk (6) bekezdésének egyszerűsített felülvizsgálata milyen korlátot szab a hatásköröknek?",
+      "options": [
+        {
+          "text": "Az egyszerűsített felülvizsgálattal az Európai Tanács minősített többséggel új uniós hatásköröket ruházhat a Szerződésekbe a nemzeti parlamentek értesítése nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (6) bekezdés hatáskört nem bővíthet, egyhangúságot követel, és a hatálybalépéshez tagállami alkotmányos jóváhagyás kell. Az EUSZ 48. cikk (6) bekezdése kifejezetten kimondja, hogy a határozat a Szerződésekben az Unióra ruházott hatásköröket nem bővítheti. A tévedés a (7) bekezdés áthidaló klauzulájának és a hatáskörbővítésnek a ráírása az egyszerűsített szövegmódosításra."
+        },
+        {
+          "text": "A (6) bekezdés a katonai és védelmi rendelkezésekre is kiterjed, mert az V. cím egyszerűsített módosítását célozza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (6) bekezdés az EUMSZ harmadik részének belső politikáira és tevékenységeire szűkül. Az EUSZ 48. cikk (6) bekezdése ezt a tárgyi korlátot kimondja; a katonai-védelmi kivétel a (7) bekezdés áthidaló klauzulájánál jelenik meg. A tévedés a (6) és a (7) bekezdés tárgyi hatályának összecseréléséből ered."
+        },
+        {
+          "text": "Az Európai Tanács határozata az EUMSZ harmadik részének belső politikáira vonatkozó rendelkezéseket módosíthatja, de a Szerződésekben az Unióra ruházott hatásköröket nem bővítheti, és a hatálybalépéshez a tagállamok alkotmányos jóváhagyása kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyszerűsített pálya szövegmódosításra nyit, hatáskörbővítésre nem. Az EUSZ 48. cikk (6) bekezdése szerint az Európai Tanács az EUMSZ harmadik részében foglalt rendelkezéseket határozattal egészben vagy részben módosíthatja, egyhangúlag, az Európai Parlamenttel és a Bizottsággal — monetáris intézményi módosításnál az EKB-val — folytatott konzultációt követően. A határozat csak a tagállami alkotmányos jóváhagyás után lép hatályba, és a Szerződésekben az Unióra ruházott hatásköröket nem bővítheti. A rendes felülvizsgálat (2)–(5) bekezdése ezzel szemben a hatáskörök bővítésére vagy szűkítésére is irányulhat."
+        },
+        {
+          "text": "A (6) bekezdés szerinti javaslatot bármely tagállam kormánya, az Európai Parlament vagy a Bizottság nyújthatja be az Európai Tanácsnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kezdeményezők köre a rendes pályához hasonló, de a címzett az Európai Tanács. Az EUSZ 48. cikk (6) bekezdése szerint bármely tagállam kormánya, az Európai Parlament vagy a Bizottság javaslatokat nyújthat be az Európai Tanácsnak az EUMSZ harmadik részének felülvizsgálata érdekében. A döntés egyhangú európai tanácsi határozat, tagállami alkotmányos jóváhagyással. A nemzeti parlamentek konventbeli képviselete itt nem a (3) bekezdés szerinti konventen fut, mert a (6) bekezdés egyszerűsített pálya."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "5afacbb382fc"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a 69. cikk szerinti ágazati szubszidiaritás-ellenőrzés?",
+      "options": [
+        {
+          "text": "A 69. cikk a kizárólagos uniós hatáskörű rendőrségi intézkedésekre is kiterjeszti a szubszidiaritás tesztjét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szubszidiaritás továbbra is a nem kizárólagos hatáskörökön nyílik; a 69. cikk a jegyzőkönyvi őrszerepet ágazatilag megerősíti, nem a 5. cikk (3) bekezdésének tárgyi hatályát írja át. Az EUSZ 5. cikk (3) bekezdése a szubszidiaritást a nem kizárólagos területekre korlátozza; az EUMSZ 69. cikk a 4. és 5. Fejezet javaslatainál a (2.) jegyzőkönyvre utal. A tévedés az ágazati megerősítés hatásköri tesztként való félreolvasásából ered."
+        },
+        {
+          "text": "A 69. cikk a családjogi áttérésnél is egyetlen nemzeti parlament kifogásával meghiúsítja a határozatot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a családjogi áttérés meghiúsító kifogása a 81. cikk (3) bekezdésén áll, nem a 69. cikken. Az EUMSZ 81. cikk (3) bekezdése szerint ha valamely nemzeti parlament hat hónapon belül kifogást emel, a határozat nem fogadható el; a 69. cikk a 4. és 5. Fejezet jegyzőkönyvi szubszidiaritás-ellenőrzését mondja ki. A tévedés a két zár összecseréléséből ered."
+        },
+        {
+          "text": "A 69. cikk nem nyit új keresetet vagy külön határidőt: a jegyzőkönyvi őrszerepet a büntetőjogi és rendőrségi fejezetre külön is kimondja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 69. cikk az EUSZ 12. cikk b) pontjának ágazati megerősítése, nem önálló eljárási kódex. Az EUMSZ 69. cikk a szubszidiaritás és az arányosság elvének alkalmazásáról szóló jegyzőkönyvben foglaltakra utal. A határidőt a (2.) jegyzőkönyv 6. cikke nyolc hétben állapítja meg, a felülvizsgálati küszöböt a 7. cikk adja — a 76. cikk alapján előterjesztett tervezeteknél az összes szavazat egynegyedével. A 8. cikk szerinti, az EUMSZ 263. cikk alapú kereset továbbra is a jegyzőkönyvi bírósági zár, és a 69. cikk nem a 81. cikk (3) bekezdésének hat hónapos kifogása."
+        },
+        {
+          "text": "A 69. cikk a 4. és az 5. Fejezet — a büntetőügyekben folytatott igazságügyi együttműködés és a rendőrségi együttműködés — keretében benyújtott jogalkotási javaslatokra és kezdeményezésekre vonatkozik, a polgári 3. Fejezetre nem terjed ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 69. cikk ágazati megerősítés, nem általános zár minden térségi fejezetre. Az EUMSZ 69. cikk szerint a nemzeti parlamentek a (2.) jegyzőkönyvnek megfelelően gondoskodnak arról, hogy a 4. és 5. Fejezet keretében benyújtott jogalkotási javaslatok és kezdeményezések összhangban legyenek a szubszidiaritás és az arányosság elvével. A polgári 3. Fejezetben a 81. cikk (2) bekezdése rendes eljárást ad, a (3) bekezdés pedig a családjogi áttéréshez saját, hat hónapos nemzeti parlamenti kifogást. A 69. cikk tehát nem helyettesíti a 81. cikk (3) bekezdését."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "3ec7bd789b00"
+    },
+    {
+      "question": "A napirendre tűzés és a tanácsi álláspont elfogadása között az (1.) jegyzőkönyv milyen további várakozást ír elő?",
+      "options": [
+        {
+          "text": "A Tanács ideiglenes napirendjére tűzés és az álláspont elfogadása között tíz napnak kell eltelnie.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tíz nap a nyolchetes szakasz utáni második időzítési zár. Az (1.) jegyzőkönyv 4. cikke szerint a tervezet hivatalos nyelveken való rendelkezésre bocsátása és a napirendre tűzés között nyolc hétnek, a napirendre tűzés és az álláspont elfogadása között pedig tíz napnak kell eltelnie. A nyolc hét alatt főszabályként semmilyen megállapodás nem köthető. A két határidő együtt adja a nemzeti parlamenti belépés időbeli védelmét."
+        },
+        {
+          "text": "A tíz nap a napirendre tűzés utáni, a nyolchetes szakasztól elváló további várakozás: csak ezután fogadható el a tanácsi álláspont.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tíz nap második, önálló időzítési zár. Az (1.) jegyzőkönyv 4. cikke szerint a tervezet hivatalos nyelveken való rendelkezésre bocsátása és a napirendre tűzés között nyolc hétnek, a napirendre tűzés és az álláspont elfogadása között pedig tíz napnak kell eltelnie. A tíz nap nem helyettesíti a nyolc hetet, és nem a tanácsi ülés jegyzőkönyvének továbbítási szabálya. A két határidő egymást követő védelmet ad a nemzeti parlamenti belépésnek."
+        },
+        {
+          "text": "A tíz napos várakozás helyettesíti a nyolchetes határidőt, ha a Bizottság sürgősnek minősíti a javaslatot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tíz nap a napirendre tűzés utáni külön szakasz, nem a nyolc hét helyettesítője. Az (1.) jegyzőkönyv 4. cikke mindkét határidőt előírja; a sürgős kivétel a nyolchetes szakaszra vonatkozik, indokok feltüntetésével. A tévedés a két időzítési zár összevonásából ered."
+        },
+        {
+          "text": "A tíz nap csak az Európai Parlament első olvasati álláspontjára vonatkozik, a Tanácsra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 4. cikk a Tanács ideiglenes napirendjére tűzése és az álláspont elfogadása közé teszi a tíz napot. Az (1.) jegyzőkönyv 4. cikke tanácsi időzítést szabályoz; a Parlament állásfoglalásait a (2.) jegyzőkönyv elfogadásuk után továbbíttatja. A tévedés a parlamenti és a tanácsi álláspont időzítésének összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "f2991f86c2ae"
+    },
+    {
+      "question": "Az Eurojust milyen feladatokat láthat el a nemzeti hatóságok irányában a 85. cikk szerint?",
+      "options": [
+        {
+          "text": "A feladatok magukban foglalhatják a nyomozás megindítását vagy a bűnvádi eljárás kezdeményezésének javaslatát — különösen az Unió pénzügyi érdekeit sértő bűncselekményeknél —, e cselekmények összehangolását, valamint az igazságügyi együttműködés erősítését, ideértve a joghatósági összeütközések feloldását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Eurojust koordinációs és javaslattevő szerepe zárt feladatlistában jelenik meg. Az EUMSZ 85. cikk (1) bekezdése szerint e feladatok magukban foglalhatják az illetékes nemzeti hatóságok által lefolytatandó nyomozások megindítását, illetve javaslatot a bűnvádi eljárások megindítására különösen az Unió pénzügyi érdekeit sértő bűncselekményeknél, az ilyen nyomozások és eljárások összehangolását, valamint az igazságügyi együttműködés erősítését, többek között a joghatósági összeütközések feloldása és az Európai Igazságügyi Hálózattal való együttműködés révén. A felépítést és a feladatokat rendeletekben, rendes eljárásban határozzák meg. A (2) bekezdés a hivatalos eljárási cselekményeket a tagállami tisztviselőknél tartja."
+        },
+        {
+          "text": "Az Eurojust értékelése azonos az Europol politikai ellenőrzésével, mert mindkettőt a 88. cikk rendezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Eurojust értékelését a 85. cikk, az Europol politikai ellenőrzését a 88. cikk rendezi. Az EUMSZ 85. cikk (1) bekezdése az értékelésben való részvétel szabályait, a 88. cikk (2) bekezdése a Parlament és a nemzeti parlamentek közös ellenőrzési eljárását írja elő. Az EUSZ 12. cikk c) pontja a két intézményt külön nevezi meg. A tévedés a két ügynökségi kontroll összecseréléséből ered."
+        },
+        {
+          "text": "Az Eurojust feladata a két vagy több tagállamot érintő, illetve a közös alapokon való bűnüldözést szükségessé tevő súlyos bűncselekmények nemzeti hatóságai közötti koordináció és együttműködés támogatása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szerződéses küldetés a nemzeti hatóságok közötti támogatás, nem az önálló vádlói szerep. Az EUMSZ 85. cikk (1) bekezdése az Eurojust feladatát a nemzeti bűnüldöző hatóságok közötti megfelelő koordináció és együttműködés támogatásában és erősítésében jelöli ki, a nemzeti hatóságok és az Europol operatív cselekményei és információi alapján. A 86. cikk szerinti európai ügyészi hatáskör ettől a koordinációs modelltől elválik. Az EUSZ 12. cikk c) pontja az értékelést éppen e szerephez köti."
+        },
+        {
+          "text": "Az Eurojust a 85. cikk (2) bekezdése alapján önállóan foganatosíthatja a hivatalos eljárási cselekményeket minden tagállamban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hivatalos eljárási cselekményeket a tagállamok hatáskörrel rendelkező tisztviselői foganatosítják. Az EUMSZ 85. cikk (2) bekezdése szerint az (1) bekezdésben említett büntetőeljárások során, a 86. cikk sérelme nélkül, a hivatalos eljárási cselekményeket a tagállamok hatáskörrel rendelkező tisztviselői foganatosítják. Az Eurojust koordinál és javasol. A tévedés az európai ügyészi modell ráírása a 85. cikk koordinációs keretére."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "1c05a8a9bb80"
+    },
+    {
+      "question": "Az Europol feladatai közé a 88. cikk szerint mi tartozhat?",
+      "options": [
+        {
+          "text": "A feladatok magukban foglalhatják az információk — ideértve a harmadik országok és az Unión kívüli szervezetek adatait — gyűjtését, tárolását, feldolgozását, elemzését és cseréjét, valamint a közös nyomozócsoportokban végzett nyomozati és operatív tevékenységek összehangolását, adott esetben az Eurojusttal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Europol támogatja és erősíti a tagállami bűnüldözést információval és operatív összehangolással. Az EUMSZ 88. cikk (2) bekezdése szerint e feladatok magukban foglalhatják az információk összegyűjtését, tárolását, feldolgozását, elemzését és cseréjét, valamint a tagállami hatóságokkal közösen vagy közös nyomozócsoportok keretében végzett nyomozati és operatív tevékenységek összehangolását, megszervezését és végrehajtását, adott esetben az Eurojusttal. A felépítést rendeletekben, rendes eljárásban határozzák meg. A (3) bekezdés a kényszerítő intézkedést a nemzeti hatóságoknál hagyja."
+        },
+        {
+          "text": "Az Europol politikai ellenőrzése kizárólag a Bizottság éves jelentésén alapul, nemzeti parlamenti részvétel nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a politikai ellenőrzés a Parlament és a nemzeti parlamentek közös eljárása. Az EUMSZ 88. cikk (2) bekezdése szerint a rendeletek határozzák meg azokat az eljárásokat, amelyek szerint az Európai Parlament — a nemzeti parlamentekkel közösen — ellenőrzi az Europol tevékenységét. A (2.) jegyzőkönyv 9. cikke szerinti éves jelentés az EUSZ 5. cikk alkalmazásáról más intézmény. A tévedés a két jelentési-ellenőrzési pálya összecseréléséből ered."
+        },
+        {
+          "text": "Az Europol a tagállamok rendőri hatóságai és egyéb bűnüldöző szolgálatai tevékenységének, valamint a közöttük folytatott együttműködésnek a támogatására és erősítésére szolgál a több tagállamot érintő bűncselekmények, a terrorizmus és a közös érdeket sértő bűnözési formák terén.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szerződéses küldetés támogató, nem önálló rendőri hatóság. Az EUMSZ 88. cikk (1) bekezdése szerint az Europol feladata, hogy támogassa és erősítse a tagállamok rendőri hatóságainak és egyéb bűnüldöző szolgálatainak tevékenységét, valamint a közöttük folytatott kölcsönös együttműködést a két vagy több tagállamot érintő bűncselekmények és a terrorizmus, valamint az uniós politikák közös érdekeit sértő bűnözési formák megelőzése és üldözése terén. A politikai ellenőrzést a (2) bekezdés a Parlament és a nemzeti parlamentek közös eljárásához köti."
+        },
+        {
+          "text": "Az Europol a 88. cikk (3) bekezdése alapján a tagállami hatóságok egyetértése nélkül is végrehajthat operatív cselekményeket a saját területén.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az operatív cselekményeket az érintett tagállam hatóságaival kapcsolatot tartva és velük egyetértésben kell végrehajtani. Az EUMSZ 88. cikk (3) bekezdése ezt az egyetértési követelményt és a kényszerítő intézkedések nemzeti kizárólagosságát kimondja. A tévedés az uniós ügynökség önálló rendőri hatósággá emeléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "57b94ecb7988"
+    },
+    {
+      "question": "Mely állítások tévesek a nemzeti parlamentek uniós szerepéről?",
+      "options": [
+        {
+          "text": "A szubszidiaritás-ellenőrzés a kizárólagos uniós hatáskörökön is kötelező minden tervezetnél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ahol csak az Unió alkothat kötelező aktust, a „jobban megvalósítható” teszt nem nyílik. Az EUSZ 5. cikk (3) bekezdése a szubszidiaritást a nem kizárólagos hatáskörökön nyitja, és a nemzeti parlamenteket a jegyzőkönyvi eljárás címzettjeivé teszi. A helyes: kizárólagos hatáskörön a nemzeti parlamenti őrszerep sem ezen a címen fut. A tévedés a gyakorlási teszt kiterjesztése az elhatárolási síkra."
+        },
+        {
+          "text": "Egyetlen nemzeti parlament indokolt véleménye automatikusan megszünteti a rendelettervezet tárgyalhatóságát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2.) jegyzőkönyv 7. cikk (1) bekezdése szerint a jogalkotó és a kezdeményező figyelembe veszi az indokolt véleményt, de a felülvizsgálati kényszer a szavazatok egyharmadához, a térségben egynegyedéhez kötött. A tárgyalás megszüntetése a 7. cikk (3) bekezdés szerinti tanácsi 55 százalékhoz vagy parlamenti szavazattöbbséghez kötött. A helyes: egyetlen parlament meghiúsító joga az EUMSZ 81. cikk (3) bekezdés családjogi áttérésénél van. A tévedés a sárga lap és a családjogi kifogás összecseréléséből ered."
+        },
+        {
+          "text": "Az Europol a 88. cikk alapján önállóan alkalmazhat kényszerítő intézkedést a Parlament utólagos ellenőrzése mellett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EUMSZ 88. cikk (3) bekezdése szerint kényszerítő intézkedések alkalmazására kizárólag a hatáskörrel rendelkező nemzeti hatóságok jogosultak. Az operatív cselekményeket az érintett tagállam hatóságaival egyetértésben kell végrehajtani. A helyes: a (2) bekezdés szerinti közös parlamenti ellenőrzés politikai kontroll, nem a kényszer átengedése. A tévedés a politikai kontroll operatív hatáskörré olvasásából ered."
+        },
+        {
+          "text": "A nemzeti parlamentek harmadik uniós kamaraként a Tanáccsal közös olvasatban fogadják el a rendeleteket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Lisszaboni Szerződés a nemzeti parlamenteket nem harmadik uniós kamaraként, hanem a demokratikus legitimáció saját, szerződéses szereplőiként helyezi az eljárásba. Az EUSZ 12. cikk tájékoztatást, szubszidiaritás-ellenőrzést, térségi értékelést és politikai kontrollt ad, nem társtörvényhozást. A helyes: jogalkotási aktust a nemzeti parlament nem fogad el; a Tanács és az Európai Parlament a társtörvényhozók. A tévedés a nemzeti parlamenti belépés és a közös olvasat összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "7de3f25ce31b"
+    },
+    {
+      "question": "A (2.) jegyzőkönyv 9. cikke szerinti éves jelentés kinek szól, és miről?",
+      "options": [
+        {
+          "text": "Az éves jelentés csak a nemzeti parlamenteknek szól, az uniós intézményeknek nem kell megküldeni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jelentés címzettjei szélesebb körűek a nemzeti parlamenteknél. A (2.) jegyzőkönyv 9. cikke szerint a Bizottság az Európai Tanácsnak, a Parlamentnek, a Tanácsnak és a nemzeti parlamenteknek nyújtja be a jelentést, és azt a Gazdasági és Szociális Bizottságnak, valamint a Régiók Bizottságának is meg kell küldeni. A tévedés a nemzeti parlamenti tájékoztatás kizárólagos olvasatából ered."
+        },
+        {
+          "text": "A 9. cikk szerinti jelentés elmaradása automatikusan megsemmisíti az adott évi jogalkotási aktusokat a 263. cikk alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság éves jelentésének elmaradása önmagában nem semmisíti meg a jogalkotási aktusokat. A (2.) jegyzőkönyv 8. cikke a szubszidiaritást sértő jogalkotási aktus megtámadására ad hatáskört az EUMSZ 263. cikk szerinti keresettel, amelyet a tagállam a saját jogrendje szerint nemzeti parlamentje vagy kamarája nevében is továbbíthat. A (2.) jegyzőkönyv 9. cikke ezzel szemben azt írja elő, hogy a Bizottság évente jelentést nyújt be az EUSZ 5. cikk alkalmazásáról az Európai Tanácsnak, a Parlamentnek, a Tanácsnak és a nemzeti parlamenteknek. A tévedés a tájékoztatási kötelezettség és a megsemmisítési kereset összecseréléséből ered."
+        },
+        {
+          "text": "A Bizottság évente jelentést nyújt be az Európai Tanácsnak, a Parlamentnek, a Tanácsnak és a nemzeti parlamenteknek az EUSZ 5. cikk alkalmazásáról; a jelentést a Gazdasági és Szociális Bizottságnak és a Régiók Bizottságának is meg kell küldeni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az éves jelentés a szubszidiaritás és az arányosság alkalmazásának intézményi átláthatóságát szolgálja. A (2.) jegyzőkönyv 9. cikke szerint a Bizottság évente jelentést nyújt be az Európai Tanácsnak, a Parlamentnek, a Tanácsnak és a nemzeti parlamenteknek az EUSZ 5. cikk alkalmazásáról. A jelentést a Gazdasági és Szociális Bizottságnak és a Régiók Bizottságának is meg kell küldeni. Ez a tájékoztatás nem helyettesíti a 6–7. cikk szerinti indokolt véleményt és felülvizsgálatot, sem az EUMSZ 88. cikk szerinti Europol-kontrollt."
+        },
+        {
+          "text": "Az éves jelentés tárgya az EUSZ 5. cikk hatáskör-átruházási, szubszidiaritási és arányossági elveinek alkalmazása, nem az Europol operatív statisztikáinak bemutatása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 9. cikk az EUSZ 5. cikk alkalmazásához kötődik, nem az ügynökségi operatív beszámolóhoz. A (2.) jegyzőkönyv 9. cikke kifejezetten az EUSZ 5. cikk alkalmazásáról szóló jelentést ír elő a Bizottság számára. Az Europol tevékenységének politikai ellenőrzését az EUMSZ 88. cikk (2) bekezdése a rendeleti, közös parlamenti eljáráshoz köti. A két pálya tehát más tárgyat és más jogkövetkezményt hordoz."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "620f25b0cc56"
+    },
+    {
+      "question": "A polgári ügyekben folytatott igazságügyi együttműködés 81. cikk (2) bekezdése milyen eljárást és tárgycsoportokat nyit?",
+      "options": [
+        {
+          "text": "A 69. cikk a 81. cikk (2) bekezdésének polgári intézkedéseire is kiterjeszti az egynegyedes felülvizsgálati küszöböt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 69. cikk a büntetőügyi igazságügyi és a rendőrségi együttműködés fejezeteire vonatkozik, a polgári ügyek fejezetére nem. Az EUMSZ 69. cikk a (2.) jegyzőkönyvre utalva írja elő, hogy a nemzeti parlamentek gondoskodjanak a 4. és 5. Fejezet javaslatainak a szubszidiaritással és az arányossággal való összhangjáról. Az EUMSZ 81. cikk a polgári ügyek 3. Fejezetében áll, ezért a (2) bekezdés rendes eljárása nem kapja meg ezt az ágazati megerősítést. A tévedés a térség fejezeteinek összecseréléséből ered."
+        },
+        {
+          "text": "Az (1) bekezdés a határokon átnyúló polgári ügyek igazságügyi együttműködését a bírósági és bíróságon kívüli határozatok kölcsönös elismerésének elvén alapozza, és megengedi a törvényi, rendeleti és közigazgatási rendelkezések közelítését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szerződéses alap a kölcsönös elismerés, kiegészítve a közelítés lehetőségével. Az EUMSZ 81. cikk (1) bekezdése szerint az Unió a határokon átnyúló vonatkozású polgári ügyek tekintetében igazságügyi együttműködést alakít ki, amely a bírósági és bíróságon kívüli határozatok kölcsönös elismerésének elvén alapul, és e keretben a tagállamok törvényi, rendeleti és közigazgatási rendelkezéseinek közelítésére irányuló intézkedések is elfogadhatók. A (2) bekezdés ezt a célt a rendes eljárás tárgycsoportjaival tölti ki. A családjogi kivétel a (3) bekezdésben áll."
+        },
+        {
+          "text": "Az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében intézkedéseket állapít meg — különösen, ha a belső piac megfelelő működése ezt kívánja — többek között a kölcsönös elismerés, az iratkézbesítés, a kollíziós és joghatósági szabályok, a bizonyításfelvétel és a tényleges igazságszolgáltatási hozzáférés tárgyában.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a rendes pályát nyitja a határokon átnyúló polgári együttműködésre. Az EUMSZ 81. cikk (2) bekezdése szerint az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében intézkedéseket állapít meg, biztosítandó a kölcsönös elismerést és végrehajtást, az iratkézbesítést, a kollíziós és joghatósági szabályok összeegyeztethetőségét, a bizonyításfelvételi együttműködést, a tényleges hozzáférést az igazságszolgáltatáshoz, a polgári eljárás akadályainak megszüntetését, az alternatív vitarendezést és a bírák, ügyészek, igazságszolgáltatási alkalmazottak képzését. Az (1) bekezdés a kölcsönös elismerés elvére építi az együttműködést. A (3) bekezdés a családjogot kiveszi ebből a rendes pályából."
+        },
+        {
+          "text": "A 81. cikk (2) bekezdése a családjogi kérdéseket is a rendes jogalkotási eljárás alá vonja, egyhangúság nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a több államra kiterjedő családjogot a (3) bekezdés kiveszi a (2) bekezdés rendes pályájából. Az EUMSZ 81. cikk (3) bekezdése szerint a családjogi intézkedéseket különleges jogalkotási eljárás keretében a Tanács állapítja meg, az Európai Parlamenttel folytatott konzultációt követően, egyhangúlag. A tévedés a (2) és a (3) bekezdés tárgyi hatályának összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "5f1a191a1722"
+    },
+    {
+      "question": "Milyen tartamban kell a nemzeti parlamenteket tájékoztatni a 48. cikk (7) bekezdés szerinti európai tanácsi kezdeményezésről?",
+      "options": [
+        {
+          "text": "A tájékoztatási határidő nyolc hét, mert az indokolt vélemény határideje is ennyi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 48. cikk (7) bekezdéshez kapcsolódó tájékoztatás legalább hat hónap, nem nyolc hét. Az (1.) jegyzőkönyv 6. cikke a hat hónapos előzetes tájékoztatást írja elő az Európai Tanács kezdeményezéséről. A (2.) jegyzőkönyv 6. cikke a hivatalos nyelveken való továbbítástól számított nyolc héten belül engedi az indokolt véleményt a szubszidiaritás sérelméről. A tévedés a két jegyzőkönyvi határidő összecseréléséből ered."
+        },
+        {
+          "text": "A hat hónapos tájékoztatás az EUSZ 12. cikk d) pontját a jogalkotási eljárás átalakítására is kiterjeszti, mert a szerződésmódosítási belépés itt az áthidaló klauzulára is kihat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az áthidaló klauzula nem csendben futó intézményközi átminősítés. Az EUSZ 12. cikk d) pontja a nemzeti parlamenteket a 48. cikk felülvizsgálati eljárásaiba vonja be; az (1.) jegyzőkönyv 6. cikke a (7) bekezdéshez a hat hónapos előzetes tájékoztatást kapcsolja. Ez különbözik a 81. cikk (3) bekezdés hat hónapos kifogásától, amely egyetlen parlament meghiúsító jogát adja. Itt a tájékoztatás a döntés előtti időablakot nyitja, nem automatikus vétót."
+        },
+        {
+          "text": "A hat hónapos tájékoztatás csak a katonai és védelmi döntésekre kötelező, a minősített többségre nyitásnál mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tájékoztatás a (7) bekezdés első és második albekezdésének kezdeményezéseire vonatkozik, míg a katonai-védelmi kivétel a minősített többségre nyitást zárja. Az (1.) jegyzőkönyv 6. cikke mindkét albekezdéshez kapcsolja a hat hónapos tájékoztatást; az EUSZ 48. cikk (7) bekezdése a katonai vagy védelmi vonatkozású döntéseknél a minősített többségre nyitást kizárja. A tévedés a kivétel és a tájékoztatási kötelezettség összekeveréséből ered."
+        },
+        {
+          "text": "A nemzeti parlamenteket legalább hat hónappal a határozat elfogadása előtt tájékoztatni kell az Európai Tanács 48. cikk (7) bekezdésének első és második albekezdése szerinti kezdeményezéséről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hat hónapos előzetes tájékoztatás az áthidaló klauzula nemzeti parlamenti belépésének időbeli zárja. Az (1.) jegyzőkönyv 6. cikke a 48. cikk (7) bekezdésének első és második albekezdéséhez kapcsolja ezt a kötelezettséget. Az első albekezdés a minősített többségre nyitást, a második a rendes eljárásra nyitást engedi. A katonai vagy védelmi vonatkozású döntéseknél a minősített többségre nyitás nem alkalmazható."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "783c9cd3e94e"
+    },
+    {
+      "question": "Mi a különbség a 70. cikk utólagos tájékoztatása és a 71. cikk folyamatos tájékoztatása között?",
+      "options": [
+        {
+          "text": "A 70. cikk az értékelés tartalmáról és eredményéről szóló tájékoztatást ír elő, a 71. cikk pedig a belső biztonsági állandó bizottság munkájáról szóló folyamatos tájékoztatást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két cikk más intenzitású és más tárgyú láthatóságot ad. Az EUMSZ 70. cikk szerint az értékelés tartalmáról és eredményéről tájékoztatni kell az Európai Parlamentet és a nemzeti parlamenteket. Az EUMSZ 71. cikk szerint a belső biztonsági állandó bizottság munkájáról folyamatosan tájékoztatni kell az Európai Parlamentet és a nemzeti parlamenteket. A folyamatos tájékoztatás szigorúbb, mint az utólagos, tartalmi-eredmény szerinti értesítés. Mindkettő az EUSZ 12. cikk c) pontjának térségi vonalához kapcsolódik."
+        },
+        {
+          "text": "A 70. és a 71. cikk egyaránt indokolt véleményt követel a nemzeti parlamentektől a tervezet ellen nyolc héten belül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, egyik cikk sem az indokolt vélemény pályája. Az EUMSZ 70. cikk a végrehajtás értékelésének tájékoztatását, a 71. cikk a tanácsi állandó bizottság folyamatos tájékoztatását adja. A tervezet elleni indokolt véleményt a (2.) jegyzőkönyv 6. cikke a hivatalos nyelveken való továbbítástól számított nyolc héten belül engedi. A tévedés az EUSZ 12. cikk b) és c) pontjának összecseréléséből ered."
+        },
+        {
+          "text": "A 71. cikk szerinti folyamatos tájékoztatás helyettesíti a 88. cikk szerinti Europol politikai ellenőrzést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 71. cikk címzettje a tanácsi állandó bizottság, a 88. cikk pedig az Europol közös parlamenti ellenőrzését írja elő. Az EUMSZ 88. cikk (2) bekezdése szerint a rendeletek határozzák meg, hogyan ellenőrzi a Parlament a nemzeti parlamentekkel közösen az Europol tevékenységét. Az EUMSZ 71. cikk a belső biztonsági operatív együttműködés tanácsi állandó bizottságának folyamatos tájékoztatását adja, nem az Europol-kontrollt. A hiba a tanácsi állandó bizottság és az Europol-kontroll összekeveréséből ered."
+        },
+        {
+          "text": "A 71. cikk szerinti bizottság a tagállami hatóságok intézkedéseinek összehangolását segíti, és a 240. cikk sérelme nélkül a tanácsi előkészítés rendszerében marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bizottság nem váltja fel a nemzeti hatóságokat, és nem is az Europol. Az EUMSZ 71. cikk szerint a 240. cikk sérelme nélkül e bizottság segíti a hatáskörrel rendelkező tagállami hatóságok intézkedéseinek összehangolását, és munkájába be lehet vonni az Unió érintett szerveinek és hivatalainak képviselőit. A 88. cikk (3) bekezdésének kényszerítő intézkedési tilalma az Europolra vonatkozik; a 71. cikk a politikai láthatóságot adja a belső biztonsági koordinációról. A kényszer monopóliumát egyik cikk sem helyezi uniós szintre."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "0ffce6a197fb"
+    },
+    {
+      "question": "Mely megállapítások helytelenek a szubszidiaritási sárga és narancs lap viszonyáról?",
+      "options": [
+        {
+          "text": "A Bizottság fenntartott javaslatánál a jogalkotó az első olvasat lezárása előtt nem vizsgálhatja a szubszidiaritással való összeegyeztethetőséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az első olvasat lezárása előtt a jogalkotó megvizsgálja az összeegyeztethetőséget. A (2.) jegyzőkönyv 7. cikk (3) bekezdése szerint a jogalkotó különös figyelmet fordít a nemzeti parlamentek többsége által osztott indokolásra és a Bizottság indokolt véleményére. A helyes: ha a Tanács 55 százaléka vagy a parlamenti szavazattöbbség szerint a javaslat nem összeegyeztethető a szubszidiaritással, a javaslat a továbbiakban nem tárgyalható. A tévedés a vizsgálati kötelezettség tagadásából ered."
+        },
+        {
+          "text": "A térségben a felülvizsgálati küszöb mindig az összes szavazat fele, soha nem csökkenhet egynegyedre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 76. cikk alapján előterjesztett, a térségre vonatkozó tervezeteknél a küszöb az összes szavazat egynegyede. A (2.) jegyzőkönyv 7. cikk (2) bekezdése ezt a csökkentett küszöböt kimondja; az általános küszöb az egyharmad. A helyes: az EUMSZ 69. cikk a 4. és 5. Fejezeten a jegyzőkönyvi őrszerepet külön is megerősíti. A tévedés az általános és a térségi küszöb összecseréléséből ered."
+        },
+        {
+          "text": "A narancs lapnál elegendő bármelyik nemzeti parlament egyetlen szavazata a tárgyalás megszüntetéséhez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tárgyalás megszüntetéséhez a Tanács tagjainak 55 százalékát kitevő többség vagy a Parlamentben leadott szavazatok többsége kell. A (2.) jegyzőkönyv 7. cikk (3) bekezdése ezt a jogalkotói küszöböt írja elő, miután a Bizottság fenntartotta a javaslatot és indokolt véleményt terjesztett elő. A helyes: egyetlen nemzeti parlament meghiúsító joga a 81. cikk (3) bekezdés családjogi áttérésénél van. A tévedés a családjogi kifogás ráírása a narancs lapra."
+        },
+        {
+          "text": "A szavazatok egyharmadának elérésekor a tervezet automatikusan elbukik, és a Bizottság nem tarthatja fenn.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyharmados küszöb felülvizsgálati kényszert vált ki, nem automatikus elbukást. A (2.) jegyzőkönyv 7. cikk (2) bekezdése szerint a tervezetet felül kell vizsgálni, és a kezdeményező fenntarthatja, módosíthatja vagy visszavonhatja azt, a döntést pedig indokolni kell. A helyes: a tárgyalás megszüntetése a 7. cikk (3) bekezdés szerinti narancs laphoz kötött. A tévedés a sárga és a narancs lap jogkövetkezményének összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "c12eb589ec9a"
+    },
+    {
+      "question": "A jogalkotói hatáskörű regionális parlamentekkel való egyeztetés a szubszidiaritási indokolt véleménynél kire tartozik?",
+      "options": [
+        {
+          "text": "A regionális parlamentek közvetlenül a Bíróság előtt indíthatnak szubszidiaritási keresetet a 8. cikk alapján, a nemzeti kamara megkerülésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 8. cikk a tagállam által a nemzeti parlament vagy kamara nevében továbbítható keresetet ad, nem a regionális parlament közvetlen perindítását. A (2.) jegyzőkönyv 8. cikke szerint az EUMSZ 263. cikk szerinti keresetet a tagállam a saját jogrendje szerint nemzeti parlamentje vagy kamarája nevében is továbbíthatja; a Régiók Bizottsága külön, konzultációköteles aktusoknál indíthat keresetet. A tévedés a regionális egyeztetés és a perbeli legitimáció összekeveréséből ered."
+        },
+        {
+          "text": "A jogalkotói hatáskörű regionális parlamentekkel való egyeztetés a nemzeti kamarákra tartozik; az indokolt véleményt a hivatalos nyelveken való továbbítástól számított nyolc héten belül bármely nemzeti parlament vagy kamara megküldheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a regionális egyeztetés nemzeti felelősség, nem uniós közvetlen csatorna. A (2.) jegyzőkönyv 6. cikke szerint a hivatalos nyelveken való továbbítástól számított nyolc héten belül bármely nemzeti parlamentnek vagy kamarának indokolt véleményt enged a szubszidiaritás sérelméről, és a jogalkotói hatáskörű regionális parlamentekkel való egyeztetés a nemzeti kamarákra tartozik. Minden nemzeti parlamentnek két szavazata van; kétkamarás parlamentnél kamaránként egy. Az EUSZ 5. cikk (3) bekezdésének háromszintű nemzeti megvalósítási tesztje ehhez a regionális-helyi dimenzióhoz kapcsolódik."
+        },
+        {
+          "text": "Kétkamarás parlamentnél az (1.) jegyzőkönyv 1–7. cikkének tájékoztatási és időzítési szabályai minden kamarára vonatkoznak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kétkamarás szerkezet mindkét kamara számára megnyitja a tájékoztatást. Az (1.) jegyzőkönyv szerint kétkamarás parlamentnél az 1–7. cikk minden kamarára vonatkozik. A (2.) jegyzőkönyv 7. cikk (1) bekezdése a szavazatokat kamaránként egyben osztja el. A regionális parlamentekkel való egyeztetés ettől elválik: az a nemzeti kamarák belső feladata a 6. cikk szerint."
+        },
+        {
+          "text": "A regionális parlamentek szavazatai a nemzeti két szavazaton felül külön számítanak a felülvizsgálati küszöbnél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szavazatszám nemzeti szinten zárt: parlamentenként kettő, kétkamarás esetben kamaránként egy. A (2.) jegyzőkönyv 7. cikk (1) bekezdése ezt a keretet rögzíti; a regionális egyeztetés a 6. cikk szerint a nemzeti kamarákra tartozik, de nem növeli a szavazatszámot. A tévedés a konzultációs kötelezettség és a szavazati súly összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "e00f9c088fad"
+    },
+    {
+      "question": "Az EUSZ 5. cikk (1) és (2) bekezdése hogyan választja szét a hatáskörök elhatárolását és gyakorlását?",
+      "options": [
+        {
+          "text": "A (2) bekezdés szerint az Unió a tagállamoknál maradó hatáskörökben is eljárhat, ha a cél uniós szinten jobban megvalósítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az át nem ruházott hatáskörök a tagállamoknál maradnak, és a szubszidiaritás csak a már átruházott, nem kizárólagos hatáskörökön nyílik. Az EUSZ 5. cikk (2) bekezdése az át nem ruházott hatásköröket a tagállamoknál hagyja; a (3) bekezdés a szubszidiaritást a nem kizárólagos uniós hatáskörök gyakorlására korlátozza. A tévedés a „jobban megvalósítható” teszt ráírása a hatáskör-átruházás elhatárolására."
+        },
+        {
+          "text": "A hatáskörök elhatárolására a hatáskör-átruházás elve az irányadó; az uniós hatáskörök gyakorlására a szubszidiaritás és az arányosság elve az irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés két síkot választ szét. Az EUSZ 5. cikk (1) bekezdése szerint az Unió hatásköreinek elhatárolására a hatáskör-átruházás elve, az uniós hatáskörök gyakorlására a szubszidiaritás és az arányosság elve az irányadó. A nemzeti parlamenti őrszerep a (3) bekezdésben a gyakorlás szubszidiaritási síkjához kötődik. A kizárólagos hatáskörön a szubszidiaritási teszt nem nyílik."
+        },
+        {
+          "text": "A szubszidiaritás a hatáskör-átruházás elvének része, ezért a nemzeti parlamentek a (2) bekezdés alapján döntik el, milyen új hatáskört kapjon az Unió.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szubszidiaritás a gyakorlás elve, nem a hatáskör-átruházás elhatárolása. Az EUSZ 5. cikk (1) bekezdése a két síkot szétválasztja; a (3) bekezdés a szubszidiaritást a nem kizárólagos hatáskörökön nyitja, és a nemzeti parlamenteket a jegyzőkönyvi eljárás címzettjeivé teszi. Az EUSZ 48. cikk rendes és egyszerűsített felülvizsgálata, valamint a (7) bekezdés áthidaló klauzulája a hatáskörök módosításának és a döntéshozatali forma váltásának pályái. A tévedés az elhatárolás és a gyakorlás összecseréléséből ered."
+        },
+        {
+          "text": "A hatáskör-átruházás elvének megfelelően az Unió kizárólag a tagállamok által a Szerződésekben ráruházott hatáskörök határain belül jár el; minden olyan hatáskör, amelyet a Szerződések nem ruháztak át az Unióra, a tagállamoknál marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a fellépést a ráruházott keretre és a célkitűzések megvalósítására szűkíti. Az EUSZ 5. cikk (2) bekezdése szerint az Unió kizárólag a tagállamok által a Szerződésekben ráruházott hatáskörök határain belül jár el a Szerződésekben foglalt célkitűzések megvalósítása érdekében, és minden át nem ruházott hatáskör a tagállamoknál marad. Ez az elhatárolási sík; a (3)–(4) bekezdés a már átruházott hatáskörök gyakorlásának feltételeit adja. A nemzeti parlament a (3) bekezdés szerint a szubszidiaritás tiszteletben tartásáról gondoskodik."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "e8505a00c2e5"
+    },
+    {
+      "question": "Egy büntetőjogi együttműködési rendelettervezetnél a nemzeti parlamentek indokolt véleményei az összes szavazat egynegyedét elérik. Mi a következmény?",
+      "options": [
+        {
+          "text": "Az EUMSZ 76. cikk a 4. és 5. Fejezet jogi aktusait a Bizottság javaslata vagy a tagállamok egynegyedének kezdeményezése alapján rendeli elfogadni, ezért a csökkentett szavazatküszöb ehhez a kezdeményezési szerkezethez igazodik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a csökkentett küszöb nem önkényes, hanem a térség kezdeményezési modelljéhez kapcsolódik. Az EUMSZ 76. cikk a 4. és 5. Fejezet aktusainál a Bizottság javaslatát vagy a tagállamok egynegyedének kezdeményezését írja elő. A (2.) jegyzőkönyv 7. cikk (2) bekezdése ehhez igazítja a felülvizsgálati küszöböt. Az általános egyharmados küszöb a többi tervezetnél marad."
+        },
+        {
+          "text": "A tervezetet felül kell vizsgálni, mert a 76. cikk alapján előterjesztett, a térségre vonatkozó tervezeteknél a felülvizsgálati küszöb az összes szavazat egynegyede.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a térségben a sárga lap küszöbe alacsonyabb az általános egyharmadnál. A (2.) jegyzőkönyv 7. cikk (2) bekezdése a 76. cikk szerinti, a térségre vonatkozó tervezeteknél az összes szavazat egynegyedére szállítja a felülvizsgálati küszöböt. Az EUMSZ 69. cikk ugyanezt a jegyzőkönyvi őrszerepet a 4. és 5. Fejezetre külön is kimondja. A kezdeményező a tervezetet fenntarthatja, módosíthatja vagy visszavonhatja, és a döntést indokolni kell."
+        },
+        {
+          "text": "Az egynegyedes küszöb csak a polgári 3. Fejezet családjogi áttérésére vonatkozik, a büntetőjogi rendelettervezetre az egyharmad az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egynegyedes küszöb a 76. cikk szerinti, a térségre — különösen a 4. és 5. Fejezetre — vonatkozó tervezeteknél érvényesül. A (2.) jegyzőkönyv 7. cikk (2) bekezdése ezt kimondja; a családjogi áttérésnél az EUMSZ 81. cikk (3) bekezdése egyetlen nemzeti parlament hat hónapos kifogását adja, nem szavazatküszöböt. A félreértés forrása a két eljárás jogkövetkezményének azonosítása."
+        },
+        {
+          "text": "Az egynegyedes küszöb elérésekor a tervezet automatikusan elbukik, és a Tanács nem folytathatja a tárgyalást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egynegyed felülvizsgálati kényszert vált ki, nem automatikus elbukást. A (2.) jegyzőkönyv 7. cikk (2) bekezdése szerint a tervezetet felül kell vizsgálni, és a kezdeményező fenntarthatja, módosíthatja vagy visszavonhatja azt. A tárgyalás megszüntetése a 7. cikk (3) bekezdés szerinti narancs laphoz kötött. A tévedés a sárga lap jogkövetkezményének túlértékeléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "2256c8c02256"
+    },
+    {
+      "question": "Mely állítások tévesek az (1.) jegyzőkönyv tájékoztatási rendjéről?",
+      "options": [
+        {
+          "text": "A Bizottság az éves jogalkotási programot csak a nemzeti parlamenteknek küldi meg, az Európai Parlament és a Tanács későbbi időpontban kapja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az éves jogalkotási programot a Bizottság az Európai Parlamenttel és a Tanáccsal egyidejűleg továbbítja a nemzeti parlamenteknek. Az (1.) jegyzőkönyv I. címének tájékoztatási rendje — az EUSZ 12. cikk a) pontjának intézményes alakjaként — ezt az egyidejűséget írja elő; a konzultációs dokumentumokat közzétételükkor közvetlenül továbbítja. A helyes: a nemzeti parlamentek tájékoztatása párhuzamos, nem utólagos. A tévedés a nemzeti prioritású kézbesítés képéből ered."
+        },
+        {
+          "text": "A Parlament állásfoglalásait és a Tanács álláspontjait a (2.) jegyzőkönyv szerint csak a végleges kihirdetés után, több hónapos késéssel kell továbbítani.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Parlament állásfoglalásait és a Tanács álláspontjait elfogadásuk után kell továbbítani a nemzeti parlamenteknek. A (2.) jegyzőkönyv — az EUSZ 5. cikk (3) bekezdésének eljárási kitöltéseként — a tervezetek egyidejű továbbítását, az állásfoglalások és álláspontok esetében pedig az elfogadás utáni továbbítást írja elő. A helyes: nincs több hónapos, szerződéses késleltetés. A tévedés a kihirdetési logika ráírása a jegyzőkönyvi tájékoztatásra."
+        },
+        {
+          "text": "A Számvevőszék éves jelentését nem kell a nemzeti parlamentekhez eljuttatni, mert az csak az uniós intézmények belső ellenőrzése.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1.) jegyzőkönyv 7. cikke a Számvevőszék éves jelentését is eljuttatja a nemzeti parlamentekhez. Az EUSZ 12. cikk a) pontja a tájékoztatást és a jogalkotási aktusok tervezeteinek kézhezvételét a nemzeti parlamentek hozzájárulásaként nevezi meg, és ez a tájékoztatási rend a számvevőszéki jelentésre is kiterjed. A helyes: a szerződéses tájékoztatás túlmutat a puszta belső ellenőrzésen. A tévedés a belső ellenőrzés és a jegyzőkönyvi kötelezettség összekeveréséből ered."
+        },
+        {
+          "text": "Kétkamarás parlamentnél elegendő az alsóház tájékoztatása, mert a felsőház nem kap önálló szavazatot a szubszidiaritási eljárásban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, kétkamarás parlamentnél az (1.) jegyzőkönyv 1–7. cikke minden kamarára vonatkozik, és a (2.) jegyzőkönyv 7. cikk (1) bekezdése kamaránként egy szavazatot ad. Az EUSZ 12. cikk a) pontja a tájékoztatást mindkét kamara felé megnyitja a nemzeti rendszeren belül. A helyes: mindkét kamara tájékoztatást kap, és külön szavazattal rendelkezhet. A tévedés az egykamarás modell ráírása a kétkamarás szerkezetre."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "c5db44354ec5"
+    },
+    {
+      "question": "A csatlakozási kérelmekről szóló értesítés milyen helyet foglal el a 12. cikk katalógusában?",
+      "options": [
+        {
+          "text": "Az e) pont szerint a nemzeti parlamentek az EUSZ 49. cikkével összhangban értesítést kapnak az Unióhoz való csatlakozási kérelmek benyújtásáról; ez nem jogalkotás és nem egyetértési zár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az e) pont tájékoztatási, nem döntési jogosítvány. Az EUSZ 12. cikk e) pontja a csatlakozási kérelmek benyújtásáról szóló értesítést nevezi meg. A 49. cikk a csatlakozási eljárást rendezi; a nemzeti parlament itt értesítést kap, nem vétót. Az a)–d) és f) pontoktól elválik, mert nem a jogalkotási pálya vagy a szerződésmódosítás belépése."
+        },
+        {
+          "text": "Az e) pont alapján a nemzeti parlamentek egyetértése nélkül a csatlakozási tárgyalás nem indítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az e) pont értesítés, nem egyetértés. Az EUSZ 12. cikk e) pontja szerint a nemzeti parlamentek értesítést kapnak a csatlakozási kérelmek benyújtásáról az EUSZ 49. cikkével összhangban. Ez a funkció nem ad vétót vagy egyetértési jogot a tárgyalás megindításához. A tévedés a parlamenti egyetértési aktusok ráírása az értesítési funkcióra."
+        },
+        {
+          "text": "A 12. cikk a jogalkotási belépést és a kapcsolódó politikai ellenőrzést egyetlen listában tartja; az e) pont a listán belül a nem jogalkotási értesítési ág.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a katalógus vegyes: jogalkotási és nem jogalkotási funkciók. Az EUSZ 12. cikk a)–b) és d) pontja, valamint a 81. cikk (3) bekezdésének kifogása a jogalkotási pályához kötődik; a c) pont a térség végrehajtásának és az ügynökségek kontrolljának politikai ága; az e) pont a csatlakozási értesítés. A részletes eljárást a jegyzőkönyvek és az EUMSZ hivatkozott cikkei adják."
+        },
+        {
+          "text": "Az e) pont a (2.) jegyzőkönyv szerinti indokolt véleményt nyitja meg a csatlakozási szerződés tervezete ellen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az indokolt vélemény a jogalkotási aktusok tervezeteire vonatkozik, nem a csatlakozási értesítésre. A (2.) jegyzőkönyv 6. cikke a szubszidiaritás sérelméről szóló indokolt véleményt a tervezetekhez köti; az EUSZ 12. cikk e) pontja külön, értesítési funkció. A hiba a csatlakozási értesítés és a tervezeti indokolt vélemény összeolvasztásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "83189196da01"
+    },
+    {
+      "question": "Miben tér el a 85. cikk (2) bekezdése szerinti nemzeti eljárási monopólium a 86. cikk európai ügyészi modelljétől?",
+      "options": [
+        {
+          "text": "A 85. cikk (2) bekezdése az Eurojustnak adja a hivatalos eljárási cselekmények foganatosítását minden tagállamban, a 86. cikk pedig ezt megismétli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hivatalos eljárási cselekményeket a tagállami tisztviselők foganatosítják. Az EUMSZ 85. cikk (2) bekezdése ezt kimondja; a 86. cikk az európai ügyészi hatáskört külön rendezi, nem a 85. cikk ismétlése. A tévedés a két modell összeolvasztásából ered."
+        },
+        {
+          "text": "A nemzeti parlamentek a 85. cikk alapján indokolt véleménnyel megállíthatják az Eurojust hivatalos cselekményeit.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti parlamentek az Eurojust tevékenységének értékelésében vesznek részt a rendeletek szerint, nem a hivatalos cselekményeket állítják meg indokolt véleménnyel. Az EUMSZ 85. cikk (1) bekezdése az értékelési részvétel szabályait a rendeletekhez köti; az indokolt vélemény a (2.) jegyzőkönyv 6. cikke szerinti tervezeti eszköz. A hiba az értékelési részvétel és a tervezeti indokolt vélemény azonosításából ered."
+        },
+        {
+          "text": "A 85. cikk (2) bekezdése szerint a hivatalos eljárási cselekményeket — a 86. cikk sérelme nélkül — a tagállamok hatáskörrel rendelkező tisztviselői foganatosítják; az Eurojust koordinál és javasol.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 85. cikk a koordinációs modell nemzeti procedúrális monopóliumát őrzi. Az EUMSZ 85. cikk (2) bekezdése kifejezetten a tagállami tisztviselőkhöz rendeli a hivatalos eljárási cselekményeket, a 86. cikk sérelme nélkül. Az (1) bekezdés szerinti feladatok a nyomozás megindítását vagy a bűnvádi eljárás kezdeményezésének javaslatát foglalhatják magukban, de a foganatosítás nemzeti. Az EUSZ 12. cikk c) pontja az értékelést ehhez a szerephez köti."
+        },
+        {
+          "text": "A 86. cikk szerinti európai ügyészi hatáskör a 85. cikk koordinációs modelljétől elválik; a 85. cikk az értékelést éppen a koordinációs, nem vádlói szerephez köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szerződéses elhatárolás a két intézményi pályát szétválasztja. Az EUMSZ 85. cikk (2) bekezdése a 86. cikk sérelmét kiköti, jelezve, hogy az európai ügyész más modell. A nemzeti parlamentek Eurojust-értékelése a 85. cikk (1) bekezdés szerinti rendeleti szabályokon fut. A 88. cikk (3) bekezdése párhuzamosan az Europolnál is a nemzeti kényszermonopóliumot őrzi."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "a0de1978e921"
+    },
+    {
+      "question": "Az arányosság elve az EUSZ 5. cikk (4) bekezdése szerint milyen tilalmat állít?",
+      "options": [
+        {
+          "text": "A (2.) jegyzőkönyv a tervezet indokolásában a terhek lehető legkisebbre csökkentését és a célkitűzésekkel való arányosságot is megköveteli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az arányosság a jegyzőkönyvi indokolásban is megjelenik. A (2.) jegyzőkönyv szerint a terheket a lehető legkisebbre kell csökkenteni, és arányban kell állniuk a célkitűzésekkel; a feljegyzés pénzügyi és — irányelvnél — végrehajtási hatásokat is bemutat. Az EUSZ 5. cikk (4) bekezdése a tartalmi és formai túlterjeszkedési tilalmat mondja ki, a jegyzőkönyv pedig ennek eljárási kitöltését adja. A nemzeti parlamenti indokolt vélemény a 6. cikk szerint elsősorban a szubszidiaritás sérelméről szól."
+        },
+        {
+          "text": "Az arányosság csak a kizárólagos uniós hatáskörökön alkalmazandó, a szubszidiaritás pedig a megosztottakon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az arányosság az uniós hatáskörök gyakorlásának általános elve, nem csak a kizárólagos hatásköröké. Az EUSZ 5. cikk (1) bekezdése a gyakorlásra a szubszidiaritást és az arányosságot rendeli; a (3) bekezdés a szubszidiaritást a nem kizárólagos területekre korlátozza, a (4) bekezdés az arányosságot tartalmi-formai tilalomként mondja ki. A tévedés a két elv tárgyi hatályának összecseréléséből ered."
+        },
+        {
+          "text": "Az Unió intézkedése sem tartalmilag, sem formailag nem terjedhet túl azon, ami a Szerződések célkitűzéseinek eléréséhez szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az arányosság tartalmi és formai túlterjeszkedési tilalom. Az EUSZ 5. cikk (4) bekezdése szerint az arányosság elvének megfelelően az Unió intézkedése sem tartalmilag, sem formailag nem terjedhet túl azon, ami a Szerződések célkitűzéseinek eléréséhez szükséges. Az intézmények az arányosságot a (2.) jegyzőkönyv szerint alkalmazzák. A szubszidiaritás (3) bekezdésbeli kettős feltételétől ez elválik: amaz a szintválasztást, emez a mértékét köti."
+        },
+        {
+          "text": "Az arányosság sérülése önmagában felmenti a nemzeti parlamentet a szubszidiaritási indokolt vélemény megküldése alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2.) jegyzőkönyv 6. cikke az indokolt véleményt a szubszidiaritás sérelméről engedi; az arányosság az intézmények jegyzőkönyvi alkalmazási kötelezettsége. Az EUSZ 5. cikk (3) bekezdése a nemzeti parlamenteket a szubszidiaritás tiszteletben tartásáról gondoskodó szereplőkké teszi. A tévedés a két elv eljárási eszközének összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "0cd96784f4ff"
+    },
+    {
+      "question": "Mi következik abból, ha a Szerződések módosításáról szóló szerződést a tagállamok négyötöde két év alatt megerősítette, de egy vagy több tagállam nehézségekkel szembesül?",
+      "options": [
+        {
+          "text": "A (4) bekezdés szerint a tagállamok kormányai képviselőinek konferenciája közös megegyezéssel határozza meg a módosításokat, amelyek a teljes körű megerősítés után lépnek hatályba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kormányközi konferencia a szöveg meghatározásának fóruma, a hatálybalépés a nemzeti megerősítésé. Az EUSZ 48. cikk (4) bekezdése szerint a Tanács elnöke hívja össze a konferenciát, hogy közös megegyezéssel meghatározzák a módosításokat, és a módosítások a tagállami alkotmányos megerősítés után lépnek hatályba. Az (5) bekezdés a négyötödös helyzetet az Európai Tanács elé utalja. A nemzeti parlamenti belépés a (2)–(3) bekezdés értesítésén és konventjén fut."
+        },
+        {
+          "text": "A négyötödös megerősítés után a módosítások automatikusan hatályba lépnek a fennmaradó tagállamokban is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatálybalépéshez valamennyi tagállam megerősítése kell; az (5) bekezdés csak az Európai Tanács elé utalást írja elő. Az EUSZ 48. cikk (4) bekezdése a teljes körű megerősítést köti a hatálybalépéshez. A tévedés a négyötödös küszöb hatálybaléptető olvasatából ered."
+        },
+        {
+          "text": "Az (5) bekezdés szerinti európai tanácsi utalás helyettesíti a nemzeti parlamentek értesítését és a konventbeli képviseletet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés a megerősítési nehézségek szakaszában áll, nem váltja fel a (2)–(3) bekezdés belépését. Az EUSZ 48. cikk (2) bekezdése a nemzeti parlamentek értesítését, a (3) bekezdés a konventbeli képviseletet írja elő a megvitatás szakaszában. A tévedés a felülvizsgálat különböző szakaszainak összevonásából ered."
+        },
+        {
+          "text": "Az ügyet az Európai Tanács elé kell utalni; a módosítások hatálybalépéséhez azonban továbbra is valamennyi tagállam alkotmányos megerősítése kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) bekezdés politikai fórumot nyit, de nem váltja fel a teljes megerősítést. Az EUSZ 48. cikk (5) bekezdése szerint ha a Szerződések módosításáról szóló bármely szerződés aláírásától számított két év elteltével a tagállamok négyötöde már megerősítette, egy vagy több tagállam azonban nehézségekkel szembesül, az ügyet az Európai Tanács elé kell utalni. A (4) bekezdés szerint a módosítások csak azt követően lépnek hatályba, hogy azokat valamennyi tagállam megerősítette. A nemzeti parlamentek a (2) bekezdés szerint értesítést kapnak, a (3) bekezdés szerint a konventben képviseltethetik magukat."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "8acd8b90d691"
+    },
+    {
+      "question": "A Bizottság széles körű konzultációja a jogalkotási javaslatok előtt milyen regionális-helyi dimenziót kap a (2.) jegyzőkönyvben?",
+      "options": [
+        {
+          "text": "A Bizottság a javaslatok előtt széles körű konzultációt folytat, adott esetben a regionális és helyi vonatkozásokat is figyelembe véve; különösen sürgős esetben a konzultáció elmaradhat, de a döntést indokolni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a regionális és helyi dimenzió már a javaslat előkészítésében megjelenik. A (2.) jegyzőkönyv a Bizottság széles körű konzultációját írja elő a javaslatok előtt, és adott esetben a regionális és helyi vonatkozások figyelembevételét is. Különösen sürgős esetben a konzultáció elhagyható, de ilyenkor a döntést indokolni kell. Az EUSZ 5. cikk (3) bekezdése a kielégítő nemzeti megvalósítást központi, regionális és helyi szinten is vizsgálja."
+        },
+        {
+          "text": "A regionális vonatkozások figyelembevétele csak a kizárólagos uniós hatáskörű javaslatoknál kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szubszidiaritás és a hozzá kapcsolódó konzultáció a nem kizárólagos hatáskörökön nyílik. Az EUSZ 5. cikk (3) bekezdése a szubszidiaritást a nem kizárólagos területekre korlátozza; a (2.) jegyzőkönyv ezt az eljárást tölti ki a konzultációval és az indokolással. A tévedés a kizárólagos hatáskör és a szubszidiaritási eljárás összecseréléséből ered."
+        },
+        {
+          "text": "Sürgős esetben a konzultáció elmaradása indokolás nélkül is jogszerű, ha a Tanács utólag szavaz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, különösen sürgős esetben a konzultáció elmaradhat, de a döntést indokolni kell. A (2.) jegyzőkönyv ezt az indokolási kötelezettséget kifejezetten előírja. Az EUSZ 5. cikk (3) bekezdése a nemzeti parlamenteket a szubszidiaritás tiszteletben tartásának őreivé teszi. A tévedés a sürgősség indokolás nélküli olvasatából ered."
+        },
+        {
+          "text": "A tervezet indokolásának tartalmaznia kell irányelvnél a tagállami és regionális végrehajtási jogszabályok hatásait is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a regionális dimenzió az indokolási feljegyzésben is megjelenik. A (2.) jegyzőkönyv szerint a tervezetet a szubszidiaritás és az arányosság tekintetében külön indokolni kell, és a feljegyzés irányelvnél a tagállami és regionális végrehajtási jogszabályok hatásait is tartalmazza. Az EUSZ 5. cikk (3) bekezdése a kielégítő nemzeti megvalósítást regionális és helyi szinten is vizsgálja. A nemzeti kamarák a 6. cikk szerint egyeztethetnek a jogalkotói hatáskörű regionális parlamentekkel."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "8b5ead5e71e8"
+    },
+    {
+      "question": "Milyen kapcsolatban áll a 69. cikk szerinti őrszerep a 85. és 88. cikk rendelettervezeteivel?",
+      "options": [
+        {
+          "text": "A 85. cikk szerinti értékelés és a 88. cikk szerinti politikai ellenőrzés a már működő ügynökségre vonatkozik, míg a 69. cikk a tervezet szubszidiaritás-ellenőrzését erősíti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tervezeti és a működési kontroll két különböző időpont. Az EUMSZ 85. cikk (1) bekezdése az értékelési részvétel szabályait, a 88. cikk (2) bekezdése a közös parlamenti ellenőrzési eljárást a rendeletekhez köti. Az EUMSZ 69. cikk a javaslatok és kezdeményezések szubszidiaritási összhangjáról gondoskodik. A két pálya nem helyettesíti egymást."
+        },
+        {
+          "text": "A 69. cikk a 4. és 5. Fejezet keretében benyújtott jogalkotási javaslatokra — ideértve az Eurojust- és Europol-rendeleteket is — a (2.) jegyzőkönyv szerinti szubszidiaritás-ellenőrzést külön is kimondja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelettervezet szakaszán a jegyzőkönyvi őrszerep fut. Az EUMSZ 69. cikk a 4. és 5. Fejezet javaslataira utal; ide tartozik a 85. cikk szerinti Eurojust-rendelet és a 88. cikk szerinti Europol-rendelet is. A (2.) jegyzőkönyv 6–7. cikke a nyolc hetet, az indokolt véleményt és a szavazatküszöbös felülvizsgálatot adja. A működés közbeni értékelés, illetve politikai kontroll ettől elválik."
+        },
+        {
+          "text": "A 69. cikk a működés közbeni Europol-kontrollt váltja fel, ezért a 88. cikk (2) bekezdése szerinti közös eljárás mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 69. cikk a tervezet szubszidiaritás-ellenőrzése, a 88. cikk (2) bekezdése a működés közbeni politikai kontroll. Az EUMSZ 88. cikk (2) bekezdése szerint a rendeletek határozzák meg a Parlament és a nemzeti parlamentek közös ellenőrzési eljárását. Az EUMSZ 69. cikk a 4. és 5. Fejezet javaslatainál a (2.) jegyzőkönyv szerinti őrszerepet erősíti meg, nem a működési kontrollt. A tévedés a két időpont összecseréléséből ered."
+        },
+        {
+          "text": "Az Eurojust-rendelettervezetre a 69. cikk nem terjed ki, mert az értékelés csak a 85. cikkben van.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Eurojust-rendelet a 4. Fejezethez tartozik, ezért a 69. cikk szerinti őrszerep a tervezetre fut. Az EUMSZ 69. cikk a 4. és 5. Fejezet javaslataira vonatkozik; a 85. cikk (1) bekezdése szerinti értékelés a már működő Eurojust tevékenységére. A tévedés a tervezeti és az értékelési szakasz összevonásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "bc666a780d53"
+    },
+    {
+      "question": "A parlamentközi együttműködés konferenciája milyen joghatással bír a nemzeti parlamentekre?",
+      "options": [
+        {
+          "text": "A konferencia észrevételei a nemzeti parlamentek számára kötelező irányadó álláspontot képeznek a szubszidiaritási szavazásnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az észrevételek nem kötelezik a nemzeti parlamenteket, és álláspontjukat nem befolyásolják. Az (1.) jegyzőkönyv II. címe ezt kifejezetten kimondja. A (2.) jegyzőkönyv 7. cikk (1) bekezdése szerinti szavazatok a nemzeti parlamenteké vagy kamaráké. A tévedés a lágy együttműködés és a kötelező szavazati magatartás összekeveréséből ered."
+        },
+        {
+          "text": "Az uniós ügyekre szakosodott parlamenti bizottságok konferenciája észrevételt tehet a Parlament, a Tanács és a Bizottság felé, de az észrevételek a nemzeti parlamenteket nem kötelezik, és álláspontjukat nem befolyásolják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a konferencia lágy együttműködési fórum, nem vétójog. Az (1.) jegyzőkönyv II. címe szerint a konferencia észrevételt tehet, előmozdítja az információk és a bevált gyakorlatok cseréjét, és különösen a KKBP — beleértve a KBVP — megvitatására parlamentközi konferenciákat szervezhet. Az észrevételek a nemzeti parlamenteket nem kötelezik. Az EUSZ 12. cikk f) pontja éppen ezt a parlamentközi együttműködést nevezi meg a nemzeti parlamentek hozzájárulásaként."
+        },
+        {
+          "text": "A KKBP-konferenciák a 48. cikk (7) bekezdésének áthidaló klauzuláját helyettesítik a védelmi döntéseknél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a parlamentközi konferencia megvitatási fórum, nem az áthidaló klauzula helyettesítője. Az EUSZ 48. cikk (7) bekezdése a katonai vagy védelmi vonatkozású döntéseknél a minősített többségre nyitást kizárja; az (1.) jegyzőkönyv 6. cikke a (7) bekezdéshez hat hónapos tájékoztatást kapcsol. A tévedés a politikai megvitatás és a szerződéses döntéshozatali forma összecseréléséből ered."
+        },
+        {
+          "text": "A Parlament és a nemzeti parlamentek közösen határozzák meg a hatékony és rendszeres együttműködés módját.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az együttműködés intézményi keretét közösen alakítják. Az (1.) jegyzőkönyv II. címe ezt a közös meghatározást írja elő. Az EUSZ 12. cikk f) pontja a nemzeti parlamentek közötti és az Európai Parlamenttel folytatott parlamentközi együttműködést a hozzájárulás részévé teszi. A kötelező nemzeti álláspont ettől elválik: a konferencia észrevételei nem kötik a kamarákat."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "2fc77aab4aa8"
+    },
+    {
+      "question": "Mely megállapítások helytelenek a nemzeti parlamentek szerepéről a térségben?",
+      "options": [
+        {
+          "text": "A 81. cikk (3) bekezdésének hat hónapos kifogása a 4. és 5. Fejezet büntetőjogi rendeleteire is kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hat hónapos kifogás a több államra kiterjedő családjog rendes eljárásra való áttéréséről szóló határozatra vonatkozik. Az EUMSZ 81. cikk (3) bekezdése a polgári 3. Fejezetben áll; a 4. és 5. Fejezetre az EUMSZ 69. cikk a (2.) jegyzőkönyvi őrszerepet mondja ki. A helyes: a két zár más fejezeten és más jogkövetkezménnyel fut. A hiba a családjogi áttérési zár és a büntetőügyi őrszerep összekeveréséből ered."
+        },
+        {
+          "text": "A 70. cikk szerinti értékelés mulasztása önmagában kötelezettségszegési eljárást indít a Bizottság ellen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értékelés nem szankció, és mulasztása önmagában nem váltja ki a kötelezettségszegési eljárást. Az EUMSZ 70. cikk a 258., 259. és 260. cikk sérelme nélkül rendelkezik. A helyes: az értékelés a végrehajtás láthatóságát szolgálja, különösen a kölcsönös elismerés érdekében. A tévedés az értékelés és a szankciós út összekeveréséből ered."
+        },
+        {
+          "text": "Az Europol politikai ellenőrzése azonos a 70. cikk utólagos tájékoztatásával, közös parlamenti eljárás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Europol-kontroll a rendeletben rögzítendő, a Parlament és a nemzeti parlamentek közös eljárása. Az EUMSZ 88. cikk (2) bekezdése ezt a közös ellenőrzést írja elő; az EUMSZ 70. cikk az értékelés tartalmáról és eredményéről szóló tájékoztatást adja. A helyes: a két eszköz intenzitása és tárgya különbözik. A tévedés a 12. cikk c) pontján belüli eszközök összecseréléséből ered."
+        },
+        {
+          "text": "A 71. cikk szerinti állandó bizottság átveszi a tagállami hatóságok operatív összehangolását, és uniós kényszerítő intézkedést rendelhet el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizottság segíti a tagállami hatóságok intézkedéseinek összehangolását, nem váltja fel őket, és kényszert nem rendel el. Az EUMSZ 71. cikk a segítséget és a folyamatos tájékoztatást írja elő; a kényszerítő intézkedés az EUMSZ 88. cikk (3) bekezdése szerint a nemzeti hatóságok monopóliuma. A helyes: a politikai láthatóság nem egyenlő a kényszerhatáskörrel. A tévedés a koordináció és a kényszer összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "652283709986"
+    },
+    {
+      "question": "A szubszidiaritási indokolt vélemény megküldésének határideje mikortól számít?",
+      "options": [
+        {
+          "text": "A hivatalos nyelveken való továbbítástól számított nyolc héten belül bármely nemzeti parlament vagy kamara indokolt véleményt küldhet a szubszidiaritás sérelméről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nyolc hét a nyelvi rendelkezésre bocsátáshoz kötött. A (2.) jegyzőkönyv 6. cikke a hivatalos nyelveken való továbbítástól számított nyolc hetet ad. Az (1.) jegyzőkönyv 4. cikke ugyanezen nyolc hetet a napirendre tűzés előtti várakozásként is rögzíti. A sürgős kivétel indoklásköteles."
+        },
+        {
+          "text": "A nyolc hét a Tanács ideiglenes napirendjére tűzésétől számít, nem a hivatalos nyelveken való továbbítástól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az indokolt vélemény határideje a hivatalos nyelveken való továbbítástól számít. A (2.) jegyzőkönyv 6. cikke ezt kimondja; az (1.) jegyzőkönyv 4. cikke a rendelkezésre bocsátás és a napirendre tűzés közé teszi a nyolc hetet. A tévedés a napirendre tűzés és a továbbítás időpontjának összecseréléséből ered."
+        },
+        {
+          "text": "A határidő hat hónap, mint a 81. cikk (3) bekezdésénél és a 48. cikk (7) bekezdésénél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az indokolt vélemény határideje nyolc hét; a hat hónap a családjogi áttérés kifogásánál és az áthidaló klauzula előzetes tájékoztatásánál jelenik meg. A (2.) jegyzőkönyv 6. cikke nyolc hetet ad; az EUMSZ 81. cikk (3) bekezdése hat hónapos kifogást, az (1.) jegyzőkönyv 6. cikke pedig a 48. cikk (7) bekezdéshez hat hónapos tájékoztatást. A tévedés a három határidő összevonásából ered."
+        },
+        {
+          "text": "A jogalkotó és a kezdeményező az indokolt véleményt figyelembe veszi; a felülvizsgálati kényszer a szavazatküszöbhöz kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az indokolt vélemény nem automatikus megállító, de kötelező figyelembevételű. A (2.) jegyzőkönyv 7. cikk (1) bekezdése szerint a jogalkotó és a kezdeményező figyelembe veszi az indokolt véleményt. A (2) bekezdés a szavazatok egyharmadához — a térségben egynegyedéhez — köti a felülvizsgálatot. Az EUSZ 5. cikk (3) bekezdése a nemzeti parlamenteket e jegyzőkönyvi eljárás címzettjeivé teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 41,
+      "sourceHash": "128da8296c66"
+    },
+    {
+      "question": "Az EUSZ 12. cikk d) pontja a Szerződések felülvizsgálatába hogyan vonja be a nemzeti parlamenteket?",
+      "options": [
+        {
+          "text": "A felülvizsgálati belépés csak az egyszerűsített (6) bekezdéses pályára korlátozódik, a rendes pályán a nemzeti parlamentek nem kapnak értesítést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendes pályán a (2) bekezdés értesítést, a (3) bekezdés konventbeli képviseletet ad. Az EUSZ 48. cikk (2)–(3) bekezdése a rendes felülvizsgálat belépését rendezi; a (6) bekezdés az EUMSZ harmadik részének egyszerűsített módosítása. Az EUSZ 12. cikk d) pontja a 48. cikk egészére utal. A tévedés a két pálya összecseréléséből ered."
+        },
+        {
+          "text": "A d) pont alapján a nemzeti parlamentek minősített többséggel megállíthatják a módosítási javaslat Tanácshoz való benyújtását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés értesítést ír elő, nem nemzeti parlamenti vétót a benyújtásra. Az EUSZ 48. cikk (2) bekezdése szerint bármely tagállam kormánya, a Parlament vagy a Bizottság nyújthat be javaslatot a Tanácsnak, amely továbbítja azt az Európai Tanácsnak, és értesíti a nemzeti parlamenteket. A tévedés a 81. cikk (3) bekezdés kifogásának ráírása a szerződésmódosításra."
+        },
+        {
+          "text": "A konvent a nemzeti parlamenteknek, a tagállamok állam- illetve kormányfőinek, valamint az Európai Parlamentnek és a Bizottságnak a képviselőiből áll, ha az Európai Tanács a megvitatás mellett dönt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a konvent a nemzeti parlamenti belépés intézményes alakja a rendes felülvizsgálatban. Az EUSZ 48. cikk (3) bekezdése ezt az összetételt írja elő; monetáris intézményi módosításnál az EKB-val is konzultálni kell. A konvent mellőzése a Parlament egyetértéséhez kötött. A (6) bekezdés egyszerűsített pályája ettől elválik, mert nem konventes."
+        },
+        {
+          "text": "A nemzeti parlamentek a 48. cikkel összhangban részt vesznek a Szerződések felülvizsgálati eljárásaiban: értesítést kapnak, a konventben képviseltethetik magukat, és az áthidaló klauzulánál előzetes tájékoztatást kapnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a d) pont a 48. cikk több belépési pontját fogja össze. Az EUSZ 12. cikk d) pontja a 48. cikkre utal. Az EUSZ 48. cikk (2) bekezdése az értesítést, a (3) bekezdés a konventbeli képviseletet adja; az (1.) jegyzőkönyv 6. cikke a (7) bekezdés áthidaló klauzulájához hat hónapos előzetes tájékoztatást kapcsol. A megerősítés a tagállami alkotmányos követelmények szerint fut."
+        }
+      ],
+      "sourceKerdesSorszam": 42,
+      "sourceHash": "69711d518e4b"
+    },
+    {
+      "question": "A Tanács 55 százalékos küszöbe a narancs lapnál milyen szerepet játszik?",
+      "options": [
+        {
+          "text": "A Tanács 55 százaléka helyettesíthető egyetlen nemzeti parlament kifogásával, mint a 81. cikk (3) bekezdésénél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a narancs lapnál a tanácsi vagy parlamenti többség kell; egyetlen nemzeti parlament kifogása a családjogi áttérésre van szabva. A (2.) jegyzőkönyv 7. cikk (3) bekezdése a jogalkotó küszöbeit írja elő; az EUMSZ 81. cikk (3) bekezdése a hat hónapos, egyetlen parlamenti kifogást. A csapda a két nemzeti parlamenti belépési forma összeolvasztása."
+        },
+        {
+          "text": "Ha a Bizottság a javaslatot fenntartja, és a Tanács tagjainak 55 százalékát kitevő többség szerint a javaslat nem összeegyeztethető a szubszidiaritással, a javaslat a továbbiakban nem tárgyalható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 55 százalék a tárgyalás megszüntetésének egyik alternatív küszöbe. A (2.) jegyzőkönyv 7. cikk (3) bekezdése szerint a tárgyalás megszüntetéséhez a Tanács tagjainak 55 százalékát kitevő többség vagy a Parlamentben leadott szavazatok többsége kell. Ehhez előbb a Bizottságnak fenn kell tartania a javaslatot, és indokolt véleményt kell előterjesztenie. Az első olvasat lezárása előtt a jogalkotó vizsgálja az összeegyeztethetőséget."
+        },
+        {
+          "text": "A 55 százalékos küszöb már a sárga lapnál is elegendő a tervezet automatikus visszavonásához.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a sárga lap az egyharmados (térségben egynegyedes) szavazatküszöbhöz kötött felülvizsgálat; a 55 százalék a narancs lap tárgyalás-megszüntető ága. A (2.) jegyzőkönyv 7. cikk (2) és (3) bekezdése a két küszöböt szétválasztja. A tévedés a sárga és a narancs lap összecseréléséből ered."
+        },
+        {
+          "text": "A parlamenti oldalon a leadott szavazatok többsége ugyanezt a megszüntető hatást váltja ki, ha a szubszidiaritással való összeegyeztethetetlenséget állapítja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a narancs lap kétágú: tanácsi 55 százalék vagy parlamenti szavazattöbbség. A (2.) jegyzőkönyv 7. cikk (3) bekezdése mindkét ágat kimondja. A sárga lap egyharmados (térségben egynegyedes) küszöbe ettől elválik, mert csak felülvizsgálatot kényszerít. Az EUSZ 5. cikk (3) bekezdése a nemzeti parlamenti őrszerepet a jegyzőkönyvi eljáráshoz köti."
+        }
+      ],
+      "sourceKerdesSorszam": 43,
+      "sourceHash": "294376c998dc"
+    },
+    {
+      "question": "A kölcsönös elismerés elve a 70. cikk szerinti értékelésben milyen szerepet kap?",
+      "options": [
+        {
+          "text": "Az értékelést a tagállamok a Bizottsággal együttműködve végzik, különösen a kölcsönös elismerés elvének teljes körű alkalmazása érdekében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kölcsönös elismerés akkor tartható, ha a tagállamok látják egymás alkalmazási gyakorlatát. Az EUMSZ 70. cikk szerint a tagállamok a Bizottsággal együttműködve — különösen a kölcsönös elismerés elvének teljes körű alkalmazását elősegítendő — végzik az objektív és pártatlan értékelést. Az értékelés tartalmáról és eredményéről az Európai Parlamentet és a nemzeti parlamenteket tájékoztatni kell. Az EUSZ 12. cikk c) pontja ezt a részvételt a térség keretébe emeli."
+        },
+        {
+          "text": "A 70. cikk csak a polgári 3. Fejezetre vonatkozik, a büntetőügyi és rendőrségi fejezetekre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 70. cikk a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség címében említett uniós politikák végrehajtásának értékeléséről rendelkezik. Az EUMSZ 70. cikk e címre utal; az EUSZ 12. cikk c) pontja ugyanezt a térségi keretet nevezi meg. A tévedés a 81. cikk polgári fókuszának ráírása a 70. cikkre."
+        },
+        {
+          "text": "A nemzeti parlamentek tájékoztatása a végrehajtás láthatóságát a kormányzati csatornán túlra viszi, de nem indokolt vélemény a tervezetről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 70. cikk a jogalkotás utáni végrehajtási szakaszba vonja a nemzeti parlamenteket tájékoztatással. Az EUMSZ 70. cikk az értékelés tartalmáról és eredményéről szóló tájékoztatást írja elő; a (2.) jegyzőkönyv 6–7. cikke a tervezethez kötött indokolt véleményt és felülvizsgálatot ad. A 258–260. cikk fenntartása azt jelenti, hogy az értékelés nem váltja ki és nem zárja ki a kötelezettségszegési utat. A két eszköz más szakaszon áll."
+        },
+        {
+          "text": "A kölcsönös elismerés megsértése esetén a nemzeti parlament indokolt véleménnyel megállíthatja a már elfogadott rendelet alkalmazását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 70. cikk tájékoztatást ad az értékelésről, nem alkalmazásmegállító indokolt véleményt. Az EUMSZ 70. cikk az értékelés tartalmáról és eredményéről szóló tájékoztatást írja elő; az indokolt vélemény a (2.) jegyzőkönyv 6. cikke szerinti tervezeti eszköz. A tévedés a végrehajtási és a tervezeti szakasz összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 44,
+      "sourceHash": "833b6ab802cf"
+    },
+    {
+      "question": "A 48. cikk (7) bekezdésének második albekezdése milyen eljárási forma-váltást enged?",
+      "options": [
+        {
+          "text": "A forma-váltáshoz elegendő a Bizottság javaslata és a Tanács minősített többsége, európai tanácsi határozat nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a döntés az Európai Tanács határozata. Az EUSZ 48. cikk (7) bekezdése szerint az Európai Tanács határozatban rendelkezhet a rendes eljárás megnyitásáról. Az (1.) jegyzőkönyv 6. cikke a nemzeti parlamentek hat hónapos előzetes tájékoztatását írja elő. A tévedés a rendes jogalkotási pálya ráírása az áthidaló klauzulára."
+        },
+        {
+          "text": "A nemzeti parlamenteket legalább hat hónappal a határozat elfogadása előtt tájékoztatni kell erről a kezdeményezésről is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a forma-váltás sem csendben fut. Az (1.) jegyzőkönyv 6. cikke a 48. cikk (7) bekezdésének első és második albekezdéséhez kapcsolja a hat hónapos előzetes tájékoztatást. Az EUSZ 12. cikk d) pontja a felülvizsgálati belépést e tájékoztatással is kitölti. A 81. cikk (3) bekezdés hat hónapos kifogásától ez abban különbözik, hogy itt tájékoztatási, nem automatikus meghiúsító zár."
+        },
+        {
+          "text": "A második albekezdés a katonai és védelmi aktusokra is kiterjed, ha az Európai Tanács egyhangúlag dönt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a katonai-védelmi kivétel az első albekezdés minősített többségre nyitását zárja; a második albekezdés a különlegesről a rendes eljárásra nyitást rendezi. Az EUSZ 48. cikk (7) bekezdése az első albekezdésnél mondja ki, hogy az nem alkalmazható a katonai vagy védelmi vonatkozású döntések esetén. A tévedés a két albekezdés kivételének összekeveréséből ered."
+        },
+        {
+          "text": "Ha az EUMSZ úgy rendelkezik, hogy a Tanácsnak egyes jogalkotási aktusokat különleges jogalkotási eljárás keretében kell elfogadnia, az Európai Tanács határozatban úgy rendelkezhet, hogy az ilyen aktusok rendes jogalkotási eljárás keretében legyenek elfogadhatók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második albekezdés a különleges eljárás helyett a rendes eljárás megnyitását engedi. Az EUSZ 48. cikk (7) bekezdésének második albekezdése ezt a forma-váltást írja elő. Az első albekezdés a minősített többségre nyitást adja, katonai-védelmi kivétellel. Az (1.) jegyzőkönyv 6. cikke mindkét albekezdéshez legalább hat hónapos előzetes tájékoztatást kapcsol."
+        }
+      ],
+      "sourceKerdesSorszam": 45,
+      "sourceHash": "607aa54c55f7"
+    },
+    {
+      "question": "Mely állítások tévesek a nemzeti parlamentek szavazatairól a szubszidiaritási eljárásban?",
+      "options": [
+        {
+          "text": "A szavazatokat a Bizottság osztja el a nemzeti parlamentek között a népesség arányában.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szavazatok elosztása a nemzeti rendszernek megfelelően történik, parlamentenként kettővel. A (2.) jegyzőkönyv 7. cikk (1) bekezdése ezt a keretet rögzíti; a Bizottság nem oszt népességarányos szavazatokat. A helyes: kétkamarás esetben kamaránként egy szavazat. A tévedés az uniós intézményi döntéshozatali súlyozás ráírása a jegyzőkönyvre."
+        },
+        {
+          "text": "A Régiók Bizottságának szavazatai beleszámítanak a nemzeti parlamenti egyharmados küszöbbe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felülvizsgálati küszöb a nemzeti parlamentek szavazataira épül; a Régiók Bizottsága a 8. cikk szerinti kereseti legitimációval rendelkezhet konzultációköteles aktusoknál. A (2.) jegyzőkönyv 7. cikk (2) bekezdése a nemzeti parlamenti szavazatokról beszél. A helyes: a Régiók Bizottsága nem ad szavazatot a sárga laphoz. A tévedés a kereseti jog és a szavazati küszöb összekeveréséből ered."
+        },
+        {
+          "text": "Minden nemzeti parlamentnek négy szavazata van, mert a két kamara és két regionális parlament együtt számít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szavazatszám nemzeti szinten zárt keretben áll. A (2.) jegyzőkönyv 7. cikk (1) bekezdése parlamentenként két szavazatot ad, kétkamarás rendszerben kamaránként egyet. A helyes: a jogalkotói hatáskörű regionális parlamentekkel való egyeztetés a 6. cikk szerint a nemzeti kamarák feladata, de nem négy szavazatot teremt. A tévedés a konzultációs kötelezettség szavazati súlya szerinti félreolvasásából ered."
+        },
+        {
+          "text": "A felülvizsgálati küszöb eléréséhez elegendő egyetlen kamara szavazata, ha az a legnagyobb lélekszámú tagállamé.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a küszöb az összes szavazat egyharmada, a térségben egynegyede; a lélekszám szerinti súlyozás itt nem érvényesül. A (2.) jegyzőkönyv 7. cikk (2) bekezdése a szavazatok arányát köti. A helyes: kétkamarás parlamentnél kamaránként egy szavazat, parlamentenként összesen kettő. A tévedés a Tanács népességi súlyozásának ráírása a nemzeti parlamenti szavazatokra."
+        }
+      ],
+      "sourceKerdesSorszam": 46,
+      "sourceHash": "00dba6399d6f"
+    }
+  ]
+}

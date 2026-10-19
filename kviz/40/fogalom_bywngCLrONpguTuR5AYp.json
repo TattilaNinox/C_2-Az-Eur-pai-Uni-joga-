@@ -1,0 +1,765 @@
+{
+  "id": "bywngCLrONpguTuR5AYp",
+  "sorszam": 40,
+  "cim": "Mi a versenyjog funkciója? Milyen jogforráson alapul? (antitröszt (...)",
+  "generationType": "fogalom",
+  "title": "40. Mi a versenyjog funkciója? Milyen jogforráson alapul? (antitröszt (...)",
+  "questions": [
+    {
+      "question": "Mi a versenyjog kettős funkciója a belső piacon, és mi a közös nevezője?",
+      "options": [
+        {
+          "text": "A közös nevező a tagállamok közötti kereskedelem védelme és a belső piaci verseny torzulásának megakadályozása; a tilalmak közvetlenül hatályosak, a mentesség és a közérdekű kivétel szűk, feltételhez kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kereskedelmi érintettség és a torzulásmentesség a közös mérce. Az EUMSZ 101. és 102. cikke a kereskedelmet érintő vállalkozási magatartást, a 107. cikk (1) bekezdése a szelektív állami előnyt tilalmazza. A tilalmak közvetlenül hatályosak; a 101. cikk (3) bekezdése szerinti mentesség és a 106. cikk (2) bekezdése szerinti közérdekű kivétel csak szűk, bizonyítandó feltételekkel nyílik. A négy alapszabadság önmagában nem pótolja e fegyelmet."
+        },
+        {
+          "text": "A funkció egyrészt a vállalkozások magatartását fegyelmezi (antitröszt), másrészt a tagállami beavatkozást tartja mederben (állami támogatások), kiegészülve az összefonódások előzetes szerkezeti ellenőrzésével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a versenyjog három eszközcsoportot fog össze. Az antitrösztöt az EUMSZ 101–106. cikke, az állami támogatásokat a 107–109. cikke rendezi, az összefonódást pedig a Tanács 139/2004/EK rendelete vonja előzetes uniós kontroll alá. Az EUMSZ 3. cikk (1) bekezdésének b) pontja e rendet kizárólagos uniós hatáskörként rögzíti. A közös cél a határokon átnyúló verseny védelme a belső piacon."
+        },
+        {
+          "text": "A tilalmak csak irányelvi átültetés után hatályosulnak, a mentesség pedig általános méltányossági felmentés a Bizottság diszkréciója alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalmak közvetlenül hatályosak, a mentesség pedig szűk, feltételhez kötött. A helyes: az EUMSZ 101. cikk (2) bekezdése a tiltott megállapodást semmissé teszi, a (3) bekezdés a hatékonysági mentességet négy együttes feltételhez köti, a 1/2003/EK rendelet pedig a 101. és 102. cikk közvetlen alkalmazását intézményesíti. A tévedés átültetési feltételt és általános méltányosságot ír a közvetlen hatály helyére."
+        },
+        {
+          "text": "A versenyjog kizárólag a vállalkozások magatartását fegyelmezi; a tagállami állami támogatás és az összefonódás-ellenőrzés kívül esik a funkcióján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a funkció nem korlátozódik a magatartási antitrösztre. A helyes: az EUMSZ 101–106. cikke a vállalkozásokra vonatkozó szabályokat, a 107–109. cikke az állami támogatásokat tartalmazza, a 139/2004/EK rendelet pedig az összefonódások előzetes ellenőrzését adja; a közös nevező a tagállamok közötti kereskedelem védelme. A tévedés az állami támogatási és a szerkezeti pillért kihagyja."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "abcbcac3f5e7"
+    },
+    {
+      "question": "Milyen hatásköri címen alapul a versenyszabályok uniós jellege, és mit jelent a kizárólagosság a tagállamok számára?",
+      "options": [
+        {
+          "text": "E területen kötelező erejű aktust a tagállamok csak uniós felhatalmazás alapján vagy az uniós aktus végrehajtása körében alkothatnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kizárólagosság a tagállami jogalkotást szűkíti. Az EUMSZ 3. cikk (1) bekezdésének b) pontja szerinti kizárólagos hatáskörben kötelező erejű aktust a tagállamok csak uniós felhatalmazás alapján vagy az uniós aktus végrehajtása körében alkothatnak. Ugyanez a cím magyarázza a Bizottság központi érvényesítő szerepét. A közösségi léptékű összefonódást ezért egyetlen uniós fórum bírálja el."
+        },
+        {
+          "text": "A versenyszabályok a belső piaccal megosztott hatáskörbe tartoznak, ezért a tagállamok párhuzamosan, uniós felhatalmazás nélkül is alkothatnak kötelező erejű versenyaktusokat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a versenyszabályok nem megosztott, hanem kizárólagos uniós hatáskör. A helyes: az EUMSZ 3. cikk (1) bekezdésének b) pontja a belső piac működéséhez szükséges versenyszabályok megállapítását kizárólagos uniós hatáskörbe helyezi; a tagállam csak uniós felhatalmazás vagy végrehajtás körében alkothat kötelező aktust. A tévedés a megosztott hatásköri olvasatot írja a kizárólagosság helyére."
+        },
+        {
+          "text": "Az EUMSZ 3. cikk (1) bekezdésének b) pontja csak a vámuniót és a közös kereskedelempolitikát teszi kizárólagossá; a versenyszabályok megállapítása kívül esik e listán.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a b) pont éppen a versenyszabályokat nevesíti. A helyes: az EUMSZ 3. cikk (1) bekezdése a) vámunió, b) „a belső piac működéséhez szükséges versenyszabályok megállapítása”, továbbá további területek mellett rögzíti a kizárólagosságot; a versenyjog funkciója alkotmányos szinten az Unióé. A tévedés a b) pontot kihagyja a listából."
+        },
+        {
+          "text": "A versenyszabályok megállapítása a belső piac működéséhez szükséges, önálló kizárólagos uniós hatáskör; az EUMSZ 3. cikk (1) bekezdésének b) pontja ezt a címet rögzíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatáskör nem a belső piaccal megosztott terület. Az EUMSZ 3. cikk (1) bekezdésének b) pontja szerint az Unió kizárólagos hatáskörrel rendelkezik „a belső piac működéséhez szükséges versenyszabályok megállapítása” területén. Ez adja a 101–109. cikk és a rájuk épülő másodlagos jog legitimációs alapját. Hatásköri cím nélkül a tilalmak puszta program maradnának."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "ca56d316aa1c"
+    },
+    {
+      "question": "A kartelltilalom milyen magatartási formákra terjed ki, és milyen két kumulatív feltétel mellett tilos a magatartás?",
+      "options": [
+        {
+          "text": "Elég a belső piaci verseny korlátozásának veszélye; a tagállamok közötti kereskedelem érintettsége nem kumulatív feltétel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két feltétel kumulatív. A helyes: az EUMSZ 101. cikk (1) bekezdése szerint a tilalomhoz a tagállamok közötti kereskedelem érintettsége és a belső piaci verseny célzott vagy hatásalapú megakadályozása, korlátozása vagy torzítása együttesen kell. A 102. cikk ugyanígy a kereskedelmi érintettséghez köti az erőfölényes tilalmat. A tisztán belföldi, hatástalan magatartás nem e cikkek tárgya."
+        },
+        {
+          "text": "Két kumulatív feltétel kell: a tagállamok közötti kereskedelem érintettsége, és a belső piaci verseny célzott vagy hatásalapú megakadályozása, korlátozása vagy torzítása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kereskedelmi érintettség és a versenykorlátozás együttesen kell. Az EUMSZ 101. cikk (1) bekezdése szerint a magatartás akkor tilos, ha „hatással lehet a tagállamok közötti kereskedelemre”, és célja vagy hatása a belső piacon belüli verseny megakadályozása, korlátozása vagy torzítása. A tisztán belföldi, hatástalan magatartás nem e cikk tárgya. A (2) bekezdés a tiltott megállapodást és döntést semmissé nyilvánítja."
+        },
+        {
+          "text": "A kartelltilalom csak a vállalkozások közötti írásbeli megállapodásra terjed ki; a társulási döntés és az összehangolt magatartás kívül esik a 101. cikk (1) bekezdésén.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom három formára terjed ki, nem csak az írásbeli megállapodásra. A helyes: az EUMSZ 101. cikk (1) bekezdése a megállapodást, a társulási döntést és az összehangolt magatartást egyaránt tiltja, ha a kereskedelmi érintettség és a versenykorlátozás fennáll. A példálódzó listán kívüli korlátozás is tilos lehet. A tévedés a társulási döntést és az összehangolt magatartást kihagyja."
+        },
+        {
+          "text": "A tilalom a vállalkozások közötti megállapodásra, a vállalkozások társulásának döntésére és az összehangolt magatartásra terjed ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 101. cikk (1) bekezdése három magatartási formát fog át. Az EUMSZ 101. cikk (1) bekezdése tiltja a vállalkozások közötti megállapodást, a vállalkozások társulásai által hozott döntést és az összehangolt magatartást. A példálódzó felsorolás — árrögzítés, mennyiségi korlátozás, piacfelosztás, diszkrimináció, kopuláció — a tilalom magját jelöli ki. Egyéb versenykorlátozás sem esik ki automatikusan."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "6e59cd4defff"
+    },
+    {
+      "question": "Milyen négy együttes feltételhez köti az EUMSZ 101. cikk (3) bekezdése a hatékonysági mentességet?",
+      "options": [
+        {
+          "text": "Emellett a korlátozás nem lehet súlyosabb a nélkülözhetetlennél, és a vállalkozások nem szüntethetik meg a versenyt a kérdéses áruk jelentős része tekintetében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harmadik és negyedik feltétel a nélkülözhetetlenséget és a verseny fenntartását védi. Az EUMSZ 101. cikk (3) bekezdése a) pontja kizárja a nem nélkülözhetetlen korlátozásokat, a b) pont pedig a verseny megszüntetését a kérdéses áruk jelentős része tekintetében. A négy feltétel együttes; egyik hiányában nincs mentesség. A vállalkozás viseli annak kockázatát, hogy a feltételek fennállnak-e."
+        },
+        {
+          "text": "A 102. cikk szerinti erőfölényes tilalomra ugyanaz a négyfeltételes mentesség analóg módon alkalmazható, ha a visszaélés hatékonysági előnyt hoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az erőfölényes tilalomnak nincs a 101. cikk (3) bekezdéséhez hasonló mentességi záradéka. A helyes: az EUMSZ 102. cikke szerint a jogszerűség a visszaélés ismérveinek hiányán múlik, nem a 101. cikk (3) bekezdésének analóg alkalmazásán; a (3) bekezdés kizárólag a kartelltilalom hatékonysági mentességét négy együttes feltételhez köti. A tévedés a mentességet átírja az unilaterális tilalomra."
+        },
+        {
+          "text": "A hatékonysági mentességhez elegendő a termelés javítása; a fogyasztói részesedés és a verseny fenntartása nem kumulatív feltétel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a négy feltétel együttes. A helyes: az EUMSZ 101. cikk (3) bekezdése a termelés vagy forgalmazás javítását, illetve a műszaki vagy gazdasági fejlődést, a fogyasztók méltányos részesedését, a nélkülözhetetlennél nem súlyosabb korlátozást és a verseny ki nem iktatását a kérdéses áruk jelentős része tekintetében együttesen követeli. A 1/2003/EK rendelet e négyes tesztet közvetlenül alkalmazhatóvá tette. A tévedés egyetlen hatékonysági elemet tesz elegendővé."
+        },
+        {
+          "text": "A mentességhez a termelés vagy forgalmazás javítása, illetve a műszaki vagy gazdasági fejlődés, valamint a fogyasztók méltányos részesedése a belőle eredő előnyből egyaránt szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az első két feltétel a hatékonysági előnyt és a fogyasztói részesedést köti. Az EUMSZ 101. cikk (3) bekezdése szerint az (1) bekezdés alkalmazásától el lehet tekinteni, ha a megállapodás, döntés vagy összehangolt magatartás hozzájárul az áruk termelésének vagy forgalmazásának javításához, illetve a műszaki vagy gazdasági fejlődés előmozdításához, és lehetővé teszi a fogyasztók méltányos részesedését. A mentesség nem méltányossági gesztus, hanem normatív teszt. A 1/2003/EK rendelet e tesztet közvetlenül alkalmazhatóvá tette."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "e64cb49283bd"
+    },
+    {
+      "question": "Mi a jogkövetkezménye a kartelltilalomba ütköző megállapodásnak vagy döntésnek, és miben áll a semmisség jellege?",
+      "options": [
+        {
+          "text": "A semmisség csak a felek egymás közötti viszonyában hat; harmadik személy a tilos kikötésre hivatkozhat a nemzeti bíróság előtt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisség erga omnes, nem relatív érvénytelenség. A helyes: az EUMSZ 101. cikk (2) bekezdése a tiltott megállapodást vagy döntést semmissé teszi, és a semmisség erga omnes polgári jogi szankcióként a tilos kikötést a nemzeti bíróság előtt is érvényesíthetetlenné teszi. A tévedés a mindenkivel szembeni hatást felek közötti érvénytelenségre szűkíti."
+        },
+        {
+          "text": "Az EUMSZ 101. cikk (2) bekezdése szerint az e cikk alapján tiltott megállapodás vagy döntés semmis.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés polgári jogi semmisséget mond ki. Az EUMSZ 101. cikk (2) bekezdése szerint „Az e cikk alapján tiltott megállapodás vagy döntés semmis.” A semmisség erga omnes polgári jogi szankció: a tilos kikötés a nemzeti bíróság előtt sem érvényesíthető. A közjogi bírság ezt nem helyettesíti, de a magánjogi érvénytelenség önállóan is működik."
+        },
+        {
+          "text": "A semmisség erga omnes polgári jogi szankció: a tilos kikötés a nemzeti bíróság előtt sem érvényesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a semmisség mindenki irányában hat. Az EUMSZ 101. cikk (2) bekezdése a tiltott megállapodást és döntést semmissé nyilvánítja, ezért a nemzeti bíróság előtt sem érvényesíthető. A 1/2003/EK rendelet a nemzeti bíróságok számára megnyitja a 101. cikk teljes körű alkalmazását, ideértve a magánjogi jogvitákat. A semmisség így a kartelltilalom magánjogi fogát adja."
+        },
+        {
+          "text": "A tiltott megállapodás csak a Bizottság külön megsemmisítő határozata után válik érvénytelenné; a nemzeti bíróság a semmisséget nem állapíthatja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisség a szerződési tilalom közvetlen jogkövetkezménye. A helyes: az EUMSZ 101. cikk (2) bekezdése szerint a tiltott megállapodás vagy döntés semmis, és ez erga omnes polgári jogi szankcióként a nemzeti bíróság előtt is érvényesül; a 1/2003/EK rendelet a nemzeti bíróságok magánjogi alkalmazását intézményesíti. A tévedés bizottsági aktushoz köti a semmisséget."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "b13273999803"
+    },
+    {
+      "question": "Miben tér el az erőfölénnyel való visszaélés tilalma a kartelltilalomtól a tilalom tárgya és a mentesség szempontjából?",
+      "options": [
+        {
+          "text": "Az erőfölényes tilalomra a 101. cikk (3) bekezdésének négyfeltételes mentessége analóg módon alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az erőfölényes tilalomra nincs négyfeltételes mentességi záradék. A helyes: az EUMSZ 102. cikke szerint a jogszerűség a visszaélés ismérveinek hiányán múlik, nem a 101. cikk (3) bekezdésének analóg alkalmazásán. A 101. cikk (3) bekezdése kizárólag a kartelltilalom hatékonysági mentességét négy együttes feltételhez köti. A tévedés a mentességet átviszi az unilaterális tilalomra."
+        },
+        {
+          "text": "Külön mentességi bekezdés nincs: a jogszerűség a visszaélés ismérveinek hiányán múlik, nem a 101. cikk (3) bekezdésének analóg alkalmazásán.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az unilaterális tilalomnak nincs a kartelltilalomhoz hasonló mentességi záradéka. Az EUMSZ 102. cikke példálódzóan sorolja a tisztességtelen árat vagy feltételt, a fogyasztók kárára történő kínálatkorlátozást, a diszkriminációt és a kopulációt. A példálózás nem taxáció: a felsoroláson kívüli kizáró vagy kizsákmányoló magatartás is visszaélés lehet. A jogszerűség ezért a visszaélés ismérveinek hiányán múlik, nem a 101. cikk (3) bekezdésének analóg alkalmazásán."
+        },
+        {
+          "text": "Nem az erőfölény megléte tilos, hanem annak a belső piacon vagy annak jelentős részén való kihasználása, ha a magatartás a tagállamok közötti kereskedelmet érintheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a visszaélést szankcionálja, nem az erőfölényes pozíciót önmagában. Az EUMSZ 102. cikke szerint „tilos egy vagy több vállalkozásnak a belső piacon vagy annak jelentős részén meglévő erőfölényével való visszaélése, amennyiben ez hatással lehet a tagállamok közötti kereskedelemre.” A tilalom akkor is alkalmazható, ha több vállalkozás együttesen rendelkezik erőfölénnyel. A kereskedelmi érintettség a 101. cikkel közös belső piaci kötél."
+        },
+        {
+          "text": "Már az erőfölény megléte önmagában tilos a belső piacon, mentesség nélkül, a kereskedelmi érintettség vizsgálata nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az erőfölény megléte önmagában nem tilos. A helyes: az EUMSZ 102. cikke a belső piacon vagy annak jelentős részén meglévő erőfölénnyel való visszaélést tiltja, amennyiben ez hatással lehet a tagállamok közötti kereskedelemre; a jogszerűség a visszaélés ismérveinek hiányán múlik. A tévedés a pozíciót azonosítja a tilalommal."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "2c40e4568be2"
+    },
+    {
+      "question": "Milyen intézményi szerepet ad az EUMSZ 103. cikke a Tanácsnak a 101. és 102. cikk végrehajtásában?",
+      "options": [
+        {
+          "text": "A 103. cikk csak irányelv kibocsátását engedi; rendeletben a Tanács a 101. és 102. cikk végrehajtását nem szabályozhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felhatalmazás rendeletre és irányelvre egyaránt kiterjed. A helyes: az EUMSZ 103. cikk (1) bekezdése „megfelelő rendeleteket vagy irányelveket” említ, és a (2) bekezdés különösen a bírságolást, a 101. cikk (3) bekezdésének részletszabályait és a nemzeti jog viszonyát jelöli ki. A 1/2003/EK rendelet e felhatalmazáson nyugszik. A tévedés a rendeletet kizárja a tanácsi eszközök közül."
+        },
+        {
+          "text": "A tanácsi aktus célja különösen a pénzbírság vagy kényszerítő bírság előírása, a 101. cikk (3) bekezdésének részletes szabályai, az ágazati hatály, a Bizottság és a Bíróság feladatainak, valamint a nemzeti jog viszonyának meghatározása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a végrehajtás tartalmi magját jelöli ki. Az EUMSZ 103. cikk (2) bekezdése a) pontja a bírságolást, b) pontja a 101. cikk (3) bekezdésének részletszabályait, c)–e) pontja az ágazati hatályt, az intézményi feladatokat és a nemzeti jog viszonyát nevezi meg. A pénzbírság a tilalom közjogi fogát adja; a semmisség önmagában nem helyettesíti. A hatékony felügyelet és az ellenőrzés egyszerűsítése között kell egyensúlyt teremteni."
+        },
+        {
+          "text": "A 101. és 102. cikk végrehajtását kizárólag a Bizottság saját rendeletével bontja ki; a Tanács és a Parlament e körben nem kap szerepet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a végrehajtási aktusok tanácsi hatáskörben születnek. A helyes: az EUMSZ 103. cikk (1) bekezdése szerint a megfelelő rendeleteket vagy irányelveket a Tanács a Bizottság javaslata alapján, az Európai Parlamenttel folytatott konzultációt követően állapítja meg. E címen nyugszik a 1/2003/EK rendelet is, amely a 101. és 102. cikk közvetlen alkalmazását intézményesíti. A tévedés a Tanácsot kihagyja a végrehajtási láncból."
+        },
+        {
+          "text": "A Tanács a Bizottság javaslata alapján, az Európai Parlamenttel folytatott konzultációt követően rendeletben vagy irányelvben bontja ki a 101. és 102. cikk elveinek érvényre juttatását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalmi mag önmagában nem intézményi apparátus, ezért tanácsi végrehajtási felhatalmazás kell. Az EUMSZ 103. cikk (1) bekezdése szerint a megfelelő rendeleteket vagy irányelveket a Tanács a Bizottság javaslata alapján, az Európai Parlamenttel folytatott konzultációt követően állapítja meg. E felhatalmazáson nyugszik a versenyszabályok végrehajtásának rendeleti rendszere, ideértve a 1/2003/EK rendeletet. A Bizottság javaslatot tesz, de a rendeletet vagy irányelvet a Tanács állapítja meg."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "2441f204a7e6"
+    },
+    {
+      "question": "Mit jelent a Bizottság őri szerepe a 105. cikk szerint, és milyen feltételhez kötött a csoportmentességi rendeletalkotás?",
+      "options": [
+        {
+          "text": "A Bizottság csoportmentességi rendeletet akkor alkothat, ha a Tanács a 103. cikk (2) bekezdésének b) pontja szerint már elfogadott rendeletet vagy irányelvet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a csoportmentesség szerződési előfeltétele a tanácsi felhatalmazás. Az EUMSZ 105. cikk (3) bekezdése szerint a Bizottság rendeleteket fogadhat el a megállapodások azon csoportjaira, amelyek tekintetében a Tanács a 103. cikk (2) bekezdésének b) pontjával összhangban rendeletet vagy irányelvet fogadott el. A csoportmentesség a 101. cikk (3) bekezdésének típusszintű alkalmazása, nem új tilalom. A Bizottság nem írhatja át a mentesség kereteit a Tanács előzetes aktusa nélkül."
+        },
+        {
+          "text": "A Bizottság — a 104. cikk sérelme nélkül — biztosítja a 101. és 102. cikk elveinek alkalmazását; a vizsgálat tagállami kérelemre vagy hivatalból, a nemzeti hatóságokkal együttműködve indul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 105. cikk (1) bekezdése a Bizottságot a tilalmak őrévé teszi. Az EUMSZ 105. cikk (1) bekezdése szerint a Bizottság megvizsgálja a jogsértés gyanúját, és javaslatot tesz a megszüntetésre. Ha a jogsértés nem szűnik meg, a (2) bekezdés szerint indokolással ellátott határozatot hoz, azt nyilvánosságra hozhatja, és a tagállamokat a helyzet orvoslására hatalmazhatja fel. A nyilvánosságra hozatal a preventív hatást erősíti."
+        },
+        {
+          "text": "A Bizottság a 105. cikk alapján a Tanács előzetes rendelete nélkül is szabadon alkothat csoportmentességi rendeletet a 101. cikk (3) bekezdése helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a csoportmentesség a tanácsi előfeltételhez kötött. A helyes: az EUMSZ 105. cikk (3) bekezdése szerint a Bizottság csak akkor fogadhat el csoportmentességi rendeletet, ha a Tanács a 103. cikk (2) bekezdésének b) pontja szerint már elfogadott rendeletet vagy irányelvet; a csoportmentesség a 101. cikk (3) bekezdésének típusszintű alkalmazása. A tévedés a tanácsi kötöttséget elhagyja."
+        },
+        {
+          "text": "A 105. cikk szerinti vizsgálat csak tagállami kérelemre indulhat; hivatalbóli eljárás a Bizottság számára ki van zárva.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vizsgálat kérelemre és hivatalból is indulhat. A helyes: az EUMSZ 105. cikk (1) bekezdése szerint a Bizottság egy tagállam kérelmére vagy hivatalból — együttműködve a tagállamok hatáskörrel rendelkező hatóságaival — megvizsgálja a jogsértés gyanúját. Ha a jogsértés nem szűnik meg, a (2) bekezdés szerint indokolással ellátott határozatot hozhat, és a tagállamokat a helyzet orvoslására hatalmazhatja fel. A tévedés a hivatalbóli utat kizárja."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "f21db6a431fc"
+    },
+    {
+      "question": "Milyen kötelezettséget ró a tagállamokra az EUMSZ 106. cikk (1) bekezdése a közvállalkozások és a különleges vagy kizárólagos jogok tekintetében?",
+      "options": [
+        {
+          "text": "A tagállam nem hozhat és nem tarthat fenn a Szerződésekkel, különösen a 18. és a 101–109. cikkben foglalt szabályokkal ellentétes intézkedést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a tagállami intézkedésre is kiterjed. Az EUMSZ 106. cikk (1) bekezdése kifejezetten tiltja a Szerződésekkel ellentétes intézkedés meghozatalát és fenntartását a közvállalkozások, valamint a különleges vagy kizárólagos joggal felruházott vállalkozások esetében. A 2006/111/EK irányelv a (3) bekezdésen nyugvó információs eszköz. Az átláthatóság nélkül a köz- és tulajdonosi szerep elválasztása nem ellenőrizhető."
+        },
+        {
+          "text": "A 106. cikk (1) bekezdése csak a magánvállalkozásokra vonatkozik; a különleges joggal felruházott közvállalkozás szabadon mentesülhet a 101–109. cikk alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés éppen a közvállalkozásokat és a különleges joggal felruházottakat tartja a szabályok alatt. A helyes: az EUMSZ 106. cikk (1) bekezdése tiltja a Szerződésekkel, különösen a 18. és 101–109. cikkel ellentétes tagállami intézkedést e körben. A (2) bekezdés szerinti kivétel csak a rábízott feladat arányában, az Unió kereskedelmi érdekének sérelme nélkül nyílik. A tévedés az (1) bekezdés személyi körét megfordítja."
+        },
+        {
+          "text": "A közvállalkozások és a különleges vagy kizárólagos joggal felruházott vállalkozások nem esnek ki a Szerződések, különösen a 18. és a 101–109. cikk hatálya alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvállalkozás és a különleges jog nem mentesít a versenyszabályok alól. Az EUMSZ 106. cikk (1) bekezdése szerint a tagállamok nem hozhatnak és nem tarthatnak fenn a Szerződésekkel, különösen a 18. és 101–109. cikkben foglalt szabályokkal ellentétes intézkedéseket. A tulajdoni forma önmagában nem vonja ki a vállalkozást a tilalmak alól. A Bizottság a (3) bekezdés szerint e cikk őre."
+        },
+        {
+          "text": "A közvállalkozások automatikusan kívül esnek a 101–109. cikk hatálya alól, mert állami tulajdonban állnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állami tulajdon nem vonja ki a vállalkozást a versenyszabályok alól. A helyes: az EUMSZ 106. cikk (1) bekezdése szerint a közvállalkozások és a különleges vagy kizárólagos joggal felruházott vállalkozások esetében a tagállamok nem hozhatnak és nem tarthatnak fenn a Szerződésekkel, különösen a 18. és 101–109. cikkben foglalt szabályokkal ellentétes intézkedéseket. A tévedés a tulajdoni formát mentesítő címmé emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "97bf10b55628"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható teljeskörűen a versenyszabály a 106. cikk (2) bekezdése szerinti közérdekű kivétel alapján?",
+      "options": [
+        {
+          "text": "A kereskedelem fejlődését a kivétel nem befolyásolhatja olyan mértékben, amely ellentétes az Unió érdekeivel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kereskedelmi feltétel az Unió érdekét védi. Az EUMSZ 106. cikk (2) bekezdése második mondata szerint a kereskedelem fejlődését ez nem befolyásolhatja olyan mértékben, amely ellentétes az Unió érdekeivel. A 14. cikk — a 106. és 107. cikk sérelme nélkül — az általános gazdasági érdekű szolgáltatások közös értékbeli helyét rögzíti, de nem írja felül a versenyszabályokat. A kivétel tehát kettős szűrőn megy át: feladatarányosság és uniós kereskedelmi érdek."
+        },
+        {
+          "text": "A 14. cikk felülírja a 106. és 107. cikket, ezért az általános gazdasági érdekű szolgáltatás automatikusan mentesül a támogatási tilalom alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az általános gazdasági érdekű szolgáltatások közös értékbeli helye nem szünteti meg a verseny- és támogatási fegyelmet. A helyes: a 14. cikk — a 106. és 107. cikk sérelme nélkül — az általános gazdasági érdekű szolgáltatások közös értékbeli helyét és a kohézióban játszott szerepét rögzíti. A 106. cikk (2) bekezdése szerinti kivétel csak a rábízott feladat arányában, az Unió kereskedelmi érdekének sérelme nélkül nyílik. A tévedés a 14. cikket a tilalmakat felülíró címmé emeli."
+        },
+        {
+          "text": "A 106. cikk (2) bekezdése általános mentesítést ad minden közszolgáltatónak a 101–109. cikk alól, a rábízott feladat arányától függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivétel nem általános dispensatio minden közszolgáltató számára. A helyes: az EUMSZ 106. cikk (2) bekezdése szerint az általános gazdasági érdekű szolgáltatással megbízott vagy jövedelemtermelő monopol jellegű vállalkozás csak annyiban tartozik a versenyszabályok alá, amennyiben azok alkalmazása nem akadályozza a rábízott feladatot. A kereskedelem fejlődése emellett nem sértheti az Unió érdekét. A tévedés a kivételt általános felmentéssé bővíti."
+        },
+        {
+          "text": "Az általános gazdasági érdekű szolgáltatások működtetésével megbízott vagy jövedelemtermelő monopol jellegű vállalkozás csak annyiban tartozik a versenyszabályok alá, amennyiben azok alkalmazása sem jogilag, sem ténylegesen nem akadályozza a rá bízott sajátos feladat végrehajtását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kivétel a rábízott feladat arányában nyílik. Az EUMSZ 106. cikk (2) bekezdése szerint e vállalkozások „olyan mértékben tartoznak a Szerződések szabályai, különösen a versenyszabályok hatálya alá, amennyiben ezek alkalmazása sem jogilag, sem ténylegesen nem akadályozza a rájuk bízott sajátos feladatok végrehajtását.” A kivétel nem általános közszolgáltatási dispensatio. A túlkompenzáció, mivel nem szükséges a feladat ellátásához, összeegyeztethetetlen állami támogatás."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "67f592ec5676"
+    },
+    {
+      "question": "Milyen négy kumulatív elem teszi a belső piaccal összeegyeztethetetlenné az állami támogatást a 107. cikk (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A tényállás négy eleme — állami forrás, szelektivitás, versenytorzítás vagy annak veszélye, kereskedelmi érintettség — kumulatív; egyik hiányában nincs tilalom.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a négy elem együttesen kell. Az EUMSZ 107. cikk (1) bekezdése az állami forrást, a „bizonyos vállalkozás” vagy „bizonyos áru” előnyét, a versenytorzítást vagy annak veszélyét és a tagállamok közötti kereskedelem érintettségét együttesen követeli. A szelektivitás az általános intézkedéstől választja el a támogatást. A (2)–(3) bekezdés nem a tilalom tagadása, hanem szigorúan körülírt kimenet."
+        },
+        {
+          "text": "A tilalom a tagállamok által vagy állami forrásból bármilyen formában nyújtott olyan támogatásra vonatkozik, amely bizonyos vállalkozásokat vagy bizonyos áruk termelését előnyben részesítve torzítja a versenyt vagy azzal fenyeget, és érinti a tagállamok közötti kereskedelmet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés a szelektív állami előnyt tilalmazza. Az EUMSZ 107. cikk (1) bekezdése szerint „a belső piaccal összeegyeztethetetlen a tagállamok által vagy állami forrásból bármilyen formában nyújtott olyan támogatás”, amely bizonyos vállalkozásokat vagy áruk termelését előnyben részesítve torzítja a versenyt vagy azzal fenyeget, amennyiben érinti a tagállamok közötti kereskedelmet. A tényállás négy eleme — állami forrás, szelektivitás, versenytorzítás vagy annak veszélye, kereskedelmi érintettség — kumulatív. A szelektivitás az általános intézkedéstől választja el az előnyt."
+        },
+        {
+          "text": "Az állami támogatás tilalma csak akkor áll fenn, ha a verseny ténylegesen torzul; a torzulás veszélye önmagában nem elegendő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a torzulás veszélye is elegendő a tényálláshoz. A helyes: az EUMSZ 107. cikk (1) bekezdése a versenyt torzító vagy azzal fenyegető támogatást tilalmazza, ha az állami forrásból, szelektíven nyújtott előny érinti a tagállamok közötti kereskedelmet. A tévedés a „vagy azzal fenyeget” fordulatot kihagyja."
+        },
+        {
+          "text": "Elég az állami forrásból nyújtott előny; a szelektivitás és a kereskedelmi érintettség nem kumulatív feltétel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a négy elem kumulatív, nem elég az állami forrás. A helyes: az EUMSZ 107. cikk (1) bekezdése szerint a tilalomhoz állami forrás, bizonyos vállalkozás vagy áru előnyben részesítése (szelektivitás), versenytorzítás vagy annak veszélye és a tagállamok közötti kereskedelem érintettsége együttesen kell. A szelektivitás az általános intézkedéstől választja el a támogatást. A tévedés az állami forrást önmagában elegendővé teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "68a159691cdf"
+    },
+    {
+      "question": "Miben tér el a 107. cikk (2) bekezdése szerinti kógens összeegyeztethetőség a (3) bekezdés szerinti diszkrecionális körtől?",
+      "options": [
+        {
+          "text": "A (3) bekezdés automatikusan, bejelentés és bizottsági döntés nélkül mentesít minden regionális és kulturális támogatást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés diszkrecionális, nem automatikus mentesítés. A helyes: az EUMSZ 107. cikk (3) bekezdése szerint a támogatás a belső piaccal „összeegyeztethetőnek tekinthető”, ha a nevesített célok és a közös érdek / kereskedelmi feltétel fennáll; a 108. cikk (3) bekezdése az új támogatás előzetes bejelentését és a végrehajtási tilalmat mondja ki. A tévedés a diszkréciót automatikus felmentéssé alakítja."
+        },
+        {
+          "text": "A (2) és a (3) bekezdés egyaránt teljes bizottsági mérlegelést enged; a kógens és diszkrecionális elhatárolás megszűnt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés kógens, a (3) diszkrecionális. A helyes: az EUMSZ 107. cikk (2) bekezdése szerinti esetekben a Bizottság nem mérlegelheti el a minősítést, ha a törvényi ismérvek fennállnak; a (3) bekezdés szerinti körben a közös érdek és a kereskedelmi feltétel a mérce. A tévedés a két bekezdést azonos mérlegelési térre vonja."
+        },
+        {
+          "text": "A (2) bekezdés kógens összeegyeztethetőséget ad: diszkriminációmentes szociális fogyasztói támogatás, természeti csapás vagy rendkívüli esemény kárának helyreállítása, valamint a német felosztásból eredő hátrány ellensúlyozása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés törvényi ismérvek mellett kötelezően összeegyeztethetőnek minősít. Az EUMSZ 107. cikk (2) bekezdése a) pontja a származás szerinti megkülönböztetés nélküli szociális fogyasztói támogatást, b) pontja a természeti csapás vagy rendkívüli esemény kárának helyreállítását, c) pontja a német felosztásból eredő hátrány ellensúlyozását nevezi meg. Utóbbi a Lisszaboni Szerződés hatálybalépésétől számított öt év után tanácsi határozattal kivezethető. A Bizottság itt nem mérlegelheti el a minősítést, ha az ismérvek fennállnak."
+        },
+        {
+          "text": "A (3) bekezdés diszkrecionális: regionális fejlődés, közös európai érdekű projekt vagy súlyos gazdasági zavar, ágazati vagy területi fejlődés a közös érdek sérelme nélkül, kultúra, valamint a Tanács által meghatározott egyéb fajta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdésben a közös érdek és a kereskedelmi feltétel a mérce. Az EUMSZ 107. cikk (3) bekezdése a)–e) pontja a regionális fejlődést, a közös európai érdeket vagy a súlyos zavart, az ágazati vagy területi fejlődést, a kultúrát és a Tanács által meghatározott egyéb fajtát sorolja fel. A Bizottság itt mérlegelhet. A 109. cikk szerinti csoportmentesítés és a 108. cikk (4) bekezdése e diszkréciót típusszintre emelheti."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "d9060ddb04f5"
+    },
+    {
+      "question": "Mi következik abból, ha a tagállam új vagy módosított állami támogatást kíván nyújtani a 108. cikk (3) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Amíg a (2) bekezdés szerinti eljárásban végső határozat nem születik, az érintett tagállam a tervezett intézkedéseket nem hajthatja végre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a végrehajtási tilalom a tilalom hasznos hatását védi. Az EUMSZ 108. cikk (3) bekezdése kimondja: amíg végső határozat nem születik, a tervezett intézkedések nem hajthatók végre. Ha a tagállam a bejelentés előtt folyósít, a későbbi összeegyeztethetőség sem mossa el a jogsértő végrehajtást. A (4) bekezdés szerinti csoportmentesítés e bejelentési eljárás alól típusszinten mentesíthet."
+        },
+        {
+          "text": "Ha a Bizottság később összeegyeztethetőnek nyilvánítja a támogatást, a bejelentés nélküli előzetes folyósítás jogszerűvé válik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a későbbi összeegyeztethetőség nem mossa el a jogsértő végrehajtást. A helyes: az EUMSZ 108. cikk (3) bekezdése a végső határozatig végrehajtási tilalmat mond ki; ha a tagállam a bejelentés előtt folyósít, a későbbi összeegyeztethetőség sem mossa el a jogsértő végrehajtást. A tévedés a tilalom megsértését visszamenőlegesen igazolhatóvá teszi."
+        },
+        {
+          "text": "A Bizottságot az észrevételei megtételéhez szükséges időben tájékoztatni kell minden támogatás nyújtására és módosítására irányuló szándékról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az új vagy módosított támogatás előzetes bejelentéshez kötött. Az EUMSZ 108. cikk (3) bekezdése szerint a Bizottságot az észrevételei megtételéhez szükséges időben tájékoztatni kell. Ha a Bizottság úgy ítéli meg, hogy a szándék a 107. cikk értelmében nem egyeztethető össze a belső piaccal, haladéktalanul megindítja a (2) bekezdés szerinti eljárást. A bejelentés a végrehajtási tilalom előfeltétele."
+        },
+        {
+          "text": "Az új támogatás a Bizottság utólagos ellenőrzéséig szabadon folyósítható; előzetes bejelentés csak panasz esetén kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az új támogatás előzetes bejelentéshez és végrehajtási tilalomhoz kötött. A helyes: az EUMSZ 108. cikk (3) bekezdése szerint a Bizottságot tájékoztatni kell a támogatás nyújtására vagy módosítására irányuló szándékról, és amíg végső határozat nem születik, a tervezett intézkedés nem hajtható végre. A tévedés az előzetes kontrollt utólagos panaszos ellenőrzésre cseréli."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "f33b908685ba"
+    },
+    {
+      "question": "Mi következik abból, ha a tagállam a Bizottság 108. cikk (2) bekezdése szerinti megszüntető vagy módosító határozatának határidőn belül nem tesz eleget?",
+      "options": [
+        {
+          "text": "A Tanács minősített többséggel bármikor felülbírálhatja a Bizottság megszüntető határozatát rendes fellebbezésként.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tanácsi felülbírálat kivételes, egyhangú és rendkívüli körülményekhez kötött. A helyes: az EUMSZ 108. cikk (2) bekezdése szerint valamely tagállam kérelmére a Tanács egyhangúlag úgy határozhat, hogy a támogatást a belső piaccal összeegyeztethetőnek kell tekinteni, ha azt rendkívüli körülmények indokolják; három hónapos hallgatás után az ügyben a Bizottság határoz. A tévedés a politikai vészszelepet rendes fellebbezéssé alakítja."
+        },
+        {
+          "text": "A Bizottság vagy bármely érdekelt állam — a 258. és 259. cikk rendelkezéseitől eltérve — közvetlenül az Európai Unió Bíróságához fordulhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetlen bírósági út a támogatási döntés sajátos szankciója. Az EUMSZ 108. cikk (2) bekezdése szerint, ha az érintett állam a kitűzött határidőn belül nem szünteti meg vagy nem módosítja a támogatást, a Bizottság vagy bármely érdekelt állam a 258. és 259. cikktől eltérve közvetlenül a Bírósághoz fordulhat. A közvetlen kereset az infractionális út időigényét váltja ki. A támogatási döntés már a Bizottságé."
+        },
+        {
+          "text": "A határidő elmulasztása esetén csak a 258. cikk szerinti klasszikus kötelezettségszegési eljárás indítható; közvetlen kereset ki van zárva.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 108. cikk (2) bekezdése éppen a 258–259. cikktől eltérő közvetlen utat nyit. A helyes: az EUMSZ 108. cikk (2) bekezdése szerint a Bizottság vagy bármely érdekelt állam — a 258. és 259. cikk rendelkezéseitől eltérve — közvetlenül az Európai Unió Bíróságához fordulhat, ha a megszüntető vagy módosító határozatnak a tagállam nem tesz eleget. A tévedés a közvetlen keresetet kizárja."
+        },
+        {
+          "text": "A Bizottság azt követően, hogy felhívta az érintett feleket észrevételeik megtételére, határozhat úgy, hogy az állam köteles a támogatást megszüntetni vagy módosítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszüntetés vagy módosítás indokolással és határidővel jár. Az EUMSZ 108. cikk (2) bekezdése szerint, ha a Bizottság megállapítja, hogy a támogatás a 107. cikk értelmében nem egyeztethető össze a belső piaccal, vagy azt visszaélésszerűen használják fel, úgy határoz, hogy az állam a kitűzött határidőn belül köteles a támogatást megszüntetni vagy módosítani. A felek meghallgatása az eljárás része. A határidő elmulasztása nyitja a közvetlen bírósági utat."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "c35b3b948764"
+    },
+    {
+      "question": "Milyen rendeletalkotási felhatalmazást ad a 109. cikk, és mi a viszonya a 107. cikk tilalmához?",
+      "options": [
+        {
+          "text": "A 109. cikk nem írja felül a 107. cikk tilalmát, hanem annak eljárási és csoportos kezelését teszi lehetővé; a 108. cikk (3) bekezdése alóli mentesítés nem a tilalom alóli mentesítés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a csoportmentesítés az előzetes egyedi bejelentést váltja ki, nem a tilalmi ismérveket. Az EUMSZ 109. cikke a 107. és 108. cikk alkalmazására ad felhatalmazást, a 108. cikk (4) bekezdése pedig a Tanács által mentesíthetőnek ítélt csoportokra ad bizottsági rendeletet. A 107. cikk (1) bekezdésének állami forrás, szelektivitás, versenytorzítás és kereskedelmi érintettség ismérvei a csoportban is irányadók. Csak az előzetes egyedi bejelentés esik ki a 108. cikk (3) bekezdése alól."
+        },
+        {
+          "text": "A 109. cikk szerinti rendelet az Európai Parlamenttel közös együttdöntésben születik, nem konzultációs eljárásban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Parlamentet meghallgatják, de a rendelet nem együttdöntés tárgya. A helyes: az EUMSZ 109. cikke szerint a Tanács a Bizottság javaslata alapján és az Európai Parlamenttel folytatott konzultációt követően alkot rendeleteket; a konzultációs eljárás — nem a rendes jogalkotás — a támogatási fegyelem intézményközi súlyát mutatja. A tévedés a konzultációt együttdöntéssé emeli."
+        },
+        {
+          "text": "A 109. cikk szerinti tanácsi rendelet felülírja a 107. cikk (1) bekezdésének tilalmát, ezért a csoportba sorolt támogatás anyagi jogilag is mentes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tanácsi alkalmazási rendelet nem szünteti meg a tilalmi tényállást. A helyes: az EUMSZ 109. cikke a 107. és 108. cikk alkalmazására ad rendeletalkotási felhatalmazást; a 108. cikk (3) bekezdése alóli mentesítés nem a tilalom alóli mentesítés. A 107. cikk (1) bekezdésének ismérvei a csoportban is irányadók. A tévedés az eljárási mentesítést anyagi felmentéssé torzítja."
+        },
+        {
+          "text": "A Tanács a Bizottság javaslata alapján, az Európai Parlamenttel folytatott konzultációt követően megfelelő rendeleteket alkothat a 107. és 108. cikk alkalmazására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a támogatási fegyelem alkalmazásához tanácsi rendeletalkotási cím kell. Az EUMSZ 109. cikke szerint a Tanács a Bizottság javaslata alapján és az Európai Parlamenttel folytatott konzultációt követően megfelelő rendeleteket alkothat a 107. és 108. cikk alkalmazására. A felhatalmazás különösen a 108. cikk (3) bekezdésének alkalmazási feltételeit és az e bekezdés szerinti eljárás alól mentesülő támogatási fajtákat jelöli ki. A konzultációs eljárás — nem a rendes jogalkotás — az intézményközi súlyt mutatja."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "1f2acdf63b72"
+    },
+    {
+      "question": "Egy tagállam azt állítja, hogy a közösségi léptékű összefonódást a nemzeti versenyhatóság a 101. cikk alapján utólag is elbírálhatja. Mely megállapítások helytelenek?",
+      "options": [
+        {
+          "text": "A 101. és 102. cikk önmagában elegendő valamennyi, a torzulásmentes verseny rendszerével összeegyeztethetetlen szerkezeti átalakulás előzetes ellenőrzésére, ezért külön összefonódási rendelet nem kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magatartási tilalmak nem pótolják a szerkezeti előzetes kontrollt. A helyes: a Tanács 139/2004/EK rendelete — a Szerződés akkori 83. és elsősorban 308. cikke alapján — külön eszközt teremt, mert a 81. és 82. cikk nem elégséges valamennyi, a torzulásmentes verseny rendszerével összeegyeztethetetlen tevékenység ellenőrzésére. A 101. és 102. cikk a magatartást utólag szankcionálja; a piacszerkezet tartós átalakítását önmagában nem bírálja el előzetesen. A tévedés a magatartási tilalmakat teljes szerkezeti kontrollá emeli."
+        },
+        {
+          "text": "A Bizottságnak a rendelet alkalmazására nincs kizárólagos hatásköre; a felülvizsgálat sem a Bírósághoz tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság kizárólagos hatáskörrel rendelkezik, a felülvizsgálat a Bíróságé. A helyes: a 139/2004/EK rendelet — a Szerződés akkori 83. és 308. cikke alapján — szerint a Bizottságnak e rendelet alkalmazására kizárólagos hatáskörrel kell rendelkeznie, a felülvizsgálat pedig az Európai Unió Bírósága hatáskörébe tartozik. A közösségi léptékű összefonódás egyablakos uniós fórum elé tartozik. A tévedés a kizárólagosságot és a bírósági felülvizsgálatot tagadja."
+        },
+        {
+          "text": "A közösségi léptékű összefonódásra a tagállamok saját versenyjogukat főszabály szerint alkalmazhatják, párhuzamosan a Bizottsággal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közösségi léptékű ügy főszabály szerint kizárólag uniós szinten vizsgálandó. A helyes: a 139/2004/EK rendelet — a Szerződés akkori 83. és 308. cikke alapján — szerint a közösségi léptékű, határokon túlnyúló szerkezeti változások főszabály szerint kizárólag közösségi szinten, az egyablakos rendszert alkalmazva vizsgálandók. A tagállamok saját versenyjogukat e körben nem alkalmazhatják, kivéve ha a rendelet másképpen rendelkezik. A tévedés a párhuzamos nemzeti alkalmazást írja elő."
+        },
+        {
+          "text": "A közösségi léptékű összefonódás ellenőrzése a 101. cikk (3) bekezdésének hatékonysági mentességével azonos négyfeltételes teszten nyugszik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az összefonódás értékelése saját szerkezeti tesztet követ. A helyes: a 139/2004/EK rendelet szerint azt az összefonódást, amely különösen erőfölény létrehozása vagy megerősítése következményeként a közös piacon vagy annak jelentős részén a hatékony versenyt nem akadályozná jelentősen, összeegyeztethetőnek kell nyilvánítani; ellenkező esetben összeegyeztethetetlennek. A 101. cikk (3) bekezdésének négy együttes feltétele ide nem írható át. A tévedés a kartelltilalom hatékonysági mentességét írja rá a szerkezeti kontrollra."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "bcf7ee87a9f3"
+    },
+    {
+      "question": "Milyen másodlagos küszöbök jelölik ki a közösségi léptékű összefonódást a 139/2004/EK rendelet szerint?",
+      "options": [
+        {
+          "text": "A másodlagos küszöbök legalább három tagállam mindegyikében legalább két érintett vállalkozás huszonöt millió eurót meghaladó teljes forgalmát is magukban foglalják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a több tagállamos forgalmi küszöb a közösségi lépték egyik eleme. A 139/2004/EK rendelet — a Szerződés akkori 83. és elsősorban 308. cikke alapján — szerint a közösségi lépték másodlagos küszöbei legalább három tagállam mindegyikében legalább két érintett vállalkozás huszonöt millió eurót meghaladó teljes forgalmát foglalják magukban. Emellett legalább két érintett vállalkozás százmillió eurót meghaladó teljes közösségi szintű forgalma is kell. A kivétel: ha mindegyik vállalkozás közösségi forgalmának több mint kétharmadát egyazon tagállamban éri el."
+        },
+        {
+          "text": "A kétharmados kivétel azt jelenti, hogy ha a forgalom többsége egy tagállamban keletkezik, a közösségi lépték akkor is fennmarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kétharmados szabály a közösségi léptéket zárja ki. A helyes: a 139/2004/EK rendelet — a Szerződés akkori 83. és 308. cikke alapján — szerint a másodlagos küszöbök nem állítanak be közösségi léptéket, ha az érintett vállalkozások mindegyike teljes közösségi szintű forgalmának több mint kétharmadát egy és ugyanazon tagállamban éri el. Emellett a huszonöt és a százmillió eurós küszöbök együttes olvasata irányadó. A tévedés a kivételt fennmaradó közösségi léptékké fordítja."
+        },
+        {
+          "text": "Legalább két érintett vállalkozás százmillió eurót meghaladó teljes közösségi szintű forgalma is szükséges, kivéve ha az érintett vállalkozások mindegyike teljes közösségi szintű forgalmának több mint kétharmadát egy és ugyanazon tagállamban éri el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közösségi szintű forgalmi küszöb és a kétharmados kivétel együtt olvasandó. A 139/2004/EK rendelet — a Szerződés akkori 83. és 308. cikke alapján — a százmillió eurós közösségi forgalmi küszöböt rögzíti, de kizárja a közösségi léptéket, ha mindegyik érintett vállalkozás közösségi forgalmának több mint kétharmadát egyazon tagállamban éri el. A Bizottság 2009. július 1-jéig jelentést tesz a Tanácsnak a küszöbértékek alkalmazásáról. A Tanács a jelentést követően, minősített többséggel felülvizsgálhatja a küszöböket."
+        },
+        {
+          "text": "A közösségi léptékhez elegendő, ha egyetlen tagállamban egy vállalkozás huszonöt millió eurót meghaladó forgalmat ér el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a másodlagos küszöb több tagállamos és több vállalkozásos. A helyes: a 139/2004/EK rendelet — a Szerződés akkori 83. és 308. cikke alapján — szerint legalább három tagállam mindegyikében legalább két érintett vállalkozás huszonöt millió eurót meghaladó teljes forgalma, valamint legalább két érintett vállalkozás százmillió eurót meghaladó közösségi forgalma kell, kivéve a kétharmados egyazon tagállami koncentrációt. A közösségi léptékű ügy főszabály szerint egyablakos uniós fórum elé tartozik. A tévedés egyetlen tagállamos, egyvállalkozásos küszöböt állít."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "0f105ee8898f"
+    },
+    {
+      "question": "Milyen értékelési magot követ a Bizottság annak megállapítására, hogy az összefonódás összeegyeztethető-e a közös piaccal?",
+      "options": [
+        {
+          "text": "A köz- és a magánszféra közötti megkülönböztetés az összefonódás-értékelés kötelező kiindulópontja, a Szerződés 86. cikke (2) bekezdésének sérelme nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet a megkülönböztetésmentességet írja elő. A helyes: a 139/2004/EK rendelet szerint a köz- és a magánszféra közötti megkülönböztetésmentesség elvét a Szerződés 86. cikke (2) bekezdésének sérelme nélkül kell tiszteletben tartani; az értékelés magja a hatékony verseny jelentős akadályozásának vizsgálata. A tévedés a megkülönböztetést kötelező kiindulóponttá emeli."
+        },
+        {
+          "text": "Az összefonódás akkor is összeegyeztethető, ha a hatékony versenyt jelentősen akadályozza, feltéve hogy a felek hatékonysági előnyt állítanak a 101. cikk (3) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jelentős versenyakadályozás összeegyeztethetetlenséget eredményez. A helyes: a 139/2004/EK rendelet szerint, ha az összefonódás különösen erőfölény létrehozása vagy megerősítése következményeként a hatékony versenyt jelentősen akadályozná, összeegyeztethetetlennek kell nyilvánítani; a 101. cikk (3) bekezdésének négyfeltételes mentessége ide nem írható át. A tévedés a kartellmentességet szerkezeti felmentéssé alakítja."
+        },
+        {
+          "text": "Azt az összefonódást, amely különösen erőfölény létrehozása vagy megerősítése következményeként a közös piacon vagy annak egy jelentős részén a hatékony versenyt nem akadályozná jelentősen, a közös piaccal összeegyeztethetőnek kell nyilvánítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet a jelentős versenyakadályozás tesztjét köti az erőfölényhez. A 139/2004/EK rendelet — a Szerződés akkori 83. és 308. cikke alapján — szerint, ha az összefonódás különösen erőfölény létrehozása vagy megerősítése következményeként a hatékony versenyt nem akadályozná jelentősen, összeegyeztethetőnek kell nyilvánítani. Ellenkező esetben összeegyeztethetetlennek. A Bizottságnak a piacszerkezetet, a tényleges vagy potenciális versenyt és a fogyasztói érdeket is figyelembe kell vennie."
+        },
+        {
+          "text": "A Bizottságnak figyelembe kell vennie a közös piacon a hatékony verseny fenntartásának és továbbfejlesztésének szükségességét, ideértve a piacszerkezetet, a belépési akadályokat, a fogyasztói érdeket és a műszaki-gazdasági fejlődést, feltéve hogy ez a fogyasztónak előnyös, és nem akadályozza a versenyt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az értékelés több tényezős, nem pusztán forgalmi. A 139/2004/EK rendelet — a Szerződés akkori 83. és 308. cikke alapján — szerint a Bizottság figyelembe veszi a piacszerkezetet, a tényleges vagy potenciális versenyt, az érintett vállalkozások piaci helyzetét és gazdasági erejét, a belépési akadályokat, a fogyasztói érdeket és a műszaki-gazdasági fejlődést. A fejlődés csak akkor számít, ha a fogyasztónak előnyös, és nem akadályozza a versenyt. Az összefonódással közvetlenül összefüggő szükséges versenykorlátozásokra az összeegyeztethetőséget kimondó határozat automatikusan kiterjed."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "93d4933e0e36"
+    },
+    {
+      "question": "Milyen információs célt szolgál a Bizottság 2006/111/EK irányelve, és milyen elszámolási kötelezettséget ír elő?",
+      "options": [
+        {
+          "text": "Az elkülönített elszámolás minden, kizárólag általános gazdasági érdekű szolgáltatást nyújtó vállalkozásra is kötelező, egyéb tevékenység hiányában is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a csak közérdekű szolgáltatást nyújtó vállalkozás ki van véve. A helyes: a 2006/111/EK irányelv — a 106. cikk (3) bekezdése szerinti bizottsági eszköz — szerint nem vonatkozik a kötelezettség arra a vállalkozásra, amely tevékenysége az általános gazdasági érdekű szolgáltatásra korlátozódik, és azon kívül nem végez tevékenységet. Az elkülönítés a különleges jog / közérdekű szolgáltatás és az egyéb tevékenységek között kell. A tévedés a kivételt megszünteti."
+        },
+        {
+          "text": "Elkülönített elszámolásokat kell biztosítani egyrészt azon termékek és szolgáltatások vonatkozásában, amelyekre a tagállam különleges vagy kizárólagos jogot biztosított, illetőleg amelyekkel a vállalkozást általános gazdasági érdekű szolgáltatás nyújtásával bízta meg, másrészt a vállalkozás egyéb tevékenységeire.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elkülönítés a költségeket, bevételeket és a megosztási módszereket is bemutatja. A 2006/111/EK irányelv — a Szerződés akkori 86. cikkének (3) bekezdése, ma a 106. cikk (3) bekezdése alapján — szerint az elkülönített elszámolásnak be kell mutatnia a költségeket, a bevételeket, valamint a kijelölés és megosztás módszereit. Nem vonatkozik a kötelezettség arra a vállalkozásra, amely tevékenysége az általános gazdasági érdekű szolgáltatásra korlátozódik. Ha az ellenszolgáltatást nyílt, átlátható és esélyegyenlőségen alapuló eljárás rögzítette, az elkülönítés nem tűnik szükségesnek."
+        },
+        {
+          "text": "Az irányelv a 101. cikk tilalmának anyagi jogi forrása, és a kartellsemmisséget is szabályozza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelv információs eszköz, nem a tilalom anyagi forrása. A helyes: a 2006/111/EK irányelv a 106. cikk (3) bekezdése szerinti bizottsági eszköz a pénzügyi átláthatósághoz; a tilalom forrása az EUMSZ 101–109. cikke és a rendeletek, nem az irányelv. A tévedés az átláthatósági irányelvet kartelltilalmi forrássá emeli."
+        },
+        {
+          "text": "Az irányelv a tagállamok és a közvállalkozások közötti pénzügyi kapcsolatok átláthatóságáról, illetve egyes vállalkozások pénzügyi átláthatóságáról a 106. cikk végrehajtásának információs eszköze.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv a 106. cikk (3) bekezdésén nyugvó információs feltétel. A 2006/111/EK irányelv jogalapja a Szerződés akkori 86. cikkének (3) bekezdése: a Bizottságnak a cikk betartásához szükséges információval kell rendelkeznie. A tulajdoni rendre vonatkozó szabályokat az irányelv nem sérti. A köz- és a magánvállalkozásokat a versenyszabályok alkalmazása során indokolatlanul megkülönböztetni nem szabad."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "a2013d6fff36"
+    },
+    {
+      "question": "Mit intézményesít a 1/2003/EK rendelet a 101. és 102. cikk alkalmazásában a nemzeti bíróságok és versenyhatóságok szintjén?",
+      "options": [
+        {
+          "text": "A 81. cikk (1) bekezdése alá tartozó megállapodást a nemzeti jog nem tilthatja meg, ha a közösségi versenyjog sem tiltja; a vállalkozások egyoldalú magatartására azonban szigorúbb nemzeti szabály fenntartható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megállapodásoknál a közösségi engedékenység védelmet ad, az unilaterális magatartásnál szigorúbb nemzeti szabály megmaradhat. A 1/2003/EK rendelet szerint a 81. cikk (1) bekezdése alá tartozó megállapodást a nemzeti jog nem tilthatja meg, ha a közösségi versenyjog sem tiltja. Az egyoldalú magatartásra szigorúbb nemzeti szabály fenntartható, ideértve a gazdaságilag függő vállalkozásokkal szembeni visszaélést. A tisztességtelen kereskedelmi gyakorlatot tiltó, eltérő célú nemzeti szabályok nem záródnak ki, ha összeegyeztethetők a közösségi jog általános elveivel."
+        },
+        {
+          "text": "A rendelet a 101. és 102. cikk — a rendelet nyelvén: a Szerződés 81. és 82. cikke — közvetlen, teljes körű alkalmazását a nemzeti bíróságok és versenyhatóságok szintjén intézményesíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a végrehajtás decentralizálódik a közvetlen alkalmazással. A 1/2003/EK rendelet a nemzeti bíróságok számára a magánjogi jogvitákban — ideértve a kártérítést — is megnyitja a közösségi jog szerinti alanyi jogok védelmét. Ha a tagállamok közötti kereskedelmet érintő megállapodásra a nemzeti versenyjogot alkalmazzák, a 81. és 82. cikket is alkalmazni kell. A rendelet így kiegészíti a versenyhatóságok közjogi érvényesítését."
+        },
+        {
+          "text": "A nemzeti bíróságok csak a Bizottság előzetes engedélye után alkalmazhatják a 101. és 102. cikket magánjogi jogvitában.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet a közvetlen, teljes körű nemzeti alkalmazást intézményesíti. A helyes: a 1/2003/EK rendelet a Szerződés 81. és 82. cikkének teljes körű alkalmazását a nemzeti bíróságok számára is megnyitja, ideértve a kártérítést; a nemzeti bíróságok a magánjogi jogvitákban védik a közösségi jog szerinti alanyi jogokat. A tévedés bizottsági előzetes engedélyhez köti a bírói alkalmazást."
+        },
+        {
+          "text": "Ha a közösségi versenyjog nem tilt egy megállapodást, a nemzeti jog akkor is szabadon megtilthatja azt a 81. cikk (1) bekezdése alá tartozó körben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közösségi engedékenység védi a megállapodást a szigorúbb nemzeti tilalomtól. A helyes: a 1/2003/EK rendelet szerint a 81. cikk (1) bekezdése alá tartozó megállapodást a nemzeti jog nem tilthatja meg, ha a közösségi versenyjog sem tiltja; az egyoldalú magatartásra viszont szigorúbb nemzeti szabály fenntartható. A tévedés a megállapodásoknál megengedi a szigorúbb nemzeti tilalmat."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "c3d96c16d331"
+    },
+    {
+      "question": "Mit jelent az EUMSZ 3. cikk (2) bekezdése szerinti nemzetközi szerződéskötési kizárólagosság a versenyszabályok védelme szempontjából?",
+      "options": [
+        {
+          "text": "A tagállamok a belső versenyszabályoktól eltérő nemzetközi megállapodást szabadon köthetnek, mert a 3. cikk (2) bekezdése csak a vámunióra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés a közös szabályokat érintő megállapodásokra is kiterjed. A helyes: az EUMSZ 3. cikk (2) bekezdése szerint az Unió kizárólagos hatáskörrel rendelkezik nemzetközi megállapodás megkötésére, ha azt uniós jogalkotási aktus írja elő, a belső hatáskörgyakorláshoz szükséges, vagy a közös szabályokat érinti; az (1) bekezdés b) pontja a versenyszabályokat is kizárólagossá teszi. A tévedés a (2) bekezdést a vámunióra szűkíti."
+        },
+        {
+          "text": "A nemzetközi szerződéskötési kizárólagosság csak akkor áll fenn, ha a tagállamok egyhangúlag átruházzák azt; a 3. cikk (2) bekezdése önmagában nem elégséges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kizárólagosság a szerződési hatásköri címből következik, nem külön egyhangú átruházásból. A helyes: az EUMSZ 3. cikk (2) bekezdése közvetlenül rögzíti a nemzetközi megállapodási kizárólagosságot a nevesített feltételekkel, és ezzel védi az (1) bekezdés b) pontja szerinti versenyszabályokat a külső megkerüléstől. A tévedés pótlólagos egyhangú átruházást kíván."
+        },
+        {
+          "text": "A nemzetközi szerződéskötési kizárólagosság megakadályozza, hogy a tagállamok külső megállapodással gyengítsék a belső versenyszabályokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a külső megállapodás nem lehet a belső tilalmak megkerülésének eszköze. Az EUMSZ 3. cikk (1) bekezdésének b) pontja a versenyszabályok megállapítását kizárólagos uniós hatáskörbe helyezi, a (2) bekezdés pedig a nemzetközi megállapodásokra is kiterjeszti a kizárólagosságot a nevesített feltételekkel. A Bizottság központi érvényesítő szerepe ehhez a címhez igazodik. A közösségi léptékű összefonódást ezért egyetlen uniós fórum bírálja el."
+        },
+        {
+          "text": "Az Unió akkor is kizárólagos hatáskörrel rendelkezik nemzetközi megállapodás megkötésére, ha annak megkötését uniós jogalkotási aktus írja elő, ha a belső hatáskörgyakorláshoz szükséges, vagy ha a közös szabályokat érinti, illetve azok alkalmazási körét megváltoztathatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a belső kizárólagosságot kifelé is védi. Az EUMSZ 3. cikk (2) bekezdése három esetben rögzíti a nemzetközi megállapodási kizárólagosságot: uniós jogalkotási aktus előírása, a belső hatáskörgyakorláshoz szükségesség, illetve a közös szabályok érintése vagy alkalmazási körük megváltoztatása. A nemzetközi szerződéskötési kizárólagosság megakadályozza, hogy a tagállamok külső megállapodással gyengítsék a belső versenyszabályokat. A 3. cikk így a versenyjog funkcióját alkotmányos szinten rögzíti."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "beed2f1b1e69"
+    },
+    {
+      "question": "Milyen átmeneti hatáskörmegosztást rögzít a 104. cikk, és mi a mai jelentősége?",
+      "options": [
+        {
+          "text": "A 104. cikk szerint a 101. cikk (3) bekezdése csak a Bizottság központi engedélye után válhatott mércévé; az átmenet idején a mentesség anyagi tartalma még nem érvényesült.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átmenet idején a (3) bekezdés már a tagállami döntés mércéje volt. A helyes: az EUMSZ 104. cikke a 101. cikk — különösen annak (3) bekezdése — és a 102. cikk szerint engedte a tagállami döntést, így a mentesség anyagi jogi tartalma megelőzte a központi engedélyezési rendet; a 1/2003/EK rendelet ezt közvetlen alkalmazással teljesítette ki. A tévedés a mentességet későbbi bizottsági kegyre tolja."
+        },
+        {
+          "text": "A 104. cikk nem a tilalom gyengítése, hanem a végrehajtás folyamatosságának biztosítéka volt; a 1/2003/EK rendelet a (3) bekezdést közvetlenül alkalmazhatóvá téve ezt a logikát teljesítette ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átmeneti szabály a mentesség anyagi tartalmát a központi engedélyezés előtt is érvényesítette. Az EUMSZ 104. cikke a 101. cikk (3) bekezdését már az átmenet idején mércévé tette, nem pedig későbbi bizottsági keggyé. A 1/2003/EK rendelet a (3) bekezdést közvetlenül alkalmazhatóvá tette. A végrehajtás súlypontja ma a 103. és 105. cikkre, valamint a tanácsi rendeletekre került."
+        },
+        {
+          "text": "A 103. cikk szerinti tanácsi aktusok hatálybalépéséig a tagállami hatóságok saját joguk, valamint a 101. cikk — különösen annak (3) bekezdése — és a 102. cikk szerint dönthettek a megállapodások megengedhetőségéről és az erőfölénnyel való visszaélésről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átmenet a tilalmakat nem hagyta üresen. Az EUMSZ 104. cikke szerint a 103. cikk alapján elfogadott rendelkezések hatálybalépéséig a tagállamok hatóságai országuk jogának megfelelően, valamint a 101. és 102. cikk rendelkezéseinek megfelelően döntöttek. A 104. cikk a 101. cikk (3) bekezdését már az átmenet idején a tagállami döntés mércéjévé tette. A rendelkezés ma elsősorban történeti-rendszertani jelentőségű."
+        },
+        {
+          "text": "A 104. cikk ma is a fő végrehajtási cím: a nemzeti hatóságok kizárólag e cikk alapján, a Bizottság megkerülésével döntenek a 101. és 102. cikk alkalmazásáról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átmeneti szabály ma nem a fő végrehajtási cím. A helyes: az EUMSZ 104. cikke a 103. cikk szerinti tanácsi aktusok hatálybalépéséig adott átmeneti hatáskört a tagállami hatóságoknak. A közvetlen alkalmazás kiteljesedése után a végrehajtás súlypontja a 103. és 105. cikkre, valamint a tanácsi rendeletekre, ideértve a 1/2003/EK rendeletet, került. A tévedés az átmeneti szabályt hatályos főcímmé emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "177a75ec7bc3"
+    },
+    {
+      "question": "Mikor minősül a közszolgáltatás ellenszolgáltatása túlkompenzációnak, és milyen támogatási következménnyel jár?",
+      "options": [
+        {
+          "text": "A túlkompenzáció a 106. cikk (2) bekezdése szerinti védett ellenszolgáltatás, ezért a 107. cikk tilalma rá nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a túlkompenzáció nem védett ellenszolgáltatás. A helyes: mivel a többlet nem szükséges az általános gazdasági érdekű szolgáltatás nyújtásához, összeegyeztethetetlen állami támogatás a 107. cikk szerint, és nem a 106. cikk (2) bekezdése szerinti védett ellenszolgáltatás; a közlemény a 106–107. cikk alkalmazásának bizottsági mércéje. A tévedés a többletet a közérdekű kivétel alá vonja."
+        },
+        {
+          "text": "A közlemény primer jogforrás, amely a 107. cikk (1) bekezdésének tilalmát felülírja a közszolgáltatások körében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közlemény nem primer jogforrás, és nem írja felül a tilalmat. A helyes: a közszolgáltatás ellenszolgáltatásáról szóló bizottsági közlemény a 106. cikk (2) bekezdése és a 107. cikk alkalmazásának bizottsági mércéje. A túlkompenzáció összeegyeztethetetlen állami támogatás, mert nem szükséges a feladat ellátásához. A tévedés a közleményt a szerződési tilalom fölé emeli."
+        },
+        {
+          "text": "Mivel a túlkompenzáció nem szükséges az általános gazdasági érdekű szolgáltatás nyújtásához, összeegyeztethetetlen állami támogatás, nem pedig a 106. cikk (2) bekezdése szerinti védett ellenszolgáltatás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a túlkompenzáció nem fér bele a közérdekű kivétel védelmébe. Az EUMSZ 106. cikk (2) bekezdése csak a rábízott feladat arányában nyit kivételt, a 107. cikk (1) bekezdése pedig a szelektív állami előnyt tilalmazza. A közlemény szerinti többlet ezért összeegyeztethetetlen állami támogatás. A közlemény nem primer jog, hanem a 106–107. cikk alkalmazásának bizottsági mércéje."
+        },
+        {
+          "text": "Túlkompenzáció az az ellenszolgáltatás, amelyben a vállalkozás a közleményben meghatározott támogatási összegen túl részesül a szerződés teljes időtartama alatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a túlkompenzáció a szükséges mértéken felüli ellenszolgáltatás. A közszolgáltatás ellenszolgáltatásáról szóló bizottsági közlemény a 106. cikk (2) bekezdéséhez és a 107. cikkhez kapcsolódik. Mivel a többlet nem szükséges az általános gazdasági érdekű szolgáltatás nyújtásához, összeegyeztethetetlen állami támogatás. A 2.1–2.8. szakasz követelményei rendszerint elégségesek annak biztosításához, hogy a támogatás ne torzítsa a versenyt az Unió érdekeivel ellentétes módon."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "caebde649c32"
+    },
+    {
+      "question": "Egy magyar vállalkozás azt állítja, hogy a versenykorlátozást ma is az Európa-megállapodás 62. cikke szerinti utaló szabállyal kell elbírálni. Mely megállapítások helytelenek?",
+      "options": [
+        {
+          "text": "A csatlakozás után is az Európa-megállapodás 62. cikke a hatályos forrás, mert a 101–109. cikk csak programjellegű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a csatlakozás után a hatályos forrás a közvetlenül alkalmazandó EUMSZ és a rendeletek. A helyes: az EUMSZ 101–109. cikke és a rendeletek a magyar jogalkalmazó számára közvetlenül hatályos uniós jog; az Európa-megállapodás 62. cikke a csatlakozás előtti utaló mechanizmus, ma nem a hatályos forrás. A tévedés az utaló szabályt hatályban tartja."
+        },
+        {
+          "text": "A 30/1998. (VI. 25.) AB határozat ratioja ma is azt jelenti, hogy a versenyjogi tilalmak külföldi közjogként transzformáció nélkül nem alkalmazhatók a magyar versenyhatóság előtt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozat a csatlakozás előtti helyzetet rögzíti. A helyes: a 30/1998. (VI. 25.) AB határozat a csatlakozás előtti utaló mechanizmust elemezte; a csatlakozás után a 101–109. cikk és a rendeletek közvetlenül hatályos uniós jogként érvényesülnek, a határozat ma a jogforrási hierarchia értelmét adja. A tévedés a csatlakozás előtti ratioát hatályos alkalmazási akadályként kezeli."
+        },
+        {
+          "text": "Az Unió versenyjoga ágazati dísz, nem pedig a belső piac kizárólagos uniós hatáskörben védett működési feltétele.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a versenyjog a belső piac működési feltétele. A helyes: az EUMSZ 3. cikk (1) bekezdésének b) pontja szerinti kizárólagos hatáskörben a 101–109. cikk és a rendeletek a torzulásmentes versenyt védik; a versenyjog nem ágazati dísz, hanem a belső piac kizárólagos uniós hatáskörben védett működési feltétele. A tévedés a funkciót dekoratív szabállyá fokozza le."
+        },
+        {
+          "text": "A magyar jogalkalmazó a versenyjogot ma a csatlakozás előtti Európa-megállapodás utaló szabályán keresztül érvényesíti, nem a közvetlenül hatályos szerződési cikkeken.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magyar jogalkalmazó ma a közvetlenül hatályos szerződési cikkeken és a rendeleteken keresztül érvényesíti a rendet. A helyes: az EUMSZ 101–109. cikke és a rendeletek közvetlenül hatályosak; az Európa-megállapodás 62. cikke történeti utaló mechanizmus, a 30/1998. (VI. 25.) AB határozat pedig a csatlakozás előtti helyzetet rögzíti. A tévedés az utaló utat hatályos úttá emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "c0cb3fbbec91"
+    },
+    {
+      "question": "Két versenytárs az eladási árakat egyezteti, és a megállapodás hatással lehet a tagállamok közötti kereskedelemre. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "Az árrögzítés a 101. cikk (1) bekezdése szerinti példálódzó tilalmi maghoz tartozik, ha a kereskedelmi érintettség és a versenykorlátozás fennáll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az árrögzítés a példálódzó lista élén áll. Az EUMSZ 101. cikk (1) bekezdésének a) pontja különösen a beszerzési vagy eladási árak közvetlen vagy közvetett rögzítését nevezi meg. A tilalomhoz a tagállamok közötti kereskedelem érintettsége és a belső piaci verseny célzott vagy hatásalapú korlátozása együttesen kell. A példálódzás nem zárja ki az egyéb versenykorlátozást."
+        },
+        {
+          "text": "Ha a felek hatékonysági előnyt állítanak, a 101. cikk (3) bekezdése automatikusan, bizonyítás nélkül mentesít az árrögzítés tilalma alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mentesség négy együttes, bizonyítandó feltételhez kötött. A helyes: az EUMSZ 101. cikk (3) bekezdése a termelés vagy forgalmazás javítását, a fogyasztók méltányos részesedését, a nélkülözhetetlennél nem súlyosabb korlátozást és a verseny ki nem iktatását együttesen követeli; a vállalkozás viseli annak kockázatát, hogy a feltételek fennállnak-e. A tévedés a mentességet automatikus felmentéssé alakítja."
+        },
+        {
+          "text": "A tiltott megállapodás a 101. cikk (2) bekezdése szerint semmis, ezért a tilos kikötés a nemzeti bíróság előtt sem érvényesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a semmisség polgári jogi szankcióként jár. Az EUMSZ 101. cikk (2) bekezdése szerint „Az e cikk alapján tiltott megállapodás vagy döntés semmis.” A semmisség erga omnes; a 1/2003/EK rendelet a nemzeti bíróságok magánjogi alkalmazását is megnyitja. A közjogi bírság lehetősége a 103. cikk (2) bekezdésének a) pontján nyugvó végrehajtási rendszerből következik."
+        },
+        {
+          "text": "Az árrögzítés csak akkor tilos, ha írásbeli kartellszerződésben rögzítik; szóbeli egyeztetés vagy összehangolt magatartás kívül esik a 101. cikken.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom a megállapodásra, a társulási döntésre és az összehangolt magatartásra egyaránt kiterjed. A helyes: az EUMSZ 101. cikk (1) bekezdése a vállalkozások közötti megállapodást, a társulási döntést és az összehangolt magatartást tiltja, ha a kereskedelmi érintettség és a versenykorlátozás fennáll; az árrögzítés a példálódzó lista a) pontja. A tévedés a tilalmat írásbeli formára szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "febf30f0e0a3"
+    },
+    {
+      "question": "A forrásrendszer szerint mi az EUMSZ és a másodlagos jog szerepe a versenyjogban?",
+      "options": [
+        {
+          "text": "Az EUMSZ a tilalmat, a semmisséget, a mentességet, az összeegyeztethetőséget és az intézményi hatáskört mondja ki; a tanácsi és bizottsági aktusok a küszöböt, az eljárást, a csoportmentességet és az információs kötelezettséget adják hozzá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a forrásrendszer többszintű. Az EUMSZ 101–109. cikke a tilalmi és intézményi magot adja, a Tanács 139/2004/EK rendelete a szerkezeti küszöböt és eljárást, a 1/2003/EK rendelet a közvetlen alkalmazást, a 2006/111/EK irányelv pedig a pénzügyi átláthatóságot. Az irányelv a 106. cikk (3) bekezdése szerinti bizottsági eszköz, nem a tilalom forrása. A magyar jogalkalmazó ma a közvetlenül hatályos szerződési cikkeken és a rendeleteken keresztül érvényesíti e rendet."
+        },
+        {
+          "text": "A tanácsi és bizottsági aktusok felülírhatják az EUMSZ 107. cikk (1) bekezdésének tilalmát, ha eljárási egyszerűsítést szolgálnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a másodlagos jog az alkalmazást bontja ki, nem a tilalmat írja felül. A helyes: az EUMSZ a tilalmat és az intézményi hatáskört mondja ki, a tanácsi és bizottsági aktusok a küszöböt, az eljárást, a csoportmentességet és az információs kötelezettséget adják hozzá; a 109. cikk szerinti csoportmentesítés sem mentesít anyagi jogilag a 107. cikk ismérvei alól. A tévedés az eljárási aktust tilalomfelülíró címmé teszi."
+        },
+        {
+          "text": "A 2006/111/EK irányelv a 106. cikk (3) bekezdése szerinti bizottsági eszköz, nem a tilalom forrása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv információs, nem anyagi tilalmi forrás. Az EUMSZ 106. cikk (3) bekezdése a Bizottságot e cikk őrévé teszi, és felhatalmazza irányelv vagy határozat intézésére; ezen a címen nyugszik a 2006/111/EK irányelv. A tilalmat a 101–109. cikk és a rendeletek mondják ki. Az elkülönített elszámolás nélkül a közvállalkozási kivétel és az állami támogatás nem ellenőrizhető."
+        },
+        {
+          "text": "A versenyjog forrása egyszintű: elegendő a 2006/111/EK irányelv, mert az tartalmazza a kartelltilalmat és az állami támogatási tilalmat is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a forrásrendszer nem egyszintű, és az irányelv nem a tilalom forrása. A helyes: az EUMSZ 101–109. cikke mondja ki a tilalmat, a semmisséget, a mentességet és az összeegyeztethetőséget; a 2006/111/EK irányelv a 106. cikk (3) bekezdése szerinti átláthatósági eszköz. A tévedés az irányelvet egyszintű anyagi forrássá emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "0ea04d478ee4"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a 108. cikk (3) bekezdése szerinti egyedi előzetes bejelentés a támogatási csoportokra?",
+      "options": [
+        {
+          "text": "A Bizottság a Tanács 109. cikk szerinti előzetes minősítése nélkül is szabadon mentesíthet bármely támogatási fajtát a 108. cikk (3) bekezdése alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizottsági csoportmentesítés a tanácsi előzetes minősítéshez kötött. A helyes: az EUMSZ 108. cikk (4) bekezdése szerint a Bizottság csak azon csoportokra fogadhat el rendeletet, amelyeket a Tanács a 109. cikknek megfelelően a (3) bekezdés szerinti eljárás alól mentesíthetőnek ítélt; a 107. cikk ismérvei továbbra is irányadók. A tévedés a tanácsi kötöttséget elhagyja."
+        },
+        {
+          "text": "A Bizottság rendeleteket fogadhat el az állami támogatások azon csoportjaira vonatkozóan, amelyeket a Tanács a 109. cikknek megfelelően a 108. cikk (3) bekezdésében említett eljárás alól mentesíthetőnek ítélt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a csoportos mentesítés a bejelentési eljárás alól emel ki. Az EUMSZ 108. cikk (4) bekezdése szerint a Bizottság rendeleteket fogadhat el a Tanács 109. cikk szerinti előzetes minősítéséhez kötve. Ez a 105. cikk (3) bekezdésének állami támogatási párja: típusszintű mentesítés. A 107. cikk (1) bekezdésének állami forrás, szelektivitás, versenytorzítás és kereskedelmi érintettség ismérvei a csoportban is irányadók."
+        },
+        {
+          "text": "A 109. cikk különösen a 108. cikk (3) bekezdésének alkalmazási feltételeit és az ez alól az eljárás alól mentesülő támogatási fajtákat jelöli ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tanács határozza meg a mentesíthető fajtákat, a Bizottság bontja ki őket. Az EUMSZ 109. cikke a Bizottság javaslata alapján, az Európai Parlamenttel folytatott konzultációt követően ad rendeletalkotási felhatalmazást. A 108. cikk (4) bekezdése e csoportokra ad bizottsági rendeletet. A 108. cikk (3) bekezdése alóli mentesítés nem a tilalom alóli mentesítés."
+        },
+        {
+          "text": "A 108. cikk (4) bekezdése szerinti csoportmentesítés a 107. cikk (1) bekezdésének tilalmát is megszünteti a csoportba sorolt támogatásoknál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a csoportmentesítés az előzetes egyedi bejelentést váltja ki, nem a tilalmat. A helyes: az EUMSZ 108. cikk (4) bekezdése és a 109. cikk a 108. cikk (3) bekezdése alóli mentesítést teszi lehetővé; a 107. cikk (1) bekezdésének ismérvei a csoportban is irányadók, csak az előzetes egyedi bejelentés esik ki. A tévedés az eljárási mentesítést anyagi felmentéssé torzítja."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "874306541d62"
+    },
+    {
+      "question": "Egy tagállam közvállalkozásának különleges jogot ad, és azt állítja, hogy ezzel a 101–109. cikk alól teljesen kikerül. Mely állítások helytelenek?",
+      "options": [
+        {
+          "text": "A különleges jog automatikusan mentesít a 101–109. cikk alól, mert a 106. cikk (1) bekezdése csak a magánvállalkozásokra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a különleges jog nem mentesít automatikusan. A helyes: az EUMSZ 106. cikk (1) bekezdése szerint a közvállalkozások és a különleges vagy kizárólagos joggal felruházott vállalkozások esetében a tagállamok nem hozhatnak és nem tarthatnak fenn a Szerződésekkel, különösen a 18. és 101–109. cikkel ellentétes intézkedéseket. A tévedés az (1) bekezdés személyi körét megfordítja."
+        },
+        {
+          "text": "A túlkompenzáció a 106. cikk (2) bekezdése szerinti védett ellenszolgáltatás, ezért a 107. cikk tilalma rá soha nem vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a túlkompenzáció összeegyeztethetetlen állami támogatás. A helyes: mivel a közlemény szerinti többlet nem szükséges az általános gazdasági érdekű szolgáltatás nyújtásához, a 107. cikk szerinti összeegyeztethetetlen állami támogatás, nem pedig a 106. cikk (2) bekezdése szerinti védett ellenszolgáltatás. A tévedés a többletet a közérdekű kivétel alá vonja."
+        },
+        {
+          "text": "A Bizottság a 106. cikk (3) bekezdése alapján nem intézhet irányelvet vagy határozatot a tagállamokhoz e szabályok betartása érdekében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés éppen a Bizottságot teszi a cikk őrévé. A helyes: az EUMSZ 106. cikk (3) bekezdése szerint a Bizottság biztosítja e cikk rendelkezéseinek alkalmazását, és szükség esetén megfelelő irányelveket vagy határozatokat intéz a tagállamokhoz; ezen a címen nyugszik a 2006/111/EK irányelv. A tévedés a bizottsági őri eszközöket tagadja."
+        },
+        {
+          "text": "A 106. cikk (2) bekezdése szerinti kivétel a különleges jog puszta megléte alapján, a rábízott feladat arányának vizsgálata nélkül nyílik meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivétel csak a rábízott feladat arányában nyílik. A helyes: az EUMSZ 106. cikk (2) bekezdése szerint az általános gazdasági érdekű szolgáltatással megbízott vagy jövedelemtermelő monopol jellegű vállalkozás csak annyiban tartozik a versenyszabályok alá, amennyiben azok alkalmazása nem akadályozza a rábízott feladatot, és a kereskedelem nem sértheti az Unió érdekét. A tévedés a kivételt a különleges jog puszta meglétéhez köti."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "097723dd834d"
+    }
+  ]
+}

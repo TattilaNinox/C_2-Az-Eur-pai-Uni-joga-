@@ -1,0 +1,1251 @@
+{
+  "id": "4XDx6BomItLiFp8J8J32",
+  "sorszam": 16,
+  "cim": "Az uniós jog autonómiája és elsőbbsége",
+  "generationType": "kerdes",
+  "title": "16. Az uniós jog autonómiája és elsőbbsége",
+  "questions": [
+    {
+      "question": "Miben tér el a Van Gend en Loos-ügy szerinti uniós jogrend a hagyományos nemzetközi szerződésektől?",
+      "options": [
+        {
+          "text": "Az uniós jogrend kizárólag a tagállamokat kötelezi kölcsönösen, és a magánszemélyek csak akkor hivatkozhatnak rá, ha a nemzeti alkotmány kifejezetten átemelte a Szerződést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez a hagyományos nemzetközi szerződés-olvasat, amelyet a Van Gend-ügy elvet. A C-26/62. sz. ügy szerint a közösségi jog a tagállami jogszabályoktól függetlenül jogokat keletkeztet magánszemélyeknek, és e jogok a nemzeti bíróságok előtt védendők. A helyes: az alanyok a tagállamok és az állampolgárok egyaránt. A tévedés a kölcsönös államközi kötelezettség-modell ráírásából ered."
+        },
+        {
+          "text": "A Közösség a nemzetközi jog új jogrendjét képezi, amelynek alanyai nemcsak a tagállamok, hanem azok állampolgárai is, és a tagállamok szuverén jogaikat — szűk területeken — e jogrend javára korlátozták.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Van Gend-ratio az autonómia magját adja. A C-26/62. sz. ügy szerint a Közösség a nemzetközi jog új jogrendjét képezi, melynek javára az államok szűk területeken korlátozták szuverén jogaikat, és amelynek alanyai a tagállamok mellett az állampolgárok is. A közösségi jog a tagállami jogszabályoktól függetlenül kötelezettségeket állapít meg és jogokat keletkeztet. Ez több, mint államok közötti kölcsönös kötelezettség-halmaz."
+        },
+        {
+          "text": "A Bíróság hatásköre csak akkor nyílik meg, ha a nemzeti bíróság előbb a nemzeti alkotmányjogi elsőbbségi vitát eldöntötte.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Gend-ügyben a Bíróság éppen a belső alkotmányjogi keretre hivatkozó hatásköri kifogást utasította el. A C-26/62. sz. ügy szerint a 177. cikk a) pontjának megfelelően a Szerződés cikkét a közösségi jog keretében kell értelmezni, nem a holland belső jog elvei szerint. A helyes: a hatáskörhöz elég, hogy a kérdés a Szerződés értelmezésére irányuljon. A tévedés a nemzeti alkotmányjogi előkérdés és az uniós értelmezés összecseréléséből ered."
+        },
+        {
+          "text": "A közösségi jogra a magánszemélyek a nemzeti bíróságok előtt hivatkozhatnak, és a Bíróságnak a 177. cikk — ma az EUMSZ 267. cikk — szerinti szerepe az értelmezés egységességét szolgálja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetlen hatályhoz vezető rendszerérv a bírói út egységességére is épül. A C-26/62. sz. ügy szerint a Bíróság 177. cikkes szerepe megerősíti, hogy az államok elismerték: a közösségi jogra állampolgáraik hivatkozhatnak a nemzeti bíróságok előtt. A magánszemélyek ébersége kiegészíti a Bizottság és a tagállamok ellenőrzését. A 2/13. sz. vélemény ugyanezt a 267. cikket az autonómia sarokkövévé teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "f623dabca357"
+    },
+    {
+      "question": "Mi következik a Costa kontra E.N.E.L. ügyből, ha egy későbbi, egyoldalú nemzeti törvény ütközik a Szerződésből eredő uniós szabállyal?",
+      "options": [
+        {
+          "text": "A későbbi nemzeti törvény lex posteriorként felülírja a korábbi közösségi kötelezettséget, mert a tagállam mint a Szerződés ura visszavonhatja a hatáskör-átruházást egyszerű törvényi aktussal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Costa-ügy éppen a lex posterior nemzeti olvasatot zárja ki. A helyes: a C-6/64. sz. ügy szerint semmilyen későbbi, egyoldalúan hozott jogi aktus nem érvényesíthető a közösségi szabályozással szemben. A szuverén jogok Szerződés szerinti korlátozása végleges, ezért egyszerű törvényi aktussal a hatáskör-átruházás nem vonható vissza."
+        },
+        {
+          "text": "Az elsőbbség csak akkor érvényesül, ha a nemzeti bíróság előbb az Alkotmánybíróságtól kér alkotmányellenesség-megállapítást a későbbi törvényre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Costa-ügy az elsőbbséget a 177. cikk alkalmazhatóságához köti, nem alkotmánybírósági előfeltételhez. A helyes: a C-6/64. sz. ügy szerint ha a Szerződés értelmezésére vonatkozó kérdés merül fel, bármely nemzeti törvényre való tekintet nélkül alkalmazni kell a 177. cikket. Az alkotmányellenesség-megállapítás megvárása tehát nem feltétele a közösségi szabályozással szembeni érvényesíthetőség kizárásának."
+        },
+        {
+          "text": "Semmilyen későbbi, egyoldalúan hozott jogi aktus nem érvényesíthető a közösségi szabályozással szemben; a szuverén jogok Szerződés szerinti korlátozása végleges, amellyel szemben utólagos, egyoldalú jogi aktusok nem élvezhetnek elsőbbséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Costa-ügy a későbbi egyoldalú aktus érvényesíthetőségét zárja ki. A C-6/64. sz. ügy rendelkező része szerint a 177. cikk alapján feltett kérdések elfogadhatóak, mert semmilyen későbbi, egyoldalúan hozott jogi aktus nem érvényesíthető a közösségi szabályozással szemben. Az államok a Szerződésben meghatározott jogaikat és kötelezettségeiket a közösségi jogrendszerre átruházták, és e szuverén jogok korlátozása végleges."
+        },
+        {
+          "text": "Ha a Szerződés értelmezésére vonatkozó kérdés merül fel, bármely nemzeti törvényre való tekintet nélkül alkalmazni kell a 177. cikket — ma az EUMSZ 267. cikket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elsőbbség azzal is együtt jár, hogy a 177. cikk szerinti előzetes döntéshozatal alkalmazhatósága nem függ a későbbi nemzeti törvénytől. A C-6/64. sz. ügy szerint a milánói Giudice Conciliatore kérdései elfogadhatóak, amennyiben a Szerződés rendelkezéseire vonatkoznak. A nemzeti törvényre való tekintet a 177. cikk — ma az EUMSZ 267. cikk — útját nem zárja el, ha a kérdés a Szerződés értelmezésére irányul."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "1d0aaf7dca95"
+    },
+    {
+      "question": "A Simmenthal-ügy szerint a nemzeti bíróság mint tagállami szerv milyen feladatot visel, ha közvetlenül alkalmazandó uniós norma és későbbi ellentétes nemzeti törvény ütközik?",
+      "options": [
+        {
+          "text": "A későbbi nemzeti törvény mindaddig alkalmazandó, amíg a nemzeti jogalkotó vagy az Alkotmánybíróság azt kifejezetten hatályon kívül nem helyezi, mert a lex posterior elve a közösségi normát is megelőzi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy éppen a lex posterior nemzeti út megvárását zárja ki. A C-106/77. sz. ügy szerint az ellentétes nemzeti rendelkezés a jog erejénél fogva alkalmazhatatlan, anélkül hogy a hatályon kívül helyezést vagy az alkotmányellenesség-megállapítást meg kellene várni. A helyes: a kollíziót a közösségi norma javára a hatálybalépés ténye dönti el. A tévedés az olasz Alkotmánybíróság akkori gyakorlatának ráírásából ered."
+        },
+        {
+          "text": "A nemzeti bíróság a 177. cikk — ma az EUMSZ 267. cikk — alapján a Bírósághoz fordulhat, ha ítélete meghozatalához közösségi jogi értelmezési vagy érvényességi kérdésre van szüksége; e rendelkezés hatékony érvényesülését rontaná, ha ebben akadályoztatva lenne.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Simmenthal-ügy a bírói kötelességet a 177. cikk szerkezetéhez is köti. A C-106/77. sz. ügy szerint bármely nemzeti bíróság a Bírósághoz fordulhat, ha ítélete meghozatalához közösségi jogi értelmezési vagy érvényességi kérdésre van szüksége. E rendelkezés hatékony érvényesülését rontaná, ha a nemzeti bíró ebben akadályoztatva lenne."
+        },
+        {
+          "text": "A nemzeti bíró csak akkor mellőzheti a későbbi törvényt, ha a Bíróság előzetes döntéshozatalban kifejezetten megsemmisítette a nemzeti aktust.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság a 177. cikk keretében a közösségi norma értelmezését adja, nem a nemzeti törvény megsemmisítését. A C-106/77. sz. ügy szerint a nemzeti bíróság hatáskörében eljárva maga köteles a közösségi jog teljes érvényesülését akadályozó törvényt nem alkalmazandónak tekinteni. A helyes: az alkalmazhatatlanság a jog erejénél fogva áll be. A tévedés a kötelezettségszegési eljárás és az előzetes döntéshozatal hatáskörének összecseréléséből ered."
+        },
+        {
+          "text": "Hatáskörében eljárva védenie kell a közösségi jog által a magánszemélyekre ruházott jogokat, és a kollíziót a közösségi norma javára, a jog erejénél fogva kell eldöntenie — a jogalkotói hatályon kívül helyezés vagy az alkotmánybírósági megsemmisítés megvárása nélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Simmenthal-ratio a Costa-féle elsőbbséget a nemzeti bíró hatáskörére fordítja. A C-106/77. sz. ügy szerint a közvetlen alkalmazandóság hatása a bíróságokra is vonatkozik: tagállami szervként a magánszemélyekre ruházott jogokat védik. A kollíziót a közösségi norma javára kell eldönteni; a jogalkotói hatályon kívül helyezés és az alkotmánybírósági megsemmisítés megvárása nem feltétele az alkalmazásnak."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "46a7d5c0e24d"
+    },
+    {
+      "question": "Az EUMSZ 288. cikk szerinti rendelet milyen szerződéses támaszt ad a Costa- és a Simmenthal-féle elsőbbségnek?",
+      "options": [
+        {
+          "text": "A rendelet általános hatállyal bír, teljes egészében kötelező, és közvetlenül alkalmazandó valamennyi tagállamban, ezért egyoldalú nemzeti törvénnyel a hatálya nem tehető semmissé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet három ismérve a Costa-féle elsőbbség szerződéses magja. Az EUMSZ 288. cikk szerint: „A rendelet általános hatállyal bír. Teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban.” Costa szerint e fordulat tartalmatlan volna, ha az állam egyoldalú jogalkotási aktussal semmissé tehetné a hatályát. A közvetlen alkalmazandóság azt jelenti, hogy a rendelet nem szorul tagállami transzformációra ahhoz, hogy a belső jogban hasson."
+        },
+        {
+          "text": "A Simmenthal-ügyben a Pretore de Susa éppen a 189. cikk — a mai 288. cikk — szerinti közvetlen alkalmazandóság következményeit kérdezte a közösségi szabály és a későbbi nemzeti törvény ütközésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Simmenthal-ügy a közvetlen alkalmazandóság kollíziós következményét kérdezte. A C-106/77. sz. ügy a 189. cikk értelmezését kérte különösen a későbbi, ellentétes nemzeti törvényi rendelkezések ütközése esetén. A közvetlen alkalmazandóság a kollíziót a közösségi norma javára, a jog erejénél fogva dönti el. A 291. cikk (1) bekezdése szerinti végrehajtás rendeletnél nem a hatály pótlása, hanem a már közvetlenül alkalmazandó norma érvényesülésének biztosítása."
+        },
+        {
+          "text": "Az ajánlás és a vélemény ugyanúgy közvetlenül alkalmazandó valamennyi tagállamban, mint a rendelet, ezért rájuk is kiterjed a Costa 189. cikkes argumentuma.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ajánlás és a vélemény nem kötelező aktus. Az EUMSZ 288. cikk szerint: „Az ajánlások és a vélemények nem kötelezőek.” A helyes: rájuk sem a Costa-féle rendelet-argumentum, sem a Simmenthal-féle közvetlen alkalmazandóság nem húzható rá, mert hiányzik a teljes kötelező jelleg. A tévedés a kötőerő nélküli aktusok és a rendelet hatásának összecseréléséből ered."
+        },
+        {
+          "text": "A rendelet csak az elérendő célokat illetően kötelező, a forma és az eszközök megválasztását pedig a nemzeti hatóságokra hagyja, ezért a későbbi nemzeti törvény mindig felülírhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez az irányelv szabálya, nem a rendeleté. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően kötelezi a címzett tagállamot, a rendelet viszont teljes egészében kötelező és közvetlenül alkalmazandó. A helyes: a Costa-argumentum éppen a rendelet e fordulatára épül, mert egyoldalú nemzeti törvénnyel a rendelet hatálya nem tehető semmissé. A tévedés a két kötelező aktustípus összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "3100b8562ffb"
+    },
+    {
+      "question": "Az EGK-Szerződés 12. cikke a Van Gend en Loos-ügyben milyen feltételek mellett keletkeztetett közvetlen hatályú egyéni jogokat?",
+      "options": [
+        {
+          "text": "A közvetlen hatály csak a Bizottság kötelezettségszegési eljárásának eredményes lezárása után illeti meg a magánszemélyt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság vagy a tagállamok kötelezettségszegési keresete nem előfeltétele az egyéni hivatkozásnak. A C-26/62. sz. ügy szerint a 169. és a 170. cikkre alapított út lehetősége nem fosztja meg a magánszemélyeket attól a jogtól, hogy e kötelezettségekre a nemzeti bíróság előtt hivatkozzanak. A helyes: a magánszemélyek ébersége kiegészíti a közjogi ellenőrzést, és a 12. cikk közvetlen hatálya ettől függetlenül áll. A tévedés a kötelezettségszegési eljárás monopóliumának feltételezéséből ered."
+        },
+        {
+          "text": "A 12. cikk csak akkor keletkeztet egyéni jogot, ha a nemzeti törvényhozás külön végrehajtási aktussal átültette a vámtilalmat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Gend-ügy éppen a belső végrehajtási aktus szükségességét zárja ki. A C-26/62. sz. ügy szerint a tilalom végrehajtása nem teszi szükségessé a tagállamok jogalkotói beavatkozását, és az államok semmilyen ilyen fenntartást nem tettek. A helyes: a világos és feltétel nélküli tartózkodási kötelezettség közvetlen hatállyal bír. A tévedés az irányelv-átültetés logikájának a szerződéses tilalomra történő ráírásából ered."
+        },
+        {
+          "text": "A 12. cikk világos és feltétel nélküli tilalmat állapít meg tartózkodásra, amelynek végrehajtása nem teszi szükségessé a tagállamok jogalkotói beavatkozását, ezért közvetlen hatállyal bír a tagállamok és jogalanyaik közötti jogviszonyokban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetlen hatály a tilalom természetéből következik. A C-26/62. sz. ügy szerint a 12. cikk nem tevőleges magatartásra, hanem tartózkodásra vonatkozó kötelezettség, és az államok semmilyen fenntartást nem tettek arra, hogy végrehajtását pozitív belső jogi aktustól tennék függővé. A tilalom jellegénél fogva tökéletesen alkalmas a közvetlen hatályra. Az, hogy a cikk a tagállamokat kötelezi, nem zárja ki, hogy állampolgáraik kedvezményezettek legyenek."
+        },
+        {
+          "text": "A 169. és a 170. cikkre alapított Bizottsági vagy tagállami kereset lehetősége nem fosztja meg a magánszemélyeket attól, hogy a kötelezettségre a nemzeti bíróság előtt hivatkozzanak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közjogi ellenőrzés és az egyéni védelem párhuzamos. A C-26/62. sz. ügy szerint a 12. cikk megsértésével szembeni biztosítékoknak e két cikkre való korlátozása megszüntetné az állampolgárok egyéni jogainak közvetlen bírói védelmét. A jogaik védelmében érdekelt magánszemélyek ébersége kiegészíti a Bizottság és a tagállamok gondosságára bízott ellenőrzést. A Szerződés szelleme, rendszere és megfogalmazása szerint a 12. cikket úgy kell értelmezni, hogy egyéni jogokat keletkeztet."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "2113e5bae242"
+    },
+    {
+      "question": "A Costa kontra E.N.E.L. ügy rendelkező részéhez vezető vizsgálatban mely megállapítások állják meg a helyüket a közvetlen hatály cikkenkénti megítéléséről?",
+      "options": [
+        {
+          "text": "Az 53. cikk olyan közösségi szabály, amely a jogalanyok számára a nemzeti bíróságok által védendő jogokat keletkeztethet; a 37. cikk (2) bekezdésének tilalma természeténél fogva közvetlen hatállyal bírhat a tagállamok és jogalanyaik közötti jogviszonyokban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Costa-ügy pozitív oldalon is differenciál. A C-6/64. sz. ügy szerint az 53. cikk olyan közösségi szabály, amely a jogalanyok számára a nemzeti bíróságok által védendő jogokat keletkeztethet. A 37. cikk (2) bekezdésének tilalma természeténél fogva közvetlen hatállyal bírhat, mert világosan kifejezett, a Közösség egészében hatályba lépő tilalom."
+        },
+        {
+          "text": "A 102. cikk a Costa-ügyben közvetlen hatályú egyéni jogokat keletkeztetett, mert a jogszabályok közelítése a magánszemélyeket is érinti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 102. cikk a Costa-ügyben éppen nem keletkeztetett ilyen jogokat. A helyes: a C-6/64. sz. ügy szerint a 102. cikk konzultációs szabálya nem keletkeztet a jogalanyok számára a nemzeti bíróságok által védendő jogokat. A jogszabályok közelítésének a magánszemélyeket érintő jellege önmagában nem pótolja a közvetlen hatály feltételeit."
+        },
+        {
+          "text": "A 102. cikk — a jogszabályok közelítéséről szóló fejezet konzultációs szabálya — nem keletkeztet a jogalanyok számára olyan jogokat, amelyeket a nemzeti bíróságoknak védelemben kell részesíteniük; a 93. cikknek a feltett kérdésre vonatkozó előírásai szintén nem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Costa-ügy a közvetlen hatályt differenciáltan döntötte el. A C-6/64. sz. ügy szerint a 102. cikk — a jogszabályok közelítéséről szóló konzultációs szabály — nem keletkeztet a nemzeti bíróságok által védendő egyéni jogokat. Ugyanezen vizsgálatban a 93. cikknek a feltett kérdésre vonatkozó előírásai szintén nem keletkeztetnek ilyen jogokat."
+        },
+        {
+          "text": "Az elsőbbség és a közvetlen hatály azonos: minden Szerződés-cikk automatikusan egyéni jogot keletkeztet, ha a nemzeti törvény későbbi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Costa-ügy kifejezetten differenciált a közvetlen hatályról. A helyes: a C-6/64. sz. ügy szerint a 102. cikk konzultációs szabálya nem keletkeztet a jogalanyok számára a nemzeti bíróságok által védendő jogokat. Ezzel szemben a 37. cikk (2) bekezdése természeténél fogva közvetlen hatállyal bírhat a tagállamok és jogalanyaik közötti jogviszonyokban."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "c2b1c77d75f1"
+    },
+    {
+      "question": "A Heinrich Weiss és társai ügyben hogyan jelenik meg az uniós jog autonómiája a hatáskör-átruházás oldalán?",
+      "options": [
+        {
+          "text": "Azt, hogy a KBER a Szerződésekben kapott monetáris politikai hatáskörön belül maradt-e, a Bíróságnak kell biztosítania a Szerződésekben meghatározott feltételekkel, a 2015/774 határozat indokolása, arányossága és az EUMSZ 123. cikk (1) bekezdése fényében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Weiss-ügy az autonómiát a hatáskör-átruházás bírósági biztosításában mutatja meg. A C-493/17. sz. ügy szerint a KBER feladata a monetáris politika független meghatározása és végrehajtása, tiszteletben tartva a hatáskör-átruházás elvét, amelyet bírósági felülvizsgálata révén a Bíróságnak kell biztosítania. Az uniós intézmény aktusának a Szerződésekhez mért jogszerűségét a Szerződések bírósága bírálja el. A német alkotmánybíróság előzetes döntéshozatali kérelemmel fordult a Bírósághoz."
+        },
+        {
+          "text": "A PSPP keretében a KBER közvetlenül a tagállami közjogi intézményektől is megszerezheti az államkötvényeket, ha az árstabilitás elsődleges célja ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen államkötvény-vásárlás a közjogi kibocsátótól a monetáris finanszírozás tilalmába ütközne. Az EUMSZ 123. cikk (1) bekezdése megtiltja, hogy az EKB vagy a nemzeti központi bankok közvetlenül adósságinstrumentumokat vásároljanak uniós, illetve tagállami közjogi intézményektől. A C-493/17. sz. ügy szerint a PSPP keretében a KBER csak a másodlagos piacokon jogosult vásárolni. A helyes: a beavatkozás nem vonható egy tekintet alá a tagállamnak nyújtott pénzügyi támogatással, ha a másodlagos piaci korlátok érvényesülnek. A tévedés az elsődleges és a másodlagos piac összecseréléséből ered."
+        },
+        {
+          "text": "Az EUMSZ 123. cikk (1) bekezdése megtiltja, hogy az EKB vagy a nemzeti központi bankok folyószámlahitelt nyújtsanak közjogi intézményeknek, illetve közvetlenül adósságinstrumentumokat vásároljanak tőlük, de a másodlagos piaci felvásárlást önmagában nem zárja ki általános jelleggel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a monetáris finanszírozás tilalma a közvetlen támogatást célozza. A C-493/17. sz. ügy szerint a tilalom megtiltja, hogy a KBER bármiféle pénzügyi támogatást nyújtson valamely tagállamnak, anélkül azonban, hogy általános jelleggel kizárná a korábban kibocsátott értékpapírok felvásárlását a tagállam hitelezőitől. A PSPP keretében a KBER csak a másodlagos piacokon jogosult vásárolni. A beavatkozást biztosítékok közé kell ágyazni, amelyek garantálják a tilalommal való összeegyeztethetőséget."
+        },
+        {
+          "text": "A német Alkotmánybíróság saját hatáskörében véglegesen megállapíthatja az EKB határozatának érvénytelenségét anélkül, hogy a Bírósághoz fordulna, mert a nemzeti identitás az EUSZ 4. cikk (2) bekezdése szerint felülírja a hatáskör-átruházást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Weiss-ügyben a Bundesverfassungsgericht előzetes döntéshozatali kérelemmel fordult a Bírósághoz. A C-493/17. sz. ügy szerint a hatáskör-átruházás tiszteletben tartását a Szerződésekben meghatározott feltételekkel a Bíróságnak kell biztosítania. A helyes: az uniós aktus érvényességének felülvizsgálata a 267. cikk útja. A tévedés a nemzeti identitás-klauzula és a Bíróság érvényességi monopóliumának összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "b99055827a74"
+    },
+    {
+      "question": "A 2/13. sz. vélemény szerint miért a 267. cikk az uniós jog autonómiájának sarokköve?",
+      "options": [
+        {
+          "text": "A nemzeti bíróságok és a Bíróság közötti párbeszéd célja az uniós jog értelmezésének egységessége, így biztosítva a koherenciát, a teljes érvényesülést és az autonómiát, valamint a Szerződésekkel létrehozott jog sajátos jellegét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény a 267. cikket a bírósági rendszer sarokkövévé teszi. A vélemény szerint a bírák közötti párbeszéd — a Van Gend & Loos ítéletre utalva — az uniós jog értelmezésének egységességét szolgálja. Costa szerint a 177. cikk bármely nemzeti törvényre való tekintet nélkül alkalmazandó. Simmenthal szerint e rendelkezés hatékony érvényesülését rontaná, ha a nemzeti bíró akadályoztatva lenne a Bírósághoz fordulásban."
+        },
+        {
+          "text": "A 267. cikk Costa szerint bármely nemzeti törvényre való tekintet nélkül alkalmazandó; Simmenthal szerint hatékony érvényesülését rontaná, ha a nemzeti bíró akadályoztatva lenne a Bírósághoz fordulásban; Weissben az uniós aktus érvényességének felülvizsgálatára szolgál.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. számú vélemény az EUMSZ 267. cikkét procedurális csatornánál többnek tekinti, mert a bírósági rendszer koherenciáját és az uniós jog autonómiáját szolgálja. Costa szerint a 177. cikk — ma az EUMSZ 267. cikk — bármely nemzeti törvényre való tekintet nélkül alkalmazandó. Simmenthal szerint e rendelkezés hatékony érvényesülését rontaná, ha a nemzeti bíró akadályoztatva lenne a Bírósághoz fordulásban; a Weiss-ügyben ugyanez az út az uniós aktus érvényességének felülvizsgálatára szolgál."
+        },
+        {
+          "text": "Az autonómia csak a tagállami joggal szemben áll fenn; a nemzetközi joggal szemben az uniós jog teljesen alárendelt, ezért a 267. cikk nem szolgálhatja a nemzetközi kötelezettségekkel szembeni védelmet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az autonómia nem korlátozódik a tagállami joggal szembeni viszonyra. A 2/13. sz. vélemény szerint az autonómia, amellyel az uniós jog a tagállami joghoz, valamint a nemzetközi joghoz képest rendelkezik, megköveteli, hogy az alapvető jogok értelmezése az Unió szerkezetén és céljain belül legyen biztosítva. A helyes: a Kadi-ítélet 281–285. pontjára utaló olvasat a nemzetközi joggal szembeni autonómiát is magában foglalja, és a 267. cikk ezt a sajátos jelleget is szolgálja. A tévedés az egyoldalú, csak tagállami joggal szembeni autonómia-olvasatból ered."
+        },
+        {
+          "text": "A 267. cikk csupán fakultatív eljárás, amelyet a nemzeti bíró mellőzhet, ha a nemzeti alkotmány már rendezte az uniós norma és a nemzeti törvény viszonyát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2/13. sz. vélemény a 267. cikket az autonómia biztosítékaként, nem mellőzhető luxusként írja le. A vélemény szerint a bírósági rendszer feladata biztosítani az uniós jog teljes körű alkalmazását és a jogalanyokat megillető jogok bírói védelmét. A helyes: Costa szerint a 177. cikk bármely nemzeti törvényre való tekintet nélkül alkalmazandó. A tévedés a nemzeti alkotmányos előzetes rendezés és az uniós értelmezési egység összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "12b07be31b1c"
+    },
+    {
+      "question": "Milyen tartamban és milyen hatással érvényesül a közvetlenül alkalmazandó uniós norma a Simmenthal-ügy szerint a nemzeti bíróság előtt?",
+      "options": [
+        {
+          "text": "A közösségi szabályoknak hatálybalépésüktől kezdődően és érvényességük teljes időtartama alatt egységesen kell kifejteniük valamennyi hatásukat minden tagállamban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Simmenthal-ügy a közvetlen alkalmazandóság időbeli és területi egységességét rögzíti. A C-106/77. sz. ügy szerint e rendelkezések jogok és kötelezettségek közvetlen forrását jelentik a tagállamok és a magánszemélyek számára. A bíróságok mint tagállami szervek hatáskörükben védik a magánszemélyekre ruházott jogokat. A hatás tehát nem a nemzeti hatályon kívül helyezés napjától, hanem a közösségi norma hatálybalépésétől számít."
+        },
+        {
+          "text": "Az elsőbbség nemcsak a már létező ellentétes nemzeti rendelkezést teszi alkalmazhatatlanná, hanem megakadályozza a közösségi normákkal összeegyeztethetetlen új nemzeti jogalkotási aktusok érvényes létrehozását is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Simmenthal-ratio kétirányú. A C-106/77. sz. ügy szerint annak elismerése, hogy a Közösség jogalkotói hatáskörébe jogtalanul behatoló nemzeti aktusok bármiféle jogi hatással rendelkeznének, a feltétel nélkül és visszavonhatatlanul vállalt kötelezettségek tényleges jellegének tagadását jelentené. A 2/2019. (III. 5.) AB határozat indokolása a Simmenthal (II)-ügy 22. pontját éppen a tagállami jogszabályokkal szembeni elsőbbség megerősítéseként hívja fel. A nemzeti bíró tehát nem várhat a jogalkotóra."
+        },
+        {
+          "text": "Az összeegyeztethetetlen új nemzeti törvény érvényesen létrejöhet, de csak mindaddig alkalmazandó, amíg a Bizottság kötelezettségszegési eljárást nem indít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy az új összeegyeztethetetlen aktus érvényes létrehozását is akadályozza. A C-106/77. sz. ügy szerint az elsőbbség megakadályozza a közösségi normákkal összeegyeztethetetlen új nemzeti jogalkotási aktusok érvényes létrehozását. A helyes: a kollíziót a jog erejénél fogva a közösségi norma javára kell eldönteni, Bizottsági eljárás megvárása nélkül. A tévedés a kötelezettségszegési eljárás és az alkalmazási elsőbbség összecseréléséből ered."
+        },
+        {
+          "text": "A közösségi norma hatása csak a nemzeti kihirdetés napjától érvényesül, mert a belső jogban a kihirdetés a hatály feltétele.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy a hatálybalépés uniós tényéhez köti a hatásokat. A C-106/77. sz. ügy szerint a közvetlenül alkalmazandó rendelkezések hatálybalépésüktől kezdődően fejtik ki valamennyi hatásukat. A helyes: a rendelet — a 189. cikk, ma az EUMSZ 288. cikk szerint — nem szorul tagállami transzformációra a belső hatáshoz. A tévedés a nemzeti kihirdetési szabály ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "39484745d830"
+    },
+    {
+      "question": "Az EUMSZ 288. cikk szerinti aktuskatalógusban mely állítások állják meg a helyüket az elsőbbség szempontjából?",
+      "options": [
+        {
+          "text": "A határozat teljes egészében kötelező, de ha külön megjelöli a címzettjeit, kizárólag azokra nézve kötelező, akiket címzettként megjelöl.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozat kötőereje címzetti körrel szűkíthető. Az EUMSZ 288. cikk szerint: „A határozat teljes egészében kötelező. Amennyiben külön megjelöli, hogy kik a címzettjei, a határozat kizárólag azokra nézve kötelező, akiket címzettként megjelöl.” Ezért a határozat nem hordozza a rendelet valamennyi tagállamra kiterjedő közvetlen alkalmazandóságát. A C-6/64. sz. Costa-ügy a 189. cikk rendeleti fordulatára — kötelező és közvetlenül alkalmazandó valamennyi tagállamban — fűzte az elsőbbség szerződéses argumentumát. Az elhatárolás az általános hatály és a címzetti korlátozás között fut."
+        },
+        {
+          "text": "Az irányelv ugyanúgy közvetlenül alkalmazandó valamennyi tagállamban, mint a rendelet, mert mindkettő kötelező aktus.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelező jelleg nem egyenlő a rendelet szerinti közvetlen alkalmazandósággal. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően kötelezi a címzett tagállamot, a forma és az eszközök a nemzeti hatóságoké. A helyes: sem az irányelv, sem a határozat nem hordozza a rendeletre írt, valamennyi tagállamra kiterjedő közvetlen alkalmazandóságot, amelyre a Bíróság az elsőbbség szerződéses argumentumát fűzte. A tévedés a kötőerő és a közvetlen alkalmazandóság összecseréléséből ered."
+        },
+        {
+          "text": "A rendelet, az irányelv és a határozat kötelező; az ajánlás és a vélemény nem kötelező, ezért az utóbbiakra sem Costa rendelet-argumentuma, sem Simmenthal közvetlen alkalmazandósága nem húzható rá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötőerő zárt listája az elsőbbség szerződéses előfeltétele. Az EUMSZ 288. cikk szerint: „Az ajánlások és a vélemények nem kötelezőek.” A rendelet viszont általános hatályú, teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban. A 289. cikk a rendeletet, az irányelvet és a határozatot a rendes vagy a különleges jogalkotási eljárás tárgyává teszi: a katalógus a hatáskörgyakorlás zárt eszköztára. Sem az irányelv, sem a határozat nem hordozza a rendeletre írt, valamennyi tagállamra kiterjedő közvetlen alkalmazandóságot."
+        },
+        {
+          "text": "A 291. cikk (1) bekezdése szerint a rendelet hatálya csak akkor áll be, ha a tagállam nemzeti jogában végrehajtási intézkedést fogadott el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 291. cikk (1) bekezdése rendeletnél nem a hatály pótlását jelenti. Az EUMSZ 291. cikk (1) bekezdése szerint a tagállamok nemzeti jogukban elfogadják a kötelező erejű uniós jogi aktusok végrehajtásához szükséges intézkedéseket; rendeletnél e végrehajtás a már közvetlenül alkalmazandó norma érvényesülésének biztosítása. A helyes: a rendelet a 288. cikk szerint közvetlenül alkalmazandó, nem szorul transzformációra. A tévedés az irányelv-transzpozíció és a rendeleti végrehajtás összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "758cd51ad9d5"
+    },
+    {
+      "question": "A 2/2019. (III. 5.) AB határozat 22/2016. (XII. 5.) AB határozatra utaló többségi olvasata szerint mi határozza meg, hogy az uniós jog az adott tagállamban mennyiben élvez elsőbbséget a saját joggal szemben?",
+      "options": [
+        {
+          "text": "Az Európai Unió végső alapját a tagállamok által kötött nemzetközi szerződések képezik; mint e szerződések urai, a tagállamok nemzeti, érvényesülésről szóló aktusai, végső soron a tagállami alkotmány keretei határozzák meg az elsőbbség mértékét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a többségi indokolás a 22/2016. (XII. 5.) AB határozatra (Abh2.) utalva a szerződések urai nézőpontot rögzíti. A 2/2019. (III. 5.) AB határozat szerint az EUB az uniós jogot független, autonóm jogrendként olvassa, az Unió végső alapját azonban a tagállami szerződések képezik. Ez a cím-logika más sík, mint az alkalmazási elsőbbség tisztelete + E) cikk párhuzamos ismétlése; az elsőbbséget nem oldja fel."
+        },
+        {
+          "text": "Az E) cikkből kiolvasható korlátok szerint a közös hatáskörgyakorlás nem korlátozhatja Magyarország területi egységére, népességére, államformájára és állami berendezkedésére vonatkozó elidegeníthetetlen rendelkezési jogát; a hatáskörök közös gyakorlására a szükséges mértékig kerülhet sor.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a többségi olvasat az E) cikkből korlátokat is kiolvas. A 2/2019. (III. 5.) AB határozat a fenntartott szuverenitás vélelmét a további hatáskörök közös gyakorlásának megítéléséhez köti. Az alkalmazási elsőbbség elismerése mellett ez alkotmányos korlát, nem a Van Gend/Costa/Simmenthal-ratio uniós feloldása."
+        },
+        {
+          "text": "A 2/2019. (III. 5.) AB határozat szerint az uniós jog magyarországi alkalmazhatóságának alapja közvetlenül a Costa-ügy, az Alaptörvény E) cikkének megkerülésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magyarországi alkalmazhatóság címe nem a Costa-ügy önálló belső jogforrása. A helyes: a 2/2019. (III. 5.) AB határozat szerint az Alaptörvény R) cikk (1) bekezdése alapján az uniós jog magyarországi alkalmazhatóságának alapja az Alaptörvény E) cikke. Az alkalmazási elsőbbség tisztelete mellett tehát a cím az Alaptörvényen nyugszik, nem a Costa-ratio megkerülésén."
+        },
+        {
+          "text": "Az Alkotmánybíróság szerint a Costa-ratio a magyar jogban is azt jelenti, hogy az Alaptörvény E) cikke semmilyen korlátot nem állíthat a további hatáskör-átruházással szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a többségi indokolás éppen az E) cikkből kiolvasható korlátokat rögzíti. A helyes: a 2/2019. (III. 5.) AB határozat szerint a közös hatáskörgyakorlás nem korlátozhatja Magyarország területi egységére, népességére, államformájára és állami berendezkedésére vonatkozó elidegeníthetetlen rendelkezési jogot. A hatáskörök közös gyakorlására a szükséges mértékig kerülhet sor, és a további átengedésnél a szuverenitás fenntartását kell vélelmezni."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "998efe964df8"
+    },
+    {
+      "question": "Az Internationale Handelsgesellschaft-ügy (C-11/70) szerint mi következik abból, ha uniós intézkedéssel szemben a nemzeti alkotmány alapvető jogára vagy alkotmányos elvére hivatkoznak?",
+      "options": [
+        {
+          "text": "Egy közösségi intézkedés érvényességét vagy tagállamon belüli hatályát nem érinti az arra való hivatkozás, hogy az intézkedés egy tagállam alkotmányában megfogalmazott alapvető joggal vagy az alkotmányos berendezkedés valamely elvével ellentétes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez az Internationale Handelsgesellschaft-ügy operatív következménye. A C-11/70. sz. ügy — a 2/2019. (III. 5.) AB határozat indokolása szerint is — a nemzeti alkotmányos hivatkozást elválasztja a közösségi intézkedés érvényességétől és hatályától. Egy közösségi intézkedés érvényességét vagy tagállamon belüli hatályát tehát nem érinti az alkotmányos alapvető jogra vagy elvre való hivatkozás."
+        },
+        {
+          "text": "Az EUSZ 4. cikk (2) bekezdése szerinti nemzeti identitás automatikusan feloldja a Costa- és a Simmenthal-ratio szerinti elsőbbséget, ha alkotmányos elvről van szó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti identitás-klauzula és az autonómia ugyanazon dogmatikai térben jelenik meg anélkül, hogy az elsőbbséget feloldaná. A helyes: az EUSZ 4. cikk (2) bekezdése a nemzeti identitás tiszteletét írja elő, de nem oldja fel a Costa–Simmenthal-ratiót a Szerződések oldaláról. A Weiss-ügyben a Bundesverfassungsgericht éppen e bekezdés értelmezését is kérte, anélkül hogy ez a Costa-féle elsőbbséget megszüntette volna."
+        },
+        {
+          "text": "Ha az uniós intézkedés a nemzeti alkotmány alapvető jogába ütközik, a nemzeti bíró a közösségi intézkedést érvénytelennek nyilváníthatja a Bíróság megkerülésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Internationale Handelsgesellschaft-ügy éppen ezt zárja ki. A helyes: a C-11/70. sz. ügy szerint a közösségi intézkedés érvényességét vagy tagállamon belüli hatályát nem érinti az alkotmányos alapvető jogra vagy elvre való hivatkozás. A nemzeti bíró ezért nem nyilváníthatja érvénytelennek az uniós intézkedést a Bíróság megkerülésével csupán azért, mert nemzeti alkotmányos elvre hivatkozik."
+        },
+        {
+          "text": "A közösségi intézkedés érvényességének vagy hatályának ilyen alkotmányos hivatkozással való megkérdőjelezése a Szerződésből származó jog közösségi jellegétől való megfosztásával járna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-11/70. sz. ügy a Costa-féle elsőbbséget az alkotmányos síkra is kiterjeszti. A Szerződésből származó, független jogforráson alapuló jogot a nemzeti jog szabályai — bármilyen formában — nem írhatják felül anélkül, hogy megfosztanák közösségi jogi jellegétől. Az érvényesség vagy a hatály alkotmányos hivatkozással való megkérdőjelezése tehát ugyanezt a közösségi jelleget veszélyeztetné."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "ec9eaf2a54ae"
+    },
+    {
+      "question": "Mi következik abból, ha a nemzeti bíró a Simmenthal-ügy után is megvárná az alkotmánybírósági megsemmisítést a közösségi joggal ellentétes törvény mellőzése előtt?",
+      "options": [
+        {
+          "text": "A 177. cikk — ma az EUMSZ 267. cikk — hatékony érvényesülését rontaná, ha a bíróság a Bírósághoz fordulásban akadályoztatva lenne amiatt, hogy előbb nemzeti alkotmányossági utat kellene járnia.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Simmenthal-ügy az előzetes döntéshozatal hatékony érvényesülésére is épít. A C-106/77. sz. ügy szerint bármely nemzeti bíróság a Bírósághoz fordulhat, ha ítélete meghozatalához közösségi jogi értelmezési vagy érvényességi kérdésre van szüksége, és e rendelkezés hatékony érvényesülését rontaná, ha a bíróság ebben akadályoztatva lenne. A Pretore éppen azt a hátrányt akarta elkerülni, hogy alkotmányossági kérdést kellene felvetnie ahelyett, hogy saját hatáskörénél fogva nem alkalmazandónak tekintené a közösségi jog teljes érvényesülését akadályozó törvényt. A várakozás tehát procedurális akadályt képezne."
+        },
+        {
+          "text": "A feltétel nélkül és visszavonhatatlanul vállalt kötelezettségek tényleges jellege tagadást szenvedne, ha az összeegyeztethetetlen nemzeti aktus bármiféle jogi hatással rendelkezhetne a megsemmisítésig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Simmenthal-ratio a kötelezettségek tényleges jellegére épít. A C-106/77. sz. ügy szerint annak elismerése, hogy a Közösség jogalkotói hatáskörébe jogtalanul behatoló nemzeti jogalkotási aktusok bármiféle jogi hatással rendelkeznének, a Közösség alapjait kérdőjelezné meg. A jogalkotói hatályon kívül helyezés vagy az alkotmánybírósági megsemmisítés megvárása ezért nem feltétele a közösségi norma alkalmazásának. A Costa-féle elsőbbség operatív fordítása éppen ez a bírói mellőzési kötelesség."
+        },
+        {
+          "text": "A Bíróság a 177. cikk alapján benyújtott kérelmet tárgytalannak nyilvánítja, ha közben bármely alkotmánybírósági ítélet született ugyanarra a törvényre, akár más eljárásban is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügyben az olasz kormány ilyen kifogását a Bíróság elvetette. A C-106/77. sz. ügy szerint a 177. cikk alapján benyújtott kérelmet mindaddig fennállónak tekinti, amíg a kibocsátó bíróság vissza nem vonja, vagy magasabb fokú bíróság meg nem semmisíti. A 163/77. sz. alkotmánybírósági ítélet nem váltott ki ilyen hatást, mert eltérő eljárásokban született. A helyes: a kérelem fennállása a kibocsátó bíróság visszavonásáig tart. A tévedés a párhuzamos alkotmánybírósági eljárás automatikus tárgytalanító hatásának feltételezéséből ered."
+        },
+        {
+          "text": "Semmi, mert a nemzeti alkotmánybírósági út a közösségi norma alkalmazásának kötelező előfeltétele marad minden tagállamban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy éppen az alkotmánybírósági út megvárását zárja ki. A C-106/77. sz. ügy szerint az ellentétes nemzeti rendelkezést a jog erejénél fogva alkalmazhatatlannak kell tekinteni anélkül, hogy meg kellene várni az alkotmányos szerv alkotmányellenesség-megállapítását. A helyes: a nemzeti bíró saját hatáskörében mellőz. A tévedés az olasz Alkotmánybíróság akkori gyakorlatának általánosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "b511195fa9c3"
+    },
+    {
+      "question": "A Weiss-ügyben milyen feltételek mellett lenne összeegyeztethetetlen a KBER másodlagos piaci beavatkozása az EUMSZ 123. cikk (1) bekezdésével?",
+      "options": [
+        {
+          "text": "A KBER akkor is szabadon vásárolhat közvetlenül a kibocsátó közjogi intézménytől, ha a program az inflációs rátákat a 2%-hoz közeli szintre kívánja visszavezetni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az árstabilitási cél nem mentesít a 123. cikk (1) bekezdése alól. A C-493/17. sz. ügy szerint a PSPP keretében a KBER nem jogosult a kötvényeket közvetlenül a tagállami közjogi intézményektől megszerezni. A helyes: a preambulum szerinti cél — az inflációs ráták visszatérése a 2%-hoz közeli, de 2% alatti szintekhez — a hatáskör és az arányosság vizsgálatának része, nem a közvetlen vásárlás engedélye. A tévedés a monetáris cél és a finanszírozási tilalom összecseréléséből ered."
+        },
+        {
+          "text": "Ha az elsődleges piacon államkötvényeket szerző gazdasági szereplők bizonyosak lennének abban, hogy a KBER azokat olyan határidőn belül és olyan feltételekkel vásárolja fel, amelyek lehetővé tennék, hogy de facto a KBER közvetítőjeként járjanak el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bíróság a de facto közvetítői hatásnál húzza meg a határt. A C-493/17. sz. ügy szerint a másodlagos piaci vásárlás nem kölcsönözhet olyan hatást, mintha a kötvényeket közvetlenül a közjogi intézményektől szerezték volna meg. A beavatkozást olyan biztosítékok közé kell ágyazni, amelyek garantálják a monetáris finanszírozás tilalmával való összeegyeztethetőséget. Emellett a program nem vonhatja meg a rendezett költségvetési politika folytatására való ösztönzést."
+        },
+        {
+          "text": "A tilalom megtiltja, hogy a KBER bármiféle pénzügyi támogatást nyújtson valamely tagállamnak, anélkül azonban, hogy általános jelleggel kizárná a korábban kibocsátott értékpapírok felvásárlását e tagállam hitelezőitől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 123. cikk (1) bekezdése a közvetlen támogatást célozza, nem minden másodlagos piaci műveletet. A C-493/17. sz. ügy szerint a PSPP keretében a KBER nem jogosult a kötvényeket közvetlenül a tagállami közjogi intézményektől megszerezni, hanem csak a másodlagos piacokon. A beavatkozás ezért nem vonható egy tekintet alá a tagállamnak nyújtott pénzügyi támogatással, ha a biztosítékok érvényesülnek. Az EUMSZ 127. cikk (1) bekezdése szerinti árstabilitási cél e keretben vizsgálandó."
+        },
+        {
+          "text": "A másodlagos piaci vásárlás mindig összeegyeztethetetlen a 123. cikk (1) bekezdésével, mert a KBER minden államkötvény-vásárlása tilos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság nem általánosította a tilalmat minden felvásárlásra. A C-493/17. sz. ügy szerint a 123. cikk (1) bekezdése nem zárja ki általános jelleggel, hogy a KBER a tagállam által korábban kibocsátott értékpapírokat felvásárolja e tagállam hitelezőitől. A helyes: a tilalom a közvetlen hitelnyújtásra és a közvetlen adósságinstrumentum-vásárlásra vonatkozik, a másodlagos piaci műveletet pedig a de facto közvetítői hatás és a biztosítékok fényében kell vizsgálni. A tévedés a tilalom abszolút kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "9c0d049cb15b"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a Costa-féle rendelet-argumentum az EUMSZ 288. cikk aktusaira?",
+      "options": [
+        {
+          "text": "Rendelet esetén soha nem alkalmazható a Costa-argumentum, mert a rendelet mindig nemzeti kihirdetést igényel a hatályhoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Costa-argumentum éppen a rendeletre épül. Az EUMSZ 288. cikk szerint a rendelet teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban; Costa szerint e fordulat tartalmatlan volna, ha egy állam egyoldalú aktussal semmissé tehetné a hatályát. A helyes: a rendelet nem szorul tagállami transzformációra. A tévedés a nemzeti kihirdetési követelmény ráírásából ered."
+        },
+        {
+          "text": "Határozat esetén a Costa-argumentum mindig ugyanúgy érvényesül, mint rendeletnél, mert a határozat is teljes egészében kötelező valamennyi tagállamban általános hatállyal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozat kötőereje címzetti körrel szűkíthető, és nem általános hatályú a rendelet mintájára. Az EUMSZ 288. cikk szerint a határozat teljes egészében kötelező, de ha megjelöli a címzettjeit, kizárólag azokra nézve kötelező. A helyes: a határozat nem hordozza a rendelet valamennyi tagállamra kiterjedő közvetlen alkalmazandóságát. A tévedés a két kötelező aktus általános hatályának összecseréléséből ered."
+        },
+        {
+          "text": "Irányelv esetén a Costa 189. cikkes, valamennyi tagállamra kiterjedő közvetlen alkalmazandóságra fűzött argumentum nem ugyanúgy áll, mert az irányelv a forma és az eszközök megválasztását a nemzeti hatóságokra hagyja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv kötelező, de nem a rendelet mintájára közvetlenül alkalmazandó. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően minden címzett tagállamra kötelező, azonban a forma és az eszközök a nemzeti hatóságoké. Sem az irányelv, sem a határozat nem hordozza a rendeletre írt, valamennyi tagállamra kiterjedő közvetlen alkalmazandóságot, amelyre a Bíróság az elsőbbség szerződéses argumentumát fűzte. A 291. cikk (1) bekezdése szerinti végrehajtás irányelvnél a 288. cikk szerinti eredménykötelezettség transzpozíciója."
+        },
+        {
+          "text": "Ajánlás és vélemény esetén, mert ezek nem kötelezőek, ezért egyoldalú nemzeti aktussal szembeni „hatálysemmisítés” sem értelmezhető a rendelet fordulata szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Costa-argumentum a kötelező és közvetlenül alkalmazandó rendeletre épül. Az EUMSZ 288. cikk szerint: „Az ajánlások és a vélemények nem kötelezőek.” Ezekre sem a Costa-féle rendelet-argumentum, sem a Simmenthal-féle közvetlen alkalmazandóság nem húzható rá. A 289. cikk sem teszi őket jogalkotási eljárás tárgyává ugyanabban a kötőerő-logikában. Az elhatárolás a kötőerő megléténél kezdődik."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "b4ccabbc689a"
+    },
+    {
+      "question": "A 2/13. sz. vélemény szerint a lojális együttműködés hogyan kapcsolódik az uniós jog autonómiájának megőrzéséhez?",
+      "options": [
+        {
+          "text": "A lojális együttműködés alapján a tagállamok biztosítják az uniós jog alkalmazását és tiszteletben tartását, és e kötelezettség a Charta tiszteletben tartására is kiterjed, amikor a tagállamok az uniós jogot hajtják végre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény a lojális együttműködést az autonómia operatív oldalává teszi. Az EUSZ 4. cikk (3) bekezdése szerinti alkalmazási kötelezettség a Charta kötőerejével kapcsolódik: a Chartát a tagállamoknak is tiszteletben kell tartaniuk az uniós jog végrehajtásakor. Az EUSZ 6. cikk (1) bekezdése szerint a Charta ugyanolyan jogi kötőerővel bír, mint a Szerződések, ezért a végrehajtási kötelezettség nem merül ki a tartózkodásban."
+        },
+        {
+          "text": "A lojális együttműködés csak a Bizottsággal szemben áll fenn, a nemzeti bíróságokra nézve nem keletkeztet alkalmazási kötelezettséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2/13. sz. vélemény a nemzeti bíróságokat az uniós jog teljes körű alkalmazásának biztosítói közé sorolja. A helyes: az EUSZ 4. cikk (3) bekezdése a tagállamok — ideértve a bírósági szerveket — feladatává teszi az uniós jog alkalmazásának és tiszteletben tartásának biztosítását. A lojális együttműködés tehát nem korlátozódik a Bizottsággal szembeni viszonyra."
+        },
+        {
+          "text": "A lojális együttműködés lehetővé teszi, hogy a tagállam egyoldalú törvénnyel felfüggessze a rendelet alkalmazását, ha ezt a nemzeti identitás védelme indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lojális együttműködés éppen az alkalmazás biztosítását követeli, nem a felfüggesztést. A helyes: az EUSZ 4. cikk (3) bekezdése szerint a tagállamok megteszik a kötelezettségek teljesítésének biztosítása érdekében a megfelelő intézkedéseket. A nemzeti identitás védelme nem jogosít arra, hogy a tagállam egyoldalú törvénnyel felfüggessze a rendelet alkalmazását."
+        },
+        {
+          "text": "A tagállamok a Szerződésekből és az Unió intézményeinek intézkedéseiből eredő kötelezettségek teljesítése érdekében megfelelő általános vagy különös intézkedéseket tesznek — ez a lojalitás pozitív oldala az autonómia megőrzéséhez.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lojalitás nem merül ki a tartózkodásban. Az EUSZ 4. cikk (3) bekezdésének második albekezdése a megfelelő általános vagy különös intézkedéseket a Szerződésekből és az Unió intézményeinek intézkedéseiből eredő kötelezettségek teljesítéséhez köti. Ez a pozitív intézkedési oldal az autonómia megőrzését szolgálja anélkül, hogy a 267. cikk bírósági sarokkövével helyettesítené a lojalitás tartalmát."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "04e2203f6594"
+    },
+    {
+      "question": "A Van Gend en Loos-ügyben a holland és a belga kormány hatásköri kifogása milyen érvet hozott, és mit felelt rá a Bíróság?",
+      "options": [
+        {
+          "text": "A Bíróság a 12. cikk belső jogi hatályáról nem dönthetett, mert a 169. cikk szerinti kötelezettségszegési eljárás kizárólagos út.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Gend-ügy a 177. cikk keretében döntött a közvetlen hatályról, nem a kötelezettségszegési út kizárólagosságáról. A C-26/62. sz. ügy szerint a magánszemélyek ébersége kiegészíti a Bizottság és a tagállamok gondosságára bízott ellenőrzést. A helyes: a 12. cikk olyan egyéni jogokat keletkeztet, melyeket a nemzeti bíróságoknak védelemben kell részesíteniük. A tévedés a közjogi kereset elsőbbségének feltételezéséből ered."
+        },
+        {
+          "text": "A Bíróság szerint a hatáskörhöz szükséges és elégséges, hogy a kérdés a Szerződés értelmezésére irányuljon; a nemzeti bíróságot a kérdések megválasztásában vezető megfontolásokat és a kérdésnek az alapügyben tulajdonított jelentőséget a Bíróság nem értékeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az előzetes döntéshozatal hatásköri küszöbe az értelmezési kérdés megléte. A C-26/62. sz. ügy ezt a belga kormány „jelentéktelenségi” érvére válaszul mondta ki. A Tariefcommissie a 177. cikk alapján fordult a Bírósághoz a 12. cikk belső jogi hatályáról. A későbbi gyakorlat — Costa, Simmenthal, Weiss — ugyanezen csatornát használja, ma az EUMSZ 267. cikk szerint. Az uniós autonómia tehát már a hatásköri kapunál megjelenik."
+        },
+        {
+          "text": "A Bíróság csak akkor dönthet, ha a nemzeti alkotmánybíróság előbb megállapította, hogy a Szerződés a nemzeti jogban elsőbbséget élvez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Gend-ügy a nemzeti alkotmányjogi előkérdést elutasította. A C-26/62. sz. ügy szerint nem a holland belső jog elvei szerinti alkalmazásról kellett döntenie, hanem a 12. cikk hatályát a közösségi jog keretében és a magánszemélyekre való kihatása vonatkozásában kellett értelmeznie. A helyes: a hatáskörhöz elég, hogy a kérdés a Szerződés értelmezésére irányuljon. A tévedés az alkotmánybírósági előzetes út kötelezővé nyilvánításából ered."
+        },
+        {
+          "text": "A kormányok szerint nem a Szerződés értelmezéséről, hanem annak a holland alkotmányjog keretében való alkalmazásáról — különösen az elsőbbségről — van szó; a Bíróság e jogalapot elvetette, mert a 177. cikk a) pontjának megfelelően a 12. cikk hatályát a közösségi jog keretében kellett értelmeznie.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Van Gend-ügy a hatáskört az értelmezésre szűkíti, nem a nemzeti alkotmányjogi alkalmazásra. A C-26/62. sz. ügy szerint a Bíróságnak nem a holland belső jog elvei szerinti alkalmazásról kellett döntenie, hanem a 12. cikk magánszemélyekre való kihatásáról a közösségi jog keretében. A belga kormánynak arra az érvére, hogy a válasznak nincs jelentősége az alapjogvita szempontjából, a Bíróság azt felelte: a hatáskörhöz szükséges és elégséges, hogy a kérdés a Szerződés értelmezésére irányuljon. A nemzeti bíróság vezető megfontolásait a Bíróság nem értékeli."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "028dc3ec55ff"
+    },
+    {
+      "question": "Flaminio Costa a milánói Giudice Conciliatore előtt azzal érvelt, hogy az 1962. évi olasz államosítási törvény sérti az EGK-Szerződést. Mely megállapítások állják meg a helyüket az elsőbbség szempontjából?",
+      "options": [
+        {
+          "text": "A Bíróság a 169. cikk alapján megsemmisíthette az 1962. évi olasz törvényt, mert az ütközött a Szerződéssel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Costa-ügyben a Bíróság nem dönthetett az olasz törvény érvényességéről. A C-6/64. sz. ügy szerint azt a 169. cikk alapján tehetné, de a 177. cikk keretében a pontatlan megfogalmazásból a Szerződés értelmezésére vonatkozó kérdéseket emelte ki. A helyes: az előzetes döntéshozatal értelmezést ad, nem nemzeti törvényt semmisít meg. A tévedés a két eljárás hatásköri tárgyának felcseréléséből ered."
+        },
+        {
+          "text": "Az államok a Szerződésben meghatározott jogaikat és kötelezettségeiket a nemzeti jogrendszerükről a közösségi jogrendszerre átruházták: ez szuverén jogaik végleges korlátozását eredményezi, amellyel szemben utólagos, egyoldalú jogi aktusok nem élvezhetnek elsőbbséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Costa-ügy a Flaminio Costa-féle tényállás mögött a végleges korlátozást állítja. A C-6/64. sz. ügy szerint a saját jogrendszer létrehozása és a hatáskör-átruházás után az utólagos egyoldalú nemzeti aktus nem élvezhet elsőbbséget. Ez a tényálláshoz kötött következmény, nem az „egyoldalú cselekvési jog / engedélyezési eljárás” formula szó szerinti ismétlése."
+        },
+        {
+          "text": "A hagyományos nemzetközi szerződésektől eltérően az EGK-Szerződés saját jogrendszert hozott létre, amely a hatálybalépéstől a tagállamok jogrendszerébe illeszkedik, és azok bíróságaira nézve kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Costa-ügy az autonóm jogrendet a hagyományos nemzetközi szerződésektől választja el. A C-6/64. sz. ügy szerint a saját intézményekkel, jogi személyiséggel és tényleges hatalommal felruházott Közösség létrehozásával az államok — szűk területeken — korlátozták szuverén jogaikat. A közösségi jog valamennyi tagállam jogába való beépítése szükségszerűen kizárja, hogy az államok utólagos, egyoldalú intézkedést érvényesítsenek. A vállalt kötelezettségek nem lennének feltétel nélküliek, ha a jövőbeli nemzeti jogalkotás megkérdőjelezhetné őket."
+        },
+        {
+          "text": "Az olasz kormány helyesen állította, hogy a nemzeti bíróság, amelynek adott nemzeti törvényt kell alkalmaznia, soha nem folyamodhat a 177. cikkhez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Costa-ügy az olasz kormány feltétlen elfogadhatatlansági kifogását elvetette. A C-6/64. sz. ügy rendelkező része szerint a 177. cikk alapján feltett kérdések elfogadhatóak, mivel semmilyen későbbi, egyoldalúan hozott jogi aktus nem érvényesíthető a közösségi szabályozással szemben. A helyes: a nemzeti törvény alkalmazási kötelezettsége nem zárja ki az előzetes döntéshozatalt. A tévedés a lex fori abszolutizálásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "a7d81d86625b"
+    },
+    {
+      "question": "A Pretore de Susa a Simmenthal-ügyben egészségügyi díjak visszafizetését rendelte el. Mely állítások helyesek a közösségi norma és a későbbi 1239/70. sz. törvény ütközésére?",
+      "options": [
+        {
+          "text": "A díjak beszedése a Pretore megítélése szerint összeegyeztethetetlen volt a közösségi joggal — köztük a 805/68 tanácsi rendelettel —, ezért a későbbi nemzeti díjtáblázat nem tarthatta fenn a beszedést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Simmenthal-tényállás a rendelet és a későbbi nemzeti törvény kollíziója. A C-106/77. sz. ügy szerint a Pretore korábban, a 35/76. sz. ügyben már kapott választ a Bíróságtól, és ennek alapján ítélte összeegyeztethetetlennek a díjakat. Az adóhatóság kifogása nyomán merült fel a közösségi norma és a később elfogadott 1239/70. sz. törvény ellentmondása. A 189. cikk szerinti közvetlen alkalmazandóság e kollíziót a közösségi norma javára dönti el."
+        },
+        {
+          "text": "A 1239/70. sz. törvény lex posteriorként felülírta a 805/68 tanácsi rendeletet, mert később fogadták el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy a lex posterior nemzeti olvasatot elveti. A C-106/77. sz. ügy szerint a későbbi nemzeti törvény nem „erősebb” a korábbi közösségi normánál; a közvetlen alkalmazandóság a kollíziót a közösségi norma javára dönti el. A helyes: az ellentétes nemzeti rendelkezés a jog erejénél fogva alkalmazhatatlan. A tévedés a nemzeti időbeli elsőbbség ráírásából ered."
+        },
+        {
+          "text": "A visszafizetés csak akkor volt elrendelhető, ha az olasz Alkotmánybíróság előbb megsemmisítette a 1239. sz. törvényt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Pretore éppen az alkotmánybírósági út megkerülésének lehetőségét kérdezte, és a Bíróság ezt megerősítette. A C-106/77. sz. ügy szerint nem kell megvárni az alkotmányos szerv alkotmányellenesség-megállapítását. A helyes: a nemzeti bíró saját hatáskörében mellőzi az ellentétes törvényt. A tévedés az olasz Alkotmánybíróság akkori gyakorlatának kötelezővé nyilvánításából ered."
+        },
+        {
+          "text": "A közvetlenül alkalmazandó közösségi rendelkezéseknek a tagállamok jogrendszerében — azok bármilyen belső jogszabálya vagy gyakorlata ellenére — teljes hatállyal kell érvényesülniük.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a Pretore első kérdésének magja, amelyet a Bíróság megerősített. A C-106/77. sz. ügy szerint az ellentmondó későbbi nemzeti rendelkezéseket a jog erejénél fogva alkalmazhatatlannak kell tekinteni. A hatályon kívül helyezés vagy az alkotmányellenesség-megállapítás megvárása nem feltétele az alkalmazásnak. A Simmenthal-ratio így a nemzeti bíró operatív kötelességévé teszi a Costa-féle elsőbbséget."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "e42eb78f6c5b"
+    },
+    {
+      "question": "A C-493/17. sz. Weiss-ügy szerint hogyan biztosítja a Bíróság, hogy a KBER a Szerződésekben átruházott monetáris politikai hatáskörön belül maradjon?",
+      "options": [
+        {
+          "text": "Az EUMSZ 130. cikk szerinti függetlenség azt jelenti, hogy a KBER intézkedései mentesülnek a Bíróság hatásköri felülvizsgálata alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a függetlenség nem zárja ki a hatáskör-átruházás bírósági biztosítását. A helyes: a C-493/17. sz. Weiss-ügy szerint a KBER a monetáris politikát függetlenül határozza meg és hajtja végre. Ugyanakkor a hatáskör-átruházás tiszteletben tartását a Bíróság felülvizsgálata biztosítja, ezért a 130. cikk nem immunizálja az EKB aktusait."
+        },
+        {
+          "text": "Az EUMSZ 123. cikk (1) bekezdése megtiltja a közvetlen adósságinstrumentum-vásárlást közjogi intézményektől; a PSPP keretében a KBER csak a másodlagos piacokon vásárolhat, és a beavatkozás nem kölcsönözhet de facto közvetítői hatást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Weiss-vizsgálat a hatáskörön belül maradást a monetáris finanszírozási tilalomhoz is méri. A C-493/17. sz. ügy szerint az EUMSZ 123. cikk (1) bekezdése megtiltja a folyószámlahitelt és a közvetlen adósságinstrumentum-vásárlást közjogi intézményektől. A PSPP keretében a KBER csak a másodlagos piacokon vásárolhat, és a beavatkozás nem kölcsönözhet olyan hatást, mintha a kötvényeket de facto a KBER közvetítőjeként szerezték volna meg."
+        },
+        {
+          "text": "A KBER feladata a monetáris politika független meghatározása és végrehajtása, tiszteletben tartva a hatáskör-átruházás elvét, amelyet bírósági felülvizsgálata révén — a Szerződésekben meghatározott feltételekkel — a Bíróságnak kell biztosítania.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Weiss-ügy az autonómiát a hatáskör-átruházás bírósági biztosításában mutatja meg. A C-493/17. sz. ügy az EUMSZ 127. cikk (2) bekezdése, az EUMSZ 130. cikk és az EUMSZ 282. cikk (4) bekezdése alapján a KBER függetlenségét a hatáskör-átruházás tiszteletéhez köti. A monetáris politikai hatáskörön belül maradás kérdését ezért a Bíróság bírálja el a Szerződésekhez mért felülvizsgálattal."
+        },
+        {
+          "text": "A monetáris politika megosztott hatáskör a tagállamok és az Unió között az eurót bevezető államok tekintetében is, ezért a Bíróság nem vizsgálhatja az EKB határozatainak érvényességét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az eurót bevezető tagállamok tekintetében a monetáris politika kizárólagos uniós hatáskör, és a Weiss-ügy éppen a hatásköri felülvizsgálatot végzi. A helyes: az EUMSZ 3. cikk (1) bekezdésének c) pontja szerint az Unió kizárólagos hatáskörrel rendelkezik a monetáris politika területén azon tagállamok tekintetében, amelyek pénzneme az euró. A C-493/17. sz. ügy a 2015/774 határozat érvényességét e keretben, a Szerződésekhez mérve vizsgálja."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "ac232ae954cf"
+    },
+    {
+      "question": "A 2/2019. (III. 5.) AB határozat milyen összehasonlító és dogmatikai érvet hoz a magyar alkotmányos olvasat és az EUB belső nézőpontja közötti feszültségre?",
+      "options": [
+        {
+          "text": "A magyar alkotmányos olvasat az alkalmazási elsőbbséget elismeri, ugyanakkor a Van Gend–, Costa– és Simmenthal-ratiót az uniós jogrend belső nézőpontjából nem írja felül; a két nézőpont különbsége a dogmatikai magban jelenik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/2019. (III. 5.) AB határozat szerint a magyar alkotmányos nézőpont nem oldja fel az uniós belső ratiót. Az alkalmazási elsőbbség elismerése és az Alaptörvény E) cikk cím-logikája együtt áll azzal, hogy a Costa–Simmenthal-formula az uniós jogrend belső nézőpontjából mérvadó marad. A Van Gend en Loos-ügy új jogrend-olvasata tehát az uniós belső nézőpontból nem veszíti el a mércéjét a magyar cím-logika mellett sem."
+        },
+        {
+          "text": "Az EUB és az Alkotmánybíróság olvasata azonos: mindkettő szerint a tagállami alkotmány határozza meg, hogy az uniós jog mennyiben élvez elsőbbséget, és ez feloldja a Simmenthal-ratiót.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két nézőpont dogmatikai magja különbözik, és a magyar olvasat nem oldja fel a Simmenthal-ratiót az uniós belső nézőpontból. A helyes: az EUB a Szerződésből eredő jogot önálló jogforrásként kezeli, amellyel szemben utólagos nemzeti aktus nem érvényesíthető. A 2/2019. (III. 5.) AB határozat a címet az E) cikkre helyezi anélkül, hogy az uniós ratiót feloldaná."
+        },
+        {
+          "text": "A magyar Alkotmánybíróság szerint a Costa-ratio a magyar jogban is azt jelenti, hogy az Alaptörvény E) cikke nem képezheti az alkalmazhatóság címét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a többségi indokolás éppen az E) cikket teszi az alkalmazhatóság címévé. A helyes: a 2/2019. (III. 5.) AB határozat az Alaptörvény R) cikk (1) bekezdéséből kiindulva az E) cikket nevezi meg az uniós jog magyarországi alkalmazhatóságának alapjául. A Costa-ratio tehát nem szorítja ki az E) cikket a magyarországi alkalmazhatóság címéből."
+        },
+        {
+          "text": "A 22/2016. (XII. 5.) AB határozat összehasonlító áttekintése — a spanyol, a cseh és a brit alkotmányos gyakorlat — azt mutatja, hogy a nemzeti alkotmánybíróságok a szuverenitás, az alkotmányos identitás vagy az angol jog mint alap felől olvassák az elsőbbséget, míg a Bíróság a Szerződés saját jogrendszeréből.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/2019. (III. 5.) AB határozat a 22/2016. (XII. 5.) AB határozat összehasonlító áttekintésére támaszkodik. A spanyol, a cseh és a brit alkotmányos gyakorlat azt mutatja, hogy a nemzeti alkotmánybíróságok a szuverenitás, az alkotmányos identitás vagy az angol jog mint alap felől olvassák az elsőbbséget. A Bíróság viszont a Szerződés saját jogrendszeréből olvassa ugyanezt a kérdést, és ez a különbség a feszültség magja."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "71a1683fc712"
+    },
+    {
+      "question": "Mely állítások hamisak az uniós jog autonómiájáról és elsőbbségéről? (tanító)",
+      "options": [
+        {
+          "text": "A Weiss-ügy szerint a német Alkotmánybíróság a Bíróság megkerülésével érvénytelenítheti az EKB határozatát, ha a nemzeti identitás ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Weiss-ügyben a hatásköri felülvizsgálat a Bíróság előtt zajlott, nem a német Alkotmánybíróság egyoldalú érvénytelenítése útján. A C-493/17. sz. ügy nagytanácsa a 2015/774 határozat érvényességét és a Szerződés-cikkek értelmezését bírálta el. A helyes: az uniós intézmény aktusának a Szerződésekhez mért jogszerűségét a Szerződések bírósága dönti el. A tévedés a nemzeti identitás-klauzula érvényességi monopóliumként való olvasatából ered."
+        },
+        {
+          "text": "A Van Gend en Loos-ügy szerint az uniós jogrend alanyai kizárólag a tagállamok, a magánszemélyek csak nemzeti törvény alapján hivatkozhatnak a Szerződésre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Gend-ügy az állampolgárokat is a jogrend alanyainak tekinti. A C-26/62. sz. ügy szerint a Közösség a nemzetközi jog új jogrendjét képezi, amelynek alanyai nemcsak a tagállamok, hanem azok állampolgárai is, és a közösségi jog magánszemélyeknek is jogokat keletkeztet. A helyes: a magánszemélyek a nemzeti bíróságok előtt hivatkozhatnak e jogokra. A tévedés a hagyományos államközi szerződés-modell ráírásából ered."
+        },
+        {
+          "text": "A Costa-ügy szerint a későbbi nemzeti törvény lex posteriorként mindig felülírja a korábbi közösségi kötelezettséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Costa-ügy a lex posterior nemzeti olvasatot kizárja. A C-6/64. sz. ügy szerint semmilyen későbbi, egyoldalúan hozott jogi aktus nem érvényesíthető a közösségi szabályozással szemben. A helyes: a Szerződésből eredő, önálló jogforrású joggal szemben utólagos nemzeti aktus bírói úton nem érvényesíthető. A tévedés a hagyományos nemzetközi jog időbeli szabályának ráírásából ered."
+        },
+        {
+          "text": "A Simmenthal-ügy szerint a nemzeti bíró csak a jogalkotói hatályon kívül helyezés után mellőzheti az ellentétes nemzeti törvényt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy a hatályon kívül helyezés megvárását zárja ki. A C-106/77. sz. ügy szerint az ellentétes nemzeti rendelkezés a jog erejénél fogva alkalmazhatatlan, anélkül hogy meg kellene várni a nemzeti jogalkotó hatályon kívül helyezését. A helyes: a nemzeti bíró hatáskörében eljárva nem alkalmazza az ellentétes törvényt. A tévedés a nemzeti orvoslási út kötelező előfeltételként való kezeléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "13b7b97ba11a"
+    },
+    {
+      "question": "A 2/13. sz. vélemény szerint milyen előfeltevésen alapul az uniós jogi építmény a tagállamok közötti kölcsönös bizalom szempontjából?",
+      "options": [
+        {
+          "text": "Minden tagállam osztozik az Unió alapjául szolgáló közös értékekben, amint azt az EUSZ 2. cikk kimondja; ez maga után vonja és igazolja a tagállamok közötti kölcsönös bizalmat ezen értékek elismerése és az azokat végrehajtó uniós jog tiszteletben tartása tekintetében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény a közös értékeket az autonómia strukturális előfeltételévé teszi. A vélemény szerint az uniós jog alapvető jellegzetességei egymással kölcsönösen összefüggő elvek, szabályok és jogviszonyok strukturált hálózata. Az EUSZ 1. cikk második bekezdése szerint a tagállamok elköteleződtek az Európa népei közötti egyre szorosabb egység létrehozásának folyamata iránt. A Charta tiszteletben tartása — az EUSZ 6. cikk (1) bekezdése szerinti kötőerővel — az uniós jogi aktusok jogszerűségének feltétele."
+        },
+        {
+          "text": "A kölcsönös bizalom azt jelenti, hogy a tagállamok egyoldalú törvénnyel felfüggeszthetik az uniós jogot, ha a közös értékek sérelmét látják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kölcsönös bizalom az uniós jog tiszteletben tartását igazolja, nem a felfüggesztést. A 2/13. sz. vélemény szerint a közös értékek elismerése és az azokat végrehajtó uniós jog tiszteletben tartása a kölcsönös bizalom alapja. A helyes: a tagállamok az EUSZ 4. cikk (3) bekezdése szerint biztosítják az uniós jog alkalmazását. A tévedés a közös értékekre hivatkozó egyoldalú felfüggesztés lehetőségének feltételezéséből ered."
+        },
+        {
+          "text": "A Chartát nemcsak az Unió intézményeinek, szerveinek és hivatalainak kell tiszteletben tartaniuk, hanem a tagállamoknak is, amikor az uniós jogot hajtják végre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény a Charta hatályát a végrehajtó tagállamokra is kiterjeszti. Az EUSZ 6. cikk (1) bekezdése szerint a Charta ugyanolyan jogi kötőerővel bír, mint a Szerződések. Az alapvető jogok értelmezése az Unió szerkezetén és céljain belül biztosítandó — az Internationale Handelsgesellschaft-ítélet 4. pontjára és a Kadi-ítélet 281–285. pontjára utalva. A lojális együttműködés (EUSZ 4. cikk (3) bekezdés) az alkalmazás biztosítását követeli."
+        },
+        {
+          "text": "A Charta csak az Unió intézményeire kötelező, a tagállamokra soha, még uniós jog végrehajtása esetén sem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2/13. sz. vélemény kifejezetten kiterjeszti a Chartát a végrehajtó tagállamokra. A vélemény szerint a Chartát a tagállamoknak is tiszteletben kell tartaniuk, amikor az uniós jogot hajtják végre. A helyes: az EUSZ 6. cikk (1) bekezdése szerinti kötőerő a végrehajtási helyzetre is kihat. A tévedés a Charta hatályának intézményekre szűkítéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "fc644c30997a"
+    },
+    {
+      "question": "Milyen tartamban kell a közösségi joggal ellentétes nemzeti rendelkezés alkalmazhatatlanságának érvényesülnie a Simmenthal-ügy logikája szerint, ha a hatályon kívül helyezés visszamenőleges hatályáról is szó esik?",
+      "options": [
+        {
+          "text": "Az alkalmazhatatlanság csak ex nunc hatályú lehet, a hatálybalépés és a bírói mellőzés közötti időszakra a nemzeti törvény marad irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy a hatások egységességét a hatálybalépéstől követeli. A C-106/77. sz. ügy szerint a közvetlenül alkalmazandó rendelkezések hatálybalépésüktől kezdődően fejtik ki valamennyi hatásukat. A helyes: a kollízió a jog erejénél fogva, a hatálybalépés tényénél fogva dől el a közösségi norma javára. A tévedés az ex nunc nemzeti orvoslás ráírásából ered."
+        },
+        {
+          "text": "A közvetlen alkalmazandóság hatálybalépéstől az érvényesség teljes időtartamáig egységesen fejt ki hatásokat, ezért a kollízió eldöntése nem tolható el a későbbi hatályon kívül helyezés napjára.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Simmenthal-ügy a hatások folytonosságát rögzíti. A C-106/77. sz. ügy szerint a közösségi szabályoknak hatálybalépésüktől kezdődően és érvényességük teljes időtartama alatt egységesen kell kifejteniük valamennyi hatásukat. A Pretore második kérdése arra irányult, hogy a hatályon kívül helyezésnek teljes és korlátlan visszamenőleges hatállyal kell-e történnie — feltéve, hogy a védelem elhalasztható. A Bíróság azonban már az első kérdésnél kizárta a megvárást. A jog erejénél fogva beálló alkalmazhatatlanság ezért időben a közösségi norma hatályához igazodik."
+        },
+        {
+          "text": "A visszamenőleges hatás csak akkor kötelező, ha az Alkotmánybíróság kifejezetten elrendeli a teljes ex tunc megsemmisítést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy az alkotmánybírósági megsemmisítést nem teszi az alkalmazás előfeltételévé. A C-106/77. sz. ügy szerint az alkotmánybírósági megsemmisítés megvárása nem feltétele a közösségi norma alkalmazásának. A helyes: a nemzeti bíró a jog erejénél fogva mellőzi az ellentétes rendelkezést. A tévedés a nemzeti megsemmisítési hatály és az uniós alkalmazhatatlanság összecseréléséből ered."
+        },
+        {
+          "text": "A nemzeti bíróságok mint tagállami szervek feladata, hogy hatáskörükben eljárva védjék a közösségi jog által a magánszemélyekre ruházott jogokat a teljes érvényességi idő alatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Simmenthal-ügy a bírói védelmet a közvetlen alkalmazandóság részévé teszi. A C-106/77. sz. ügy szerint e rendelkezések jogok és kötelezettségek közvetlen forrását jelentik a tagállamok és a magánszemélyek számára. Az elsőbbség a hatálybalépés ténye folytán alkalmazhatatlanná teszi az ellentétes nemzeti rendelkezést. A 2/2019. (III. 5.) AB határozat a Simmenthal (II)-ügy 22. pontját az elsőbbség megerősítéseként hívja fel."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "a09399ac1111"
+    },
+    {
+      "question": "A közösségi jog végrehajtásának kötelezettsége a Costa-ügy szerint miért nem változhat egyik államról a másikra az utólagos nemzeti jogalkotástól függően?",
+      "options": [
+        {
+          "text": "A kötelezettségek csak akkor feltétel nélküliek, ha minden tagállam alkotmánya azonos szöveggel emelte át a Szerződést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Costa-ügy a feltétel nélküli jelleget a Szerződés saját jogrendszeréből vezeti le, nem az alkotmányos átültetés szövegazonosságából. A C-6/64. sz. ügy szerint a közösségi jog a hatálybalépéstől a tagállamok jogrendszerébe illeszkedik, és azok bíróságaira nézve kötelező. A helyes: az utólagos nemzeti jogalkotás nem teheti esetlegessé a vállalt kötelezettségeket. A tévedés a nemzeti transzformáció követelményének ráírásából ered."
+        },
+        {
+          "text": "Ellenkező esetben veszélybe kerülne a Szerződés 5. cikkének második bekezdésében említett célok megvalósulása, és a 7. cikkben tiltott hátrányos megkülönböztetés állna elő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Costa-ügy a viszonosság és az egyenlő alkalmazás felől is érvel. A C-6/64. sz. ügy szerint a vállalt kötelezettségek nem lennének feltétel nélküliek, csupán esetlegesek, ha az aláírók jövőbeli jogalkotási aktusai azokat megkérdőjelezhetnék. A közösségi jog beépítése a tagállamok jogába szükségszerűen kizárja az utólagos egyoldalú intézkedés érvényesítését. Az elsőbbség tehát a belső piac egységes kötelezettség-struktúráját is védi."
+        },
+        {
+          "text": "A 189. cikk — ma az EUMSZ 288. cikk — szerint a rendelet kötelező érvényű és közvetlenül alkalmazandó valamennyi tagállamban; e rendelkezéshez semmilyen fenntartást nem fűztek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Costa-ügy a rendelet fordulatát az elsőbbség szerződéses támaszaként használja. A C-6/64. sz. ügy szerint e rendelkezés tartalmatlan volna, ha egy állam a közösségi jogszabályokkal szemben érvényesíthető jogalkotási aktussal egyoldalúan semmissé tehetné annak hatályát. A szuverén jogok korlátozásával szemben az utólagos egyoldalú jogi aktusok nem élvezhetnek elsőbbséget. A nemzeti bíró ezért a közösségi szabályozással szemben nem érvényesíthet későbbi törvényt."
+        },
+        {
+          "text": "Az utólagos nemzeti törvény mindig megengedett, ha a tagállam a 7. cikk szerinti egyenlő bánásmódot belső jogában külön biztosítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Costa-ügy a megkülönböztetés tilalmát éppen az utólagos egyoldalú eltérés ellen fordítja. A C-6/64. sz. ügy szerint a végrehajtás kötelezettsége nem változhat államról államra az utólagos nemzeti jogalkotástól függően anélkül, hogy a 7. cikkben tiltott hátrányos megkülönböztetés ne állna elő. A helyes: az utólagos egyoldalú intézkedés nem érvényesíthető a közösségi jogrendszerrel szemben. A tévedés a diszkriminációtilalom „kompenzáló” olvasatából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "9599f3585b49"
+    },
+    {
+      "question": "A Weiss-ügyben a Bíróság az indokolási kötelezettség körében milyen megállapítást tett a 2015/774 határozatról?",
+      "options": [
+        {
+          "text": "A Bíróság az arányosság vizsgálatát mellőzte, mert a monetáris politika kizárólagos hatáskörében a KBER szabadon dönt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Weiss-ügyben a Bíróság kifejezetten vizsgálta az arányosságot. A C-493/17. sz. ügy szerint a 2015/774 határozat nem sérti az arányosság elvét. A helyes: a kizárólagos hatáskör nem mentesít a Szerződésekben meghatározott feltételek — így az arányosság — bírósági ellenőrzése alól. A tévedés a hatáskör és a felülvizsgálat alóli immunitás összecseréléséből ered."
+        },
+        {
+          "text": "A tilalmi időszakra vonatkozó részletek utólagos közzétételének hiánya önmagában érvénytelenné tette a 2015/774 határozatot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság e hiányt nem sorolta az indokolási kötelezettség érvénytelenségi körébe. A C-493/17. sz. ügy szerint a közzététel az intézkedés pontos tartalmára, nem az indokaira vonatkozna. A helyes: a 2015/774 határozat kapcsán nem merül fel olyan indokolási hiányosság, amely érvénytelenséget eredményezne. A tévedés a tartalmi közzététel és az indokolás azonosításából ered."
+        },
+        {
+          "text": "A 2015/774 határozat kapcsán nem merül fel olyan indokolási hiányosság, amely e határozat érvénytelenségét eredményezné.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Weiss-ügy először az indokolást vizsgálta. A C-493/17. sz. ügy szerint a tilalmi időszakra vonatkozó részletek utólagos közzétételének hiánya nem az indokolási kötelezettség körébe tartozik, mert a közzététel az intézkedés pontos tartalmára, nem az indokaira vonatkozna. A PSPP célja a preambulum szerint a monetáris politika transzmissziójának előmozdítása és az inflációs ráták visszatérése a 2%-hoz közeli, de 2% alatti szintekhez. Az indokolás tehát elválik a technikai közzétételtől."
+        },
+        {
+          "text": "A tilalmi időszakra vonatkozó részletek utólagos közzétételének hiánya nem az indokolási kötelezettség körébe tartozik, mert a közzététel az intézkedés pontos tartalmára, nem az indokaira vonatkozna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Weiss-ügy az indokolást elválasztja a közzétételtől. A C-493/17. sz. ügy szerint a 2015/774 határozat kapcsán nem merül fel olyan indokolási hiányosság, amely e határozat érvénytelenségét eredményezné. A tilalmi időszakra vonatkozó részletek utólagos közzétételének hiánya azért esik kívül az indokolási kötelezettségen, mert a közzététel az intézkedés pontos tartalmára, nem az indokaira vonatkozna."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "3bda35ada7cb"
+    },
+    {
+      "question": "Az EUMSZ 267. cikk a 2/13. sz. vélemény, a Costa-, a Simmenthal- és a Weiss-ügy együttes olvasatában milyen szerepet tölt be?",
+      "options": [
+        {
+          "text": "A 267. cikk csak érvényességi kérdésekre nyitott, értelmezési kérdésben a nemzeti bíró véglegesen dönthet a Bíróság nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az előzetes döntéshozatal nem korlátozódik érvényességi kérdésekre. Az EUMSZ 267. cikk — a korábbi 177. cikk utóda — értelmezési és érvényességi kérdésre egyaránt lehetőséget ad, és a 2/13. sz. vélemény az értelmezés egységességét emeli ki a Van Gend-hivatkozással. A helyes: Simmenthal szerint a nemzeti bíró akadályoztatása rontaná a rendelkezés hatékony érvényesülését. A tévedés az érvényességi út kizárólagosságának feltételezéséből ered."
+        },
+        {
+          "text": "Costa szerint bármely nemzeti törvényre való tekintet nélkül alkalmazandó; Simmenthal szerint hatékony érvényesülését rontaná, ha a nemzeti bíró akadályoztatva lenne; Weissben az uniós aktus érvényességének felülvizsgálatára szolgál.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény e három funkciót köti össze. A vélemény szerint a 267. cikk a bírósági rendszer sarokköve: a bírák közötti párbeszéd az értelmezés egységességét, a koherenciát, a teljes érvényesülést és az autonómiát szolgálja. A Van Gend & Loos ítéletre utalva rögzíti, hogy az állampolgárok a közösségi jogra a nemzeti bíróságok előtt hivatkozhatnak. A procedurális csatorna tehát az autonómia anyagi biztosítéka."
+        },
+        {
+          "text": "A nemzeti bíróságok és a Bíróság feladata biztosítani az uniós jog teljes körű alkalmazását valamennyi tagállamban, valamint a jogalanyokat e jog alapján megillető jogok bírói védelmét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény a bírósági rendszert az autonómia megőrzésének eszközévé teszi. A Szerződések az uniós jog értelmezése terén a koherencia és egységesség biztosítására szolgáló bírósági rendszert hoztak létre. Az EUSZ 4. cikk (3) bekezdése szerinti lojális együttműködés a tagállamok feladatává teszi az alkalmazás biztosítását. A 267. cikk nélküli nemzeti út ezért nem helyettesítheti az uniós értelmezési egységet."
+        },
+        {
+          "text": "A 267. cikk mellőzhető, ha a nemzeti Alkotmánybíróság már értelmezte az uniós norma és a nemzeti törvény viszonyát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti Alkotmánybíróság előzetes értelmezése nem helyettesíti az uniós előzetes döntéshozatalt. A C-6/64. sz. ügy szerint a 177. cikket bármely nemzeti törvényre való tekintet nélkül alkalmazni kell, és a 2/13. sz. vélemény az EUMSZ 267. cikket a koherencia, a teljes érvényesülés és az autonómia sarokkövévé teszi. A helyes: a nemzeti alkotmánybírósági út nem zárja ki a Bírósághoz fordulást. A tévedés a nemzeti értelmezés elsőbbségének feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "5f541c65dfd5"
+    },
+    {
+      "question": "Mely esetben nem keletkeztet a Costa-ügy szerint a nemzeti bíróságok által védendő egyéni jogot a hivatkozott Szerződés-cikk?",
+      "options": [
+        {
+          "text": "Az 53. cikk semmilyen körülmények között nem keletkeztethet a jogalanyok számára ilyen jogokat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Costa-ügy az 53. cikket a közvetlen hatály szempontjából pozitívan bírálta el. A C-6/64. sz. ügy szerint az 53. cikk olyan közösségi szabály, amely a jogalanyok számára a nemzeti bíróságok által védendő jogokat keletkeztethet. A helyes: a közvetlen hatály a tilalom vagy a kötelezettség természetétől függ, és az 53. cikk e körbe tartozhat. A tévedés a 102. cikk negatív eredményének az 53. cikkre történő ráírásából ered."
+        },
+        {
+          "text": "A 102. cikk — a jogszabályok közelítéséről szóló fejezet konzultációs szabálya — nem keletkeztet a jogalanyok számára olyan jogokat, amelyeket a nemzeti bíróságoknak védelemben kell részesíteniük.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Costa-ügy a közvetlen hatályról differenciáltan döntött. A C-6/64. sz. ügy szerint a 102. cikk konzultációs jellege nem alkalmas egyéni jog keletkeztetésére. A 93. cikknek a feltett kérdésre vonatkozó előírásai szintén nem. Az elsőbbség ettől még érvényesül a közösségi szabályozással szemben, de a közvetlen hatály cikkenként vizsgálandó. A konzultációs eljárás és a tilalmi rendelkezés tehát elválik."
+        },
+        {
+          "text": "A 37. cikk (2) bekezdése soha nem keletkeztethet egyéni jogot, mert mennyiségi korlátozásokról szól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Costa-ügy a 37. cikk (2) bekezdését természeténél fogva közvetlen hatályúnak találta. A C-6/64. sz. ügy szerint e tilalom világosan kifejezett, a tagállamok jogrendszerébe illeszkedik, és egyéni jogokat keletkeztet. A helyes: a mennyiségi korlátozások megszüntetéséhez kapcsolódó tilalom a tagállamok és jogalanyaik közötti jogviszonyokban közvetlen hatállyal bírhat. A tévedés a tilalom tárgyának és a közvetlen hatály alkalmasságának összecseréléséből ered."
+        },
+        {
+          "text": "A 93. cikknek a feltett kérdésre vonatkozó előírásai szintén nem keletkeztetnek a jogalanyok számára a nemzeti bíróságok által védendő jogokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Costa-ügy a 93. cikket is negatívan bírálta el a közvetlen hatály szempontjából. A C-6/64. sz. ügy ezzel szemben az 53. cikket és a 37. cikk (2) bekezdését a közvetlen hatályra alkalmasnak találta. A 37. cikk (2) bekezdése világosan kifejezett tilalom, amely a Közösség egészében hatályba lép. Az elhatárolás a kötelezettség természetén múlik, nem az elsőbbség általános elvén."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "893672e787a4"
+    },
+    {
+      "question": "A 291. cikk (1) bekezdése és a 288. cikk együttes olvasata szerint miben tér el a rendelet és az irányelv végrehajtása?",
+      "options": [
+        {
+          "text": "Rendeletnél a végrehajtás nem a hatály pótlása, hanem a már közvetlenül alkalmazandó norma érvényesülésének biztosítása; irányelvnél a 288. cikk szerinti eredménykötelezettség transzpozíciója.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két aktus kötőereje más végrehajtási logikát követel. Az EUMSZ 291. cikk (1) bekezdése szerint a tagállamok nemzeti jogukban elfogadják a kötelező erejű uniós jogi aktusok végrehajtásához szükséges intézkedéseket. Az EUMSZ 288. cikk szerint a rendelet közvetlenül alkalmazandó, az irányelv viszont a forma és az eszközök megválasztását a nemzeti hatóságokra hagyja. A Costa–Simmenthal-argumentum a rendelet fordulatára épül. Az elhatárolás tehát a hatály forrásánál kezdődik."
+        },
+        {
+          "text": "A rendelet teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban, ezért egyoldalú nemzeti törvénnyel a hatálya nem tehető semmissé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet három ismérve a Costa-féle elsőbbség szerződéses magja. Az EUMSZ 288. cikk szerint a rendelet általános hatállyal bír, teljes egészében kötelező, és közvetlenül alkalmazandó valamennyi tagállamban. A C-106/77. sz. Simmenthal-ügyben a Pretore éppen e közvetlen alkalmazandóság kollíziós következményeit kérdezte a későbbi nemzeti törvénnyel szemben. A 291. cikk (1) bekezdése szerinti intézkedések az érvényesülést szolgálják, nem a hatály keletkeztetését."
+        },
+        {
+          "text": "Irányelvnél nincs szükség nemzeti intézkedésre, mert az irányelv is közvetlenül alkalmazandó valamennyi tagállamban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelv a 288. cikk szerint eredménykötelezettséget ró a címzett tagállamra. Az EUMSZ 288. cikk szerint a forma és az eszközök a nemzeti hatóságoké, ezért a 291. cikk (1) bekezdése szerinti végrehajtás irányelvnél a transzpozíció. A helyes: a rendelet és az irányelv végrehajtási logikája elválik. A tévedés a rendelet közvetlen alkalmazandóságának az irányelvre történő ráírásából ered."
+        },
+        {
+          "text": "Rendeletnél a hatály csak a 291. cikk (1) bekezdése szerinti nemzeti végrehajtási aktussal áll be.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet hatálya a 288. cikk szerinti közvetlen alkalmazandóságból ered. Az EUMSZ 288. cikk szerint a rendelet nem szorul tagállami transzformációra ahhoz, hogy a belső jogban hasson. A helyes: a 291. cikk (1) bekezdése rendeletnél az érvényesülés biztosítását jelenti, nem a hatály pótlását. A tévedés az irányelv-transzpozíció és a rendeleti végrehajtás összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "fe61d1cda2a2"
+    },
+    {
+      "question": "Mely állítások hamisak a Simmenthal-ügy nemzeti bírói kötelességéről? (tanító)",
+      "options": [
+        {
+          "text": "A nemzeti bíró csak akkor fordulhat a Bírósághoz, ha előbb kimerítette a nemzeti alkotmányossági utat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy szerint a 177. cikk hatékony érvényesülését rontaná, ha a bíróság a Bírósághoz fordulásban akadályoztatva lenne. A C-106/77. sz. ügy szerint bármely nemzeti bíróság a Bírósághoz fordulhat, ha közösségi jogi értelmezési vagy érvényességi kérdésre van szüksége. A helyes: a nemzeti alkotmányossági út nem előfeltétel. A tévedés a belső jogorvoslatok kimerítésének uniós előzetes döntéshozatalra történő ráírásából ered."
+        },
+        {
+          "text": "A közösségi joggal ellentétes nemzeti törvény mindaddig teljes hatállyal alkalmazandó, amíg a parlament hatályon kívül nem helyezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy a jogalkotói hatályon kívül helyezés megvárását zárja ki. A C-106/77. sz. ügy szerint az ellentétes nemzeti rendelkezést a jog erejénél fogva alkalmazhatatlannak kell tekinteni. A helyes: a nemzeti bíró saját hatáskörében mellőzi a közösségi jog teljes érvényesülését akadályozó törvényt. A tévedés a lex posterior nemzeti orvoslás kötelező előfeltételként való kezeléséből ered."
+        },
+        {
+          "text": "Az új, összeegyeztethetetlen nemzeti jogalkotási aktus érvényesen létrejöhet, és csak a Bizottság keresete után veszti el hatályát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy az összeegyeztethetetlen új aktus érvényes létrehozását is akadályozza. A C-106/77. sz. ügy szerint az elsőbbség megakadályozza a közösségi normákkal összeegyeztethetetlen új nemzeti jogalkotási aktusok érvényes létrehozását. A helyes: ellenkező esetben a feltétel nélkül vállalt kötelezettségek tényleges jellege tagadást szenvedne. A tévedés a kötelezettségszegési eljárás és az alkalmazási elsőbbség összecseréléséből ered."
+        },
+        {
+          "text": "Az alkotmánybírósági megsemmisítés a közösségi norma alkalmazásának kötelező előfeltétele minden tagállamban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy az alkotmánybírósági út megvárását is kizárja. A C-106/77. sz. ügy a Pretore kérdésére azt felelte: az ellentétes törvény mellőzéséhez nem szükséges az alkotmányellenesség előzetes megállapítása. A helyes: a közvetlen alkalmazandóság a hatálybalépés tényénél fogva dönti el a kollíziót. A tévedés az akkori olasz alkotmánybírósági út kötelezővé nyilvánításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "a0563ab9af2d"
+    },
+    {
+      "question": "Az EUSZ 4. cikk (2) bekezdése és a Weiss-ügy viszonyában mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A 4. cikk (2) bekezdése automatikusan felülírja a 288. cikk szerinti rendelet közvetlen alkalmazandóságát, ha alkotmányos identitásról van szó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2/2019. (III. 5.) AB határozat indokolása szerint a 4. cikk (2) bekezdése nem oldja fel a Costa–Simmenthal-ratiót. Az EUSZ 4. cikk (2) bekezdése a nemzeti identitás tiszteletben tartását írja elő, de a rendelet a 288. cikk szerint továbbra is közvetlenül alkalmazandó. A helyes: a két sík együtt van jelen anélkül, hogy az elsőbbség a Szerződések oldaláról megszűnne. A tévedés a nemzeti identitás abszolút elsőbbség-feloldó olvasatából ered."
+        },
+        {
+          "text": "A Weiss-ügyben a Bíróság hatáskör hiányában elutasította a 4. cikk (2) bekezdésének értelmezését.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kérelem kifejezetten kiterjedt az EUSZ 4. cikk (2) bekezdésének értelmezésére is. A C-493/17. sz. ügy a Bundesverfassungsgericht előzetes döntéshozatali kérelme nyomán a 2015/774 határozat érvényessége mellett a 4. cikk (2) bekezdés, a 123. és a 125. cikk értelmezését is vizsgálta. A helyes: a nemzeti identitás-klauzula értelmezése a 267. cikk tárgya lehet. A tévedés a kérelem terjedelmének leszűkítéséből ered."
+        },
+        {
+          "text": "A nemzeti identitás tiszteletben tartása nem jelenti azt, hogy a német Alkotmánybíróság a Bíróság megkerülésével érvényteleníthetné a 2015/774 határozatot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Weiss-ügy procedurális útja az előzetes döntéshozatal. A C-493/17. sz. ügy szerint a KBER hatáskörön belüli maradását a Bíróságnak kell biztosítania a Szerződésekben meghatározott feltételekkel. A 267. cikk itt az uniós aktus érvényességének felülvizsgálatára szolgál. A nemzeti identitás-klauzula tehát értelmezési kérdés lehet, de nem helyettesíti a Bíróság érvényességi szerepét."
+        },
+        {
+          "text": "Az Unió tiszteletben tartja a tagállamoknak a Szerződések előtti egyenlőségét, valamint nemzeti identitását, amely elválaszthatatlan része azok alapvető politikai és alkotmányos berendezkedésének; a Weiss-ügyben a Bundesverfassungsgericht e bekezdés értelmezését is kérte.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/2019. (III. 5.) AB határozat indokolása az EUSZ 4. cikk (2) bekezdését a Weiss-üggyel kapcsolja. A két sík — uniós autonómia és tagállami nemzeti identitás — ugyanazon dogmatikai térben jelenik meg. A bekezdés azonban a Costa–Simmenthal-ratio szerinti elsőbbséget a Szerződések oldaláról nem oldja fel. A hatáskör-átruházás bírósági biztosítása a Weiss-ügyben továbbra is a Bíróság feladata."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "bc9b2ebfa78b"
+    },
+    {
+      "question": "A Van Gend en Loos-ügy szerint a közösségi jog miként keletkeztet jogokat a magánszemélyek számára?",
+      "options": [
+        {
+          "text": "A jogok nemcsak akkor keletkeznek, amikor a Szerződés ezeket kifejezetten előírja, hanem azokból a kötelezettségekből eredően is, amelyeket a Szerződés egyértelműen rögzít a magánszemélyek, a tagállamok és a közösségi intézmények számára.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Van Gend-ratio a jogkeletkeztetést a kötelezettség-struktúrához köti. A C-26/62. sz. ügy szerint a tagállamok jogszabályaitól független közösségi jog amellett, hogy a magánszemélyekre kötelezettségeket állapít meg, arra is szolgál, hogy számukra jogokat keletkeztessen. E jogok az őket megillető jogok összességének részévé válnak. A 12. cikk világos és feltétel nélküli tilalma e szerkezetben közvetlen hatállyal bír."
+        },
+        {
+          "text": "Egyéni jog csak akkor keletkezik, ha a nemzeti parlament külön törvényben „átváltoztatja” a Szerződés kötelezettségét alanyi joggá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Gend-ügy a belső átváltoztató aktus szükségességét elveti. A C-26/62. sz. ügy szerint a 12. cikk végrehajtása nem teszi szükségessé a tagállamok jogalkotói beavatkozását. A helyes: a világos és feltétel nélküli tilalom közvetlen hatállyal bír, és egyéni jogokat keletkeztet. A tévedés a dualista transzformáció ráírásából ered."
+        },
+        {
+          "text": "A Szerződés célkitűzése olyan közös piac létrehozása, amelynek működése közvetlenül érinti a Közösség jogalanyait; ez több, mint a szerződő államok közötti kölcsönös kötelezettségeket létrehozó megállapodás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Van Gend-ügy a szerződés szelleméből, rendszeréből és megfogalmazásából indul. A C-26/62. sz. ügy szerint a preambulum a kormányok mellett a népeket is említi, és az intézmények jogainak gyakorlása a tagállamokat és azok állampolgárait egyaránt érinti. A Bíróság 177. cikkes szerepe megerősíti, hogy a közösségi jogra az állampolgárok hivatkozhatnak. Az új jogrend tehát a magánszemélyt is alanyként kezeli."
+        },
+        {
+          "text": "A magánszemélyekre csak kötelezettségek telepíthetők; jogokat kizárólag a tagállamok egymás közötti viszonyában keletkeztet a Szerződés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Gend-ügy mindkét irányt rögzíti. A C-26/62. sz. ügy szerint a közösségi jog a magánszemélyekre kötelezettségeket állapít meg, és számukra jogokat is keletkeztet. A helyes: a jogrend alanyai a tagállamok és az állampolgárok. A tévedés a kizárólagos államközi kötelezettség-modellből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "86a0dbc9219f"
+    },
+    {
+      "question": "A 2/2019. (III. 5.) AB határozat Czine Ágnes különvéleménye milyen ívet rajzol az EUB elsőbbségi gyakorlatáról?",
+      "options": [
+        {
+          "text": "A Van Gend en Loos- és a Costa-ügy után az EUB az elsőbbséget megerősítette a tagállamok jogszabályaival — így a Simmenthal (II)-ügy 22. pontja — és alkotmányos rendelkezéseivel összefüggésben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különvélemény az integráció kezdeti döntéseiből indul. A 2/2019. (III. 5.) AB határozat szerint e döntésekből megállapítható, hogy a tagállamok autonóm jogrendet hoztak létre, amelynek alapvető vonása az uniós jog elsőbbségének elve. Az Internationale Handelsgesellschaft-ügy, C-11/70 szerint a Szerződésből származó jogot nem írhatják felül a nemzeti jog szabályai, bármilyen formában is léteznek. Az alkotmányos forma tehát nem mentesít az elsőbbség alól az uniós nézőpontból."
+        },
+        {
+          "text": "A különvélemény szerint az Internationale Handelsgesellschaft-ügy lehetővé teszi, hogy a nemzeti alkotmány alapvető joga felülírja a közösségi intézkedést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a különvélemény éppen az ellenkezőjét rögzíti. A C-11/70. sz. ügy szerint — a 2/2019. (III. 5.) AB határozat indokolása szerint — egy közösségi intézkedés érvényességét vagy tagállamon belüli hatályát nem érinti az alkotmányos alapvető jogra való hivatkozás. A helyes: a Szerződésből származó jogot nem írhatják felül a nemzeti jog szabályai anélkül, hogy megfosztanák közösségi jellegétől. A tévedés az alkotmányos hivatkozás abszolút hatásának feltételezéséből ered."
+        },
+        {
+          "text": "A különvélemény szerint a Simmenthal (II)-ügy csak a tagállami rendeletekre vonatkozik, a törvényekre és az alkotmányos rendelkezésekre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a különvélemény a Simmenthal (II)-ügy 22. pontját a tagállami jogszabályokkal szembeni elsőbbség megerősítéseként hívja fel, és az alkotmányos rendelkezésekkel összefüggő gyakorlatot is említi. A 2/2019. (III. 5.) AB határozat szerint az EUB az elsőbbséget a jogszabályokkal és az alkotmányos rendelkezésekkel összefüggésben is megerősítette. A helyes: az elsőbbség nem áll meg a rendeleti szintű nemzeti aktusoknál. A tévedés a Simmenthal-hatály indokolatlan leszűkítéséből ered."
+        },
+        {
+          "text": "Az EUB már az integráció kezdeti időszakában hangsúlyozta, hogy az alapító szerződések sajátos „új jogrendet” hoztak létre, melynek javára a tagállamok — szűk területeken — korlátozták szuverén jogaikat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különvélemény a Van Gend-formulát idézi. A 2/2019. (III. 5.) AB határozat a C-6/64. sz. Costa v. ENEL ügyre is hivatkozik: a hagyományos nemzetközi szerződésektől eltérően az EGK-Szerződés saját jogrendszert hozott létre, amely a hatálybalépéstől a tagállamok jogrendszerébe illeszkedik. A többségi indokolás ettől eltérő nézőpontot rögzít az Alaptörvény E) cikke és a fenntartott szuverenitás felől. A két olvasat különbsége a dogmatikai magban jelenik meg."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "58df52e7e0e4"
+    },
+    {
+      "question": "Mi következik abból, ha a KBER a PSPP keretében úgy alakítja a másodlagos piaci felvásárlást, hogy a piaci szereplők de facto a KBER közvetítőiként járnak el?",
+      "options": [
+        {
+          "text": "Ilyen esetben a Bíróság hatásköre megszűnik, mert a monetáris politika kizárólagos uniós hatáskör.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kizárólagos hatáskör éppen a Bíróság felülvizsgálati szerepét indokolja a hatáskör-átruházás biztosításában. A C-493/17. sz. ügy szerint a KBER hatáskörön belüli maradását a Bíróság biztosítja a Szerződésekben rögzített feltételekkel. A helyes: a 123. cikk (1) bekezdése szerinti tilalom a felülvizsgálat tárgya. A tévedés a kizárólagos hatáskör és a bírósági immunitás összecseréléséből ered."
+        },
+        {
+          "text": "A beavatkozás összeegyeztethetetlen lenne az EUMSZ 123. cikk (1) bekezdésével, mert a másodlagos piaci vásárlás olyan hatást kölcsönözne, mintha a kötvényeket közvetlenül a közjogi intézményektől szerezték volna meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Weiss-ügy a de facto közvetítői hatásnál húzza meg a tilalom határát. A C-493/17. sz. ügy szerint a KBER beavatkozása összeegyeztethetetlen lenne a 123. cikk (1) bekezdésével, ha az elsődleges piacon államkötvényeket szerző gazdasági szereplők bizonyosak lennének abban, hogy a KBER azokat olyan határidőn belül és olyan feltételekkel vásárolja fel, amelyek lehetővé tennék a közvetítői szerepet. A biztosítékok éppen ezt hivatottak kizárni. A rendezett költségvetési politika ösztönzése sem vonható meg."
+        },
+        {
+          "text": "A de facto közvetítői hatás irreleváns, mert a másodlagos piaci vásárlás mindig jogszerű, ha az árstabilitás a cél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Weiss-ügy a de facto közvetítői hatást a 123. cikk (1) bekezdése szerinti tilalom megsértésének minősítheti. A C-493/17. sz. ügy szerint a másodlagos piaci vásárlás nem kölcsönözhet olyan hatást, mintha a kötvényeket közvetlenül a közjogi intézményektől szerezték volna meg. A helyes: az árstabilitási cél nem mentesít a finanszírozási tilalom alól. A tévedés a monetáris cél abszolút mentességként való olvasatából ered."
+        },
+        {
+          "text": "A tilalom célja, hogy a KBER ne nyújtson bármiféle pénzügyi támogatást valamely tagállamnak; a másodlagos piaci műveletet ezért biztosítékok közé kell ágyazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a monetáris finanszírozás tilalma a közvetlen támogatást célozza. Az EUMSZ 123. cikk (1) bekezdése megtiltja az EKB-nak és a nemzeti központi bankoknak a közjogi intézményeknek nyújtott hitelt és a közvetlen adósságinstrumentum-vásárlást. A C-493/17. sz. ügy szerint a tilalom megtiltja a pénzügyi támogatást anélkül, hogy általános jelleggel kizárná a korábban kibocsátott értékpapírok felvásárlását a tagállam hitelezőitől. A PSPP biztosítékai éppen a tilalommal való összeegyeztethetőséget szolgálják."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "928b90778e60"
+    },
+    {
+      "question": "A határozat és a rendelet elhatárolása az EUMSZ 288. cikk szerint miben jelentkezik az elsőbbség szerződéses argumentuma szempontjából?",
+      "options": [
+        {
+          "text": "A rendelet általános hatályú és valamennyi tagállamban közvetlenül alkalmazandó; a határozat teljes egészében kötelező, de címzetti megjelölés esetén kizárólag a megjelöltekre nézve kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két kötelező aktus hatálya eltér. Az EUMSZ 288. cikk a rendeletnél az általános hatályt és a valamennyi tagállamra kiterjedő közvetlen alkalmazandóságot rögzíti. A határozatnál a címzetti korlátozás megengedi a szűkítést. A C-6/64. sz. Costa-ügy a 189. cikk rendeleti fordulatára — kötelező és közvetlenül alkalmazandó valamennyi tagállamban — fűzte az elsőbbség szerződéses argumentumát. A határozat ezért nem hordozza ugyanezt a valamennyi tagállamra kiterjedő szerkezetet."
+        },
+        {
+          "text": "A rendelet csak a megjelölt címzettekre kötelező, a határozat viszont valamennyi tagállamban közvetlenül alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a címzetti szerkezet a határozaté, nem a rendeleté. Az EUMSZ 288. cikk szerint a rendelet általános hatályú és közvetlenül alkalmazandó valamennyi tagállamban; a határozatnál a címzetti megjelölés szűkít. A helyes: a Costa–Simmenthal-argumentum a rendelet fordulatára épül. A tévedés a két aktus ismérveinek felcseréléséből ered."
+        },
+        {
+          "text": "A határozat mindig általános hatályú, ezért ugyanaz a Costa-argumentum érvényesül rá, mint a rendeletre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozat nem általános hatályú a rendelet mintájára. Az EUMSZ 288. cikk szerint a határozat teljes egészében kötelező, és címzetti megjelölés esetén kizárólag a címzettekre nézve kötelező. A helyes: a Costa-argumentum a rendelet valamennyi tagállamra kiterjedő közvetlen alkalmazandóságára épül. A tévedés a két aktus hatályának összecseréléséből ered."
+        },
+        {
+          "text": "Sem a határozat, sem az irányelv nem hordozza a rendeletre írt, valamennyi tagállamra kiterjedő közvetlen alkalmazandóságot, amelyre a Bíróság az elsőbbség szerződéses argumentumát fűzte.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a forrásbeli elhatárolás kifejezett. Az EUMSZ 288. cikk szerinti kötőerő önmagában nem teszi a határozatot vagy az irányelvet a Costa-féle rendelet-argumentum hordozójává. Az irányelv a forma és az eszközök megválasztását a nemzeti hatóságokra hagyja. A 289. cikk mindhárom kötelező aktust jogalkotási eljárás tárgyává teheti, de a közvetlen alkalmazandóság a rendelet sajátossága. Az elhatárolás az általános hatálynál dől el."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "1bc0fce765b3"
+    },
+    {
+      "question": "Mely állítások hamisak a magyarországi alkalmazhatóság címéről és a fenntartott szuverenitásról? (tanító)",
+      "options": [
+        {
+          "text": "A magyar alkotmányos olvasat automatikusan felülírja a Costa–Simmenthal-ratiót az uniós jogrend belső nézőpontjából is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tagállami alkotmányos cím nem oldja fel az uniós jogrend belső nézőpontját. A 2/13. sz. vélemény szerint az autonómia azt követeli, hogy az uniós jog — ideértve az alapvető jogok értelmezését — az Unió szerkezetén és céljain belül legyen biztosítva. A helyes: a C-6/64. sz. Costa-ügy és a C-106/77. sz. Simmenthal-ügy ratioja az uniós nézőpontból továbbra is mérvadó, miközben a 2/2019. (III. 5.) AB határozat az Alaptörvény E) cikkére helyezi az alkalmazhatóság címét. A tévedés a tagállami cím uniós belső nézőponttá emeléséből ered."
+        },
+        {
+          "text": "A fenntartott szuverenitás elve szerint az uniós tagság a szuverenitásról való teljes lemondást jelenti a további hatáskörök tekintetében is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a többségi indokolás a lemondás helyett a közös gyakorlást rögzíti. A 2/2019. (III. 5.) AB határozat szerint az uniós tagság nem a szuverenitásról való lemondást jelenti, hanem a hatáskörök nemzetközi közösségben történő közös gyakorlását. A helyes: Magyarország szuverenitásának fenntartását kell vélelmezni a további hatáskörök megítélésekor. A tévedés a teljes szuverenitás-átruházás olvasatából ered."
+        },
+        {
+          "text": "Az E) cikkből kiolvasható korlátok szerint a közös hatáskörgyakorlás korlátozhatja Magyarország államformájára vonatkozó elidegeníthetetlen rendelkezési jogát, ha az Unió hatékonysága ezt kívánja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a többségi indokolás éppen e korlátokat védi. A 2/2019. (III. 5.) AB határozat szerint a közös hatáskörgyakorlás nem korlátozhatja Magyarország területi egységére, népességére, államformájára és állami berendezkedésére vonatkozó elidegeníthetetlen rendelkezési jogát. A helyes: a hatáskörök közös gyakorlására a szükséges mértékig kerülhet sor. A tévedés a hatékonysági érv abszolutizálásából ered."
+        },
+        {
+          "text": "A 2/2019. (III. 5.) AB határozat szerint az uniós jog magyarországi alkalmazhatóságának alapja közvetlenül a Costa-ügy, az Alaptörvény E) cikkének megkerülésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magyarországi alkalmazhatóság címe nem a Costa-ügy önálló belső jogforrása. A 2/2019. (III. 5.) AB határozat szerint az Alaptörvény R) cikk (1) bekezdése alapján az alkalmazhatóság alapja az Alaptörvény E) cikke. A helyes: az alkalmazási elsőbbség elismerése mellett a belső cím az E) cikk, nem a C-6/64. sz. ügy. A tévedés az EUB belső nézőpontjának a magyar alkotmányos cím helyére állításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "796c2440fcba"
+    },
+    {
+      "question": "A Tariefcommissie a Van Gend en Loos-ügyben milyen két kérdést vizsgáltatott a Bírósággal?",
+      "options": [
+        {
+          "text": "Az első kérdés arra irányult, hogy az EGK-Szerződés 12. cikke rendelkezik-e belső jogi hatállyal, más szóval a jogalanyok érvényesíthetnek-e olyan egyéni jogokat, amelyeket a bíróságoknak védelemben kell részesíteniük.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Van Gend-ügy dogmatikai magja az első kérdésben van. A C-26/62. sz. ügy ítélete az EGK-Szerződés 12. cikkének belső jogi hatályáról fejtette ki az autonóm jogrend dogmatikáját. A Tariefcommissie adóügyekben legfelső fokon ítélkező holland közigazgatási bíróságként a 177. cikk alapján fordult a Bírósághoz. A közvetlen hatály feltételei — világos, feltétel nélküli tilalom — e keretben dőltek el."
+        },
+        {
+          "text": "A második kérdés a Bizottság kötelezettségszegési keresetének elfogadhatóságára irányult.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a második kérdés a 8%-os vámnak a 12. cikk szerinti tilalom alá esésére vonatkozott. A C-26/62. sz. ügy a Tariefcommissie előzetes döntéshozatali kérelme nyomán született, nem kötelezettségszegési eljárásban. A helyes: a 169–170. cikkes út és az egyéni hivatkozás párhuzamos. A tévedés a két eljárás összecseréléséből ered."
+        },
+        {
+          "text": "A második kérdés a Németországi Szövetségi Köztársaságból származó urea-formaldehid behozatalakor alkalmazott 8%-os vámnak a 12. cikk szerinti tilalom alá esésére vonatkozott.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második kérdés a konkrét vámalkalmazásra irányult. A C-26/62. sz. ügy szerint a Bíróság a közvetlen hatályról szóló első kérdésben fejtette ki az autonóm jogrend dogmatikáját, és e dogmatika fényében vált értékelhetővé a vám tilalom alá esése. Az EGK-Szerződés 12. cikke világos és feltétel nélküli tartózkodási kötelezettséget állapít meg. A magánszemély így a nemzeti bíróság előtt hivatkozhat a tilalomra."
+        },
+        {
+          "text": "A Bíróság csak a vám mértékét vizsgálhatta, a 12. cikk belső jogi hatályáról nem dönthetett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Gend-ügy első kérdése éppen a belső jogi hatályról szólt. A C-26/62. sz. ügy szerint a 12. cikket úgy kell értelmezni, hogy az közvetlen hatállyal bír, és egyéni jogokat keletkeztet. A helyes: a dogmatika az első kérdésben született meg. A tévedés a hatáskör vámügyre szűkítéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "c3f3e9335ba7"
+    },
+    {
+      "question": "A 289. cikk és a 288. cikk viszonyában mi a katalógus jelentősége az autonómia és az elsőbbség szempontjából?",
+      "options": [
+        {
+          "text": "Az ajánlás a 289. cikk szerint jogalkotási aktus, ezért ugyanúgy közvetlenül alkalmazandó, mint a rendelet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ajánlás nem kötelező, és nem a 289. cikk jogalkotási aktusainak kötőerő-logikája szerint hat. Az EUMSZ 288. cikk szerint az ajánlások és a vélemények nem kötelezőek. A helyes: rájuk sem Costa, sem Simmenthal közvetlen alkalmazandósága nem húzható rá. A tévedés a nem kötelező aktus és a rendelet összecseréléséből ered."
+        },
+        {
+          "text": "A 288. cikk azonnal hozzárendeli a kötőerőt: a rendelet, az irányelv és a határozat kötelező; az ajánlás és a vélemény nem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 288. cikk azonnal hozzárendeli a kötőerőt az egyes aktustípusokhoz. Az EUMSZ 288. cikk szerint a rendelet általános hatályú, teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban. Az irányelv az elérendő célokat illetően kötelezi a címzettet, a forma és az eszközök a nemzeti hatóságoké. A határozat teljes egészében kötelező, de címzetti körrel szűkíthető. Az autonómia és az elsőbbség szempontjából a rendelet a döntő eszköz."
+        },
+        {
+          "text": "A 289. cikk lehetővé teszi, hogy a tagállamok a katalóguson kívüli, saját „uniós aktus” típust hozzanak létre a nemzeti jogban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a katalógus zárt eszköztár, nem nyitott nemzeti lista. Az EUMSZ 288. cikk az Unió hatásköreinek gyakorlására szolgáló aktusok listáját adja. Az EUMSZ 289. cikk a kötelező aktusokat a jogalkotási eljárásokhoz köti. A helyes: a katalógus nem stilisztikai, hanem a hatáskörgyakorlás zárt eszköztára. A tévedés a nyitott nemzeti aktuskatalógus feltételezéséből ered."
+        },
+        {
+          "text": "A 289. cikk a rendeletet, az irányelvet és a határozatot a rendes vagy a különleges jogalkotási eljárás tárgyává teszi: a katalógus nem stilisztikai, hanem a hatáskörgyakorlás zárt eszköztára.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 288. és a 289. cikk együtt a hatáskörgyakorlás eszközrendszerét adja. Az EUMSZ 288. cikk az aktusok zárt listáját és a kötőerőt rendeli hozzá: a rendelet, az irányelv és a határozat kötelező, az ajánlás és a vélemény nem. Az EUMSZ 289. cikk a rendeletet, az irányelvet és a határozatot a rendes vagy a különleges jogalkotási eljárás tárgyává teszi. Az elsőbbség szerződéses támasza ezen belül a rendelet fordulata."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "bfcfb5653194"
+    },
+    {
+      "question": "A Kadi-ítélet és az Internationale Handelsgesellschaft-ítélet a 2/13. sz. véleményben milyen szerepet kap az autonómia kettős viszonylatában?",
+      "options": [
+        {
+          "text": "A Chartát a tagállamoknak is tiszteletben kell tartaniuk, amikor az uniós jogot hajtják végre; ez az autonómia operatív oldala a lojális együttműködéssel együtt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény a Chartát a végrehajtó tagállamokra is kiterjeszti. Az EUSZ 6. cikk (1) bekezdése szerint a Charta ugyanolyan jogi kötőerővel bír, mint a Szerződések. Az EUSZ 4. cikk (3) bekezdése a tagállamok feladatává teszi az uniós jog alkalmazásának biztosítását. Az EUMSZ 267. cikk e rendszerben az értelmezés egységességét, a koherenciát és az autonómiát szolgálja."
+        },
+        {
+          "text": "A Kadi-ítélet szerint az uniós jog teljesen alárendelődik a nemzetközi jognak, ezért a 267. cikk nem védheti az autonómiát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2/13. sz. vélemény a Kadi-ítélet 281–285. pontjára éppen a nemzetközi joggal szembeni autonómia mellett utal. A vélemény szerint az autonómia, amellyel az uniós jog a tagállami joghoz, valamint a nemzetközi joghoz képest rendelkezik, megköveteli, hogy az alapvető jogok értelmezése az Unió szerkezetén és céljain belül legyen biztosítva. A helyes: az EUMSZ 267. cikk e sajátos jelleg biztosítását is szolgálja. A tévedés a nemzetközi jog abszolút elsőbbségének feltételezéséből ered."
+        },
+        {
+          "text": "A vélemény e pontokon utalva rögzíti, hogy az uniós jog a tagállami joghoz és a nemzetközi joghoz képest is autonóm, ezért az alapvető jogok értelmezése az Unió szerkezetén és céljain belül biztosítandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2/13. sz. vélemény az autonómiát kifejezetten kettős viszonylatban rögzíti. A vélemény az Internationale Handelsgesellschaft-ítélet 4. pontjára és a Kadi-ítélet 281–285. pontjára utal. Az EUSZ 6. cikk (1) bekezdése szerint a Charta ugyanolyan jogi kötőerővel bír, mint a Szerződések, és tiszteletben tartása az uniós jogi aktusok jogszerűségének feltétele. A nemzetközi kötelezettség sem oldja fel automatikusan az uniós jog sajátos jellegét."
+        },
+        {
+          "text": "Az Internationale Handelsgesellschaft-ítélet csak a nemzetközi joggal szembeni autonómiáról szól, a tagállami alkotmányos jogokkal szemben nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Internationale Handelsgesellschaft-ügy a nemzeti alkotmányos alapvető jogra hivatkozást zárja ki. A C-11/70. sz. ügy szerint a Szerződésből származó jogot nem írhatják felül a nemzeti jog szabályai, bármilyen formában is léteznek, anélkül hogy megfosztanák közösségi jellegétől. A helyes: a 2/13. sz. vélemény az ítélet 4. pontját a tagállami joggal szembeni autonómia kapcsán is felhívja. A tévedés a hivatkozás hatályának leszűkítéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "0034376ea076"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a Simmenthal-féle „jog erejénél fogva” alkalmazhatatlanság a későbbi nemzeti aktusra?",
+      "options": [
+        {
+          "text": "Ha a későbbi nemzeti törvényt az Alkotmánybíróság még nem vizsgálta, a Simmenthal-mellőzés tilos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy éppen az alkotmánybírósági vizsgálat megvárását zárja ki. A C-106/77. sz. ügy szerint az ellentétes nemzeti rendelkezés a jog erejénél fogva alkalmazhatatlan anélkül, hogy meg kellene várni az alkotmányellenesség-megállapítást. A helyes: a mellőzés a nemzeti bíró saját hatáskörének része, nem az alkotmánybíróság előzetes aktusáé. A tévedés az olasz alkotmánybírósági út kötelezővé nyilvánításából ered."
+        },
+        {
+          "text": "Ha a közösségi norma rendelet, a Simmenthal-mellőzés soha nem alkalmazható, mert a rendelet nemzeti kihirdetést igényel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy éppen a rendelet szerinti közvetlen alkalmazandóságra épül. A C-106/77. sz. ügy a 189. cikk — ma az EUMSZ 288. cikk — értelmezését kérte a későbbi nemzeti törvénnyel való ütközésnél. A helyes: a rendelet a 288. cikk szerint közvetlenül alkalmazandó, átültetés nélkül. A tévedés a belső kihirdetésnek a rendeleti hatály előfeltételeként való kezeléséből ered."
+        },
+        {
+          "text": "Ha a nemzeti aktus nem ütközik közvetlenül alkalmazandó közösségi rendelkezéssel, mert az elsőbbség a kollízió fennállásához kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Simmenthal-ratio a közösségi joggal ellentétes nemzeti rendelkezésre vonatkozik. A C-106/77. sz. ügy szerint a közvetlenül alkalmazandó rendelkezések a jog erejénél fogva alkalmazhatatlanná teszik az ellentétes nemzeti rendelkezéseket. Ha nincs kollízió, nincs mit mellőzni. A 189. cikk — ma az EUMSZ 288. cikk — szerinti közvetlen alkalmazandóság a kollíziós mechanizmus előfeltétele. Az elhatárolás a tartalmi ütközésnél dől el."
+        },
+        {
+          "text": "Ajánlás vagy vélemény esetén, mert ezek nem kötelezőek, ezért sem Costa rendelet-argumentuma, sem Simmenthal közvetlen alkalmazandósága nem húzható rájuk.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nem kötelező aktusok kiesnek a Simmenthal-mechanizmusból. Az EUMSZ 288. cikk szerint az ajánlások és a vélemények nem kötelezőek. A közvetlen alkalmazandóság a kötelező és közvetlenül alkalmazandó normákhoz kapcsolódik. A nemzeti bíró mellőzési kötelessége e körben a közösségi jog teljes érvényesülését szolgálja. A kötőerő hiánya tehát kizárja a „jog erejénél fogva” alkalmazhatatlanságot."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "9bdee8131906"
+    },
+    {
+      "question": "A C-493/17. sz. Weiss-ügyben a Bundesverfassungsgericht előzetes döntéshozatali kérelme az EUMSZ 125. cikk vonatkozásában milyen keretben jelent meg?",
+      "options": [
+        {
+          "text": "A Bíróság a 2015/774 határozat jogszerűségét a Szerződésekben meghatározott feltételekkel — az indokolás, a hatáskör, az arányosság és a 123. cikk (1) bekezdése fényében — dönti el; a 125. cikk értelmezése e felülvizsgálati csomag része.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Weiss-ügy a hatáskör-átruházás bírósági biztosításában mutatja az autonómiát. A C-493/17. sz. ügy szerint azt, hogy az EKB és a KBER a monetáris politikai hatáskörön belül maradt-e, a Bíróság dönti el. A 125. cikk a kérelemben a 123. cikkel és a 4. cikk (2) bekezdésével együtt jelenik meg. A 267. cikk itt az uniós aktus érvényességének felülvizsgálatára szolgál, nem a nemzeti alkotmánybíróság egyoldalú érvénytelenítésére."
+        },
+        {
+          "text": "A 125. cikk értelmezése a német Alkotmánybíróság kizárólagos hatásköre, ezért a Bíróság a 125. cikkre vonatkozó kérdést hatáskör hiányában elutasította.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Weiss-kérelem kifejezetten kiterjedt az EUMSZ 125. cikk értelmezésére is, és a Bíróság a 267. cikk keretében bírálta el. A C-493/17. sz. ügy a 2015/774 határozat érvényességét és a megjelölt Szerződés-cikkek értelmezését együtt vizsgálta. A helyes: a 125. cikk a felülvizsgálati csomag része, nem nemzeti monopólium. A tévedés a nemzeti identitás-klauzula és az érvényességi hatáskör összecseréléséből ered."
+        },
+        {
+          "text": "A 125. cikk önmagában felhatalmazza a nemzeti alkotmánybíróságot arra, hogy a Bíróság megkerülésével semmisnek nyilvánítsa az EKB határozatát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Weiss-ügyben a Bundesverfassungsgericht előzetes döntéshozatali kérelemmel fordult a Bírósághoz. A C-493/17. sz. ügy a hatáskör-átruházás bírósági biztosítását a Szerződések feltételeihez köti. A helyes: az uniós aktus érvényességét a Szerződések bírósága dönti el a 267. cikk útján. A tévedés a 125. cikk nemzeti érvénytelenítő klauzulaként való olvasatából ered."
+        },
+        {
+          "text": "A kérelem a 2015/774 EKB-határozat érvényességére, valamint az EUSZ 4. cikk (2) bekezdésének, az EUMSZ 123. cikknek és az EUMSZ 125. cikknek az értelmezésére vonatkozott.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bundesverfassungsgericht kérelme az EUMSZ 125. cikk értelmezését is felölelte. A C-493/17. sz. ügyben a nagytanács az EUMSZ 267. cikk alapján a 2015/774 határozat érvényességét, valamint az EUSZ 4. cikk (2) bekezdésének, az EUMSZ 123. cikknek és az EUMSZ 125. cikknek az értelmezését vizsgálta. A 125. cikk tehát a Szerződés-értelmezés és az érvényességi felülvizsgálat része, nem önálló nemzeti érvénytelenítési alap. Az autonóm jogrend szerint az uniós intézmény aktusának a Szerződésekhez mért jogszerűségét a Szerződések bírósága bírálja el."
+        }
+      ],
+      "sourceKerdesSorszam": 41,
+      "sourceHash": "3acf5bbb9108"
+    },
+    {
+      "question": "A PSPP-t létrehozó 2015/774 határozat a Weiss-ügy szerint milyen szerkezeti és célbeli ismérvekkel bírt?",
+      "options": [
+        {
+          "text": "A tőkejegyzési kulcs szerinti arány azt jelenti, hogy bármely nemzeti központi bank korlátlanul vásárolhat bármely tagállam kötvényeiből.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2015/774 határozat a vásárlást az EKB tőkejegyzési kulcsában fennálló részesedést tükröző arányhoz köti. A C-493/17. sz. ügy szerint a nemzeti központi bankok e kulcs szerinti arányban vásárolhatnak elfogadható értékpapírokat a másodlagos piacokon. A helyes: a kulcs a program szerkezeti korlátja, nem korlátlan felhatalmazás. A tévedés a részesedési arány elhagyásából ered."
+        },
+        {
+          "text": "A PSPP keretében a KBER közvetlenül a kibocsátó közjogi intézményektől vásárol államkötvényeket, ha az inflációs cél ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen vásárlás a kibocsátótól a 123. cikk (1) bekezdésébe ütközne. A C-493/17. sz. ügy szerint a PSPP keretében a KBER csak a másodlagos piacokon jogosult vásárolni. A helyes: a beavatkozás ezért nem vonható egy tekintet alá a tagállamnak nyújtott pénzügyi támogatással, ha a biztosítékok érvényesülnek. A tévedés a kibocsátótól való közvetlen vásárlás és a másodlagos piaci felvásárlás felcseréléséből ered."
+        },
+        {
+          "text": "A nemzeti központi bankok az EKB tőkejegyzési kulcsában fennálló részesedésüket tükröző arányban, valamint az EKB elfogadható, forgalomképes, hitelviszonyt megtestesítő értékpapírokat vásárolhatnak a másodlagos piacokon.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a PSPP a másodlagos piaci felvásárlás szerkezetére épül. A C-493/17. sz. ügy szerint a 2015/774 határozat a közszektor eszközeinek másodlagos piacon történő megvásárlására irányuló programot az egységes monetáris politika részeként hozta létre. A KBER nem jogosult a kötvényeket közvetlenül a tagállami közjogi intézményektől megszerezni. Ez a szerkezet választja el a programot a 123. cikk (1) bekezdése szerinti közvetlen finanszírozástól."
+        },
+        {
+          "text": "A preambulum szerinti cél a monetáris politika transzmissziójának előmozdítása, a hitelezés megkönnyítése, a hitelfelvételi feltételek enyhítése, és az inflációs ráták visszatérése a 2%-hoz közeli, de 2% alatti szintekhez, az árstabilitási elsődleges céllal összhangban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a PSPP célkitűzései az árstabilitási hierarchiához igazodnak. A C-493/17. sz. ügy szerint az EUMSZ 127. cikk (1) bekezdése és az EUMSZ 282. cikk (2) bekezdése szerint az elsődleges cél az árstabilitás fenntartása. A Bíróság e keretben vizsgálta a határozatot, és megállapította, hogy az nem sérti az arányosság elvét. A célok tehát a hatásköri és arányossági vizsgálat részei, nem a 123. cikk alóli mentesség."
+        }
+      ],
+      "sourceKerdesSorszam": 42,
+      "sourceHash": "e0667156b305"
+    },
+    {
+      "question": "A Weiss-ügyben az arányosság elvének vizsgálata milyen szerepet kapott a 2015/774 határozat érvényességi felülvizsgálatában?",
+      "options": [
+        {
+          "text": "A Bíróság a 2015/774 határozatot a monetáris politikai keretben vizsgálta, és megállapította, hogy a határozat nem sérti az arányosság elvét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az arányosság a Weiss-felülvizsgálat önálló síkja. A C-493/17. sz. ügy szerint a határozat jogszerűségét az indokolás, a hatáskör, az arányosság és az EUMSZ 123. cikk (1) bekezdése fényében a Bíróság dönti el. A kizárólagos monetáris politikai hatáskör nem mentesít e feltételek ellenőrzése alól. Az autonómia itt a hatáskör-átruházás bírósági biztosításában jelenik meg."
+        },
+        {
+          "text": "Az arányossági vizsgálat a PSPP céljaihoz — köztük az inflációs ráták 2%-hoz közeli, de 2% alatti szintekre való visszatéréséhez — és a másodlagos piaci eszközválasztáshoz kapcsolódik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a cél és az eszköz viszonya az arányosság tárgya. A C-493/17. sz. ügy szerint a preambulum a monetáris politika transzmisszióját és az árstabilitási elsődleges céllal összhangban álló inflációs pályát jelöli meg. A másodlagos piaci vásárlás és a biztosítékok a 123. cikk (1) bekezdésével való összeegyeztethetőséget is szolgálják. Az arányosság tehát nem helyettesíti, hanem kiegészíti a finanszírozási tilalom vizsgálatát."
+        },
+        {
+          "text": "Az arányosság megsértése esetén a német Alkotmánybíróság a Bíróság helyett érvénytelenítheti a határozatot, ha a nemzeti identitás ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az érvényességi felülvizsgálat nem a nemzeti alkotmánybíróság egyoldalú aktusa. A C-493/17. sz. ügyben a Bundesverfassungsgericht előzetes döntéshozatali kérelemmel fordult a Bírósághoz, és a nagytanács bírálta el a 2015/774 határozatot az EUMSZ 267. cikk alapján. A helyes: az uniós aktus Szerződésekhez mért jogszerűségét a Szerződések bírósága dönti el. A tévedés a nemzeti identitás-klauzula érvénytelenítő hatalomként való olvasatából ered."
+        },
+        {
+          "text": "Az arányosság vizsgálata mellőzhető, mert a monetáris politika kizárólagos uniós hatáskörében a KBER szabadon választ eszközt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Weiss-ügyben a Bíróság kifejezetten vizsgálta az arányosságot. A C-493/17. sz. ügy szerint a 2015/774 határozat nem sérti az arányosság elvét — e megállapítás előfeltétele, hogy a vizsgálat megtörtént. A helyes: a hatáskör-átruházás bírósági biztosítása a Szerződésekben meghatározott feltételekkel zajlik. A tévedés a kizárólagos hatáskör és a felülvizsgálat alóli immunitás összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 43,
+      "sourceHash": "c31307c9297f"
+    },
+    {
+      "question": "Mi a jogkövetkezménye annak, ha a tagállam a rendelet hatályát a 291. cikk (1) bekezdése szerinti nemzeti végrehajtási intézkedés meghozatalához köti, mintha irányelvet ültetne át?",
+      "options": [
+        {
+          "text": "A 291. cikk (1) bekezdése szerint a rendelet hatálya csak a nemzeti végrehajtási aktussal áll be, ezért a tagállam jogszerűen kötheti a hatályt ehhez az intézkedéshez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet hatálya a 288. cikk szerinti közvetlen alkalmazandóságból ered. Az EUMSZ 291. cikk (1) bekezdése rendeletnél az érvényesülés biztosítását jelenti, nem a hatály pótlását. A helyes: a rendelet a belső jogban a tagállami átültetés nélkül is hat. A tévedés az irányelv-átültetés logikájának a rendeletre történő ráírásából ered."
+        },
+        {
+          "text": "Irányelvnél a 291. cikk (1) bekezdése szerinti út a 288. cikk szerinti eredménykötelezettség transzpozíciója, ezért ott a nemzeti intézkedés a cél elérésének eszköze; rendeletnél ugyanez a modell a hatály feltételévé téve hibás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet és az irányelv végrehajtása a 288. cikk szerinti kötőerő különbségéből indul. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően kötelezi a címzettet, a forma és az eszközök a nemzeti hatóságoké; a rendelet viszont általános hatályú és közvetlenül alkalmazandó. A Simmenthal-ügy a 189. cikk — ma a 288. cikk — szerinti közvetlen alkalmazandóság kollíziós következményeit éppen e különbségre építi. Az EUMSZ 291. cikk (1) bekezdése ezért nem alakítja a rendeletet irányelvé."
+        },
+        {
+          "text": "Ez ellentétes a 288. cikk szerinti közvetlen alkalmazandósággal, mert a rendelet nem szorul tagállami transzformációra ahhoz, hogy a belső jogban hasson; a 291. cikk szerinti intézkedés rendeletnél az érvényesülés biztosítása, nem a hatály pótlása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két aktus végrehajtási logikája elválik. Az EUMSZ 288. cikk szerint a rendelet teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban. Az EUMSZ 291. cikk (1) bekezdése a kötelező erejű uniós aktusok végrehajtásához szükséges nemzeti intézkedéseket írja elő, de rendeletnél ez nem a hatály keletkeztetése. Costa szerint a rendelet fordulata tartalmatlan volna, ha egyoldalú nemzeti aktussal a hatály semmissé tehető lenne. Az irányelv-transzpozíció ráírása ezért a Costa–Simmenthal-ratiót is sérti."
+        },
+        {
+          "text": "Ha a tagállam a rendeletet átülteti, a későbbi nemzeti módosítás lex posteriorként felülírhatja a rendeletet, mert a belső végrehajtási törvény az irányadó forrás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Costa–Simmenthal-ratio a lex posterior nemzeti olvasatot kizárja. A C-6/64. sz. ügy szerint a rendelet hatálya egyoldalú nemzeti törvénnyel nem tehető semmissé; a C-106/77. sz. ügy szerint az ellentétes nemzeti rendelkezés a jog erejénél fogva alkalmazhatatlan. A helyes: a 291. cikk szerinti intézkedés nem változtatja meg a rendelet elsőbbségi helyzetét. A tévedés az átültetett irányelv és a közvetlenül alkalmazandó rendelet összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 44,
+      "sourceHash": "4e85e791a8ec"
+    },
+    {
+      "question": "A Pretore de Susa típusú kollízióban mi a különbség a 291. cikk (1) bekezdése szerinti rendeleti végrehajtás és az irányelv-átültetés megvárása között?",
+      "options": [
+        {
+          "text": "Rendeletnél a nemzeti bíró csak akkor mellőzhet, ha a 291. cikk (1) bekezdése szerinti végrehajtási rendeletet a tagállam már kihirdette.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy a nemzeti végrehajtási vagy orvosló aktus megvárását zárja ki. A C-106/77. sz. ügy szerint nem kell megvárni a jogalkotói hatályon kívül helyezést sem. Az EUMSZ 288. cikk szerinti közvetlen alkalmazandóság a kollíziót a közösségi norma javára dönti el. A helyes: a 291. cikk szerinti intézkedés nem előfeltétele a mellőzésnek. A tévedés a rendeleti végrehajtás és az irányelv-átültetés összecseréléséből ered."
+        },
+        {
+          "text": "Rendeletnél a nemzeti bíró a 288. cikk szerinti közvetlen alkalmazandóságra támaszkodva mellőzi az ellentétes későbbi törvényt; nem kell megvárnia sem a 291. cikk szerinti végrehajtási aktust, sem az irányelv-szerű átültetést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Simmenthal-ratio a közvetlen alkalmazandóság operatív következménye. A C-106/77. sz. ügy szerint az ellentétes nemzeti rendelkezés a jog erejénél fogva, a hatálybalépés ténye folytán alkalmazhatatlan. Az EUMSZ 291. cikk (1) bekezdése rendeletnél az érvényesülés biztosítását szolgálja, nem a bírói mellőzés előfeltételét. Az irányelv-átültetés megvárásának ráírása ezért a közösségi norma teljes érvényesülését akadályozná."
+        },
+        {
+          "text": "Irányelvnél a forma és az eszközök a nemzeti hatóságoké, ezért a 288. cikk szerinti eredménykötelezettség teljesítése tipikusan a 291. cikk (1) bekezdése szerinti nemzeti intézkedéssel — transzpozícióval — valósul meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv végrehajtási modellje más. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően kötelezi a címzett tagállamot. Az EUMSZ 291. cikk (1) bekezdése a kötelező erejű uniós aktusok végrehajtásához szükséges intézkedéseket írja elő; irányelvnél ez a transzpozíció. Sem az irányelv, sem a határozat nem hordozza a rendeletre írt, valamennyi tagállamra kiterjedő közvetlen alkalmazandóságot. A Pretore-kollízió ezért a rendeleti fordulatra épül."
+        },
+        {
+          "text": "Irányelv és rendelet esetén egyaránt kötelező az alkotmánybírósági megsemmisítés megvárása, mielőtt a nemzeti bíró a 291. cikk szerinti intézkedésre hivatkozhatna.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Simmenthal-ügy az alkotmánybírósági út megvárását is kizárja a közvetlenül alkalmazandó norma érvényesülésénél. A C-106/77. sz. ügy szerint az ellentétes törvényt a jog erejénél fogva alkalmazhatatlannak kell tekinteni. A helyes: a 291. cikk nem ír felül egy alkotmánybírósági előfeltételt a rendeleti kollízióra. A tévedés az olasz alkotmánybírósági gyakorlat általánosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 45,
+      "sourceHash": "d4cd63018221"
+    },
+    {
+      "question": "Mely állítások hamisak a PSPP, az arányosság, a 125. cikk és a 291. cikk viszonyáról? (tanító)",
+      "options": [
+        {
+          "text": "A Weiss-ügyben az EUMSZ 125. cikk értelmezése kizárta, hogy a Bíróság a 2015/774 határozat érvényességét vizsgálja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 125. cikk a kérelem értelmezési tárgya volt, nem a Bíróság érvényességi hatáskörének kizárása. A C-493/17. sz. ügy a 2015/774 határozat érvényességét és a 4. cikk (2) bekezdés, a 123. és a 125. cikk értelmezését együtt vizsgálta. A helyes: az EUMSZ 267. cikk útja éppen az uniós aktus érvényességi felülvizsgálatára szolgál. A tévedés abból ered, hogy a 125. cikket hatáskör-kizáró klauzulaként olvassák."
+        },
+        {
+          "text": "A 291. cikk (1) bekezdése a rendeletet irányelvvé alakítja, ezért a rendelet hatálya csak a nemzeti átültetéssel áll be.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 291. cikk nem írja felül a 288. cikk rendeleti fordulatát. Az EUMSZ 288. cikk szerint a rendelet közvetlenül alkalmazandó; a 291. cikk (1) bekezdése rendeletnél az érvényesülés biztosítását jelenti, nem a hatály pótlását. A helyes: az irányelv-transzpozíció modellje a rendeletre nem húzható rá. A tévedés a két kötelező aktus végrehajtási logikájának összemosásából ered."
+        },
+        {
+          "text": "A PSPP másodlagos piaci szerkezete irreleváns a 123. cikk (1) bekezdése szempontjából, mert minden államkötvény-vásárlás tilos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Weiss-ügy a másodlagos piaci felvásárlást nem általánosítja tilosnak. A C-493/17. sz. ügy szerint a 123. cikk (1) bekezdése nem zárja ki általános jelleggel a korábban kibocsátott értékpapírok felvásárlását a tagállam hitelezőitől, ha nincs de facto közvetítői hatás. A helyes: a PSPP szerkezete — másodlagos piac és biztosítékok — a tilalommal való összeegyeztethetőség része. A tévedés a 123. cikk (1) bekezdésének minden felvásárlásra való kiterjesztéséből ered."
+        },
+        {
+          "text": "A Bíróság a PSPP arányosságát nem vizsgálhatta, mert a monetáris politika kizárólagos hatáskörében az arányosság nem érvényesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Weiss-ügyben a Bíróság megállapította, hogy a 2015/774 határozat nem sérti az arányosság elvét. A C-493/17. sz. ügy szerint a felülvizsgálat a Szerződésekben meghatározott feltételekkel zajlik, ideértve az arányosságot. A helyes: a kizárólagos hatáskör nem mentesít az arányossági ellenőrzés alól. A tévedés a hatáskör és a felülvizsgálati immunitás összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 46,
+      "sourceHash": "e7326e3945cb"
+    }
+  ]
+}

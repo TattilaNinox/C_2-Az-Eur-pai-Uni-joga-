@@ -1,0 +1,765 @@
+{
+  "id": "O1q2hy5qYD2ZFVhWAGhr",
+  "sorszam": 3,
+  "cim": "Az Európai Bizottság összetétele, működése és hatáskörei",
+  "generationType": "fogalom",
+  "title": "3. Az Európai Bizottság összetétele, működése és hatáskörei",
+  "questions": [
+    {
+      "question": "Mit jelent az EUSZ szerint az, hogy a Bizottság az Unió általános érdekeit előmozdító intézmény, és miben különbözik ez a tagállami megbízotti szereptől?",
+      "options": [
+        {
+          "text": "A Bizottság az intézmények felsorolásában a Parlament, az Európai Tanács és a Tanács után szerepel, de ez a sorrend nem jelent hierarchiát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az intézményi felsorolás helyzete nem rangsort jelent a többi intézmény fölött vagy alatt. Az EUSZ 13. cikk (1) bekezdése az Uniót saját intézményi kerettel ruházza fel, és a Bizottságot a Parlament, az Európai Tanács és a Tanács után, a Bíróság, az EKB és a Számvevőszék előtt említi. A sorrend nem hierarchia: minden intézmény a rá ruházott hatáskörök határain belül, a Szerződésekben meghatározott eljárások szerint jár el. A Bizottság tehát sem „európai kormány” a tagállami kormányok fölött, sem puszta titkárság."
+        },
+        {
+          "text": "Az EUSZ 13. cikkében elfoglalt helye miatt a Bizottság a Parlament és a Tanács fölött állhat el a hatáskörök gyakorlásakor.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felsorolási hely nem ad intézményi felülrendeltséget. Az EUSZ 13. cikk (2) bekezdése szerint minden intézmény a rá ruházott hatáskörök határain belül, a Szerződésekben meghatározott eljárások, feltételek és célok szerint jár el, és kölcsönösen, jóhiszeműen együttműködik. A Bizottság hatásköreit a 17. cikk és az EUMSZ 244–250. cikke határolja, nem a felsorolás sorrendje. A tévedés a hierarchikus olvasatból ered, amelyet az EUSZ 13. cikk (2) bekezdése a hatásköri határok és a kölcsönös együttműködés előírásával zár ki."
+        },
+        {
+          "text": "A Bizottság a tagállami kormányok utasításai szerint köteles a jogalkotási javaslatokat előterjeszteni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a függetlenségi tilalmat fordítja a fejére. Az EUSZ 17. cikk (3) bekezdése szerint a Bizottság tagjai feladatuk ellátása során nem kérhetnek és nem fogadhatnak el utasításokat semmilyen kormánytól, intézménytől, szervtől vagy más szervezettől. A helyes mérce a 17. cikk (1) bekezdése szerinti Unió általános érdeke. A tévedés forrása a tagállami kormányközi konferenciák logikájának ráírása a közösségi módszerre, ahol a javaslattevő monopólium éppen a függetlenséget feltételezi."
+        },
+        {
+          "text": "A Bizottság kezdeményezéseinek mércéje az Unió általános érdeke, nem a küldő tagállam utasítása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság nem a tagállamok megbízottjainak konferenciája, hanem az Unió általános érdekeit szolgáló intézmény. Az EUSZ 17. cikk (1) bekezdése szerint a Bizottság előmozdítja az Unió általános érdekeit, és ennek érdekében megteszi a megfelelő kezdeményezéseket. A (3) bekezdés ehhez köti a teljes függetlenséget: a tagok nem kérhetnek és nem fogadhatnak el utasításokat semmilyen kormánytól. A 13. cikk (2) bekezdésének hatáskör-átruházási és együttműködési kötése is azt erősíti, hogy a Bizottság a Szerződésekben rögzített határokon belül jár el, nem tagállami kormányként."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "7b20787e1ebc"
+    },
+    {
+      "question": "A Bizottság EUSZ 17. cikk (1) bekezdése szerinti funkciókatalógusából mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A Bizottság az Európai Unió Bíróságának ellenőrzése mellett felügyeli az uniós jog alkalmazását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a „szerződések őre” funkció szerződéses telepítése. Az EUSZ 17. cikk (1) bekezdése szerint a Bizottság gondoskodik a Szerződések és az azok alapján elfogadott intézkedések alkalmazásáról, és az Európai Unió Bíróságának ellenőrzése mellett felügyeli az uniós jog alkalmazását. A felügyelet tehát a 17. cikken nyugszik, a szankciós érvényesítés vége pedig a Bíróság előtt zajlik. A funkciókatalógus nem példálózó szónoki lista, hanem a hatáskörök zárt típusai."
+        },
+        {
+          "text": "A Bizottság funkciókatalógusa csupán példálózó felsorolás, amelyet a gyakorlat szabadon bővíthet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés funkciókatalógusa zárt hatásköri típusokat ad, nem szónoki példákat. Az EUSZ 17. cikk (1) bekezdése az általános érdek előmozdítását, a Szerződések alkalmazásának gondozását, a Bíróság ellenőrzése melletti felügyeletet, a költségvetés végrehajtását, a koordinatív-végrehajtó-igazgatási feladatokat, a KKBP alóli kivétellel a külső képviseletet és a programozási indítványt sorolja fel. Ezek a hatáskörök zárt típusai, nem szabadon bővíthető politikai katalógus. A tévedés a politikai „motor” szerep szabad hatáskör-bővítéssé olvasásából ered."
+        },
+        {
+          "text": "A közös kül- és biztonságpolitika, valamint a Szerződések által meghatározott más esetek kivételével a Bizottság látja el az Unió külső képviseletét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a külső képviselet főszabálya a Bizottságé, de a KKBP kivétel. Az EUSZ 17. cikk (1) bekezdése szerint a közös kül- és biztonságpolitika, valamint a Szerződések által meghatározott más esetek kivételével a Bizottság látja el az Unió külső képviseletét. Az EUSZ 15. cikk (6) bekezdése szerint a KKBP ügyekben az Európai Tanács elnöke — a saját szintjén, a főképviselő hatáskörének sérelme nélkül — képviseli az Uniót. A 18. cikk a főképviselőre telepíti a KKBP irányítását, így a 17. cikk (1) bekezdése a KKBP-n kívüli képviseletre jogosít."
+        },
+        {
+          "text": "A Bizottság a közös kül- és biztonságpolitikában is kizárólagos külső képviseleti jogot gyakorol a főképviselő helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a KKBP-kivételt törli el. Az EUSZ 17. cikk (1) bekezdése kifejezetten a közös kül- és biztonságpolitika, valamint a Szerződések által meghatározott más esetek kivételével telepíti a külső képviseletet a Bizottságra. A KKBP a főképviselő–Tanács–Európai Tanács háromszögében marad: a 18. cikk (2)–(3) bekezdése a főképviselőre, a 15. cikk (6) bekezdése pedig az Európai Tanács elnökére utal. A tévedés a Bizottság általános képviseleti szerepének KKBP-re való kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "38d3d2237ebf"
+    },
+    {
+      "question": "Miben áll a Bizottság jogalkotási kezdeményezési monopóliuma, és miként határolódik el a Tanács felkérési jogától?",
+      "options": [
+        {
+          "text": "Az egyéb jogi aktusoknál a Bizottság javaslatára mindig szükség van, a Szerződések eltérő rendelkezése nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyéb jogi aktusoknál a javaslat kötelezettsége feltételes. Az EUSZ 17. cikk (2) bekezdése második mondata szerint az egyéb jogi aktusokat akkor kell a Bizottság javaslata alapján elfogadni, ha a Szerződések úgy rendelkeznek. A jogalkotási aktusoknál viszont a főszabály a kizárólagos bizottsági javaslat, kivéve ha a Szerződések másként rendelkeznek. A tévedés a két szintű monopólium — főszabály vs. feltételes — összecsúsztatásából ered."
+        },
+        {
+          "text": "Ha a Tanács egyszerű többséggel felkéri a Bizottságot, és az nem tesz javaslatot, a javaslattevő hatáskör automatikusan a Tanácsra száll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felkérés nem eredményez hatáskör-átszállást. Az EUMSZ 241. cikke szerint, ha a Bizottság nem terjeszt elő javaslatot, ennek okairól tájékoztatja a Tanácsot — ez indokolási kötelezettség, nem a 17. cikk (2) bekezdése szerinti monopólium elvesztése. A jogalkotási aktusokat továbbra is kizárólag a Bizottság javaslata alapján lehet elfogadni, ha a Szerződések eltérően nem rendelkeznek. A tévedés a felkérés és a kötelező javaslattevés összekeveréséből ered."
+        },
+        {
+          "text": "A Tanács EUMSZ 241. cikke szerinti felkérése nem törí át a monopóliumot: a javaslat elmaradása indokolási kötelezettséget, nem automatikus hatáskör-átszállást von maga után.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felkérés a monopólium intézményi ellenpólusa, nem a felváltója. Az EUMSZ 241. cikke szerint a Tanács egyszerű többséggel felkérheti a Bizottságot, hogy végezze el a szükséges vizsgálatokat, és terjesszen be megfelelő javaslatokat. Ha a Bizottság nem terjeszt elő javaslatot, ennek okairól tájékoztatja a Tanácsot. A felkérés tehát kötelezően megfontolandó, a javaslat előterjesztése nem kényszeríthető ki. Az indokolási kötelezettség a 17. cikk (2) bekezdésének monopóliumát átláthatóvá, de nem átjárhatóvá teszi."
+        },
+        {
+          "text": "Ha a Szerződések eltérően nem rendelkeznek, az Unió jogalkotási aktusait kizárólag a Bizottság javaslata alapján lehet elfogadni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalkotási aktusoknál a bizottsági javaslat főszabály szerint előfeltétel. Az EUSZ 17. cikk (2) bekezdése szerint: „Ha a Szerződések eltérően nem rendelkeznek, az Unió jogalkotási aktusait kizárólag a Bizottság javaslata alapján lehet elfogadni.” Az egyéb jogi aktusokat akkor kell a Bizottság javaslata alapján elfogadni, ha a Szerződések úgy rendelkeznek. A monopólium tehát kettős: jogalkotási aktusoknál főszabály, egyéb aktusoknál feltételes. A ratio legis a közösségi módszer: a javaslattevő függetlensége és a monopólium egymást feltételezik."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "6977a2b78faf"
+    },
+    {
+      "question": "Milyen tartamban és milyen személyi mérce szerint áll össze a Bizottság testülete az EUSZ 17. cikk (3) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A Bizottság hivatali ideje öt év, és ez a parlamenti ciklussal van összehangolva.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hivatali idő szerződésesen rögzített, és intézményközi időzítést szolgál. Az EUSZ 17. cikk (3) bekezdése szerint a Bizottság hivatali ideje öt év. Az EUSZ 14. cikk (3) bekezdése szerinti parlamenti ciklussal való összehangolás a politikai felelősség és a kinevezési legitimáció időbeli kerete. A (7) bekezdés a kinevezést az európai parlamenti választások figyelembevételéhez köti. Az öt év tehát nem önkényes igazgatási tartam, hanem a parlamenti ellenőrzéshez igazított ciklus."
+        },
+        {
+          "text": "A Bizottság hivatali ideje négy év, mert a parlamenti ciklushoz igazodva rövidebb tartamot ír elő a Szerződés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a hivatali időt egy évvel lerövidíti. Az EUSZ 17. cikk (3) bekezdése rögzíti, hogy a Bizottság hivatali ideje öt év. Az EUSZ 14. cikk (3) bekezdése szerinti parlamenti ciklussal való összehangolás az időzítést szolgálja, de nem változtatja négyévesre a bizottsági mandátumot. A tévedés jellemzően a nemzeti kormányzati ciklusok vagy a parlamenti választási naptár összekeveréséből ered."
+        },
+        {
+          "text": "A tagok kiválasztásának egyetlen mércéje a küldő tagállam politikai megbízatása, a függetlenség csak másodlagos szempont.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szerződéses mérce az alkalmasság, az európai elkötelezettség és a kétségbe nem vonható függetlenség. Az EUSZ 17. cikk (3) bekezdése szerint a tagokat e személyi küszöb alapján kell kiválasztani, és feladatuk ellátása során a Bizottság teljes mértékben független. A (7) bekezdés a tagállami javaslatot a lista kiindulópontjaként kezeli, de a Tanács és a megválasztott elnök közös megegyezése, valamint a szerződéses szempontok a szűrők. A tévedés a kormányközi megbízotti modell ráírásából ered."
+        },
+        {
+          "text": "A tagokat általános alkalmasságuk és európai elkötelezettségük alapján, olyan személyek közül kell kiválasztani, akiknek függetlenségéhez nem férhet kétség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiválasztás személyi alkalmassági küszöb, nem tagállami kvóta. Az EUSZ 17. cikk (3) bekezdése második albekezdése szerint a Bizottság tagjait általános alkalmasságuk és európai elkötelezettségük alapján, olyan személyek közül kell kiválasztani, akiknek függetlenségéhez nem férhet kétség. A harmadik albekezdés ehhez a teljes függetlenséget és az utasítási tilalmat kapcsolja. A tagállami javaslat a (7) bekezdés szerint a listakészítés kiindulópontja, de a szerződéses személyi mérce a szűrő."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "d4468f4f7907"
+    },
+    {
+      "question": "2014. november 1-jétől mi a Bizottság létszámának főszabálya, és hogyan téríthető el tőle?",
+      "options": [
+        {
+          "text": "A létszámot a Bizottság elnöke saját hatáskörben, a Parlament utólagos tájékoztatásával állapítja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a létszám nem elnöki diszkréció. Az EUSZ 17. cikk (5) bekezdése a kétharmados főszabályt és az Európai Tanács egyhangú eltérítési jogát rögzíti; a rotációt az EUMSZ 244. cikke szerint ugyancsak az Európai Tanács állapítja meg egyhangúlag. Az elnök a 17. cikk (6) bekezdése szerint iránymutatást ad és szervezetet alakít, de a testület létszámát nem szabja meg. A tévedés az elnöki szervezeti primátus létszámszabályra való kiterjesztéséből ered."
+        },
+        {
+          "text": "Az Európai Tanács egyhangúlag eljárva a kétharmados létszám megváltoztatásáról határozhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kétharmados főszabály nem merev. Az EUSZ 17. cikk (5) bekezdése szerint a kétharmados létszám érvényes, kivéve ha az Európai Tanács egyhangúlag eljárva e szám megváltoztatásáról határoz. Az egyhangúság tehát felülírhatja a képletet. A rotációs rendszert ugyancsak az Európai Tanács állapítja meg egyhangúlag, az EUMSZ 244. cikke szerint."
+        },
+        {
+          "text": "A Bizottság — az elnökével és a főképviselővel együtt — a tagállamok számának kétharmadával megegyező számú tagból áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Lisszaboni modell a kétharmados létszámot teszi főszabállyá. Az EUSZ 17. cikk (5) bekezdése előírja: a Bizottság az elnökével és a főképviselővel együtt a tagállamok számának kétharmadával megegyező számú tagból áll, mégpedig 2014 novemberének első napjától. A (4) bekezdés ehhez képest a hatálybalépés és 2014 októberének utolsó napja között még az egy tagállam–egy állampolgár átmeneti modelljét rögzítette. A kétharmados főszabály tehát időben elválasztott a korábbi teljes nemzeti képviselettől."
+        },
+        {
+          "text": "2014. november 1-jétől a Bizottság kötelezően a tagállamok egy-egy állampolgárából áll, és ez a szabály egyhangúlag sem módosítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egy-állampolgár-egy-tag modell a (4) bekezdés átmeneti időszaka volt. Az EUSZ 17. cikk (5) bekezdése a tagállamok számának kétharmadával megegyező létszámot ír elő 2014 novemberének első napjától, és ezt a számot az Európai Tanács egyhangúlag meg is változtathatja. A (4) bekezdés a Lisszaboni Szerződés hatálybalépése és 2014 októberének utolsó napja közötti kinevezésekre szólt. A tévedés az átmeneti és a hatályos létszámmodell összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "2541ee9ccf21"
+    },
+    {
+      "question": "Miben tér el az EUMSZ 244. cikk a) pontjának egyenlőségi elve a demográfiai-földrajzi spektrum b) pontjától?",
+      "options": [
+        {
+          "text": "A 244. cikk a létszámképletet ismétli meg, és a kétharmadot számtani szabályként rögzíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 244. cikk nem a létszámképletet ismétli, hanem a rotáció elveit rögzíti. Az EUMSZ 244. cikke az EUSZ 17. cikk (5) bekezdésére utalva az egyenlő bánásmód és a demográfiai-földrajzi spektrum két kógens elvét állítja fel. A kétharmados létszám magát a 17. cikk (5) bekezdése adja, a rotációs rendszert pedig az Európai Tanács állapítja meg egyhangúlag. A tévedés a létszámszabály és a rotációs elvek összekeveréséből ered."
+        },
+        {
+          "text": "A b) pont — az a) pontra is figyelemmel — az egymást követő Bizottságok összeállításánál a tagállamok teljes demográfiai és földrajzi spektrumának kielégítő megjelenítését követeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a spektrum másodlagos az egyenlőséghez képest. Az EUMSZ 244. cikk b) pontja szerint az a) pontra is figyelemmel az egymást követő Bizottságokat úgy kell összeállítani, hogy bennük a tagállamok teljes demográfiai és földrajzi spektruma kielégítő módon megjelenjen. A spektrum tehát csak az egyenlőség keretein belül árnyalhat. A két elv együtt azt jelenti, hogy a kisebb tagállam nem maradhat ki tartósan, a nagyobb pedig nem tarthat fenn állandó többletet."
+        },
+        {
+          "text": "A demográfiai és földrajzi spektrum elsőbbséget élvez az egyenlő bánásmód számtani szabályával szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a spektrum az egyenlőség keretein belül érvényesül, nem fölötte. Az EUMSZ 244. cikk b) pontja kifejezetten „az a) pontra is figyelemmel” köti a spektrum követelményét; az a) pont szerinti egynél nem nagyobb időszak-különbség tehát elsődleges. A 17. cikk (5) bekezdése a szigorú egyenjogúságon alapuló rotációt írja elő. A tévedés a spektrum politikai „arányosítási” olvasatából ered, amely a szerződéses sorrendet megfordítja."
+        },
+        {
+          "text": "Az a) pont szerint bármely két tagállam állampolgárai által betöltött összes hivatali időszakok számának különbsége soha nem lehet több egynél.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyenlő bánásmód számtani magja zárt. Az EUMSZ 244. cikk a) pontja szerint a tagállamokat teljes mértékben egyenlően kell kezelni annak meghatározásánál, hogy állampolgáraik milyen sorrendben és időtartamra válnak a Bizottság tagjává; ennek megfelelően a bármely két tagállam állampolgárai által betöltött összes hivatali időszakok számának különbsége soha nem lehet több egynél. A sorrend és az időtartam is az egyenlőség alá tartozik. A rotáció tehát nem a nagy tagállamok állandó helyét szolgálja."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "446c37e5a4f1"
+    },
+    {
+      "question": "Mely hatáskörök illetik meg a Bizottság elnökét a testület belső szervezetében, és mi a főképviselőre vonatkozó kivétel?",
+      "options": [
+        {
+          "text": "Az elnök iránymutatása a testületi aktus érvényességi módját is felülírja: a kisebbségben maradt biztosok szavazata elhanyagolható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elnöki iránymutatás nem helyettesíti a többségi döntést. Az EUMSZ 250. cikke szerint a Bizottság a tagjainak többségével jár el; a határozatképesség feltételeit az eljárási szabályzat határozza meg. Az elnök a 17. cikk (6) bekezdése és a 248. cikk szerint iránymutatást ad és tárcát oszt, de a testületi aktus a tagok többségének aktusa. A tévedés a munkamegosztási primátus és a kollegiális döntéshozatal összekeveréséből ered."
+        },
+        {
+          "text": "Az elnök a főképviselőt is szabadon nevezi ki alelnökké, ugyanazzal a diszkrécióval, mint a többi alelnököt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főképviselő alelnöki minősége nem az elnök kinevezési joga. Az EUSZ 17. cikk (6) bekezdése c) pontja kifejezetten kiveszi a főképviselőt az elnök alelnök-kinevezési hatásköréből. Az EUSZ 18. cikk (4) bekezdése telepíti, hogy a főképviselő egyben a Bizottság egyik alelnöke. A 18. cikk (1) bekezdése szerint az Európai Tanács minősített többséggel és a Bizottság elnökének egyetértésével nevezi ki. A tévedés a közönséges alelnöki diszkréció ráírásából ered."
+        },
+        {
+          "text": "Az elnök a Bizottság tagjai közül — a főképviselő kivételével — nevezi ki az alelnököket, és a tagot lemondásra hívhatja fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hierarchikus elem éles, de a főképviselőre külön rend vonatkozik. Az EUSZ 17. cikk (6) bekezdése c) pontja szerint az elnök a tagok közül — a főképviselő kivételével — nevezi ki az alelnököket. Ugyanezen bekezdés szerint a Bizottság tagja, ha az elnök erre felhívja, benyújtja lemondását; a főképviselőt ugyancsak felhívhatja, de a lemondást a 18. cikk (1) bekezdésének eljárása szerint kell benyújtani. A főképviselő alelnöki minőségét az EUSZ 18. cikk (4) bekezdése telepíti, nem az elnök diszkréciója."
+        },
+        {
+          "text": "Az elnök meghatározza a Bizottság működésére vonatkozó iránymutatásokat, és megállapítja a belső szervezetet a koherens, hatékony és testületi szellemű működés érdekében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elnök a testület belső alkotmányának ura. Az EUSZ 17. cikk (6) bekezdése a) és b) pontja szerint az elnök meghatározza a működésre vonatkozó iránymutatásokat, és megállapítja a belső szervezetet annak biztosítása érdekében, hogy a Bizottság koherens módon, hatékonyan és testületi szellemben tevékenykedjen. Az EUMSZ 248. cikke ezt a feladatok csoportosítására és a tagok közötti elosztására fordítja. A testületi szellem a primátus korlátja és célja egyszerre."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "a5bcaa1affb6"
+    },
+    {
+      "question": "Hogyan épül fel a Bizottság kinevezésének háromlépcsős eljárása?",
+      "options": [
+        {
+          "text": "A Bizottság tagjait egyenként, külön-külön bizalmi szavazással nevezi ki az Európai Parlament, az Európai Tanács szerepe nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a parlamenti szavazás tárgya a testület, nem a tagok egyenkénti listája, és a kinevező aktus az Európai Tanácsé. Az EUSZ 17. cikk (7) bekezdése szerint az elnöknek, a főképviselőnek és a többi tagnak mint testületnek a jóváhagyásáról az Európai Parlament szavaz; e jóváhagyás alapján a Bizottságot az Európai Tanács nevezi ki minősített többséggel. A tévedés a nemzeti miniszteri bizalmi szavazás modelljének ráírásából ered."
+        },
+        {
+          "text": "Ha az elnökjelölt nem kapja meg a parlamenti többséget, a korábbi Bizottság elnöke automatikusan újabb öt évre hivatalban marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, sikertelen szavazás esetén új jelölési kötelezettség áll fenn, nem automatikus meghosszabbítás. Az EUSZ 17. cikk (7) bekezdése szerint, ha a jelölt nem kapja meg a szükséges többségi támogatást, az Európai Tanács minősített többséggel egy hónapon belül új jelöltet javasol, akit ugyanazon eljárás szerint választanak meg. A 246. cikk ügyvivő klauzulája a kollektív lemondásra vonatkozik, nem a sikertelen elnökválasztásra. A tévedés a folytonossági szabályok összekeveréséből ered."
+        },
+        {
+          "text": "A további tagok listáját a Tanács a megválasztott elnökkel közös megegyezésben fogadja el, a tagállamok javaslatai alapján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tagállami javaslat a kiindulópont, nem a kinevezés. Az EUSZ 17. cikk (7) bekezdése szerint a Tanács a megválasztott elnökkel közös megegyezésben fogadja el a további személyeket tartalmazó listát; e személyeket a tagállamok javaslatai alapján kell kiválasztani. A mérce a (3) bekezdés második albekezdésének személyi küszöbe és az (5) bekezdés második albekezdésének rotációs szempontjai. A Tanács és az elnök közös megegyezése a szűrő."
+        },
+        {
+          "text": "Az Európai Tanács minősített többséggel javaslatot tesz a Bizottság elnökének jelölt személyére, akit az Európai Parlament tagjainak többségével választ meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elnök megválasztása a demokratikus legitimáció első lépése. Az EUSZ 17. cikk (7) bekezdése szerint az európai parlamenti választások figyelembevételével és a megfelelő egyeztetések után az Európai Tanács minősített többséggel javaslatot tesz; a jelöltet az Európai Parlament tagjainak többségével választja meg. Ez a mandátumok többsége, nem a jelenlévők egyszerű többsége. Ha a jelölt nem kapja meg a szükséges támogatást, az Európai Tanács minősített többséggel egy hónapon belül új jelöltet javasol."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "76acbc1352b8"
+    },
+    {
+      "question": "Mi következik abból, ha az Európai Parlament bizalmatlansági indítványt fogad el a Bizottsággal szemben?",
+      "options": [
+        {
+          "text": "A Bizottság tagjainak testületileg le kell mondaniuk, a főképviselőnek pedig le kell mondania a bizottsági tagságról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a joghatás kollektív, és a főképviselőnél a bizottsági tagságra szűkül. Az EUSZ 17. cikk (8) bekezdése szerint a Bizottság testületileg az Európai Parlamentnek tartozik felelősséggel; az EUMSZ 234. cikkében foglaltaknak megfelelően a Parlament bizalmatlansági indítványt fogadhat el. Elfogadás esetén a tagoknak testületileg le kell mondaniuk, a főképviselőnek pedig a bizottsági tagságról. A KKBP-megbízatás és a bizottsági tagság tehát a joghatás szintjén elválasztható."
+        },
+        {
+          "text": "A lemondó tagok ügyvivőként hivatalban maradnak, amíg a 17. cikknek megfelelően új tagokat neveznek ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a politikai felelősség nem intézményi vákuumot, hanem ügyvivő folytonosságot eredményez. Az EUMSZ 246. cikk utolsó albekezdése szerint, amennyiben a Bizottság összes tagja lemond, a lemondó tagok mindaddig hivatalban maradnak, és a folyamatban lévő ügyeket továbbra is ellátják, amíg helyükre a 17. cikknek megfelelően új tagokat neveznek ki. A (8) bekezdés bizalmatlansági joghatása így operatívvá válik. A végrehajtó hatalom nem omlik össze a szavazás napján."
+        },
+        {
+          "text": "A bizalmatlansági indítvány csak az elnököt érinti; a többi biztos hivatalban maradhat egyéni parlamenti szavazás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felelősség testületi, nem egyéni elnöki. Az EUSZ 17. cikk (8) bekezdése szerint a Bizottság testületileg tartozik felelősséggel, és az indítvány elfogadása esetén a tagoknak testületileg le kell mondaniuk. Az egyéni hivatalvesztés útja az EUMSZ 247. cikk szerinti bírósági felmentés. A tévedés a parlamentáris kormányfői bizalmatlanság nemzeti modelljének ráírásából ered."
+        },
+        {
+          "text": "A bizalmatlanság elfogadása esetén a főképviselő KKBP-megbízatása is automatikusan megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (8) bekezdés kifejezetten a bizottsági tagságról való lemondást írja elő. Az EUSZ 17. cikk (8) bekezdése szerint a főképviselőnek a bizottsági tagságról kell lemondania; a KKBP-megbízatás sorsát a 18. cikk (1) bekezdése tartja az Európai Tanácsnál, amely minősített többséggel és a Bizottság elnökének egyetértésével szüntetheti meg. A tévedés a kettős tisztség teljes összeolvasztásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "f64f7fc269e5"
+    },
+    {
+      "question": "Mely esetben nem folytathat a Bizottság tagja egyéb foglalkozást, és mi a tilalom terjedelme?",
+      "options": [
+        {
+          "text": "Hivatalba lépésükkor ünnepélyesen kötelezettséget vállalnak arra, hogy megbízatásuk megszűnését követően is feddhetetlenül és tartózkodóan járnak el kinevezések vagy előnyök elfogadásával kapcsolatban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az utólagos tartózkodás a hivatal megszűnésén túlnyúlik. Az EUMSZ 245. cikke szerint a tagok hivatalba lépésükkor ünnepélyesen kötelezettséget vállalnak arra, hogy hivatali idejük alatt és után tiszteletben tartják a hivatalukból eredő kötelezettségeket, különösen hogy megbízatásuk megszűnését követően feddhetetlenül és tartózkodóan járnak el kinevezések vagy előnyök elfogadásával kapcsolatban. Az utólagos tartózkodás mérlegelést ír elő, de a megsértés szankciója ugyanaz a bírósági út. A 245. cikk a 17. cikk (3) bekezdésének utasítási tilalmát időben is meghosszabbítja."
+        },
+        {
+          "text": "A foglalkozási tilalom csak a kereső tevékenységet érinti, és a hivatal megszűnésével minden utólagos tartózkodási kötelezettség megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom az ingyenes foglalkozásra is kiterjed, és az utólagos tartózkodás a hivatal után is él. Az EUMSZ 245. cikke a „akár kereső, akár ingyenesen végzett” fordulattal abszolút foglalkozási tilalmat állít a hivatal idejére, és a „hivatali idejük alatt és után” kötelezettséggel a megszűnés utáni kinevezéseket és előnyöket is átfogja. A megsértés esetén a Bíróság felmenthet vagy nyugdíjat vonhat meg. A tévedés a tilalom időbeli és tárgyi leszűkítéséből ered."
+        },
+        {
+          "text": "Hivatali idejük alatt a Bizottság tagjai nem folytathatnak semmilyen egyéb — akár kereső, akár ingyenesen végzett — foglalkozást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a foglalkozási tilalom abszolút a hivatal idejére. Az EUMSZ 245. cikke szerint a Bizottság tagjai hivatali idejük alatt nem folytathatnak semmilyen egyéb — akár kereső, akár ingyenesen végzett — foglalkozást. A térítésmentesség tehát nem mentesít. Ugyanezen cikk előírja, hogy tartózkodnak a feladataik ellátásával összeegyeztethetetlen cselekedetektől. A tilalom a 17. cikk (3) bekezdésének függetlenségi szabályát konkretizálja."
+        },
+        {
+          "text": "Ingyenes foglalkozás a hivatal ideje alatt megengedett, ha a tagállam előzetesen hozzájárul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom a térítésmentes foglalkozásra is kiterjed, és tagállami hozzájárulás nem mentesít. Az EUMSZ 245. cikke szerint a tagok hivatali idejük alatt nem folytathatnak semmilyen egyéb — akár kereső, akár ingyenesen végzett — foglalkozást. A tagállamok kötelesek tiszteletben tartani a függetlenséget, és nem kísérlik meg a befolyásolást. A tévedés a „díjazás nélküli = összeegyeztethető” olvasatból ered."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "1501af7b8ea0"
+    },
+    {
+      "question": "Milyen szankcióval jár a Bizottság tagjának kötelezettségszegése az EUMSZ 245. cikke szerint?",
+      "options": [
+        {
+          "text": "A Bíróság a Tanács egyszerű többséggel elfogadott kérelmére vagy a Bizottság kérelmére az érintett tagot felmentheti, vagy megvonhatja tőle nyugdíjjogosultságát vagy az azt helyettesítő juttatásokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szankció bírósági, és a felmentés mellett vagyoni jogfosztást is magában foglalhat. Az EUMSZ 245. cikke szerint e kötelezettségek megsértése esetén a Bíróság a Tanács egyszerű többséggel elfogadott kérelmére vagy a Bizottság kérelmére az érintett tagot, a körülményektől függően, a 247. cikknek megfelelően felmentheti, vagy megvonhatja tőle nyugdíjjogosultságát vagy az ezt helyettesítő egyéb juttatásokhoz való jogát. A 245. cikk tehát a 247. cikket felmentési és vagyoni jogfosztási jogalapként is megnyitja. A nyugdíj megvonása a felmentés alternatívája vagy kiegészítője lehet."
+        },
+        {
+          "text": "Az aktív keresetindítási jog a Tanácsé és a Bizottságé; a tagállam egyedül nem perelhet e címen a Bíróság előtt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az indítványozók köre zárt. Az EUMSZ 245. cikke a Tanács egyszerű többséggel elfogadott kérelmét vagy a Bizottság kérelmét nevezi meg. A tagállam egyedül nem indíthat keresetet e címen, a Tanácson keresztül viszont igen. A 247. cikk ugyanezt a kérelemhez kötött indítványozási rendet ismétli a felmentésnél. A zárt legitimáció a testületi függetlenséget védi a bilaterális tagállami pereskedéstől."
+        },
+        {
+          "text": "Nyugdíjmegvonás csak a felmentéssel együtt, automatikusan jár, a Bíróságnak nincs választási lehetősége.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Szerződés a körülményektől függő választást a Bíróságra bízza. Az EUMSZ 245. cikke szerint a Bíróság a körülményektől függően felmentheti a tagot, vagy megvonhatja tőle a nyugdíjjogosultságot vagy az azt helyettesítő juttatásokat — a 247. cikk keretében. A nyugdíj megvonása tehát a felmentés alternatívája vagy kiegészítője lehet, nem automatikus mellékhatás. A tévedés a két szankció kógens összekapcsolásából ered."
+        },
+        {
+          "text": "A kötelezettségszegés esetén a Parlament egyoldalú politikai aktussal felmentheti az érintett tagot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyéni felmentés bírósági út, nem parlamenti egyoldalú aktus. Az EUMSZ 245. és 247. cikke szerint a felmentést a Bíróság mondja ki a Tanács vagy a Bizottság kérelmére. A Parlament a 17. cikk (8) bekezdése szerint kollektív bizalmatlansági indítványt fogadhat el, ami a teljes testület lemondását eredményezi. A tévedés a kollektív politikai felelősség és az egyéni bírósági felmentés összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "05af46921677"
+    },
+    {
+      "question": "A Bizottság valamely tagjának megbízatása megszűnése után hogyan történik a helyettesítés?",
+      "options": [
+        {
+          "text": "A rendes tag pótlására is a 17. cikk (7) bekezdésének teljes elnökválasztási eljárását kell alkalmazni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a teljes (7) bekezdés szerinti eljárás csak az elnök pótlására hívandó vissza. Az EUMSZ 246. cikke szerint az elnök lemondása, felmentése vagy halála esetén a fennmaradó időre új elnököt a 17. cikk (7) bekezdésének első albekezdése szerint kell kinevezni. A rendes tag pótlása rövidebb: Tanács és elnök közös megegyezése, parlamenti konzultáció, azonos állampolgárság. A tévedés a két pótlási út összecseréléséből ered."
+        },
+        {
+          "text": "A Tanács a Bizottság elnökének javaslata alapján egyhangúlag úgy is határozhat, hogy a távozó tag helyébe nem szükséges új tagot kinevezni, különösen ha a fennmaradó hivatali idő rövid.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a „nem pótolunk” döntés a létszám ideiglenes csökkenését a szerződésen belül tartja. Az EUMSZ 246. cikke szerint a Tanács a Bizottság elnökének javaslata alapján egyhangúlag úgy is határozhat, hogy a távozó tag helyébe nem szükséges új tagot kinevezni, különösen ha a fennmaradó hivatali idő rövid. Az egyhangúság és az elnöki javaslat konjunktív feltétel. A rövid hátralévő idő a tipikus indok, de a Szerződés „különösen” fordulattal él."
+        },
+        {
+          "text": "A távozó tag helyébe a hivatali idő fennmaradó részére a Tanács, a Bizottság elnökével közös megegyezésben, az Európai Parlamenttel folytatott konzultációt követően, a távozóval azonos állampolgárságú új tagot nevez ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a helyettesítés állampolgársági folytonosságot követel. Az EUMSZ 246. cikke szerint a lemondó, felmentett vagy elhalálozott tag helyébe a Tanács a Bizottság elnökével közös megegyezésben, az Európai Parlamenttel folytatott konzultációt követően, a 17. cikk (3) bekezdésének második albekezdésében meghatározott feltételeknek megfelelően a távozó taggal azonos állampolgárságú új tagot nevez ki. A rotáció itt nem nyílik újra. A konzultáció nem azonos a (7) bekezdés testületi jóváhagyó szavazásával."
+        },
+        {
+          "text": "A helyettesítő tag állampolgársága szabadon választható a rotációs spektrum alapján, a távozó tagéval nem kell azonosnak lennie.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a helyettesítés azonos állampolgárságot követel. Az EUMSZ 246. cikke szerint az új tagot a távozó taggal azonos állampolgárságú személyek közül kell kinevezni. A rotáció a 17. cikk (5) bekezdése és a 244. cikk szerint a testület összeállításánál érvényesül, a közbenső pótlásnál nem nyílik újra. A személyi mérce viszont a 17. cikk (3) bekezdésének második albekezdése marad. A tévedés a rotáció közbenső pótlásra való kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "06809097036e"
+    },
+    {
+      "question": "Miben tér el az egyéni bírósági felmentés a kollektív politikai felelősségtől és az elnöki lemondásra felhívástól?",
+      "options": [
+        {
+          "text": "A Parlament egyoldalú politikai aktussal egyetlen biztos hivatalát is megszüntetheti a 247. cikk helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, nincs egyéni hivatalvesztés a Parlament egyoldalú politikai aktusával a kollektív bizalmatlanságon kívül. Az EUSZ 17. cikk (8) bekezdése a testületi lemondást eredményezi; az egyéni felmentés az EUMSZ 247. cikke szerinti bírósági út. A 247. cikk kérelemhez kötött, és a felmentés a Bíróság aktusa. A tévedés a kollektív politikai és az egyéni bírósági felelősség összekeveréséből ered."
+        },
+        {
+          "text": "Az egyéni felmentés indítványozása a Tanács egyszerű többségével vagy a Bizottság kérelmével történik, nem minősített többséggel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hivatalból való bírósági eltávolítás indítványozása alacsonyabb küszöbű, mint a kinevezés. Az EUMSZ 247. cikke a Tanács egyszerű többséggel elfogadott kérelmét vagy a Bizottság kérelmét írja elő. A kinevezéshez képest — ahol az Európai Tanács minősített többsége szükséges a 17. cikk (7) bekezdése szerint — az eltávolítás indítványozása nem igényel minősített többséget. A Bizottság saját tagja ellen is kérheti a felmentést: a testületi szellem itt önvédelmi joggá válik."
+        },
+        {
+          "text": "Az elnök 17. cikk (6) bekezdése szerinti lemondásra felhívása helyettesíti a Bíróságot, ha a tag nem mond le.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elnöki felhívás és a bírósági felmentés párhuzamos, nem azonos utak. Az EUSZ 17. cikk (6) bekezdése szerint a tag, ha az elnök erre felhívja, benyújtja lemondását — ez politikai-elnöki út. Ha a tag nem mond le, a felmentést az EUMSZ 247. cikke szerint a Bíróság mondja ki a Tanács vagy a Bizottság kérelmére. A tévedés a két szankciós út összeolvasztásából ered."
+        },
+        {
+          "text": "A Bíróság felmentheti a Bizottság tagját, ha az már nem felel meg a feladatai ellátásához szükséges feltételeknek, vagy súlyos kötelezettségszegést követett el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyéni bírósági hivatalvesztésnek két szerződéses tényállása van. Az EUMSZ 247. cikke szerint, ha a Bizottság valamely tagja már nem felel meg a feladatai ellátásához szükséges feltételeknek, vagy súlyos kötelezettségszegést követett el, a Bíróság a Tanács egyszerű többséggel elfogadott kérelmére vagy a Bizottság kérelmére felmentheti hivatalából. A „szükséges feltételek” a 17. cikk (3) bekezdésének személyi küszöbével olvashatók össze. A súlyos kötelezettségszegés a 245. cikk magatartási rendjének szankciós kapuja."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "add5f35c40ea"
+    },
+    {
+      "question": "Hogyan dönt a Bizottság elnöke a feladatok elosztásáról, és mi a főképviselő tárcájának sajátossága?",
+      "options": [
+        {
+          "text": "A főképviselő bizottsági alelnöki és külkapcsolati felelőssége nem osztható szét az elnök diszkréciójával úgy, mintha közönséges tárca volna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 248. cikk a 18. cikk (4) bekezdésének fenntartásával védi a főképviselő szerződéses szerepét. Az EUSZ 18. cikk (4) bekezdése szerint a főképviselő a Bizottságon belül a külkapcsolatokkal összefüggő feladatokért és a külső tevékenységek egyéb területeinek összehangolásáért felel. Az elnök a többi tárcát szabadon csoportosíthatja; a főképviselő KKBP-megbízatása és a Külügyek Tanácsának elnöklése szerződéses, nem elnöki eredetű. A 17. cikk (6) bekezdése ezért veszi ki a főképviselőt az alelnök-kinevezési jogból."
+        },
+        {
+          "text": "A tag a számára kiosztott tárcát a hivatali idő végéig szerzett jogként megtartja, az elnök azt időközben nem változtathatja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tárca nem szerzett jog. Az EUMSZ 248. cikke kifejezetten kimondja, hogy az elnök e feladatok elosztását a Bizottság hivatali ideje alatt megváltoztathatja. A tagok az elnök által megállapított feladatokat az elnök irányításával látják el. A tévedés a nemzeti miniszteri tárcastabilitás modelljének ráírásából ered."
+        },
+        {
+          "text": "A feladatok elosztásáról a Bizottság a tagok többségével dönt, az elnöknek csak javaslattételi joga van.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkamegosztás az elnök döntése, nem többségi szavazás tárgya. Az EUMSZ 248. cikke szerint a feladatok csoportosításáról és elosztásáról az elnök dönt a 17. cikk (6) bekezdésének megfelelően. A 250. cikk szerinti többség a testületi aktusok érvényességi módja, nem a tárcaelosztásé. A tévedés a kollegiális döntéshozatal és a szervezeti primátus összekeveréséből ered."
+        },
+        {
+          "text": "A Bizottságra háruló feladatok csoportosításáról és a tagok közötti elosztásáról az elnök dönt, és e feladatok elosztását a hivatali idő alatt megváltoztathatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tárca nem szerzett jog. Az EUMSZ 248. cikke szerint — a 18. cikk (4) bekezdésének sérelme nélkül — a feladatok csoportosításáról és elosztásáról az elnök dönt a 17. cikk (6) bekezdésének megfelelően, és e feladatok elosztását a hivatali idő alatt megváltoztathatja. A tagok az elnök által megállapított feladatokat az elnök irányításával látják el. A kollegialitás a döntéshozatalban a 250. cikk szerint marad; a munkamegosztásban az elnök utasítási joga érvényesül."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "6987519f8c3b"
+    },
+    {
+      "question": "Milyen határidővel és milyen tartalommal teszi közzé a Bizottság az Unió tevékenységéről szóló éves általános jelentést?",
+      "options": [
+        {
+          "text": "Az éves általános jelentés csak akkor kötelező, ha a Parlament bizalmatlansági indítványt helyez kilátásba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jelentés évenkénti, határidőhöz kötött kötelezettség. A helyes szabály szerint az EUMSZ 249. cikk (2) bekezdése a Parlament ülésszakának megnyitása előtt egy hónappal írja elő a közzétételt, bizalmatlansági kilátásba helyezés nélkül. A tévedés forrása a politikai felelősség információs előfeltételének feltételes kötelezettséggé olvasása."
+        },
+        {
+          "text": "Az éves jelentés tárgya kizárólag a Bizottság saját igazgatási tevékenysége, az Unió egyéb intézményeinek működése kívül esik rajta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jelentés tárgya az Unió tevékenysége. Az EUMSZ 249. cikk (2) bekezdése szerint a Bizottság általános jelentést tesz közzé az Unió tevékenységéről — nem csupán a saját igazgatásáról. A 17. cikk (1) bekezdésének programozó indítványa előre tekint; az általános jelentés visszafelé számol. A tévedés a jelentés tárgyi körének leszűkítéséből ered."
+        },
+        {
+          "text": "A jelentés tárgya az Unió tevékenysége, nem csupán a Bizottság saját igazgatása; a határidő a parlamenti ellenőrzés üteméhez igazodik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 249. cikk (2) bekezdése tárgyi és időbeli kötöttséget ad. A Bizottság általános jelentést tesz közzé az Unió tevékenységéről, legkésőbb az Európai Parlament ülésszakának megnyitása előtt egy hónappal. A tárgy tehát az Unió tevékenysége, nem csupán a Bizottság saját igazgatása. A jelentés az EUSZ 17. cikk (8) bekezdése szerinti politikai felelősség információs előfeltétele; az eljárási szabályzat az (1) bekezdés külön kötelezettsége."
+        },
+        {
+          "text": "A Bizottság évente, legkésőbb az Európai Parlament ülésszakának megnyitása előtt egy hónappal általános jelentést tesz közzé az Unió tevékenységéről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határidő a parlamenti ellenőrzés üteméhez igazodik. Az EUMSZ 249. cikk (2) bekezdése szerint a Bizottság évente, legkésőbb az Európai Parlament ülésszakának megnyitása előtt egy hónappal általános jelentést tesz közzé az Unió tevékenységéről. A tárgy az Unió tevékenysége, nem csupán a Bizottság saját igazgatása. A jelentés a 17. cikk (8) bekezdése szerinti politikai felelősség információs előfeltétele."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "bf7612b9254f"
+    },
+    {
+      "question": "Hogyan dönt a Bizottság testületileg, és mi a határozatképesség szerződéses helye?",
+      "options": [
+        {
+          "text": "A határozatképesség feltételeit az eljárási szabályzat határozza meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozatképesség a 249. cikk (1) bekezdése szerinti szabályzatba van telepítve. Az EUMSZ 250. cikke második mondata szerint a határozatképesség feltételeit az eljárási szabályzat határozza meg. A szabályzat nyilvánosságra hozatali kötelezettsége miatt ez a rugalmasság nem titkos: a küszöb megismerhető. Az elnök iránymutatása a 17. cikk (6) bekezdése szerint a munkamegosztást szolgálja, de a testületi aktus a tagok többségének aktusa."
+        },
+        {
+          "text": "A Bizottság döntéseihez a Tanácsnál alkalmazott minősített többségi és népességi küszöböt kell alkalmazni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottságnál nincs tagállami súlyozás és népességi küszöb. Az EUMSZ 250. cikke a tagok többségét írja elő; a határozatképességet az eljárási szabályzat adja. A 17. cikk (3) bekezdésének függetlenségi és a 244. cikk egyenlőségi elvének döntéshozatali megfelelője a biztosok egyenlő szavazata. A tévedés a Tanács szavazási rendjének ráírásából ered."
+        },
+        {
+          "text": "A Bizottság a tagjainak többségével jár el; nincs tagállami súlyozás, nincs minősített népességi küszöb.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a biztosok egyenlő szavazata a függetlenség és az egyenlőség döntéshozatali megfelelője. Az EUMSZ 250. cikke szerint a Bizottság a tagjainak többségével jár el. Ahol a Szerződés a Tanácsnál minősített többséget, blokkoló kisebbséget és népességi küszöböt épít, ott a Bizottságnál szándékosan a tagok számtani többségét hagyja meg. A testület nem a tagállamok súlyozott leképezése. A többség a tagoké a Szerződés szintjén."
+        },
+        {
+          "text": "A Szerződés szintjén a többség a jelenlévő biztosoké; a teljes tagsághoz viszonyított többség csak az eljárási szabályzatban jelenhet meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Szerződés a tagok többségét írja elő, nem a jelenlévőkét. Az EUMSZ 250. cikke szerint a Bizottság a tagjainak többségével jár el; a határozatképesség — hogy a többség mikor hozható érvényesen — a szabályzatba van telepítve. A jelenléti többség nemzeti testületi logikája tehát nem a szerződéses főszabály. A tévedés a határozatképesség és a többségi küszöb összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "3086a988fe29"
+    },
+    {
+      "question": "Miben áll az Unió külügyi és biztonságpolitikai főképviselőjének kettős tisztsége?",
+      "options": [
+        {
+          "text": "A főképviselőt kizárólag a Bizottság elnöke nevezi ki alelnökké, az Európai Tanács egyetértése nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főképviselő kinevezése az Európai Tanács aktusa. Az EUSZ 18. cikk (1) bekezdése szerint az Európai Tanács minősített többséggel és a Bizottság elnökének egyetértésével nevezi ki. A 17. cikk (6) bekezdése kifejezetten kiveszi a főképviselőt az elnök alelnök-kinevezési jogából; az alelnöki minőséget a 18. cikk (4) bekezdése telepíti. A tévedés a közönséges alelnöki diszkréció ráírásából ered."
+        },
+        {
+          "text": "A főképviselőt az Európai Tanács minősített többséggel és a Bizottság elnökének egyetértésével nevezi ki, és ugyanilyen eljárással szüntetheti meg a megbízatását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kinevezés és a megszüntetés azonos eljárási küszöbhöz kötött. Az EUSZ 18. cikk (1) bekezdése szerint az Európai Tanács minősített többséggel és a Bizottság elnökének egyetértésével nevezi ki a főképviselőt, és ugyanilyen eljárással szüntetheti meg a megbízatását. A 17. cikk (7) bekezdése szerint emellett a testület részeként a Parlament jóváhagyásához is kötött. A kettős kötés a KKBP és a bizottsági tagság találkozásából fakad."
+        },
+        {
+          "text": "A főképviselő irányítja a KKBP-t, elnöke a Külügyek Tanácsának, és egyben a Bizottság egyik alelnöke, aki a külső tevékenységek összhangjáért felel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főképviselő a Bizottság testületének állandó különös tagja. Az EUSZ 18. cikk (2)–(4) bekezdése szerint a főképviselő irányítja a KKBP-t, a Tanácstól kapott felhatalmazás szerint hajtja végre, elnöke a Külügyek Tanácsának, és a Bizottság egyik alelnökeként biztosítja az Unió külső tevékenységeinek összhangját. A Bizottságon belüli feladataiban — a (2) és (3) bekezdéssel összhangban — a bizottsági eljárások szerint jár el. A KKBP-mandátum tehát nem olvad be a 250. cikk szerinti többségi döntésbe."
+        },
+        {
+          "text": "A főképviselő KKBP-megbízatása a Bizottság 250. cikk szerinti többségi döntésének tárgya, mint bármely más tárca.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KKBP-mandátum nem olvad be a bizottsági többségi döntésbe. Az EUSZ 18. cikk (4) bekezdésének záró mondata szerint a főképviselő a Bizottságon belüli feladataiban és kizárólag e feladatok körében — annyiban, amennyiben ez összhangban áll a (2) és (3) bekezdéssel — a bizottsági eljárások szerint jár el. A KKBP irányítása és a tanácsi elnöklés a (2)–(3) bekezdés rendje szerint marad. A tévedés a kettős tisztség teljes beolvasztásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "06314a1a2455"
+    },
+    {
+      "question": "Mely esetben nem kérhet és fogadhat el utasítást a Bizottság tagja, és mi a főképviselőre vonatkozó kivétel lényege?",
+      "options": [
+        {
+          "text": "A főképviselő a KKBP-t a Tanácstól kapott felhatalmazás szerint hajtja végre; e körben a tanácsi mandátum nem tiltott utasítás, hanem a 18. cikk szerinti intézményi rend.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 18. cikk (2) bekezdésére tett utalás a főképviselő KKBP-szerepének védelme. Az EUSZ 17. cikk (3) bekezdése a függetlenséget a 18. cikk (2) bekezdésének sérelme nélkül mondja ki. A főképviselő a Bizottságon belüli feladataiban viszont a 18. cikk (4) bekezdése szerint — a (2) és (3) bekezdéssel összhangban — a bizottsági eljárások szerint jár el. A függetlenség tehát a testületre nézve főszabály, a főképviselő KKBP-megbízatására nézve csorbított."
+        },
+        {
+          "text": "A Bizottság tagja a küldő tagállam kormányától kérhet iránymutatást, ha a javaslat a tagállam érdekeit érinti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom a kormányzati utasításra is kiterjed, érdekütközésre hivatkozással sem. Az EUSZ 17. cikk (3) bekezdése szerint a tagok nem kérhetnek és nem fogadhatnak el utasításokat semmilyen kormánytól. Az EUMSZ 245. cikke szerint a tagállamok nem kísérlik meg a befolyásolást. A mérce a 17. cikk (1) bekezdése szerinti Unió általános érdeke. A tévedés a megbízotti modell ráírásából ered."
+        },
+        {
+          "text": "A Bizottság tagjai nem kérhetnek és nem fogadhatnak el utasításokat semmilyen kormánytól, intézménytől, szervtől vagy más szervezettől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az utasítási tilalom a függetlenség magja. Az EUSZ 17. cikk (3) bekezdése szerint feladatainak ellátása során a Bizottság teljes mértékben független; a 18. cikk (2) bekezdésének sérelme nélkül a tagok nem kérhetnek és nem fogadhatnak el utasításokat semmilyen kormánytól, intézménytől, szervtől vagy más szervezettől. Az EUMSZ 245. cikke ezt kétoldalúvá teszi: a tagállamok tiszteletben tartják a függetlenséget, és nem kísérlik meg a befolyásolást. A tilalom tehát a biztosra és a tagállamra egyaránt vonatkozik."
+        },
+        {
+          "text": "A főképviselő KKBP-megbízatásában is a Bizottság 250. cikk szerinti utasítási tilalma érvényesül a Tanáccsal szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KKBP-ben a tanácsi felhatalmazás a 18. cikk szerinti intézményi rend. Az EUSZ 17. cikk (3) bekezdése a függetlenséget a 18. cikk (2) bekezdésének sérelme nélkül rögzíti; a főképviselő a KKBP-t a Tanácstól kapott felhatalmazás szerint hajtja végre. A Bizottságon belüli feladatoknál viszont a bizottsági eljárások érvényesülnek. A tévedés a testületi függetlenség KKBP-re való abszolút kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "022075b2c407"
+    },
+    {
+      "question": "Mi a különbség az elnök, a főképviselő és a rendes bizottsági tag pótlási eljárása között?",
+      "options": [
+        {
+          "text": "A főképviselő helyére a 18. cikk (1) bekezdése szerint kell új főképviselőt kinevezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főképviselő pótlása a saját kinevezési eljárásához igazodik. Az EUMSZ 246. cikke szerint a főképviselő lemondása, felmentése vagy halála esetén a fennmaradó időre a 18. cikk (1) bekezdésének megfelelően kell új főképviselőt kinevezni. Ez az Európai Tanács minősített többségét és a Bizottság elnökének egyetértését jelenti. A három pótlási út — elnök, főképviselő, rendes tag — tehát elválik."
+        },
+        {
+          "text": "Az elnök pótlására a 17. cikk (7) bekezdésének első albekezdése szerinti eljárást kell alkalmazni: Európai Tanácsi javaslat és parlamenti megválasztás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elnök pótlása a teljes elnökválasztási utat hívja vissza. Az EUMSZ 246. cikke szerint az elnök lemondása, felmentése vagy halála esetén a fennmaradó időre új elnököt kell kinevezni a 17. cikk (7) bekezdésének első albekezdése szerint. Ez Európai Tanácsi javaslatot és parlamenti megválasztást jelent. A rendes tag pótlása ehhez képest rövidebb eljárást kap."
+        },
+        {
+          "text": "A főképviselő és a rendes tag pótlása azonos: mindkettőnél elegendő a Tanács és az elnök közös megegyezése parlamenti konzultációval.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főképviselő pótlása a 18. cikk (1) bekezdése szerinti eljárás. Az EUMSZ 246. cikke a rendes tagnál a Tanács és az elnök közös megegyezését, parlamenti konzultációt és azonos állampolgárságot ír elő; a főképviselőnél viszont a 18. cikk (1) bekezdését hívja vissza. A tévedés a két különös tisztség pótlásának összecseréléséből ered."
+        },
+        {
+          "text": "Az elnök pótlásánál elegendő a Tanács egyhangú döntése a Bizottság elnökének javaslata nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elnök pótlása nem a 246. cikk „nem pótolunk” klauzulája, hanem a 17. cikk (7) bekezdésének első albekezdése. Az EUMSZ 246. cikke szerint új elnököt a 17. cikk (7) bekezdésének első albekezdése szerint kell kinevezni: Európai Tanácsi javaslat, parlamenti megválasztás. Az egyhangú „nem pótolunk” döntés a rendes tag helyére vonatkozik. A tévedés a pótlási és a nem-pótlási szabály összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "3a7d38aac451"
+    },
+    {
+      "question": "A Gazdasági és Szociális Bizottság, valamint a Régiók Bizottsága milyen minőségben kapcsolódik a Bizottsághoz?",
+      "options": [
+        {
+          "text": "A tanácsadói segítség nem osztja meg a Bizottság 17. cikk (2) bekezdése szerinti javaslattevő minőségét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUSZ 13. cikk (4) bekezdése szerinti segítség tanácsadói minőségű, nem társjogalkotói. Az EUSZ 17. cikk (2) bekezdése szerint a jogalkotási aktusokat főszabály szerint kizárólag a Bizottság javaslata alapján lehet elfogadni. A 13. cikk (4) bekezdése a Parlamentet, a Tanácsot és a Bizottságot a két szerv tanácsadói segítségével köti össze. A javaslattevő minőség tehát a Bizottságnál marad."
+        },
+        {
+          "text": "A Bizottság csak akkor tehet jogalkotási javaslatot, ha mindkét tanácsadó szerv előzetesen egyetértő véleményt adott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a javaslattevő monopólium nem függ egyetértő tanácsadói véleménytől. Az EUSZ 17. cikk (2) bekezdése a bizottsági javaslatot teszi előfeltétellé. Az EUSZ 13. cikk (4) bekezdése szerinti segítség tanácsadói, nem egyetértési vétó. A tévedés a konzultáció kötelező egyetértő előfeltétellé emeléséből ered."
+        },
+        {
+          "text": "Az EUSZ 13. cikk (4) bekezdése a Parlamentet, a Tanácsot és a Bizottságot a két szerv tanácsadói minőségű segítségével köti össze.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kapcsolat tanácsadói, nem döntéshozói. Az EUSZ 13. cikk (4) bekezdése szerint a Parlament, a Tanács és a Bizottság a Gazdasági és Szociális Bizottság, valamint a Régiók Bizottsága tanácsadói minőségű segítségével működik. Az EUMSZ 304. és 307. cikke szerint a Szerződésekben meghatározott esetekben — és azon túl, amikor indokoltnak tartják — konzultálnak e szervekkel. A Bizottság tehát a javaslat előkészítése során intézményesített viszonyban áll velük."
+        },
+        {
+          "text": "A Régiók Bizottsága a Bizottsággal együtt szavazati joggal vesz részt a jogalkotási aktusok elfogadásában.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Régiók Bizottsága tanácsadó szerv, nem társjogalkotó. Az EUSZ 13. cikk (4) bekezdése tanácsadói minőségű segítséget rögzít; az EUMSZ 307. cikke konzultációról rendelkezik. A jogalkotási aktusok elfogadása a Szerződések szerinti intézmények hatásköre, a bizottsági javaslat pedig a 17. cikk (2) bekezdése szerinti előfeltétel. A tévedés a tanácsadó és a döntéshozó szerep összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "880758d3f829"
+    },
+    {
+      "question": "A Bizottság költségvetési és programirányítási szerepéből mi következik az EUSZ 17. cikk (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A Bizottság végrehajtja a költségvetést és irányítja a programokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a funkciókatalógus külön nevesíti a költségvetési-végrehajtó szerepet. Az EUSZ 17. cikk (1) bekezdése szerint a Bizottság végrehajtja a költségvetést és irányítja a programokat. Ugyanezen bekezdés a Szerződésekben meghatározott feltételek szerint koordinatív, végrehajtó és igazgatási feladatok ellátását is rátelepíti. Ez nem puszta titkársági adminisztráció, hanem a végrehajtó-kezdeményező pólus egyik zárt hatásköri típusa. A politikai motor és a költségvetési végrehajtás tehát együtt jelenik meg."
+        },
+        {
+          "text": "A költségvetés végrehajtása a Tanács kizárólagos hatásköre; a Bizottság csak javaslatot tehet rá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a költségvetés végrehajtását a Szerződés a Bizottságra telepíti. Az EUSZ 17. cikk (1) bekezdése szerint a Bizottság végrehajtja a költségvetést és irányítja a programokat. A Tanács más hatáskörökben — például a 241. cikk szerinti felkérésben vagy a 243. cikk szerinti javadalmazás-megállapításban — jelenik meg, de a végrehajtás nem az övé. A tévedés a költségvetési jogalkotás és a végrehajtás összekeveréséből ered."
+        },
+        {
+          "text": "A koordinatív és igazgatási feladatok a Bizottságot a Szerződések feltételei nélkül, általános hatáskörben illetik meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, e feladatok a Szerződésekben meghatározott feltételekhez kötöttek. Az EUSZ 17. cikk (1) bekezdése szerint a Bizottság a Szerződésekben meghatározott feltételek szerint lát el koordinatív, végrehajtó és igazgatási feladatokat. A 13. cikk (2) bekezdése a hatáskörök határain belüli eljárást írja elő. A tévedés a feltétel nélküli általános igazgatási hatáskör feltételezéséből ered."
+        },
+        {
+          "text": "A Bizottság a Szerződésekben meghatározott feltételek szerint koordinatív, végrehajtó és igazgatási feladatokat lát el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a koordinatív-végrehajtó-igazgatási feladatok feltételhez kötöttek. Az EUSZ 17. cikk (1) bekezdése szerint a Bizottság a Szerződésekben meghatározott feltételek szerint látja el ezeket a feladatokat. A feltételhez kötöttség azt jelenti, hogy nem általános, korlátlan igazgatási hatáskörről van szó. A költségvetés végrehajtása és a programok irányítása e körrel együtt olvasható. A hatáskör-átruházás a 13. cikk (2) bekezdése szerinti határok között marad."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "01d904043db0"
+    },
+    {
+      "question": "Mire szolgál a Bizottságnak az Unió tevékenysége éves és többéves programjára tett indítványa?",
+      "options": [
+        {
+          "text": "A többéves programot a Bizottság egyedül, a Parlament és a Tanács egyetértése nélkül fogadja el kötelező aktusként.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság indítványt tesz a megállapodások létrehozása céljából, nem egyedül fogad el kötelező programaktust. Az EUSZ 17. cikk (1) bekezdése szerint az indítvány az intézmények közötti megállapodások létrehozására irányul. A jogalkotási aktusok elfogadása a 17. cikk (2) bekezdése szerinti javaslat alapján a Szerződések eljárásaiban történik. A tévedés az indítvány és a kötelező egyoldalú aktus összekeveréséből ered."
+        },
+        {
+          "text": "A programozási indítvány a 17. cikk (1) bekezdésének funkciókatalógusában zárt hatásköri típusként jelenik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a programozás nem mellékes adminisztratív szokás. Az EUSZ 17. cikk (1) bekezdése a funkciókatalógus részeként telepíti az éves és többéves programra tett indítványt. A cél az intézmények közötti megállapodások létrehozása. A kezdeményező szerep itt is az Unió általános érdekének előmozdításához kapcsolódik. A 249. cikk (2) bekezdésének éves jelentése ehhez képest a visszatekintő ellenőrzési oldalt adja."
+        },
+        {
+          "text": "A Bizottság az intézmények közötti megállapodások létrehozása céljából indítványt tesz az Unió tevékenységének éves és többéves programjára.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a programozási indítvány intézményközi dokumentum, nem belső emlékeztető. Az EUSZ 17. cikk (1) bekezdése szerint a Bizottság az intézmények közötti megállapodások létrehozása céljából indítványt tesz az Unió tevékenységének éves és többéves programjára. Az indítvány előre tekint; az EUMSZ 249. cikk (2) bekezdése szerinti általános jelentés visszafelé számol. A két dokumentum együtt a politikai felelősség és a tervezés kerete."
+        },
+        {
+          "text": "A programozási indítvány helyettesíti az EUMSZ 249. cikk (2) bekezdése szerinti éves általános jelentést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két dokumentum időirányban és funkcióban elválik. Az EUSZ 17. cikk (1) bekezdése szerinti indítvány előre tekintő programozás; az EUMSZ 249. cikk (2) bekezdése szerinti általános jelentés az Unió tevékenységéről visszatekintő beszámoló, legkésőbb a parlamenti ülésszak megnyitása előtt egy hónappal. A tévedés a tervezési és az ellenőrzési dokumentum azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "65b8200c21e9"
+    },
+    {
+      "question": "Az Európai Tanács összetételében milyen minőségben van jelen a Bizottság elnöke?",
+      "options": [
+        {
+          "text": "A főképviselő az Európai Tanács teljes jogú tagja, a Bizottság elnöke viszont csak tanácskozási joggal rendelkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tagság a Bizottság elnökéé; a főképviselő a munkában vesz részt. Az EUSZ 15. cikk (2) bekezdése a Bizottság elnökét a tagok között említi, a főképviselőről pedig azt mondja, hogy az Európai Tanács munkájában részt vesz. A 18. cikk a főképviselőt a KKBP-hez és a Külügyek Tanácsához köti. A tévedés a két szerep felcseréléséből ered."
+        },
+        {
+          "text": "Az Európai Parlament megválasztja a Bizottság elnökét, ami a 14. cikk (1) bekezdése szerinti választási fordulat eljárási tartalma a 17. cikk (7) bekezdésében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a parlamenti megválasztás a demokratikus legitimáció kulcsa. Az EUSZ 14. cikk (1) bekezdése szerint az Európai Parlament megválasztja a Bizottság elnökét. Az EUSZ 17. cikk (7) bekezdése adja az eljárást: az Európai Tanács minősített többségű javaslata után a Parlament a tagok többségével választ. A két rendelkezés együtt olvasható. A bizottsági elnök Európai Tanács-tagsága ehhez a legitimációs lánchoz kapcsolódik."
+        },
+        {
+          "text": "A Bizottság elnöke csak megfigyelőként vehet részt az Európai Tanács ülésein, tagság nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság elnöke az Európai Tanács tagja, nem megfigyelő. Az EUSZ 15. cikk (2) bekezdése expressis verbis a tagállamok állam-, illetve kormányfői, saját elnöke és a Bizottság elnöke összetételét rögzíti. A főképviselő a munkában vesz részt. A tévedés a meghívotti és a tagsági státusz összekeveréséből ered."
+        },
+        {
+          "text": "Az Európai Tanács a tagállamok állam-, illetve kormányfőiből, saját elnökéből és a Bizottság elnökéből áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság elnöke az Európai Tanács tagja. Az EUSZ 15. cikk (2) bekezdése szerint az Európai Tanács a tagállamok állam-, illetve kormányfőiből, saját elnökéből és a Bizottság elnökéből áll. Munkájában részt vesz az Unió külügyi és biztonságpolitikai főképviselője is. A kinevezési és ellenőrzési kapcsolatok tehát az Európai Tanácsban is megjelennek. A 17. cikk (7) bekezdése szerinti elnökjelölés ehhez a tagsághoz kapcsolódik."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "354348229d12"
+    },
+    {
+      "question": "Mely esetben nem a Bizottság látja el az Unió külső képviseletét a KKBP ügyekben?",
+      "options": [
+        {
+          "text": "A KKBP ügyekben is a Bizottság kizárólagos külső képviseleti joga érvényesül az Európai Tanács elnökével szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 17. cikk (1) bekezdése a KKBP-t kivételként emeli ki. Az EUSZ 15. cikk (6) bekezdése az Európai Tanács elnökére telepíti a KKBP ügyekben a saját szintű külső képviseletet, a főképviselő hatáskörének sérelme nélkül. Az EUSZ 18. cikk (2)–(3) bekezdése a főképviselőre bízza a KKBP irányítását és a Külügyek Tanácsának elnöklését. A tévedés a Bizottság általános képviseleti szerepének KKBP-re való kiterjesztéséből ered."
+        },
+        {
+          "text": "A főképviselő KKBP-megbízatása a Bizottság elnökének utasítási jogába tartozik, mint a többi alelnöki tárca.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KKBP-megbízatás nem az elnök diszkréciója alá tartozó közönséges tárca. Az EUSZ 17. cikk (6) bekezdése kiveszi a főképviselőt az alelnök-kinevezési jogból; a 248. cikk a 18. cikk (4) bekezdésének sérelme nélkül engedi a feladatmegosztást. A főképviselő a Tanácstól kapott felhatalmazás szerint hajtja végre a KKBP-t. A tévedés a tárcaelosztási primátus KKBP-re írásából ered."
+        },
+        {
+          "text": "A főképviselő irányítja a KKBP-t, javaslataival hozzájárul e politika alakításához, és a Tanácstól kapott felhatalmazás szerint hajtja végre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KKBP operatív vezetése a főképviselőé. Az EUSZ 18. cikk (2) bekezdése szerint a főképviselő irányítja a KKBP-t, javaslataival hozzájárul e politika alakításához, és a Tanácstól kapott felhatalmazás szerint hajtja végre; ugyanez vonatkozik a közös biztonság- és védelempolitikára. A Külügyek Tanácsának elnöke. A 17. cikk (1) bekezdése tehát a Bizottságot a KKBP-n kívüli külső képviseletre jogosítja."
+        },
+        {
+          "text": "A közös kül- és biztonságpolitikához tartozó ügyekben az Európai Tanács elnöke — a saját szintjén és e minőségében, a főképviselő hatáskörének sérelme nélkül — látja el az Unió külső képviseletét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KKBP-kivétel az Európai Tanács elnökére is telepít képviseletet. Az EUSZ 15. cikk (6) bekezdése szerint az Európai Tanács elnöke a saját szintjén, a főképviselő hatáskörének sérelme nélkül látja el az Unió külső képviseletét a KKBP ügyekben. Az EUSZ 17. cikk (1) bekezdése a Bizottságot a KKBP, valamint a Szerződések által meghatározott más esetek kivételével jogosítja a külső képviseletre. Az EUSZ 18. cikk (2) bekezdése a főképviselőre telepíti a KKBP irányítását és a Tanácstól kapott felhatalmazás szerinti végrehajtást."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "fc672d4b058c"
+    },
+    {
+      "question": "Az átmeneti rendelkezésekről szóló jegyzőkönyv szerint mi történik a főképviselő kinevezésekor a vele azonos állampolgárságú bizottsági taggal?",
+      "options": [
+        {
+          "text": "A szabály előképe a 246. cikk azonos állampolgárságú pótlásának: a főképviselő a nemzeti helyet elfoglalja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átmeneti szabály és a rendes pótlás ugyanazt az egy-hely elvet szolgálja. Az EUMSZ 246. cikke a távozó tag helyébe azonos állampolgárságú új tagot rendel. A jegyzőkönyv 5. cikke a főképviselő beillesztésekor ugyanezt a nemzeti helyet védi a kettős képviselettől. A 17. cikk (4) bekezdésének átmeneti modellje ezzel marad konzisztens. A rotáció későbbi kétharmados rendje ehhez képest a 17. cikk (5) bekezdésében jelenik meg."
+        },
+        {
+          "text": "A főképviselővel azonos állampolgárságú tag megbízatása csak a teljes testület parlamenti újraválasztásakor szűnik meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megszűnés a főképviselő kinevezésének napjához kötött. Az átmeneti rendelkezésekről szóló jegyzőkönyv IV. cím 5. cikke szerint a megszűnés a kinevezés napján következik be, nem a testület teljes újraválasztásakor. A többi hivatalban lévő tag hivatali idejét végig kitölti. A tévedés a kollektív megújítás és az egyéni állampolgársági ütközés összekeveréséből ered."
+        },
+        {
+          "text": "A főképviselő kinevezése mellett a vele azonos állampolgárságú biztos is hivatalban marad, így a tagállam két hellyel rendelkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jegyzőkönyv éppen a kettős nemzeti képviseletet zárja ki. Az átmeneti rendelkezésekről szóló jegyzőkönyv IV. cím 5. cikke szerint a főképviselő kinevezésének napján a vele azonos állampolgárságú bizottsági tag megbízatása megszűnik. Egy tagállamnak a testületben egy állampolgári helye van. A tévedés a főképviselő „plusz” tagságként való olvasásából ered."
+        },
+        {
+          "text": "A főképviselő kinevezésének napján a főképviselővel azonos állampolgárságú bizottsági tag megbízatása megszűnik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szabály a kettős nemzeti képviseletet zárja ki. Az átmeneti rendelkezésekről szóló jegyzőkönyv IV. cím 5. cikke szerint a Lisszaboni Szerződés hatálybalépésekor hivatalban lévő bizottsági tagok hivatali idejüket végig kitöltik, de a főképviselő kinevezésének napján a vele azonos állampolgárságú bizottsági tag megbízatása megszűnik. Az EUSZ 17. cikk (4) bekezdésének egy-állampolgár-egy-tag modellje így marad konzisztens a főképviselő beillesztésekor. Egy tagállamnak a testületben egy állampolgári helye van."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "1a9396ef5244"
+    },
+    {
+      "question": "Ki határozza meg a Bizottság elnökének, tagjainak és a főképviselőnek a javadalmazását, és hogyan kapcsolódik ehhez a nyugdíjmegvonási szankció?",
+      "options": [
+        {
+          "text": "A 245. cikk szerinti nyugdíjmegvonás a 243. cikk szerint megállapított javadalmazási rendre támaszkodik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szankció tárgya a szerződésesen megállapított juttatás. Az EUMSZ 245. cikke szerint a Bíróság megvonhatja a nyugdíjjogosultságot vagy az ezt helyettesítő egyéb juttatásokhoz való jogát. Az EUMSZ 243. cikke e juttatások meghatározását a Tanácsra bízza. A két cikk együtt olvasható: a megállapítás és a megvonás ugyanarra a javadalmazási rendre mutat. A felmentés a 247. cikk keretében a nyugdíjmegvonás mellett vagy helyett alkalmazható."
+        },
+        {
+          "text": "A Tanács határozza meg az Európai Tanács elnöke, a Bizottság elnöke, a főképviselő, a Bizottság tagjai, továbbá a Bíróság elnökei, bírái és hivatalvezetői, valamint a Tanács főtitkára illetményét, juttatásait és nyugdíját.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a javadalmazási rend a Tanács hatásköre. Az EUMSZ 243. cikke a Tanácsra telepíti az Európai Tanács elnöke, a Bizottság elnöke, a főképviselő, a Bizottság tagjai, továbbá a Bíróság elnökei, bírái és hivatalvezetői, valamint a Tanács főtitkára illetményének, juttatásainak és nyugdíjának, továbbá a javadalmazás helyett fizetett juttatásoknak a meghatározását. Az EUMSZ 245. cikke szerinti nyugdíjmegvonási szankció e rendre támaszkodik: amit a Tanács megállapít, azt a Bíróság megvonhatja."
+        },
+        {
+          "text": "A Bizottság elnöke saját hatáskörben állapítja meg a biztosok illetményét és nyugdíját.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a javadalmazás megállapítása a Tanács hatásköre. Az EUMSZ 243. cikke a Tanácsra telepíti a Bizottság elnöke, a főképviselő és a Bizottság tagjai illetményének, juttatásainak és nyugdíjának meghatározását. Az elnök a 17. cikk (6) bekezdése és a 248. cikk szerint szervezetet és tárcát alakít, de javadalmazást nem állapít meg. A tévedés az elnöki szervezeti primátus javadalmazásra kiterjesztéséből ered."
+        },
+        {
+          "text": "A nyugdíjmegvonást a Tanács egyszerű többséggel, a Bíróság közreműködése nélkül rendelheti el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyugdíjmegvonás a Bíróság aktusa. Az EUMSZ 245. cikke szerint a Bíróság a Tanács egyszerű többséggel elfogadott kérelmére vagy a Bizottság kérelmére vonhatja meg a nyugdíjat; a Tanács tehát indítványoz, nem dönt. A 243. cikk a megállapítást, a 245. cikk a megvonást rendezi. A tévedés az indítványozói és a döntési szerep összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "4299c2aebdc9"
+    },
+    {
+      "question": "Egy biztos a hivatali ideje alatt díjazás nélkül egyetemi előadásokat tartana heti rendszerességgel. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A tilalom alól a küldő tagállam kormányának előzetes engedélye mentesít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, tagállami engedély nem törí át a szerződéses tilalmat. Az EUMSZ 245. cikke abszolút foglalkozási tilalmat állít a hivatal idejére, és egyben előírja, hogy a tagállamok tiszteletben tartják a függetlenséget, és nem kísérlik meg a befolyásolást. Az EUSZ 17. cikk (3) bekezdése szerinti utasítási tilalom ugyanezt erősíti. A tévedés a nemzeti felmentési logika ráírásából ered."
+        },
+        {
+          "text": "Kötelezettségszegés esetén a Bíróság a Tanács vagy a Bizottság kérelmére felmentést vagy nyugdíjmegvonást alkalmazhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szankció bírósági és kérelemhez kötött. Az EUMSZ 245. cikke szerint e kötelezettségek megsértése esetén a Bíróság a Tanács egyszerű többséggel elfogadott kérelmére vagy a Bizottság kérelmére az érintett tagot a 247. cikknek megfelelően felmentheti, vagy megvonhatja tőle nyugdíjjogosultságát vagy az ezt helyettesítő juttatásokat. A körülményektől függő választás a Bíróságé. A tagállam egyedül nem perelhet e címen."
+        },
+        {
+          "text": "Ha az előadások díjazás nélküliek, a 245. cikk foglalkozási tilalma nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom kifejezetten az ingyenesen végzett foglalkozásra is kiterjed. Az EUMSZ 245. cikke a „akár kereső, akár ingyenesen végzett” fordulattal zárja ki a térítésmentességi kiskaput. A tagok tartózkodnak a feladataik ellátásával összeegyeztethetetlen cselekedetektől is. A tévedés a „díjazás nélküli = megengedett” olvasatból ered."
+        },
+        {
+          "text": "A foglalkozási tilalom az ingyenesen végzett foglalkozásra is kiterjed, ezért a díjazás hiánya nem mentesít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a térítésmentesség nem nyit kivételt. Az EUMSZ 245. cikke szerint a Bizottság tagjai hivatali idejük alatt nem folytathatnak semmilyen egyéb — akár kereső, akár ingyenesen végzett — foglalkozást. Az egyetemi előadás-sorozat egyéb foglalkozásnak minősülhet e tilalom alatt. A 17. cikk (3) bekezdése szerinti függetlenség és az összeegyeztethetetlen cselekedetektől való tartózkodás ugyanezt a magatartási rendet erősíti. A tilalom abszolút a hivatal idejére."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "347017d69c48"
+    },
+    {
+      "question": "A Bizottság eljárási szabályzata és a testületi határozatképesség viszonyából mi következik?",
+      "options": [
+        {
+          "text": "A Szerződés a Bizottságnál is minősített népességi küszöböt ír elő, amelyet a szabályzat csak pontosíthat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottságnál a Szerződés a tagok számtani többségét hagyja meg. Az EUMSZ 250. cikke szerint a Bizottság a tagjainak többségével jár el; népességi küszöb nincs. A határozatképesség a szabályzatban van, de ez nem a Tanács minősített többségi rendjének átvétele. A tévedés a Tanács szavazási modelljének ráírásából ered."
+        },
+        {
+          "text": "A 249. cikk (1) bekezdése szerinti eljárási szabályzat a 250. cikk határozatképességi utalása miatt a testületi aktusok érvényességi keretének forrása is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a házszabály nem csupán belső igazgatás. Az EUMSZ 249. cikk (1) bekezdése a szabályzat elfogadását és nyilvánosságra hozatalát írja elő. Az EUMSZ 250. cikke a határozatképesség feltételeit ehhez a szabályzathoz utalja. A közzétett küszöb miatt a hiányzó határozatképességre hivatkozás ellenőrizhető. A többség a tagoké a Szerződés szintjén; a határozatképesség a szabályzatban van."
+        },
+        {
+          "text": "A határozatképességi küszöböt a Bizottság elnöke ülésenként, zárt körben állapítja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozatképesség az eljárási szabályzatban van, és a szabályzatot nyilvánosságra kell hozni. Az EUMSZ 250. cikke a feltételeket a szabályzathoz utalja; a 249. cikk (1) bekezdése a nyilvánosságra hozatalt előírja. Az elnök a 17. cikk (6) bekezdése szerint iránymutatást ad és szervezetet alakít, de a határozatképességet nem ülésenként titokban szabja meg. A tévedés az elnöki primátus érvényességi küszöbre kiterjesztéséből ered."
+        },
+        {
+          "text": "A határozatképesség szabályzatba utalása rugalmasságot ad, de a nyilvánosságra hozatali kötelezettség miatt ez a rugalmasság nem titkos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rugalmasság és az ellenőrizhetőség együtt jár. Az EUMSZ 250. cikke a határozatképességet az eljárási szabályzatra bízza; a 249. cikk (1) bekezdése a nyilvánosságra hozatalt kötelezővé teszi. A biztosok egyenlő szavazata a 17. cikk (3) bekezdésének függetlenségi és a 244. cikk egyenlőségi elvének döntéshozatali megfelelője. A Tanács népességi küszöbei ide nem kerülnek át."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "8225c69889cf"
+    }
+  ]
+}

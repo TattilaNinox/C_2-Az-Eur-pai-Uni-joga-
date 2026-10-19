@@ -1,0 +1,873 @@
+{
+  "id": "0kWy7lSSbuVwTwpmUPrY",
+  "sorszam": 14,
+  "cim": "Az irányelv joghatásai, jellemzői és viszonya a nemzeti joghoz; az (...)",
+  "generationType": "kerdes",
+  "title": "14. Az irányelv joghatásai, jellemzői és viszonya a nemzeti joghoz; az (...)",
+  "questions": [
+    {
+      "question": "Miben tér el az irányelv a rendelettől az EUMSZ 288. cikke szerinti kötőerő és a nemzeti joghoz való viszony tekintetében?",
+      "options": [
+        {
+          "text": "Az irányelv ajánlásként hat, mert a nemzeti hatóságok szabadon eldönthetik, hogy a célt egyáltalán megvalósítják-e.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a formai szabadság nem mentesít az eredmény alól, és az irányelv nem ajánlás. Az EUMSZ 288. cikke szerint az irányelv kötelező, míg az ajánlások és a vélemények nem kötelezőek; a Marshall-ratio és az átültetési mulasztás jogkövetkezményei az utóbbiakra nem húzhatók rá. A tévedés a forma és az eszközök megválasztásának az eredmény megválaszthatóságává torzításából ered."
+        },
+        {
+          "text": "Az irányelv is teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban, ezért az átültetés csak tájékoztatási formalitás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a rendelet kötőerejét írja rá az irányelvre. Az EUMSZ 288. cikke szerint az irányelv csak a célt illetően kötelező, a forma és az eszközök a nemzeti hatóságoké, és az átültetés a 291. cikk (1) bekezdése szerinti szükséges intézkedés. A tévedés forrása a rendelet „közvetlenül alkalmazandó” fordulatának az irányelvre való átvitele."
+        },
+        {
+          "text": "Az irányelv az elérendő célokat illetően kötelezi a címzett tagállamot, a forma és az eszközök megválasztását azonban a nemzeti hatóságokra hagyja, és nem lép a belső jog helyébe.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv eredménykötelezettség: a cél kötelező, a megvalósítás módja nemzeti. Az EUMSZ 288. cikke szerint: „Az irányelv az elérendő célokat illetően minden címzett tagállamra kötelező, azonban a forma és az eszközök megválasztását a nemzeti hatóságokra hagyja.” A nemzeti joghoz való viszony ezért transzformatív, nem szubsztitutív: a címzett állam a saját jogforrási formáját választja. A rendelet ehhez képest teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban."
+        },
+        {
+          "text": "A rendelet általános hatályú, teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban, ezért a belső jogot megkerülve érvényesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet a 288. cikk második albekezdése szerint nem igényel átültetést ahhoz, hogy a belső jogrendben érvényesüljön. A rendelet a belső jogot megkerülve érvényesül, míg az irányelv a belső jogot átalakíttatja. A két aktustípus elhatárolása ezért nem stilisztikai, hanem a hatály és a végrehajtás szerkezetén múlik. A 291. cikk (1) bekezdése szerint rendeletnél a végrehajtás a rendelet érvényesülésének biztosítása, nem transzpozíció."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "9d4f6978c080"
+    },
+    {
+      "question": "Milyen tartamban és milyen procedurális úton lép hatályba a valamennyi tagállamnak címzett irányelv a 297. cikk szerint, és hogyan viszonyul ehhez az átültetési határidő?",
+      "options": [
+        {
+          "text": "A valamennyi tagállamnak címzett irányelv is kizárólag a címzettek értesítésével lép hatályba, a Hivatalos Lapban való kihirdetés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az „egyéb” irányelv értesítési modelljét írja rá a valamennyi tagállamnak címzett irányelvre. Az EUMSZ 297. cikk (2) bekezdése szerint a valamennyi tagállamnak címzett irányelvet kihirdetik, míg az egyéb irányelvekről a címzetteket értesíteni kell, és azok az értesítéssel lépnek hatályba. A tévedés a két procedurális út összecseréléséből ered."
+        },
+        {
+          "text": "A valamennyi tagállamnak címzett irányelvet az Európai Unió Hivatalos Lapjában ki kell hirdetni, és az a benne megjelölt napon, ennek hiányában a kihirdetést követő huszadik napon lép hatályba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk a hatály procedurális küszöbét adja, nem az átültetés napját. Az EUMSZ 297. cikk (2) bekezdése szerint a valamennyi tagállamnak címzett irányelvet kihirdetik, és az a bennük megjelölt napon, illetve ennek hiányában a kihirdetésüket követő huszadik napon lép hatályba. A 2006/123/EK irányelv mintája szerint a hatálybalépés a kihirdetést követő nap is lehet. Amíg az irányelv hatályba nem lépett, sem a határidő, sem a mulasztás, sem a hivatkozhatóság nem értelmezhető."
+        },
+        {
+          "text": "Az átültetési határidő automatikusan a kihirdetést követő huszadik nap, mert a 297. cikk ezt a napot a transzpozícióra is kiterjeszti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a huszadik nap a hatálybalépés főszabálya, nem az átültetés napja. Az EUMSZ 297. cikke a hatályt rendezi; az átültetési napot az irányelv maga tűzi ki, ahogy a 2006/123/EK irányelv 2009. december 28-i határideje mutatja. A tévedés forrása a hatálybalépés és a transzpozíciós határidő azonosítása."
+        },
+        {
+          "text": "Az átültetési határidőt az irányelv maga tűzi ki, és az nem esik egybe a 297. cikk szerinti hatálybalépéssel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatály és a transzpozíció két külön időpont. A szolgáltatási irányelv a kihirdetést követő napon lépett hatályba, a tagállamokat azonban 2009. december 28-ig kötelezte a megfeleléshez szükséges rendelkezések hatályba léptetésére. A 297. cikk az aktus létezését és a címzettekkel szembeni hatályt rendezi; az átültetési napot az irányelv saját záró klauzulája adja. A kitűzött nap elmulasztása után a meg nem valósított cél a 288. cikk megsértését jelenti."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "da417459304c"
+    },
+    {
+      "question": "A függőleges hivatkozhatóság dogmatikailag milyen számonkérés a 288. cikk szerinti eredménykötelezettséghez képest?",
+      "options": [
+        {
+          "text": "A mulasztás után az irányelv rendelkezése magánszeméllyel szemben is önálló kötelezettségforrássá válik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a függőleges hivatkozhatóság nem nyit horizontális hatályt. Az EUMSZ 288. cikke — a Marshall-ítélet ratioja szerint — a kötelező erőt csak a címzett tagállamra telepíti, ezért egy irányelv önmagában nem róhat kötelezettségeket magánszemélyre. A helyes szabály: a magánfél a tagállam bármely hatóságával szemben hivatkozhat, magánféllel szemben önmagában nem. A tévedés a függőleges szankciónak a horizontális kötelezettségforrássá való átírásából ered."
+        },
+        {
+          "text": "A magánszemély azonnal, a hatálybalépés napjától hivatkozhat az irányelvre a tagállammal szemben, a transzpozíciós határidő lejárta nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a függőleges hivatkozhatóság a határidő lejáratához kötött. A Marleasing-ügyben idézett gyakorlat szerint a magánszemély akkor hivatkozhat, ha a tagállam elmulasztotta a megállapított határidőn belüli átültetést; a határidő előtt a 288. cikk még a forma és az eszközök megválasztására hagy időt. A hatály beállta önmagában nem nyitja meg a hivatkozást. A tévedés a hatály és az átültetési nap összecseréléséből ered."
+        },
+        {
+          "text": "A magánszemély a nemzeti bíróság előtt a célt kéri számon, nem a Bizottság helyett intézményi szankciót alkalmaz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a függőleges hivatkozhatóság alanyi jogi következmény, nem kötelezettségszegési eljárás. Az EUMSZ 288. cikke a tagállamot kötelezi; a magánfél a nemzeti fórumon e kötelezettséget érvényesíti. A 297. cikk a hatály küszöbét adja a kihirdetés vagy az értesítés révén. A számonkérés tárgya a világos, feltétlen és kellően pontos eredmény, nem a Bizottság intézményi eszköztára."
+        },
+        {
+          "text": "Nem az irányelv rendeletté válása, hanem a címzett állammal szembeni eredménykötelezettség szankciója a nemzeti bíróság előtt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átültetés elmaradása nem ruházza fel az irányelvet a rendelet általános hatályú közvetlen alkalmazásával. A C-106/89. sz. Marleasing-ügyben a Bizottság a hivatkozhatóságot a 288. cikk címzetti szerkezetéből vezeti le. A magánszemély a nemzeti bíróság előtt a 288. cikk szerinti célt kéri számon. A hivatkozhatóság tehát szankció a címzett állammal szemben, nem aktustípus-csere."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "37c383d12186"
+    },
+    {
+      "question": "A 297. cikk milyen procedurális szerkezete erősíti meg a horizontális hivatkozhatóság tilalmát?",
+      "options": [
+        {
+          "text": "A 297. cikk szerinti értesítés a magánfeleket is címzi, ezért rájuk nézve is megnyílik a közvetlen kötelezettség.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értesítés címzettjei a tagállamok. Az EUMSZ 297. cikk (2) bekezdése szerint az egyéb irányelvekről a címzetteket kell értesíteni; a magánfél nem címzett. A helyes: a 288. cikk szerinti kötelező erő a címzett tagállamra települ. A tévedés a 297. cikk értesítési alanyának magánjogi kiterjesztéséből ered."
+        },
+        {
+          "text": "A Marshall-ratio szerint egy irányelv rendelkezésére önmagában nem lehet hivatkozni magánszeméllyel szemben, mert a kötelező erő a címzett tagállamra települ.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság a Marleasing-ügyben kifejezetten nemleges választ tartott indokoltnak a horizontális hivatkozásra. Az EGK-Szerződés 189. cikke — ma az EUMSZ 288. cikke — a kötelező erőt a címzett tagállamra korlátozza. Ebből következik, hogy „egy irányelv önmagában nem róhat kötelezettségeket egy magánszemélyre”. A 297. cikk értesítési szerkezete ezt a címzetti határt procedurálisan is megerősíti."
+        },
+        {
+          "text": "A horizontális hivatkozhatóság megnyílik, ha a rendelkezés világos, feltétlen és kellően pontos, mert ezek a feltételek a magánjogviszonyban is elegendőek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a világos–feltétlen–kellően pontos triász a függőleges hivatkozhatóság feltétele, nem a horizontális tilalom feloldása. Az EUMSZ 288. cikke szerint az irányelv kötelező ereje csak a címzett tagállammal szemben áll fenn, ezért rendelkezésére önmagában nem lehet hivatkozni magánszeméllyel szemben. Az EUMSZ 297. cikk (2) bekezdése az egyéb irányelvekről a címzetteket — a tagállamokat — értesíti, a magánfelet nem. A tévedés a Marleasing-triásznak a Marshall-tilalom alá rendeléséből ered."
+        },
+        {
+          "text": "Az egyéb irányelvről a címzetteket — a tagállamokat — kell értesíteni; a magánfél nem címzett, ezért vele szemben az irányelv önmagában nem forrás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk (2) bekezdése az egyéb irányelvekről a címzettek értesítését írja elő. A címzettek a tagállamok; a magánfélről az értesítés nem szól. A Marshall-ügyben hozott ítélet ratioját a Bizottság a Marleasing-ügyben így idézi: a kötelező erő csak „minden olyan tagállammal szemben áll fenn, amelynek címezték”. A procedurális címzés és a 288. cikk kötőereje ezért ugyanarra az alanyi határra mutat."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "dcefc0056d5d"
+    },
+    {
+      "question": "Miért nem cserélhető fel az irányelv és a rendelet végrehajtási útja a 288. és a 291. cikk közös olvasata szerint?",
+      "options": [
+        {
+          "text": "A rendeletet nem kell irányelvi módon átültetni, mert teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet a 288. cikk második albekezdése szerint „teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban”. A 291. cikk (1) bekezdése szerinti „szükséges intézkedés” itt az érvényesülés biztosítása, nem a norma belső jogba való átírása. Az irányelvi formai szabadság és a transzpozíciós határidő a rendeletre nem vihető át. A két aktustípus végrehajtási modellje ezért zártan elválik."
+        },
+        {
+          "text": "Az irányelvet nem lehet „rendeletként” olvasni: a 291. cikk (1) bekezdése szerinti intézkedés irányelvnél a transzpozíció, nem a közvetlen alkalmazás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 288. cikk a rendeletet közvetlenül alkalmazandóvá, az irányelvet eredménykötelezettséggé teszi. A 291. cikk (1) bekezdése a kötelező aktusok végrehajtását a nemzeti jogban előírt intézkedésekhez köti. Irányelvnél ez az intézkedés az átültetés; rendeletnél az érvényesülés biztosítása. A két út felcserélése a 288. cikk aktustípus-elhatárolását törné át."
+        },
+        {
+          "text": "Irányelvnél a 291. cikk (1) bekezdése mentesít az átültetés alól, ha a nemzeti hatóság a célt közigazgatási gyakorlattal is elérheti írásbeli norma nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a végrehajtási kötelesség nem oldja fel a 288. cikk szerinti eredménykötelezettséget, és nem teszi fakultatívvá a belső jogi intézkedést. Az EUMSZ 291. cikk (1) bekezdése szerint a tagállamok nemzeti jogukban elfogadják a kötelező erejű uniós jogi aktusok végrehajtásához szükséges intézkedéseket. Irányelvnél ez az átültetés. A tévedés a 291. cikknek a formai szabadságon túli mentesítésként való olvasásából ered."
+        },
+        {
+          "text": "Rendeletnél is kötelező a teljes szöveg törvénybe foglalása, mert a 291. cikk (1) bekezdése minden uniós aktusra azonos átültetési mintát ír elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet nem igényel irányelvi típusú átültetést. Az EUMSZ 288. cikke szerint a rendelet közvetlenül alkalmazandó, a 291. cikk (1) bekezdése pedig a végrehajtást a rendelet érvényesülésének biztosításaként értelmezi, nem transzpozícióként. A tévedés forrása a 291. cikk általános végrehajtási fordulatának irányelvi mintára való szűkítése. A helyes elhatárolás: a 288. cikk a rendeletet közvetlen alkalmazásra, az irányelvet átültetésre utalja."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "cb75135dc266"
+    },
+    {
+      "question": "A 2006/123/EK irányelv záró klauzulái szerint meddig terjed a formai szabadság az átültető rendelkezések származásának feltüntetésénél?",
+      "options": [
+        {
+          "text": "Ha a tagállam meghatározza a hivatkozás módját, a Bizottságnak való szövegmegküldés már nem kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két klauzula egymás mellett áll, nem egymás helyettesítője. A helyes: a 2006/123/EK irányelv szerint a rendelkezések szövegét haladéktalanul meg kell küldeni a Bizottságnak, a hivatkozási kötelezettségtől függetlenül. A 291. cikk (1) bekezdése szerinti intézkedés ellenőrzése a megküldésen keresztül valósul meg. A tévedés a hivatkozásnak a megküldést felváltó aktusként való olvasásából ered."
+        },
+        {
+          "text": "A formai szabadság a jogforrási típusra vonatkozik; a címzett állam nem tüntetheti fel „saját” intézkedésként azt, ami az irányelv eredményének a megvalósítása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 288. cikk a forma és az eszközök megválasztását a nemzeti hatóságokra hagyja, de a célt kötelezővé teszi. A 2006/123/EK irányelv záró klauzulái szerint a hivatkozási kötelezettség éppen a származás feltüntetését követeli. A törvény, a rendelet vagy a közigazgatási rendelkezés megválasztása szabad; a származás elrejtése nem. A lojális végrehajtás a 291. cikk (1) bekezdése szerinti intézkedés tartalmát is átláthatóvá teszi."
+        },
+        {
+          "text": "Az átültető rendelkezésekben tilos az irányelvre hivatkozni, mert a formai szabadság magában foglalja a származás elrejtését is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a formai szabadság nem jogosít a származás elrejtésére. A helyes: a 2006/123/EK irányelv záró klauzulái szerint az átültető rendelkezésekben hivatkozni kell az irányelvre, vagy kihirdetésükhöz ilyen hivatkozást kell fűzni. A hivatkozás módját a tagállamok határozzák meg. A tévedés a 288. cikk „forma és eszközök” fordulatának a származás elrejtésére való kiterjesztéséből ered."
+        },
+        {
+          "text": "Amikor a tagállamok az átültető rendelkezéseket elfogadják, azokban hivatkozni kell az irányelvre, vagy hivatalos kihirdetésük alkalmával ilyen hivatkozást kell fűzni; a hivatkozás módját a tagállamok határozzák meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szolgáltatási irányelv záró része a hivatkozási kötelezettséget a belső jog és az uniós aktus összekötéseként írja elő. A hivatkozás módját a tagállamok határozzák meg, de magát a hivatkozást nem mellőzhetik. Az EUMSZ 288. cikke szerinti eredménykötelezettség átültetésekor a származás elrejtése nem része a formai szabadságnak. A 291. cikk (1) bekezdése szerinti nemzeti intézkedés így az uniós aktushoz kötöttként jelenik meg."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "687c721da347"
+    },
+    {
+      "question": "A Marleasing-ügyben a Bizottság miért tartott nemleges választ indokoltnak arra, hogy magánszemély magánszeméllyel szemben hivatkozzon az átültetetlen első társasági jogi irányelv 11. cikkére?",
+      "options": [
+        {
+          "text": "A 11. cikk világos, feltétlen és kellően pontos volta sem oldja fel a Marshall-tilalmat a magánjogviszonyban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a triász a függőleges hivatkozhatóság feltétele a címzett állammal szemben, nem a horizontális tilalom feloldása. A Bizottság a 11. cikket a címzett állammal szembeni eredménykötelezettségként minősítette. Magánféllel szemben ugyanaz a rendelkezés önmagában nem forrás. Az EUMSZ 288. cikke szerinti alanyi határ a társasági tárgy ellenére is fennáll."
+        },
+        {
+          "text": "Ha az első irányelv 11. cikke világos, feltétlen és kellően pontos, a felperes közvetlenül kötelezheti vele az alperes magánfelet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a triász nem oldja fel a Marshall-tilalmat. Az EUMSZ 288. cikke szerint az irányelv a címzett tagállamot kötelezi, és önmagában nem róhat kötelezettségeket magánszemélyre; a Marleasing-ügyben a Bizottság kifejezetten nemleges választ tartott indokoltnak a horizontális hivatkozásra. A tévedés a függőleges feltételeknek a horizontális hatály megnyitójaként való olvasásából ered. A helyes: a 11. cikk a címzett állammal szemben számonkérhető eredménykötelezettség."
+        },
+        {
+          "text": "Mert az irányelv kötelező ereje csak a címzett tagállammal szemben áll fenn, ezért a 11. cikk önmagában nem róhat kötelezettséget magánszemélyre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a horizontális tilalom a Marleasing-ügy központi negatív következménye. A Marshall-ítélet ratioja — a 288. cikk elődje, az EGK-Szerződés 189. cikke alapján — szerint a kötelező erő csak a címzett tagállammal szemben áll fenn. A Bizottság ezért a spanyol bíróság kérdésére nemleges választ tartott indokoltnak. Az EUMSZ 288. cikke ma is ugyanezt a címzetti határt adja."
+        },
+        {
+          "text": "A bíróság a mulasztás miatt az irányelvet rendeletté minősítheti, és így általános hatállyal alkalmazhatja a felek között.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő elmulasztása nem emeli az irányelvet a rendelet kötőerejére. Az EUMSZ 288. cikke a rendeletet közvetlenül alkalmazandóvá, az irányelvet eredménykötelezettséggé teszi; a hivatkozhatóság a címzett állammal szembeni szankció, nem általános hatályú közvetlen alkalmazás. A tévedés forrása a mulasztásnak a rendeleties hatály pótlékaként való olvasása. A helyes: függőleges számonkérés a tagállammal szemben, horizontális tilalom a magánfelek között."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "701235737ee2"
+    },
+    {
+      "question": "Mely állítások igazak az irányelv címzetti szerkezetére és arra, hogy ki viseli a 288. cikk szerinti kötelezettséget?",
+      "options": [
+        {
+          "text": "Csak a címzett tagállam viseli a 288. cikk szerinti kötelezettséget; az irányelv kötelező ereje a nemzeti bíróság előtti hivatkozhatóság alapját is csak e címmel szemben adja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címzetti szerkezet a 288. és a 297. cikk közös eleme. A Marshall-ítélet — a Marleasing-ügyben szó szerint idézett fordulat szerint — abból indult, hogy az irányelv kötelező ereje csak „minden olyan tagállammal szemben áll fenn, amelynek címezték”. A 2006/123/EK irányelv 46. cikke szerint a címzettek a tagállamok. A magánfél ezért nem címzett, és az irányelv önmagában nem telepít rá kötelezettséget."
+        },
+        {
+          "text": "A „bármely hatóság” fordulat a címzett államot egységként kezeli: a végrehajtó és a bírói szerv is a tagállam szerve, ha az irányelvet nem ültették át.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a függőleges hivatkozhatóság nem korlátozódik a jogalkotó mulasztására. A 288. cikk a tagállamot kötelezi; a nemzeti bíróság előtt a magánszemély a tagállam bármely hatóságával szemben hivatkozhat a világos, feltétlen és kellően pontos rendelkezésre. A bíróság mint állami szerv a címzett állam szerve akkor is, amikor a belső jogot az irányelv elveihez igazítja. A 297. cikk a címzetteket értesíti vagy a valamennyi tagállamnak címzett irányelvet kihirdeti; a hivatkozhatóság e két cikk közös olvasata."
+        },
+        {
+          "text": "Az irányelv tipikus címzettje a magánszemély, ezért a 288. cikk szerinti eredménykötelezettség közvetlenül a feleket terheli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelv tipikus címzettje a tagállam, nem a magánfél. Az EUMSZ 288. cikke szerint az irányelv minden címzett tagállamra kötelező a célokat illetően; a Marshall-ratio szerint a kötelező erő csak a címzett tagállammal szemben áll fenn. A tévedés a határozat címzetti modelljének és az irányelv tagállami címzésének összecseréléséből ered."
+        },
+        {
+          "text": "Ha a határozat megjelöli címzettjeit, az irányelvvel azonos módon csak a célt illetően kötelez, a forma és az eszközök pedig szabadok.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozat teljes egészében kötelező, és ha megjelöli címzettjeit, csak azokra nézve. Az EUMSZ 288. cikke a határozatot nem eredménykötelezettségként, hanem teljes kötőerejű aktusként szabályozza; a forma és az eszközök szabadsága az irányelv sajátja. A tévedés a határozat és az irányelv kötőerejének összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "ed574c4dc4a9"
+    },
+    {
+      "question": "Milyen eljárásban és milyen záró aktussal születik a jogalkotási irányelv a 289. és a 297. cikk szerint?",
+      "options": [
+        {
+          "text": "Jogalkotási irányelvnél elegendő az elfogadó intézmény elnökének egyetlen aláírása a rendes eljárásban is, mert az irányelv nem rendelet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendes eljárásban a kettős aláírás a jogalkotási aktusok közös záró aktusa. Az EUMSZ 297. cikk (1) bekezdése szerint a rendes jogalkotási eljárás keretében elfogadott jogalkotási aktusokat az Európai Parlament elnöke és a Tanács elnöke írja alá. A tévedés az irányelv kötőerejének a záró aktusok alóli mentesítéssé torzításából ered."
+        },
+        {
+          "text": "A 289. cikk kizárja, hogy az irányelv jogalkotási aktus legyen, mert a forma és az eszközök a nemzeti hatóságoké.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a formai szabadság a 288. cikk kötőerejének tartalma, nem a jogalkotási minősítés akadálya. Az EUMSZ 289. cikke szerint az irányelv — a rendelethez és a határozathoz hasonlóan — rendes vagy különleges jogalkotási eljárás tárgya lehet. A tévedés a nemzeti formai szabadság és az uniós jogalkotási eljárás összecseréléséből ered."
+        },
+        {
+          "text": "Jogalkotási irányelvnél a rendes eljárásban az Európai Parlament elnöke és a Tanács elnöke együtt ír alá, és az aktust a Hivatalos Lapban ki kell hirdetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk (1) bekezdése a jogalkotási aktusok záró aktusait adja. Rendes eljárásban kettős aláírás, különleges eljárásban az elfogadó intézmény elnökének aláírása a szabály. A jogalkotási aktusokat kihirdetik; hatálybalépés a bennük megjelölt napon, ennek hiányában a kihirdetést követő huszadik napon. A 297. cikk tehát a hatály procedurális rendjét rendezi, nem az átültetési napot."
+        },
+        {
+          "text": "A 289. cikk szerint az irányelv rendes vagy különleges jogalkotási eljárás tárgya lehet, és a jogalkotási eljárás keretében elfogadott aktus jogalkotási aktus.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv nem „puhább rendelet”, hanem ugyanazon jogalkotási eljárásokban születő kötelező aktus. Az EUMSZ 289. cikk (1)–(3) bekezdése a rendes eljárást rendeletek, irányelvek vagy határozatok közös elfogadásaként írja le, a különleges eljárást pedig a Szerződések által meghatározott esetekben nyitja. A jogalkotási minősítés a 297. cikk (1) bekezdése szerinti záró aktusokat vonja magával. A kötőerő ettől függetlenül a 288. cikk szerinti eredménykötelezettség marad."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "31275dc5ac16"
+    },
+    {
+      "question": "A 296. cikk milyen követelményeket támaszt az aktustípus megválasztásával és az irányelv indokolásával szemben?",
+      "options": [
+        {
+          "text": "Ha a Szerződések nem határozzák meg az aktustípust, az intézmények az arányosság elvével összhangban választanak rendelet, irányelv vagy határozat között.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 296. cikk első albekezdése az aktustípus megválasztását az arányossághoz és az intézmények eseti döntéséhez köti, ha a Szerződések nem kötik ki. Az irányelv tehát nem automatikus „puhább” megoldás: a választás indokolt és arányos kell legyen. A 288. cikk szerinti kötőerő-különbség — rendeletnél teljes szöveg és közvetlen alkalmazás, irányelvnél kötelező cél és nemzeti forma — ettől függetlenül megmarad. A választás a célhoz és a beavatkozás mértékéhez igazodik."
+        },
+        {
+          "text": "Az irányelvnél az indokolás mellőzhető, mert a forma és az eszközök a nemzeti hatóságoké, így az uniós aktusnak nincs indokolandó tartalma.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az indokolási kötelezettség az irányelvre is kiterjed. Az EUMSZ 296. cikke szerint a jogi aktusoknak indokolást kell tartalmazniuk; a formai szabadság a 288. cikk szerinti nemzeti megvalósításra vonatkozik, nem az uniós aktus indokolásának mellőzésére. A tévedés a nemzeti formai szabadság és az uniós indokolási kötelezettség összecseréléséből ered."
+        },
+        {
+          "text": "Ha a Szerződések hallgatnak, az intézmények szabadon, az arányosság vizsgálata nélkül választhatnak aktustípust.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hallgatás nem ad korlátlan választást. Az EUMSZ 296. cikke szerint, ha a Szerződések nem határozzák meg az aktustípust, az intézmények az arányosság elvével összhangban választanak. A tévedés forrása az arányossági kötöttség figyelmen kívül hagyása."
+        },
+        {
+          "text": "A jogi aktusoknak indokolást kell tartalmazniuk, és utalni kell a Szerződések által előírt javaslatra, kezdeményezésre, ajánlásra, kérésre vagy véleményre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 296. cikk második albekezdése az indokolási kötelezettséget valamennyi jogi aktusra kiterjeszti. Az irányelv indokolása a cél és a formai szabadság arányosságának is a hordozója. Az indokolás nélkül a 288. cikk szerinti eredménykötelezettség procedurális kerete hiányos. A követelmény tehát nem stiláris, hanem a jogi aktus érvényességi kelléke."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "b960338a284e"
+    },
+    {
+      "question": "Miben tér el az „egyéb” irányelv hatálybalépése a valamennyi tagállamnak címzett irányelvétől a 297. cikk (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Az egyéb irányelv is mindig a Hivatalos Lapban való kihirdetéssel lép hatályba, mert a 297. cikk egységes kihirdetési rendet ír elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 297. cikk az irányelv hatályát nem egységesíti, hanem két procedurális utat nyit. Az EUMSZ 297. cikk (2) bekezdése szerint a valamennyi tagállamnak címzett irányelvet a Hivatalos Lapban kihirdetik, míg az egyéb irányelvekről a címzetteket értesíteni kell, és azok az értesítéssel lépnek hatályba. A tévedés a két procedurális út összemosásából ered."
+        },
+        {
+          "text": "Az egyéb irányelvekről a címzetteket értesíteni kell, és azok az értesítéssel lépnek hatályba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk (2) bekezdésének harmadik albekezdése az irányelv és a nemzeti jog viszonyának procedurális kulcsa. Az „egyéb” irányelv a határozathoz hasonlóan értesítéssel hatályosul, és csak a címzetteket köti. Ez összhangban van a 288. cikk „minden címzett tagállamra” fordulatával. A magánfél nem címzett, ezért az értesítés sem őt szólítja."
+        },
+        {
+          "text": "Az értesítéssel hatályba lépő irányelv a magánfeleket is közvetlenül címzi, ezért rájuk nézve is kötelező a cél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értesítés címzettjei a tagállamok, nem a magánfelek. Az EUMSZ 288. cikke szerint az irányelv a címzett tagállamot kötelezi; a 297. cikk megerősíti, hogy az egyéb irányelvről a címzetteket kell értesíteni. A tévedés az értesítés alanyának a magánfélre való kiterjesztéséből ered."
+        },
+        {
+          "text": "A valamennyi tagállamnak címzett irányelvet a Hivatalos Lapban ki kell hirdetni, és az a megjelölt napon vagy a kihirdetést követő huszadik napon lép hatályba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a belső piaci minta a kihirdetéshez kapcsolódik. Az EUMSZ 297. cikk (2) bekezdése a valamennyi tagállamnak címzett rendeleteket és irányelveket kihirdetéshez köti, ugyanazzal a huszadik napos főszabállyal. A 2006/123/EK irányelv ezt a mintát mutatja, amikor a kihirdetést követő napon lép hatályba. A két út nem cserélhető fel az „egyéb” irányelv értesítési modelljével."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "51a64bd58fc4"
+    },
+    {
+      "question": "Miért nem nyílik meg a függőleges hivatkozhatóság az átültetési határidő lejárta előtt?",
+      "options": [
+        {
+          "text": "A függőleges hivatkozhatóság a hatálybalépés napjától automatikusan megnyílik, mert a cél már akkor kötelezi a tagállamot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a cél kötelező volta nem azonos a hivatkozhatóság megnyílásával. A Marleasing-ügyben idézett gyakorlat a megállapított határidőn belüli átültetés elmulasztásához köti a nemzeti bíróság előtti hivatkozást; a határidő előtt a 288. cikk még a forma megválasztására hagy időt. A tévedés a hatálybalépés és a transzpozíciós határidő azonosításából ered."
+        },
+        {
+          "text": "A mulasztás jogkövetkezményei — függőleges hivatkozhatóság, horizontális tilalom, irányelvi értelmezés — csak hatályba lépett és a címzetteket kötelező aktustól számíthatók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk a hatály procedurális küszöbét adja: kihirdetés vagy értesítés nélkül az aktus a címzetteket nem köti. Amíg az irányelv a kihirdetéssel vagy az értesítéssel hatályba nem lépett, sem a határidő, sem a mulasztás, sem a hivatkozhatóság nem értelmezhető. A 288. cikk szerinti eredménykötelezettség a hatályos címzetti köteléken nyugszik. A hatály és az átültetési nap továbbra is két külön időpont."
+        },
+        {
+          "text": "Mert a 288. cikk a forma és az eszközök megválasztására a határidőig időt hagy a címzett tagállamnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hivatkozhatóság feltételei kumulatívak, és egyikük a transzpozíciós határidő lejárta. A Marleasing-ügyben idézett gyakorlat szerint a magánszemély akkor hivatkozhat, ha a tagállam elmulasztotta a megállapított határidőn belüli átültetést. A határidő előtt a 288. cikk szerinti eredménykötelezettség még a nemzeti forma megválasztását engedi. A hatálybalépés önmagában ezért nem nyit nemzeti bíróság előtti számonkérést."
+        },
+        {
+          "text": "A határidő előtt is hivatkozhat a magánszemély, ha a rendelkezés világos, feltétlen és kellően pontos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a világos–feltétlen–kellően pontos triász szükséges, de nem elégséges a határidő lejárta nélkül. Az EUMSZ 288. cikke szerinti eredménykötelezettség a forma és az eszközök megválasztására a határidőig időt hagy; a Marleasing-gyakorlat a hivatkozhatóságot a mulasztáshoz köti. A tévedés a triász önálló elégségességének feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "603d1680eeb2"
+    },
+    {
+      "question": "A Marleasing-ügyben a Bizottság szerint milyen forráshoz kell visszanyúlni a részvénytársaságok semmisségével kapcsolatos jogi hézag áthidalásakor?",
+      "options": [
+        {
+          "text": "Ez a visszanyúlás a belső jog értelmezése a címzett állam kötelezettségének fényében, nem az irányelv horizontális alkalmazása magánfelek között.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harmadik jogkövetkezmény nem horizontális hatály és nem rendeleties olvasat. A Bizottság azért tartotta összeegyeztethetőnek a Marshall-ratióval, mert a kötelezettség alanya a tagállam marad. A bíróság mint állami szerv a 288. cikk címzettjének a szerve, amikor a belső jogot az irányelv elveihez igazítja. A 291. cikk (1) bekezdése és a 288. cikk együtt a tagállam valamennyi szervét a cél elérésére kötelezi."
+        },
+        {
+          "text": "Az első társasági jogi irányelvben foglalt közösségi jogi elvekhez és szabályokhoz, nem a polgári szerződések általános szabályaihoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság a Marleasing-ügyben éppen ezt az utat tartotta indokoltnak. A korábbi spanyol jogszabályok nagyrészt beépítették az első irányelv alapvető elveit, a fő különbség a semmisségi okok taxatív korlátozása volt. A hézag áthidalása ezért az irányelv elveihez igazodik. A C-106/89. sz. Marleasing-ügyben ez az irányelvi olvasat a 288. cikk szerinti eredménykötelezettség fényében áll."
+        },
+        {
+          "text": "A hézagnál a bíróságnak a polgári szerződések általános szabályaihoz kell nyúlnia, az irányelv elveihez nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság a Marleasing-ügyben éppen az ellenkező utat tartotta indokoltnak. A helyes: az első irányelv közösségi elveihez és szabályaihoz való visszanyúlással kell áthidalni a részvénytársaságok semmisségével kapcsolatos hézagot. Az EUMSZ 288. cikke szerinti eredménykötelezettség a belső jog értelmezését is a célhoz igazítja. A tévedés a spanyol jogirodalom polgári-jogi áthidalásának a Bizottság álláspontjaként való bemutatásából ered."
+        },
+        {
+          "text": "Az irányelvi értelmezés azt jelenti, hogy a bíróság a mulasztás után az irányelvet közvetlenül alkalmazza a magánfelek között.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értelmezés nem azonos a közvetlen alkalmazással. Az EUMSZ 288. cikke szerint az irányelv önmagában nem róhat kötelezettségeket magánszemélyre; a Bizottság a Marleasing-ügyben éppen azért tartotta összeegyeztethetőnek az irányelvi olvasatot a Marshall-ratióval, mert a kötelezettség alanya a tagállam. A helyes: a bíróság a belső jogot a 288. cikk szerinti cél fényében értelmezi. A tévedés az értelmezés és a horizontális alkalmazás összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "686121741eb3"
+    },
+    {
+      "question": "Egy tagállam a szolgáltatási irányelv hatálybalépése után, de a 2009. december 28-i átültetési határidő előtt még nem fogadott el átültető törvényt. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A szolgáltatási irányelv címzettjei a szolgáltatók, ezért a határidő előtt is közvetlenül kötelezi őket a cél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a címzettek a tagállamok, nem a szolgáltatók. A 2006/123/EK irányelv 46. cikke szerint ennek az irányelvnek a tagállamok a címzettjei. Az EUMSZ 288. cikke a célt a címzett tagállamra telepíti, a magánszereplőkre pedig önmagában nem ró kötelezettséget. A tévedés a szabályozott gazdasági szereplők és a szerződéses címzettek összecseréléséből ered."
+        },
+        {
+          "text": "A 297. cikk szerinti hatálybalépés az aktus létezését és a címzettekkel szembeni hatályt rendezi, az átültetési napot azonban az irányelv maga tűzi ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két időpont nem esik egybe. Az EUMSZ 297. cikke a kihirdetéshez vagy az értesítéshez köti a hatályt; a szolgáltatási irányelv záró klauzulái a transzpozíció külön napját adják. Amíg a hatály be nem áll, sem a határidő, sem a mulasztás nem értelmezhető. Ha a transzpozíciós nap eredmény nélkül telik el, a 288. cikk szerinti kötelezettség megszegése áll be."
+        },
+        {
+          "text": "A tagállam a 288. cikk szerint már köteles a cél megvalósítására, de a függőleges hivatkozhatóság a határidő lejárta előtt még nem nyílik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatály és a hivatkozhatóság két külön sík. A 2006/123/EK irányelv a kihirdetést követő napon lépett hatályba, a megfeleléshez szükséges rendelkezések hatályba léptetését azonban 2009. december 28-ig írta elő. A Marleasing-gyakorlat szerint a magánszemély a megállapított határidőn belüli átültetés elmulasztása után hivatkozhat. A 288. cikk a forma és az eszközök megválasztására a határidőig időt hagy."
+        },
+        {
+          "text": "A határidő előtt a magánszemély már hivatkozhat a világos rendelkezésekre a tagállam bármely hatóságával szemben, mert a hatály beállt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatály beállta nem pótolja a határidő lejártát. A Marleasing-ügyben idézett gyakorlat a függőleges hivatkozhatóságot a megállapított határidőn belüli átültetés elmulasztásához köti; az EUMSZ 288. cikke a forma megválasztására a határidőig időt hagy. A tévedés a hatálybalépés és a hivatkozhatóság megnyílásának azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "3cb903e2d542"
+    },
+    {
+      "question": "Mely esetben nem alkalmazhatók a Marshall-ratio és az átültetési mulasztás jogkövetkezményei?",
+      "options": [
+        {
+          "text": "Ajánlás és vélemény esetén, mert ezek az EUMSZ 288. cikke szerint nem kötelezőek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a katalógus kötőerő szerint kettéválik. Az EUMSZ 288. cikke szerint a rendelet, az irányelv és a határozat kötelező, az ajánlás és a vélemény nem. A Marshall-ratio és az átültetési mulasztás jogkövetkezményei az utóbbiakra nem húzhatók rá. A függőleges hivatkozhatóság, a horizontális tilalom és az irányelvi értelmezés a kötelező eredménykötelezettséghez kötődik."
+        },
+        {
+          "text": "A vélemény ugyanazokat a mulasztási jogkövetkezményeket váltja ki, mint az irányelv, ha a Bizottság fogadja el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kibocsátó intézmény nem pótolja a kötőerőt. Az EUMSZ 288. cikke szerint a vélemények nem kötelezőek, ezért rájuk a Marshall-ratio és az átültetési mulasztás jogkövetkezményei nem húzhatók rá. A tévedés forrása a Bizottság szerepének a kötelező aktus kötőerejével való azonosítása."
+        },
+        {
+          "text": "Az irányelv kötelező volta a célt illetően éppen az, ami elválasztja az ajánlástól, és megalapozza a mulasztás szankcióit.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv nem ajánlás: a cél kötelező, a forma szabad. Az EUMSZ 288. cikke szerint az irányelv az elérendő célokat illetően minden címzett tagállamra kötelező. A formai szabadság nem mentesít az eredmény alól. A mulasztás után ezért a 288. cikk megsértése állapítható meg, ajánlásnál nem."
+        },
+        {
+          "text": "Az ajánlásra is hivatkozhat a magánszemély a tagállammal szemben, ha a szöveg világos és kellően pontos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ajánlás nem kötelező, ezért a függőleges hivatkozhatóság feltételei sem nyílnak meg. Az EUMSZ 288. cikke szerint az ajánlások és a vélemények nem kötelezőek; a Marshall-ratio a kötelező irányelvi kötőerőn nyugszik. A tévedés a világos szövegű ajánlásnak az irányelvi mulasztási szankcióval való összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "a9e7dd0212d5"
+    },
+    {
+      "question": "Amíg az átültetési határidő tart, hogyan él együtt a belső jog a 288. cikk szerinti céllal a transzformatív modellben?",
+      "options": [
+        {
+          "text": "Az irányelv a határidő lejárta után automatikusan a belső jog helyébe lép, ezért a transzformatív viszony szubsztitutívvá válik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a transzpozíció elmaradása nem helyettesíti a belső jogot az irányelv teljes szövegével. Az EUMSZ 288. cikke szerinti eredménykötelezettség megsértése függőleges hivatkozhatóságot, horizontális tilalmat és irányelvi értelmezést indít, nem általános hatályú helyettesítést. A tévedés a mulasztásnak a rendeleties szubsztitúcióként való olvasásából ered. A helyes: a viszony továbbra is transzformatív, a mulasztás szankciókkal."
+        },
+        {
+          "text": "A rendeletet is át kell ültetni törvénybe, mert a nemzeti joghoz való viszony minden uniós aktusnál transzformatív.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet nem igényel irányelvi átültetést. Az EUMSZ 288. cikke szerint a rendelet közvetlenül alkalmazandó valamennyi tagállamban; a 291. cikk (1) bekezdése a végrehajtást az érvényesülés biztosításaként értelmezi. A tévedés a transzformatív modellnek a rendeletre való kiterjesztéséből ered. A helyes: a rendelet szubsztitutív hatású abban az értelemben, hogy nem igényel irányelvi típusú átültetést."
+        },
+        {
+          "text": "A forma és az eszközök megválasztására a 288. cikk a határidőig időt hagy; a cél elérése azonban nem válik fakultatívvá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a formai szabadság a határidő tartama alatt a jogalkotónál marad. A 291. cikk (1) bekezdése a szükséges intézkedéseket a nemzeti jogban írja elő; irányelvnél ez az átültetés. A határidő lejárta után a meg nem valósított eredmény a 288. cikk megsértése. A transzformatív modell tehát elválasztja a formai választás idejét a cél kötelező erejétől."
+        },
+        {
+          "text": "A belső jog a transzpozícióig a saját fogalmaival él, de a 288. cikk szerinti cél már kötelezi a címzett államot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti joghoz való viszony az irányelvnél transzformatív, nem szubsztitutív. Amíg a határidő tart, a tagállam a 288. cikk szerint a célt a saját eszközeivel valósítja meg. Az irányelv nem lép a belső jog helyébe, mint a rendelet. Az EUMSZ 288. cikke szerinti eredménykötelezettség tehát már a határidő alatt terheli a címzettet."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "7759b1450d47"
+    },
+    {
+      "question": "A C-106/89. sz. Marleasing-ügyben a Bizottság az első társasági jogi irányelv 11. cikkét milyen jellegű kötelezettségnek minősítette a címzett állam viszonylatában?",
+      "options": [
+        {
+          "text": "A 11. cikk horizontális kötelezettséget telepít a részvényesekre és a hitelezőkre, mert a társasági jog magánjogviszonyokat rendez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a társasági tárgy nem oldja fel a Marshall-tilalmat. Az EUMSZ 288. cikke szerint az irányelv önmagában nem róhat kötelezettségeket magánszemélyre; a Bizottság a Marleasing-ügyben a 11. cikket a címzett állammal szembeni eredménykötelezettségként értékelte. A tévedés a szabályozott magánjogi érdekek és a címzetti kötőerő összecseréléséből ered."
+        },
+        {
+          "text": "A 11. cikk csak ajánló jellegű, ezért a mulasztás után sem hivatkozható a tagállammal szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság éppen a világos, feltétlen és kellően pontos eredménykötelezettséget állapította meg. Az EUMSZ 288. cikke szerinti irányelv a célt illetően kötelező; a Marleasing-gyakorlat e feltételek mellett nyitja a függőleges hivatkozhatóságot. A tévedés az irányelvnek az ajánlással való összekeveréséből ered."
+        },
+        {
+          "text": "A 11. cikk a címzett állam viszonylatában a semmisségi okok korlátozásáról szóló eredménykötelezettség, nem magánfelek közötti új kötelezettségforrás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság a C-106/89. sz. Marleasing-ügyben a 11. cikket a címzett állammal szembeni eredménykötelezettségként értékelte. A rendelkezés a jogi személyiséggel rendelkező társaságok semmisségi eseteinek korlátozását írja elő. A világos, feltétlen és kellően pontos jelleg a függőleges számonkérés feltétele, nem a Marshall-tilalom feloldása. Az EUMSZ 288. cikke szerinti kötelező erő továbbra is a címzett tagállamra települ."
+        },
+        {
+          "text": "Világos, feltétlen és kellően pontos eredménykötelezettségnek a jogi személyiséggel rendelkező társaságok semmisségi eseteinek korlátozásáról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság a 11. cikket a függőleges hivatkozhatóság mintájaként kezelte. A világos, feltétlen és kellően pontos jelleg a címzett állammal szembeni számonkérés feltétele a Marleasing-gyakorlat szerint. A rendelkezés a semmisségi okok korlátozását írja elő, nem a magánfelek közötti új kötelezettségforrást. A horizontális tilalom ettől függetlenül fennmarad."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "e7629ea970ac"
+    },
+    {
+      "question": "Mi következik abból, ha a tagállam a határidő lejárta után sem ülteti át az irányelvet, a magánfél pedig a belső jog hézagára hivatkozik?",
+      "options": [
+        {
+          "text": "A nemzeti bíróság a belső jog hézagát az irányelv elveihez igazodva töltheti ki, mert a bíróság mint állami szerv a címzett állam szerve.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelvi értelmezés a harmadik jogkövetkezmény a függőleges hivatkozhatóság és a horizontális tilalom mellett. A Bizottság a Marleasing-ügyben ezt összeegyeztethetőnek tartotta a Marshall-ratióval. A magánfél a belső jogot kéri úgy olvasni, hogy az a 288. cikk szerinti célt ne hiúsítsa meg. Az irányelv magánfélre telepítése ezzel nem jár."
+        },
+        {
+          "text": "A mulasztás után a magánfél a másik magánféllel szemben is közvetlenül érvényesítheti az irányelvet, ha a belső jog hézagos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hézag nem nyit horizontális hatályt. Az EUMSZ 288. cikke szerint az irányelv önmagában nem róhat kötelezettségeket magánszemélyre. A helyes út a belső jog irányelvi olvasata a bíróság részéről, a Marshall-ratio megtartásával. A tévedés az irányelvi értelmezés és a horizontális alkalmazás összecseréléséből ered."
+        },
+        {
+          "text": "A mulasztás megszünteti a 288. cikk szerinti kötelezettséget, mert a határidő elenyészésével a cél is elenyészik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő lejárta a kötelezettség megszegését jelenti, nem a megszűnését. Az EUMSZ 288. cikke szerinti eredménykötelezettség a mulasztás után is fennáll, és a tagállam továbbra is köteles átültetni. A tévedés a mulasztás jogkövetkezményének a kötelezettség elenyészéseként való félreolvasásából ered."
+        },
+        {
+          "text": "A tagállam a mulasztás után is köteles átültetni; a magánfél a világos, feltétlen és kellően pontos rendelkezésre a tagállam bármely hatóságával szemben hivatkozhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a kötőerő alanyi határát jelöli ki, nem a cél elenyészését. Az EUMSZ 288. cikke szerinti eredménykötelezettség a mulasztás után is fennáll. A Marleasing-gyakorlat a függőleges hivatkozhatóságot a határidő lejárta után nyitja meg. A 291. cikk (1) bekezdése továbbra is a nemzeti intézkedés elfogadását követeli."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "3e27e5bc2a5e"
+    },
+    {
+      "question": "Miben tér el a nem jogalkotási, valamennyi tagállamnak címzett irányelv záró aktusa a jogalkotási irányelvétől?",
+      "options": [
+        {
+          "text": "A nem jogalkotási irányelvet az azt elfogadó intézmény elnöke írja alá, és a valamennyi tagállamnak címzett irányelvet a Hivatalos Lapban ki kell hirdetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk (2) bekezdése a nem jogalkotási rendelet, irányelv és a külön címzetti kör nélküli határozat aláírását az elfogadó intézmény elnökéhez köti. A valamennyi tagállamnak címzett irányelvet kihirdetik; hatálybalépés a megjelölt napon vagy a kihirdetést követő huszadik napon. A jogalkotási irányelvnél a rendes eljárásban ehhez képest kettős aláírás a 297. cikk (1) bekezdése szerint. A kötőerő mindkét esetben a 288. cikk szerinti eredménykötelezettség: kötelező cél, nemzeti forma, nem közvetlen alkalmazás."
+        },
+        {
+          "text": "A nem jogalkotási irányelvnél nincs aláírás és nincs kihirdetés, mert a 297. cikk csak a jogalkotási aktusokra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 297. cikk (2) bekezdése expressis verbis kiterjed a nem jogalkotási irányelvre is. Az EUMSZ 297. cikk (2) bekezdése szerint az ilyen irányelvet az elfogadó intézmény elnöke írja alá, a valamennyi tagállamnak címzettet pedig kihirdetik. A tévedés az (1) bekezdés hatályának a teljes cikkre való szűkítéséből ered."
+        },
+        {
+          "text": "A nem jogalkotási, valamennyi tagállamnak címzett irányelv kizárólag értesítéssel lép hatályba, kihirdetés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a valamennyi tagállamnak címzett irányelv kihirdetési mintát követ. Az EUMSZ 297. cikk (2) bekezdése a valamennyi tagállamnak címzett irányelvet a Hivatalos Lapban való kihirdetéshez köti; az értesítés az egyéb irányelvekre vonatkozik. A tévedés a két procedurális út összecseréléséből ered."
+        },
+        {
+          "text": "Jogalkotási irányelvnél a rendes eljárásban az Európai Parlament elnöke és a Tanács elnöke együtt ír alá; a nem jogalkotási irányelvnél nincs ilyen kettős aláírás, hanem az elfogadó intézmény elnöke ír alá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk (1) bekezdése a rendes jogalkotási eljárásnál a kettős aláírást írja elő. A (2) bekezdés a nem jogalkotási irányelvnél az elfogadó intézmény elnökének egyetlen aláírását köti ki. A különleges jogalkotási eljárás aláírási mintája az egyetlen elnök, de a törzs a nem jogalkotási és a rendes kettős aláírás elválását kéri. Az EUMSZ 297. cikke szerinti záró aktus tehát procedurálisan elválik a két ágon."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "5563eae08c98"
+    },
+    {
+      "question": "Egy munkavállaló a nemzeti bíróság előtt a munkaügyi hatósággal szemben hivatkozik egy átültetetlen, világos irányelvi rendelkezésre. Mely megállapítások helytállóak?",
+      "options": [
+        {
+          "text": "A munkaügyi hatósággal szembeni hivatkozás horizontális, mert a hatóság a munkáltatói oldalon áll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatóság a címzett állam szerve, ezért a viszony függőleges. Az EUMSZ 288. cikke szerinti kötelező erő a tagállammal szemben áll fenn; a Marleasing-gyakorlat a „bármely hatóság” fordulatot éppen e szervi egységre építi. A tévedés a hatóság funkcionális szerepének a magánfél minőségével való összekeveréséből ered."
+        },
+        {
+          "text": "A hivatkozás függőleges, mert a munkaügyi hatóság a címzett állam szerve, és a „bármely hatóság” fordulat a végrehajtó szervet is átfogja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címzett államot egységként kell kezelni. A Marleasing-ügyben idézett gyakorlat szerint a magánszemély a nemzeti bíróság előtt a tagállam bármely hatóságával szemben hivatkozhat. Az EUMSZ 288. cikke a tagállamot kötelezi, nem csupán a jogalkotót. A határidő lejárta és a világos–feltétlen–kellően pontos jelleg továbbra is kumulatív feltétel."
+        },
+        {
+          "text": "A hivatkozhatóság a 288. cikk szerinti eredménykötelezettség szankciója a címzett állammal szemben, nem az irányelv rendeletté válása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a függőleges út nem ruházza fel az irányelvet általános hatályú közvetlen alkalmazással. A magánszemély a nemzeti bíróság előtt a 288. cikk szerinti célt kéri számon. A Marshall-ratio a kötőerőt a címzett tagállamra korlátozza. A munkaügyi hatósággal szembeni per ezért a címzetti szerkezetbe illeszkedik."
+        },
+        {
+          "text": "A munkavállaló ugyanígy hivatkozhatna közvetlenül a magánmunkáltatóval szemben is, ha a rendelkezés világos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magánmunkáltatóval szembeni hivatkozás a Marshall-tilalom alá esik. Az EUMSZ 288. cikke szerint az irányelv önmagában nem róhat kötelezettségeket magánszemélyre, és rendelkezésére önmagában nem lehet hivatkozni ilyen személlyel szemben. A tévedés a függőleges út horizontális kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "3c651f6f44ed"
+    },
+    {
+      "question": "Az irányelv horizontális hatályáról szóló következő állítások közül egyik sem helytálló. Melyek a téves állítások?",
+      "options": [
+        {
+          "text": "A 297. cikk szerinti értesítés a magánfeleket is címzi, ezért rájuk nézve is megnyílik a közvetlen kötelezettség.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értesítés címzettjei a tagállamok. Az EUMSZ 297. cikk (2) bekezdése szerint az egyéb irányelvekről a címzetteket kell értesíteni; a magánfél nem címzett. A helyes: a 288. cikk szerinti kötelező erő a címzett tagállamra települ. A tévedés az értesítés alanyának a magánfélre való kiterjesztéséből ered."
+        },
+        {
+          "text": "A világos, feltétlen és kellően pontos irányelvi rendelkezés a magánfelek között is közvetlenül kötelez, ha a határidő lejárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a triász a függőleges hivatkozhatóság feltétele, nem a horizontális tilalom feloldása. Az EUMSZ 288. cikke szerint az irányelv kötelező ereje csak a címzett tagállammal szemben áll fenn, ezért önmagában nem róhat kötelezettségeket magánszemélyre. A helyes: ugyanarra a rendelkezésre a magánszemély a tagállam bármely hatóságával szemben hivatkozhat. A tévedés a Marleasing-triásznak a Marshall-tilalom alá rendeléséből ered."
+        },
+        {
+          "text": "A mulasztás után az irányelv rendeletté minősül, és így általános hatállyal alkalmazandó a magánjogviszonyokban is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mulasztás nem emeli az irányelvet a rendelet kötőerejére. Az EUMSZ 288. cikke a rendeletet közvetlenül alkalmazandóvá, az irányelvet eredménykötelezettséggé teszi; a hivatkozhatóság a címzett állammal szembeni szankció. A helyes: függőleges hivatkozhatóság, horizontális tilalom és irányelvi értelmezés a zárt rendszer. A tévedés a rendelet és az irányelv kötelező erejének felcseréléséből ered."
+        },
+        {
+          "text": "A nemzeti bíróság a hézag áthidalásakor az irányelvet magánfélre telepítheti, ha ez a cél eléréséhez szükséges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelvi értelmezés nem telepíti az irányelvet magánfélre. A Bizottság a Marleasing-ügyben azért tartotta összeegyeztethetőnek a belső jog irányelvi olvasatát a Marshall-ratióval, mert a kötelezettség alanya a tagállam marad. A helyes: a bíróság a belső jogot a 288. cikk szerinti cél fényében értelmezi. A tévedés az értelmezés és a horizontális alkalmazás összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "6e941bd4f845"
+    },
+    {
+      "question": "A formai szabadság milyen határok között illeti meg a nemzeti hatóságokat az irányelv átültetésekor?",
+      "options": [
+        {
+          "text": "A formai szabadság nem jogosít arra, hogy a címzett állam az átültető intézkedést saját, uniós eredet nélküli aktusként tüntesse fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hivatkozási kötelezettség a származás elrejtését zárja ki. A 2006/123/EK irányelv záró klauzulái — az EUMSZ 288. cikke szerinti átültetés keretében — előírják, hogy az átültető rendelkezésekben hivatkozni kell az irányelvre, vagy kihirdetésükhöz ilyen hivatkozást kell fűzni. A formai szabadság a jogforrási típusra vonatkozik. A Bizottsághoz való megküldés az intézkedés tartalmát is ellenőrzés alá vonja."
+        },
+        {
+          "text": "A formai szabadság magában foglalja, hogy a tagállam a célt is átírhatja, ha a belső alkotmányos rend ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a forma megválasztása nem mentesít az eredmény alól. Az EUMSZ 288. cikke szerint az irányelv az elérendő célokat illetően kötelező; a nemzeti hatóság csak a megvalósítás módját választja. A tévedés a formai szabadságnak az eredmény megválaszthatóságává torzításából ered."
+        },
+        {
+          "text": "Ha a tagállam közigazgatási gyakorlattal eléri a célt, a 288. cikk szerinti átültetés mellőzhető írásbeli norma nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 291. cikk (1) bekezdése a szükséges intézkedések nemzeti jogban való elfogadását követeli. Az EUMSZ 288. cikke szerinti eredménykötelezettség operatív oldala az átültető norma; a szolgáltatási irányelv törvényi, rendeleti és közigazgatási rendelkezések hatályba léptetését írja elő. A tévedés a formai szabadságnak a normaalkotás mellőzésévé torzításából ered."
+        },
+        {
+          "text": "A nemzeti hatóság a törvény, a rendelet, a közigazgatási aktus vagy ezek együttesének útját választhatja, de a célnak a határidőre a belső jogban érvényesülnie kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a formai szabadság a megvalósítás módjára vonatkozik, nem az eredményre. Az EUMSZ 288. cikke szerint az irányelv a célt illetően kötelező, a forma és az eszközök a nemzeti hatóságoké. A 291. cikk (1) bekezdése a szükséges intézkedések nemzeti jogban való elfogadását követeli. A lejárt átültetési nap után a hiányzó eredmény a 288. cikk megsértését vonja maga után."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "d313c1c2056e"
+    },
+    {
+      "question": "Milyen kapcsolatban áll a 288. cikk elődje — az EGK-Szerződés 189. cikke — a Marshall-ratio mai olvasatával?",
+      "options": [
+        {
+          "text": "A 288. cikk hatálybalépésével a Marshall-ratio okafogyottá vált, mert az irányelv immár közvetlenül alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 288. cikk nem tette az irányelvet rendeletté, csupán a számozást vitte tovább. Az EUMSZ 288. cikke továbbra is csak a célt illetően kötelezi a címzett tagállamot, míg a rendeletet teszi közvetlenül alkalmazandóvá. A tévedés a számozási utódlásnak a kötőerő megváltoztatásaként való félreolvasásából ered."
+        },
+        {
+          "text": "A 189. cikk mai szövege a 288. cikk; a címzetti szerkezet nem változott, ezért a Marshall-ratio továbbra is a címzett tagállamra korlátozza a kötelező erőt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a számozás változott, a dogmatikai mag nem. A Marshall-ítéletet a Bizottság a Marleasing-ügyben a 189. cikk alapján idézte: az irányelv kötelező ereje csak a címzett tagállammal szemben áll fenn. Az EUMSZ 288. cikke ugyanezt a kötőerőt adja: a cél a címzett tagállamot kötelezi, a magánfelet nem. A horizontális tilalom ezért nem történeti kuriózum, hanem a hatályos szöveg következménye."
+        },
+        {
+          "text": "A Marshall-ratio szerint egy irányelv rendelkezésére önmagában nem lehet hivatkozni magánszeméllyel szemben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a negatív következmény a címzetti szerkezetből következik. A Bizottság a Marleasing-ügyben szó szerint idézte: egy irányelv önmagában nem róhat kötelezettségeket egy magánszemélyre. A 288. cikk ezt a határt tartja fenn, amikor a kötelező erőt a címzett tagállamra telepíti. A függőleges hivatkozhatóság ettől elválik, mert ott a címzett a tagállam."
+        },
+        {
+          "text": "A 189. cikk csak a Marshall-ügyre vonatkozott, a Marleasing-ügyben már a 249. cikk szerinti új horizontális hatály érvényesült.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marleasing-ügyben a Bizottság éppen a Marshall-ratiót idézte, és a horizontális hivatkozást nemlegesnek tartotta. Az EK 249. cikk a 288. cikk elődje a számozási táblázat szerint, de a címzetti szerkezet nem nyitott horizontális hatályt. A tévedés a számozási változásnak a Marshall-tilalom feloldásaként való értelmezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "47d5b825d23d"
+    },
+    {
+      "question": "Miért a 297. cikk a mulasztási jogkövetkezmények procedurális küszöbe a 288. cikk szerinti rendszerben?",
+      "options": [
+        {
+          "text": "A 297. cikk csak stiláris keret, a mulasztási jogkövetkezmények a hatály beállta nélkül is alkalmazhatók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 297. cikk nem stiláris keret, hanem a hatály procedurális küszöbe. Az EUMSZ 297. cikke szerinti kihirdetés vagy értesítés nélkül sem a határidő, sem a mulasztás, sem a hivatkozhatóság nem értelmezhető. A tévedés a procedurális hatály mellőzéséből ered. A helyes: a 288. és a 297. cikk közös olvasata adja a mulasztási rendszert."
+        },
+        {
+          "text": "A valamennyi tagállamnak címzett irányelv a Hivatalos Lapon keresztül, az egyéb irányelv az értesítéssel válik hatályossá; e küszöb nélkül a Marleasing-féle következmények nem indulnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk (2) bekezdése a két procedurális utat elválasztja. A „valamennyi tagállamnak címzett” irányelv kihirdetési mintát követ; az „egyéb” irányelv értesítéssel hatályosul. A függőleges hivatkozhatóság, a horizontális tilalom és az irányelvi értelmezés e hatály után értelmezhető. Az EUMSZ 297. cikke ezért a 288. cikk mulasztási rendszerének küszöbe."
+        },
+        {
+          "text": "A három következmény közül elegendő bármelyik egyedül, mert egymást helyettesítik a hatály beállta nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három következmény különböző alanyi és tárgyi helyzetekre vonatkozik, és a hatály küszöbe közös. Az EUMSZ 297. cikke szerinti kihirdetés vagy értesítés nélkül sem a határidő, sem a mulasztás, sem a hivatkozhatóság nem értelmezhető. A 288. cikk szerinti függőleges, horizontális és értelmezési ág e küszöb után nyílik. A tévedés a procedurális hatály mellőzéséből és a következmények helyettesíthetőségéből ered."
+        },
+        {
+          "text": "Amíg az irányelv kihirdetéssel vagy értesítéssel hatályba nem lépett, sem a határidő, sem a mulasztás, sem a hivatkozhatóság nem értelmezhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk a procedurális előfeltételt adja a kihirdetés vagy az értesítés révén. Az EUMSZ 297. cikke a kihirdetéshez vagy az értesítéshez köti a címzettekkel szembeni hatályt. Csak ezután számítható az átültetési nap és a mulasztás. A 288. cikk szerinti eredménykötelezettség a hatályos címzetti kötelezettségre épül."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "b1484061641f"
+    },
+    {
+      "question": "A Bizottság a Marleasing-ügyben milyen jogbiztonsági érveket hozott a horizontális hivatkozhatóság elutasítása mellett?",
+      "options": [
+        {
+          "text": "A jogbiztonság éppen a horizontális hatályt követeli meg, hogy a magánfelek ne függjenek a tagállami átültetéstől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság a jogbiztonságot a horizontális hatály elutasításának indokaként hozta fel. Az EUMSZ 288. cikke a kötelező erőt a címzett tagállamra telepíti; a Marshall-ratio szerint magánszeméllyel szemben önmagában nem lehet hivatkozni. A tévedés a jogbiztonsági argumentum irányának megfordításából ered."
+        },
+        {
+          "text": "A magánszemélyek közötti jogviszonyban az ellenkező nézet jogbizonytalanságot okozna, különösen ha a másik fél a hatályos nemzeti jog érvényességére támaszkodott.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság az uralkodó jogtudományi álláspontra és a jogbiztonságra hivatkozott. Az EUMSZ 288. cikke szerinti címzetti szerkezet ezt a határt a kötőerő alanyi oldalán is rögzíti. A Marshall-ratio szerint az irányelv önmagában nem róhat kötelezettségeket magánszemélyre. A horizontális út ezért nem a transzpozíció pótlása a magánjogviszonyban."
+        },
+        {
+          "text": "Különösen problematikus a horizontális hivatkozás, ha az intézkedés közzététele nem kötelező, illetve nem ahhoz a magánszemélyhez van címezve.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk megerősíti a címzetti határt: a magánfél nem címzettje az irányelvnek. Az egyéb irányelvről a címzetteket — a tagállamokat — kell értesíteni; a magánfélhez címzett közzététel hiányzik. A Bizottság ezért a spanyol bíróság horizontális kérdésére nemleges választ tartott indokoltnak. A jogbiztonság és a címzetti szerkezet együtt zárja a horizontális utat."
+        },
+        {
+          "text": "Ha a másik fél a nemzeti jogra támaszkodott, a horizontális hivatkozás akkor is megnyílik, ha a rendelkezés világos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti jogra támaszkodás éppen a horizontális út ellen szól a Bizottság érvelésében. Az EUMSZ 288. cikke és a Marshall-ratio szerint az irányelv önmagában nem kötelezheti a magánfelet. A helyes: a függőleges hivatkozhatóság a tagállammal szemben nyílik, a magánjogviszonyban nem. A tévedés a triásznak a jogbiztonsági ellenérv felülírásaként való kezeléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "9d2db395cf67"
+    },
+    {
+      "question": "Miben különbözik a határozat kötőereje az irányelvétől a 288. cikk katalógusában?",
+      "options": [
+        {
+          "text": "A határozat teljes egészében kötelező, és ha megjelöli címzettjeit, kizárólag azokra nézve kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozat nem eredménykötelezettség. Az EUMSZ 288. cikke szerint a határozat teljes egészében kötelező; címzetti körrel vagy anélkül. Az irányelv ehhez képest csak a célt illetően kötelez, a forma és az eszközök a nemzeti hatóságoké. A tipikus irányelvi címzett a tagállam. A két aktustípus elhatárolása a kötőerő tárgyában és a címzetti szerkezetben jelenik meg."
+        },
+        {
+          "text": "A határozat soha nem jelölhet meg címzetteket, mert a 288. cikk szerint mindig általános hatályú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozat megjelölheti címzettjeit. Az EUMSZ 288. cikke szerint amennyiben külön megjelöli, hogy kik a címzettjei, a határozat kizárólag azokra nézve kötelező. A rendelet általános hatálya ide nem vihető át. A tévedés a rendelet általános hatályának a határozatra való ráírásából ered."
+        },
+        {
+          "text": "Az irányelv csak a célt illetően kötelezi a címzett tagállamot, a forma és az eszközök a nemzeti hatóságoké; a határozat teljes egészében kötelező, címzetti körrel vagy anélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 288. cikk a határozatot és az irányelvet különböző kötőerővel helyezi el. Az irányelv eredménykötelezettség: a cél kötelező, a forma szabad. A határozat teljes egészében kötelező; ha megjelöli címzettjeit, csak azokra nézve. Az EUMSZ 288. cikke szerint a tipikus irányelvi címzett a tagállam, míg a határozat címzetti köre lehet szűkebb vagy általános."
+        },
+        {
+          "text": "A határozat is csak a célt illetően kötelez, és a forma, valamint az eszközök a címzettek szabad választásán múlnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a formai szabadság az irányelv sajátja, nem a határozaté. Az EUMSZ 288. cikke szerint a határozat teljes egészében kötelező. A célra korlátozott kötőerő és a nemzeti forma az irányelvet jellemzi. A tévedés a határozatnak az irányelvi eredménykötelezettséggel való azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "72bc1932d5d1"
+    },
+    {
+      "question": "A társasági jogi irányelv semmisségi szabályainak egységes értelmezése miért erősíti a Marshall-tilalmat a Bizottság Marleasing-érvelésében?",
+      "options": [
+        {
+          "text": "Mert a közösségi rendszert egységesen kell értelmezni a részvényesek, a hitelezők és a harmadik személyek érdekeinek egyensúlya miatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság a horizontális hatályt nemcsak a 189. cikk — ma 288. cikk — szövegével, hanem a címzettek és a harmadik személyek közötti terhelési tilalommal is ellentétesnek tartotta. A magánfélre telepített kötelezettség felborítaná ezt az egyensúlyt. A függőleges út a tagállammal szemben marad. Az irányelvi értelmezés a belső jog hézagát kezeli anélkül, hogy új magánjogi kötelezettségforrást nyitna."
+        },
+        {
+          "text": "A horizontális hatály a címzettek és a harmadik személyek közötti terhelési tilalommal is ellentétes lenne.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Marshall-ratio a kötőerő alanyi határát jelöli ki. Az EUMSZ 288. cikke a kötelező erőt a címzett tagállamra telepíti; a magánfél nem címzett. A Bizottság a Marleasing-ügyben ezért nemleges választ tartott indokoltnak a magánfelek közötti hivatkozásra. A társasági jogi egyensúly ezt a dogmatikát erősíti, nem oldja fel."
+        },
+        {
+          "text": "A harmadik személyek védelme miatt a 288. cikk a társasági irányelveknél kivételesen horizontális hatályt enged.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság Marleasing-érvelése nem ismer ilyen kivételt. Az EUMSZ 288. cikke a címzetti szerkezetet tartja fenn; a Bizottság a Marleasing-ügyben a horizontális hivatkozást elutasította. A tévedés a harmadik személyi védelemnek a Marshall-tilalom alóli felmentésként való olvasásából ered."
+        },
+        {
+          "text": "Az egyensúly éppen azt követeli, hogy a részvényes közvetlenül kötelezhesse a társaságot az átültetetlen irányelvvel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság az egyensúlyt a horizontális hatály elleni érként használta. Az EUMSZ 288. cikke szerint az irányelv önmagában nem róhat kötelezettségeket magánszemélyre. A helyes: a belső jog irányelvi olvasata a bíróság részéről, a Marshall-tilalom megtartásával. A tévedés az érdeegyensúlynak a horizontális kötelezés indokaként való megfordításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "b1acd079519a"
+    },
+    {
+      "question": "Az átültetési határidő és a hatály viszonyáról szóló alábbi állítások mind tévesek. Melyek ezek?",
+      "options": [
+        {
+          "text": "Az egyéb irányelv értesítés nélküli kihirdetéssel is hatályba lép, ha a Bizottság így dönt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyéb irányelvről a címzetteket értesíteni kell, és azok az értesítéssel lépnek hatályba. Az EUMSZ 297. cikk (2) bekezdése ezt a procedurális utat rögzíti; a Bizottság döntése nem helyettesíti az értesítést. A helyes: a valamennyi tagállamnak címzett irányelv a kihirdetési mintát követi, az egyéb az értesítést. A tévedés a két út összemosásából ered."
+        },
+        {
+          "text": "A 297. cikk huszadik napos főszabálya egyben az átültetés kötelező napja is minden irányelvnél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a huszadik nap a hatálybalépés főszabálya, nem a transzpozíció napja. Az EUMSZ 297. cikke a hatályt rendezi; az átültetési napot az irányelv maga tűzi ki, ahogy a 2006/123/EK irányelv 2009. december 28-i határideje mutatja. A helyes: a két időpont elválik. A tévedés a hatálybalépés és az átültetés azonosításából ered."
+        },
+        {
+          "text": "A függőleges hivatkozhatóság a kihirdetés napjától megnyílik, a transzpozíciós határidőre tekintet nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hivatkozhatóság a határidő lejáratához kötött. A Marleasing-gyakorlat szerint a magánszemély akkor hivatkozhat, ha a tagállam elmulasztotta a megállapított határidőn belüli átültetést; az EUMSZ 288. cikke a forma megválasztására a határidőig időt hagy. A helyes: hatály és hivatkozhatóság két külön sík. A tévedés a kihirdetésnek a mulasztási szankcióval való összekeveréséből ered."
+        },
+        {
+          "text": "Amíg az irányelv nincs átültetve, a 297. cikk szerinti hatály sem áll be.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatály a kihirdetéshez vagy az értesítéshez kötődik, nem az átültetéshez. Az EUMSZ 297. cikke a címzettekkel szembeni hatályt a procedurális záró aktusokhoz köti; a 2006/123/EK irányelv a kihirdetést követő napon lépett hatályba, miközben az átültetés későbbi napra szólt. A helyes: hatály előbb, transzpozíció külön határidővel. A tévedés a két fogalom felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "fd8e36ab2367"
+    },
+    {
+      "question": "Milyen tartamban lépnek hatályba a jogalkotási aktusok a 297. cikk (1) bekezdése szerint, ha az aktus nem jelöl meg napot?",
+      "options": [
+        {
+          "text": "A bennük megjelölt nap elsőbbséget élvez; a huszadik napos főszabály csak a megjelölt nap hiányában alkalmazandó a kihirdetés után.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk (1) bekezdése a hatálybalépés tartamát kétlépcsős szabályként adja. Elsőbbsége az aktusban megjelölt napnak van. Ha ilyen nap nincs, a kihirdetést követő huszadik nap a főszabály. Az EUMSZ 297. cikk (1) bekezdése e tartamot a jogalkotási aktusokra — ideértve az irányelvet is — a Hivatalos Lapban való kihirdetéshez köti."
+        },
+        {
+          "text": "Ha nincs megjelölt nap, a jogalkotási aktus azonnal, a kihirdetés napján lép hatályba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály a kihirdetést követő huszadik nap. Az EUMSZ 297. cikk (1) bekezdése szerint az aktusok a bennük megjelölt napon, illetve ennek hiányában a kihirdetésüket követő huszadik napon lépnek hatályba. A tévedés a huszadik napos főszabály mellőzéséből ered."
+        },
+        {
+          "text": "A kihirdetésüket követő huszadik napon, ha a bennük megjelölt nap hiányzik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk (1) bekezdése a jogalkotási aktusok hatálybalépésének főszabályát adja. Az aktusokat a Hivatalos Lapban ki kell hirdetni. A megjelölt nap elsőbbséget élvez a huszadik nappal szemben. Ez a szabály a hatályt rendezi, nem az irányelv saját átültetési határidejét."
+        },
+        {
+          "text": "A huszadik napos szabály csak a rendeletekre vonatkozik; az irányelvnél a hatály mindig az értesítéssel áll be.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogalkotási irányelvnél is a kihirdetési modell az irányadó. Az EUMSZ 297. cikk (1) bekezdése a jogalkotási aktusokra — ideértve az irányelvet is — a Hivatalos Lapban való kihirdetést és a huszadik napos főszabályt írja elő; az értesítés az egyéb irányelvekre marad a (2) bekezdésben. A tévedés a két bekezdés hatályának összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "736b182b0b49"
+    },
+    {
+      "question": "Egy nemzeti bíróság a határidő után az átültetetlen irányelv világos rendelkezésére hivatkozó felperest elutasítja azzal, hogy csak a Bizottság indíthat eljárást. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A hivatkozhatóság a 288. és a 297. cikk közös olvasata: hatályos, címzetteket kötelező aktus, lejárt határidő, majd a nemzeti bíróság előtti számonkérés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a procedurális küszöb és az anyagi eredménykötelezettség együtt kell. Amíg a 297. cikk szerinti hatály be nem áll, sem a határidő, sem a hivatkozhatóság nem értelmezhető. A Bizottság ellenőrzési szerepe a 291. cikk (1) bekezdése szerinti intézkedések megküldésénél megjelenik, de nem pótolja a magánfél függőleges útját. A két út párhuzamos, nem egymást kizáró."
+        },
+        {
+          "text": "A nemzeti bíróság csak akkor járhat el, ha a Bizottság előbb megállapította a mulasztást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marleasing-gyakorlat nem köti a függőleges hivatkozhatóságot a Bizottság előzetes mulasztási megállapításához. Az EUMSZ 288. cikke szerinti világos, feltétlen és kellően pontos rendelkezésre a magánszemély a nemzeti bíróság előtt hivatkozhat a lejárt határidő után. A tévedés az intézményi ellenőrzésnek az alanyi jogi út előfeltételeként való beiktatásából ered."
+        },
+        {
+          "text": "A magánszemély a nemzeti bíróság előtt a 288. cikk szerinti célt kérheti számon a tagállam bármely hatóságával szemben; ez nem a Bizottság helyetti intézményi szankció.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a függőleges hivatkozhatóság alanyi jogi következmény. A Marleasing-ügyben idézett gyakorlat szerint a világos, feltétlen és kellően pontos rendelkezésre a magánszemély hivatkozhat, ha a határidő lejárt. Az EUMSZ 288. cikke a címzett állammal szembeni eredménykötelezettséget adja. A bíróság elutasítása ezért a mulasztási szankció egyik ágát zárná el."
+        },
+        {
+          "text": "Csak a Bizottság jogosult a mulasztás jogkövetkezményeit érvényesíteni, a magánfél nemzeti bíróság előtti hivatkozása kizárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a függőleges hivatkozhatóság éppen a magánfél nemzeti bíróság előtti eszközét adja. A Marleasing-gyakorlat szerint a magánszemély a tagállam bármely hatóságával szemben hivatkozhat; az EUMSZ 288. cikke szerinti eredménykötelezettség szankciója nem merül ki a Bizottság eljárásában. A tévedés az intézményi és az alanyi jogi út összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "ea7ab39fc922"
+    },
+    {
+      "question": "Az irányelv és a rendelet elhatárolásáról szóló következő állítások egyike sem helyes. Melyek a tévesek?",
+      "options": [
+        {
+          "text": "A rendeletet is át kell ültetni törvénybe, mert a 291. cikk (1) bekezdése minden aktusra azonos transzpozíciót ír elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, rendeletnél a végrehajtás az érvényesülés biztosítása, nem irányelvi átültetés. Az EUMSZ 288. cikke a rendeletet közvetlenül alkalmazandóvá teszi; a 291. cikk (1) bekezdése a két utat nem cseréli fel. A helyes: az irányelvet nem lehet rendeletként olvasni, és fordítva. A tévedés a végrehajtási formula egységesítéséből ered."
+        },
+        {
+          "text": "Az irányelv általános hatályú és közvetlenül alkalmazandó, ezért a nemzeti átültetés csak tájékoztatás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen alkalmazás a rendelet sajátja. Az EUMSZ 288. cikke szerint a rendelet teljes egészében kötelező és közvetlenül alkalmazandó, míg az irányelv csak a célt illetően kötelez. A helyes: az átültetés a 291. cikk (1) bekezdése szerinti szükséges intézkedés. A tévedés a rendelet kötőerejének az irányelvre való ráírásából ered."
+        },
+        {
+          "text": "Az irányelv ajánlás, ha a nemzeti hatóságok a forma és az eszközök felett rendelkeznek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a formai szabadság nem vonja el a kötelező erőt. Az EUMSZ 288. cikke szerint az irányelv a célt illetően kötelező, az ajánlások és a vélemények pedig nem kötelezőek. A helyes: a Marshall-ratio és a mulasztási szankciók csak a kötelező irányelvre húzhatók rá. A tévedés a formai szabadságnak a kötőerő hiányaként való olvasásából ered."
+        },
+        {
+          "text": "A határidő lejárta után az irányelv automatikusan a rendelet helyébe lép a belső jogban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mulasztás nem ruházza fel az irányelvet a rendelet általános hatályú közvetlen alkalmazásával. Az EUMSZ 288. cikke szerinti szankciók a függőleges hivatkozhatóság, a horizontális tilalom és az irányelvi értelmezés. A helyes: a címzett állam továbbra is köteles átültetni. A tévedés a mulasztási jogkövetkezményeknek a kötőerő-csereként való félreértéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "605455222444"
+    },
+    {
+      "question": "A 2006/123/EK irányelv példáján hogyan kapcsolódik össze a címzetti klauzula, a hatálybalépés és az átültetési nap?",
+      "options": [
+        {
+          "text": "A tagállamok a megfeleléshez szükséges törvényi, rendeleti és közigazgatási rendelkezések szövegét haladéktalanul megküldik a Bizottságnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megküldés a 291. cikk (1) bekezdése szerinti nemzeti intézkedés ellenőrzési csatornája. A 2006/123/EK irányelv záró klauzulái a tipikus mintát adják: hatályba léptetés a kitűzött napig, szövegküldés, hivatkozás az irányelvre. A formai szabadság a jogforrási típusra vonatkozik. A származás elrejtése tilos."
+        },
+        {
+          "text": "A 46. cikk szerint az irányelv címzettjei a tagállamok, a 45. cikk szerint a Hivatalos Lapban való kihirdetését követő napon lép hatályba, az átültetés pedig külön, 2009. december 28-i határidőhöz kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három elem a 288. és a 297. cikk közös olvasatát mutatja. A címzetti klauzula a 288. cikk „címzett tagállam” fordulatát ismétli. A hatály a kihirdetéshez kapcsolódik; az átültetési nap az irányelv saját határideje. A Bizottsághoz való megküldés és az irányelvre való hivatkozás az átültetés ellenőrzési és átláthatósági oldala."
+        },
+        {
+          "text": "A címzettek a szolgáltatók, ezért a 46. cikk a magánfeleket kötelezi közvetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 46. cikk a tagállamokat jelöli ki címzettként, nem a szolgáltatókat. Az EUMSZ 288. cikke a célt a címzett tagállamra telepíti. A Marshall-ratio szerint az irányelv önmagában nem kötelez magánszemélyt. A tévedés a szabályozott gazdasági szereplők és a szerződéses címzettek összecseréléséből ered."
+        },
+        {
+          "text": "A 45. cikk szerinti hatálybalépés egyben az átültetés napja is, ezért 2009. december 28. csak tájékoztató dátum.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatálybalépés és az átültetési határidő elválik. A 2006/123/EK irányelv a kihirdetést követő napon lépett hatályba, a megfeleléshez szükséges rendelkezések hatályba léptetését azonban 2009. december 28-ig írta elő; az EUMSZ 297. cikke a hatályt, nem a transzpozíciót rendezi. A tévedés a két időpont azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "986b57e01810"
+    }
+  ]
+}

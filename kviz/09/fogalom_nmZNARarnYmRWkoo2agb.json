@@ -1,0 +1,765 @@
+{
+  "id": "nmZNARarnYmRWkoo2agb",
+  "sorszam": 9,
+  "cim": "Jogalkotási eljárás az Európai Unióban; a rendes jogalkotási eljárás és (...)",
+  "generationType": "fogalom",
+  "title": "9. Jogalkotási eljárás az Európai Unióban; a rendes jogalkotási eljárás és (...)",
+  "questions": [
+    {
+      "question": "Mit választ szét az EUSZ a hatáskörök elhatárolása és a már átruházott hatáskörök gyakorlása között?",
+      "options": [
+        {
+          "text": "A szubszidiaritás a kizárólagos uniós hatáskörökben is kötelező mérce, mielőtt az Unió felléphetne.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a szubszidiaritást a kizárólagos hatáskörre is kiterjeszti. Az EUSZ 5. cikk (3) bekezdése szerint a szubszidiaritás csak azokon a területeken érvényesül, amelyek nem tartoznak kizárólagos hatáskörbe. Kizárólagos uniós hatáskörben a szintválasztás már a hatáskör-átruházással eldőlt, ezért a „jobban megvalósítható” teszt nem alkalmazható. A tévedés forrása a gyakorlási elvek és az elhatárolás összekeverése."
+        },
+        {
+          "text": "A szubszidiaritás csak a nem kizárólagos uniós hatáskörökben mérce, míg az arányosság tartalmilag és formailag egyaránt korlátozza az uniós intézkedést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két gyakorlási elv hatóköre eltér, és ez a különbség szerződési szöveg. Az EUSZ 5. cikk (3) bekezdése a szubszidiaritást azokra a területekre szűkíti, amelyek nem tartoznak kizárólagos hatáskörbe, és kettős feltételhez köti: a tagállami kielégítő megvalósítás hiánya, valamint a terjedelem vagy hatás miatti uniós szintű jobb megvalósíthatóság. Az EUSZ 5. cikk (4) bekezdése szerint az Unió intézkedése sem tartalmilag, sem formailag nem terjedhet túl azon, ami a Szerződések célkitűzéseinek eléréséhez szükséges. Kizárólagos hatáskörben a „jobban megvalósítható” teszt nem nyílik, mert a szintet már a hatáskör-átruházás eldöntötte."
+        },
+        {
+          "text": "A hatáskör-átruházás elve csak a szubszidiaritás után lép be: előbb a szintet, azután az uniós hatáskör létét kell vizsgálni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a sorrendet megfordítja. Az EUSZ 5. cikk (1) bekezdése szerint előbb az elhatárolás a hatáskör-átruházás elve szerint dől el, és csak a meglévő hatáskör gyakorlására irányadó a szubszidiaritás és az arányosság. A (2) bekezdés a hatáskört a Szerződésekben ráruházott keretre szűkíti. A tévedés a gyakorlás mércéinek az elhatárolás elé helyezéséből ered."
+        },
+        {
+          "text": "Az elhatárolásra a hatáskör-átruházás elve, a gyakorlásra a szubszidiaritás és az arányosság elve az irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elhatárolás és a gyakorlás mércéje nem azonos szerződési szabály. Az EUSZ 5. cikk (1) bekezdése szerint: „Az Unió hatásköreinek elhatárolására a hatáskör-átruházás elve az irányadó. Az uniós hatáskörök gyakorlására a szubszidiaritás és az arányosság elve az irányadó.” A (2) bekezdés a hatáskört a Szerződésekben ráruházott keretre szűkíti, és kimondja: minden olyan hatáskör, amelyet a Szerződések nem ruháztak át az Unióra, a tagállamoknál marad. A szubszidiaritás és az arányosság ezért csak a már átruházott hatáskör igénybevételének szintjét és mértékét köti, nem pótolja a hatáskör hiányát."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "702f6e3b56d6"
+    },
+    {
+      "question": "Milyen kettős feltételhez köti az EUSZ a szubszidiaritás elvét a nem kizárólagos hatáskörökben?",
+      "options": [
+        {
+          "text": "A szubszidiaritás akkor is teljesül, ha a tagállamok központi szinten kielégítően meg tudnák valósítani a célt, de az Unió gyorsabban eljárhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kielégítő nemzeti megvalósítást feláldozza a sebességnek. Az EUSZ 5. cikk (3) bekezdése szerint a tagállami kielégítő megvalósítás hiánya és az uniós szintű jobb megvalósíthatóság együtt kötelező; a „gyorsabb” önmagában nem helyettesíti a kettős tesztet. A központi, regionális és helyi szintet is vizsgálni kell. A tévedés a hatékonysági érvet a szerződési feltételek helyébe állítja."
+        },
+        {
+          "text": "A szubszidiaritás ellenőrzése kizárólag a Bizottság belső eljárása, a nemzeti parlamenteknek nincs szerződési szerepük.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nemzeti parlamentek szerződési szerepét tagadja. Az EUSZ 5. cikk (3) bekezdése szerint a nemzeti parlamentek a jegyzőkönyvben megállapított eljárásnak megfelelően gondoskodnak a szubszidiaritás elvének tiszteletben tartásáról. A 2. jegyzőkönyv 6–7. cikke nyolchetes indokolt véleményt, sárga és narancssárga kártyát ad. A tévedés a bizottsági indokolási kötelezettséget összekeveri az egyedüli ellenőrzési fórummal."
+        },
+        {
+          "text": "Az Unió intézményei a szubszidiaritás elvét a szubszidiaritás és az arányosság elvének alkalmazásáról szóló jegyzőkönyvben meghatározottak szerint alkalmazzák.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szerződési elvet a 2. jegyzőkönyv tölti ki. Az EUSZ 5. cikk (3) bekezdése kifejezetten a szubszidiaritás és az arányosság elvének alkalmazásáról szóló jegyzőkönyvre utal. Ugyanezen bekezdés szerint a nemzeti parlamentek az említett jegyzőkönyvben megállapított eljárásnak megfelelően gondoskodnak a szubszidiaritás elvének tiszteletben tartásáról. A jegyzőkönyv 5. cikke külön indokolást és hatásfeljegyzést, a 6–7. cikk indokolt véleményt és kártyákat ad."
+        },
+        {
+          "text": "Az Unió csak akkor és annyiban jár el, amikor a tagállamok sem központi, sem regionális vagy helyi szinten nem tudják kielégítően megvalósítani a célt, és a terjedelem vagy a hatás miatt az Unió szintjén jobban megvalósítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szubszidiaritás konjunktív, kettős teszt. Az EUSZ 5. cikk (3) bekezdése szerint az Unió csak akkor és annyiban jár el, amikor és amennyiben a tervezett intézkedés céljait a tagállamok sem központi, sem regionális vagy helyi szinten nem tudják kielégítően megvalósítani, így azok a tervezett intézkedés terjedelme vagy hatása miatt az Unió szintjén jobban megvalósíthatók. A kielégítő nemzeti megvalósítás három szintje — központi, regionális, helyi — együtt áll. A nemzeti parlamentek a 2. jegyzőkönyv eljárása szerint gondoskodnak az elv tiszteletben tartásáról."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "54caec7d13df"
+    },
+    {
+      "question": "Mit rendel az EUSZ az arányosság elvéről a hatáskörgyakorlás során?",
+      "options": [
+        {
+          "text": "Az arányosság csak a szubszidiaritással együtt, kizárólagos uniós hatáskörben is kötelező szintválasztási teszt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az arányosságot a szubszidiaritás szinttesztjével azonosítja. Az EUSZ 5. cikk (4) bekezdése az arányosságot a tartalmi és formai szükségességhez köti, nem a „jobban megvalósítható” szintválasztáshoz. A szubszidiaritás a (3) bekezdés szerint a nem kizárólagos hatáskörökre korlátozódik. A tévedés a két gyakorlási elv hatókörének összecsúsztatásából ered."
+        },
+        {
+          "text": "Az arányosság csak a tartalmi terjedelmet köti; a rendelet vagy irányelv választása szabad intézményi ízlés kérdése.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a formai ágat kihagyja. Az EUSZ 5. cikk (4) bekezdése szerint az intézkedés sem tartalmilag, sem formailag nem terjedhet túl a szükségesen. Az EUMSZ 296. cikk első mondata a jogi aktus típusának megválasztását az arányosság elvéhez igazítja. A tévedés a tartalmi szükségességet elválasztja a jogi aktus formájának megválasztásától."
+        },
+        {
+          "text": "Az Unió intézkedése sem tartalmilag, sem formailag nem terjedhet túl azon, ami a Szerződések célkitűzéseinek eléréséhez szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az arányosság tartalmi és formai túlterjeszkedési tilalomként áll. Az EUSZ 5. cikk (4) bekezdése szerint: „Az Unió intézkedése sem tartalmilag, sem formailag nem terjedhet túl azon, ami a Szerződések célkitűzéseinek eléréséhez szükséges.” A formai ág a jogi aktus típusának megválasztását is köti: az EUMSZ 296. cikk első albekezdése szerint, ha a Szerződések nem határozzák meg a típust, az intézmények azt az arányosság elvével összhangban, eseti alapon választják meg. Az Unió intézményei az arányosság elvét a szubszidiaritás és az arányosság elvének alkalmazásáról szóló jegyzőkönyvben foglaltak szerint alkalmazzák."
+        },
+        {
+          "text": "Ha a Szerződések nem határozzák meg a jogi aktus típusát, az intézmények azt az arányosság elvével összhangban, eseti alapon választják meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a típusválasztás is arányossági kérdés. Az EUMSZ 296. cikk első albekezdése szerint, ha a Szerződések nem határozzák meg, milyen típusú jogi aktust kell elfogadni, az intézmények azt az alkalmazandó eljárásoknak megfelelően, eseti alapon maguk választják meg, az arányosság elvével összhangban. A rendelet, az irányelv vagy a határozat tehát nem stilisztikai döntés. Ez az EUSZ 5. cikk (4) bekezdésének formai ágát tölti ki."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "e1fd7899847b"
+    },
+    {
+      "question": "Miben tér el a rendes jogalkotási eljárás a különleges jogalkotási eljárástól az EUMSZ szerint?",
+      "options": [
+        {
+          "text": "A rendes eljárásban a Parlament csak konzultációs szerepet kap, a döntés mindig a Tanácsé.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a parlamenti szerepet a különleges pálya konzultációjára csúsztatja. Az EUMSZ 289. cikk (1) bekezdése a rendes pályán a Parlamentet és a Tanácsot közös elfogadóként nevezi meg. A konzultációs közreműködés a 289. cikk (2) bekezdése szerinti különleges szerkezetben jellemző, például az EUMSZ 113. cikk vagy a 22. cikk pályáján. A tévedés a különleges eljárás aszimmetriáját írja rá a rendes eljárásra."
+        },
+        {
+          "text": "A különleges eljárás a Szerződések által külön meghatározott esetekben a Parlament vagy a Tanács döntése a másik intézmény közreműködésével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különleges pályát a döntési aszimmetria definiálja. Az EUMSZ 289. cikk (2) bekezdése szerint különleges jogalkotási eljárás, ha a Parlament a Tanács közreműködésével, vagy a Tanács a Parlament közreműködésével fogad el rendeletet, irányelvet vagy határozatot. A közreműködés — konzultáció vagy egyetértés — a Szerződés adott cikke szerint dől el, és gyakran egyhangúsággal párosul. Ez nem két szavazási mód, hanem két legitimációs szerkezet."
+        },
+        {
+          "text": "A rendes eljárás rendeleteknek, irányelveknek vagy határozatoknak a Bizottság javaslata alapján, a Parlament és a Tanács által történő közös elfogadásából áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendes pálya három eleme szerződési szintű. Az EUMSZ 289. cikk (1) bekezdése szerint a rendes jogalkotási eljárás rendeleteknek, irányelveknek vagy határozatoknak a Bizottság javaslata alapján, az Európai Parlament és a Tanács által történő közös elfogadásából áll. Az EUMSZ 294. cikk (1)–(2) bekezdése ezt az eljárást tölti ki: ahol a Szerződések rendes eljárásra hivatkoznak, a Bizottság javaslatot terjeszt a Parlament és a Tanács elé. A két intézmény itt társtörvényhozó, nem aszimmetrikus közreműködő."
+        },
+        {
+          "text": "A különleges eljárás is mindig a Parlament és a Tanács közös elfogadása, csak a szavazási küszöb egyhangú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a különleges pályát közös elfogadássá torzítja. Az EUMSZ 289. cikk (2) bekezdése szerint a döntés vagy a Parlamentnél, vagy a Tanácsnál van, a másik intézmény csak közreműködik. A közös elfogadás a 289. cikk (1) bekezdése szerinti rendes eljárás ismérve. A tévedés az egyhangúságot összekeveri a társtörvényhozói szerkezettel."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "5f6f3ec27c66"
+    },
+    {
+      "question": "Mikor minősül egy uniós jogi aktus jogalkotási aktusnak az EUMSZ 289. cikk (3) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Jogalkotási aktusnak csak a „rendelet” című aktus minősül; az irányelv és a határozat mindig nem jogalkotási aktus.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a formát összekeveri a jogalkotási minősítéssel. Az EUMSZ 289. cikk (3) bekezdése a jogalkotási eljárásban született aktust minősíti jogalkotási aktusnak, a cím nélkül. Az EUMSZ 289. cikk (1)–(2) bekezdése szerint mind a rendes, mind a különleges eljárásban rendelet, irányelv vagy határozat elfogadható. A tévedés a rendelet–irányelv formaválasztást a jogalkotási–nem jogalkotási elválasztással azonosítja."
+        },
+        {
+          "text": "A jogalkotási eljárás keretében elfogadott jogi aktusok jogalkotási aktusoknak minősülnek, függetlenül a címük stilisztikájától.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a minősítés az eljáráshoz, nem a címhez kötődik. Az EUMSZ 289. cikk (3) bekezdése a jogalkotási eljárás keretében elfogadott jogi aktusokat nevezi jogalkotási aktusoknak. Ez előkészíti az EUMSZ 297. cikk (1) bekezdésének aláírási és kihirdetési rendjét: a jogalkotási aktust a Hivatalos Lapban ki kell hirdetni. A 290. és a 291. cikk szerinti felhatalmazáson alapuló és végrehajtási aktusok e minősítésen kívül esnek."
+        },
+        {
+          "text": "A 289. cikk (3) bekezdése szerinti jogalkotási minősítés a Hivatalos Lapban való kihirdetés napjától függ, nem az elfogadási eljárástól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kihirdetést a minősítés feltételévé teszi. Az EUMSZ 289. cikk (3) bekezdése a jogalkotási eljárásban való elfogadáshoz köti a jogalkotási aktus minősítését. Az EUMSZ 297. cikk (1) bekezdése a kihirdetést és a hatálybalépést a már jogalkotási aktusnak minősülő szövegre írja elő. A tévedés a 297. cikk záró aktusait a 289. cikk (3) bekezdésének minősítési szabályává olvassa."
+        },
+        {
+          "text": "A rendelet, irányelv vagy határozat cím önmagában nem dönti el a jogalkotási minősítést; a 290. és a 291. cikk szerinti felhatalmazáson alapuló és végrehajtási aktusok sem esnek a 289. cikk (3) bekezdése alá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a formai cím és a felhatalmazási/végrehajtási pálya nem pótolja az eljárási minősítést. A 289. cikk (1)–(2) bekezdése szerint rendelet, irányelv vagy határozat mind rendes, mind különleges eljárásban elfogadható, de a cím önmagában nem dönti el, hogy az aktus jogalkotási-e. Az EUMSZ 289. cikk (3) bekezdése az elfogadási eljáráshoz köti a jogalkotási aktus fogalmát. A 290. és a 291. cikk szerinti aktusok nem esnek e szabály alá."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "dd8f01c21a26"
+    },
+    {
+      "question": "Mi következik abból, ha a Tanács a Bizottság javaslata alapján jár el, és a javaslat tartalmát meg akarja változtatni?",
+      "options": [
+        {
+          "text": "Amíg a Tanács nem határozott, a Bizottság az uniós jogi aktus elfogadásához vezető eljárások során javaslatát bármikor módosíthatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rugalmasság a Bizottságot illeti. Az EUMSZ 293. cikk (2) bekezdése szerint, amíg a Tanács nem határozott, a Bizottság az uniós jogi aktus elfogadásához vezető eljárások során javaslatát bármikor módosíthatja. Ez a trialógusok operatív feltétele: a Bizottság a kompromisszum érdekében átírhatja a szöveget a tanácsi döntés előtt. Az egyeztetőbizottsági és a harmadik olvasati szakaszban a 294. cikk saját többségei érvényesülnek, nem ez a javaslatzár."
+        },
+        {
+          "text": "A Tanács minősített többséggel bármikor átírhatja a bizottsági javaslatot, egyhangúság nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a módosítási küszöböt az elfogadási küszöbre cseréli. Az EUMSZ 293. cikk (1) bekezdése szerint a javaslatot a Tanács — a nevesített kivételekkel — csak egyhangúlag módosíthatja. A minősített többség az elfogadáshoz kapcsolódhat, de a javaslat tartalmának megváltoztatásához a főszabály szerint egyhangúság kell. A tévedés a 294. cikk szavazási szabályait írja rá a 293. cikk javaslatzárjára."
+        },
+        {
+          "text": "A Bizottság a Tanács első határozata után is szabadon visszavonhatja és átírhatja a javaslatot, korlát nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a módosítási ablakot a tanácsi határozat utánra is kinyitja. Az EUMSZ 293. cikk (2) bekezdése szerint a Bizottság mindaddig módosíthat, amíg a Tanács nem határozott. A tanácsi döntés után ez a szabad módosítási jog megszűnik; az egyeztetésben a 294. cikk (11) bekezdése szerinti közelítési szerep más jogintézmény. A tévedés a (2) bekezdés időbeli határát figyelmen kívül hagyja."
+        },
+        {
+          "text": "A Tanács a javaslatot — a 294. cikk (10) és (13) bekezdése, valamint a költségvetési cikkek kivételével — csak egyhangúlag módosíthatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bizottsági javaslat védelme a közösségi módszer zárja. Az EUMSZ 293. cikk (1) bekezdése szerint, ha a Tanács a Bizottság javaslata alapján jár el, a javaslatot — a 294. cikk (10) és (13) bekezdése, a 310., a 312., a 314. cikk és a 315. cikk második albekezdése kivételével — csak egyhangúlag módosíthatja. A minősített többség tehát az elfogadáshoz elég lehet, a javaslat tartalmának megváltoztatásához nem. A Bizottság szövege mindaddig köt, amíg a Tanács egyhangúan el nem tér tőle, vagy a Bizottság maga nem módosít."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "d2a195dda825"
+    },
+    {
+      "question": "Hogyan zárulhat le a rendes jogalkotási eljárás már az első olvasatban?",
+      "options": [
+        {
+          "text": "Ha a Tanács nem ért egyet, az aktus automatikusan el nem fogadottnak minősül, második olvasat nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kudarc joghatóságát az első olvasati egyet nem értésre hozza előre. Az EUMSZ 294. cikk (5) bekezdése szerint a Tanács ekkor saját álláspontot fogad el és közli a Parlamenttel; a második olvasat megnyílik. Az el nem fogadottság a (7) bekezdés b) pontja, a (12) bekezdés vagy a (13) bekezdés szerinti kudarc következménye. A tévedés az egyeztetési kudarcot az első olvasati egyet nem értéssel azonosítja."
+        },
+        {
+          "text": "Az első olvasatban a Parlament álláspontja önmagában, a Tanács egyetértése nélkül is végleges jogalkotási aktust eredményez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közös elfogadást egyoldalú parlamenti aktussá torzítja. Az EUMSZ 294. cikk (4) bekezdése az elfogadottságot a Tanács egyetértéséhez köti a parlamenti állásponttal. A 289. cikk (1) bekezdése szerinti rendes eljárás a két intézmény közös elfogadását követeli meg. A tévedés a parlamenti elsőbbséget a nemzeti törvényhozás mintájára írja rá az uniós pályára."
+        },
+        {
+          "text": "A lezáráshoz a Parlamentnek előbb el kell fogadnia és a Tanácshoz továbbítania első olvasati álláspontját; a Tanács egyetértése esetén az aktus e parlamenti szövegezéssel, második olvasat nélkül elfogadott.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az első olvasati lezárás két lépésből áll: parlamenti álláspont, majd tanácsi egyetértés. Az EUMSZ 294. cikk (3) bekezdése szerint az Európai Parlament első olvasatban elfogadja álláspontját és azt továbbítja a Tanácsnak. A (4) bekezdés szerint, ha a Tanács ezzel egyetért, a javasolt aktust a parlamenti álláspontnak megfelelő szövegezéssel elfogadottnak kell tekinteni. Második olvasatra ekkor nincs szükség; az egyet nem értés az (5) bekezdés szerint saját tanácsi álláspontot és második olvasatot nyit, tehát nem lezárás."
+        },
+        {
+          "text": "Ha a Tanács az Európai Parlament első olvasati álláspontjával egyetért, a javasolt aktust a parlamenti álláspontnak megfelelő szövegezéssel elfogadottnak kell tekinteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az első olvasat a Tanács egyetértése esetén azonnal lezárhat. Az EUMSZ 294. cikk (4) bekezdése szerint, ha a Tanács az Európai Parlament álláspontjával egyetért, a javasolt aktust az Európai Parlament álláspontjának megfelelő szövegezéssel elfogadottnak kell tekinteni. Második olvasatra és egyeztetőbizottságra ekkor nincs szükség. Az EUMSZ 294. cikk (5) bekezdése ehhez képest azt a pályát nyitja, amikor a Tanács nem ért egyet, és saját, indokolt első olvasati álláspontot fogad el."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "ee8eccc31f76"
+    },
+    {
+      "question": "Milyen tartamban és milyen kimenetelekkel dönthet a Parlament a második olvasatban a Tanács első olvasati álláspontjáról?",
+      "options": [
+        {
+          "text": "A közléstől számított három hónapon belül a Parlament egyetérthet vagy hallgathat, tagjainak többségével elutasíthat, vagy tagjainak többségével módosításokat javasolhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második olvasat három kimenetelű és három hónapos. Az EUMSZ 294. cikk (7) bekezdése szerint, ha e közléstől számított három hónapon belül a Parlament egyetért a Tanács álláspontjával vagy nem foglal állást, az aktust a Tanács álláspontjának megfelelő szövegezéssel elfogadottnak kell tekinteni; tagjainak többségével elutasíthatja, vagy tagjainak többségével módosításokat javasolhat. A hallgatás tehát elfogadás, nem elutasítás. A (14) bekezdés szerint a három hónapos határidő legfeljebb egy hónappal meghosszabbítható."
+        },
+        {
+          "text": "A Parlament hallgatása a három hónapos határidő alatt az aktus elutasításának minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a hallgatás joghatását megfordítja. Az EUMSZ 294. cikk (7) bekezdés a) pontja szerint, ha a Parlament nem foglal állást, a jogi aktust a Tanács álláspontjának megfelelő szövegezéssel elfogadottnak kell tekinteni. Az elutasításhoz a b) pont szerinti, a tagok többségével meghozott döntés kell. A tévedés a hallgatást a nemzeti parlamenti passzivitás mintájára vétóként olvassa."
+        },
+        {
+          "text": "A Parlament tagjainak többségével elutasított tanácsi álláspont esetén a javasolt jogi aktust el nem fogadottnak kell tekinteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második olvasati vétó abszolút. Az EUMSZ 294. cikk (7) bekezdés b) pontja szerint, ha a Parlament tagjainak többségével elutasítja a Tanács első olvasatban elfogadott álláspontját, a javasolt jogi aktust el nem fogadottnak kell tekinteni. Ez a küszöb a tagok többsége, nem a leadott szavazatok egyszerű többsége. A módosítás a c) pont szerinti külön pálya, amely a Tanácshoz és a Bizottsághoz továbbítást nyit."
+        },
+        {
+          "text": "A második olvasatban a Parlament bármely módosításhoz elegendő a jelenlévők egyszerű többsége, a tagok többsége nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a szavazati küszöböt lazítja. Az EUMSZ 294. cikk (7) bekezdés c) pontja szerint a módosításokhoz a Parlament tagjainak többsége kell, nem a jelenlévők egyszerű többsége. Ugyanez a küszöb az elutasításnál a b) pont szerint. A tévedés a harmadik olvasat leadott szavazatokra épülő többségét ((13) bekezdés) írja vissza a második olvasatra."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "741ab742ba54"
+    },
+    {
+      "question": "Mi a feladata és milyen határidővel dönt az egyeztetőbizottság a rendes jogalkotási eljárásban?",
+      "options": [
+        {
+          "text": "Ha az egyeztetőbizottság hat héten belül nem hagy jóvá közös szövegtervezetet, a javasolt jogi aktust el nem fogadottnak kell tekinteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közös tervezet hiánya kudarcjoghatás. Az EUMSZ 294. cikk (12) bekezdése szerint, ha az egyeztetőbizottság az összehívásától számított hat héten belül nem hagy jóvá közös szövegtervezetet, a javasolt jogi aktust el nem fogadottnak kell tekinteni. A (13) bekezdés ehhez képest a jóváhagyott tervezet harmadik olvasatát adja: hat hét áll rendelkezésre, hogy a Parlament a leadott szavazatok többségével, a Tanács pedig minősített többséggel elfogadja. Ha ez nem teljesül, az aktus szintén el nem fogadott."
+        },
+        {
+          "text": "Az egyeztetőbizottságban a Bizottság nem vehet részt, mert a második olvasat után kizárólag a két jogalkotó dönt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Bizottságot kizárja az egyeztetésből. Az EUMSZ 294. cikk (11) bekezdése szerint a Bizottság részt vesz az egyeztetőbizottság munkájában, és megtesz minden szükséges kezdeményezést az Európai Parlament és a Tanács álláspontjának közelítése érdekében. A részvétel kötelező közelítési szerep, nem szavazati jog. A tévedés a 289. cikk (1) bekezdése szerinti társtörvényhozói tengelyt a Bizottság kizárásával olvassa."
+        },
+        {
+          "text": "Az egyeztetőbizottság a Tanács tagjaiból vagy képviselőiből és a Parlament azonos számú képviselőiből áll, és hat héten belül közös szövegtervezetről kell megállapodnia.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyeztetés paritásos és hathetes. Az EUMSZ 294. cikk (10) bekezdése szerint az egyeztetőbizottság a Tanács tagjaiból vagy azok képviselőiből és az Európai Parlament azonos számú képviselőiből áll. Feladata, hogy a Tanács tagjainak vagy képviselőinek minősített többségével és a Parlament képviselőinek többségével az összehívásától számított hat héten belül megállapodásra jusson egy közös szövegtervezetről. A (14) bekezdés szerint a hathetes határidő legfeljebb két héttel meghosszabbítható."
+        },
+        {
+          "text": "Közös szövegtervezet hiányában a Parlament egyedül, a Tanács nélkül is elfogadhatja az aktust harmadik olvasatban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kudarcot egyoldalú parlamenti elfogadássá fordítja. Az EUMSZ 294. cikk (12) bekezdése szerint közös szövegtervezet hiányában a javasolt jogi aktust el nem fogadottnak kell tekinteni. A (13) bekezdés a harmadik olvasatot a közös tervezethez és a kettős elfogadáshoz köti. A tévedés a rendes eljárás közös elfogadási szerkezetét (289. cikk (1) bekezdés) töri meg."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "a03358164fb1"
+    },
+    {
+      "question": "Miben tér el az EUMSZ 21. cikk (2) bekezdése szerinti pálya a (3) bekezdés szerinti eljárástól a szabad mozgás kiegészítő intézkedéseinél?",
+      "options": [
+        {
+          "text": "A (3) bekezdés a szociális biztonságra és a szociális védelemre vonatkozó intézkedéseket különleges eljárásra, tanácsi egyhangúságra és parlamenti konzultációra viszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szociális védelmi tárgy a különleges pálya. Az EUMSZ 21. cikk (3) bekezdése szerint a Tanács különleges jogalkotási eljárás keretében a szociális biztonságra, illetve a szociális védelemre vonatkozó intézkedéseket fogadhat el; a Tanács az Európai Parlamenttel folytatott konzultációt követően, egyhangúlag határoz. Ugyanazon (1) bekezdésbeli cél tehát a tárgy szerint válik ketté. A Parlament itt konzultációs közreműködő, nem társtörvényhozó."
+        },
+        {
+          "text": "A (2) bekezdés a Parlament egyetértéséhez és tagállami alkotmányos jóváhagyáshoz köti a megkönnyítő rendelkezéseket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 25. cikk zárjait írja rá a 21. cikk (2) bekezdésére. Az EUMSZ 21. cikk (2) bekezdése rendes jogalkotási eljárást ad, nem egyetértést és nem tagállami ratifikációt. Az EUMSZ 25. cikk a 20. cikk (2) bekezdésében felsorolt jogok megerősítésénél kíván egyetértést, egyhangúságot és alkotmányos jóváhagyást. A tévedés a polgársági jogkatalógus bővítésének eljárását cseréli a szabad mozgás megkönnyítésére."
+        },
+        {
+          "text": "A (2) bekezdés a jogok gyakorlásának megkönnyítésére rendes jogalkotási eljárást ad a Parlamentnek és a Tanácsnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az általános megkönnyítés a rendes pálya. Az EUMSZ 21. cikk (2) bekezdése szerint, ha az Unió fellépése szükséges, és a Szerződések nem biztosítják a szükséges hatáskört, az (1) bekezdésben említett jogok gyakorlásának megkönnyítése érdekében az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében rendelkezéseket fogadhat el. Ez a 289. cikk (1) bekezdése szerinti közös elfogadást hívja. A klauzula szubszidiárius: csak akkor nyílik, ha másutt nincs hatáskör."
+        },
+        {
+          "text": "A (3) bekezdés szerinti szociális intézkedések is rendes eljárásban születnek, minősített többséggel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a (3) bekezdést a rendes pályára írja. Az EUMSZ 21. cikk (3) bekezdése különleges jogalkotási eljárást, tanácsi egyhangúságot és parlamenti konzultációt ír elő. A rendes eljárás a (2) bekezdés általános megkönnyítési klauzulája. A tévedés a 21. cikk két kiegészítő hatáskörét egy eljárássá mossa össze."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "df6eb6e82d42"
+    },
+    {
+      "question": "Mely esetben nem a rendes jogalkotási eljárás, hanem egyhangú tanácsi különleges pálya dönt a tartózkodási állambeli választójog részletszabályairól?",
+      "options": [
+        {
+          "text": "Az európai parlamenti választások tartózkodási állambeli választójogának részletszabályai ugyancsak konzultációs, egyhangú különleges eljárásban születnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés ugyanazt a különleges szerkezetet ismétli. Az EUMSZ 22. cikk (2) bekezdése szerint e jog gyakorlásának részletes szabályait a Tanács az Európai Parlamenttel folytatott konzultációt követően, különleges jogalkotási eljárás keretében, egyhangú határozattal fogadja el. A 223. cikk (1) bekezdése és végrehajtása sérelme nélkül áll ez a polgári választójog. A két szerződéses sáv — tartózkodási állambeli választójog és egységes választási eljárás — nem olvad össze."
+        },
+        {
+          "text": "A 22. cikk szerinti részletszabályokat a Parlament és a Tanács közös elfogadással, rendes eljárásban alkotja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a rendes pályát írja rá a 22. cikkre. Az EUMSZ 22. cikk (1) és (2) bekezdése különleges jogalkotási eljárást, tanácsi egyhangúságot és parlamenti konzultációt ír elő. A 289. cikk (2) bekezdése szerinti aszimmetria érvényesül: a döntés a Tanácsé. A tévedés a 21. cikk (2) bekezdése vagy a 81. cikk (2) bekezdése szerinti rendes pályát cseréli ide."
+        },
+        {
+          "text": "A Parlament egyetértése nélkül a Tanács a 22. cikk alapján nem fogadhat el választójogi részletszabályt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az egyetértést a konzultáció helyébe állítja. Az EUMSZ 22. cikk mindkét bekezdése a Parlamenttel folytatott konzultációt ír elő, nem egyetértést. Az EUMSZ 25. cikk a 20. cikk (2) bekezdésében felsorolt jogok megerősítésénél kíván parlamenti egyetértést, tanácsi egyhangúságot és tagállami alkotmányos jóváhagyást. A tévedés a 289. cikk (2) bekezdése szerinti közreműködés minősített alakját (egyetértés) írja rá a konzultációs pályára."
+        },
+        {
+          "text": "A helyhatósági választójog és választhatóság részletes szabályait a Tanács a Parlamenttel folytatott konzultációt követően, különleges eljárásban, egyhangú határozattal fogadja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a helyhatósági választójog részletszabályai tanácsi döntésű különleges pályán születnek. Az EUMSZ 22. cikk (1) bekezdése szerint a jog gyakorlásának részletes szabályait a Tanács az Európai Parlamenttel folytatott konzultációt követően, különleges jogalkotási eljárás keretében, egyhangú határozattal fogadja el. A szabályok eltérést állapíthatnak meg, ha a tagállam sajátos problémái ezt indokolják; ez az EUSZ 5. cikk (4) bekezdése szerinti arányosság nemzeti oldala. A Parlament szerepe konzultáció, nem egyetértés és nem társtörvényhozás."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "7dfb650e3c27"
+    },
+    {
+      "question": "Mi következik abból, ha a Tanács a 20. cikk (2) bekezdésében felsorolt uniós polgári jogokat meg akarja erősíteni vagy kibővíteni?",
+      "options": [
+        {
+          "text": "A Bizottság minden harmadik évben jelentést nyújt be a Parlamentnek, a Tanácsnak és a Gazdasági és Szociális Bizottságnak a polgársági rész alkalmazásáról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hároméves jelentés a jogbővítés előkészítő aktusa. Az EUMSZ 25. cikk szerint a Bizottság minden harmadik évben jelentést nyújt be az Európai Parlamentnek, a Tanácsnak és a Gazdasági és Szociális Bizottságnak e rész rendelkezéseinek alkalmazásáról; a jelentés az Unió fejlődéséről is beszámol. Ennek alapján nyílik a Tanács jogbővítő hatásköre. A jelentés elválik a 2. jegyzőkönyv 9. cikkének éves szubszidiaritási jelentésétől, amely az EUSZ 5. cikk alkalmazásáról szól."
+        },
+        {
+          "text": "A Tanács a Parlament egyetértését követően, különleges eljárásban, egyhangú határozattal fogadhat el rendelkezéseket, amelyek csak a tagállami alkotmányos jóváhagyás után lépnek hatályba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a polgári jogkatalógus bővítése három szerződési zárral védett. Az EUMSZ 25. cikk szerint a Tanács az Európai Parlament egyetértését követően, különleges jogalkotási eljárás keretében, egyhangú határozattal rendelkezéseket fogadhat el a 20. cikk (2) bekezdésében felsorolt jogok megerősítésére és kibővítésére. Ezek a rendelkezések csak azt követően lépnek hatályba, hogy azokat a tagállamok saját alkotmányos követelményeiknek megfelelően jóváhagyták. A 22. cikkhez képest itt egyetértés, egyhangúság és ratifikáció együtt áll, nem puszta konzultáció."
+        },
+        {
+          "text": "A Parlament szerepe a 25. cikk szerinti jogbővítésnél pusztán konzultáció, egyetértés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a konzultációt az egyetértés helyébe állítja. Az EUMSZ 25. cikk szerint a Tanács az Európai Parlament egyetértését követően jár el. Az EUMSZ 22. cikk mindkét bekezdése ehhez képest csak konzultációt ír elő a választójogi részletszabályoknál. A tévedés a 289. cikk (2) bekezdése szerinti közreműködés két alakját — konzultáció és egyetértés — cseréli fel."
+        },
+        {
+          "text": "A polgári jogok kibővítése rendes jogalkotási eljárásban, minősített többséggel is lehetséges, tagállami jóváhagyás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a polgári jogbővítés zárjait leépíti a rendes pályára. Az EUMSZ 25. cikk különleges eljárást, parlamenti egyetértést, tanácsi egyhangúságot és tagállami alkotmányos jóváhagyást ír elő. A hatálybalépés harmadik zárja a ratifikáció; rendes eljárás és minősített többség itt nem pótolja. A tévedés a 21. cikk (2) bekezdése szerinti rendes megkönnyítési pályát cseréli a jogkatalógus bővítésére."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "765f4390aaeb"
+    },
+    {
+      "question": "Milyen három célt rögzít az EUMSZ a határellenőrzési politika számára?",
+      "options": [
+        {
+          "text": "A külső határokon a személyek ellenőrzése és a határátlépések eredményes felügyelete, valamint a külső határok integrált határigazgatási rendszerének fokozatos bevezetése a politika további céljai.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a b) és a c) pont a külső határokhoz kötődik. Az EUMSZ 77. cikk (1) bekezdés b) pontja a személyek ellenőrzésének és a határátlépések eredményes felügyeletének biztosítását írja elő a külső határokon; a c) pont a külső határok integrált határigazgatási rendszerének fokozatos bevezetését. A (23.) jegyzőkönyv rögzíti: e rendelkezések nem érintik a tagállamok azon hatáskörét, hogy harmadik országokkal tárgyaljanak vagy megállapodásokat kössenek, ha azok tiszteletben tartják az uniós jogot. A politika célja uniós, a harmadik országokkal való határforgalmi megállapodás tagállami maradékhatáskör."
+        },
+        {
+          "text": "A belső határok átlépésekor a személyek — állampolgárságtól függetlenül — mentesüljenek mindenfajta ellenőrzés alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a belső határok nélküli térség az első cél. Az EUMSZ 77. cikk (1) bekezdés a) pontja szerint az Unió olyan politikát alakít ki, amelynek célja annak biztosítása, hogy a belső határok átlépésekor a személyek, állampolgárságuktól függetlenül, mentesüljenek mindenfajta ellenőrzés alól. Ez a schengeni vívmány szerződéses célhármasának első eleme. A szubszidiaritási teszt tárgya is lehet, mert a belső határok nélküli térség terjedelme és hatása uniós szintű."
+        },
+        {
+          "text": "A külső határok átlépésére vonatkozó uniós intézkedések megszüntetik a tagállamok jogát, hogy harmadik országokkal határforgalmi megállapodást kössenek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a tagállami maradékhatáskört eltörli. A (23.) jegyzőkönyv a 77. cikk 2. b) pontjában foglalt intézkedésekről szólva rögzíti: e rendelkezések nem érintik a tagállamok azon hatáskörét, hogy harmadik országokkal tárgyaljanak vagy megállapodásokat kössenek, amennyiben azok tiszteletben tartják az uniós jogot és a nemzetközi megállapodásokat. Ez az EUSZ 5. cikk (2) bekezdésének záró mondatával összhangban áll. A tévedés az uniós célokat a szerződéskötési maradék teljes elvonásaként olvassa."
+        },
+        {
+          "text": "A 77. cikk (1) bekezdése a belső határokon is kötelező személyellenőrzést ír elő minden uniós polgár számára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a belső határok mentesülését ellenőrzési kötelezettséggé fordítja. Az EUMSZ 77. cikk (1) bekezdés a) pontja szerint a belső határok átlépésekor a személyek mentesüljenek mindenfajta ellenőrzés alól. A személyek ellenőrzése a b) pont szerint a külső határokhoz kapcsolódik. A tévedés a külső határok felügyeletét írja rá a belső határokra."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "6a7b6a724c2c"
+    },
+    {
+      "question": "Miben tér el a több államra kiterjedő családjog eljárása a polgári igazságügyi együttműködés rendes pályájától?",
+      "options": [
+        {
+          "text": "A családjogi intézkedések is automatikusan a 81. cikk (2) bekezdése szerinti rendes eljárásban születnek, egyhangúság nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a (3) bekezdés kivételét elhagyja. Az EUMSZ 81. cikk (3) bekezdése a több államra kiterjedő családjogot kifejezetten kiveszi a (2) bekezdés rendes pályájából, és tanácsi egyhangúsághoz, valamint parlamenti konzultációhoz köti. A rendes eljárásra áttérés csak a (3) bekezdés második–harmadik albekezdése szerinti határozattal lehetséges. A tévedés a főszabályt kivétel nélkül írja rá a családjogra."
+        },
+        {
+          "text": "A több államra kiterjedő családjogi intézkedéseket a (3) bekezdés különleges eljárásra, tanácsi egyhangúságra és parlamenti konzultációra viszi ki a rendes pályából.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a családjog a (2) bekezdéstől eltérő különleges pálya. Az EUMSZ 81. cikk (3) bekezdése szerint a több államra kiterjedő vonatkozású családjogi kérdésekre vonatkozó intézkedéseket különleges jogalkotási eljárás keretében a Tanács állapítja meg. A Tanács az Európai Parlamenttel folytatott konzultációt követően, egyhangúlag határoz. A rendes eljárásra való áttérés külön, nemzeti parlamenti kifogással védett határozatot kíván a (3) bekezdés második–harmadik albekezdése szerint."
+        },
+        {
+          "text": "A 81. cikk (2) bekezdése a határokon átnyúló polgári együttműködés nyolc tárgycsoportjában főszabályként rendes jogalkotási eljárást nyit.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a polgári együttműködés főszabálya a rendes pálya. Az EUMSZ 81. cikk (2) bekezdése szerint az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében intézkedéseket állapít meg — különösen, ha ez a belső piac megfelelő működéséhez szükséges — a kölcsönös elismerés, az iratkézbesítés, a kollízió és joghatóság, a bizonyításfelvétel, a tényleges hozzáférés, a polgári eljárás akadályainak megszüntetése, az alternatív vitarendezés és a képzés biztosítására. Az EUMSZ 81. cikk (1) bekezdése az együttműködést a bírósági és bíróságon kívüli határozatok kölcsönös elismerésének elvére építi."
+        },
+        {
+          "text": "A családjogi áttérés a rendes eljárásra a Bizottság egyoldalú határozatával megtörténhet, nemzeti parlamenti értesítés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az áttérést bizottsági egyoldalú aktussá torzítja. Az EUMSZ 81. cikk (3) bekezdése szerint a Tanács a Bizottság javaslata alapján, a Parlamenttel folytatott konzultációt követően, egyhangúlag fogadhat el ilyen határozatot. A javaslatról a nemzeti parlamenteket értesíteni kell; hat hónapon belüli kifogás a határozatot meghiúsítja. A tévedés a bizottsági javaslatot a döntéssel azonosítja, és kihagyja a nemzeti parlamenti vétót."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "ce4d4979212c"
+    },
+    {
+      "question": "Milyen határidővel és milyen joghatással emelhet kifogást egy nemzeti parlament a családjogi áttérési határozat javaslatával szemben?",
+      "options": [
+        {
+          "text": "A nemzeti parlamenti kifogáshoz a szavazatok legalább egyharmada kell, mint a sárga kártyánál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a sárga kártya küszöbét írja rá a családjogi áttérésre. Az EUMSZ 81. cikk (3) bekezdése szerint valamely nemzeti parlament hat hónapon belüli kifogása elegendő a határozat meghiúsításához. A 2. jegyzőkönyv 7. cikkének egyharmados küszöbe a szubszidiaritási indokolt véleményekre vonatkozik. A tévedés a két intézményt egy eljárássá mossa össze."
+        },
+        {
+          "text": "A családjogi áttérési zár önálló, nem azonos a 2. jegyzőkönyv 7. cikke szerinti sárga kártyával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a családjogi áttérés nemzeti parlamenti vétója nem ugyanaz, mint a szubszidiaritási kártyarendszer. Az EUMSZ 81. cikk (3) bekezdésének hat hónapos kifogása a családjogi áttéréshez kötött, és egyetlen parlament vétója elegendő a határozat meghiúsításához. A 2. jegyzőkönyv 7. cikke a szavazati súlyhoz kötött sárga és narancssárga kártyát ad a szubszidiaritás sérelmére: a főszabály szerint az indokolt véleményeknek a szavazatok legalább egyharmadát kell képviselniük a felülvizsgálathoz, egyszerű többségnél pedig a narancssárga pálya nyílhat. A szabadság, a biztonság és a jog érvényesülésének térségében a 76. cikk alapján a küszöb az összes szavazat egynegyede, de ez sem helyettesíti a 81. cikk (3) bekezdésének önálló áttérési zárját."
+        },
+        {
+          "text": "Ha valamely nemzeti parlament az értesítés időpontjától számított hat hónapon belül kifogást emel, a határozat nem fogadható el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, egyetlen nemzeti parlament kifogása elég a meghiúsításhoz. Az EUMSZ 81. cikk (3) bekezdése szerint a második albekezdésben említett javaslatról értesíteni kell a nemzeti parlamenteket; ha valamely nemzeti parlament az értesítés időpontjától számított hat hónapon belül kifogást emel a javaslattal szemben, a határozat nem fogadható el. A 2. jegyzőkönyv 6. cikke ehhez képest nyolc hetet ad indokolt véleményre a szubszidiaritás sérelméről, egyharmados szavazati küszöbbel a 7. cikk szerint. Kifogás hiányában a Tanács a határozatot elfogadhatja."
+        },
+        {
+          "text": "A kifogási határidő nyolc hét, mert a 2. jegyzőkönyv 6. cikke minden nemzeti parlamenti észrevételre ez az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nyolchetes indokolt vélemény határidejét cseréli a családjogi áttérésre. Az EUMSZ 81. cikk (3) bekezdése hat hónapos kifogási határidőt ír elő. A 2. jegyzőkönyv 6. cikkének nyolc hete a szubszidiaritás sérelméről szóló indokolt véleményre vonatkozik. A tévedés a jegyzőkönyvi általános eszközt azonosítja a családjogi külön zárjal."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "5c5d8e99eb9f"
+    },
+    {
+      "question": "Mely állítások igazak a közvetett adók harmonizációjának eljárására és mércéjére?",
+      "options": [
+        {
+          "text": "A harmonizáció csak olyan mértékű lehet, amennyire a belső piac létrehozásához, működéséhez és a verseny torzulásának elkerüléséhez szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mérce arányossági szükségesség. Az EUMSZ 113. cikk a harmonizációt arra a mértékre szűkíti, amennyire az a belső piac létrehozásához, működéséhez, és a verseny torzulásának elkerüléséhez szükséges. Ez az EUSZ 5. cikk (4) bekezdése szerinti arányosság tárgyi megjelenése. A közvetlen adókra a cikk nem nyílik; általános adóharmonizációt sem ad."
+        },
+        {
+          "text": "A Tanács a Parlamenttel, valamint a Gazdasági és Szociális Bizottsággal folytatott konzultációt követően, különleges eljárásban, egyhangúlag fogad el rendelkezéseket a forgalmi, jövedéki és egyéb közvetett adók harmonizálására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetett adók harmonizációja tanácsi döntésű különleges pályán áll. Az EUMSZ 113. cikk szerint a Tanács az Európai Parlamenttel, valamint a Gazdasági és Szociális Bizottsággal folytatott konzultációt követően, különleges jogalkotási eljárás keretében, egyhangúlag rendelkezéseket fogad el. A Parlament közreműködése konzultáció; vétója nincs. Ez a 289. cikk (2) bekezdése szerinti, tanácsi döntésű aszimmetria példája."
+        },
+        {
+          "text": "A közvetett adók harmonizációja rendes eljárásban, minősített többséggel is elfogadható, ha a belső piac úgy kívánja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 113. cikk egyhangú különleges pályáját rendes eljárássá lágyítja. Az EUMSZ 113. cikk különleges jogalkotási eljárást és tanácsi egyhangúságot ír elő. Az EUMSZ 296. cikk harmadik albekezdése szerint a jogalkotó tartózkodik a szerződéses eljárástól eltérő aktus elfogadásától: a 113. cikk pályáját nem lehet rendes eljárással megkerülni. A tévedés a 81. cikk (2) bekezdése szerinti rendes polgári pályát írja rá az adóharmonizációra."
+        },
+        {
+          "text": "A 113. cikk a közvetlen adók — így a társasági adó — teljes harmonizációjára is kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a cikk tárgyi hatályát a közvetlen adókra tágítja. Az EUMSZ 113. cikk a forgalmi adók, a jövedéki adók és a közvetett adók egyéb formái jogszabályainak harmonizációjáról szól. A közvetlen adókra a cikk nem nyílik. A tévedés a „adóharmonizáció” általános címkéjét a szerződési szöveg helyébe állítja."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "0b6e766dcb19"
+    },
+    {
+      "question": "Hogyan választják meg a jogi aktus típusát, ha a Szerződések nem határozzák meg, és milyen indokolási kötelezettség jár ezzel?",
+      "options": [
+        {
+          "text": "A rendelet és az irányelv közül az intézmények szabadon, arányossági kötöttség nélkül választhatnak, ha a Szerződés hallgat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a típusválasztás formai kötöttségét mellőzi. Az EUMSZ 296. cikk első albekezdése a rendelet, irányelv vagy határozat megválasztását az arányossághoz köti. Az EUSZ 5. cikk (4) bekezdése a formai túlterjeszkedést is tiltja a szükséges mértéken túl. A tévedés a rendelet–irányelv választást stilisztikai ízléssé silányítja."
+        },
+        {
+          "text": "A jogalkotó a szerződéses eljárás helyett szabadon fogadhat el nem jogalkotási aktust, ha az gyorsabb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az eljárási fegyelmet feláldozza a sebességnek. Az EUMSZ 296. cikk harmadik albekezdése szerint a jogalkotási aktusok tervezetének mérlegelésekor a Parlament és a Tanács tartózkodik az adott területen alkalmazandó jogalkotási eljárásban előírtaktól eltérő jogi aktusok elfogadásától. A 289. cikk (1)–(2) bekezdése szerinti pálya tehát nem cserélhető le nem jogalkotási aktusra ott, ahol a Szerződés jogalkotási eljárást ír elő. A tévedés a 290–291. cikk szerinti felhatalmazáson alapuló és végrehajtási aktusokat általános menekülőútnak tekinti."
+        },
+        {
+          "text": "Ha a Szerződések nem határozzák meg a típust, az intézmények azt az alkalmazandó eljárásoknak megfelelően, eseti alapon, az arányosság elvével összhangban választják meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a típusválasztás az arányosság formai ágához kötött. Az EUMSZ 296. cikk első albekezdése szerint: „Ha a Szerződések nem határozzák meg, milyen típusú jogi aktust kell elfogadni, a jogi aktus típusát az intézmények az alkalmazandó eljárásoknak megfelelően, eseti alapon maguk választják meg, az arányosság elvével összhangban.” A rendelet, az irányelv vagy a határozat tehát nem stilisztikai döntés, hanem a szükségességhez mért forma. Az EUSZ 5. cikk (4) bekezdése ugyanezt a formai túlterjeszkedési tilalmat mondja ki a hatáskörgyakorlás szintjén."
+        },
+        {
+          "text": "Minden jogi aktusnak indokolást kell tartalmaznia, és utalnia kell a Szerződésekben előírt javaslatra, kezdeményezésre, ajánlásra, kérésre vagy véleményre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az indokolás és az előzményutalás kötelező. Az EUMSZ 296. cikk második albekezdése szerint a jogi aktusoknak indokolást kell tartalmazniuk, és azokban utalni kell minden olyan javaslatra, kezdeményezésre, ajánlásra, kérésre vagy véleményre, amelyet a Szerződések előírnak. A harmadik albekezdés ehhez képest a jogalkotót a saját eljárásához köti: a Parlament és a Tanács tartózkodik az adott területen alkalmazandó jogalkotási eljárásban előírtaktól eltérő jogi aktusok elfogadásától. A felhatalmazáson alapuló, illetve a végrehajtási aktusok azért válnak el, mert nem jogalkotási eljárásban születnek a 289. cikk (3) bekezdése szerint."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "8eae7b579362"
+    },
+    {
+      "question": "Ki írja alá a jogalkotási aktust, és mikor lép hatályba, ha a szöveg nem jelöl meg napot?",
+      "options": [
+        {
+          "text": "Rendes eljárásban a Parlament elnöke és a Tanács elnöke együtt ír alá; különleges eljárásban az elfogadó intézmény elnöke.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az aláírás a közös és az aszimmetrikus elfogadást is megjeleníti. Az EUMSZ 297. cikk (1) bekezdése szerint a rendes jogalkotási eljárás keretében elfogadott jogalkotási aktusokat az Európai Parlament elnöke és a Tanács elnöke írja alá. A különleges jogalkotási eljárás keretében elfogadott jogalkotási aktusokat az azokat elfogadó intézmény elnöke írja alá. A 289. cikk (1) bekezdése szerinti közös elfogadás tehát kettős, a (2) bekezdés szerinti különleges elfogadás egyszeres elnöki aláírást kíván."
+        },
+        {
+          "text": "A jogalkotási aktusokat a Hivatalos Lapban ki kell hirdetni; ha nincs megjelölt nap, a kihirdetést követő huszadik napon lépnek hatályba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kihirdetés kötelező, a huszadik nap a főszabály. Az EUMSZ 297. cikk (1) bekezdése szerint a jogalkotási aktusokat az Európai Unió Hivatalos Lapjában ki kell hirdetni; ezek a bennük megjelölt napon, illetve ennek hiányában a kihirdetésüket követő huszadik napon lépnek hatályba. A (2) bekezdés ugyanezt a huszadik napos főszabályt adja a valamennyi tagállamnak címzett nem jogalkotási rendeletre és irányelvre, valamint a címzetti kör nélküli határozatra. A címzett irányelv és a címzetti kört tartalmazó határozat az értesítéssel lép hatályba."
+        },
+        {
+          "text": "Különleges eljárásban is mindig a Parlament és a Tanács elnöke együtt ír alá, mert minden jogalkotási aktus közös.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kettős aláírást a különleges pályára is kiterjeszti. Az EUMSZ 297. cikk (1) bekezdése szerint a különleges jogalkotási eljárás keretében elfogadott jogalkotási aktusokat az azokat elfogadó intézmény elnöke írja alá. A kettős aláírás a rendes eljárás közös elfogadásához kötődik. A tévedés a 289. cikk (1) bekezdésének társtörvényhozói szerkezetét írja rá a (2) bekezdés aszimmetriájára."
+        },
+        {
+          "text": "A jogalkotási aktus a Tanács belső jegyzőkönyvének elfogadásával hatályba lép, kihirdetés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kihirdetést elhagyja. Az EUMSZ 297. cikk (1) bekezdése szerint a jogalkotási aktusokat a Hivatalos Lapban ki kell hirdetni, és a hatálybalépés a megjelölt naphoz vagy a kihirdetést követő huszadik naphoz kötődik. A belső jegyzőkönyv nem helyettesíti a kihirdetést. A tévedés a nem nyilvános intézményi aktust a jogalkotási aktus hatálybalépési módjával azonosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "fbbe9b339d92"
+    },
+    {
+      "question": "Miben tér el a nem jogalkotási, címzett határozat hatálybalépése a jogalkotási aktus kihirdetéses rendjétől?",
+      "options": [
+        {
+          "text": "Az egyéb irányelvekről és a címzetti kört tartalmazó határozatokról a címzetteket értesíteni kell, és azok az értesítéssel lépnek hatályba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címzett aktusnál az értesítés a hatálybalépés módja. Az EUMSZ 297. cikk (2) bekezdése szerint az egyéb irányelvekről és a címzetti kört tartalmazó határozatokról értesíteni kell a címzettjeiket, és azok az értesítéssel lépnek hatályba. A valamennyi tagállamnak címzett rendeletet és irányelvet, valamint a címzetti kör nélküli határozatot ehhez képest a Hivatalos Lapban kell kihirdetni. A huszadik napos főszabály a kihirdetett aktusokra vonatkozik, nem az értesítéses pályára."
+        },
+        {
+          "text": "A címzett határozat is csak a Hivatalos Lapban való kihirdetést követő huszadik napon léphet hatályba, értesítés nem elegendő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kihirdetéses rendet a címzett aktusra kényszeríti. Az EUMSZ 297. cikk (2) bekezdése szerint a címzetti kört tartalmazó határozatokról értesíteni kell a címzetteket, és azok az értesítéssel lépnek hatályba. A huszadik napos főszabály a kihirdetendő aktusokra vonatkozik. A tévedés a jogalkotási aktus (1) bekezdésbeli rendjét írja rá a címzett nem jogalkotási pályára."
+        },
+        {
+          "text": "A rendelet, irányelv, valamint külön címzetti kört nem tartalmazó határozat formájában elfogadott nem jogalkotási aktusokat az azokat elfogadó intézmény elnöke írja alá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nem jogalkotási aktus aláírása az elfogadó intézményhez kötődik. Az EUMSZ 297. cikk (2) bekezdése szerint a rendelet, irányelv, valamint külön címzetti kört nem tartalmazó határozat formájában elfogadott nem jogalkotási aktusokat az azokat elfogadó intézmény elnöke írja alá. Az EUMSZ 297. cikk (1) bekezdése szerinti kettős elnöki aláírás a rendes jogalkotási aktusokra van szabva. A forma — rendelet vagy irányelv — önmagában nem dönti el a jogalkotási minősítést; azt a 289. cikk (3) bekezdése szerinti eljárás adja."
+        },
+        {
+          "text": "Minden irányelv — címzettől függetlenül — kizárólag az értesítéssel lép hatályba, kihirdetés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az összes irányelvet az értesítéses pályára sorolja. Az EUMSZ 297. cikk (2) bekezdése elválasztja a minden tagállamnak címzett, kihirdetendő irányelvet az egyéb, értesítéssel hatályba lépő irányelvektől. A jogalkotási irányelv az EUMSZ 297. cikk (1) bekezdése szerint szintén kihirdetendő. A tévedés a címzett „egyéb irányelv” szabályát általánosítja minden irányelvre."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "bf88bf08d771"
+    },
+    {
+      "question": "Milyen határidővel küldhet a nemzeti parlament indokolt véleményt a szubszidiaritás sérelméről?",
+      "options": [
+        {
+          "text": "Az indokolt vélemény határideje hat hónap, mint a 81. cikk (3) bekezdése szerinti családjogi kifogásnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a családjogi áttérés határidejét írja rá a szubszidiaritási véleményre. A 2. jegyzőkönyv 6. cikke nyolc hetes határidőt szab a nemzeti parlamenti indokolt véleményre a szubszidiaritás sérelme miatt. Az EUMSZ 81. cikk (3) bekezdésének hat hónapos kifogása a családjogi áttérési határozatra vonatkozik, nem a szubszidiaritás általános ellenőrzésére. A tévedés a két nemzeti parlamenti eszközt azonos határidővel olvassa."
+        },
+        {
+          "text": "A jogalkotási aktus tervezetének az Unió hivatalos nyelvein való továbbításától számított nyolc héten belül küldhető indokolt vélemény.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti parlamentnek nyolc hete van a szubszidiaritási észrevételre. A 2. jegyzőkönyv 6. cikke nyolc hetet ad az Unió hivatalos nyelvein való továbbítástól arra, hogy a nemzeti parlament vagy kamara indokolt véleményt küldjön a szubszidiaritás sérelméről. A regionális parlamentekkel való egyeztetés a nemzeti kamarákra tartozik. A jegyzőkönyv 4. cikke a tervezeteknek a nemzeti parlamentekhez való egyidejű továbbítását írja elő."
+        },
+        {
+          "text": "Indokolt véleményt csak a Régiók Bizottsága küldhet; a nemzeti parlamenteknek nincs ilyen jogosultságuk.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az indokolt vélemény küldésének jogát a Régiók Bizottságára szűkíti. A 2. jegyzőkönyv 6. cikke a nemzeti parlamentnek vagy kamarának adja az indokolt vélemény küldésének jogát a szubszidiaritás sérelméről. Az EUSZ 5. cikk (3) bekezdése szerint a nemzeti parlamentek gondoskodnak a szubszidiaritás tiszteletben tartásáról. A Régiók Bizottsága a 8. cikk szerint keresetet indíthat ott, ahol a Szerződés szerint vele konzultálni kell, de ez nem pótolja a 6. cikk parlamenti véleményét."
+        },
+        {
+          "text": "A nyolc hét az Unió hivatalos nyelvein való továbbítástól számít; a regionális parlamentekkel való egyeztetés a nemzeti kamarákra tartozik, nem külön uniós határidő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határidő kezdőpontja és a címzett a jegyzőkönyvből olvasható. A 2. jegyzőkönyv 6. cikke a nyolc hetet az Unió hivatalos nyelvein való továbbítástól méri, és a nemzeti parlamentnek vagy kamarának adja az indokolt vélemény küldésének jogát. A regionális parlamentekkel való egyeztetés a nemzeti kamarákra tartozik, tehát nem nyit önálló uniós határidőt. A 4. cikk a tervezeteknek a nemzeti parlamentekhez való egyidejű továbbítását írja elő, ami a nyolchetes számítás előfeltétele."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "0c3ec87f7f0f"
+    },
+    {
+      "question": "Mi következik abból, ha az indokolt vélemények a nemzeti parlamenti szavazatok legalább egyharmadát képviselik?",
+      "options": [
+        {
+          "text": "Egyetlen nemzeti parlament indokolt véleménye automatikusan meghiúsítja a tervezetet, mint a 81. cikk (3) bekezdése szerinti családjogi kifogás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a családjogi egyedi vétót írja rá a sárga kártyára. A 2. jegyzőkönyv 7. cikke egyharmados — a szabadság, biztonság és jog érvényesülésének térségében egynegyedes — szavazati küszöbhöz köti a felülvizsgálatot. Az EUMSZ 81. cikk (3) bekezdésének egy parlamenti kifogása csak a családjogi áttérési határozatra vonatkozik. A tévedés a két eszközt azonos joghatással olvassa."
+        },
+        {
+          "text": "Minden nemzeti parlamentnek két szavazata van; a szabadság, a biztonság és a jog érvényesülésének térségében a 76. cikk alapján a felülvizsgálati küszöb az összes szavazat egynegyede.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a sárga kártya szavazatsúly- és küszöbrendszere a 7. cikkből olvasható. A 2. jegyzőkönyv 7. cikke szerint minden nemzeti parlamentnek — a nemzeti rendszernek megfelelően elosztva — két szavazata van, kétkamarás parlamentnél kamaránként egy. A főszabály szerinti egyharmados küszöb mellett a 76. cikk alapján a szabadság, a biztonság és a jog érvényesülésének térségében a küszöb az összes szavazat egynegyede. A felülvizsgálat után a kezdeményező fenntarthatja, módosíthatja vagy visszavonhatja a tervezetet, a döntést indokolva."
+        },
+        {
+          "text": "A sárga kártya után a Bíróság automatikusan megsemmisíti a tervezetet, külön kereset nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a politikai felülvizsgálatot bírósági automatizmussá torzítja. A 2. jegyzőkönyv 7. cikke a kezdeményező felülvizsgálati kötelezettségét és a rendes eljárásban a tárgyalás megszüntetésének lehetőségét adja, nem automatikus megsemmisítést. A 8. cikk a Bíróságnak hatáskört ad a szubszidiaritást sértő jogalkotási aktus megtámadására az EUMSZ 263. cikk szerinti keresettel. A tévedés a 7. és a 8. cikk jogkövetkezményeit cseréli fel."
+        },
+        {
+          "text": "Ha az indokolt vélemények a szavazatok legalább egyharmadát képviselik, a tervezetet felül kell vizsgálni; a kezdeményező fenntarthatja, módosíthatja vagy visszavonhatja, a döntést indokolni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a sárga kártya. A 2. jegyzőkönyv 7. cikke szerint, ha az indokolt vélemények a szavazatok legalább egyharmadát képviselik, a tervezetet felül kell vizsgálni. A szabadság, a biztonság és a jog érvényesülésének térségében a 76. cikk alapján a küszöb az összes szavazat egynegyede. A kezdeményező a tervezetet fenntarthatja, módosíthatja vagy visszavonhatja, és a döntést indokolni kell. Minden nemzeti parlamentnek — a nemzeti rendszernek megfelelően elosztva — két szavazata van."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "635ce3efab3d"
+    },
+    {
+      "question": "Mely esetben indíthat a Régiók Bizottsága keresetet a szubszidiaritás sérelme miatt?",
+      "options": [
+        {
+          "text": "A Régiók Bizottsága azoknál a jogalkotási aktusoknál indíthat keresetet, amelyeknél a Szerződés szerint vele konzultálni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Régiók Bizottságának kereseti joga a konzultációs kötelezettséghez kötött. A 2. jegyzőkönyv 8. cikke szerint a Régiók Bizottsága azoknál a jogalkotási aktusoknál indíthat keresetet, amelyeknél a Szerződés szerint vele konzultálni kell. A kereset a szubszidiaritást sértő jogalkotási aktus megtámadására az EUMSZ 263. cikk szerinti eljárásban nyílik. A nemzeti parlamentekhez képest ez szűkebb, tárgyi feltételhez kötött jogosultság."
+        },
+        {
+          "text": "Szubszidiaritási keresetet csak a Bizottság indíthat; a nemzeti parlamentek és a Régiók Bizottsága kizárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a szubszidiaritási kereset jogosultjait a Bizottságra szűkíti. A 2. jegyzőkönyv 8. cikke a tagállami továbbítást a nemzeti parlament vagy kamara nevében, valamint a Régiók Bizottságának meghatározott keresetét is elismeri az EUMSZ 263. cikk keretében. A Bizottság általános szerepe nem zárja ki ezeket a speciális utakat. A tévedés a 263. cikk általános legitimációját egyedüli úttá szűkíti."
+        },
+        {
+          "text": "A Régiók Bizottsága bármely jogalkotási aktus ellen indíthat szubszidiaritási keresetet, konzultációs klauzula nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kereseti jogot általánosítja. A 2. jegyzőkönyv 8. cikke a Régiók Bizottságának keresetét azokra a jogalkotási aktusokra szűkíti, amelyeknél a Szerződés szerint vele konzultálni kell. Konzultációs kötelezettség hiányában ez a speciális kereseti jog nem nyílik. A tévedés a nemzeti parlamenti továbbítási lehetőséget írja rá a Régiók Bizottságára."
+        },
+        {
+          "text": "A tagállam a saját jogrendje szerint a nemzeti parlament vagy kamara nevében is továbbíthatja a 263. cikk szerinti keresetet a szubszidiaritás sérelme miatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti parlamenti kereset közvetett útja szerződési szintű. A 2. jegyzőkönyv 8. cikke szerint a Bíróságnak hatásköre van a szubszidiaritást sértő jogalkotási aktus megtámadására az EUMSZ 263. cikk szerinti keresettel, amelyet a tagállam saját jogrendje szerint a nemzeti parlament vagy kamara nevében is továbbíthat. A 7. cikk szerinti kártyák politikai szakasz; a 8. cikk a bírósági szakasz. A két út egymást nem helyettesíti."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "af19d0a13b17"
+    },
+    {
+      "question": "A Bizottság javaslatának második olvasati védelme mely szabályon keresztül kapcsolódik a parlamenti módosításokhoz?",
+      "options": [
+        {
+          "text": "Ha a Tanács nem fogadja el valamennyi parlamenti módosítást, elnöke a Parlament elnökével egyetértésben hat héten belül összehívja az egyeztetőbizottságot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a részleges egyetértés egyeztetéshez vezet. Az EUMSZ 294. cikk (8) bekezdés b) pontja szerint, ha a Tanács a parlamenti módosítások kézhezvételétől számított három hónapon belül nem fogadja el valamennyi módosítást, a Tanács elnöke az Európai Parlament elnökével egyetértésben hat héten belül összehívja az egyeztetőbizottságot. A (8) bekezdés a) pontja ehhez képest azt a pályát adja, amikor a Tanács valamennyi módosítással egyetért, és az aktus elfogadott. A három hónapos határidő a (14) bekezdés szerint legfeljebb egy hónappal meghosszabbítható."
+        },
+        {
+          "text": "A második olvasatban a Tanács azoknál a parlamenti módosításoknál, amelyekről a Bizottság elutasító véleményt adott, egyhangúlag dönt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a javaslatzár a parlamenti módosításokra is kiterjed. Az EUMSZ 294. cikk (9) bekezdése szerint a Tanács egyhangúlag dönt azokról a módosításokról, amelyekről a Bizottság elutasító véleményt adott. A (8) bekezdés főszabálya szerint a Tanács minősített többséggel dönt a módosításokról; a Bizottság elutasító véleménye emeli a küszöböt egyhangúságra. Ez a 293. cikk (1) bekezdése szerinti javaslatzár eljárási folytatása a második olvasatban."
+        },
+        {
+          "text": "Parlamenti módosítás után az egyeztetőbizottság összehívása kötelező, akkor is, ha a Tanács minden módosítással egyetért.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az egyeztetést automatikussá teszi. Az EUMSZ 294. cikk (8) bekezdés a) pontja szerint, ha a Tanács valamennyi módosítással egyetért, a javasolt jogi aktust elfogadottnak kell tekinteni. Az egyeztetőbizottság a b) pont szerint akkor nyílik, ha nem fogadja el valamennyi módosítást. A tévedés a (10) bekezdés egyeztetési szakaszát kötelező közbülső lépéssé emeli."
+        },
+        {
+          "text": "A Bizottság elutasító véleménye ellenére a Tanács minősített többséggel mindig átviheti a parlamenti módosítást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az egyhangúsági küszöböt minősített többséggé lazítja. Az EUMSZ 294. cikk (9) bekezdése szerint a Bizottság által ellenzett módosításoknál a Tanács egyhangúlag dönt. A (8) bekezdés minősített többsége a Bizottság által nem ellenzett módosításokra vonatkozik. A tévedés a 293. cikk (1) bekezdése szerinti javaslatzár második olvasati folytatását figyelmen kívül hagyja."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "e46a0b8f8b10"
+    },
+    {
+      "question": "Mikor nem alkalmazható a 294. cikk (2) bekezdése, a (6) bekezdés második mondata és a (9) bekezdése a rendes eljárásban?",
+      "options": [
+        {
+          "text": "Ilyen esetben az Európai Parlament vagy a Tanács kikérheti a Bizottság véleményét, amely véleményt a Bizottság saját kezdeményezésére is kiadhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság szerepe véleményezővé és szükség szerinti egyeztetési résztvevővé válik. Az EUMSZ 294. cikk (15) bekezdése szerint az eljárás folyamán az Európai Parlament vagy a Tanács kikérheti a Bizottság véleményét, amely véleményt a Bizottság saját kezdeményezésére is kiadhat. A Bizottság, amennyiben szükségesnek ítéli, a (11) bekezdésnek megfelelően részt vehet az egyeztetőbizottságban is. A kieső (9) bekezdés miatt nincs automatikus egyhangúság a Bizottság által ellenzett parlamenti módosításoknál."
+        },
+        {
+          "text": "Nem bizottsági kezdeményezésnél a (9) bekezdés egyhangúsága változatlanul érvényesül a parlamenti módosításokra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a (9) bekezdést hatályban tartja. Az EUMSZ 294. cikk (15) bekezdése szerint a (9) bekezdés nem alkalmazható ezekben az esetekben. A Bizottság elutasító véleményéhez kötött egyhangúság tehát kiesik. A tévedés a 293. cikk (1) bekezdése és a 294. cikk (9) bekezdése szerinti javaslatzárat általánosítja a nem bizottsági pályára."
+        },
+        {
+          "text": "A (15) bekezdés szerinti pályán is kötelező a Bizottság javaslata, különben az eljárás érvénytelen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a bizottsági javaslatot visszacsempészi oda, ahonnan a (15) bekezdés kiveszi. Az EUMSZ 294. cikk (15) bekezdése kifejezetten kizárja a (2) bekezdést, amely a Bizottság javaslatának terjesztését írja elő. Az EUMSZ 289. cikk (4) bekezdése a tagállami, parlamenti, EKB-, bírósági vagy EBB-kezdeményezést ismeri el. A tévedés a 289. cikk (1) bekezdésének főszabályát kivétel nélküli követelményként olvassa."
+        },
+        {
+          "text": "Ha a jogalkotási aktust tagállami csoport kezdeményezésére, az EKB ajánlása vagy a Bíróság kérelme alapján kell a rendes eljárás keretében elfogadni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nem bizottsági kezdeményezés módosítja a rendes eljárás egyes szakaszait. Az EUMSZ 294. cikk (15) bekezdése szerint, ha a Szerződésekben meghatározott esetekben valamely jogalkotási aktust a tagállamok egy csoportjának kezdeményezésére, az Európai Központi Bank ajánlása alapján, illetve a Bíróság kérelme alapján kell a rendes jogalkotási eljárás keretében elfogadni, a (2) bekezdés, a (6) bekezdés második mondata és a (9) bekezdés nem alkalmazható. Az EUMSZ 289. cikk (4) bekezdése e kezdeményezési kivételeket sorolja fel. A két intézmény álláspontját a Bizottságnak továbbítani kell."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "fcc816c787ff"
+    },
+    {
+      "question": "Egy uniós polgár a tartózkodási tagállamban helyhatósági választójogot igényel. Mely megállapítások állják meg a helyüket az eljárási keretről?",
+      "options": [
+        {
+          "text": "A helyhatósági választójog részletszabályaihoz a Parlament egyetértése és tagállami alkotmányos jóváhagyás is kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a polgári jogkatalógus bővítésének zárjait írja rá a választójogi részletszabályokra. Az EUMSZ 22. cikk (1) bekezdése konzultációt és egyhangú tanácsi határozatot kíván, nem parlamenti egyetértést és nem tagállami ratifikációt. A 20. cikk (2) bekezdésében felsorolt jogok megerősítése az EUMSZ 25. cikk szerint egyetértést, egyhangúságot és alkotmányos jóváhagyást kíván. A tévedés a 25. cikk háromzárú pályáját cseréli a 22. cikk konzultációs pályájára."
+        },
+        {
+          "text": "A részletes szabályokat a Tanács a Parlamenttel folytatott konzultációt követően, különleges eljárásban, egyhangú határozattal fogadja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartózkodási állambeli helyhatósági választójog részletszabályai tanácsi egyhangúsághoz kötöttek. Az EUMSZ 22. cikk (1) bekezdése szerint e jog gyakorlásának részletes szabályait a Tanács az Európai Parlamenttel folytatott konzultációt követően, különleges jogalkotási eljárás keretében, egyhangú határozattal fogadja el. A polgár alanyi joga a saját állampolgárokkal azonos feltételekhez kötött választójog és választhatóság. A döntés a Tanácsé; a Parlament konzultációs közreműködőként vesz részt."
+        },
+        {
+          "text": "A szabályok eltérést állapíthatnak meg, ha a tagállam sajátos problémái ezt indokolják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti sajátosság miatti eltérés szerződésileg nyitott. Az EUMSZ 22. cikk (1) bekezdése szerint a részletes szabályok eltérést állapíthatnak meg, amennyiben valamely tagállam sajátos problémái ezt indokolják. Ez az EUSZ 5. cikk (4) bekezdése szerinti arányosság nemzeti oldala, nem a szubszidiaritás „jobban megvalósítható” tesztje. Az eltérés indokoltsága a sajátos problémához kötött, nem szabad diszkréció."
+        },
+        {
+          "text": "A részletszabályokat a Parlament és a Tanács közös elfogadással, rendes eljárásban alkotja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 22. cikk választójogi pályáját a 289. cikk (1) bekezdése szerinti közös elfogadássá alakítja. Az EUMSZ 22. cikk (1) bekezdése különleges jogalkotási eljárást, tanácsi egyhangúságot és parlamenti konzultációt ír elő. A különleges pálya aszimmetriája szerint a döntés a Tanácsé, a Parlament csak közreműködik. A tévedés a 81. cikk (2) bekezdése szerinti rendes polgári pályát cseréli ide."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "b234212cc732"
+    },
+    {
+      "question": "Mely állítások tévesek a rendeleti és irányelvi forma, valamint a jogalkotási minősítés viszonyáról?",
+      "options": [
+        {
+          "text": "Ha a Szerződés hallgat a típusról, a rendelet vagy irányelv választása szabad ízlés, arányossági kötöttség nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a típusválasztást ízlésbeli kérdéssé silányítja. Az EUMSZ 296. cikk első albekezdése szerint, ha a Szerződések nem határozzák meg a típust, az intézmények azt az arányosság elvével összhangban, eseti alapon választják meg. Az EUSZ 5. cikk (4) bekezdése a tartalmi mellett a formai túlterjeszkedést is tiltja. A helyes: a rendelet–irányelv választás a szükségességhez mért forma."
+        },
+        {
+          "text": "A 296. cikk harmadik albekezdése megengedi, hogy a jogalkotó a szerződéses eljárás helyett gyorsabb nem jogalkotási aktust válasszon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az eljárási fegyelmet menekülőúttá fordítja. Az EUMSZ 296. cikk harmadik albekezdése szerint a Parlament és a Tanács tartózkodik az adott területen alkalmazandó jogalkotási eljárásban előírtaktól eltérő jogi aktusok elfogadásától. A 289. cikk szerinti pálya tehát nem cserélhető le nem jogalkotási aktusra ott, ahol a Szerződés jogalkotási eljárást ír elő. A helyes: a szerződéses eljárás kógens, a gyorsaság nem indok az eltérésre."
+        },
+        {
+          "text": "Jogalkotási aktusnak csak a „rendelet” című aktus minősül; az irányelv mindig nem jogalkotási aktus.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a rendelet címét a jogalkotási minősítés egyedüli ismérvévé emeli. Az EUMSZ 289. cikk (3) bekezdése szerint a jogalkotási eljárás keretében elfogadott jogi aktusok jogalkotási aktusoknak minősülnek. Rendelet, irányelv és határozat egyaránt lehet jogalkotási aktus a 289. cikk (1)–(2) bekezdése szerinti pályákon. A helyes: a jogalkotási jelleg az eljárásból következik, nem a „rendelet” megjelölésből."
+        },
+        {
+          "text": "A valamennyi tagállamnak címzett irányelv is kizárólag az értesítéssel lép hatályba, kihirdetés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kihirdetéses irányelvet az értesítéses pályára sorolja. Az EUMSZ 297. cikk (2) bekezdése a valamennyi tagállamnak címzett irányelveket a Hivatalos Lapbeli kihirdetéshez köti, míg az egyéb irányelvekről a címzetteket kell értesíteni. A jogalkotási irányelv az EUMSZ 297. cikk (1) bekezdése szerint szintén kihirdetendő. A helyes: a minden tagállamnak címzett irányelv kihirdetéses pályán áll."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "088a8ae96924"
+    },
+    {
+      "question": "Mely állítások tévesek a szubszidiaritás nemzeti parlamenti ellenőrzéséről?",
+      "options": [
+        {
+          "text": "Az indokolt vélemény határideje hat hónap, mert minden nemzeti parlamenti eszközre ez az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás két különböző nemzeti parlamenti határidőt egybeolvaszt. A 2. jegyzőkönyv 6. cikke nyolc hetet biztosít a szubszidiaritás sérelméről szóló indokolt vélemény elküldésére. Az EUMSZ 81. cikk (3) bekezdésének hat hónapja kizárólag a családjogi áttérési javaslat kifogására vonatkozik. A helyes: a szubszidiaritási vélemény nyolchetes, a családjogi áttéréses kifogás hat hónapos."
+        },
+        {
+          "text": "Egyetlen nemzeti parlament indokolt véleménye automatikusan meghiúsítja a jogalkotási tervezetet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a politikai felülvizsgálatot egyedi vétóvá torzítja. A 2. jegyzőkönyv 7. cikke egyharmados — a szabadság, biztonság és jog érvényesülésének térségében egynegyedes — szavazati küszöbhöz köti a tervezet felülvizsgálatát. A családjogi áttérésnél az EUMSZ 81. cikk (3) bekezdése egyetlen parlament hat hónapos kifogását ismeri el, de az más jogintézmény. A helyes: a sárga kártya küszöbhöz kötött felülvizsgálat, nem automatikus meghiúsítás."
+        },
+        {
+          "text": "A szubszidiaritás a kizárólagos uniós hatáskörökben is kötelező szintválasztási teszt a nemzeti parlamentek előtt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a gyakorlási elvet az elhatárolás utáni kizárólagos mezőre is kinyitja. Az EUSZ 5. cikk (3) bekezdése a szubszidiaritást azokra a területekre szűkíti, amelyek nem tartoznak kizárólagos hatáskörbe. Kizárólagos hatáskörben nincs helye a „jobban megvalósítható” szinttesztnek, mert a hatáskör-átruházás már kijelölte a szintet. A helyes: a nemzeti parlamenti ellenőrzés a nem kizárólagos hatáskörökhöz kapcsolódik."
+        },
+        {
+          "text": "A narancssárga kártya után a Bíróság kereset nélkül, hivatalból megsemmisíti a javaslatot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a tárgyalás megszüntetését bírósági automatizmussá torzítja. A 2. jegyzőkönyv 7. cikke szerint, ha a Tanács tagjainak 55 százalékát kitevő többség vagy a Parlamentben leadott szavazatok többsége szerint a javaslat nem összeegyeztethető a szubszidiaritással, a továbbiakban nem tárgyalható. A 8. cikk a 263. cikk szerinti keresetet ad, nem hivatalbóli megsemmisítést. A helyes: a narancssárga kártya politikai szakasz; a bírósági út külön keresethez kötött."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "58deef4df78d"
+    },
+    {
+      "question": "Milyen tartamban hosszabbítható meg a rendes eljárás három hónapos, illetve hathetes határideje?",
+      "options": [
+        {
+          "text": "A három hónapos határidő legfeljebb egy hónappal, a hathetes határidő legfeljebb két héttel meghosszabbítható a Parlament vagy a Tanács kezdeményezésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a meghosszabbítás mértéke a határidő típusához kötött. Az EUMSZ 294. cikk (14) bekezdése szerint az e cikkben említett három hónapos, illetve hathetes határidő az Európai Parlament vagy a Tanács kezdeményezésére legfeljebb egy hónappal, illetve két héttel meghosszabbodik. A második olvasat három hónapos szakasza tehát legfeljebb négy hónapra nőhet. Az egyeztetési és harmadik olvasati hat hét legfeljebb nyolc hétre nyúlhat."
+        },
+        {
+          "text": "A hathetes egyeztetési határidő legfeljebb három hónappal meghosszabbítható, a második olvasati határidővel azonos mértékben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a két határidő meghosszabbítási mértékét összecseréli. Az EUMSZ 294. cikk (14) bekezdése a hathetes határidőhöz legfeljebb két hetet, a három hónaposhoz legfeljebb egy hónapot rendel. A hat hét tehát nem három hónappal nő. A tévedés a második olvasati és az egyeztetési sáv meghosszabbítását azonosnak olvassa."
+        },
+        {
+          "text": "A meghosszabbítást a Parlament vagy a Tanács kezdeményezheti; a Bizottság önállóan nem hosszabbítja meg ezeket a határidőket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kezdeményezés a két jogalkotó intézményé. Az EUMSZ 294. cikk (14) bekezdése a meghosszabbítást az Európai Parlament vagy a Tanács kezdeményezéséhez köti. A Bizottság a (11) bekezdés szerint az egyeztetőbizottságban közelít, de a (14) bekezdés határidő-hosszabbítási jogát nem kapja meg. A három hónapos és a hathetes sávok így a társtörvényhozók eljárásvezetéséhez igazodnak."
+        },
+        {
+          "text": "A három hónapos határidő a Bizottság indítványára korlátlanul meghosszabbítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a hosszabbítás alanyát és mértékét is elrontja. Az EUMSZ 294. cikk (14) bekezdése szerint a három hónapos határidő legfeljebb egy hónappal hosszabbítható, és a kezdeményező a Parlament vagy a Tanács. A Bizottság nem kap önálló, korlátlan hosszabbítási jogot. A tévedés a 293. cikk (2) bekezdése szerinti javaslatmódosítási rugalmasságot írja rá a határidőkre."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "1843decbb3cb"
+    }
+  ]
+}

@@ -1,0 +1,782 @@
+{
+  "kategoria": "C/2 Az Európai Unió joga",
+  "forras": "jogedu question_banks questions",
+  "bank": 86,
+  "kerdes": 3025,
+  "items": [
+    {
+      "file": "kviz/01/kerdes_jgp7QzuxHulbEcziutzL.json",
+      "sorszam": 1,
+      "id": "jgp7QzuxHulbEcziutzL",
+      "generationType": "kerdes",
+      "title": "1. Az Európai Unió alapszerződései. (Milyen jelentős intézményi (...)",
+      "questions": 40,
+      "sha256": "802edfd3f310bfb8a249deffc0291e7300beb6175962c59f17607b7187ee97c7"
+    },
+    {
+      "file": "kviz/01/fogalom_ofzHGaMt8hFme3yUAPpz.json",
+      "sorszam": 1,
+      "id": "ofzHGaMt8hFme3yUAPpz",
+      "generationType": "fogalom",
+      "title": "1. Az Európai Unió alapszerződései. (Milyen jelentős intézményi (...)",
+      "questions": 26,
+      "sha256": "f862046e0a276d7892abaa000374bbc7e43365eb485a5ca21d841a8b32be5916"
+    },
+    {
+      "file": "kviz/02/kerdes_2vM3WX9FaRYNZDqAWLdH.json",
+      "sorszam": 2,
+      "id": "2vM3WX9FaRYNZDqAWLdH",
+      "generationType": "kerdes",
+      "title": "2. Az Európai Unió intézményei, főbb hatásköreik és egymáshoz való viszonyuk",
+      "questions": 46,
+      "sha256": "e70e07dd0631ff2bcafaf86dc4324227126aeda2a5632ef0974e14cc346bee76"
+    },
+    {
+      "file": "kviz/02/fogalom_O9n2O89aFAoJDOOEbHcg.json",
+      "sorszam": 2,
+      "id": "O9n2O89aFAoJDOOEbHcg",
+      "generationType": "fogalom",
+      "title": "2. Az Európai Unió intézményei, főbb hatásköreik és egymáshoz való viszonyuk",
+      "questions": 28,
+      "sha256": "0b24adb4641699020fbf3b4dba3ee64a6763a5388e94c383fc6a45b72c5e2d86"
+    },
+    {
+      "file": "kviz/03/kerdes_Dze8kAffkG6ryMz6EwBc.json",
+      "sorszam": 3,
+      "id": "Dze8kAffkG6ryMz6EwBc",
+      "generationType": "kerdes",
+      "title": "3. Az Európai Bizottság összetétele, működése és hatáskörei",
+      "questions": 46,
+      "sha256": "300ec4423f4b864e3e342fa8012fd411f5298e7a06baefca2cb91625ddd15865"
+    },
+    {
+      "file": "kviz/03/fogalom_O1q2hy5qYD2ZFVhWAGhr.json",
+      "sorszam": 3,
+      "id": "O1q2hy5qYD2ZFVhWAGhr",
+      "generationType": "fogalom",
+      "title": "3. Az Európai Bizottság összetétele, működése és hatáskörei",
+      "questions": 28,
+      "sha256": "39d56817a6ab0e6aaba02c521118aed6502516dcdcbcb6a1bc7d3aaf0861a850"
+    },
+    {
+      "file": "kviz/04/kerdes_J7EweWIv6wAaDEMNx3oc.json",
+      "sorszam": 4,
+      "id": "J7EweWIv6wAaDEMNx3oc",
+      "generationType": "kerdes",
+      "title": "4. Az Európai Unió Tanácsának összetétele, működése és hatáskörei. Az (...)",
+      "questions": 46,
+      "sha256": "8d412fe95fb4c67d7fc398b495f944b0179feae1c401a326ee5501de08fff901"
+    },
+    {
+      "file": "kviz/04/fogalom_SHqLkrhxr5rijKJdYsLe.json",
+      "sorszam": 4,
+      "id": "SHqLkrhxr5rijKJdYsLe",
+      "generationType": "fogalom",
+      "title": "4. Az Európai Unió Tanácsának összetétele, működése és hatáskörei. Az (...)",
+      "questions": 28,
+      "sha256": "6b4a13072c4e6b554a661dd275aa86f1cc6980279a2ce5793cb9da91dd968acc"
+    },
+    {
+      "file": "kviz/05/fogalom_3jZwPEpUhYVsklb09fB1.json",
+      "sorszam": 5,
+      "id": "3jZwPEpUhYVsklb09fB1",
+      "generationType": "fogalom",
+      "title": "5. Az Európai Parlament összetétele, tagjainak választása, működése és (...)",
+      "questions": 27,
+      "sha256": "51eb9f8fa1a3c235aecd94e0dab8efbb3902c75c6ae9f6ee8b188f64f5a03b42"
+    },
+    {
+      "file": "kviz/05/kerdes_Ha4JW3nwjZIb2VLLGeqf.json",
+      "sorszam": 5,
+      "id": "Ha4JW3nwjZIb2VLLGeqf",
+      "generationType": "kerdes",
+      "title": "5. Az Európai Parlament összetétele, tagjainak választása, működése és (...)",
+      "questions": 43,
+      "sha256": "66e9c199a6e3adfdfd0d8c0f129938b2b307346cf9166aa8c0d9317128b10630"
+    },
+    {
+      "file": "kviz/06/kerdes_IMf3fL8jhjuxxA112osc.json",
+      "sorszam": 6,
+      "id": "IMf3fL8jhjuxxA112osc",
+      "generationType": "kerdes",
+      "title": "6. Az Európai Unió Bíróságának felépítése és működése",
+      "questions": 46,
+      "sha256": "3df64fa06cc03a99d784ce83f671da71bb1372f15c3c11b1099889f2276c0002"
+    },
+    {
+      "file": "kviz/06/fogalom_Kz36DA4E891JqrWSX7EV.json",
+      "sorszam": 6,
+      "id": "Kz36DA4E891JqrWSX7EV",
+      "generationType": "fogalom",
+      "title": "6. Az Európai Unió Bíróságának felépítése és működése",
+      "questions": 28,
+      "sha256": "626371efce29e92577c1b43a67c0e07b8cdcde7db0ef039bf02180ce900f7696"
+    },
+    {
+      "file": "kviz/07/fogalom_dsx0QGQKkk0w0zy7HV56.json",
+      "sorszam": 7,
+      "id": "dsx0QGQKkk0w0zy7HV56",
+      "generationType": "fogalom",
+      "title": "7. Az Európai Ombudsman és a petíciós jog; az Európai Adatvédelmi Biztos",
+      "questions": 28,
+      "sha256": "486ef15caced3ad05b26caa87849199a4cc45ee7a2ed39a056189f242616efb7"
+    },
+    {
+      "file": "kviz/07/kerdes_eRrGpbcP7CVgAeYpCbdw.json",
+      "sorszam": 7,
+      "id": "eRrGpbcP7CVgAeYpCbdw",
+      "generationType": "kerdes",
+      "title": "7. Az Európai Ombudsman és a petíciós jog; az Európai Adatvédelmi Biztos",
+      "questions": 46,
+      "sha256": "721137f70be0ad8ae7552c5959ce086893e45067d8648b28b55edcc96a9e149c"
+    },
+    {
+      "file": "kviz/08/kerdes_jDaVG2tJQL0MdrkoVQre.json",
+      "sorszam": 8,
+      "id": "jDaVG2tJQL0MdrkoVQre",
+      "generationType": "kerdes",
+      "title": "8. Az Európai Unió hatáskörei. A hatáskör-átruházás elve; az Alaptörvény (...)",
+      "questions": 46,
+      "sha256": "40a4a82611085b45415d85dda831a1584bbf590d469e643ce36fbfaffedb4f40"
+    },
+    {
+      "file": "kviz/08/fogalom_qph1PBUdvR4GS5r4rmLv.json",
+      "sorszam": 8,
+      "id": "qph1PBUdvR4GS5r4rmLv",
+      "generationType": "fogalom",
+      "title": "8. Az Európai Unió hatáskörei. A hatáskör-átruházás elve; az Alaptörvény (...)",
+      "questions": 28,
+      "sha256": "2ffbd8cfcd97d7648982a4b8bfc632a05e4caf48b46578a5ee591f92c5bf370a"
+    },
+    {
+      "file": "kviz/09/kerdes_14uffS3FyLnZKLOH39wq.json",
+      "sorszam": 9,
+      "id": "14uffS3FyLnZKLOH39wq",
+      "generationType": "kerdes",
+      "title": "9. Jogalkotási eljárás az Európai Unióban; a rendes jogalkotási eljárás és (...)",
+      "questions": 46,
+      "sha256": "5e000734b5f671febc29029bfd1abdaf8f08f10f86f9e307b7f98dec18a1bfd2"
+    },
+    {
+      "file": "kviz/09/fogalom_nmZNARarnYmRWkoo2agb.json",
+      "sorszam": 9,
+      "id": "nmZNARarnYmRWkoo2agb",
+      "generationType": "fogalom",
+      "title": "9. Jogalkotási eljárás az Európai Unióban; a rendes jogalkotási eljárás és (...)",
+      "questions": 28,
+      "sha256": "6d276c3fe396bd59d2d287ce755a193e9307ba2bbc2520382786cb138ebffabd"
+    },
+    {
+      "file": "kviz/10/fogalom_9kmWZxqF5vWMwjLjpE8K.json",
+      "sorszam": 10,
+      "id": "9kmWZxqF5vWMwjLjpE8K",
+      "generationType": "fogalom",
+      "title": "10. A nemzeti parlamentek szerepe az uniós jogalkotási eljárásban",
+      "questions": 28,
+      "sha256": "beecce45fc09c4ea32393722a312c42d0d3d953e757c714b2f2bae5a5ae5b335"
+    },
+    {
+      "file": "kviz/10/kerdes_rA4lDPuBKc29KbfszU7R.json",
+      "sorszam": 10,
+      "id": "rA4lDPuBKc29KbfszU7R",
+      "generationType": "kerdes",
+      "title": "10. A nemzeti parlamentek szerepe az uniós jogalkotási eljárásban",
+      "questions": 46,
+      "sha256": "3b157e42cc3899cd5d8e6db4b4afd0de09a80a3cb24b43f7f7c8abee7d5f81fe"
+    },
+    {
+      "file": "kviz/11/kerdes_5ocFpcwe8eOy8nxH1TXC.json",
+      "sorszam": 11,
+      "id": "5ocFpcwe8eOy8nxH1TXC",
+      "generationType": "kerdes",
+      "title": "11. Az Európai Unió elsődleges jogforrásai",
+      "questions": 38,
+      "sha256": "9b88c68cc718a3e720ed6898a56489ea2f9ee4dacfc54742608e2c7d143826ca"
+    },
+    {
+      "file": "kviz/11/fogalom_R4VuGZc4vhDsthbnGGKu.json",
+      "sorszam": 11,
+      "id": "R4VuGZc4vhDsthbnGGKu",
+      "generationType": "fogalom",
+      "title": "11. Az Európai Unió elsődleges jogforrásai",
+      "questions": 25,
+      "sha256": "5db702a7dd70cbaf8f3a57f4dedb4c036609c1bec601ee8592247d0ba01e0610"
+    },
+    {
+      "file": "kviz/12/kerdes_k9PVlgTgQo3hnHuQ03C9.json",
+      "sorszam": 12,
+      "id": "k9PVlgTgQo3hnHuQ03C9",
+      "generationType": "kerdes",
+      "title": "12. Az Európai Unió mint a nemzetközi jog alanya; az Európai Unió által (...)",
+      "questions": 46,
+      "sha256": "aeb2479e368dbac8b7a492422e384a660049273a5b5595db36764fe8a6e999c8"
+    },
+    {
+      "file": "kviz/12/fogalom_ywazvzxVVyJRslL0sHZ4.json",
+      "sorszam": 12,
+      "id": "ywazvzxVVyJRslL0sHZ4",
+      "generationType": "fogalom",
+      "title": "12. Az Európai Unió mint a nemzetközi jog alanya; az Európai Unió által (...)",
+      "questions": 28,
+      "sha256": "a8898aeb4af863ce9ecc07f938642a69f6a77e84a4a71500ba2a1878021fc4af"
+    },
+    {
+      "file": "kviz/13/fogalom_rJe3T79267qNDFgHqRTs.json",
+      "sorszam": 13,
+      "id": "rJe3T79267qNDFgHqRTs",
+      "generationType": "fogalom",
+      "title": "13. A rendelet joghatásai, jellemzői és viszonya a nemzeti joghoz; a (...)",
+      "questions": 24,
+      "sha256": "fba6c877f78789f6c5072c272e22b62c7587ccd88311a17984b9edd930f05af4"
+    },
+    {
+      "file": "kviz/13/kerdes_x5tzjMEsYZZQxfUO79XM.json",
+      "sorszam": 13,
+      "id": "x5tzjMEsYZZQxfUO79XM",
+      "generationType": "kerdes",
+      "title": "13. A rendelet joghatásai, jellemzői és viszonya a nemzeti joghoz; a (...)",
+      "questions": 38,
+      "sha256": "39659dc91e5029c21c7d181558bb14044143b1228ca370918ce81bb10c9df385"
+    },
+    {
+      "file": "kviz/14/kerdes_0kWy7lSSbuVwTwpmUPrY.json",
+      "sorszam": 14,
+      "id": "0kWy7lSSbuVwTwpmUPrY",
+      "generationType": "kerdes",
+      "title": "14. Az irányelv joghatásai, jellemzői és viszonya a nemzeti joghoz; az (...)",
+      "questions": 32,
+      "sha256": "d2978944a0d107d375450d6e418c710ea4e435cbd74562739c23bbe199b57321"
+    },
+    {
+      "file": "kviz/14/fogalom_KvNKHIJsNscB3UQcyreo.json",
+      "sorszam": 14,
+      "id": "KvNKHIJsNscB3UQcyreo",
+      "generationType": "fogalom",
+      "title": "14. Az irányelv joghatásai, jellemzői és viszonya a nemzeti joghoz; az (...)",
+      "questions": 21,
+      "sha256": "e0165eee3d9ef6b3ea60182aecd081e73b79d4f6476c70d92468525c0613e8cd"
+    },
+    {
+      "file": "kviz/15/fogalom_Ect78U7sVfvnzzmsCBNK.json",
+      "sorszam": 15,
+      "id": "Ect78U7sVfvnzzmsCBNK",
+      "generationType": "fogalom",
+      "title": "15. A jogalkotási aktusok és a nem jogalkotási aktusok elhatárolása. Az (...)",
+      "questions": 24,
+      "sha256": "a0261058b772c112a922a8af624ec4f496253b5ddbb9cda9c4d5fd2be2b72b20"
+    },
+    {
+      "file": "kviz/15/kerdes_jP597Kt3J2eDhhCNvgYh.json",
+      "sorszam": 15,
+      "id": "jP597Kt3J2eDhhCNvgYh",
+      "generationType": "kerdes",
+      "title": "15. A jogalkotási aktusok és a nem jogalkotási aktusok elhatárolása. Az (...)",
+      "questions": 37,
+      "sha256": "3fa434391fca8449bcc8144c47e910eb153be944dc991b8dd64569610cf5daef"
+    },
+    {
+      "file": "kviz/16/kerdes_4XDx6BomItLiFp8J8J32.json",
+      "sorszam": 16,
+      "id": "4XDx6BomItLiFp8J8J32",
+      "generationType": "kerdes",
+      "title": "16. Az uniós jog autonómiája és elsőbbsége",
+      "questions": 46,
+      "sha256": "92f71d22f751b4d2699b656999ec5902604cb1d763bbb05b64ae48c0d77ad67c"
+    },
+    {
+      "file": "kviz/16/fogalom_ucU7juuV7YoxN7ZRt4OO.json",
+      "sorszam": 16,
+      "id": "ucU7juuV7YoxN7ZRt4OO",
+      "generationType": "fogalom",
+      "title": "16. Az uniós jog autonómiája és elsőbbsége",
+      "questions": 28,
+      "sha256": "85802a7ff4598830a46c1d19c393b6521b891fc09921a4e38167375e34b671c8"
+    },
+    {
+      "file": "kviz/17/kerdes_5bE7GWYoqs2OxVoIdsCZ.json",
+      "sorszam": 17,
+      "id": "5bE7GWYoqs2OxVoIdsCZ",
+      "generationType": "kerdes",
+      "title": "17. A közvetlen hatály; az Alapszerződések, a rendeletek, az irányelvek (...)",
+      "questions": 46,
+      "sha256": "7ac0dcf2743e9a512d458a444fac9d54611c3ac9f61d87d32d50d3eb4a25c4e5"
+    },
+    {
+      "file": "kviz/17/fogalom_ZQvd5bap0b6QCh0d1HXP.json",
+      "sorszam": 17,
+      "id": "ZQvd5bap0b6QCh0d1HXP",
+      "generationType": "fogalom",
+      "title": "17. A közvetlen hatály; az Alapszerződések, a rendeletek, az irányelvek (...)",
+      "questions": 28,
+      "sha256": "3c2c0c6b58f362dfb99d150d3410c6381a508802957dd9694ad36c04932adf1b"
+    },
+    {
+      "file": "kviz/18/fogalom_ChvbIYNJGTUMqIkpviiQ.json",
+      "sorszam": 18,
+      "id": "ChvbIYNJGTUMqIkpviiQ",
+      "generationType": "fogalom",
+      "title": "18. Az uniós polgárság és az uniós polgársághoz fűződő jogok terjedelme; az (...)",
+      "questions": 28,
+      "sha256": "28e147b3b3f455567027449d8616660241c51f003a785fb62f80cec9ea735849"
+    },
+    {
+      "file": "kviz/18/kerdes_lBVs6MOylJchguY3gMpE.json",
+      "sorszam": 18,
+      "id": "lBVs6MOylJchguY3gMpE",
+      "generationType": "kerdes",
+      "title": "18. Az uniós polgárság és az uniós polgársághoz fűződő jogok terjedelme; az (...)",
+      "questions": 46,
+      "sha256": "c62821f416de49578e9e1351dab9bbfa1f426ec17a2923781e3bc9ecff54a424"
+    },
+    {
+      "file": "kviz/19/kerdes_4nxiSZIfsLXFJu4ewbkn.json",
+      "sorszam": 19,
+      "id": "4nxiSZIfsLXFJu4ewbkn",
+      "generationType": "kerdes",
+      "title": "19. A diszkrimináció tilalma és az egyenlő bánásmód elve az uniós jogban (...)",
+      "questions": 46,
+      "sha256": "41773b31c99af7484118906abdda6f876358331dfa1b297c730b9d6942f1af2e"
+    },
+    {
+      "file": "kviz/19/fogalom_dSaKO86qx8H8jlptUygP.json",
+      "sorszam": 19,
+      "id": "dSaKO86qx8H8jlptUygP",
+      "generationType": "fogalom",
+      "title": "19. A diszkrimináció tilalma és az egyenlő bánásmód elve az uniós jogban (...)",
+      "questions": 28,
+      "sha256": "b889b146e1d7465097331ca9958b579b2c66f2876b22d8eb94491bf1b66c7a47"
+    },
+    {
+      "file": "kviz/20/kerdes_1Sts2wZqQWzeAor97hBI.json",
+      "sorszam": 20,
+      "id": "1Sts2wZqQWzeAor97hBI",
+      "generationType": "kerdes",
+      "title": "20. Alapjogvédelem az Európai Unióban; Az Európai Unió Alapjogi Chartája (...)",
+      "questions": 46,
+      "sha256": "fd745dac02123e09d03cc51317578c3c156021a99ba8eb5d214d4e38ad458089"
+    },
+    {
+      "file": "kviz/20/fogalom_zqR7i5JAOnvSLEfchgCk.json",
+      "sorszam": 20,
+      "id": "zqR7i5JAOnvSLEfchgCk",
+      "generationType": "fogalom",
+      "title": "20. Alapjogvédelem az Európai Unióban; Az Európai Unió Alapjogi Chartája (...)",
+      "questions": 28,
+      "sha256": "91dcc969c4255fdbda378a1e959915372787fef18b1b909db882db6ba27a0c48"
+    },
+    {
+      "file": "kviz/21/kerdes_HabxqXVYtqQkdNf9Bu4Z.json",
+      "sorszam": 21,
+      "id": "HabxqXVYtqQkdNf9Bu4Z",
+      "generationType": "kerdes",
+      "title": "21. Az Európai Unió Bíróságának ítélkezési gyakorlata az alapjogok terén (...)",
+      "questions": 46,
+      "sha256": "1c956e165d48c50bee090c2f2d835fab5c9f48b82b09918cab59d91206fc9b71"
+    },
+    {
+      "file": "kviz/21/fogalom_VfJS1fRaU1uidIZrioMS.json",
+      "sorszam": 21,
+      "id": "VfJS1fRaU1uidIZrioMS",
+      "generationType": "fogalom",
+      "title": "21. Az Európai Unió Bíróságának ítélkezési gyakorlata az alapjogok terén (...)",
+      "questions": 28,
+      "sha256": "5b94b769276929ed700b56fc1eab5ac719e1dd10e06821c83c0b9957bfbbf8f1"
+    },
+    {
+      "file": "kviz/22/fogalom_91Jvp2s70tIVQjlCuCAk.json",
+      "sorszam": 22,
+      "id": "91Jvp2s70tIVQjlCuCAk",
+      "generationType": "fogalom",
+      "title": "22. A tagállamokkal szemben indított kötelezettségszegési eljárás (...)",
+      "questions": 18,
+      "sha256": "6143be4fd154b9f4033606bfd203cf8390df838995670295dd9fb0267f8e37c2"
+    },
+    {
+      "file": "kviz/22/kerdes_L6EjsphvqqARvDy7US93.json",
+      "sorszam": 22,
+      "id": "L6EjsphvqqARvDy7US93",
+      "generationType": "kerdes",
+      "title": "22. A tagállamokkal szemben indított kötelezettségszegési eljárás (...)",
+      "questions": 27,
+      "sha256": "29cce6ca6902a3b859e96c4e9b9f1d5dc354c833dde3e7d9718288808ebbe65a"
+    },
+    {
+      "file": "kviz/23/kerdes_0hiOhboAFBOr6wf6GLyC.json",
+      "sorszam": 23,
+      "id": "0hiOhboAFBOr6wf6GLyC",
+      "generationType": "kerdes",
+      "title": "23. Az uniós jogi aktusok megsemmisítése iránti eljárás (az eljárás (...)",
+      "questions": 46,
+      "sha256": "a0b8feb4559995e5168eedeeca2773d69faedff98ec8dc1ec1e2f93081dab610"
+    },
+    {
+      "file": "kviz/23/fogalom_vOyNBacZ2gE6hcmeUvKD.json",
+      "sorszam": 23,
+      "id": "vOyNBacZ2gE6hcmeUvKD",
+      "generationType": "fogalom",
+      "title": "23. Az uniós jogi aktusok megsemmisítése iránti eljárás (az eljárás (...)",
+      "questions": 28,
+      "sha256": "89fa423a99b4861031b878d5cf637640547d0a50c8cafed0b1f62a77a892f033"
+    },
+    {
+      "file": "kviz/24/kerdes_fSC6svYwvWn4OcTzOJMW.json",
+      "sorszam": 24,
+      "id": "fSC6svYwvWn4OcTzOJMW",
+      "generationType": "kerdes",
+      "title": "24. Az előzetes döntéshozatali eljárás (az eljárás kezdeményezésére (...)",
+      "questions": 43,
+      "sha256": "2729e5b3c44eb07d515ba875c72b7c265a40d1ae38cfa90f9a55f9e0182db69c"
+    },
+    {
+      "file": "kviz/24/fogalom_IyROHy9fVJFcQlH8D6xr.json",
+      "sorszam": 24,
+      "id": "IyROHy9fVJFcQlH8D6xr",
+      "generationType": "fogalom",
+      "title": "24. Az előzetes döntéshozatali eljárás (az eljárás kezdeményezésére (...)",
+      "questions": 27,
+      "sha256": "358cb2872bed02e15a9235c4568394328cbe25aef78f772d3fd1a2d7b10f5c91"
+    },
+    {
+      "file": "kviz/25/fogalom_KeFEfKpwJaCP5C1YS3Uj.json",
+      "sorszam": 25,
+      "id": "KeFEfKpwJaCP5C1YS3Uj",
+      "generationType": "fogalom",
+      "title": "25. Az előzetes döntéshozatali eljárás és a magyar bírósági jogalkalmazás (...)",
+      "questions": 28,
+      "sha256": "7ad2fd005f335f7f00f8b8d66796fc939a6c705d7e644cdd6f250ebed268d2e6"
+    },
+    {
+      "file": "kviz/25/kerdes_N3KvbSnTzcteOqPVClkV.json",
+      "sorszam": 25,
+      "id": "N3KvbSnTzcteOqPVClkV",
+      "generationType": "kerdes",
+      "title": "25. Az előzetes döntéshozatali eljárás és a magyar bírósági jogalkalmazás (...)",
+      "questions": 46,
+      "sha256": "e65870c3e07ef89ab18f14893f7c05212684eab559964b09caa4403b3c946154"
+    },
+    {
+      "file": "kviz/26/kerdes_uckVi0jKYjYwrEHvv3cN.json",
+      "sorszam": 26,
+      "id": "uckVi0jKYjYwrEHvv3cN",
+      "generationType": "kerdes",
+      "title": "26. A tagállam kárfelelőssége az uniós jog megsértéséért (általános alapelvek)",
+      "questions": 46,
+      "sha256": "1bbf9fa4acbd414a8804048d6f11d36b3d5b359ba07f2d6cdafce533b2e8dd49"
+    },
+    {
+      "file": "kviz/26/fogalom_x7NdHbImdrrvsYp5cDrB.json",
+      "sorszam": 26,
+      "id": "x7NdHbImdrrvsYp5cDrB",
+      "generationType": "fogalom",
+      "title": "26. A tagállam kárfelelőssége az uniós jog megsértéséért (általános alapelvek)",
+      "questions": 28,
+      "sha256": "c86cb07c15bb540be185ff49a8335f394df74f35d4baaa26a06ccdd3f1c91725"
+    },
+    {
+      "file": "kviz/27/fogalom_0SJfBCuFJB8UKDJpWX63.json",
+      "sorszam": 27,
+      "id": "0SJfBCuFJB8UKDJpWX63",
+      "generationType": "fogalom",
+      "title": "27. Az Európai Unió intézményei vagy azok alkalmazottai által okozott kár (...)",
+      "questions": 25,
+      "sha256": "3605731228f30dc0d97cc3e6030f9b34089ff2ac22750b883e34389935860183"
+    },
+    {
+      "file": "kviz/27/kerdes_NIjtaF1K6UHbsx6ml6Kd.json",
+      "sorszam": 27,
+      "id": "NIjtaF1K6UHbsx6ml6Kd",
+      "generationType": "kerdes",
+      "title": "27. Az Európai Unió intézményei vagy azok alkalmazottai által okozott kár (...)",
+      "questions": 40,
+      "sha256": "276cbae1b5baf15d8775170dfe264b085e6e12b4764ff074f9c464a72b5a37da"
+    },
+    {
+      "file": "kviz/28/kerdes_gDDAv5wk5S2fPStwibTo.json",
+      "sorszam": 28,
+      "id": "gDDAv5wk5S2fPStwibTo",
+      "generationType": "kerdes",
+      "title": "28. A szabadság, a biztonság és a jog érvényesülésén alapuló térség (...)",
+      "questions": 46,
+      "sha256": "cb4585bacb9d8f153d005c09da889f7be217b2b08c14c828ab55906fadd6e9ed"
+    },
+    {
+      "file": "kviz/28/fogalom_n7fLPWYAzoeFxu3E85NX.json",
+      "sorszam": 28,
+      "id": "n7fLPWYAzoeFxu3E85NX",
+      "generationType": "fogalom",
+      "title": "28. A szabadság, a biztonság és a jog érvényesülésén alapuló térség (...)",
+      "questions": 28,
+      "sha256": "d52615ea284efaca69fa787ac5b1d8e596d7f35f26a2bcbb28d607f263dedf55"
+    },
+    {
+      "file": "kviz/29/fogalom_3AOyQVTETyCA5EaAG3T4.json",
+      "sorszam": 29,
+      "id": "3AOyQVTETyCA5EaAG3T4",
+      "generationType": "fogalom",
+      "title": "29. Igazságügyi együttműködés büntetőügyekben; a kölcsönös elismerés elve (...)",
+      "questions": 28,
+      "sha256": "834d522f34bb7725b739ac86389989ab01dcee3b7ade3e3d29ff791db634d530"
+    },
+    {
+      "file": "kviz/29/kerdes_DPY9YFOf3xctIuJtfwrl.json",
+      "sorszam": 29,
+      "id": "DPY9YFOf3xctIuJtfwrl",
+      "generationType": "kerdes",
+      "title": "29. Igazságügyi együttműködés büntetőügyekben; a kölcsönös elismerés elve (...)",
+      "questions": 46,
+      "sha256": "40fe08d8ef67a20b8dea67bdb83d66e846f1af3e38c48f872b2422ffe882ecbd"
+    },
+    {
+      "file": "kviz/30/fogalom_bTfmfSeHOId7N8F4v6HG.json",
+      "sorszam": 30,
+      "id": "bTfmfSeHOId7N8F4v6HG",
+      "generationType": "fogalom",
+      "title": "30. A közös kül- és biztonságpolitika elvei és céljai, intézményrendszere (...)",
+      "questions": 24,
+      "sha256": "6e1def7f9f9ab02d92e85d5e0053db51661e61abea168195cc5bbe182319ad2a"
+    },
+    {
+      "file": "kviz/30/kerdes_z2Vhwbd1GrjU3l7X6DDu.json",
+      "sorszam": 30,
+      "id": "z2Vhwbd1GrjU3l7X6DDu",
+      "generationType": "kerdes",
+      "title": "30. A közös kül- és biztonságpolitika elvei és céljai, intézményrendszere (...)",
+      "questions": 46,
+      "sha256": "3407a99982379c93d32b4d9d4f600edfc0b39fb86b8e6bf99eca5a4313ea1494"
+    },
+    {
+      "file": "kviz/31/fogalom_U19HJqoVJeLYjDmGkEHa.json",
+      "sorszam": 31,
+      "id": "U19HJqoVJeLYjDmGkEHa",
+      "generationType": "fogalom",
+      "title": "31. A belső piac fogalma, kialakulása; jogalkotás – dereguláció a belső (...)",
+      "questions": 21,
+      "sha256": "f182319b44c30320f240c264e89e16dced6bac7faacaf51c6902b73ce12399d2"
+    },
+    {
+      "file": "kviz/31/kerdes_YPy3D8xZpvd9COJdfnEp.json",
+      "sorszam": 31,
+      "id": "YPy3D8xZpvd9COJdfnEp",
+      "generationType": "kerdes",
+      "title": "31. A belső piac fogalma, kialakulása; jogalkotás – dereguláció a belső (...)",
+      "questions": 34,
+      "sha256": "6ecab5f463765278b178bf789337e483660f1d04175b01ed7241711a33400120"
+    },
+    {
+      "file": "kviz/32/kerdes_5OVzylSfD14eYlqb0ENT.json",
+      "sorszam": 32,
+      "id": "5OVzylSfD14eYlqb0ENT",
+      "generationType": "kerdes",
+      "title": "32. A személyek szabad mozgása; kivételek a személyek szabad mozgása alól",
+      "questions": 46,
+      "sha256": "1f15811795f3d35cea8063350fddef1085f99876774389d88267d7b528ed8766"
+    },
+    {
+      "file": "kviz/32/fogalom_L4eSbf3kV0HJOykppe5f.json",
+      "sorszam": 32,
+      "id": "L4eSbf3kV0HJOykppe5f",
+      "generationType": "fogalom",
+      "title": "32. A személyek szabad mozgása; kivételek a személyek szabad mozgása alól",
+      "questions": 28,
+      "sha256": "9ca863c6659b6981de9b3883ed66beefc01ad44d0f620cbac3cc6630089f54c1"
+    },
+    {
+      "file": "kviz/33/kerdes_C4FQZoxJjlKOXM0WugC2.json",
+      "sorszam": 33,
+      "id": "C4FQZoxJjlKOXM0WugC2",
+      "generationType": "kerdes",
+      "title": "33. A munkavállalók szabad mozgása; a letelepedés szabadsága önálló (...)",
+      "questions": 46,
+      "sha256": "0cacb9b5a7664c565bebe3bd89f9854f86b51a070b508a7d3ea807f5d0f29dd0"
+    },
+    {
+      "file": "kviz/33/fogalom_vjnQZnEKdGG424EWijZC.json",
+      "sorszam": 33,
+      "id": "vjnQZnEKdGG424EWijZC",
+      "generationType": "fogalom",
+      "title": "33. A munkavállalók szabad mozgása; a letelepedés szabadsága önálló (...)",
+      "questions": 28,
+      "sha256": "b612f7bb6b12501883dfe272e108dadd54b4fa815a82c9b2ea5bea5e00c4d00a"
+    },
+    {
+      "file": "kviz/34/fogalom_7pCjsRLahssgpNU8RnWc.json",
+      "sorszam": 34,
+      "id": "7pCjsRLahssgpNU8RnWc",
+      "generationType": "fogalom",
+      "title": "34. A letelepedés szabadsága vállalkozások esetében",
+      "questions": 28,
+      "sha256": "07c941853fdf6810c9f06591f9e202ae2c400663cdce23a762c466aa5ad40dfb"
+    },
+    {
+      "file": "kviz/34/kerdes_hvIBuQ17w021JnKgU6iY.json",
+      "sorszam": 34,
+      "id": "hvIBuQ17w021JnKgU6iY",
+      "generationType": "kerdes",
+      "title": "34. A letelepedés szabadsága vállalkozások esetében",
+      "questions": 46,
+      "sha256": "1e5e9b638ac22418d43e8f1f3e76094a0f0ed1c7196a4bf776dd0205baade11c"
+    },
+    {
+      "file": "kviz/35/kerdes_eRRuoAWYPabYyk2y3xZy.json",
+      "sorszam": 35,
+      "id": "eRRuoAWYPabYyk2y3xZy",
+      "generationType": "kerdes",
+      "title": "35. A diplomák és szakképesítések kölcsönös elismerése; az ügyvédi hivatás (...)",
+      "questions": 46,
+      "sha256": "d18c90479192c127c6d76d96021c6d69459b8006f2be866c2d1b9c5be0542c9a"
+    },
+    {
+      "file": "kviz/35/fogalom_WJOVZ7vK77hmxPYukIZu.json",
+      "sorszam": 35,
+      "id": "WJOVZ7vK77hmxPYukIZu",
+      "generationType": "fogalom",
+      "title": "35. A diplomák és szakképesítések kölcsönös elismerése; az ügyvédi hivatás (...)",
+      "questions": 28,
+      "sha256": "866384dcbbdc1b127a4742a8e2096ccc6ac9b56df110e38dea4d275423cf05ab"
+    },
+    {
+      "file": "kviz/36/fogalom_lz6NHAGLmOe0wDBp020E.json",
+      "sorszam": 36,
+      "id": "lz6NHAGLmOe0wDBp020E",
+      "generationType": "fogalom",
+      "title": "36. Az áruk szabad mozgása; a vámok és azzal azonos hatású díjak tilalma; a (...)",
+      "questions": 28,
+      "sha256": "ce7ae60085804317321e5039710ff5e921ed54cb803e6a2653d087126e8eb302"
+    },
+    {
+      "file": "kviz/36/kerdes_UFslSGBh9PdB3LnQDVKy.json",
+      "sorszam": 36,
+      "id": "UFslSGBh9PdB3LnQDVKy",
+      "generationType": "kerdes",
+      "title": "36. Az áruk szabad mozgása; a vámok és azzal azonos hatású díjak tilalma; a (...)",
+      "questions": 46,
+      "sha256": "eac832ef133176913d7076ebf1c84a60791020c4a5b04bd68c686c13d77ab7eb"
+    },
+    {
+      "file": "kviz/37/fogalom_Fqkpt0OAuFXGea0SlZ9P.json",
+      "sorszam": 37,
+      "id": "Fqkpt0OAuFXGea0SlZ9P",
+      "generationType": "fogalom",
+      "title": "37. A szolgáltatások szabad mozgása, a szolgáltatás fogalma, az (...)",
+      "questions": 20,
+      "sha256": "014e5bc39e37ca3bb4d53a099815ec46f56262b8c3b3ddf0a8d0186e0a0d119c"
+    },
+    {
+      "file": "kviz/37/kerdes_NsLgWAGL3DzNhMnDjkF9.json",
+      "sorszam": 37,
+      "id": "NsLgWAGL3DzNhMnDjkF9",
+      "generationType": "kerdes",
+      "title": "37. A szolgáltatások szabad mozgása, a szolgáltatás fogalma, az (...)",
+      "questions": 31,
+      "sha256": "ce9ae33a29bbc52f042d28f5e200ccc082af4a75e3add7cf36ae5f6e7997a8be"
+    },
+    {
+      "file": "kviz/38/fogalom_dR8Io6mTjlIeJC0Aa6dS.json",
+      "sorszam": 38,
+      "id": "dR8Io6mTjlIeJC0Aa6dS",
+      "generationType": "fogalom",
+      "title": "38. A tőke szabad mozgása",
+      "questions": 28,
+      "sha256": "5e3aa9e38ce3b4593a59ae23d57c2d6340c7b1e5e4f43b5d036bf560f4ddd724"
+    },
+    {
+      "file": "kviz/38/kerdes_m10LLYQ7OaBN4LCvDedj.json",
+      "sorszam": 38,
+      "id": "m10LLYQ7OaBN4LCvDedj",
+      "generationType": "kerdes",
+      "title": "38. A tőke szabad mozgása",
+      "questions": 46,
+      "sha256": "ed1f48f71d5454a54ccdf08ad434f3104ca511b1ff27a71e64befa5d69933e26"
+    },
+    {
+      "file": "kviz/39/fogalom_9Eo5w8yoOoDkxsbb2Qze.json",
+      "sorszam": 39,
+      "id": "9Eo5w8yoOoDkxsbb2Qze",
+      "generationType": "fogalom",
+      "title": "39. A monetáris unió fogalma és jelentősége",
+      "questions": 28,
+      "sha256": "29afba296d3ea9f3149e00efff547c7fc37bd9916ec2c8e6ed5ec1bd3dcb8140"
+    },
+    {
+      "file": "kviz/39/kerdes_g7lUX1AkBuqfjBS0CZWQ.json",
+      "sorszam": 39,
+      "id": "g7lUX1AkBuqfjBS0CZWQ",
+      "generationType": "kerdes",
+      "title": "39. A monetáris unió fogalma és jelentősége",
+      "questions": 46,
+      "sha256": "10adb89cec9ac8301b6fb3a9ff1eeeedc73ed8e80bc6da517bb56bfc666c46e6"
+    },
+    {
+      "file": "kviz/40/fogalom_bywngCLrONpguTuR5AYp.json",
+      "sorszam": 40,
+      "id": "bywngCLrONpguTuR5AYp",
+      "generationType": "fogalom",
+      "title": "40. Mi a versenyjog funkciója? Milyen jogforráson alapul? (antitröszt (...)",
+      "questions": 28,
+      "sha256": "2c19496195d1b06e3b0c3f994dd722d92dfbefb800ec857bfec530bd8ec31037"
+    },
+    {
+      "file": "kviz/40/kerdes_mmcDXlVsDlSem6UNMxdM.json",
+      "sorszam": 40,
+      "id": "mmcDXlVsDlSem6UNMxdM",
+      "generationType": "kerdes",
+      "title": "40. Mi a versenyjog funkciója? Milyen jogforráson alapul? (antitröszt (...)",
+      "questions": 46,
+      "sha256": "e56d29fa3c24fe67000cde065bd38b345220a0b96538584da6978f763b0233fa"
+    },
+    {
+      "file": "kviz/41/kerdes_1F8jRWpl8IBXdCSIKj3t.json",
+      "sorszam": 41,
+      "id": "1F8jRWpl8IBXdCSIKj3t",
+      "generationType": "kerdes",
+      "title": "41. Mi a Bizottság szerepe a versenyjogban (a Bizottság hatásköre (...)",
+      "questions": 46,
+      "sha256": "fc2b3950aebf18e48bcc077c3980f0798e2d6db80dbf2bcfb99e8537e169dc52"
+    },
+    {
+      "file": "kviz/41/fogalom_JaWYxgRwsPbokecCvR8N.json",
+      "sorszam": 41,
+      "id": "JaWYxgRwsPbokecCvR8N",
+      "generationType": "fogalom",
+      "title": "41. Mi a Bizottság szerepe a versenyjogban (a Bizottság hatásköre (...)",
+      "questions": 28,
+      "sha256": "214e57ca8e396553e451a21439fa1f3d14b4b26512dddf531524ce85e08443d4"
+    },
+    {
+      "file": "kviz/42/fogalom_J0Jt6DPzSIsWXYbhfaAj.json",
+      "sorszam": 42,
+      "id": "J0Jt6DPzSIsWXYbhfaAj",
+      "generationType": "fogalom",
+      "title": "42. Az adatkezelési elvek és az érintett jogai",
+      "questions": 28,
+      "sha256": "dbbfe404d38cdde9443dc2847d9fd80ba53acd52dc1c740fda587a8210b0ac05"
+    },
+    {
+      "file": "kviz/42/kerdes_RJzqTtHdCtD3tgVzwiuX.json",
+      "sorszam": 42,
+      "id": "RJzqTtHdCtD3tgVzwiuX",
+      "generationType": "kerdes",
+      "title": "42. Az adatkezelési elvek és az érintett jogai",
+      "questions": 46,
+      "sha256": "c6af2f64a0c39bc38cab8bb0f8b16512179fe3dc7f31aa295bf1a17e4b006d27"
+    },
+    {
+      "file": "kviz/43/kerdes_6bZX07OIudk4Y2XyTlp1.json",
+      "sorszam": 43,
+      "id": "6bZX07OIudk4Y2XyTlp1",
+      "generationType": "kerdes",
+      "title": "43. Az Európai Unió klíma- és energiapolitikájának fő irányai",
+      "questions": 46,
+      "sha256": "1aac6b9c1618493a7d15a1525c8a5ed0c53567abac6fab26c7779b3ef9536920"
+    },
+    {
+      "file": "kviz/43/fogalom_7394UJ7V0R6WJZmmCEMX.json",
+      "sorszam": 43,
+      "id": "7394UJ7V0R6WJZmmCEMX",
+      "generationType": "fogalom",
+      "title": "43. Az Európai Unió klíma- és energiapolitikájának fő irányai",
+      "questions": 28,
+      "sha256": "e71208d8a874fc3177b3247e37d889a12e860ea74f38f1d0388003d187140f72"
+    }
+  ]
+}

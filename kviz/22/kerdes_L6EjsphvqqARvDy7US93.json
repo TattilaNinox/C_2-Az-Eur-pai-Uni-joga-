@@ -1,0 +1,738 @@
+{
+  "id": "L6EjsphvqqARvDy7US93",
+  "sorszam": 22,
+  "cim": "A tagállamokkal szemben indított kötelezettségszegési eljárás (...)",
+  "generationType": "kerdes",
+  "title": "22. A tagállamokkal szemben indított kötelezettségszegési eljárás (...)",
+  "questions": [
+    {
+      "question": "A kötelezettségszegési eljárás funkciója a 263–264. cikk szerinti megsemmisítési úthoz képest miben más?",
+      "options": [
+        {
+          "text": "A megsemmisítési kereset is a tagállam szerződési kötelezettségének elmaradását vizsgálja, csak a Bizottság helyett bármely magánfél indíthatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megsemmisítési kereset tárgya nem a tagállami kötelezettségszegés. A 263. cikk szerinti eljárás uniós jogi aktust vizsgál, és a 264. cikk szerint a megalapozott kereset a megtámadott aktus semmisségét eredményezi. A helyes: a 258–260. cikk a tagállam Szerződésekből eredő kötelezettségének teljesítését számonkéri. A tévedés a magánfél kereshetőségét a kötelezettségszegési út tárgyává teszi."
+        },
+        {
+          "text": "A 344. cikk szerinti zárt vitarendezés egyik fő csatornája a 258–260. cikk; a 263. cikk ettől elválóan uniós aktust vizsgál, és a 264. cikk a megtámadott aktus semmisségét eredményezi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a ratio legis a szerződési kötelezettségek központosított számonkérése. Az EUMSZ 344. cikk a tagállamokat a Szerződésekben előírt eljárásokhoz köti; a 258–260. cikk e rendszer része. A 264. cikk szerinti semmisség a megsemmisítési kereset jogkövetkezménye, nem a 258. cikk szerinti megállapító ítéleté. A nemzeti jogszabály azonnali semmissége tehát nem a kötelezettségszegési út funkciója."
+        },
+        {
+          "text": "A 258. cikk szerinti megállapító ítélet közvetlenül semmissé teszi a jogsértő nemzeti jogszabályt, ugyanúgy, ahogy a 264. cikk az uniós aktust.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megállapító ítélet nem semmisít nemzeti aktust. Az EUMSZ 260. cikk (1) bekezdése szerint a tagállamnak meg kell tennie az ítélet teljesítéséhez szükséges intézkedéseket; a nemzeti aktus azonnali semmissége nem a 258. cikk elsődleges jogkövetkezménye. A helyes: a 264. cikk a megsemmisítési keresetnél az uniós aktus semmisségét eredményezi, a 258. cikk pedig teljesítési kötelezettséget. A tévedés a két joghatást összemossa."
+        },
+        {
+          "text": "A kötelezettségszegési eljárás a tagállami szerződési kötelezettség elmaradását állapítja meg, majd — a nemteljesítés fennmaradása esetén — pénzügyi következménnyel láthatja el; tárgya nem uniós aktus jogszerűsége.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a funkció megállapítás, majd szükség szerint pénzügyi szankció. A 258. és a 259. cikk a megállapító keresetet, a 260. cikk az (1) bekezdés szerinti teljesítési kötelezettséget, valamint a (2)–(3) bekezdés szerinti átalányösszeget vagy kényszerítő bírságot rendezi. A 263. cikk szerinti megsemmisítési kereset ettől elválik: ott a Bíróság uniós jogi aktust vizsgál. A két perút tehát nem ugyanazt a jogvitát rendezi."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "f447b657ff4d"
+    },
+    {
+      "question": "A 258. cikk szerinti bírósági szakasz megnyílásának milyen igazgatási előfeltételei vannak?",
+      "options": [
+        {
+          "text": "Ha a tagállam a véleményben foglaltaknak a határidőn belül eleget tesz, a Bizottság akkor is köteles a Bírósághoz fordulni a megállapítás érdekében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidőn belüli teljesítés a bírósági szakaszt nem nyitja meg. Az EUMSZ 258. cikk szerint a Bizottság csak akkor fordulhat a Bírósághoz, ha az érintett állam a meghatározott határidőn belül nem tesz eleget a véleményben foglaltaknak. A helyes: a véleményhez kötött teljesítés a szerződés szövege szerint lezárja az igazgatási utat. A tévedés a megállapító ítéletet a teljesítés ellenére is kötelezőnek állítja."
+        },
+        {
+          "text": "A Bizottság a kötelezettségszegés gyanúja esetén azonnal, indokolással ellátott vélemény nélkül köteles a Bírósághoz fordulni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az igazgatási szakasz kihagyása a 258. cikk szövege szerint nem lehetséges. Az EUMSZ 258. cikk először észrevételi lehetőséget, majd indokolással ellátott véleményt követel, és csak a határidőn belüli nemteljesítés után engedi a keresetet. A helyes: a Bizottság a Bírósághoz fordulhat, ha a tagállam a véleményben foglaltaknak nem tett eleget. A tévedés a keresetet kógens, azonnali kötelezettséggé emeli."
+        },
+        {
+          "text": "A Bizottság előbb lehetőséget biztosít a tagállamnak észrevételei megtételére, majd indokolással ellátott véleményt ad, és a bírósági út csak a véleményben foglaltak határidőn belüli nemteljesítéséhez kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az igazgatási szakasz a bírósági út előfeltétele. Az EUMSZ 258. cikk szerint a Bizottság indokolással ellátott véleményt ad, miután az érintett államnak lehetőséget biztosított észrevételei megtételére. A bírósági szakasz a véleményben foglaltak határidőn belüli nemteljesítéséhez kötött. A határidőn belüli teljesítés a bírósági szakaszt a szerződés szövege szerint nem nyitja meg."
+        },
+        {
+          "text": "A megállapítás tárgya a Szerződésekből eredő bármely kötelezettség lehet; a 258. cikk nem szűkül irányelvi átültetési mulasztásra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 258. cikk tárgyi hatálya tágabb az irányelvi átültetésnél, mert a megállapítás tárgya a Szerződésekből eredő bármely kötelezettség lehet. Az EUMSZ 258. cikk azt teszi a megállapítás tárgyává, hogy a tagállam a Szerződésekből eredő valamely kötelezettségét nem teljesítette. A bejelentési mulasztás 260. cikk (3) bekezdése szerinti szűk esetköre nem általánosítja a teljes 258. cikket irányelvi átültetésre. A ratio a szerződési kötelezettség számonkérése."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "c41c67a8fd28"
+    },
+    {
+      "question": "A 259. cikk szerinti tagállami keresetindítás a Bizottság szerepe szempontjából milyen előfeltételt kíván, és mi nem előfeltétel?",
+      "options": [
+        {
+          "text": "Mielőtt egy tagállam keresetet nyújt be egy másik tagállam ellen, az ügyet a Bizottság elé kell terjesztenie.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tagállami kereset nem közvetlen, hanem előterjesztéshez kötött. Az EUMSZ 259. cikk szerint mielőtt egy tagállam keresetet nyújt be egy másik tagállam ellen a Szerződésekből eredő kötelezettség állítólagos megsértése miatt, az ügyet a Bizottság elé kell terjesztenie. A Bizottság indokolással ellátott véleményt ad a kontradiktórius nyilatkozatok után. Az előterjesztés tehát kötelező közbenső lépés."
+        },
+        {
+          "text": "A 259. cikk szerinti tagállami kereset csak akkor nyújtható be, ha a Bizottság kifejezetten engedélyezi a bírósági utat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a végeredmény nem a Bizottság engedélyéhez kötött. Az EUMSZ 259. cikk alanyi keresetindítási jogot ad bármely tagállamnak, az ügy Bizottság elé terjesztése után. A helyes: a Bizottság közbenső szerepe nem teszi a keresetet engedélyhez kötötté. A tévedés a 258. cikk bizottsági szerepét a 259. cikkre is kiterjeszti engedélyező hatáskörként."
+        },
+        {
+          "text": "A 259. cikk szerinti kereset előtt a Bizottság elé terjesztés mellőzhető, ha a sértett tagállam azonnali bírósági védelmet kér.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az előterjesztés a 259. cikk szerinti kereset kötelező előfeltétele, és e közbenső lépés nem mellőzhető azonnali védelem címén. Az EUMSZ 259. cikk expressis verbis előírja, hogy mielőtt egy tagállam keresetet nyújt be, az ügyet a Bizottság elé kell terjesztenie. A helyes: a közvetlen tagállami fordulás e közbenső lépés nélkül nem nyílik meg. A tévedés a 108. cikk (2) bekezdése szerinti közvetlen utat olvassa rá a 259. cikkre."
+        },
+        {
+          "text": "A 259. cikk alanyi keresetindítási jogot ad bármely tagállamnak; a végeredmény nem a Bizottság engedélyéhez kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az előterjesztés kötelező, az engedély nem. Az EUMSZ 259. cikk első albekezdése szerint bármely tagállam a Bírósághoz fordulhat, ha megítélése szerint egy másik tagállam a Szerződésekből eredő kötelezettségét nem teljesítette. A Bizottság szerepe közbenső, nem engedélyező hatóság. A 258. cikk szerinti bizottsági kereset és a 259. cikk szerinti tagállami kereset párhuzamosan fennmaradó csatornák."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "7437b60e069f"
+    },
+    {
+      "question": "A 259. cikk szerinti nyilatkozattétel a 258. cikk észrevételi jogához képest milyen eljárási formát követel?",
+      "options": [
+        {
+          "text": "A Bizottságnak a 259. cikk szerint csak a panaszos tagállamot kell meghallgatnia; a kötelezett állam nyilatkozata az igazgatási szakaszban mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, mindkét érintett állam nyilatkozik. Az EUMSZ 259. cikk a kontradiktórius eljárást az érintett államok — többes szám — számára írja elő, szóban és írásban. A helyes: a Bizottság indokolással ellátott véleményt csak e kétoldalú nyilatkozattétel után ad. A tévedés a kötelezett államot kizárja az igazgatási szakaszból."
+        },
+        {
+          "text": "A 258. cikk az érintett államnak biztosít észrevételi lehetőséget a vélemény előtt; a 259. cikk kétoldalú, szóbeli–írásbeli kontradikciót ír elő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két cikk igazgatási szakasza elválik. A 258. cikk az észrevételi jogot egyoldalúbban fogalmazza, mert az érintett államnak biztosít lehetőséget a vélemény előtt. A 259. cikk kifejezetten kontradiktórius, szóbeli és írásbeli nyilatkozatokat ír elő mindkét érintett állam számára. A párhuzamos csatornák tehát nem azonos eljárási mintát jelentenek. A három hónapos hallgatási szabály a 259. cikk sajátja, és a kontradiktórius szakaszhoz kapcsolódik."
+        },
+        {
+          "text": "A 259. cikk szerinti igazgatási szakaszban elegendő az írásbeli észrevétel, szóbeli nyilatkozatra nincs szükség, mert a 258. cikk mintáját követi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 259. cikk szerinti igazgatási szakaszban a szóbeli forma is kötelező, nem csak az írásbeli. Az EUMSZ 259. cikk szerint a Bizottság a véleményt azután adja, hogy az érintett államoknak lehetőséget biztosított a kontradiktórius eljárás keretében szóban és írásban történő nyilatkozattételre. A helyes: a 259. cikk a 258. cikknél szigorúbb kontradikciót ír elő. A tévedés a két igazgatási szakaszt azonosnak tekinti."
+        },
+        {
+          "text": "A 259. cikk a vélemény előtt kontradiktórius, szóbeli és írásbeli nyilatkozattételi lehetőséget követel mindkét érintett állam számára.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 259. cikk szigorúbb kontradikciót ír elő, mint a 258. cikk. Az EUMSZ 259. cikk szerint a Bizottság indokolással ellátott véleményt ad, miután az érintett államoknak lehetőséget biztosított arra, hogy kontradiktórius eljárás keretében szóban és írásban nyilatkozzanak. A 258. cikk ezzel szemben az észrevételi jogot az érintett (köteles) államnak biztosítja. A két igazgatási szakasz eljárási terhe tehát nem azonos."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "55f194e1bcce"
+    },
+    {
+      "question": "A 280. cikk szerinti végrehajthatóság hogyan viszonyul a 258. cikk szerinti megállapító ítélet elsődleges jogkövetkezményéhez?",
+      "options": [
+        {
+          "text": "A 280. cikk szerint a Bíróság ítéletei a 299. cikkben megállapított feltételek szerint végrehajthatók, de a 258. cikk szerinti megállapító ítélet elsődleges jogkövetkezménye mégis a 260. cikk (1) bekezdése szerinti teljesítési kötelezettség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a végrehajthatóság és a teljesítési séma együtt olvasandó, de nem helyettesítik egymást. Az EUMSZ 280. cikk a Bíróság ítéleteit a 299. cikk feltételei szerint végrehajthatóvá teszi. A 258. cikk szerinti megállapító ítélet elsődleges jogkövetkezménye mégis a 260. cikk (1) bekezdése szerinti teljesítési kötelezettség: „Ha az Európai Unió Bírósága megállapítja, hogy egy tagállam nem teljesítette a Szerződésekből eredő valamely kötelezettségét, az adott államnak meg kell tennie az Európai Unió Bíróságának ítéletében foglaltak teljesítéséhez szükséges intézkedéseket.” A nemzeti aktus azonnali semmissége nem e megállapítás elsődleges joghatása."
+        },
+        {
+          "text": "A 260. cikk (1) bekezdése a Bíróság megállapításához fűzi a teljesítési kötelezettséget attól függetlenül, hogy a keresetet a Bizottság vagy másik tagállam indította.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a teljesítési kötelezettség a megállapításhoz fűződik, nem a keresetindító alanyhoz. Az EUMSZ 260. cikk (1) bekezdése szerint, ha a Bíróság megállapítja, hogy egy tagállam nem teljesítette a Szerződésekből eredő valamely kötelezettségét, az adott államnak meg kell tennie az ítéletben foglaltak teljesítéséhez szükséges intézkedéseket. A 259. cikk szerinti ítélet is ugyanezt a teljesítési sémát kapja. A (2) bekezdés bizottsági második köre ettől elválik."
+        },
+        {
+          "text": "A 280. cikk a 258. cikk szerinti megállapító ítéletet a nemzeti jogban közvetlen semmisségi hatállyá emeli, a 260. cikk (1) bekezdése nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 280. cikk a végrehajthatóságot rendezi, nem a nemzeti aktus semmisségét. Az EUMSZ 280. cikk a Bíróság ítéleteit a 299. cikk feltételei szerint végrehajthatóvá teszi, de a 258. cikk szerinti megállapító ítélet elsődleges jogkövetkezménye a 260. cikk (1) bekezdése szerinti teljesítési kötelezettség. A helyes: a végrehajthatóság nem helyettesíti a teljesítési sémát. A tévedés a 280. cikket nemzeti semmisségi szabálynak olvassa, holott a 264. cikk szerinti semmisség a megsemmisítési keresetre marad."
+        },
+        {
+          "text": "A megállapító ítélet automatikusan semmissé teszi a jogsértő nemzeti jogszabályt, ezért a tagállamnak további intézkedést nem kell tennie.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megállapítás nem semmisít nemzeti aktust. Az EUMSZ 260. cikk (1) bekezdése szerint a tagállamnak meg kell tennie az ítélet teljesítéséhez szükséges intézkedéseket. A helyes: a teljesítési kötelezettség a megállapító ítélet elsődleges joghatása, nem a nemzeti jogszabály azonnali semmissége. A tévedés a 264. cikk megsemmisítési joghatását vetíti a 258. cikk szerinti ítéletre."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "1110a613f512"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a 260. cikk (2) bekezdése szerinti második kör anélkül, hogy a Bizottság előbb észrevételi lehetőséget biztosítana a tagállamnak?",
+      "options": [
+        {
+          "text": "A második körben a Bizottság meghatározza az érintett tagállam által fizetendő átalányösszeg vagy kényszerítő bírság összegét, amelyet az adott körülmények között megfelelőnek ítél.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság összegszerű indítványt tesz. Az EUMSZ 260. cikk (2) bekezdése szerint a Bizottság meghatározza az átalányösszeg vagy a kényszerítő bírság összegét. A fizetésre kötelezés azonban a Bíróság döntése: ha a Bíróság megállapítja, hogy a tagállam nem tett eleget az ítéletben foglaltaknak, átalányösszeg vagy kényszerítő bírság fizetésére kötelezheti. A két eszköz a szerződési szövegben vagylagos."
+        },
+        {
+          "text": "Sehol: a Bizottság csak azután fordulhat ismét a Bírósághoz, hogy a tagállamnak lehetőséget biztosított észrevételei megtételére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második kör is megőrzi az észrevételi jogot. Az EUMSZ 260. cikk (2) bekezdése szerint, ha a Bizottság megítélése szerint a tagállam nem teszi meg a szükséges intézkedéseket, a Bizottság – miután a tagállamnak lehetőséget biztosított észrevételei megtételére – a Bírósághoz fordulhat. A 258. cikk szerinti indokolással ellátott véleményt ehelyütt a szerződési szöveg nem ismétli. Az észrevétel hiánya tehát a második kört is blokkolja."
+        },
+        {
+          "text": "A 260. cikk (2) bekezdése szerinti második kört a sértett tagállam is indíthatja a 259. cikk mintájára, a Bizottság közreműködése nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a pénzügyi második kört nem a sértett tagállam, hanem a Bizottság indítja. Az EUMSZ 260. cikk (2) bekezdése a Bizottságot jogosítja fel az ismételt keresetre és az átalányösszeg vagy kényszerítő bírság összegének meghatározására. Ugyanez a bekezdés kifejezetten kimondja: „Ez az eljárás nem érinti a 259. cikket.” A helyes: a 259. cikk szerinti tagállami út a második körtől elválik, azt nem helyettesíti. A tévedés a 259. cikk alanyi keresetét a (2) bekezdés pénzügyi szankciójára is kiterjeszti."
+        },
+        {
+          "text": "A Bizottság a korábbi megállapító ítélet után azonnal, észrevétel nélkül indíthatja a második kört, mert a teljesítési kötelezettség már jogerős.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az észrevételi jog a második körben is kötelező. Az EUMSZ 260. cikk (2) bekezdése szerint a Bizottság csak azután fordulhat ismét a Bírósághoz, hogy a tagállamnak lehetőséget biztosított észrevételei megtételére. A helyes: a jogerős teljesítési kötelezettség nem engedi el az észrevételi lépést. A tévedés a jogerőt az igazgatási garancia helyébe állítja."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "31edfbef8ff3"
+    },
+    {
+      "question": "A 260. cikk (3) bekezdése milyen szűk esetkörben engedi, hogy a Bizottság már a 258. cikk szerinti első keresetben átalányösszeget vagy kényszerítő bírságot határozzon meg?",
+      "options": [
+        {
+          "text": "Ha a kereset alapja az, hogy a tagállam nem tett eleget valamely, jogalkotási eljárás keretében elfogadott irányelv átültetésére elfogadott intézkedései bejelentésére vonatkozó kötelezettségének.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés tárgyi hatálya a bejelentési mulasztás. Az EUMSZ 260. cikk (3) bekezdése szerint a Bizottság a 258. cikknek megfelelően azon az alapon nyújt be keresetet, hogy a tagállam a jogalkotási eljárás keretében elfogadott irányelv átültetési intézkedéseinek bejelentését mulasztotta el. A szankció tehát nem a korábbi ítélet áthágásán, hanem e bejelentési kötelezettség megszegésén alapul. Az átültetés tartalmi hiányossága önmagában nem nyitja meg a (3) bekezdést."
+        },
+        {
+          "text": "A (3) bekezdés minden irányelvi átültetési hiányosságra kiterjed, így a tartalmi hibás átültetésre is már az első 258. cikk szerinti keresetben szankció indítványozható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tárgyi hatály szűkebb a tartalmi átültetésnél. Az EUMSZ 260. cikk (3) bekezdése a jogalkotási eljárás keretében elfogadott irányelv átültetési intézkedéseinek bejelentési mulasztását rendezi, nem az átültetés tartalmi hiányosságát. A helyes: a szankcióindítvány a bejelentési kötelezettség megszegéséhez kapcsolódik. A tévedés a bejelentést a tartalmi megfeleléssel azonosítja."
+        },
+        {
+          "text": "Ha a Bíróság a jogsértést megállapítja, a tagállamot a Bizottság által meghatározott összeget meg nem haladó mértékű átalányösszeg vagy kényszerítő bírság fizetésére kötelezheti, és a fizetési kötelezettség az ítéletben megállapított időpontban válik esedékessé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bíróság a bizottsági összeget nem lépheti túl. Az EUMSZ 260. cikk (3) bekezdése szerint: a tagállamot „a Bizottság által meghatározott összeget meg nem haladó mértékű” átalányösszeg vagy kényszerítő bírság fizetésére kötelezheti. A fizetési kötelezettség az Európai Unió Bíróságának ítéletében megállapított időpontban válik esedékessé. Ez a mechanizmus a (2) bekezdés szerinti második kört e szűk esetkörben nélkülözhetővé teszi."
+        },
+        {
+          "text": "A (3) bekezdés szerinti szankciónál a Bíróság a Bizottság által meghatározott összeget szabadon túllépheti, ha a jogsértés súlyos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizottsági összeg felső határ. Az EUMSZ 260. cikk (3) bekezdése szerint a Bíróság a tagállamot a Bizottság által meghatározott összeget meg nem haladó mértékű átalányösszeg vagy kényszerítő bírság fizetésére kötelezheti. A helyes: a fizetés esedékessége az ítéletben megállapított időpont. A tévedés a Bíróságnak a bizottsági plafont meghaladó mérlegelést tulajdonít."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "8a9dcb8598d1"
+    },
+    {
+      "question": "Mely esetben teszi a 260. cikk (3) bekezdése nélkülözhetővé a (2) bekezdés szerinti második kört, és milyen összegkorláttal?",
+      "options": [
+        {
+          "text": "A (2) és a (3) bekezdés azonos előfeltételt kíván: mindkettőhöz korábbi megállapító ítélet és annak nemteljesítése szükséges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés nem a korábbi ítélet áthágásán alapul. Az EUMSZ 260. cikk (3) bekezdése a bejelentési mulasztás miatt indított első 258. cikk szerinti keresethez kapcsolja a szankciót. A helyes: a (2) bekezdés a korábbi ítélet nemteljesítését, a (3) bekezdés a bejelentési kötelezettség megszegését szankcionálja. A tévedés a két pénzügyi utat egyetlen második körré vonja össze."
+        },
+        {
+          "text": "A (3) bekezdés a 259. cikk szerinti tagállami keresetre is kiterjed, ezért a sértett tagállam is indítványozhat átalányösszeget már az első keresetben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a 258. cikk szerinti bizottsági keresethez kötődik. Az EUMSZ 260. cikk (3) bekezdése expressis verbis a 258. cikknek megfelelően benyújtott keresetről beszél. A helyes: a 259. cikk szerinti tagállami út a (2) bekezdés szerinti eljárástól is elválik, és a (3) bekezdés hatálya alá nem tartozik. A tévedés a bejelentési szankciót a tagállam–tagállam keresetre is kiterjeszti."
+        },
+        {
+          "text": "Ha a Bíróság a (3) bekezdés szerint jogsértést állapít meg, a fizetési kötelezettség az ítéletben megállapított időpontban válik esedékessé, és a Bíróság a Bizottság által meghatározott összeget nem lépheti túl.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az esedékesség és a bizottsági plafon a (3) bekezdés sajátja. Az EUMSZ 260. cikk (3) bekezdése szerint a Bíróság a tagállamot a Bizottság által meghatározott összeget meg nem haladó mértékű átalányösszeg vagy kényszerítő bírság fizetésére kötelezheti. A fizetési kötelezettség az Európai Unió Bíróságának ítéletében megállapított időpontban válik esedékessé. A (2) bekezdés nem ugyanezt a zárt összegkorlátot ismétli."
+        },
+        {
+          "text": "A jogalkotási eljárás keretében elfogadott irányelv átültetési intézkedéseinek bejelentési mulasztása esetén a szankció már az első 258. cikk szerinti keresethez kapcsolható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés e szűk esetkörben a második kört nélkülözhetővé teszi. Az EUMSZ 260. cikk (3) bekezdése a bejelentési mulasztás miatt indított 258. cikk szerinti keresetben a szankciót már az első ítélettel esedékessé teheti. Feltétele, hogy a Bizottság a szankciót megfelelőnek ítélje, és mértékét meghatározza. A 258. cikk igazgatási előfeltételeit e mechanizmus sem engedi el."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "ba7725ef5c40"
+    },
+    {
+      "question": "Állami támogatási kötelező bizottsági határozat határidőn belüli nemteljesítése esetén miért mellőzhető a 258. cikk igazgatási szakasza?",
+      "options": [
+        {
+          "text": "A 108. cikk (2) bekezdése a 258. és 259. cikk rendelkezéseitől eltérve közvetlen bírósági utat nyit, mert a vita a kötelező bizottsági határozat végrehajtásán nyugszik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szerződési eltérés az igazgatási előfeltételt mellőzi. Az EUMSZ 108. cikk (2) bekezdése szerint, ha a tagállam a belső piaccal összeegyeztethetetlen állami támogatás megszüntetésére vagy módosítására kötelező bizottsági határozatnak a kitűzött határidőn belül nem tesz eleget, a Bizottság vagy bármely érdekelt állam — a 258. és 259. cikk rendelkezéseitől eltérve — közvetlenül a Bírósághoz fordulhat. Az észrevétel és az indokolással ellátott vélemény tehát e viszonyban nem előfeltétel."
+        },
+        {
+          "text": "A 108. cikk (2) bekezdése szerinti közvetlen út csak a magánfél keresetére nyílik meg, a Bizottság továbbra is köteles a 258. cikk igazgatási szakaszát lefolytatni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen utat a Bizottság vagy bármely érdekelt állam indíthatja. Az EUMSZ 108. cikk (2) bekezdése a 258. és 259. cikk rendelkezéseitől eltérve engedi a közvetlen bírósági fordulást. A helyes: a 258. cikk igazgatási szakasza ebben az esetben nem előfeltétel. A tévedés a magánfelet teszi a kereset egyetlen alanyává, miközben a norma intézményi és tagállami indítást ad."
+        },
+        {
+          "text": "A 126. cikk (10) bekezdése a túlzott hiányra vonatkozó (1)–(9) bekezdés keretei között is megőrzi a 258. és 259. cikk szerinti eljárás-indítási jogot, ezért a Bizottság ott is indíthat kötelezettségszegési keresetet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a túlzott hiány sávjában az eljárás-indítás ki van zárva, nem megőrizve. Az EUMSZ 126. cikk (10) bekezdése szerint a 258. és a 259. cikkben biztosított eljárás-indítási jog a túlzott hiányra vonatkozó (1)–(9) bekezdés keretei között nem gyakorolható. A helyes: a költségvetési felügyelet e sávjában a kötelezettségszegési út nem pótolja a 126. cikk tanácsi ajánlásait és szankcióit. A tévedés a kizárást fenntartott párhuzamos útnak olvassa."
+        },
+        {
+          "text": "A 114. cikk (9) bekezdése és a 348. cikk ugyanezt a közvetlen mintát követi: a 258. cikk előzetes véleménye mellőzhető, ha a vita a szerződési kivétel visszaélésszerű használata.",
+          "isCorrect": true,
+          "rationale": "IGAZ, több szerződési eltérés ugyanazt a közvetlen mintát követi. Az EUMSZ 114. cikk (9) bekezdése a harmonizációs intézkedéstől eltérő nemzeti rendelkezésekre vonatkozó hatáskörrel való visszaélésre, a 348. cikk a 346. és 347. cikk szerinti hatáskörrel való visszaélésre nyit közvetlen utat. Mindkét eltérés azért mellőzi a 258. cikk előzetes véleményét, mert a vita a szerződési kivétel visszaélésszerű használatán nyugszik. A 348. cikknél a Bíróság e keresetről zárt ülésen határoz, a nyilvános tárgyalás tehát nem e minta."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "6c76a6f9a255"
+    },
+    {
+      "question": "A 348. cikk szerinti közvetlen bírósági út miben tér el a rendes 258. cikk szerinti eljárástól?",
+      "options": [
+        {
+          "text": "A 348. cikk a 346. és 347. cikkben megállapított hatáskörrel való visszaélésre nyit közvetlen utat, és a Bíróság e keresetről zárt ülésen határoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tárgy és az eljárásrend is eltér. A 348. cikk a 258. és 259. cikkben megállapított eljárástól eltérve engedi a közvetlen bírósági fordulást a 346. és 347. cikk szerinti hatáskörrel való visszaélés esetén. A Bíróság e keresetről zárt ülésen határoz. Az eltérés oka, hogy a vita a szerződési kivétel visszaélésszerű használata, nem a szokásos szerződési kötelezettség elmaradása."
+        },
+        {
+          "text": "A 348. cikk szerinti keresetről a Bíróság nyilvános tárgyaláson határoz, mert a zárt ülés csak a 263. cikk szerinti megsemmisítési keresetre jellemző.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 346. és 347. cikk szerinti hatáskörrel való visszaélés miatti keresetről a Bíróság zárt ülésen határoz. Az EUMSZ 348. cikk a közvetlen bírósági út mellett e zárt eljárásrendet is előírja. A helyes: a nyilvános tárgyalás nem a 348. cikk mintája. A tévedés a nyilvánosságot a megsemmisítési kereset mintájára kényszeríti rá, miközben a norma zárt ülést követel."
+        },
+        {
+          "text": "A 348. cikk — a 114. cikk (9) bekezdéséhez hasonlóan — a 258. cikk előzetes véleményét mellőzi, mert a vita a szerződési kivétel visszaélésszerű használata.",
+          "isCorrect": true,
+          "rationale": "IGAZ, mindkét eltérés az előzetes véleményt mellőzi. Az EUMSZ 114. cikk (9) bekezdése a harmonizációs intézkedéstől eltérő nemzeti rendelkezésekre vonatkozó hatáskörrel való visszaélést, a 348. cikk a 346. és 347. cikk szerinti hatáskörrel való visszaélést rendezi közvetlen bírósági úttal. A rendes 258. cikk szerinti igazgatási szakasz tehát e két esetben nem előfeltétel. A 348. cikk emellett azt is előírja, hogy a Bíróság e keresetről zárt ülésen határoz."
+        },
+        {
+          "text": "A 348. cikk szerinti kereset is megköveteli az indokolással ellátott véleményt és a véleményben foglaltak határidőn belüli nemteljesítését, mert a 258. cikk eljárási mintáját követi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 346. és 347. cikk szerinti hatáskörrel való visszaélésnél az indokolással ellátott vélemény nem előfeltétel. Az EUMSZ 348. cikk a 258. és 259. cikkben megállapított eljárástól eltérve közvetlen bírósági utat nyit, és a Bíróság e keresetről zárt ülésen határoz. A helyes: az igazgatási szakasz mellőzése a visszaélési vita sajátossága. A tévedés a rendes kötelezettségszegési előfeltételeket a visszaélési keresetre is ráírja."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "21ab85684a1b"
+    },
+    {
+      "question": "Mi következik abból, ha a Bizottság vagy a tagállam a túlzott hiányra vonatkozó EUMSZ 126. cikk (1)–(9) bekezdéseinek keretében kívánná a 258. vagy a 259. cikk szerinti eljárást indítani?",
+      "options": [
+        {
+          "text": "A 70. cikk az értékelési mechanizmust a 258–260. cikk helyébe állítja, ezért a szabadságon, a biztonságon és a jog érvényesülésén alapuló térségben a kötelezettségszegési út véglegesen elenyészik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 70. cikk az értékelést a kötelezettségszegési út sérelme nélkül engedi. A Szerződés szerint az értékelési mechanizmus a 258., a 259. és a 260. cikk sérelme nélkül alkalmazható; az értékelés nem fogyasztja el a kötelezettségszegési utat. A helyes: a 126. cikk (10) bekezdése a túlzott hiány sávjában zárja ki az eljárás-indítást, a 70. cikk nem. A tévedés a két intézményi szabályt összemossa."
+        },
+        {
+          "text": "A költségvetési felügyelet e sávjában a 258–259. cikk nem helyettesíti a 126. cikk szerinti tanácsi ajánlásokat és szankciókat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a párhuzamos pótlás tilos. A 126. cikk (10) bekezdése expressis verbis elvonja az eljárás-indítási jogot a túlzott hiány (1)–(9) bekezdéseinek keretében. A tanácsi ajánlások és szankciók e speciális rendszerben maradnak. A 258–259. cikk tehát nem helyettesíti a 126. cikk szerinti utat."
+        },
+        {
+          "text": "A 126. cikk (10) bekezdése szerint a 258. és a 259. cikkben biztosított eljárás-indítási jog e keretek között nem gyakorolható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a költségvetési felügyelet e sávjában a kötelezettségszegési út ki van zárva. Az EUMSZ 126. cikk (10) bekezdése a túlzott hiányra vonatkozó (1)–(9) bekezdés keretei között kizárja a 258. és 259. cikk szerinti eljárás-indítást. A 258–259. cikk tehát nem pótolja a 126. cikk tanácsi ajánlásait és szankcióit. A kizárás ellentétes irányú a 108. cikk (2) bekezdésének közvetlen útjával."
+        },
+        {
+          "text": "A 126. cikk (10) bekezdése csak a tagállami 259. cikk szerinti keresetet zárja ki; a Bizottság a 258. cikk alapján továbbra is indíthat eljárást a túlzott hiány miatt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kizárás mindkét eljárás-indítási jogra kiterjed. Az EUMSZ 126. cikk (10) bekezdése a 258. és a 259. cikkben biztosított eljárás-indítási jogot egyaránt elvonja a túlzott hiány (1)–(9) bekezdéseinek keretében. A helyes: a költségvetési felügyelet e sávjában a 258–259. cikk nem pótolja a 126. cikk tanácsi útját. A tévedés a Bizottságot kivételként tartja meg."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "b8a6c0227d0a"
+    },
+    {
+      "question": "Az Európai Beruházási Bank alapokmányából eredő tagállami kötelezettségek számonkérésénél ki lép a Bizottság helyébe, és milyen a megállapító ítélet joghatása?",
+      "options": [
+        {
+          "text": "Az Európai Beruházási Bank alapokmányából eredő tagállami kötelezettségek teljesítése tekintetében a Bank Igazgatótanácsa rendelkezik a 258. cikk által a Bizottságra ruházott hatáskörrel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 271. cikk a Bizottság szerepét az EBB viszonyában az Igazgatótanácsra másolja. Az EUMSZ 271. cikk szerint e kötelezettségek tekintetében a Bank Igazgatótanácsa rendelkezik a 258. cikk szerinti hatáskörrel. A minta hatásköri, nem új eljárásfajta. A nemzeti központi banki ág ettől elválik, mert ott az EKB Kormányzótanácsa a jogosult."
+        },
+        {
+          "text": "A 271. cikk szerinti eljárásban a Bizottság továbbra is kizárólagos indítványozó; az EBB Igazgatótanácsa csak megfigyelőként vesz részt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatáskört éppen az Igazgatótanács kapja meg. A 271. cikk a 258. cikk által a Bizottságra ruházott hatáskört az EBB Igazgatótanácsára másolja az alapokmányból eredő tagállami kötelezettségek tekintetében. A helyes: e viszonyban az Igazgatótanács az indítványozó. A tévedés a Bizottságot megtartja egyedüli indítványozónak."
+        },
+        {
+          "text": "A megállapító ítélet joghatása a 260. cikk (1) bekezdésével azonos: a kötelezettnek meg kell tennie az ítélet teljesítéséhez szükséges intézkedéseket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 271. cikk a teljesítési sémát másolja a 260. cikk (1) bekezdésének mintájára, és nem keletkeztet semmisséget. Ha a Bíróság megállapítja a kötelezettség megszegését, a kötelezettnek meg kell tennie az ítélet teljesítéséhez szükséges intézkedéseket. Az azonnali semmisség nem a megállapítás elsődleges joghatása. A 264. cikk szerinti semmisség a megsemmisítési keresetre marad, és a megtámadott uniós aktusra vonatkozik."
+        },
+        {
+          "text": "Ha a Bíróság a 271. cikk alapján az EBB-viszonyban megállapítja a kötelezettségszegést, a nemzeti aktusok automatikusan semmissé válnak, teljesítési intézkedés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a joghatás a 260. cikk (1) bekezdésével azonos teljesítési séma. A 271. cikk szerint a kötelezettnek meg kell tennie az ítéletben foglaltak teljesítéséhez szükséges intézkedéseket. A helyes: a megállapítás teljesítési kötelezettséget keletkeztet, nem azonnali semmisséget. A tévedés a 264. cikk megsemmisítési joghatását vetíti az intézményi kiterjesztésre."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "c6c7f510bfa7"
+    },
+    {
+      "question": "A Karoussiotis-ítélet szerint a magánfél EJEE-kérelme előtt köteles-e kimeríteni a 258. cikk szerinti bizottsági eljárást?",
+      "options": [
+        {
+          "text": "A 258. cikk szerinti megállapítás egyben a magánfél EJEE-sérelmét is jogerősen eldönti, ezért a strasbourgi út a megállapító ítélet után elenyészik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezettségszegési eljárás nem a magánfél EJEE-sérelmét dönti el. A 258. cikk a tagállam Szerződésekből eredő kötelezettségét a Bizottság keresetére állapítja meg; alanya, tárgya és joghatása elválik a strasbourgi úttól. A helyes: a Karoussiotis-ítélet (23205/08. sz., 75. és 76. §) szerint a 258. cikk szerinti hatáskörök gyakorlása nem zárja ki a strasbourgi utat. A tévedés a megállapító ítéletet EJEE-jogerőnek tekinti."
+        },
+        {
+          "text": "A két út alanya, tárgya és joghatása elválik: a 258. cikk a tagállam szerződési kötelezettségét a Bizottság keresetére állapítja meg, nem a magánfél EJEE-sérelmét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelezettségszegési út és a strasbourgi út nem ugyanazt a jogvitát rendezi. A 258. cikk a tagállam Szerződésekből eredő kötelezettségét a Bizottság keresetére állapítja meg. Az EJEE-sérelem orvoslása a magánfél strasbourgi kérelméhez kötődik. A Karoussiotis-ítélet éppen ezért választja el a 258. cikket az EJEE 35. cikke (2) bekezdésének b) pontjától. A párhuzamosság tehát nem abszorpció."
+        },
+        {
+          "text": "Nem: a strasbourgi kimerítési szabály sem minősíti a bizottsági eljárást a magánfél számára igénybe veendő nemzetközi fórummá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Karoussiotis-ítélet elválasztja a két utat. Az Emberi Jogok Európai Bírósága a 2011. február 1-jei Karoussiotis kontra Portugália ítéletben (23205/08. sz., 75. és 76. §) kimondta, hogy a 258. cikkben biztosított hatáskörök Bizottság általi gyakorlása nem minősül az EJEE 35. cikke (2) bekezdésének b) pontja szerinti nemzetközi vizsgálati vagy elintézési eljárásnak. A magánfél számára tehát a bizottsági út nem kötelezően kimerítendő fórum. A 258. cikk e minősítés hiányában nem zárja ki a strasbourgi utat."
+        },
+        {
+          "text": "A 258. cikk szerinti bizottsági eljárás a magánfél számára kötelezően kimerítendő nemzetközi fórum, ezért a strasbourgi kérelem csak annak lezárulta után nyújtható be.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Karoussiotis-ítélet éppen e minősítést utasítja el. Az Emberi Jogok Európai Bírósága (23205/08. sz., 75. és 76. §) szerint a 258. cikk szerinti hatáskörök gyakorlása nem minősül az EJEE 35. cikke (2) bekezdésének b) pontja szerinti nemzetközi vizsgálati vagy elintézési eljárásnak. A helyes: a 258. cikk nem zárja ki a strasbourgi utat, és a kimerítési szabály sem minősíti a bizottsági eljárást a magánfél számára kötelező fórummá. A tévedés a két utat egymás előfeltételévé teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "88d3f194962c"
+    },
+    {
+      "question": "A 2/13. sz. véleményeljárásban a Bizottság szerint a csatlakozási megállapodástervezet hogyan viszonyul a Bíróság 258., 260. és 263. cikk szerinti hatásköreihez, és mi őrzi az uniós vitarendezést?",
+      "options": [
+        {
+          "text": "A 2/13. sz. vélemény szerint a csatlakozási tervezet a Bíróság 258. és 260. cikk szerinti hatásköreit elvonja, ezért a kötelezettségszegési út az EJEE-csatlakozás után megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság szerint a tervezet e hatásköröket nem érinti. A 2/13. sz. vélemény ismerteti: a csatlakozási megállapodástervezet nem érinti a Bíróságnak a 258. cikk, a 260. cikk és a 263. cikk szerinti hatásköreit. A helyes: a kötelezettségszegési út megmarad, de tárgya nem lehet az EJEE szerinti mulasztás. A tévedés a hatáskör-megőrzést hatáskör-elvonásnak olvassa."
+        },
+        {
+          "text": "A 258. cikk szerinti kereset tárgya lehet az EJEE megsértése, mert a Charta 51. cikke az EJEE-t az uniós jog részévé teszi a tagállamokkal szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EJEE a tervezet szerint uniós jogi kötelezettséget nem keletkeztet a tagállamok számára. A 2/13. sz. vélemény a tervezet 1. cikkének (3) bekezdésére támaszkodva zárja ki, hogy a kötelezettségszegés megállapítása iránti kereset tárgya az EJEE szerinti mulasztás legyen. A helyes: a Charta 51. cikkének (1) bekezdése az uniós szinten meghatározott alapvető jogokat köti a tagállamokra az uniós jog végrehajtása során, nem az EJEE-t önálló 258. cikk szerinti kötelezettséggé emeli. A tévedés a Chartát az EJEE közvetlen számonkérési alapjává teszi."
+        },
+        {
+          "text": "A Charta 51. cikkének (1) bekezdése alapján a tagállamokat az uniós jog végrehajtása során kötik az uniós szinten meghatározott alapvető jogok; a tervezet 5. cikke az EJEE 55. cikkére utalva őrzi a Bíróság előtti uniós vitarendezést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az uniós alapjogi kötöttség és a vitarendezés elválik az EJEE önálló 258. cikk szerinti számonkérésétől. A Charta 51. cikkének (1) bekezdése az uniós jog végrehajtása során köti a tagállamokat. A tervezet 5. cikke az EJEE 55. cikkére utalva őrzi a Bíróság előtti uniós vitarendezést. A 258. cikk tárgya tehát a Szerződésekből eredő kötelezettség, nem az EJEE önálló megsértése."
+        },
+        {
+          "text": "A Bizottság szerint a tervezet nem érinti a Bíróságnak a 258. cikk, a 260. cikk és a 263. cikk szerinti hatásköreit.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a csatlakozás nem nyeli el az uniós bírósági hatásköröket. A 2/13. sz. véleményeljárásban a Bizottság szerint a csatlakozási megállapodástervezet nem érinti e hatásköröket. A kötelezettségszegési út tehát megmarad, de tárgya továbbra sem lehet közvetlenül az EJEE szerinti mulasztás. A 344. cikk szerinti kizárólagos uniós vitarendezés ezzel összhangban marad."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "b43dd76afff0"
+    },
+    {
+      "question": "A 344. cikk a Szerződések értelmezésére vagy alkalmazására vonatkozó tagállami vitákban milyen kizárólagosságot rögzít a kötelezettségszegési úttal összefüggésben?",
+      "options": [
+        {
+          "text": "A tagállamok nem vihetik e vitáikat a Bíróság helyett nemzetközi választottbíráskodás elé; a vitákat kizárólag a Szerződésekben előírt eljárások útján kell rendezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 344. cikk feloldhatatlan kizárólagosságot állít a Szerződések értelmezésére vagy alkalmazására vonatkozó vitákban. Az EUMSZ 344. cikk szerint a tagállamok vállalják, hogy e vitáikat kizárólag a Szerződésekben előírt eljárások útján rendezik. A 258–260. cikk e zárt rendszer egyik fő csatornája a tagállami kötelezettségek számonkérésére. A kötelezettségszegési eljárás tehát nem fakultatív nemzetközi választottbíráskodás."
+        },
+        {
+          "text": "A ratio legis a szerződési kötelezettségek központosított számonkérése: a 258. cikk a Bizottság, a 259. cikk a másik tagállam keresetét, a 260. cikk a teljesítést és a szankciót rendezi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három cikk a zárt rendszer funkcionális felosztását adja. A 258. cikk a Bizottság keresetét, a 259. cikk a másik tagállam keresetét, a 260. cikk a megállapító ítélet teljesítési kötelezettségét és a pénzügyi szankciót rendezi. Az EUMSZ 344. cikk ezeket az utakat a Szerződésekben előírt eljárások kizárólagosságához köti. A párhuzamos, szerződésen kívüli vitarendezés tehát ki van zárva."
+        },
+        {
+          "text": "A 344. cikk csak a 263. cikk szerinti megsemmisítési keresetre vonatkozik; a kötelezettségszegési eljárás a zárt vitarendezésen kívül esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Szerződések értelmezésére vagy alkalmazására vonatkozó viták kizárólagossága a kötelezettségszegési utat is átfogja. Az EUMSZ 344. cikk a tagállamokat a Szerződésekben előírt eljárásokhoz köti, és a 258–260. cikk e zárt rendszer része. A helyes: a kötelezettségszegési eljárás a központosított számonkérés egyik fő csatornája, míg a 263–264. cikk az uniós aktust vizsgáló, elváló út. A tévedés a kizárólagosságot a megsemmisítésre szűkíti."
+        },
+        {
+          "text": "A 344. cikk engedi, hogy a tagállamok a Szerződések értelmezésére vonatkozó vitáikat a Bíróság helyett nemzetközi választottbíráskodás elé vigyék, ha abban megállapodnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tagállamok nem vihetik a Szerződések értelmezésére vonatkozó vitáikat a Bíróság helyett nemzetközi választottbíráskodás elé. Az EUMSZ 344. cikk szerint a vitákat kizárólag a Szerződésekben előírt eljárások útján kell rendezni. A helyes: a 258–260. cikk a zárt vitarendezés egyik fő csatornája. A tévedés a választottbíráskodást a kizárólagosság helyébe állítja."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "0cde248cd064"
+    },
+    {
+      "question": "A Bizottság egy tagállam ellen azért indít 258. cikk szerinti keresetet, mert a jogalkotási eljárás keretében elfogadott irányelv átültetési intézkedéseit a tagállam nem jelentette be. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A (3) bekezdés szerinti szankcióindítványhoz elegendő, ha az irányelv bármely, nem jogalkotási eljárás keretében elfogadott intézkedésének bejelentése elmaradt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tárgyi hatály a jogalkotási eljárás keretében elfogadott irányelvre szűkül. Az EUMSZ 260. cikk (3) bekezdése expressis verbis a jogalkotási eljárás keretében elfogadott irányelv átültetési intézkedéseinek bejelentési mulasztását rendezi. A helyes: a nem e körbe tartozó aktusok bejelentési mulasztása önmagában nem nyitja meg a (3) bekezdést. A tévedés a jogalkotási korlátot elhagyja."
+        },
+        {
+          "text": "Ha a Bíróság a jogsértést megállapítja, a fizetési kötelezettség az ítéletben megállapított időpontban válik esedékessé, és a Bíróság a Bizottság által meghatározott összeget nem lépheti túl.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az esedékesség az ítéleti időponthoz, a plafon a bizottsági indítványhoz kötött. Az EUMSZ 260. cikk (3) bekezdése a Bíróság számára azt engedi, hogy a jogsértés megállapításakor a Bizottság által megjelölt összeget meg nem haladó átalányösszegre vagy kényszerítő bírságra kötelezzen. Az esedékesség napját maga az ítélet állapítja meg. A (2) bekezdés szerinti második kör e bejelentési esetkörben nélkülözhető."
+        },
+        {
+          "text": "A Bizottság — ha megfelelőnek ítéli — már ebben az első keresetben meghatározhatja az érintett tagállam által fizetendő átalányösszeg vagy kényszerítő bírság mértékét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bejelentési mulasztás a 260. cikk (3) bekezdése szerinti szankcióindítványt engedi. Az EUMSZ 260. cikk (3) bekezdése a 258. cikknek megfelelően benyújtott, bejelentési mulasztáson alapuló keresethez kapcsolja a szankció meghatározását. Feltétele, hogy a Bizottság a szankciót megfelelőnek ítélje. A 258. cikk igazgatási előfeltételeit e mechanizmus sem engedi el."
+        },
+        {
+          "text": "A Bizottságnak előbb meg kell várnia a 260. cikk (1) bekezdése szerinti megállapító ítéletet, és csak annak nemteljesítése után indítványozhat átalányösszeget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bejelentési mulasztásnál a szankció már az első 258. cikk szerinti keresethez kapcsolható. Az EUMSZ 260. cikk (3) bekezdése nem a korábbi ítélet áthágásán, hanem a bejelentési kötelezettség megszegésén alapul. A helyes: a Bizottság — ha megfelelőnek ítéli — már ekkor meghatározhatja az átalányösszeget vagy a kényszerítő bírságot. A tévedés a (2) bekezdés második körét a (3) bekezdés helyébe állítja."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "5266506b4890"
+    },
+    {
+      "question": "A Lisszaboni átmeneti rendelkezések 10. cikke a módosított jogi aktusokra és az Egyesült Királyság bejelentésére nézve hogyan hatott a 258. cikk szerinti hatáskörökre?",
+      "options": [
+        {
+          "text": "A módosított jogi aktusokra a 258. cikk az átmenet alatt sem volt alkalmazható, mert az öt éves elvonás minden érintett aktusra kiterjedt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a módosított aktusok kivételt képeztek az ideiglenes elvonás alól. A Lisszaboni Szerződéshez kapcsolódó átmeneti rendelkezések 10. cikke szerint a módosítással érintett tagállamokra a Szerződések szerinti intézményi hatáskörök — ideértve a 258. cikket — már az átmenet alatt is alkalmazandók voltak a módosított jogi aktusokra. A helyes: az elvonás a hatálybalépés előtt elfogadott, nem módosított aktusokra vonatkozott ideiglenesen. A tévedés a módosított aktusokat is az elvonás alá vonja."
+        },
+        {
+          "text": "Az Egyesült Királyság a lejárat előtt bejelenthette, hogy e hatásköröket nem fogadja el; e bejelentés az érintett aktusok rá nézve való alkalmazásának megszűnésével járt, a módosított aktusok kivételével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a brit opt-out a lejárat előtti bejelentéshez kötődött. Az Egyesült Királyság a lejárat előtt bejelenthette, hogy a 258. cikk szerinti hatásköröket nem fogadja el. A bejelentés az érintett aktusok rá nézve való alkalmazásának megszűnésével járt, a módosított aktusok kivételével. A módosított aktusokra tehát a Szerződések szerinti intézményi hatáskörök a bejelentés ellenére is alkalmazandók maradtak."
+        },
+        {
+          "text": "Az átmeneti elvonás végleges volt: a Bizottság a hatálybalépés előtt elfogadott rendőrségi és büntető igazságügyi aktusokra soha nem szerezhette vissza a 258. cikk szerinti hatáskört.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átmenet időben zárt. A Lisszaboni Szerződéshez kapcsolódó átmeneti rendelkezések 10. cikke szerint az átmenet a hatálybalépést követő öt év elteltével mindenképpen hatályát vesztette. A helyes: az elvonás ideiglenes volt, és az öt év után a 258. cikk szerinti hatáskörök helyreálltak. A tévedés az ideiglenes korlátot végleges hatáskör-elvesztésnek olvassa."
+        },
+        {
+          "text": "A módosított jogi aktusokra a Szerződések szerinti intézményi hatáskörök — ideértve a 258. cikket — a módosítással érintett tagállamokra már az átmenet alatt is alkalmazandók voltak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a módosított aktusok kivételt képeztek az ideiglenes elvonás alól. A Lisszaboni Szerződéshez kapcsolódó átmeneti rendelkezések 10. cikke szerint a módosítással érintett tagállamokra a Szerződések szerinti intézményi hatáskörök — ideértve a 258. cikket — már az átmenet alatt is alkalmazandók voltak a módosított jogi aktusokra. Az elvonás a hatálybalépés előtt elfogadott, nem módosított aktusokra vonatkozott ideiglenesen. Az öt éves záróhatáridő ettől elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "a0c4131bc914"
+    },
+    {
+      "question": "A 258–260. cikk szerinti eljárás három síkja — igazgatás, bíróság, teljesítés/szankció — milyen sorrendben kapcsolódik össze?",
+      "options": [
+        {
+          "text": "A (3) bekezdés a bejelentési mulasztás szűk esetkörében a szankciót már az első 258. cikk szerinti keresethez kapcsolhatja, anélkül hogy a (2) bekezdés szerinti második kört megkövetelné.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés a sor végén álló második kört e szűk esetkörben nélkülözhetővé teszi. Az EUMSZ 260. cikk (3) bekezdése a jogalkotási irányelv átültetési intézkedéseinek bejelentési mulasztásához köti a szankcióindítványt. A 258. cikk igazgatási előfeltételeit azonban e mechanizmus sem engedi el. A pénzügyi szankció tehát nem automatikus eleme minden első megállapításnak."
+        },
+        {
+          "text": "Először igazgatási szakasz (észrevétel, majd indokolással ellátott vélemény), másodszor a bírósági megállapítás, harmadszor a 260. cikk (1) bekezdése szerinti teljesítés, illetve a (2)–(3) bekezdés szerinti pénzügyi következmény.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három sík a szerződési szerkezetből olvasható ki. Az EUMSZ 258. cikk az igazgatási lépéseket a bírósági út elé helyezi. A 260. cikk (1) bekezdése a megállapítás joghatásaként a szükséges intézkedések megtételét írja elő. A (2) bekezdés a korábbi ítélet nemteljesítése miatt második kört, a (3) bekezdés a bejelentési mulasztás szűk esetkörében már az első keresethez kapcsolható szankciót nyit."
+        },
+        {
+          "text": "A pénzügyi szankció a 258. cikk szerinti első bírósági szakasz kötelező eleme minden kötelezettségszegésnél, a 260. cikk (2) vagy (3) bekezdése szerinti külön feltételek nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a pénzügyi szankció nem automatikus eleme az első megállapításnak. Az EUMSZ 260. cikk (2) bekezdése a korábbi ítélet nemteljesítése miatti második körhöz, a (3) bekezdés a bejelentési mulasztás szűk esetköréhez köti a szankciót. A helyes: a 260. cikk (1) bekezdése szerinti első megállapítás teljesítési kötelezettséget keletkeztet. A tévedés a szankciót minden 258. cikk szerinti ítélethez hozzárendeli."
+        },
+        {
+          "text": "A Bizottság először a Bírósághoz fordul, és csak a keresetindítás után ad indokolással ellátott véleményt a tagállamnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a keresetindítás nem előzheti meg az igazgatási szakaszt. Az EUMSZ 258. cikk szerint a Bizottság először észrevételi lehetőséget biztosít, majd indokolással ellátott véleményt ad, és csak a határidőn belüli nemteljesítés után fordulhat a Bírósághoz. A helyes: az észrevétel és a vélemény a bírósági szakasz előfeltétele. A tévedés a bírósági utat az igazgatási garanciák elé helyezi."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "2fa47f049aec"
+    },
+    {
+      "question": "A 260. cikk (2) bekezdése szerinti átalányösszeg és kényszerítő bírság közül hogyan dönt a Bíróság?",
+      "options": [
+        {
+          "text": "A szerződési szöveg a két eszközt vagylagosan nevezi meg; a Bíróság a nemteljesítés megállapításakor átalányösszeg vagy kényszerítő bírság fizetésére kötelezheti a tagállamot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szankció vagylagos. Az EUMSZ 260. cikk (2) bekezdése szerint, ha a Bíróság megállapítja, hogy az érintett tagállam nem tett eleget az ítéletében foglaltaknak, a tagállamot átalányösszeg vagy kényszerítő bírság fizetésére kötelezheti. A Bizottság határozza meg azt az összeget, amelyet az adott körülmények között megfelelőnek ítél. A fizetésre kötelezés azonban a Bíróság döntése."
+        },
+        {
+          "text": "A Bizottság összegszerű indítványa a Bíróságot köti: a Bíróság a megjelölt átalányösszeget vagy kényszerítő bírságot köteles változtatás nélkül kiszabni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fizetésre kötelezés a Bíróság döntése, nem a Bizottság automatikus átültetése. Az EUMSZ 260. cikk (2) bekezdése szerint a Bizottság meghatározza az általa megfelelőnek ítélt összeget, a Bíróság pedig a nemteljesítés megállapításakor kötelezheti a tagállamot. A helyes: a második kör új bírósági megállapítást és mérlegelést kíván. A tévedés a bizottsági indítványt kógens ítéleti tartalomnak tekinti."
+        },
+        {
+          "text": "A Bíróság köteles mind az átalányösszeget, mind a kényszerítő bírságot egyidejűleg kiszabni, mert a szerződési szöveg a két eszközt kumulatívan írja elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szerződési szöveg a két eszközt vagylagosan nevezi meg. Az EUMSZ 260. cikk (2) bekezdése szerint a Bíróság a tagállamot átalányösszeg vagy kényszerítő bírság fizetésére kötelezheti. A helyes: a Bizottság az általa megfelelőnek ítélt összeget határozza meg, a fizetésre kötelezés a Bíróság döntése. A tévedés a vagylagosságot kumulációvá olvasja."
+        },
+        {
+          "text": "A második kör nem automatikus bírság, hanem új bírósági megállapítás a korábbi ítélet nemteljesítéséről, a Bizottság összegszerű indítványával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szankcióhoz újabb megállapítás kell. Az EUMSZ 260. cikk (2) bekezdése a Bizottság ismételt keresetéhez köti az eljárást, miután a tagállamnak lehetőséget biztosított észrevételei megtételére. A Bíróság ekkor a korábbi ítélet nemteljesítését állapítja meg, és kötelezhet fizetésre. Az automatikus bírság a szerződési szövegben nincs."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "e3b697948a33"
+    },
+    {
+      "question": "Egy tagállam a Bizottság indokolással ellátott véleményében foglaltaknak a kitűzött határidőn belül eleget tesz. Mely állítások helyesek a 258. cikk szerinti további eljárásra nézve?",
+      "options": [
+        {
+          "text": "A Bizottság a teljesítés ellenére is indíthatja a 260. cikk (2) bekezdése szerinti második kört, mert a pénzügyi szankció a véleményhez kapcsolódik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés előfeltétele a korábbi megállapító ítélet nemteljesítése. Az EUMSZ 260. cikk (2) bekezdése akkor nyílik meg, ha a tagállam a Bíróság ítéletében foglaltak teljesítéséhez szükséges intézkedéseket nem teszi meg. A helyes: megállapító ítélet nélkül nincs második kör. A tévedés a véleményt megállapító ítéletnek tekinti."
+        },
+        {
+          "text": "A határidőn belüli teljesítés ellenére a 259. cikk szerinti másik tagállam keresete automatikusan megnyílik, mert a Bizottság véleménye a kötelezettségszegést már megállapította.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 259. cikk külön előfeltételeket kíván, és a Bizottság véleménye nem automatikus megállapító ítélet. Az EUMSZ 259. cikk szerint a kereset előtt az ügyet a Bizottság elé kell terjeszteni, és a Bíróság dönt a kötelezettség elmaradásáról. A helyes: a 258. cikk szerinti vélemény teljesítése a bizottsági bírósági utat zárja le; a 259. cikk ettől elváló, alanyi kereseti út. A tévedés a véleményt jogerős megállapításnak olvassa."
+        },
+        {
+          "text": "A tagállam teljesítése ellenére a Bizottság azonnal átalányösszeget szabhat ki közigazgatási úton, bírósági eljárás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a pénzügyi szankció bírósági kötelezéshez kötött. Az EUMSZ 260. cikk (2) és (3) bekezdése szerint az átalányösszeg vagy a kényszerítő bírság fizetésére a Bíróság kötelezheti a tagállamot. A helyes: a Bizottság összegszerű indítványt tehet, de a fizetésre kötelezés bírósági döntés. A tévedés a Bizottságot bírságoló hatósággá emeli."
+        },
+        {
+          "text": "A Bizottság ekkor is köteles a Bírósághoz fordulni, mert a kötelezettségszegés egyszer már fennállt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vélemény teljesítése után a 258. cikk szerinti bírósági szakasz nem indul. Az EUMSZ 258. cikk a keresetindítást ahhoz köti, hogy az érintett állam a Bizottság által meghatározott határidőn belül ne tegyen eleget a véleményben foglaltaknak. A helyes: a határidőn belüli megfelelés az igazgatási utat lezárja. A tévedés a múltbeli mulasztást a keresetindítás kötelező okává teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "c118b296967e"
+    },
+    {
+      "question": "A 258. és a 259. cikk szerinti keresetindítás alanyaiban és a Bizottság szerepében miben tér el a két eljárás?",
+      "options": [
+        {
+          "text": "A 258. cikk szerint a keresetet a Bizottság indítja mérlegelési jogkörben; a 259. cikk szerint bármely tagállam alanyi jogon fordulhat a Bírósághoz egy másik tagállam ellen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az indítványozó alany elválik. Az EUMSZ 258. cikk a Bizottságot jogosítja fel arra, hogy a vélemény nemteljesítése után a Bírósághoz forduljon. Az EUMSZ 259. cikk alanyi keresetindítási jogot ad bármely tagállamnak egy másik tagállam Szerződésekből eredő kötelezettségének állítólagos megsértése miatt. A 260. cikk mindkét megállapító ítélethez kapcsolódik, a (2) bekezdés szerinti második kört azonban a Bizottság viszi."
+        },
+        {
+          "text": "A 259. cikk szerinti tagállami kereset csak akkor nyújtható be, ha a Bizottság a 258. cikk szerinti eljárást már elutasította.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két csatorna párhuzamosan fennmarad. Az EUMSZ 259. cikk alanyi keresetindítási jogot ad a Bizottság elé terjesztés után, anélkül hogy a 258. cikk szerinti bizottsági eljárás elutasítását előírná. A helyes: a 258. és a 259. cikk a keresetindítás alanyaiban és a Bizottság közbenső szerepében tér el. A tévedés a 259. cikket a 258. cikk másodlagos pótlásává teszi."
+        },
+        {
+          "text": "A 259. cikk szerinti kereset előfeltétele, hogy az ügyet a Bizottság elé terjesztik; a Bizottság közbenső szerepe azonban nem teszi a végeredményt engedélyhez kötötté.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az előterjesztés kötelező, az engedély nem. Az EUMSZ 259. cikk szerint mielőtt egy tagállam keresetet nyújt be, az ügyet a Bizottság elé kell terjesztenie. A Bizottság indokolással ellátott véleményt ad kontradiktórius nyilatkozatok után, de ha három hónapon belül nem ad véleményt, a Bírósághoz akkor is lehet fordulni. A 258. cikk szerinti bizottsági kereset és a 259. cikk szerinti tagállami kereset párhuzamosan fennmaradó csatornák."
+        },
+        {
+          "text": "A 260. cikk (2) bekezdése szerinti második kört a 259. cikk szerinti felperes tagállam is indíthatja, mert a 260. cikk mindkét keresethez kapcsolódik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a második kört a Bizottság viszi. Az EUMSZ 260. cikk (2) bekezdése a Bizottságot jogosítja fel az ismételt keresetre és az összeg meghatározására, és kifejezetten kimondja, hogy ez az eljárás nem érinti a 259. cikket. A helyes: a 260. cikk (1) bekezdése mindkét megállapító ítélethez fűz teljesítési kötelezettséget, de a pénzügyi második kör bizottsági út. A tévedés az (1) és a (2) bekezdés hatályát összemossa."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "a47ac776d861"
+    },
+    {
+      "question": "A 260. cikk (2) bekezdése szerinti második körben mi hiányzik a 258. cikk igazgatási mintájához képest, és mi lép a helyébe?",
+      "options": [
+        {
+          "text": "A szerződési szöveg a 258. cikk szerinti indokolással ellátott véleményt a második körben nem ismétli; a Bizottság ehelyett az átalányösszeg vagy a kényszerítő bírság általa megfelelőnek ítélt összegét határozza meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vélemény helyett összegszerű indítvány áll. Az EUMSZ 260. cikk (2) bekezdése az észrevételi jogot megőrzi, de az indokolással ellátott véleményt nem ismétli. A Bizottság az átalányösszeg vagy a kényszerítő bírság összegét határozza meg, amelyet az adott körülmények között megfelelőnek ítél. A fizetésre kötelezés a Bíróság döntése marad."
+        },
+        {
+          "text": "Az észrevételi jog a második körben is megmarad: a Bizottság csak azután fordulhat ismét a Bírósághoz, hogy a tagállamnak lehetőséget biztosított észrevételei megtételére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az igazgatási garancia nem tűnik el teljesen. Az EUMSZ 260. cikk (2) bekezdése szerint a Bizottság – miután a tagállamnak lehetőséget biztosított észrevételei megtételére – a Bírósághoz fordulhat. A 258. cikk szerinti indokolással ellátott vélemény azonban ehelyütt nem ismétlődik. A második kör tehát észrevételt követel, véleményt nem."
+        },
+        {
+          "text": "A második körben a Bizottságnak újabb, indokolással ellátott véleményt kell adnia, ugyanazzal a tartalmi és határidős kötöttséggel, mint a 258. cikk szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szerződési szöveg a 258. cikk szerinti indokolással ellátott véleményt a második körben nem ismétli. Az EUMSZ 260. cikk (2) bekezdése az észrevételi jogot megőrzi, de a Bizottság ehelyett az átalányösszeg vagy a kényszerítő bírság összegét határozza meg. A helyes: a vélemény helyébe az összegszerű indítvány lép. A tévedés a 258. cikk teljes igazgatási mintáját a (2) bekezdésre másolja."
+        },
+        {
+          "text": "A második körben sem észrevétel, sem összegszerű indítvány nem kell; a Bíróság hivatalból szabja ki a bírságot a korábbi ítélet alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az észrevétel és az összegszerű indítvány is a Bizottság ismételt keresetéhez kötött. Az EUMSZ 260. cikk (2) bekezdése szerint a Bizottság a tagállam észrevételei után fordulhat a Bírósághoz, és meghatározza az átalányösszeg vagy a kényszerítő bírság összegét. A helyes: a Bíróság a nemteljesítés megállapításakor kötelezhet fizetésre, hivatalbóli automatikus bírság nélkül. A tévedés a második kört ex officio szankcióvá gyengíti."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "f9d4937cf0e2"
+    },
+    {
+      "question": "A 259. cikk szerinti három hónapos hallgatási szabály a vélemény tartalmára nézve milyen következménnyel jár a bírósági út szempontjából?",
+      "options": [
+        {
+          "text": "A Bizottságnak hat hónapja van a véleményre; három hónap után a tagállam keresetindítási joga még nem nyílik meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szerződési határidő három hónap, nem hat. Az EUMSZ 259. cikk szerint, ha a Bizottság az ügy előterjesztésétől számított három hónapon belül nem ad véleményt, a Bírósághoz a vélemény hiányától függetlenül lehet fordulni. A helyes: a három hónapos eredménytelen határidő a bírósági utat megnyitja. A tévedés a határidőt egy fokkal elcsúsztatja."
+        },
+        {
+          "text": "A három hónapos határidő csak akkor fut, ha a Bizottság kifejezetten elutasítja a véleményadást; a hallgatás önmagában nem indítja a határidőt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő az ügy előterjesztésétől indul, nem az expressz elutasítástól. Az EUMSZ 259. cikk az ügy előterjesztésétől számított három hónapot köti a véleményadáshoz. A helyes: a hallgatás három hónap után nem akadálya a bírósági útnak. A tévedés a hallgatást elutasítási aktus hiányában határidőn kívülinek tekinti."
+        },
+        {
+          "text": "A vélemény tartalma nem előfeltétele a bírósági útnak, ha a három hónapos határidő eredménytelenül telt el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hallgatási szabály a tartalmi megalapozottságot sem teszi kötelező kapuvá. Az EUMSZ 259. cikk szerint a három hónapos eredménytelen határidő után a Bírósághoz a vélemény hiányától függetlenül lehet fordulni. A 259. cikk igazgatási szakasza ettől függetlenül kontradiktórius, szóbeli és írásbeli nyilatkozatokat követel, amíg a Bizottság véleményt ad. A 258. cikk szerinti vélemény-nemteljesítési logika tehát nem erőltethető a 259. cikkre."
+        },
+        {
+          "text": "Ha a Bizottság az ügy előterjesztésétől számított három hónapon belül nem ad véleményt, a vélemény hiányától függetlenül a Bírósághoz lehet fordulni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három hónapos hallgatás a bírósági utat megnyitja. Az EUMSZ 259. cikk az ügy Bizottság elé terjesztésétől számított három hónapot köt a véleményadáshoz; ha e határidő eredménytelen, a Bírósághoz a vélemény hiányától függetlenül lehet fordulni. A határidő a Bizottság hallgatását orvosolja. A tagállami keresetindítást a hallgatás nem zárja ki."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "67d988b31439"
+    },
+    {
+      "question": "A Bíróság a 258. cikk alapján megállapítja a kötelezettségszegést. Mely állítások írják le helyesen az ítélet azonnali joghatását a nemzeti jogszabályokra?",
+      "options": [
+        {
+          "text": "A Bizottság a megállapító ítélet napján automatikusan átalányösszeget szab ki, mert a 260. cikk (3) bekezdése minden 258. cikk szerinti ítélethez kapcsolódik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés csak a jogalkotási irányelv átültetési intézkedéseinek bejelentési mulasztására terjed ki, és ott is a Bizottság összegszerű indítványához és a Bíróság kötelezéséhez kötött. Az EUMSZ 260. cikk (2) bekezdése a második kört a korábbi ítélet nemteljesítéséhez köti. A helyes: az (1) bekezdés szerinti első megállapítás teljesítési kötelezettséget keletkeztet. A tévedés a szankciót minden megállapító ítélethez automatikusan hozzárendeli."
+        },
+        {
+          "text": "A megállapító ítélet a jogsértő nemzeti jogszabályt a 264. cikk mintájára semmissé teszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 264. cikk a megsemmisítési keresetnél az uniós aktus semmisségét eredményezi, nem a 258. cikk szerinti nemzeti viszonyban. Az EUMSZ 260. cikk (1) bekezdése a megállapításhoz azt fűzi, hogy az adott állam tegye meg az ítélet teljesítéséhez szükséges intézkedéseket. A helyes: a megállapító ítélet teljesítési kötelezettséget keletkeztet, nem azonnali semmisséget. A tévedés a két peres út joghatását összemossa."
+        },
+        {
+          "text": "A nemzeti bíróságok a megállapító ítélet alapján hivatalból megsemmisítik a nemzeti aktust, mert a 280. cikk az ítéletet közvetlenül végrehajthatóvá teszi a nemzeti jogban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 280. cikk a Bíróság ítéleteit a 299. cikk feltételei szerint végrehajthatóvá teszi, de a 258. cikk szerinti megállapító ítélet elsődleges jogkövetkezménye a 260. cikk (1) bekezdése szerinti teljesítési kötelezettség. A helyes: a nemzeti aktus azonnali semmissége nem a megállapítás elsődleges joghatása. A tévedés a végrehajthatóságot nemzeti semmisségi hatáskörré olvassa."
+        },
+        {
+          "text": "A tagállamnak semmilyen további intézkedést nem kell tennie, mert a megállapítás önmagában helyreállítja a szerződési megfelelést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megállapítás önmagában nem helyreállítja a megfelelést. Az EUMSZ 260. cikk (1) bekezdése szerint az adott államnak meg kell tennie az Európai Unió Bíróságának ítéletében foglaltak teljesítéséhez szükséges intézkedéseket. A helyes: a teljesítési kötelezettség a megállapító ítélet elsődleges joghatása. A tévedés a megállapítást automatikus orvoslásnak tekinti."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "80cde76ad31a"
+    },
+    {
+      "question": "A 70. cikk szerinti értékelési mechanizmus a szabadságon, a biztonságon és a jog érvényesülésén alapuló térségben hogyan viszonyul a kötelezettségszegési eljáráshoz?",
+      "options": [
+        {
+          "text": "Az értékelési mechanizmus a 258., a 259. és a 260. cikk sérelme nélkül alkalmazható; az értékelés nem fogyasztja el a kötelezettségszegési utat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két intézmény párhuzamosan fennmarad. Az EUMSZ 70. cikk a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség értékelési mechanizmusát a 258., a 259. és a 260. cikk sérelme nélkül engedi. Az értékelés tehát nem helyettesíti és nem zárja ki a kötelezettségszegési eljárást. A túlzott hiány sávjában a 126. cikk (10) bekezdése ezzel szemben az eljárás-indítást elvonja, így a két szerződési megoldás ellentétes irányú."
+        },
+        {
+          "text": "A 70. cikk a kötelezettségszegési eljárás helyébe lépő, kizárólagos ellenőrzési utat nyit a szabadságon, a biztonságon és a jog érvényesülésén alapuló térségben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értékelési mechanizmus nem lép a kötelezettségszegési eljárás helyébe. Az EUMSZ 70. cikk az értékelést a 258., a 259. és a 260. cikk sérelme nélkül engedi, tehát a kötelezettségszegési csatorna megmarad. A helyes: az értékelés és a 258–260. cikk szerinti út egymás mellett alkalmazható. A tévedés az értékelést lex specialis kizáró útnak olvassa."
+        },
+        {
+          "text": "A 70. cikk szerinti értékelés lefolytatása után a Bizottság már nem indíthat 258. cikk szerinti keresetet ugyanarra a tárgyra, mert az értékelés fogyasztja el a kötelezettségszegési utat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értékelés nem fogyasztja el a kötelezettségszegési utat. Az EUMSZ 70. cikk expressis verbis a 258., a 259. és a 260. cikk sérelme nélkül engedi az értékelési mechanizmust. A helyes: a két út párhuzamosan fennmarad. A tévedés a 126. cikk (10) bekezdésének kizáró logikáját vetíti a 70. cikkre."
+        },
+        {
+          "text": "A 126. cikk (10) bekezdése a túlzott hiány sávjában kizárja a 258–259. cikk szerinti eljárás-indítást, míg a 70. cikk az értékelést éppen a kötelezettségszegési út fenntartása mellett engedi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szerződési szabály ellentétes irányú. Az EUMSZ 126. cikk (10) bekezdése a túlzott hiány (1)–(9) bekezdéseinek keretében elvonja az eljárás-indítási jogot. A 70. cikk ezzel szemben az értékelési mechanizmust a 258–260. cikk sérelme nélkül teszi lehetővé. A költségvetési felügyelet kizáró sávja tehát nem mintája a térségi értékelésnek."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "1fadb04201ac"
+    },
+    {
+      "question": "A Bizottság megítélése szerint a tagállam a Szerződésekből eredő kötelezettségét nem teljesítette. Az EUMSZ 258. cikk szövege szerint mi a következő kötelező lépés az igazgatási szakaszban?",
+      "options": [
+        {
+          "text": "A Bizottság a vélemény kiadása után automatikusan, mérlegelés nélkül köteles a Bírósághoz fordulni, ha a határidő eredménytelenül telt el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a keresetindítás nem automatikus. Az EUMSZ 258. cikk szerint a Bizottság a Bírósághoz fordulhat, ha a tagállam a véleményben foglaltaknak a határidőn belül nem tesz eleget; a modalitás mérlegelést fejez ki. A helyes: a kötelező keresetindítás a szerződés szövegéből hiányzik. A tévedés a „fordulhat” fordulatot „fordul” kötelezettséggé olvassa."
+        },
+        {
+          "text": "A Bizottság az ügyről indokolással ellátott véleményt ad, miután az érintett államnak lehetőséget biztosított észrevételei megtételére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az észrevételi jog a 258. cikk szerinti vélemény kötelező előfeltétele, nem fakultatív gesztus. Az EUMSZ 258. cikk szerint a Bizottság indokolással ellátott véleményt ad, miután az érintett államnak lehetőséget biztosított észrevételei megtételére. A véleményhez a Bizottság határidőt tűz. A bírósági szakasz csak e határidő eredménytelen eltelte után nyílhat meg."
+        },
+        {
+          "text": "A vélemény a Bizottság által meghatározott határidőhöz kötött teljesítési felszólítás; a határidő a bírósági szakasz megnyílásának feltételeit rögzíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vélemény nem határidő nélküli politikai felszólítás. Az EUMSZ 258. cikk a véleményben foglaltak teljesítését a Bizottság által meghatározott határidőhöz köti. Ha a tagállam e határidőn belül eleget tesz, a bírósági szakasz a szerződés szövege szerint nem nyílik meg. A keresetindítás a nemteljesítés után is mérlegelési jog: a Bizottság a Bírósághoz fordulhat."
+        },
+        {
+          "text": "A Bizottság a kötelezettségszegés megítélése után azonnal, észrevétel nélkül köteles indokolással ellátott véleményt adni, mert az észrevételi jog csak a 259. cikkben létezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 258. cikk is észrevételi lehetőséget követel a vélemény előtt. Az EUMSZ 258. cikk szövege szerint a Bizottság indokolással ellátott véleményt ad, miután az érintett államnak lehetőséget biztosított észrevételei megtételére. A helyes: az észrevétel a 258. cikk igazgatási szakaszának első lépése. A tévedés az észrevételt kizárólag a 259. cikk kontradikciójához köti."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "734e7dbd4fcd"
+    },
+    {
+      "question": "A nemzeti központi bank Szerződésekből eredő kötelezettségét a Bíróság megállapító ítéletben megszegésnek minősíti. Mi a bank kötelezettsége az ítélet után?",
+      "options": [
+        {
+          "text": "A nemzeti központi bankkal szembeni eljárásban kizárólag a Bizottság indíthatja a 258. cikk szerinti keresetet; az EKB Kormányzótanácsa hatáskör nélküli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, e viszonyban az EKB Kormányzótanácsa rendelkezik a 258. cikk szerinti hatáskörrel. A 271. cikk a nemzeti központi bankok Szerződésekből, valamint a KBER és az EKB alapokmányából eredő kötelezettségei tekintetében a Kormányzótanácsra másolja a bizottsági hatáskört. A helyes: a Bizottság helyett a Kormányzótanács az indítványozó. A tévedés a Bizottságot tartja meg egyedüli indítványozónak."
+        },
+        {
+          "text": "A bank köteles megtenni az ítéletben foglaltak teljesítéséhez szükséges intézkedéseket; a joghatás a 260. cikk (1) bekezdésével azonos teljesítési séma.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 271. cikk d) pontja a teljesítési sémát a nemzeti központi bankokra is kiterjeszti. Ha a Bíróság megállapítja, hogy a bank a Szerződésekből eredő kötelezettségét nem teljesítette, a bank köteles megtenni az ítéletben foglaltak teljesítéséhez szükséges intézkedéseket. Az eljárásindító hatáskör e viszonyban az EKB Kormányzótanácsáé. Az azonnali semmisség nem a megállapítás elsődleges joghatása."
+        },
+        {
+          "text": "A megállapító ítélet a nemzeti központi bank belső aktusait automatikusan semmissé teszi, ezért a banknak további intézkedést nem kell tennie.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a joghatás teljesítési kötelezettség, nem azonnali semmisség. A 271. cikk d) pontja szerint a bank köteles megtenni az ítéletben foglaltak teljesítéséhez szükséges intézkedéseket, a 260. cikk (1) bekezdésével azonos sémában. A helyes: a megállapítás után a banknak cselekednie kell. A tévedés a 264. cikk megsemmisítési joghatását vetíti a banki viszonyra."
+        },
+        {
+          "text": "E viszonyban az eljárásindító hatáskör az Európai Központi Bank Kormányzótanácsáé: a 271. cikk a 258. cikk bizottsági mintáját a Kormányzótanácsra másolja a nemzeti központi bankok kötelezettségeinél.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 271. cikk a Bizottság szerepét az EKB Kormányzótanácsára másolja. A hatáskör a nemzeti központi bankok Szerződésekből, valamint a KBER és az EKB alapokmányából eredő kötelezettségeire terjed ki. A megállapító ítélet után a bankot a teljesítési kötelezettség terheli. Az EBB Igazgatótanácsa párhuzamos mintát kap a Bank alapokmányából eredő tagállami kötelezettségeknél — az a viszony azonban elválik a nemzeti központi banki ágtól."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "a9c3d309d293"
+    }
+  ]
+}

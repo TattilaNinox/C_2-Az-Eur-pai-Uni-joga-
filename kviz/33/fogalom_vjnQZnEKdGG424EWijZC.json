@@ -1,0 +1,765 @@
+{
+  "id": "vjnQZnEKdGG424EWijZC",
+  "sorszam": 33,
+  "cim": "A munkavállalók szabad mozgása; a letelepedés szabadsága önálló (...)",
+  "generationType": "fogalom",
+  "title": "33. A munkavállalók szabad mozgása; a letelepedés szabadsága önálló (...)",
+  "questions": [
+    {
+      "question": "A C-66/85. sz. Lawrie-Blum-ügy szerint mi tartozik a „munkavállaló” uniós fogalmához?",
+      "options": [
+        {
+          "text": "Munkavállaló minden olyan személy, aki egy bizonyos ideig egy másik személy számára és annak irányítása alatt szolgáltatásokat végez, és ezért díjazásban részesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bíróság a munkavállalót funkcionális ismérvekkel határozza meg. A C-66/85. sz. Lawrie-Blum-ügy szerint a fogalom magában foglal minden olyan személyt, aki egy bizonyos ideig egy másik személy számára és annak irányítása alatt szolgáltatásokat végez, amelyért cserébe díjazásban részesül. A Sotgiu-ítélet (C-152/73) szerint a jogviszony közjogi vagy magánjogi természete közömbös. A heti néhány órás óratartás és a kezdő fizetés alatti díjazás sem zárja ki a minősítést, ha a tevékenység tényleges és valós."
+        },
+        {
+          "text": "A tanárjelölt, aki az iskolai hatóságok irányítása alatt óratartással szolgáltatást nyújt és díjazásban részesül, a 45. cikk értelmében munkavállaló, függetlenül a munkaviszony jogi jellegétől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Lawrie-Blum-ügy konkrét tényállása is a funkcionális próbát igazolja. A Bíróság szerint a tanárjelölt, aki az iskolai hatóságok irányítása és felügyelete alatt a tanári hivatásra felkészítő szolgálatot tölt, óratartással szolgáltatást nyújt és díjazásban részesül, az EGK-Szerződés 48. cikkének (1) bekezdése — a mai EUMSZ 45. cikk — értelmében munkavállaló. A Beamte auf Widerruf státusz és a nemzeti állampolgársági feltétel önmagában nem emeli ki a hatály alól. A fogalom tehát nem a nemzeti munkajogi címkétől függ."
+        },
+        {
+          "text": "A közjogi kinevezés automatikusan kizárja a 45. cikk hatályát, mert a köztisztviselői státusz önmagában közszolgálati kivételt jelent.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közjogi jogállás nem jelöli ki a közszolgálati kivételt. A helyes: a C-66/85. sz. Lawrie-Blum-ügy szerint a 48. cikk (4) bekezdését — a mai EUMSZ 45. cikk (4) bekezdését — szűken kell értelmezni, és hatályát nem lehet a munkavállaló és a munkáltató közötti kapcsolat jogi jellegétől függővé tenni. Ellenkező esetben a tagállamok maguk jelölnék ki a kivétel alá vont álláshelyeket. A tévedés a Beamte-státuszt összekeveri a közszolgálati kivétel anyagi magjával."
+        },
+        {
+          "text": "Munkavállaló csak az, aki magánjogi munkaszerződéssel, teljes munkaidőben és a fogadó állam létfenntartási minimumát elérő bérrel dolgozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fogalom sem a jogviszony jellegét, sem a teljes munkaidőt, sem a létminimumot nem teszi konjunktív feltétellé. A helyes: a C-66/85. sz. Lawrie-Blum-ügy szerint a munkavállaló más irányítása alatt, díjazás ellenében, meghatározott ideig végzett szolgáltatást jelent; a Sotgiu-ítélet (C-152/73) a közjogi jogállást is a hatály alatt hagyja. A Levin-ítélet fényében a nem teljes munkaidő sem akadály, ha a tevékenység tényleges és valós. A tévedés a nemzeti munkaszerződéses mintát az uniós fogalom helyébe tolja."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "e0c35a17283a"
+    },
+    {
+      "question": "Az EUMSZ 45. cikk (1)–(2) bekezdése milyen jogi jelleget és tartalmat ad a munkavállalók szabad mozgásának?",
+      "options": [
+        {
+          "text": "A (2) bekezdés csak a belépési engedély megszerzésének tilalmát oldja fel, a javadalmazásra és a foglalkoztatási feltételekre nem terjed ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés kifejezetten a javadalmazást és a munkafeltételeket is nevezi. A helyes: az EUMSZ 45. cikk (2) bekezdése a megkülönböztetés megszüntetését a foglalkoztatás, a javadalmazás, valamint az egyéb munka- és foglalkoztatási feltételek tekintetében írja elő. Ez egyenlő bánásmód, nem csupán piacra lépési tilalomfeloldás. A tévedés a szabadságot belépési formalitásra szűkíti, miközben a cikk a bér- és feltételbeli egyenlőséget is védi."
+        },
+        {
+          "text": "A 45. cikk (1) bekezdése csak a Bizottság és a Tanács irányelvi programját indítja el, alanyi jogot a munkavállaló nem vezethet le belőle.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés alanyi jogot ad, nem csupán jogalkotási programot. A helyes: az EUMSZ 45. cikk (1) bekezdése az Unión belüli szabad mozgást biztosítandóként, közvetlenül alkalmazandó alanyi jogként mondja ki; a (2) bekezdés az állampolgársági megkülönböztetés megszüntetését a foglalkoztatás, a javadalmazás és az egyéb munkafeltételek mezőjén adja. A 50. cikk irányelvi programja a letelepedési fejezeté, nem a 45. cikk helyettesítője. A tévedés a letelepedési másodlagos jogalkotást a munkavállalói alanyi jog helyére írja."
+        },
+        {
+          "text": "A (2) bekezdés szerinti tartalom az egyenlő bánásmód a foglalkoztatás, a javadalmazás, valamint az egyéb munka- és foglalkoztatási feltételek tekintetében, nem csupán a piacra lépési tilalom feloldása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés diszkriminációtilalma a munkafeltételek teljes mezőjét fedi. Az EUMSZ 45. cikk (2) bekezdése szerint a szabad mozgás magában foglalja „az állampolgárság alapján történő minden megkülönböztetés megszüntetését a tagállamok munkavállalói között a foglalkoztatás, a javadalmazás, valamint az egyéb munka- és foglalkoztatási feltételek tekintetében”. Ez egyenlő bánásmód, nem pusztán belépési engedély. A tilalom tehát a bérre és a foglalkoztatási feltételekre is kiterjed."
+        },
+        {
+          "text": "A 45. cikk (1) bekezdése az Unión belüli szabad mozgást közvetlenül alkalmazandó alanyi jogként mondja ki, nem csupán programmondatként.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a cikk a szabadságot érvényesíthető alanyi jogként rögzíti. Az EUMSZ 45. cikk (1) bekezdése szerint „Az Unión belül biztosítani kell a munkavállalók szabad mozgását.” Ez nem programmondat, hanem közvetlenül alkalmazandó alanyi jog. A (2) bekezdés ezt tartalommal tölti meg: az állampolgárság alapján történő minden megkülönböztetés megszüntetése. A szabadság tehát nem csupán politikai célkitűzés."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "1ab078ac4789"
+    },
+    {
+      "question": "Miben különbözik az EUMSZ 45. cikk (3) bekezdésének közrendi záradéka a (4) bekezdés közszolgálati kivételétől?",
+      "options": [
+        {
+          "text": "A (4) bekezdés a közszolgálatban történő foglalkoztatást a cikk egészének — ideértve a diszkriminációtilalmat is — hatálya alól kiveszi; ez szűken olvasandó kivétel, más tényállás és más joghatás, mint a (3) bekezdés záradéka.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közszolgálati kivétel a cikk hatályát zárja el az adott álláshelyről. Az EUMSZ 45. cikk (4) bekezdése szerint „E cikk rendelkezései nem vonatkoznak a közszolgálatban történő foglalkoztatásra.” Ez nem a (3) bekezdés közrendi záradéka: más tényállás, más joghatás. A közszolgálati kivétel a diszkriminációtilalmat is elzárja; a közrendi záradék a már munkavállalónak minősülő személy mozgási jogait korlátozhatja. A Lawrie-Blum-ügy a kivételt szűken olvassa."
+        },
+        {
+          "text": "A (3) bekezdés a közrendi, közbiztonsági vagy közegészségügyi okok alapján indokolt korlátozásokra figyelemmel négy mozgási-tartózkodási jogosultságot fűz a már munkavállalónak minősülő személyhez.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés a mozgási jogok tartalmát és korlátait adja. Az EUMSZ 45. cikk (3) bekezdése a közrendi, közbiztonsági vagy közegészségügyi okokra figyelemmel jogot biztosít arra, hogy a munkavállaló tényleges állásajánlatra jelentkezzen, e célból szabadon mozogjon, munkavállalás céljából tartózkodjon, és alkalmazását követően a Bizottság rendeletei szerint maradjon. A záradék a már elismert mozgási jogokat korlátozhatja. Nem a (2) bekezdés diszkriminációtilalmának általános feloldása."
+        },
+        {
+          "text": "A (3) és a (4) bekezdés ugyanazt a kivételt ismétli: mindkettő a köztisztviselői állások teljes katalógusát automatikusan kiveszi a szabad mozgás alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két bekezdés nem azonos kivétel. A helyes: az EUMSZ 45. cikk (3) bekezdése a közrend–közbiztonság–közegészség három okát a mozgási jogosultságok korlátjaként nevezi meg, míg a (4) bekezdés a közszolgálati foglalkoztatást a cikk egészének hatálya alól kiveszi. A (4) bekezdés szűken olvasandó, nem a tagállam által köztisztviselőnek minősített állások szabad katalógusa. A tévedés a közrendi záradékot és a közszolgálati kivételt egy tényállássá olvasztja."
+        },
+        {
+          "text": "A (4) bekezdés csak a (3) bekezdés a)–d) pontjának mozgási jogait korlátozza, a (2) bekezdés egyenlő bánásmódi tilalmát érintetlenül hagyja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közszolgálati kivétel a cikk egészét — a diszkriminációtilalmat is — elzárja az adott álláshelyről. A helyes: az EUMSZ 45. cikk (4) bekezdése szerint a cikk rendelkezései nem vonatkoznak a közszolgálatban történő foglalkoztatásra; ez a diszkriminációtilalmat is elzárja, szemben a (3) bekezdés közrendi záradékával, amely a már munkavállalónak minősülő személy mozgási jogait korlátozhatja. A tévedés a (4) bekezdést a (3) bekezdés alá rendeli."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "9ad4c32d7069"
+    },
+    {
+      "question": "A C-139/85. sz. Kempf-ügy szerint mikor marad a részmunkaidős tevékenység a munkavállalók szabad mozgásának hatálya alatt?",
+      "options": [
+        {
+          "text": "A létfenntartási minimum alatti díjazású munka csak akkor tényleges, ha a fogadó állam hatósága előzetesen igazolja, hogy a tevékenység a piaci bérszintet eléri.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a ténylegesség nem a piaci bérszint hatósági igazolásához kötött. A helyes: a C-139/85. sz. Kempf-ügy a Levin-ítéletből indulva rögzíti, hogy a létfenntartási minimumnál alacsonyabb jövedelmű tevékenység is a hatály alatt marad, ha tényleges és valós; a részmunkaidő nem zár ki, a marginális és járulékos tevékenység viszont igen. A heti tizenkét órás tanítás ténylegességét a nemzeti bíróság állapította meg. A tévedés a bérszintet a gazdasági minőség helyébe tolja."
+        },
+        {
+          "text": "Ha a munkavállaló közpénzből finanszírozott szociális ellátással egészíti ki a bérét, a tevékenység automatikusan kiesik a 45. cikk hatálya alól, mert nem önfenntartó gazdasági tevékenység.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közpénzből származó jogszerű kiegészítés önmagában nem oltja ki a munkavállalói jogállást. A helyes: a C-139/85. sz. Kempf-ügy szerint a tényleges és valós részmunkaidős foglalkoztatásban álló személy nem zárható ki csupán azért, mert díjazása a létfenntartási minimum alatt van, és azt más, jogszerű megélhetési eszközökkel kívánja kiegészíteni. A személyi hatályt a munka jellege határozza meg, nem a jövedelem forrása. A tévedés a holland hatóság érvelését ismétli, amelyet a Bíróság elutasított."
+        },
+        {
+          "text": "A tényleges és valós részmunkaidős foglalkoztatásban álló személy nem zárható ki csupán azért, mert díjazása a létfenntartási minimum alatt van, és azt jogszerű megélhetési eszközökkel — akár közpénzből — egészíti ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kempf-ügy a Levin-próbát a közpénz kérdésére is rávetíti. A C-139/85. sz. Kempf-ügy szerint a szabad mozgás hatálya kiterjed arra is, aki a fogadó államban a létfenntartási minimumnál alacsonyabb jövedelmet biztosító munkavállalói tevékenységet folytat, függetlenül attól, hogy e jövedelmet egyéb jövedelemmel egészíti-e ki. A heti tizenkét órás tanítás ténylegességét a nemzeti bíróság állapította meg. A kiegészítés jogszerű volta a munkavállalói jogállást nem oltja ki, ha a munka maga tényleges és valós."
+        },
+        {
+          "text": "A „munkavállaló” és a „munkavállalói tevékenység” fogalmát tágan kell értelmezni, a kivételeket és eltéréseket szigorúan; a csupán marginális és járulékos tevékenységek azonban kívül esnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bíróság a fogalmat tágan, a kivételeket szűken olvassa. A C-139/85. sz. Kempf-ügy szerint a szabad mozgás a Közösség egyik alapja, ezért a munkavállaló és a munkavállalói tevékenység fogalmát tágan kell értelmezni, a kivételeket és eltéréseket szigorúan. A részmunkaidő nem esik kívül a szabályokon, de a csupán marginális és járulékos tevékenységek igen. A tényértékelés az előzetes döntéshozatalban a nemzeti bíróságé. A hatály tehát a munka minőségétől, nem a bérszinttől függ."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "248f75b0f090"
+    },
+    {
+      "question": "A C-344/87. sz. Bettray-ügy milyen határt húz a Lawrie-Blum-próba alá eső munkavállalói minőséghez képest?",
+      "options": [
+        {
+          "text": "Ha a díjazás forrása és a tevékenység célja csupán a munkavégző képesség rehabilitációja vagy reintegrációja, a tevékenység nem tekinthető tényleges és valós gazdasági tevékenységnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bettray-ügy a Lawrie-Blum-próbát a tevékenység gazdasági minőségéhez köti. A C-344/87. sz. Bettray-ügy szerint a személy akkor munkavállaló, ha meghatározott ideig másik személy számára és irányítása alatt szolgáltatást végez, és díjazást kap; a jogviszony jellege közömbös. Ha azonban a cél csupán a munkavégző képesség rehabilitációja vagy reintegrációja, a tevékenység nem tényleges és valós gazdasági tevékenység. A Wet Sociale Werkvoorziening szerinti szocioterápiás foglalkoztatás ezért nem a szabad mozgás alanyi jogának alapja."
+        },
+        {
+          "text": "A Bettray-ügy szerint a közpénzből finanszírozott bármely részmunkaidő automatikusan kiesik a 45. cikk hatálya alól, mert a bér forrása közpénz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közpénz önmagában nem a Bettray-határ. A helyes: a C-344/87. sz. Bettray-ügy a rehabilitációs, szokásos piaci feltételeken kívüli szociális foglalkoztatást nem tekinti tényleges gazdasági tevékenységnek; a C-139/85. sz. Kempf-ügy szerint viszont a jogszerű — akár közpénzből származó — kiegészítés a tényleges részmunkaidőt nem oltja ki. A két ügy elhatárolása: Kempf a jövedelemkiegészítés, Bettray a munka gazdasági minősége. A tévedés a két ratio összekeverése."
+        },
+        {
+          "text": "Önmagában az, hogy valaki olyan nemzeti rendszer keretében dolgozik, amely azoknak biztosít munkalehetőséget, akik a szokásos feltételek mellett nem képesek munkát vállalni, nem teszi munkavállalóvá a 45. cikk értelmében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti szociális foglalkoztatási keret önmagában nem pótolja a gazdasági minőséget. A C-344/87. sz. Bettray-ügy szerint önmagában az, hogy valaki egy olyan nemzeti rendszer keretében dolgozik, amelynek célja munkalehetőség biztosítása azoknak, akik a szokásos feltételek mellett nem képesek munkát vállalni, nem teszi munkavállalóvá a 48. cikk (1) bekezdése — a mai EUMSZ 45. cikk — értelmében. A Bettray-határ nem a közpénz (Kempf), hanem a munka piaci-gazdasági minősége. A Lawrie-Blum-ismérvek formai megléte tehát nem elég, ha a cél rehabilitáció."
+        },
+        {
+          "text": "Ha a szociális foglalkoztatásban a díjazás fedezi a saját és a család szükségleteit, a tevékenység mindenképpen a 45. cikk szerinti munkavállalói minőség.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megélhetést fedező díjazás önmagában nem dönti el a gazdasági minőséget. A helyes: a C-344/87. sz. Bettray-ügy szerint ha a díjazás forrása és a tevékenység célja csupán a munkavégző képesség rehabilitációja vagy reintegrációja, a tevékenység nem tekinthető tényleges és valós gazdasági tevékenységnek, még ha a nemzeti törvény a díjazást a szükségletek fedezéséhez igazítja is. A Lawrie-Blum-próba a gazdasági szolgáltatást követeli, nem csupán a létfenntartási összeget. A tévedés a díjazás szintjét a piaci-gazdasági jelleg helyébe tolja."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "b6b5d40c4a02"
+    },
+    {
+      "question": "Az EUMSZ 45. cikk (3) bekezdése a)–d) pontja szerinti négy jogosultság közül melyek állnak meg a helyüket?",
+      "options": [
+        {
+          "text": "A d) pont szerinti maradás a fogadó állam belátása szerint bármikor megvonható, mert a Bizottság rendeletei csak ajánlások.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a d) pont a maradást a Bizottság rendeleti feltételeihez köti, nem tagállami szabad belátáshoz. A helyes: az EUMSZ 45. cikk (3) bekezdés d) pontja szerint a munkavállaló jogosult arra, hogy „egy tagállamban történő alkalmazását követően a Bizottság által rendeletekben meghatározott feltételek mellett az adott tagállam területén maradjon”. A maradás tehát uniós rendeleti feltételekhez igazodik. A tévedés a rendeletet ajánlássá gyengíti."
+        },
+        {
+          "text": "A munkavállaló jogosult tényleges állásajánlatokra jelentkezni, és e célból a tagállamok területén szabadon mozogni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az a) és a b) pont a belépést és a mozgást a tényleges állásajánlathoz köti. Az EUMSZ 45. cikk (3) bekezdése a) pontja szerint a munkavállaló jogosult arra, hogy „tényleges állásajánlatokra jelentkezzen”; a b) pont szerint e célból a tagállamok területén szabadon mozogjon. Ez a közrendi, közbiztonsági vagy közegészségügyi okok alapján indokolt korlátozásokra figyelemmel áll. A (3) bekezdés e pontjai nem a (2) bekezdés ismétlése."
+        },
+        {
+          "text": "A munkavállaló jogosult munkavállalás céljából tartózkodni a fogadó állam saját állampolgárainak foglalkoztatási szabályai szerint, valamint alkalmazását követően a Bizottság rendeleteiben meghatározott feltételek mellett ott maradni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a c) és a d) pont a tartózkodást és a maradást szabályozza. Az EUMSZ 45. cikk (3) bekezdés c) pontja a tartózkodást „az adott tagállam állampolgárainak foglalkoztatására vonatkozó törvényi, rendeleti vagy közigazgatási rendelkezéseknek megfelelően” biztosítja; a d) pont az alkalmazást követő maradást a Bizottság rendeleti feltételeihez utalja. A c) pont tehát egyenlő bánásmódot ad, nem kedvezményes idegenrendészeti státuszt. A d) pont a munkaviszony utáni maradást másodlagos joghoz köti."
+        },
+        {
+          "text": "A (3) bekezdés a)–d) pontja a (2) bekezdés diszkriminációtilalmának szó szerinti ismétlése, külön mozgási jogosultság nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés nem a (2) bekezdés ismétlése. A helyes: az EUMSZ 45. cikk (3) bekezdése a)–d) pontja négy önálló jogosultságot ad — jelentkezés, mozgás, tartózkodás, maradás —, a közrendi–közbiztonsági–közegészségügyi korlátozásokra figyelemmel; a (2) bekezdés az állampolgársági megkülönböztetés megszüntetését a foglalkoztatás, a javadalmazás és a munkafeltételek mezőjén rendezi. Az a) és a b) pont a belépést a tényleges állásajánlathoz köti. A tévedés a két bekezdést tartalmilag azonosnak kezeli."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "3d7162217aac"
+    },
+    {
+      "question": "A C-379/87. sz. Groener-ügyben a nyelvi feltétel milyen uniós keretek között kerülhet vizsgálatra?",
+      "options": [
+        {
+          "text": "A Groener-ügy a tanári munka munkavállalói minőségét vonta kétségbe, mert a nyelvvizsga sikertelensége a Lawrie-Blum-próbát megdönti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Groener-vita nem a munkavállalói minőségről szól. A helyes: a C-379/87. sz. Groener-ügyben az állandó, teljes munkaidős oktatói állás a Lawrie-Blum-próba szerint tényleges; a High Court a nyelvi feltételt a 1612/68 rendelet 3. cikke és a 48. cikk (3) bekezdése — a mai EUMSZ 45. cikk (3) bekezdése — szerint kérdezte. A nyelvvizsga a foglalkoztatási feltétel és a közrend keretében vizsgálandó, nem a munkavállaló-fogalom eleme. A tévedés a képesítési küszöböt a fogalmi ismérvvel keveri."
+        },
+        {
+          "text": "Ha a nyelvi követelmény állampolgárságra nem hivatkozik, a 45. cikk és a 1612/68 rendelet eleve nem vizsgálható, mert a szabály semleges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semleges forma nem zárja ki a kirekesztő hatás vizsgálatát. A helyes: a C-379/87. sz. Groener-ügyben a High Court azt kérdezte, hogy a 1612/68 rendelet 3. cikke kiterjed-e azokra az állampolgárságra nem hivatkozó nemzeti szabályokra, amelyek kizárólagos vagy fő hatásuk szerint más tagállami állampolgárokat tartanak távol; a Bíróság e rendelet 3. cikk (1) bekezdésének második francia bekezdéséből indult. A 45. cikk (3) bekezdése a közrendet a mozgási jogok korlátjaként nevezi meg. A tévedés a formai semlegességet substantive immunitásnak tekinti."
+        },
+        {
+          "text": "A 45. cikk (3) bekezdése a közrendet, a közbiztonságot és a közegészséget a mozgási jogok korlátjaként nevezi meg, nem a (2) bekezdés diszkriminációtilalmának általános feloldásaként.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közrendi záradék a mozgási jogok korlátja, nem a diszkriminációtilalom feloldása. Az EUMSZ 45. cikk (3) bekezdése — a Groener-ügyben még a 48. cikk (3) bekezdése — a közrendet, a közbiztonságot és a közegészséget a mozgási jogok korlátjaként nevezi meg. A High Court azt is kérdezte, hogy a közrend fedi-e az ír nyelv mint első hivatalos nyelv politikáját. Sem ott, sem a letelepedési 52. cikknél nem olvasható a közrend a diszkriminációtilalom általános feloldásaként. A nyelvi politika tehát nem automatikus közrendi mentesség."
+        },
+        {
+          "text": "A 1612/68/EGK rendelet 3. cikke szerint a tagállam nemzeti rendelkezései vagy gyakorlatai nem alkalmazhatók, ha bár állampolgárságra való tekintet nélkül alkalmazandók, kizárólagos vagy fő hatásuk más tagállamok állampolgárainak távoltartása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet a semlegesnek látszó, de kirekesztő hatású szabályokat is tiltja. A C-379/87. sz. Groener-ügyben a Bíróság a 1612/68 rendelet 3. cikkének (1) bekezdése második francia bekezdéséből indult: a nemzeti rendelkezések vagy közigazgatási gyakorlatok nem alkalmazhatók, ha bár állampolgárságra való tekintet nélkül alkalmazandók, kizárólagos vagy fő hatásuk más tagállamok állampolgárainak távoltartása. A High Court éppen a semleges ír nyelvi szabály ilyen hatását kérdezte. A nyelvi feltétel tehát nem esik automatikusan kívül a tilalmon."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "8a16b432bceb"
+    },
+    {
+      "question": "Az EUMSZ 49. cikk szerinti letelepedési szabadság tilalmi magja és tartalma milyen megállapításokat igazol?",
+      "options": [
+        {
+          "text": "A 49. cikk csak az állampolgársági diszkriminációt tiltja; a semleges, de letelepedést akadályozó nemzeti szabályok kívül esnek a tilalmon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a korlátozási tilalom tágabb a diszkriminációtilalomnál. A helyes: az EUMSZ 49. cikk első albekezdése a szabad letelepedésre vonatkozó minden korlátozást tiltja, nemcsak az állampolgársági diszkriminációt; a Gebhard-ügy négyes próbája a nem diszkriminatív akadályokat is köti. A képviselet–fióktelep–leányvállalat hármasa a másodlagos jelenlétet is védi. A tévedés a 49. cikket a 45. cikk (2) bekezdésének szűk diszkriminációtilalmi mintájára olvassa."
+        },
+        {
+          "text": "Tilos a tagállami állampolgárok másik tagállam területén történő szabad letelepedésére vonatkozó minden korlátozás; ugyanez kiterjed a képviselet, a fióktelep és a leányvállalat alapítására is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 49. cikk korlátozási tilalma a másodlagos letelepedést is fedi. Az EUMSZ 49. cikk szerint „tilos a valamely tagállam állampolgárainak egy másik tagállam területén történő szabad letelepedésére vonatkozó minden korlátozás”, és e rendelkezést azokra a korlátozásokra is alkalmazni kell, amelyek képviseletnek, fióktelepnek vagy leányvállalatnak alapítására vonatkoznak. A másodlagos letelepedés tehát nem a tőke fejezete alá rejtett kivétel, hanem a 49. cikk saját tényállása. A tilalom nemcsak az állampolgársági diszkriminációra, hanem a szabad letelepedést akadályozó minden korlátozásra kiterjed."
+        },
+        {
+          "text": "A képviselet, a fióktelep és a leányvállalat alapítása csak a tőke fejezete alá tartozik, a 49. cikk e másodlagos formákat nem fedi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tévedés a képviselet, a fióktelep és a leányvállalat alapítását kizárólag a tőkemozgás alá sorolja, és a 49. cikk hatályán kívül helyezi. A helyes: az EUMSZ 49. cikk kifejezetten kiterjeszti a korlátozási tilalmat a képviselet, a fióktelep és a leányvállalat alapítására, amelyet egy már valamely tagállamban letelepedett állampolgár egy másik tagállamban hoz létre — ez a másodlagos letelepedés önálló szerződéses tényállása, nem a tőke fejezetének mellékága. A Gebhard-ügy szerint természetes személy is létrehozhat második telephelyet. A tévedés forrása a tőkére utaló záradék és a 49. cikk második mondatának összekeverése."
+        },
+        {
+          "text": "A szabad letelepedés magában foglalja a gazdasági tevékenység önálló vállalkozóként történő megkezdését és folytatását, valamint vállalkozások — különösen az 54. cikk szerinti társaságok — alapítását és irányítását a fogadó állam saját állampolgáraira előírt feltételek szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szabadság tartalma az önálló tevékenység és a társaságalapítás nemzeti elbánással. Az EUMSZ 49. cikk szerint a szabad letelepedés magában foglalja a jogot gazdasági tevékenység önálló vállalkozóként történő megkezdésére és folytatására, vállalkozások — így különösen az 54. cikk második bekezdése szerinti társaságok — alapítására és irányítására, a letelepedés országának joga által a saját állampolgáraira előírt feltételek szerint. A második albekezdés tehát nemzeti elbánás, nem a származási állam szabályainak exportja. A tőkére vonatkozó fejezetre utaló záradék a társaságalapítást a tőkemozgás szabályaival is összeköti."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "0d05b20918fb"
+    },
+    {
+      "question": "Miben tér el az EUMSZ 51. cikk közhatalmi kivétele a 45. cikk (4) bekezdésének közszolgálati kivételétől?",
+      "options": [
+        {
+          "text": "A közhatalmi kivétel csak tartós közhatalmi kapcsolódásnál áll fenn; az időleges kapcsolódás a 49. cikk teljes hatálya alatt marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 51. cikk a tartós és az időleges kapcsolódást egyaránt nevezi. A helyes: az EUMSZ 51. cikk szerint a közhatalom gyakorlásához „tartósan vagy időlegesen” kapcsolódó tevékenységekre a fejezet az adott tagállam vonatkozásában nem alkalmazható. A tényállás tehát mindkét időbeli módot fedi, de csak a közhatalmi magot, nem minden közérdekű munkát. A tévedés az „időlegesen” fordulatot kihagyja a kivétel szövegéből."
+        },
+        {
+          "text": "Az 51. cikk második mondata szerint az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében rendelkezhet úgy, hogy a fejezet bizonyos tevékenységekre nem alkalmazható; a tagállam egyoldalúan nem bővítheti a kimaradó listát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a további kimaradás intézményi, nem tagállami kiterjesztés. Az EUMSZ 51. cikk második mondata szerint az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében úgy rendelkezhet, hogy e fejezet rendelkezései bizonyos tevékenységekre nem alkalmazhatók. A tagállam tehát egyoldalúan nem bővítheti a kimaradó tevékenységek listáját. Ez párhuzamos a munkavállalói oldalon a Lawrie-Blum-ügy szűk olvasatával: a kivétel kijelölése nem a nemzeti jogállás címkéjén múlik. A kivétel tehát zárt, közelíthető pályán áll."
+        },
+        {
+          "text": "Az 51. cikk a közhatalom gyakorlásához tartósan vagy időlegesen kapcsolódó tevékenységekre a letelepedési fejezetet az adott tagállam vonatkozásában nem alkalmazza; a tényállás a tevékenység közhatalmi magja, nem a közszolgálati álláshely.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a letelepedési kivétel a közhatalomhoz kapcsolódó tevékenységet emeli ki. Az EUMSZ 51. cikk szerint „Valamely tagállamban a közhatalom gyakorlásához tartósan vagy időlegesen kapcsolódó tevékenységekre e fejezet rendelkezései az adott tagállam vonatkozásában nem alkalmazhatók.” A tényállás tágabb a 45. cikk (4) bekezdésénél: nem a közszolgálati foglalkoztatás álláshelye, hanem a közhatalomhoz kapcsolódó tevékenység, akár tartós, akár időleges. Ugyanakkor szűkebb is: nem minden állami vagy közérdekű munka. A Reyners-ügyre a Gebhard-ítélet is utal: a kivétel a tevékenységi magot, nem a hivatás egészét emeli ki."
+        },
+        {
+          "text": "Az 51. cikk ugyanazt a közszolgálati álláshely-katalógust veszi ki, mint a 45. cikk (4) bekezdése, ezért az ügyvédi vagy orvosi hivatás egésze automatikusan kiesik a 49. cikk alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 51. cikk nem a közszolgálati álláshely-katalógus, és nem a hivatás egésze. A helyes: az EUMSZ 51. cikk a közhatalom gyakorlásához tartósan vagy időlegesen kapcsolódó tevékenységet emeli ki; az ügyvédi, orvosi vagy kereskedelmi hivatás egésze ezért nem esik ki a 49. cikk alól. A 45. cikk (4) bekezdése a közszolgálati foglalkoztatást a cikk hatálya alól kiveszi, más tényállással. A tévedés a két kivételt és a hivatás egészét összemossa."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "baf0101a556f"
+    },
+    {
+      "question": "A C-55/94. sz. Gebhard-ügy szerint hogyan határolódik el a letelepedés a szolgáltatásnyújtástól?",
+      "options": [
+        {
+          "text": "A kamarai tagság hiánya fogalmilag kizárja a letelepedést, mert a tagság a letelepedés alkotóeleme.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kamarai tagság feltétel, nem fogalmi elem. A helyes: a C-55/94. sz. Gebhard-ügy szerint a kamarai tagság hiánya nem jelenti azt, hogy az érintett „nincs letelepedve”; a tagság a tevékenység megkezdésének feltétele, nem a fogalom alkotóeleme. A letelepedés az állandó és folyamatos gazdasági részvétel. A tévedés a képesítési-szervezeti feltételt a 49. cikk fogalmi ismérvévé emeli."
+        },
+        {
+          "text": "A letelepedés a közösségi állampolgár állandó és folyamatos jellegű részvétele a fogadó tagállam gazdasági életében, haszonszerzéssel; a szolgáltatás ideiglenes, és ezt az időtartam, a gyakoriság, az ismétlődő vagy folyamatos jelleg alapján kell elbírálni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Gebhard-elhatárolás a részvétel állandóságán és az ideiglenességen fordul. A C-55/94. sz. Gebhard-ügy szerint a letelepedés szélesen értendő: a közösségi állampolgár állandó és folyamatos jelleggel részt vesz a fogadó tagállam gazdasági életében, és ezáltal haszonra tesz szert. A szolgáltatás ideiglenes; ezt nemcsak az időtartam, hanem a gyakoriság, az ismétlődő vagy folyamatos jelleg alapján kell elbírálni. A szolgáltatásnyújtás szabályai csak akkor alkalmazhatók, ha a letelepedésé nem. Az állandó és folyamatos telephelyi tevékenység a letelepedési korlátozási tilalom — az EUMSZ 49. cikk — hatályát nyitja meg, nem a szolgáltatás ideiglenes keretét."
+        },
+        {
+          "text": "Az ideiglenesség nem zárja ki, hogy a szolgáltató a fogadó államban a teljesítéshez szükséges infrastruktúrát — irodát, dolgozószobát, fogadóhelyiséget — teremtsen; az állandó és folyamatos telephelyi tevékenység azonban a letelepedés alá esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az infrastruktúra önmagában nem dönti el a minősítést. A C-55/94. sz. Gebhard-ügy szerint az ideiglenesség nem zárja ki a teljesítéshez szükséges infrastruktúra létrehozását a fogadó államban. Gebhard azonban állandó és folyamatos jelleggel, telephelyről, a fogadó állam állampolgárai számára is nyújtott szakmai tevékenységet: rá a letelepedés, nem a szolgáltatás fejezete vonatkozik. A kamarai tagság hiánya nem jelenti, hogy az érintett „nincs letelepedve”: a tagság a tevékenység megkezdésének feltétele, nem a fogalom alkotóeleme. A határt tehát a részvétel jellege, nem az iroda megléte adja."
+        },
+        {
+          "text": "Ha a szolgáltató a fogadó államban bármilyen irodát nyit, a tevékenység automatikusan letelepedéssé válik, az ideiglenes szolgáltatás lehetősége megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az infrastruktúra nem automatikus letelepedési átminősítés. A helyes: a C-55/94. sz. Gebhard-ügy szerint az ideiglenesség nem zárja ki, hogy a szolgáltató a fogadó államban a teljesítéshez szükséges infrastruktúrát teremtsen; a letelepedést az állandó és folyamatos gazdasági részvétel és a telephelyi jelleg nyitja meg. A szolgáltatás ideiglenességét az időtartam, a gyakoriság és az ismétlődés alapján kell elbírálni. A tévedés az iroda meglétét a Gebhard-próba helyébe tolja."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "f1db7f5292f3"
+    },
+    {
+      "question": "Az EUMSZ 54. cikk szerinti társaság mint letelepedő milyen személyi hatályt és fogalmi határt ad?",
+      "options": [
+        {
+          "text": "Az 54. cikk a székhelyáthelyezés teljes szabadságát adja: a társaság bármely Unióbeli címre áthelyezheti székhelyét a fogadó állam társasági jogának alkalmazása nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 54. cikk a feltételeknek megfelelő társaságot a természetes személy állampolgárral azonos bánásmódba helyezi, nem ad teljes székhelyáthelyezési szabadságot. A helyes: az EUMSZ 54. cikk a feltételeknek megfelelő társaságot a természetes személy állampolgárral azonos alanyi pozícióba helyezi a fejezetben; a 49. cikk ezért a társaság képviseletének, fióktelepének és leányvállalatának alapítását is a korlátozási tilalom alá vonja. A három kapcsoló a személyi hatály feltétele, nem a székhely szabad exportja. A tévedés a bánásmód-egyenlőséget székhelyáthelyezési libre-vé olvassa."
+        },
+        {
+          "text": "A „társaság” fogalma a polgári vagy kereskedelmi jogi társaságokat — ideértve a szövetkezeteket és a közjog vagy magánjog hatálya alá tartozó más jogi személyeket — fedi, kivéve a nonprofit szervezeteket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nonprofit kizárás a fejezet gazdasági jellegét őrzi. Az EUMSZ 54. cikk második albekezdése szerint „társaság” a polgári vagy kereskedelmi jog alapján létrejött társaság, beleértve a szövetkezeteket és a közjog vagy a magánjog hatálya alá tartozó más jogi személyeket, kivéve a nonprofit szervezeteket. A 49. cikk haszonszerző önálló tevékenységet véd, nem az egyesülési szabadságot. A szociális, kulturális vagy politikai szervezetek ezért e fejezet szerint nem válnak letelepedési alannyá. A fogalom tehát gazdasági, nem egyesülési."
+        },
+        {
+          "text": "A nonprofit szervezet is az 54. cikk szerinti társaság, ha tagállami jogon jött létre és Unióbeli székhellyel rendelkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nonprofit szervezet kifejezetten ki van zárva. A helyes: az EUMSZ 54. cikk második albekezdése a társaság fogalmából kivételt tesz a nonprofit szervezetekre; a kizárás a fejezet gazdasági jellegét őrzi, mert a 49. cikk haszonszerző önálló tevékenységet véd. A szociális, kulturális vagy politikai szervezetek e fejezet szerint nem emelkednek letelepedési alannyá. A tévedés a létrehozás és a székhely feltételét a nonprofit tilalom fölé emeli."
+        },
+        {
+          "text": "A tagállam joga alapján létrehozott társaság, amelynek létesítő okirat szerinti székhelye, központi ügyvezetése vagy üzleti tevékenységének fő helye az Unió területén van, a fejezet alkalmazása szempontjából a tagállami állampolgárokkal azonos elbánásban részesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 54. cikk a jogi személyeket a természetes személy állampolgárral azonosítja. Az EUMSZ 54. cikk szerint a valamely tagállam jogszabályai alapján létrehozott társaság, amelynek létesítő okirat szerinti székhelye, központi ügyvezetése vagy üzleti tevékenységének fő helye az Unió területén van, e fejezet alkalmazása szempontjából ugyanolyan elbánásban részesül, mint a tagállamok állampolgárai. A három kapcsoló vagylagos: az egyik Unióbeli megléte a tagállami jog szerinti létrehozással együtt elégséges. A Gebhard-ügy a korábbi 58. cikk alapján ugyanezt mondta ki a képviselet, fióktelep vagy leányvállalat alapításával."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "5747976322c3"
+    },
+    {
+      "question": "Mi következik abból, ha a fogadó állam a letelepedést akadályozó, megkülönböztetésmentes nemzeti szakmai feltételt ír elő?",
+      "options": [
+        {
+          "text": "Az 53. cikk irányelvének hiányában a fogadó állam szabadon figyelmen kívül hagyhatja a másik tagállamban szerzett oklevelet, mert nincs elismerési kötelezettség.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelv hiánya nem oldja fel a 49. cikk és a négyes teszt kötőerejét. A helyes: a Gebhard-ügy szerint az 53. cikk irányelvei a próba másodlagos jogi alakja; hiányukban a 49. cikk és a négyes teszt akkor is köti a fogadó államot, és a Vlassopoulou–Thieffry vonalon az egyenértékűséget figyelembe kell venni. Az 53. cikk (1) bekezdése az oklevelek kölcsönös elismerésére irányelvet rendel, de ez nem a bírói próba előfeltétele. A tévedés a másodlagos jogot a szerződéses tilalom helyébe tolja."
+        },
+        {
+          "text": "Ha a nemzeti feltétel állampolgárságra nem hivatkozik, a 49. cikk és a Gebhard-próba egyáltalán nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semleges akadály is a négyes próba alá esik. A helyes: a C-55/94. sz. Gebhard-ügy szerint a megkülönböztetésmentes, de a szabadságok gyakorlását akadályozó vagy kevésbé vonzóvá tevő nemzeti szabályoknak a négy feltételnek kell megfelelniük; az 52. cikk különleges elbánásán túl a semleges akadályokat is köti. Az EUMSZ 49. cikk korlátozási tilalma a szabad letelepedést akadályozó minden korlátozásra kiterjed, nemcsak az állampolgársági diszkriminációra. A tévedés a formai semlegességet teljes immunitásnak tekinti."
+        },
+        {
+          "text": "A Gebhard-ügy négyes próbája szerint a nemzeti szabályoknak megkülönböztetésmentesnek kell lenniük, közérdeken alapuló kényszerítő indokkal igazolhatónak, a célra alkalmasnak, és nem léphetnek túl a szükséges mértéken.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a négyes arányossági próba a semleges akadályokat is köti. A C-55/94. sz. Gebhard-ügy szerint a nemzeti szabályok, amelyek az alapvető szabadságok gyakorlását akadályozhatják vagy kevésbé vonzóvá tehetik, négy feltételnek kell hogy megfeleljenek: alkalmazásuk hátrányos megkülönböztetéstől mentes, közérdeken alapuló kényszerítő indok igazolja őket, alkalmasak a célra, és nem lépnek túl a szükséges mértéken. A próba az 52. cikk különleges elbánásán túl a semleges akadályokra is kiterjed. A fogadó állam tehát nem hivatkozhat csupán a formai semlegességre."
+        },
+        {
+          "text": "A tagállam a másik tagállamban megszerzett tudást és képesítést nem hagyhatja figyelmen kívül: az oklevelek egyenértékűségét figyelembe kell venni, és a fogadó állam által megkövetelt tudással össze kell vetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyenértékűség vizsgálata a négyes próba mellett kötelező. A Gebhard-ügy — a Vlassopoulou és a Thieffry ügyekre utalva — szerint a tagállam a másik tagállamban megszerzett tudást és képesítést nem hagyhatja figyelmen kívül: az oklevelek egyenértékűségét figyelembe kell venni, és a fogadó állam által megkövetelt tudással össze kell vetni. Az 53. cikk irányelvei e próba másodlagos jogi alakja; hiányukban a 49. cikk és a négyes teszt akkor is köti a fogadó államot. A képesítés tehát nem figyelmen kívül hagyható formalitás."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "cd765c04668f"
+    },
+    {
+      "question": "Az EUMSZ 50. cikk a letelepedési szabadság megvalósítását milyen intézményi pályára helyezi?",
+      "options": [
+        {
+          "text": "Az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében, a Gazdasági és Szociális Bizottsággal folytatott konzultációt követően irányelveket bocsát ki a letelepedési szabadság meghatározott tevékenység tekintetében történő megvalósítása érdekében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 50. cikk a 49. cikk tilalmát másodlagos jogalkotási programmá fordítja. Az EUMSZ 50. cikk (1) bekezdése szerint az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében és a Gazdasági és Szociális Bizottsággal folytatott konzultációt követően irányelveket bocsát ki a letelepedési szabadság valamely meghatározott tevékenység tekintetében történő megvalósítása érdekében. Ez nem taxatív bírói hatásköri katalógus, hanem a másodlagos jog tartalmi programja. A tilalom tehát intézményi eszközökkel is kibontandó."
+        },
+        {
+          "text": "A (2) bekezdés d) pontja biztosítja, hogy a fogadó államban alkalmazott munkavállaló önálló vállalkozóként maradhasson, ha abban az időpontban teljesítené a belépési feltételeket, amikor a tevékenységet meg kívánja kezdeni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a d) pont hidat ver a 45. cikkhez a jogcímváltáskor. Az EUMSZ 50. cikk (2) bekezdés d) pontja szerint biztosítani kell, hogy valamely tagállamnak egy másik tagállam területén alkalmazott munkavállalói önálló vállalkozói tevékenység folytatása céljából ez utóbbi állam területén maradhassanak, amennyiben megfelelnek azoknak a feltételeknek, amelyeket teljesíteniük kellene, ha abban az időpontban lépnének a területre, amikor az ilyen tevékenységet meg kívánják kezdeni. A fogadó államban már jelenlévő munkavállaló tehát nem esik a külső belépőnél szigorúbb küszöb alá csupán a jogcímváltás miatt. A pálya a 45. cikk (3) bekezdés d) pontja szerinti maradáshoz kapcsolódik."
+        },
+        {
+          "text": "Az 50. cikk (1) bekezdése rendeleti úton, a Bizottság egyedüli aktusával valósítja meg a letelepedési szabadságot, irányelv nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megvalósítás irányelvi pályán, társjogalkotással történik. A helyes: az EUMSZ 50. cikk (1) bekezdése szerint az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében, a Gazdasági és Szociális Bizottsággal folytatott konzultációt követően irányelveket bocsát ki a letelepedési szabadság meghatározott tevékenység tekintetében történő megvalósítása érdekében. A Bizottság egyedüli rendeleti aktusa nem helyettesíti ezt a programot. A tévedés a munkavállalói d) pont rendeleti maradását a letelepedési megvalósításra írja rá."
+        },
+        {
+          "text": "A (2) bekezdés d) pontja szerint a munkavállalóból vállalkozóvá váló személynek előbb el kell hagynia a fogadó államot, és új belépőként kell teljesítenie a feltételeket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a d) pont éppen a meglévő jelenlét védelmét adja a jogcímváltáskor. A helyes: az EUMSZ 50. cikk (2) bekezdés d) pontja azt biztosítja, hogy a fogadó államban alkalmazott munkavállaló önálló vállalkozóként maradhasson, ha abban az időpontban teljesítené a belépési feltételeket, amikor a tevékenységet meg kívánja kezdeni. Nem kell tehát külső belépőként újra belépnie csupán a jogcímváltás miatt. A tévedés a maradási hidat kiutasítási kötelezettséggé fordítja."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "fff21f38664d"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható az EUMSZ 52. cikk (1) bekezdése szerinti közrendi–közbiztonsági–közegészségügyi záradék a letelepedésnél?",
+      "options": [
+        {
+          "text": "A (2) bekezdés szerint az Európai Parlament és a Tanács rendes jogalkotási eljárásban irányelveket bocsát ki a fenti nemzeti rendelkezések összehangolása céljából; a kivétel tehát közelíthető, nem tagállami rezervátum.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különleges elbánás összehangolható. Az EUMSZ 52. cikk (2) bekezdése szerint az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében irányelveket bocsát ki a fent említett rendelkezések összehangolása céljából. A kivétel tehát közelíthető, nem örök tagállami rezervátum. A Gebhard-féle négyes próba emellett a semleges akadályokat is köti. A záradék fenntartása és a közelítés párhuzamos pályán áll."
+        },
+        {
+          "text": "Az 52. cikk azonos aktus a 45. cikk (3) bekezdésével: mindkettő a már elismert mozgási jog korlátja ugyanazzal a joghatással.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két záradék nem azonos aktus. A helyes: a munkavállalónál az EUMSZ 45. cikk (3) bekezdése a három okot a már elismert mozgási jog korlátjaként nevezi meg; a letelepedőnél az 52. cikk (1) bekezdése a külföldire szabott különös nemzeti szabály alkalmazhatóságának fenntartása. A Groener-ügy a 48. cikk (3) bekezdésének közrendjét, a letelepedési oldal az 52. cikket kérdezi. A tévedés a két szerződéses záradék joghatását azonosítja."
+        },
+        {
+          "text": "A záradék nem olvasható a diszkriminációtilalom vagy a korlátozási tilalom általános feloldásaként; a három ok taxatív, és a kivételeket szigorúan kell értelmezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különleges elbánás csak a közrend, a közbiztonság és a közegészség taxatív okaira szűkül, nem nyílt idegenrendészeti fenntartás. Az EUMSZ 52. cikk (1) bekezdése a fejezetet és az annak alapján hozott intézkedéseket nem érinti azoknak a törvényi, rendeleti és közigazgatási rendelkezéseknek az alkalmazhatóságát, amelyek közrendi, közbiztonsági vagy közegészségügyi okokból a külföldi állampolgárokra különleges elbánást írnak elő. A három ok taxatív; a Kempf-ügyben a Bíróság a szabad mozgás kivételeit szigorúan olvasta, és ugyanez az olvasat az 52. cikkre is irányadó. Sem ott, sem itt nem olvasható a közrend a diszkriminációtilalom általános feloldásaként."
+        },
+        {
+          "text": "A közrend az 52. cikkben a 49. cikk korlátozási tilalmának általános feloldása, ezért bármely nemzeti szakmai feltétel közrendi alapon fenntartható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közrend nem a korlátozási tilalom általános feloldása. A helyes: az EUMSZ 52. cikk (1) bekezdése a külföldiekre szabott különleges elbánást a közrend, a közbiztonság és a közegészség taxatív okaihoz köti; a kivételeket szigorúan kell értelmezni. A Gebhard-ügy négyes próbája a nem diszkriminatív akadályokra is kiterjed. A tévedés a három okot nyílt szakmai rezervátummá tágítja."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "05e162311a51"
+    },
+    {
+      "question": "Az EUMSZ 53. cikk az oklevelek és a tevékenység megkezdésének feltételei tekintetében milyen szabályt ad?",
+      "options": [
+        {
+          "text": "Rendes jogalkotási eljárásban irányelvet kell kibocsátani az oklevelek, bizonyítványok és egyéb képesítési tanúsítványok kölcsönös elismerésére, valamint a tagállamok önálló vállalkozói tevékenységre vonatkozó rendelkezéseinek összehangolására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 53. cikk (1) bekezdése az elismerés és a közelítés intézményi programja. Az EUMSZ 53. cikk (1) bekezdése szerint az Európai Parlament és a Tanács az önálló vállalkozói tevékenység megkezdésének és folytatásának megkönnyítése érdekében rendes jogalkotási eljárás keretében irányelveket bocsát ki az oklevelek, a bizonyítványok és a képesítés megszerzéséről szóló egyéb tanúsítványok kölcsönös elismerése, valamint a tagállamok e tevékenységre vonatkozó törvényi, rendeleti és közigazgatási rendelkezéseinek összehangolása céljából. Az elismerési és közelítési program a 49. cikk nemzeti elbánását egészíti ki: a fogadó állam saját állampolgáraira előírt képesítési feltételek a másik tagállamban szerzett oklevéllel szemben is érvényesülhetnek, ha nincs elismerési eszköz. A Gebhard-ügy szerint a kamarai tagság, az oklevél és a szakmai cím a tevékenység megkezdésének feltétele lehet."
+        },
+        {
+          "text": "Az orvosi és egyéb gyógyító, valamint a gyógyszerészeti szakmáknál a korlátozások fokozatos megszüntetése e szakmák gyakorlási feltételeinek tagállamok közötti összehangolásától függ.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a gyógyító hivatásoknál a liberalizáció a feltételek koordinációjához kötött. Az EUMSZ 53. cikk (2) bekezdése szerint az orvosi és egyéb gyógyító, valamint a gyógyszerészeti szakmák esetében a korlátozások fokozatos megszüntetése az e szakmáknak a különböző tagállamokban történő gyakorlására vonatkozó feltételek összehangolásától függ. A 49. cikk tilalma tehát e körben nem önmagában bontja le a piacra lépési gátat. A koordináció előfeltétel, nem utólagos dísz."
+        },
+        {
+          "text": "Az oklevelek kölcsönös elismerése csak ajánlás; a fogadó állam a másik tagállamban szerzett képesítést mindig figyelmen kívül hagyhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elismerés irányelvi program, és a bírói próba is köti a fogadó államot. A helyes: az EUMSZ 53. cikk (1) bekezdése irányelvet rendel az oklevelek kölcsönös elismerésére; a Gebhard-ügy szerint a Vlassopoulou–Thieffry vonalon a másik tagállamban megszerzett tudást és képesítést nem lehet figyelmen kívül hagyni, és az 53. cikk irányelveinek hiányában is a 49. cikk és a négyes teszt köti a fogadó államot. A tévedés az elismerést fakultatív diplomáciai gesztussá gyengíti."
+        },
+        {
+          "text": "Az 53. cikk (2) bekezdése szerint a gyógyító szakmák korlátozásai a 49. cikk alapján azonnal és feltétel nélkül megszűnnek, összehangolás nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a gyógyító szakmáknál a lebontás a gyakorlási feltételek összehangolásától függ. A helyes: az EUMSZ 53. cikk (2) bekezdése az orvosi és egyéb gyógyító, valamint a gyógyszerészeti szakmák esetében a korlátozások fokozatos megszüntetését e szakmák gyakorlási feltételeinek tagállamok közötti összehangolásától teszi függővé. A 49. cikk tilalma itt nem önállóan bontja le a gátat. A tévedés a (2) bekezdés koordinációs feltételét kihagyja."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "5420c82dcb0a"
+    },
+    {
+      "question": "Az EUMSZ 55. cikk a társasági tőkében való részesedésnél milyen elbánást ír elő?",
+      "options": [
+        {
+          "text": "Az 55. cikk lehetővé teszi, hogy a fogadó állam a más tagállami állampolgárok részesedését szigorúbb küszöbhöz kösse, mint a saját állampolgárokét, ha a tőke fejezete másként nem rendelkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti elbánás éppen a szigorúbb állampolgársági küszöböt tiltja. A helyes: az EUMSZ 55. cikk szerint a tagállamok az 54. cikk szerinti társaságok tőkéjében való részesedést illetően a többi tagállam állampolgárait ugyanolyan elbánásban részesítik, mint a saját állampolgáraikat. A 49. cikk tőkére utaló záradéka itt konkretizálódik: a más tagállami állampolgár nem szorítható szigorúbb részesedési küszöb alá csupán állampolgársága miatt. A tévedés a nemzeti elbánást opcionális kedvezménnyé gyengíti."
+        },
+        {
+          "text": "Az 55. cikk nem új alanyi szabadság, hanem a 49. cikk tilalmához és az 54. cikk személyi hatályához igazított nemzeti elbánás; a nonprofit szervezet e cikk alá sem kerül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a cikk a bánásmódot konkretizálja, nem új szabadságot nyit. Az EUMSZ 55. cikk alanya a többi tagállam állampolgára, tárgya az 54. cikk szerinti társaság tőkéje; a nonprofit szervezet az 54. cikk kizárása miatt e cikk alá sem kerül. Aki nem akar önálló vállalkozó lenni és nem hoz létre fióktelepet, de fogadó állambeli társaságban tulajdont szerez, az 55. cikk nemzeti elbánására támaszkodik. A 50. cikk (2) bekezdés e) pontja az ingatlanra, az 55. cikk a részesedésre ad párhuzamos védelmet."
+        },
+        {
+          "text": "Az 55. cikk a nonprofit szervezetek tőkerészesedésére is kiterjed, mert az 54. cikk társaságfogalma a közjogi jogi személyeket is fedi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nonprofit szervezet ki van zárva az 54. cikkből, és így az 55. cikk alól is. A helyes: az EUMSZ 54. cikk a társaság fogalmából kivételt tesz a nonprofit szervezetekre; az 55. cikk tárgya az 54. cikk értelmében vett társaságok tőkéje. A közjog vagy magánjog hatálya alá tartozó más jogi személyek bekerülhetnek, de a nonprofit kizárás megmarad. A tévedés a közjogi jogi személyek felvételét a nonprofit tilalom feloldásaként olvassa."
+        },
+        {
+          "text": "A tagállamok az 54. cikk szerinti társaságok tőkéjében való részesedést illetően a többi tagállam állampolgárait ugyanolyan elbánásban részesítik, mint a saját állampolgáraikat, a Szerződések egyéb rendelkezései alkalmazásának sérelme nélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a részesedésszerzésnél a saját állampolgáréval azonos elbánás a letelepedési tilalom tőkerészesedési alakja. Az EUMSZ 55. cikk szerint a tagállamok — a Szerződések egyéb rendelkezései alkalmazásának sérelme nélkül — az 54. cikk értelmében vett társaságok tőkéjében való részesedést illetően ugyanolyan elbánásban részesítik a többi tagállam állampolgárait, mint a saját állampolgáraikat. A tőke fejezete és a letelepedés párhuzamosan köti a részesedésszerzést. A más tagállami állampolgár nem szorítható a saját állampolgárnál szigorúbb részesedési küszöb alá csupán állampolgársága miatt."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "3ccc123be239"
+    },
+    {
+      "question": "Miben tér el a munkavállaló uniós fogalma a letelepedőétől a tevékenység minősége szerint?",
+      "options": [
+        {
+          "text": "A letelepedő is alárendelt irányítás alatt dolgozik, mert a kamarai tagság ugyanazt a függést jelenti, mint a munkaviszony.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kamarai tagság a tevékenység megkezdésének feltétele, nem alárendeltség. A helyes: a C-55/94. sz. Gebhard-ügy szerint a kamarai tagság nem a letelepedés fogalmi eleme, hanem a tevékenység megkezdésének feltétele; a letelepedő önállóan, állandóan és folyamatosan vesz részt a gazdasági életben. A C-66/85. sz. Lawrie-Blum-ügy a munkavállalónál az irányítás alatti szolgáltatást követeli. A tévedés a szervezeti feltételt munkajogi alárendeltséggé olvassa."
+        },
+        {
+          "text": "A munkavállaló alárendelt, díjazott, tényleges munkát végez más irányítása alatt; a letelepedő önállóan, állandóan és folyamatosan vesz részt a fogadó állam gazdasági életében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szabadság határa a tevékenység minősége. A C-66/85. sz. Lawrie-Blum-ügy a munkavállalót a más irányítása alatt, díjazás ellenében, meghatározott ideig végzett szolgáltatásként határozza meg. A C-55/94. sz. Gebhard-ügy szerint a letelepedő állandó és folyamatos jelleggel vesz részt a fogadó tagállam gazdasági életében, haszonszerzéssel. A nemzeti munkajogi minősítés nem dönti el a határt: az uniós fogalom az irányadó. A szolgáltatás ideiglenes jellege a Gebhard-próba szerint a letelepedéstől elválik."
+        },
+        {
+          "text": "A határt a nemzeti munkajogi minősítés dönti el: ha a fogadó állam a személyt vállalkozónak nevezi, a 45. cikk automatikusan kizárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határ uniós fogalom, nem nemzeti címke. A helyes: a C-66/85. sz. Lawrie-Blum-ügy szerint a munkavállaló más irányítása alatt, díjazás ellenében végzett szolgáltatást jelent, és a jogviszony közjogi vagy magánjogi természete közömbös; a Gebhard-ügy a letelepedést az állandó és folyamatos gazdasági részvétellel határozza meg. A kettő határa nem a nemzeti munkajogi minősítés. A tévedés a fogadó állam címkéjét az uniós fogalom helyébe tolja."
+        },
+        {
+          "text": "A 45. cikk munkavállalója a foglalkoztatási egyenlő bánásmóddal és a Lawrie-Blum-próbával találkozik a képesítési feltételeknél; a 49. cikk letelepedője a fogadó állam saját állampolgáraira előírt feltételekkel és az 53. cikk programjával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a képesítés és a nyelv feltétel, nem fogalmi elem, de más szerződéses pályán. A 45. cikk munkavállalója e feltételeknek a foglalkoztatási egyenlő bánásmód és a Lawrie-Blum-próba szerint találkozik; a 49. cikk letelepedője a fogadó állam saját állampolgáraira előírt feltételek és az 53. cikk szerint. A Groener-ügy a nyelvi feltételt a 45. cikk (2)–(3) bekezdése és a 1612/68 rendelet 3. cikke szerint kérdezte; a letelepedőnél az 52–53. cikk és a Gebhard-féle négyes teszt az irányadó. A két ág tehát nem cserélhető fel."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "bfd78eacbd36"
+    },
+    {
+      "question": "Deborah Lawrie-Blum brit állampolgár a Freiburgi Egyetemen tanárjelölti előkészítő szolgálatra jelentkezik; a tartomány német állampolgárságot követel, és a szolgálatot közszolgálati kivételnek tekinti. Mely megállapítások helytelenek?",
+      "options": [
+        {
+          "text": "A közszolgálati kivétel a tagállam által köztisztviselőnek minősített állások szabad katalógusa, ezért a tartományi állampolgársági feltétel automatikusan jogszerű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivétel szűken olvasandó, nem szabad nemzeti katalógus. A helyes: az EUMSZ 45. cikk (4) bekezdése a közszolgálatban történő foglalkoztatást kiveszi, de a C-66/85. sz. Lawrie-Blum-ügy szerint a kivételt szűken kell értelmezni, és hatályát nem lehet a jogviszony jogi jellegétől függővé tenni — ellenkező esetben a tagállamok maguk jelölnék ki a kivétel alá vont álláshelyeket. A tévedés a nemzeti címkét uniós kivétellé emeli."
+        },
+        {
+          "text": "A tanárjelölt nem munkavállaló, mert heti néhány órában tanít, és a képesített tanár kezdő fizetése alatti díjazást kap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a részmunkaidő és az alacsonyabb díjazás nem zárja ki a minősítést. A helyes: a C-66/85. sz. Lawrie-Blum-ügy a Levin-ítélet fényében rögzíti, hogy a fogalom a nem teljes munkaidőben foglalkoztatottakat is fedi, feltéve, hogy a tevékenység tényleges és valós; a tanárjelölt óratartással szolgáltatást nyújt és díjazásban részesül. A ténylegesség a gazdasági minőség, nem a bérszint. A tévedés a Levin-próbát fordítva alkalmazza."
+        },
+        {
+          "text": "A Beamte auf Widerruf kinevezés önmagában kiveszi a szolgálatot a 45. cikk hatálya alól, mert a közjogi jogállás a közszolgálati kivétel kijelölője.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közjogi jogállás nem jelöli ki a kivételt. A helyes: a C-66/85. sz. Lawrie-Blum-ügy szerint a 48. cikk (4) bekezdését — a mai EUMSZ 45. cikk (4) bekezdését — szűken kell értelmezni, és hatályát nem lehet a munkavállaló és a munkáltató közötti kapcsolat jogi jellegétől függővé tenni. A Sotgiu-ítélet (C-152/73) szerint a munkavállaló és a munkáltató közötti jogviszony közjogi vagy magánjogi természete a 45. cikk alkalmazása szempontjából nem bír jelentőséggel. A tévedés a Beamte-státuszt a kivétel anyagi magjával azonosítja."
+        },
+        {
+          "text": "Az állami iskolarendszer eleve kívül esik a gazdasági életen, ezért a 45. cikk a tanárjelölti szolgálatra nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alsóbb bíróságok ezen érve a Bíróság előtt nem állta meg a helyét. A helyes: a C-66/85. sz. Lawrie-Blum-ügy szerint a tanárjelölt, aki az iskolai hatóságok irányítása alatt óratartással szolgáltatást nyújt és díjazásban részesül, a 45. cikk értelmében munkavállaló, függetlenül a munkaviszony jogi jellegétől. A gazdasági tevékenység ismérve a díjazott, irányítás alatti szolgáltatás. A tévedés a közoktatást a Szerződés gazdasági hatályán kívül helyezné."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "67a86241ba25"
+    },
+    {
+      "question": "A C-152/73. sz. Sotgiu-ítélet a munkavállaló fogalmánál milyen elhatárolást ad a jogviszony jellegéről?",
+      "options": [
+        {
+          "text": "A Lawrie-Blum-ügy a Sotgiu-ratio alapján mondta ki, hogy a köztisztviselői kinevezés önmagában nem emeli ki a személyt a 45. cikk hatálya alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két ügy összekapcsolódik a közjogi jogállás kérdésében. A C-66/85. sz. Lawrie-Blum-ügy a Sotgiu-ítéletre támaszkodva rögzítette: a tanárjelölt munkavállaló, függetlenül a munkaviszony jogi jellegétől; a Beamte auf Widerruf státusz önmagában nem emeli ki a hatály alól. Az EUMSZ 45. cikk (4) bekezdésének közszolgálati kivételét szűken kell értelmezni, és hatályát nem lehet a jogviszony jogi jellegétől függővé tenni. A közjogi forma tehát nem kivételi automatizmus. A funkcionális próba marad az irányadó."
+        },
+        {
+          "text": "A Sotgiu-ítélet szerint csak a magánjogi munkaszerződés alapozza meg a 45. cikk hatályát; a közjogi jogállás mindig a (4) bekezdés alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Sotgiu-ratio éppen a közjogi jogállást is a hatály alatt hagyja. A helyes: a C-152/73. sz. Sotgiu-ítélet szerint a jogviszony jellege — közjogi vagy magánjogi — a 45. cikk alkalmazása szempontjából nem bír jelentőséggel; a C-66/85. sz. Lawrie-Blum-ügy ezt a tanárjelölti szolgálatra is alkalmazta. A (4) bekezdés szűk kivétel, nem a közjogi forma automatikus következménye. A tévedés a Sotgiu-próbát ellentétére fordítja."
+        },
+        {
+          "text": "A munkavállaló és a munkáltató közötti jogviszony jellege — akár közjogi jogállás, akár magánjogi szerződés — a 45. cikk alkalmazása szempontjából nem bír jelentőséggel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Sotgiu-ratio a jogviszony címkéjét közömbössé teszi. A C-152/73. sz. Sotgiu-ítélet szerint a munkavállaló és a munkáltató közötti jogviszony jellege, akár közjogi jogállás, akár magánjogi szerződés, a 48. cikk — a mai EUMSZ 45. cikk — alkalmazása szempontjából nem bír jelentőséggel. A Lawrie-Blum-ügy e ratio alapján a tanárjelölti közjogi kinevezést is a hatály alatt hagyta. A fogalom funkcionális, nem formai. A közszolgálati kivétel ezért sem a jogállásból olvasható ki."
+        },
+        {
+          "text": "A Sotgiu-ítélet a Bettray-határt adja: a rehabilitációs foglalkoztatás nem tényleges gazdasági tevékenység.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bettray-határ más ügy és más ratio, nem a Sotgiu-próba. A helyes: a C-152/73. sz. Sotgiu-ítélet a jogviszony közjogi vagy magánjogi jellegének közömbösségét mondja ki a 45. cikk alkalmazásához. A C-344/87. sz. Bettray-ügy ezzel szemben a rehabilitációs, szokásos piaci feltételeken kívüli szociális foglalkoztatást nem tekinti tényleges gazdasági tevékenységnek. A tévedés a jogviszony-jelleg és a gazdasági minőség próbáját összemossa."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "48f03de36546"
+    },
+    {
+      "question": "Milyen tartamban és milyen ismérvekkel kell a szolgáltatás ideiglenes jellegét elbírálni a Gebhard-ügy szerint?",
+      "options": [
+        {
+          "text": "Az ideiglenességet nemcsak az időtartam, hanem a gyakoriság, az ismétlődő vagy folyamatos jelleg alapján kell elbírálni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ideiglenesség többdimenziós mérce. A C-55/94. sz. Gebhard-ügy szerint a szolgáltatás ideiglenes; ezt nemcsak az időtartam, hanem a gyakoriság, az ismétlődő vagy folyamatos jelleg alapján kell elbírálni. Az állandó és folyamatos gazdasági részvétel a letelepedést nyitja meg. A szolgáltatásnyújtás szabályai csak akkor alkalmazhatók, ha a letelepedésé nem. Az egyetlen naptári nap szám tehát nem elég a minősítéshez."
+        },
+        {
+          "text": "Több tagállamban egyidejű letelepedés fogalmilag kizárt, mert a 49. cikk csak egyetlen fogadó államot ismer.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a többes letelepedés a Gebhard-ügy szerint lehetséges. A helyes: a C-55/94. sz. Gebhard-ügy szerint egy személy több tagállamban is letelepedhet; társaságoknál a 49. cikk második mondata a képviseletet, a fióktelepet és a leányvállalatot nevezi, szellemi szabadfoglalkozásúaknál a második telephely (Klopp) a minta. A korlátozási tilalom a másodlagos jelenlétet is védi. A tévedés az egytagállami olvasatot a szerződéses szöveg fölé emeli."
+        },
+        {
+          "text": "Az ideiglenesség kizárólag a naptári napok számán múlik; ha a tartam meghalad egy hónapot, a tevékenység automatikusan letelepedés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, nincs egyhónapos automatikus küszöb. A helyes: a C-55/94. sz. Gebhard-ügy szerint az ideiglenességet nemcsak az időtartam, hanem a gyakoriság, az ismétlődő vagy folyamatos jelleg alapján kell elbírálni; a letelepedés az állandó és folyamatos gazdasági részvétel. A szolgáltatás az infrastruktúrát is tűrheti anélkül, hogy automatikusan letelepedéssé válna. A tévedés egy kitalált naptári küszöböt ír a Gebhard-próba helyébe."
+        },
+        {
+          "text": "Egy személy több tagállamban is letelepedhet: társaságoknál képviselettel, fiókteleppel vagy leányvállalattal, szellemi szabadfoglalkozásúaknál második telephely létrehozásával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a többes letelepedés elismert. A C-55/94. sz. Gebhard-ügy szerint egy személy több tagállamban is letelepedhet: társaságoknál képviselettel, fiókteleppel vagy leányvállalattal — az EUMSZ 49. cikk második mondata szerint —, szellemi szabadfoglalkozásúaknál második telephely létrehozásával (Klopp). A letelepedés tehát nem egytagállami monopólium. A másodlagos jelenlét a korlátozási tilalom alá esik."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "9ad4c0d85984"
+    },
+    {
+      "question": "Az EUMSZ 50. cikk (2) bekezdésének f) és g) pontja a másodlagos letelepedés és a társasági biztosítékok közül melyeket rendeli?",
+      "options": [
+        {
+          "text": "Az f) pont a képviseletek, fióktelepek vagy leányvállalatok létrehozásának, valamint az anyalétesítmény személyzete által az irányító és ellenőrző tisztségek betöltésének feltételeit a fokozatos lebontás tárgyává teszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az f) pont a 49. cikk második mondatát bontja intézményi programmá. Az EUMSZ 50. cikk (2) bekezdés f) pontja szerint megvalósítani kell a letelepedési szabadság korlátozásainak fokozatos eltörlését egyrészt a képviseletek, fióktelepek vagy leányvállalatok létrehozásának feltételeit, másrészt az ilyen létesítmények irányító és ellenőrző tisztségeinek az anyalétesítmény személyzete által történő betöltésére vonatkozó feltételeket illetően. A másodlagos jelenlét tehát nem marad nemzeti rezervátum. A lebontás fokozatos, de szerződéses kötelezettség."
+        },
+        {
+          "text": "Az f) pont csak a természetes személy elsődleges letelepedését érinti; a fióktelep és a leányvállalat feltételei a tőke fejezet kizárólagos tárgyai.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az f) pont kifejezetten a képviselet–fióktelep–leányvállalat létrehozását és az anyalétesítményi tisztségek betöltését nevezi. A helyes: az EUMSZ 50. cikk (2) bekezdés f) pontja a másodlagos letelepedés és az anyalétesítmény személyzete által az irányító és ellenőrző tisztségek betöltésének feltételeit a fokozatos lebontás tárgyává teszi; ez a 49. cikk második mondatának kibontása. A tőke fejezete párhuzamosan köthet, de nem zárja ki az 50. cikk programját. A tévedés a másodlagos jelenlétet a tőke monopóliumának tekinti."
+        },
+        {
+          "text": "A g) pont az oklevelek kölcsönös elismerését rendeli a társaságok vezető tisztségviselőire, az 53. cikk helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a g) pont a tag- és harmadik személyi biztosítékok egyenértékűsítése, nem oklevélelismerés. A helyes: az EUMSZ 50. cikk (2) bekezdés g) pontja az 54. cikk szerinti társaságoktól a tagok és harmadik személyek védelme céljából megkövetelt biztosítékok összehangolását és uniós egyenértékűsítését rendeli; az oklevelek programja az 53. cikk (1) bekezdése. A két pálya alanya és tárgya különbözik. A tévedés az 53. cikk természetes személyi programját a társasági biztosítékok helyére írja."
+        },
+        {
+          "text": "A g) pont a szükséges mértékben összehangolja azokat a biztosítékokat, amelyeket a tagállamok az 54. cikk szerinti társaságoktól a tagok és harmadik személyek érdekeinek védelme céljából megkövetelnek, hogy azokat az Unión belül egyenértékűvé tegyék.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a g) pont a társasági jog közelítésének szerződéses alapja. Az EUMSZ 50. cikk (2) bekezdés g) pontja a szükséges mértékben összehangolja azokat a biztosítékokat, amelyeket a tagállamok az 54. cikk második bekezdése szerinti társaságoktól a tagok és harmadik személyek érdekeinek védelme céljából megkövetelnek, annak érdekében, hogy az ilyen biztosítékokat egyenértékűvé tegyék az Unión belül. A g) pont az EUMSZ 54. cikk társaságfogalmára szabott közelítési pálya, nem az 53. cikk oklevélelismerése. Az 53. cikk oklevél-programja a természetes személy önálló vállalkozóra szabott, a társaságra a g) pont a releváns."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "719975d75da5"
+    },
+    {
+      "question": "Kempf német állampolgár Hollandiában heti tizenkét órában zenét tanít, bére a létfenntartási minimum alatt van, és közpénzből finanszírozott ellátással egészíti ki. Mely megállapítások helytelenek?",
+      "options": [
+        {
+          "text": "A munkavállaló fogalmát szűken, a kivételeket tágan kell értelmezni, ezért a szociális ellátás igénybevétele automatikus kizárás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság éppen fordítva olvassa a fogalmat és a kivételeket. A helyes: a C-139/85. sz. Kempf-ügy szerint a „munkavállaló” és a „munkavállalói tevékenység” fogalmát tágan kell értelmezni, a kivételeket és eltéréseket szigorúan; a szabad mozgás a Közösség egyik alapja. A szociális ellátás igénybevétele önmagában nem kizárás, ha a munka tényleges. A tévedés az értelmezési irányt megfordítja."
+        },
+        {
+          "text": "A Bettray-ügy szerint minden közpénzből támogatott foglalkoztatás rehabilitációs jellegű, ezért Kempf sem munkavállaló.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bettray-határ a rehabilitációs célt és a szokásos piaci feltételek hiányát követeli, nem minden közpénzt. A helyes: a C-344/87. sz. Bettray-ügy a munkavégző képesség rehabilitációját vagy reintegrációját célzó szociális foglalkoztatást nem tekinti tényleges gazdasági tevékenységnek; a C-139/85. sz. Kempf-ügy a tényleges részmunkaidőt a jogszerű közpénz-kiegészítés mellett is a hatály alatt hagyja. A két ratio elválik. A tévedés a közpénzt a Bettray-próbával azonosítja."
+        },
+        {
+          "text": "A létfenntartási minimum alatti bér miatt a tevékenység eleve marginális és járulékos, ezért kívül esik a szabad mozgáson.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alacsony bér nem azonos a marginális jelleggel. A helyes: a C-139/85. sz. Kempf-ügy szerint a részmunkaidő nem esik kívül a szabályokon, de a csupán marginális és járulékos tevékenységek igen; a heti tizenkét órás tanítás ténylegességét a nemzeti bíróság már megállapította. A Levin-próba a létfenntartási minimum alatti jövedelmet is a hatály alatt hagyja, ha a munka tényleges és valós. A tévedés a bérszintet a gazdasági minőség helyébe tolja."
+        },
+        {
+          "text": "A közpénzből származó kiegészítés önmagában kizárja a 45. cikk hatályát, mert a munka így nem önfenntartó gazdasági tevékenység.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogszerű kiegészítés nem oltja ki a munkavállalói jogállást. A helyes: a C-139/85. sz. Kempf-ügy szerint a tényleges és valós részmunkaidős foglalkoztatásban álló személy nem zárható ki csupán azért, mert díjazása a létfenntartási minimum alatt van, és azt más, jogszerű megélhetési eszközökkel — akár közpénzből — kívánja kiegészíteni. A személyi hatályt a munka jellege határozza meg. A tévedés a holland hatóság elutasított érvelését ismétli."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "33a22c5d860e"
+    },
+    {
+      "question": "Mi következik abból, ha a fogadó állam a speciális szakmai tevékenységet nem szabályozza?",
+      "options": [
+        {
+          "text": "A szervezeti, képesítési, szakmai etikai, ellenőrzési és felelősségi szabályok közérdekkel igazolhatók, és előírhatják az oklevelet, a kamarai tagságot, a fegyelmi rendet és a szakmai cím használatát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Thieffry-vonal a közérdekű igazolhatóságot adja a képesítési feltételekhez. A C-55/94. sz. Gebhard-ügy szerint a szervezeti, képesítési, szakmai etikai, ellenőrzési és felelősségi szabályok közérdekkel igazolhatók (Thieffry); előírhatják az oklevelet, a kamarai tagságot, a fegyelmi rendet és a szakmai cím használatát — például az „avvocato” címet. Az EUMSZ 53. cikk (1) bekezdése az oklevelek kölcsönös elismerésére és a szabályok összehangolására irányelvet rendel, a négyes próba pedig az alkalmasságot és a szükségességet is megköveteli. A feltétel tehát nem öncélú piaczárás."
+        },
+        {
+          "text": "A másik tagállam állampolgára letelepedhet és gyakorolhatja a tevékenységet; ha a fogadó állam szabályozza, főszabályként meg kell felelnie a fogadó állami feltételeknek, az 53. cikk elismerési programjára és a négyes arányossági próbára figyelemmel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szabályozás megléte dönti el a megfelelési kötelezettséget. A C-55/94. sz. Gebhard-ügy szerint ha a fogadó állam a speciális tevékenységet nem szabályozza, a másik tagállam állampolgára letelepedhet és gyakorolhatja; ha szabályozza, főszabályként meg kell felelnie a fogadó állami feltételeknek, az 53. cikk elismerési programjára és a négyes arányossági próbára figyelemmel. A nemzeti elbánás tehát nem abszolút piaczárás. A képesítés egyenértékűségét figyelembe kell venni."
+        },
+        {
+          "text": "A szakmai cím és a kamarai tagság a letelepedés fogalmi elemei; hiányukban a személy szolgáltatónak minősül, még állandó telephely mellett is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a cím és a tagság feltétel, nem fogalmi elem. A helyes: a C-55/94. sz. Gebhard-ügy szerint a kamarai tagság hiánya nem jelenti, hogy az érintett „nincs letelepedve”; a tagság a tevékenység megkezdésének feltétele, nem a fogalom alkotóeleme. Az állandó és folyamatos telephelyi tevékenység a letelepedés alá esik. A tévedés a képesítési feltételt a Gebhard-fogalom helyébe tolja."
+        },
+        {
+          "text": "Ha a fogadó állam nem szabályozza a tevékenységet, a másik tagállam állampolgára akkor sem telepedhet le, amíg az 53. cikk irányelve el nem készül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szabályozás hiánya éppen a gyakorlás lehetőségét nyitja meg. A helyes: a C-55/94. sz. Gebhard-ügy szerint ha a fogadó állam a speciális tevékenységet nem szabályozza, a másik tagállam állampolgára letelepedhet és gyakorolhatja; az 53. cikk irányelveinek hiányában is a 49. cikk és a négyes teszt köti a fogadó államot, ha van szabályozás. A tévedés az irányelvet a letelepedés előfeltételévé emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "305eedca63b2"
+    },
+    {
+      "question": "Az EUMSZ 50. cikk (2) bekezdés e) pontja az ingatlanszerzésnél milyen korlátot szab?",
+      "options": [
+        {
+          "text": "Lehetővé kell tenni, hogy valamely tagállam állampolgára egy másik tagállam területén ingatlantulajdont szerezzen és használjon, amennyiben ez nem ellentétes a 39. cikk (2) bekezdésében megállapított elvekkel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ingatlanszerzés a letelepedési program része, de a mezőgazdasági/átmeneti elvekre figyelemmel. Az EUMSZ 50. cikk (2) bekezdés e) pontja szerint lehetővé kell tenni valamely tagállam állampolgára számára, hogy egy másik tagállam területén ingatlantulajdont szerezzen és használjon, amennyiben ez nem ellentétes a 39. cikk (2) bekezdésében megállapított elvekkel. A 50. cikk (2) bekezdés e) pontja az ingatlanra, az 55. cikk a részesedésre ad párhuzamos, diszkriminációtilalmi védelmet. A vagyoni aljzat tehát nem saját állampolgári rezervátum."
+        },
+        {
+          "text": "Az e) pont szerint az ingatlanszerzés csak a saját állampolgárok kiváltsága maradhat, mert a 39. cikk (2) bekezdése minden külföldi tulajdont kizár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az e) pont éppen a más tagállami állampolgár ingatlanszerzését teszi lehetővé a 39. cikk (2) bekezdésének elveire figyelemmel. A helyes: az EUMSZ 50. cikk (2) bekezdés e) pontja lehetővé teszi, hogy valamely tagállam állampolgára egy másik tagállam területén ingatlantulajdont szerezzen és használjon, amennyiben ez nem ellentétes a 39. cikk (2) bekezdésében megállapított elvekkel. A 39. cikk (2) bekezdésére utaló korlát nem jelent általános külföldi-tilalmat az ingatlanszerzésre. A tévedés a korlátozó utalást teljes kizárássá olvassa."
+        },
+        {
+          "text": "Az ingatlan és a társasági tőke a fogadó államban együtt a letelepedés vagyoni aljzatát köti: sem az egyik, sem a másik nem tartható fenn saját állampolgári rezervátumként.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az e) pont és az 55. cikk párhuzamos védelmet ad. Az EUMSZ 50. cikk (2) bekezdés e) pontja az ingatlanszerzést, az EUMSZ 55. cikk a társasági tőkében való részesedést a nemzeti elbánás alá vonja. A kettő együtt a letelepedés vagyoni aljzatát köti. A 39. cikk (2) bekezdésének elvei az ingatlan-pályán korlátot szabhatnak, de nem nyitnak általános állampolgári kizárólistát. A tévedés kerülendő: a két pálya nem olvad egyetlen tőkejogi aktussá."
+        },
+        {
+          "text": "Az ingatlanszerzés kizárólag az 55. cikk hatálya alá tartozik; az 50. cikk e) pontja csak a társasági biztosítékokra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az e) pont az ingatlanra, a g) pont a társasági biztosítékokra, az 55. cikk a tőkerészesedésre szól. A helyes: az EUMSZ 50. cikk (2) bekezdés e) pontja az ingatlantulajdon szerzését és használatát nevezi; az 55. cikk az 54. cikk szerinti társaságok tőkéjében való részesedés nemzeti elbánását adja. A két pálya párhuzamos. A tévedés az e) pontot a g) ponttal és az 55. cikkel cseréli fel."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "1ce66fef24bf"
+    },
+    {
+      "question": "Mely állítások helytelenek a letelepedési fejezet személyi hatályáról és a nonprofit szervezetről?",
+      "options": [
+        {
+          "text": "A társaság letelepedési joga nem foglalja magában a képviselet, a fióktelep vagy a leányvállalat alapítását; ezek csak a tőke fejezet alá esnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 49. cikk a társaság másodlagos jelenlétét is a korlátozási tilalom alá vonja. A helyes: az EUMSZ 49. cikk a képviselet, a fióktelep és a leányvállalat alapítására is kiterjeszti a tilalmat; az 54. cikk a társaságot a természetes személy állampolgárral azonosítja, a Gebhard-ügy szerint e formákkal több tagállamban is. A tévedés a másodlagos letelepedést a tőke monopóliumának tekinti."
+        },
+        {
+          "text": "Az 55. cikk a nonprofit szervezetek tőkerészesedésére is kiterjed, mert a közjogi jogi személyek az 54. cikk alá tartozhatnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nonprofit szervezet az 54. cikk kizárása miatt az 55. cikk tőkerészesedési nemzeti elbánása alá sem kerül. A helyes: az EUMSZ 55. cikk az 54. cikk értelmében vett társaságok tőkéjében való részesedésre ad nemzeti elbánást; az 54. cikk a nonprofit szervezeteket kivéve határozza meg a társaságot. A közjog vagy magánjog hatálya alá tartozó más jogi személyek bekerülhetnek, de a nonprofit tilalom megmarad. A tévedés a közjogi jogi személyek felvételét a nonprofit feloldásaként olvassa."
+        },
+        {
+          "text": "A nonprofit szervezet az 54. cikk szerinti társaság, ha tagállami jogon jött létre és Unióbeli központi ügyvezetéssel rendelkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nonprofit szervezet kifejezetten ki van zárva. A helyes: az EUMSZ 54. cikk második albekezdése a társaság fogalmából kivételt tesz a nonprofit szervezetekre; a kizárás a fejezet gazdasági jellegét őrzi, mert a 49. cikk haszonszerző önálló tevékenységet véd. A létrehozás és a kapcsoló feltétel megléte nem oldja fel a nonprofit tilalmat. A tévedés a személyi hatály feltételeit a kizárás fölé emeli."
+        },
+        {
+          "text": "Az 54. cikk a székhely, a központi ügyvezetés és az üzleti tevékenység fő helye közül mindhárom Unióbeli meglétét konjunktívan követeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három kapcsoló vagylagos. A helyes: az EUMSZ 54. cikk szerint a létesítő okirat szerinti székhely, a központi ügyvezetés vagy az üzleti tevékenység fő helye Unióbeli megléte — a tagállami jog szerinti létrehozással együtt — elégséges; a három kapcsoló vagylagos. Nem kell mindháromnak egyszerre fennállnia. A tévedés a vagylagosságot konjunktív listává szorítja."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "1e9fb526c9cc"
+    },
+    {
+      "question": "A 1612/68/EGK rendelet 3. cikke és a „betöltendő állás jellegéből” fordulat a Groener-ügyben milyen kérdést vet fel?",
+      "options": [
+        {
+          "text": "A Groener-ügy szerint a nyelvi vizsga sikertelensége automatikusan megszünteti a munkavállalói jogállást a Lawrie-Blum-próba alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Groener-vita nem a munkavállalói minőséget dönti el. A helyes: a C-379/87. sz. Groener-ügyben az állandó, teljes munkaidős oktatói állás a Lawrie-Blum-próba szerint tényleges; a High Court a nyelvi feltételt a 1612/68 rendelet 3. cikke és a 48. cikk (3) bekezdése szerint kérdezte. A nyelvvizsga foglalkoztatási feltétel és esetleges közrendi korlátozás, nem a fogalom eleme. A tévedés a képesítési küszöböt a munkavállaló-fogalommal keveri."
+        },
+        {
+          "text": "A 48. cikk (3) bekezdésének — a mai 45. cikk (3) bekezdésének — „közrend” fogalma fedi-e az ír nyelv mint első hivatalos nyelv támogatásának és előmozdításának politikáját, és az oktatói vizsgakövetelmény e politika alapján indokolt korlátozás-e?",
+          "isCorrect": true,
+          "rationale": "IGAZ, a High Court a közrendet a nyelvi politika fedezésére is kérdezte. A C-379/87. sz. Groener-ügyben a harmadik előzetes kérdés arra irányult, hogy a 48. cikk (3) bekezdésének közrendje fedi-e az ír nyelv mint első hivatalos nyelv politikáját, és a vizsgakövetelmény e politika alapján indokolt korlátozás-e. Az EUMSZ 45. cikk (3) bekezdése a közrendet a mozgási jogok korlátjaként nevezi meg, nem a (2) bekezdés diszkriminációtilalmának általános feloldásaként. A nyelvi politika tehát nem automatikus mentesség."
+        },
+        {
+          "text": "Figyelembe vehető-e az ír állam azon politikája, hogy az állást betöltőknek megfelelő szinten kell ismerniük az ír nyelvet, ha e tudás az álláshoz kapcsolódó feladatok ellátásához nem szükséges?",
+          "isCorrect": true,
+          "rationale": "IGAZ, a High Court a „betöltendő állás jellegéből” fordulatot a nyelvi politikára is kiterjesztette. A C-379/87. sz. Groener-ügyben a dublini High Court azt kérdezte, hogy a „betöltendő állás jellegéből” fordulatnál figyelembe vehető-e az ír állam azon politikája, hogy az állást betöltőknek megfelelő szinten kell ismerniük az ír nyelvet, ha e tudás az álláshoz kapcsolódó feladatok ellátásához nem szükséges. A nyelvi feltétel tehát nem csak a feladathoz szükséges tudás mezőjén vizsgálandó. A 1612/68 rendelet 3. cikke a semleges, de kirekesztő hatású szabályokat is tiltja."
+        },
+        {
+          "text": "Ha a nyelvtudás a feladatokhoz nem szükséges, a nemzeti nyelvi politika a rendelet 3. cikke és a 45. cikk (3) bekezdése alá sem vonható, mert a szabály szakmai.",
+          "isCorrect": false,
+          "rationale": "HAMIS, éppen a feladathoz nem szükséges nyelvi politika volt a High Court kérdésének tárgya. A helyes: a C-379/87. sz. Groener-ügyben a High Court azt kérdezte, figyelembe vehető-e a nyelvi politika a „betöltendő állás jellegéből” fordulatnál akkor is, ha a tudás a feladatokhoz nem szükséges, és hogy a közrend fedi-e e politikát. A 1612/68 rendelet 3. cikke a semleges, de kirekesztő hatású szabályokat is tiltja. A tévedés a szakmai címkét immunitásnak tekinti."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "7c682266ca71"
+    },
+    {
+      "question": "Az EUMSZ 51. cikk második mondata szerint ki és milyen eljárásban bővítheti a letelepedési fejezet alól kimaradó tevékenységek körét?",
+      "options": [
+        {
+          "text": "A közhatalmi kivétel a tevékenységi magot, nem a hivatás egészét emeli ki; az ügyvédi, orvosi vagy kereskedelmi hivatás egésze ezért nem esik ki automatikusan a 49. cikk alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Reyners–Gebhard vonal a hivatás egészét a fejezet alatt hagyja. Az EUMSZ 51. cikk a közhatalom gyakorlásához tartósan vagy időlegesen kapcsolódó tevékenységekre a fejezetet az adott tagállam vonatkozásában nem alkalmazza; a Gebhard-ítélet a Reyners-ügyre utalva rögzíti, hogy a kivétel a tevékenységi magot, nem a hivatás egészét emeli ki. Az ügyvédi, orvosi vagy kereskedelmi hivatás egésze ezért nem esik ki a 49. cikk alól. A második mondat a további kimaradást a rendes jogalkotásra bízza."
+        },
+        {
+          "text": "A fogadó állam belügyminisztere rendeletben bármikor bővítheti a közhatalmi kivétel alá vont tevékenységek listáját, ha közérdeket hivatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a további kimaradás nem tagállami egyoldalú aktus. A helyes: az EUMSZ 51. cikk második mondata szerint az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében rendelkezhet úgy, hogy a fejezet bizonyos tevékenységekre nem alkalmazható; a tagállam egyoldalúan nem bővítheti a listát. Az első mondat csak a közhatalmi magot emeli ki. A tévedés a kivételt nemzeti közérdekű katalógussá tágítja."
+        },
+        {
+          "text": "A második mondat csak ajánlás; a tagállam a 45. cikk (4) bekezdésének közszolgálati katalógusát átültetheti a letelepedési fejezetbe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a második mondat intézményi hatáskört ad, nem ajánlást, és a 45. cikk (4) bekezdése más tényállás. A helyes: az EUMSZ 51. cikk második mondata a rendes jogalkotási eljárásra bízza a további kimaradást; a 45. cikk (4) bekezdése a közszolgálati foglalkoztatást a munkavállalói cikk hatálya alól kiveszi, más tényállással. A két kivétel nem cserélhető. A tévedés a munkavállalói kivételt a letelepedési fejezetbe másolja."
+        },
+        {
+          "text": "Az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében rendelkezhet úgy, hogy a fejezet bizonyos tevékenységekre nem alkalmazható; ez intézményi, nem tagállami kiterjesztés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a további kimaradás társjogalkotási pályán áll. Az EUMSZ 51. cikk második mondata szerint az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében úgy rendelkezhet, hogy e fejezet rendelkezései bizonyos tevékenységekre nem alkalmazhatók. A tagállam egyoldalúan nem bővítheti a kimaradó tevékenységek listáját. A kivétel első mondata a közhatalmi magot emeli ki; a második a további kimaradást intézményi aktushoz köti. A párhuzam a Lawrie-Blum-ügy szűk olvasatával: a kivétel kijelölése nem nemzeti címke."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "d27024bb034e"
+    },
+    {
+      "question": "A munkavállalók szabad mozgása és a letelepedés szabadsága kivételeinek közös olvasata milyen megállapításokat igazol?",
+      "options": [
+        {
+          "text": "A kivételek mindkét ágon szűkek: a közszolgálat és a közhatalom a közjogi magra, a közrend a három taxatív okra szűkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a forrás összefoglalója a kivételeket szűken olvassa. A C-66/85. sz. Lawrie-Blum-ügy a 45. cikk (4) bekezdését szűken értelmezi; az EUMSZ 51. cikk a közhatalomhoz kapcsolódó tevékenységi magot emeli ki, nem a hivatás egészét. Az EUMSZ 45. cikk (3) bekezdése és az 52. cikk (1) bekezdése a közrendet, a közbiztonságot és a közegészséget taxatív okként nevezi meg. Sem ott, sem itt nem olvasható a közrend a diszkriminációtilalom általános feloldásaként. A képesítés és a nyelv feltétel, nem fogalmi elem."
+        },
+        {
+          "text": "A közrend mindkét ágon a diszkriminációtilalom általános feloldása, ezért a nyelvi és képesítési feltételek mindig jogszerűek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közrend nem a diszkriminációtilalom általános feloldása. A helyes: az EUMSZ 45. cikk (3) bekezdése a közrendet a mozgási jogok korlátjaként nevezi meg; az 52. cikk (1) bekezdése a külföldiek különleges elbánását a három taxatív okhoz köti. A Gebhard-féle négyes próba a semleges akadályokat is köti. A tévedés a taxatív záradékot nyílt mentességgé tágítja."
+        },
+        {
+          "text": "A közszolgálati és a közhatalmi kivétel tág katalógus: minden közfinanszírozott vagy közérdekű munka automatikusan kiesik a 45. és a 49. cikk alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivételek a közjogi magra szűkülnek, nem minden közérdekű munkára. A helyes: az EUMSZ 45. cikk (4) bekezdése a közszolgálati foglalkoztatást szűken olvassa (Lawrie-Blum); az 51. cikk a közhatalomhoz kapcsolódó tevékenységet emeli ki, és szűkebb is: nem minden állami, közfinanszírozott vagy közérdekű munka. A tévedés a közérdeket a kivétel anyagi magjává emeli."
+        },
+        {
+          "text": "A képesítés és a nyelv nem a fogalom eleme, hanem feltétel: a munkavállalónál a 45. cikk (2)–(3) bekezdése, a letelepedőnél az 52–53. cikk és a négyes arányossági próba alatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két ág más szerződéses pályán kezeli a képesítési küszöböt. A Groener-ügy a nyelvi feltételt a 45. cikk (2)–(3) bekezdése és a 1612/68 rendelet 3. cikke szerint kérdezte; a letelepedőnél a nyelvi vagy képesítési küszöb az 52–53. cikk és a Gebhard-féle négyes teszt alá esik. A Lawrie-Blum-próba a munkavállaló fogalmát a díjazott, irányítás alatti szolgáltatáshoz köti, nem a nyelvvizsgához. A feltétel tehát nem olvad a fogalomba."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "804b1ab1ad8a"
+    }
+  ]
+}

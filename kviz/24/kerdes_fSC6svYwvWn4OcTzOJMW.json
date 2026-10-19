@@ -1,0 +1,1170 @@
+{
+  "id": "fSC6svYwvWn4OcTzOJMW",
+  "sorszam": 24,
+  "cim": "Az előzetes döntéshozatali eljárás (az eljárás kezdeményezésére (...)",
+  "generationType": "kerdes",
+  "title": "24. Az előzetes döntéshozatali eljárás (az eljárás kezdeményezésére (...)",
+  "questions": [
+    {
+      "question": "Mi jellemzi az előzetes döntéshozatali eljárást a tagállami bíróság és az Európai Unió Bírósága viszonyában?",
+      "options": [
+        {
+          "text": "Az eljárás a két fórum közötti közvetlen együttműködés: nem a felek jogorvoslata a nemzeti bíróság előtt folyamatban lévő ügyben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 9. pontja szerint a korábbi 177. cikk nem nyit a feleknek keresetet a nemzeti bíróság előtt folyamatban lévő ügyben. Az, hogy az egyik fél uniós jogi értelmezési kérdést állít, önmagában nem kötelezi a bíróságot a fordulásra. A bíróság adott esetben hivatalból is a Bírósághoz fordulhat. A ratio az uniós jog egységes értelmezése, nem a fél perbeli eszköze."
+        },
+        {
+          "text": "A C-210/06. sz. Cartesio-ügy szerint a kérelem helytállóságának és szükségességének megítélése a nemzeti bíróság mérlegelése, a felek kezdeményezésétől független bíróságok közötti párbeszéd keretében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 90–91. pontja a viszonyt a felek kezdeményezésétől független, bíróságok közötti párbeszédként írja le. A nemzeti bíróság dönt arról, hogy a kérdés helytálló és szükséges-e. Az EUSZ 19. cikk intézményesíti a fórumot, az EUMSZ 267. cikk pedig a tárgyi hatáskört adja. A fél indítványa tehát nem pótolja a bíróság döntését."
+        },
+        {
+          "text": "Ha a fél uniós jogi értelmezési kérdést állít, a nemzeti bíróság köteles az Európai Unió Bíróságához fordulni, mert a fél keresetjogot kap a 267. cikk alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fél állítása önmagában nem kötelez. A C-283/81. sz. CILFIT-ügy 9. pontja szerint a korábbi 177. cikk nem nyit a feleknek keresetet, és a fél közösségi jogi értelmezési kérdése önmagában nem kötelezi a bíróságot. A helyes: a fordulás a bíróság aktusa, adott esetben hivatalból, az EUMSZ 267. cikk keretében. A tévedés a felek jogorvoslatává minősíti az eljárást."
+        },
+        {
+          "text": "Az előzetes döntéshozatal kizárólag a felek közös kérelmére indítható, a nemzeti bíróság hivatalból soha nem fordulhat a Bírósághoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hivatalbóli fordulás megengedett. A C-283/81. sz. CILFIT-ügy 9. pontja szerint a bíróság adott esetben hivatalból is a Bírósághoz fordulhat. A helyes: a C-210/06. sz. Cartesio-ügy 88. pontja szerint a nemzeti bíróság akár hivatalból, akár a felek kérelmére előterjeszthet, ha a jogvita érdeme az EUMSZ 267. cikk első bekezdésének kérdéseire vonatkozik. A tévedés a felek közös kérelmét kötelező előfeltételnek állítja."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "4d495268536c"
+    },
+    {
+      "question": "Az EUMSZ 267. cikk első albekezdésének a) és b) pontja hogyan osztja meg a tárgyi merítéket az értelmezés és az érvényesség között?",
+      "options": [
+        {
+          "text": "Az a) pont a Szerződések érvényességének vizsgálatát is megnyitja, a b) pont pedig csak a másodlagos jog értelmezését engedi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az a) pont értelmezést, nem érvényességet ad a Szerződésekre. A helyes: az EUMSZ 267. cikk a) pontja a Szerződések értelmezését, b) pontja az uniós intézmények, szervek vagy hivatalok jogi aktusainak érvényességét és értelmezését jelöli ki. A nemzeti jog és a ténykérdés kívül esik e merítéken. A tévedés a megsemmisítési kereset tárgyi körét olvassa az előzetes döntés a) pontjába."
+        },
+        {
+          "text": "Az a) pont a Szerződések értelmezését adja; a b) pont az uniós intézmények, szervek vagy hivatalok jogi aktusainak érvényességét és értelmezését is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két pont kimerítő, de nem azonos tartalmú. Az EUMSZ 267. cikk első albekezdésének a) pontja a Szerződések — az elsődleges jog — értelmezését jelöli ki. A b) pont a másodlagos jogot és a szervi aktusokat fedi: érvényesség és értelmezés egyaránt. A nemzeti jog értelmezése, a tényállás megállapítása és a bizonyítékok mérlegelése kívül esik. A Cartesio-ügyben még EK 234. cikk, a CILFIT-ügyben 177. cikk volt e váz elődje."
+        },
+        {
+          "text": "Érvényességi kérdésben a meríték a Bíróságé; értelmezési kérdésben a CILFIT-kivételek oldhatják a végső fórum kötelezettségét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a b) pont érvényességi ága nem oldható nemzeti „nyilvánvalósággal” ugyanúgy, mint az értelmezés. Az EUMSZ 267. cikk első albekezdése szerint a b) pont merítéke a Bíróságé: érvényesség és értelmezés. Értelmezési kérdésben a C-283/81. sz. CILFIT-ügy kivételei oldhatják a végső fórum kötelezettségét. Az első albekezdés így zárja a tárgyi hatáskört: nincs előzetes döntés a nemzeti eljárásjog vagy a bizonyítékok mérlegelése felől."
+        },
+        {
+          "text": "Ha a fél nemzeti jogi értelmezést kér, a Bíróság az első albekezdés alapján köteles arról is előzetes döntést hozni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti jog értelmezése kívül esik a tárgyi merítéken. A helyes: az EUMSZ 267. cikk első albekezdése csak a Szerződések értelmezését, illetve az uniós aktusok érvényességét és értelmezését engedi; a Dorsch Consult-ügy 40. pontja a nemzeti hatásköri minősítést a tagállamnál hagyja. A tévedés a fél indítványát a tárgyi hatáskör bővítőjének tekinti."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "089047e3566e"
+    },
+    {
+      "question": "A CILFIT-ügy 6–7. pontja hogyan állítja egymás mellé a 267. cikk második és harmadik albekezdésének modalitását?",
+      "options": [
+        {
+          "text": "A 7. pont szerint a kötelezettség abszolút, és a relevancia hiánya sem oldhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezettség célhoz kötött, nem abszolút. A helyes: a C-283/81. sz. CILFIT-ügy 10. pontja a relevancia hiányát kivételként adja az EUMSZ 267. cikk harmadik albekezdése alól; a 13–14. és 16. pont további kivételeket. A 7. pont az egységességi célt mondja ki, nem korlátlan parancsot. A tévedés a ratioját abszolút kötelezettséggé élezi."
+        },
+        {
+          "text": "A 6. pont szerint bármely bíróság „kérheti”, a végső fórum „köteles” fordulni, ha ilyen kérdés merül fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 6. pontja a korábbi 177. cikk második és harmadik bekezdését állítja egymás mellé. A „kérheti” a fakultatív, a „köteles” a kötelező utalás modalitása. Az EUMSZ 267. cikk ugyanezt a szerkezetet őrzi a második és a harmadik albekezdésben. A C-54/96. sz. Dorsch Consult-ügy ismérvei szerinti bíróság számára nyílik a fakultatív út, ha a kérdés az ítélethez szükséges."
+        },
+        {
+          "text": "A 7. pont szerint e kötelezettség a közösségi jog helyes alkalmazását és egységes értelmezését szolgálja valamennyi tagállamban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelezettség ratioja az egységesség. A C-283/81. sz. CILFIT-ügy 7. pontja a nemzeti bíróságok és a Bíróság együttműködésébe illeszti a kötelező utalást, hogy a közösségi jog egységes értelmezését biztosítsa. A C-210/06. sz. Cartesio-ügy 90. pontja ugyanezt a közvetlen együttműködést hangsúlyozza. Az EUMSZ 267. cikk harmadik albekezdésének kötelezettségét a CILFIT szerinti relevancia-, acte éclairé- és acte clair-kivételek oldhatják."
+        },
+        {
+          "text": "A 6. pont szerint a második albekezdés kötelező, a harmadik csak fakultatív lehetőséget ad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a modalitás fordítva van. A helyes: a C-283/81. sz. CILFIT-ügy 6. pontja szerint bármely bíróság „kérheti”, a végső fórum „köteles” az EUMSZ 267. cikk harmadik albekezdése szerint. A második albekezdés a fakultatív utat adja, ha a kérdés az ítélethez szükséges. A tévedés a CILFIT párhuzamát megfordítja."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "f683a103e911"
+    },
+    {
+      "question": "Miért nem jogosulti, hanem időszerűségi szabály az EUMSZ 267. cikk negyedik albekezdése?",
+      "options": [
+        {
+          "text": "A forma továbbra is a nemzeti bíróság utaló határozata; a fél — a CILFIT-ügy 9. pontja szerint — nem jogosult, csak indítványozhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a gyorsítás nem ad közvetlen keresetet. Az EUMSZ 267. cikk negyedik albekezdése a Bíróságot szorítja a lehető legrövidebb időn belüli határozatra, de a forma a nemzeti bíróság utaló határozata. A C-283/81. sz. CILFIT-ügy 9. pontja szerint a fél nem jogosult, csak indítványozhat. A negyedik albekezdés tehát nem nyit új jogosulti utat a fogvatartottnak."
+        },
+        {
+          "text": "A negyedik albekezdés a végső fórumot mentesíti a kötelező utalás alól, mert a Bíróság amúgy is gyorsít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a gyorsítás nem CILFIT-kivétel. A helyes: az EUMSZ 267. cikk negyedik albekezdése időszerűségi szabály a Bíróság oldalán. A kötelezettség alóli kivételeket a C-283/81. sz. CILFIT-ügy 10., 13–14. és 16. pontja adja. A tévedés az időszerűséget mentesülésnek olvassa."
+        },
+        {
+          "text": "A fogvatartottat érintő kérdésben a Bíróságot a lehető legrövidebb időn belüli határozatra szorítja; a jogosulti kört a második és harmadik albekezdés rendezi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a negyedik albekezdés a Bíróság oldalát gyorsítja. Az EUMSZ 267. cikk negyedik albekezdése szerint, ha a tagállami bíróság előtt fogvatartott személyt érintő kérdés merül fel, a Bíróság a lehető legrövidebb időn belül határoz. A fakultatív vagy kötelező utalás a második és harmadik albekezdés szerint marad. Az alapokmány 23a. cikke e parancsot sürgősségi és gyorsított eljárással támogatja."
+        },
+        {
+          "text": "A negyedik albekezdés a fogvatartottnak közvetlen keresetet ad a Bíróság előtt, nemzeti bíróság nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a norma a Bíróság határozatának időszerűségét rendezi. A helyes: az EUMSZ 267. cikk negyedik albekezdése szerint a Bíróság a lehető legrövidebb időn belül határoz; a forma a nemzeti bíróság utaló határozata. A C-283/81. sz. CILFIT-ügy 9. pontja szerint a fél nem jogosult. A tévedés a fogvatartottat közvetlen kérelmezővé emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "2b1ebc0af963"
+    },
+    {
+      "question": "A CILFIT-ügy 7. pontja szerinti egységességi cél hogyan kapcsolódik az EUSZ 19. cikk (1) bekezdéséhez és a 267./256. cikkhez?",
+      "options": [
+        {
+          "text": "Az EUSZ 19. cikk (1) bekezdése az előzetes döntést kizárólag a Törvényszékhez telepíti, a Bíróság csak fellebbvitelben jár el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fő címzett az Európai Unió Bírósága mint intézmény. A helyes: az EUMSZ 267. cikk az előzetes döntést az Európai Unió Bíróságához telepíti; a 256. cikk (3) bekezdése csak meghatározott ügycsoportokban adhat a Törvényszéknek hatáskört. A tévedés a belső elosztást általános kizárólagossággá emeli."
+        },
+        {
+          "text": "A 267. cikk az előzetes döntést az Európai Unió Bíróságához telepíti; a 256. cikk (3) bekezdése csak belső elosztást ad, az egységes fórumot nem bontja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 19. cikk (1) bekezdése szerinti egységes fórum a belső elosztás mellett is fennmarad. Az EUMSZ 256. cikk (3) bekezdése az alapokmányban meghatározott ügycsoportokban a Törvényszéknek is adhat 267. cikk szerinti hatáskört, elvi utalással és kivételes felülvizsgálattal. A 267. cikk címzettje továbbra is az Európai Unió Bírósága. A CILFIT 7. pont szerinti egységesség így intézményileg is védve marad."
+        },
+        {
+          "text": "A 19. cikk (1) bekezdése a szervezeti hármast és az értelmezési őrködést adja: az intézmény a Szerződések értelmezése körében biztosítja a jog tiszteletben tartását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 7. pontja szerinti egységességi cél az értelmezési őrködéshez kapcsolódik. Az EUSZ 19. cikk (1) bekezdése a Bíróságból, a Törvényszékből és különös hatáskörű törvényszékekből álló fórumot nevezi meg, és a Szerződések értelmezése körében biztosítja a jog tiszteletben tartását. Az előzetes döntést ezzel intézményi hatáskörré teszi, nem ad hoc jogsegéllyé. Az EUMSZ 267. cikk a tárgyi merítéket tölti ki: a Szerződések értelmezését, valamint az uniós aktusok érvényességét és értelmezését."
+        },
+        {
+          "text": "Az egységességi cél kizárólag a tagállami legfelsőbb bíróságok közös tanácsára hárul, uniós fórum nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, uniós intézményi fórum nélkül az előzetes döntés nem működik. A helyes: az EUSZ 19. cikk (1) bekezdése az Európai Unió Bíróságát nevezi meg, és a Szerződések értelmezése körében biztosítja a jog tiszteletben tartását. Az EUMSZ 267. cikk az előzetes döntést ehhez az intézményhez telepíti. A tévedés a nemzeti fórumokat helyettesíti az uniós intézménnyel."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "0908f8c63707"
+    },
+    {
+      "question": "A Dorsch Consult-ügyben hogyan válik el a 177. cikk szerinti bíróság-minősítés a 89/665 irányelv felülvizsgálati szervi minőségétől?",
+      "options": [
+        {
+          "text": "A nemzeti címke — „rendes” polgári vagy közigazgatási bíróság — dönti el a 267. cikk szerinti jogosultságot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fogalom uniós, nem a nemzeti címke dönti el. A helyes: a C-54/96. sz. Dorsch Consult-ügy 23. pontja szerint a kérdést kizárólag a közösségi jog szabályozza. A Vergabeüberwachungsausschuß des Bundes a 38. pont szerint a korábbi 177. cikk — ma az EUMSZ 267. cikk — értelmében vett bíróságnak minősült. A tévedés a nemzeti szervezeti elnevezést teszi döntővé."
+        },
+        {
+          "text": "A 37–38. pont szerint a Szövetségi Felügyeleti Bizottság igazságszolgáltatási feladatot lát el, ezért a 177. cikk értelmében vett bíróságnak minősül, és a kérdés elfogadható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a funkció a hat ismérv mellett döntő. A Dorsch Consult-ügy 37. pontja szerint a szerv megállapíthatja a felülvizsgáló szerv határozatának jogellenességét, és utasíthatja új határozat meghozatalára. A 38. pontból következik a bírósági minősítés. A 267. cikk szerinti bíróság tehát lehet közbeszerzési felügyeleti bizottság is, ha az uniós ismérvek és a funkció együtt állnak."
+        },
+        {
+          "text": "A 22. pont elválasztja a két kérdést: a 89/665 irányelv 2. cikkének (8) bekezdése szerinti független felülvizsgálati szervi minősítés a Dorsch Consult-ügyben nem volt releváns.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelvi fogalom nem dönti el a szerződési jogosulti kört. A C-54/96. sz. Dorsch Consult-ügy 22. pontja szerint a 177. cikk szerinti bíróság-minősítést el kell választani attól, hogy a szerv a 89/665 irányelv szerinti független felülvizsgálati szerv-e. A bírósági minősítés a közösségi jog ismérvein és az igazságszolgáltatási funkción nyugszik. A 23. pont szerint a kérdést kizárólag a közösségi jog szabályozza."
+        },
+        {
+          "text": "A 89/665 irányelv szerinti felülvizsgálati szervi minőség önmagában pótolja a 267. cikk szerinti bíróság-minősítést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság e két kérdést elválasztotta. A helyes: a C-54/96. sz. Dorsch Consult-ügy 22. pontja szerint a 89/665 irányelv 2. cikkének (8) bekezdése szerinti minősítés nem volt releváns. A 23. és 37–38. pont az uniós bíróság-fogalmat és az igazságszolgáltatási funkciót alkalmazza az EUMSZ 267. cikk jogosulti köréhez. A tévedés az irányelvi fogalmat azonosítja a szerződési jogosulttal."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "1e4a52520fdc"
+    },
+    {
+      "question": "Ki jogosult az EUMSZ 267. cikk szerinti előzetes döntés kezdeményezésére — a fél vagy a bíróság?",
+      "options": [
+        {
+          "text": "A fél az EUMSZ 267. cikk alapján közvetlen keresettel kikényszerítheti, hogy a nemzeti bíróság a Bírósághoz forduljon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a félnek nincs ilyen kikényszerítő keresete. A C-283/81. sz. CILFIT-ügy 9. pontja szerint a korábbi 177. cikk nem nyit a feleknek keresetet a nemzeti bíróság előtt folyamatban lévő ügyben. A helyes: a fél indítványozhat, de a fordulás a bíróság mérlegelése és aktusa. A tévedés a felek jogorvoslatává alakítja az együttműködést."
+        },
+        {
+          "text": "Jogosult a 267. cikk szerinti bíróság, nem a fél: a fél csak indítványozhat, a fordulás a bíróság aktusa.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 9. pontja a felek oldalát zárja: a korábbi 177. cikk nem nyit keresetet, és a fél állítása önmagában nem kötelez. A fordulás a bíróság aktusa, adott esetben hivatalból. A C-210/06. sz. Cartesio-ügy 88. pontja szerint a nemzeti bíróság akár hivatalból, akár a felek kérelmére előterjeszt, ha a jogvita érdeme az első bekezdés kérdéseire vonatkozik. A jogosulti kör tehát a bíróságé."
+        },
+        {
+          "text": "Csak a felek együttes, írásbeli kérelme nyithatja meg az előzetes döntést; a bíróság hivatalból nem dönthet az utalásról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hivatalbóli út nyitva áll. A C-283/81. sz. CILFIT-ügy 9. pontja lehetővé teszi, hogy a bíróság a felek indítványa nélkül is a Bírósághoz forduljon. A helyes: a C-210/06. sz. Cartesio-ügy 88. pontja szerint a nemzeti bíróság akár hivatalból, akár a felek kérelmére előterjeszthet. A tévedés a felek közös kérelmét kötelező alaki feltételnek állítja."
+        },
+        {
+          "text": "A Cartesio-ügy szerint a nemzeti bíróságok a lehető legszélesebb lehetőséggel rendelkeznek a Bírósághoz fordulásra, ha a jogvita érdeme a 267. cikk első bekezdésében felsorolt kérdésekre vonatkozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 88. pontja a széles utalási jogot rögzíti. A nemzeti bíróság akkor terjeszt elő kérelmet, amikor akár hivatalból, akár a felek kérelmére megállapítja a szükséges uniós jogi kérdést. Az EUMSZ 267. cikk második albekezdése a „kérheti” fordulatot adja a nem végső fórumnak. A fél indítványa nem pótolja a bíróság döntését."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "2c9ea3223620"
+    },
+    {
+      "question": "A Schmidberger-ügy szerint milyen kivételes esetben vizsgálhatja a Bíróság a nemzeti bíróság fordulásának körülményeit?",
+      "options": [
+        {
+          "text": "A kérdések relevanciáját a felek közös nyilatkozata dönti el; a Bíróság ezt köteles elfogadni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a relevancia a nemzeti bíróságé, a Bíróság pedig kivételesen vizsgálhatja a fordulás körülményeit. A helyes: a C-112/00. sz. Schmidberger-ügy a szükségességet és a relevanciát a jogvitát elbíráló nemzeti bírósághoz telepíti. Az EUMSZ 267. cikk második albekezdése ugyanezt a nemzeti mérlegelést tükrözi. A tévedés a felek nyilatkozatát teszi döntővé."
+        },
+        {
+          "text": "A Bíróság főszabály szerint elutasítja a kérelmet, ha a nemzeti bíróság nem csatolta a felek indítványait.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály az érdemi válasz. A helyes: a C-112/00. sz. Schmidberger-ügy 30–40. pontja szerint, ha a kérdések a közösségi jog értelmezésére vonatkoznak, a Bíróság az EUMSZ 267. cikk alapján főszabály szerint köteles érdemben határozni. Kivételesen utasíthatja el a hipotetikus vagy az alapügytől elszakadó kérdést. A tévedés a kivételes elutasítást főszabállyá emeli."
+        },
+        {
+          "text": "Kivételesen megvizsgálhatja azokat a körülményeket, amelyek között a nemzeti bíróság hozzá fordult, és nem dönthet nyilvánvalóan hipotetikus vagy az alapügytől elszakadó kérdésről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főszabály a válaszadás, a kivétel a hipotetikus vagy elszakadó kérdés. A C-112/00. sz. Schmidberger-ügy 32–40. pontja szerint a Bíróság kivételesen vizsgálhatja a fordulás körülményeit. Nem dönthet, ha nyilvánvaló, hogy a kért értelmezés nem függ össze az alapeljárás tényállásával vagy tárgyával, illetve ha a probléma hipotetikus. Az EUMSZ 267. cikk szerinti eljárás így nem általános jogtanácsadás."
+        },
+        {
+          "text": "Az együttműködési szellem megköveteli, hogy a nemzeti bíróság tekintettel legyen a Bíróság feladatára: a tagállamok igazságszolgáltatásához való hozzájárulás, nem általános vagy hipotetikus tanácsadó vélemény.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szereposztás korlátja a Bíróság feladatából következik. A Schmidberger-ügy szerint a Bíróság a nemzeti bíróságok részére a jogvita megoldásához szükséges iránymutatást ad. A kérdezőnek a ténybeli és jogi hátteret jogilag megkövetelt módon kell rögzítenie. A nemzeti bíróság választja meg az utalás szakaszát is — ez a 267. cikk második albekezdéséből következik."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "b5f28fc675b9"
+    },
+    {
+      "question": "Milyen formában kezdeményezi a nemzeti bíróság az előzetes döntéshozatali eljárást?",
+      "options": [
+        {
+          "text": "A nemzeti bíróság szóban, jegyzőkönyvbe foglalt kérdésfeltevéssel is eleget tehet a 267. cikknek, felfüggesztés és közlés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közlés és a felfüggesztés az uniós oldal előfeltétele. Az alapokmány 23. cikke a felfüggesztésről és az ügy Bíróság elé utalásáról szóló határozat közlését írja elő. A helyes: a C-210/06. sz. Cartesio-ügy szerint a kezdeményezésről végzéssel kell határozni, egyidejűleg a per tárgyalását felfüggeszteni. A tévedés a szóbeli kérdést elégséges formának állítja."
+        },
+        {
+          "text": "Az alapokmány 23. cikke szerint a tagállam bíróságának az eljárás felfüggesztéséről és az ügy Bíróság elé utalásáról szóló határozatát az érintett bíróság közli a Bírósággal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alapokmány 23. cikke az EUMSZ 267. cikkhez kapcsolja az uniós oldalt. A hivatalvezető továbbítja a feleknek, a tagállamoknak és a Bizottságnak, továbbá annak az uniós intézménynek, szervnek vagy hivatalnak, amelyik meghozta a jogvita tárgyát képező aktust. A közléstől számított két hónapon belül e címzettek beadványokat vagy írásbeli észrevételeket nyújthatnak be. Az EGT-részes államok és az EFTA Felügyeleti Hatóság ugyanezen határidőn belül észrevételezhetnek, ha a határozat a megállapodás alkalmazási területét érinti."
+        },
+        {
+          "text": "Az előzetes döntést a fél közvetlenül, keresetlevéllel indítja az Európai Unió Bírósága előtt, nemzeti végzés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a forma a nemzeti bíróság utaló határozata. Az alapokmány 23. cikke a felfüggesztésről és az utalásról szóló határozat közlését rendezi. A helyes: indokolt nemzeti végzés, a per felfüggesztése, majd a közlés a Bírósággal; a C-283/81. sz. CILFIT-ügy 9. pontja szerint a fél indítványa nem pótolja a bíróság döntését. A tévedés a felek keresetévé alakítja az eljárást."
+        },
+        {
+          "text": "A forma nemzeti eljárásjogi aktus: indokolt végzés, a per felfüggesztése, majd a végzés eljuttatása a Bírósághoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 267. cikk maga nem írja elő a nemzeti végzés alaki kellékeit. A C-210/06. sz. Cartesio-ügy a magyar Polgári perrendtartás 155/A. §-át idézi: a bíróság végzéssel határoz, egyidejűleg a per tárgyalását felfüggeszti. A C-283/81. sz. CILFIT-ügy 9. pontja szerint a fél indítványa nem pótolja a bíróság döntését. A forma tehát nemzeti, az uniós oldal a közléssel kezdődik."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "083da341960c"
+    },
+    {
+      "question": "A Cartesio-ügy 76–78. pontja a Lyckeskog-ügyre támaszkodva mit mond a magyar felülvizsgálat jogorvoslati jellegéről?",
+      "options": [
+        {
+          "text": "Nem fosztja meg a feleket a jogorvoslattól az, hogy a megtámadás érdemi vizsgálata a legfelső bírói fórum elfogadhatóságot megállapító előzetes határozatához van kötve.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elfogadhatósági előszűrés nem szünteti meg a jogorvoslatot. A Cartesio-ügy 76–78. pontja e Lyckeskog-logikát alkalmazza a magyar felülvizsgálatra. A 79. pont következménye: a felülvizsgálattal támadható ítélőtáblai határozat nem tartozik a 234. cikk harmadik bekezdése alá. Az Ítélőtábla tehát fakultatív, nem kötelezett fórum."
+        },
+        {
+          "text": "A felülvizsgálat azért nem hatékony, mert csak jogszabálysértésre szűkített, ezért a másodfok automatikusan a 267. cikk harmadik albekezdése alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szűkített jogalap nem azonos a jogorvoslat hiányával. A helyes: a C-210/06. sz. Cartesio-ügy szerint a magyar felülvizsgálat e szűkítés ellenére hatékony jogorvoslat. A felülvizsgálható ítélőtábla ezért nem tartozik az EUMSZ 267. cikk harmadik albekezdése alá. A tévedés a felülvizsgálat terjedelmét a kötelezett fórum küszöbévé emeli."
+        },
+        {
+          "text": "A felfüggesztő hatály hiánya miatt a felülvizsgálat nem számít jogorvoslatnak, ezért az ítélőtábla mindig kötelezett fórum.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felfüggesztő hatály hiánya nem fosztja meg a felülvizsgálatot a jogorvoslati jellegétől. A helyes: a C-210/06. sz. Cartesio-ügy 76–78. pontja szerint a magyar felülvizsgálat hatékony jogorvoslat. A 79. pont szerint a felülvizsgálható ítélőtábla nem az EUMSZ 267. cikk harmadik albekezdése szerinti kötelezett fórum. A tévedés a felfüggesztő hatályt teszi a kötelezettség egyetlen mércéjévé."
+        },
+        {
+          "text": "A magyar felülvizsgálat — a jogszabálysértésre szűkített jogalap és a felfüggesztő hatály hiánya ellenére — hatékony jogorvoslatnak minősül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatékonyság nem a felfüggesztő hatályon múlik. A C-210/06. sz. Cartesio-ügy 76–78. pontja a Lyckeskog-ügyre támaszkodva mondja ki, hogy a magyar felülvizsgálat hatékony jogorvoslat. A jogszabálysértésre szűkített jogalap és a felfüggesztő hatály hiánya sem változtat e minősítésen. Az EUMSZ 267. cikk harmadik albekezdésének küszöbe így a felülvizsgálati fórumnál jelenik meg, ha a felülvizsgálat nyitva áll."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "e4ef02bd04f2"
+    },
+    {
+      "question": "A PK-KK szerint a kezdeményezésre kötelezett bíróság milyen önálló mérlegelést végezhet az utalás szükségességéről?",
+      "options": [
+        {
+          "text": "A kötelezett fórum minden uniós jogi utalást kötelezően előterjeszt, a relevancia vizsgálata nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a relevancia hiánya kivétel a kötelezettség alól. A helyes: az 1/2009. (VI. 24.) PK-KK a C-283/81. sz. CILFIT-ügy 10. pontjára és az Intermodal Transports-ügy 45. pontjára hivatkozva önálló szükségességi mérlegelést enged. Az EUMSZ 267. cikk harmadik albekezdése a főszabályt adja, nem vak automatizmust. A tévedés a kötelezettséget abszolúttá emeli."
+        },
+        {
+          "text": "E körben a PK-KK a CILFIT-ügy 10. pontjára és az Intermodal Transports-ügy 45. pontjára hivatkozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a relevancia-kivétel a kötelezett fórumot is megilleti. A C-283/81. sz. CILFIT-ügy 10. pontja szerint a végső fórum ugyanolyan mérlegeléssel dönt a szükségességről, mint bármely más nemzeti bíróság. Az Intermodal Transports-ügy 45. pontja ugyanezt a vonalat erősíti. Az EUMSZ 267. cikk harmadik albekezdésének kötelezettje — felülvizsgálat nyitva állása esetén a Kúria — e relevanciavizsgálattól nem fosztódik meg."
+        },
+        {
+          "text": "A relevanciát kizárólag a felek közös indítványa döntheti el a kötelezett fórum előtt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mérlegelés a bíróságé. A helyes: az 1/2009. (VI. 24.) PK-KK szerint a kötelezett bíróság önállóan mérlegelheti az utalás szükségességét. A C-283/81. sz. CILFIT-ügy 9. pontja szerint a fél indítványa nem pótolja a bíróság döntését az EUMSZ 267. cikk szerinti eljárásban. A tévedés a felek nyilatkozatát teszi döntővé."
+        },
+        {
+          "text": "Önállóan mérlegelheti, hogy az érdemi döntés elleni felülvizsgálati vagy fellebbezési eljárásban a jogvita eldöntéséhez szükséges-e az utalás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelezettség nem vak automatizmus. Az 1/2009. (VI. 24.) PK-KK közös vélemény szerint a kezdeményezésre kötelezett bíróság e relevanciát önállóan vizsgálhatja. Az EUMSZ 267. cikk harmadik albekezdése a főszabályt adja; a CILFIT-kivételek oldhatják. A mérlegelés a jogvita eldöntéséhez szükséges kérdésre vonatkozik."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "15d7b3a9c561"
+    },
+    {
+      "question": "A C-283/81. sz. CILFIT-ügy szerint milyen sorrendben vizsgálandók a kötelező utalás alóli kivételek?",
+      "options": [
+        {
+          "text": "A CILFIT-ügy 11. pontja szerint, ha a közösségi jog figyelembevételére szükség van, és a két utóbbi kivétel nem áll, a végső fórum köteles fordulni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főszabályt a kivételek nem engedik elfeledni. A C-283/81. sz. CILFIT-ügy 11. pontja szerint ha a közösségi jog figyelembevételére szükség van, a végső fórum minden felmerült értelmezési kérdésben köteles fordulni — a relevancia kivételének hiányában, és ha az acte éclairé vagy acte clair nem oldja a kötelezettséget. Az EUMSZ 267. cikk harmadik albekezdése e kötelezettséget állítja a jogorvoslattal nem támadható határozatot hozó bíróság elé. A kivétel a kötelezettséget oldja, a fordulás jogát nem."
+        },
+        {
+          "text": "A három kivétel bármelyike abszolút tilalmat jelent: a végső fórum a kivétel fennállása esetén nem fordulhat a Bírósághoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivétel a kötelezettséget oldja, a jogot nem veszi el. A C-283/81. sz. CILFIT-ügy 15. pontja szerint mindezen körülmények között a nemzeti bíróságok, a végső fórumot is beleértve, továbbra is teljesen szabadon fordulhatnak a Bírósághoz, ha azt célszerűnek tartják. A helyes: az EUMSZ 267. cikk szerinti fordulás joga megmarad. A tévedés a kivételt tilalomnak olvassa."
+        },
+        {
+          "text": "Először az acte clair, majd az acte éclairé, végül a relevancia vizsgálandó, mert a nyilvánvalóság a legszigorúbb szűrő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a forrás kötött sorrendet ad. A C-283/81. sz. CILFIT-ügy szerint először a relevancia, másodszor a már eldöntött jogkérdés, harmadszor a nyilvánvalóság. A helyes: ha a válasz a jogvitát nem érinti, nincs kérdés, ezért a relevancia megelőzi a többi kivételt. A tévedés a 16. pontot helyezi a 10. pont elé."
+        },
+        {
+          "text": "Először a relevancia hiánya, másodszor a már eldöntött jogkérdés (acte éclairé), harmadszor a nyilvánvaló helyes alkalmazás (acte clair).",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három kivétel sorrendje kötött a vizsgálatban. Először a C-283/81. sz. CILFIT-ügy 10. pontja szerinti relevancia: ha a válasz a jogvitát nem érinti, nincs kérdés. Másodszor a 13–14. pont szerinti már eldöntött jogkérdés vagy kialakult gyakorlat. Harmadszor a 16. pont szerinti nyilvánvalóság, a többi tagállami bíróságra és a Bíróságra is kiterjedő, a nyelvi változatok összevetését is magában foglaló ésszerű kétely hiánya. Az EUMSZ 267. cikk harmadik albekezdésének kötelezettsége így célhoz kötött."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "41855246e4bf"
+    },
+    {
+      "question": "A C-283/81. sz. CILFIT-ügy 10. pontja szerinti relevancia-kivétel mit jelent a végső fórum számára?",
+      "options": [
+        {
+          "text": "A végső fórum ugyanolyan mérlegeléssel dönt arról, szükséges-e a közösségi jogi kérdés eldöntése, mint bármely más nemzeti bíróság, és nem köteles terjeszteni, ha a válasz érdemben nem befolyásolhatná a jogvita megoldását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 10. pontja az első kivételként azt mondja ki, hogy a végső fórum ugyanolyan mérlegeléssel dönt a szükségességről, mint bármely más nemzeti bíróság. Ez nem a fél állításának elutasítása, hanem a bíróság saját, a 8. pont szerinti „ha ilyen kérdés merül fel” vizsgálata. Az EUMSZ 267. cikk harmadik albekezdésének kötelezettsége így a releváns kérdésre korlátozódik. A C-112/00. sz. Schmidberger-ügy ugyanezt a szükségességi mérlegelést a Bíróság oldaláról védi."
+        },
+        {
+          "text": "A végső fórum a relevancia hiányára hivatkozva akkor is eltekinthet az utalástól, ha a közösségi jog figyelembevételére a jogvita megoldásához egyébként szükség van.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a relevancia-kivétel csak akkor áll, ha a válasz érdemben nem befolyásolhatná a jogvita megoldását. A C-283/81. sz. CILFIT-ügy 11. pontja szerint ha a közösségi jog figyelembevételére szükség van, a végső fórum köteles fordulni — a 10. pont kivételének hiányában. A helyes: az EUMSZ 267. cikk harmadik albekezdése ilyenkor kötelez. A tévedés a szükségességet és a relevancia hiányát összemossa."
+        },
+        {
+          "text": "A kérdés akkor merül fel, ha a közösségi jog figyelembevételére a jogvita megoldásához szükség van; a végső fórum e szükségességről a többi nemzeti bírósággal azonos mérlegeléssel dönt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 8–10. pontja a „ha ilyen kérdés merül fel” fordulatot adja. Ha a közösségi jog figyelembevételére szükség van, a korábbi 177. cikk a végső fórumot minden felmerült értelmezési kérdésben a Bírósághoz fordulásra kötelezi — a relevancia kivételének hiányában. Az EUMSZ 267. cikk harmadik albekezdése e kötelezettséget hordozza a jogorvoslattal nem támadható határozatot hozó bíróság elé. A megfogalmazás a bíróságé, nem a fél szövege."
+        },
+        {
+          "text": "A relevancia vizsgálatát a fél végzi: ha a fél nem állít uniós jogi kérdést, a végső fórum nem mérlegelhet utalást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a relevancia a bíróság saját vizsgálata. A C-283/81. sz. CILFIT-ügy 9. pontja szerint a fél állítása önmagában nem kötelez, a 10. pont pedig a bíróság mérlegelését adja. A helyes: a bíróság hivatalból is megállapíthatja, hogy a kérdés felmerül, és az EUMSZ 267. cikk szerint dönt az utalásról. A tévedés a felet teszi a relevancia urává."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "8d7260991c68"
+    },
+    {
+      "question": "Az acte éclairé CILFIT szerinti kivétele hogyan viszonyul a végső fórum fordulási jogához?",
+      "options": [
+        {
+          "text": "Az acte éclairé csak szó szerinti azonosság esetén áll, és a kialakult gyakorlat soha nem elegendő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 14. pont a kialakult gyakorlatot is elfogadja. A helyes: a C-283/81. sz. CILFIT-ügy 14. pontja szerint a Bíróság kialakult ítélkezési gyakorlata — az eljárások jellegétől függetlenül — oldhatja az EUMSZ 267. cikk harmadik albekezdésének kötelezettségét, még ha a vitás kérdések szigorúan véve nem azonosak. A tévedés a szó szerinti azonosságot teszi kizáró feltétellé."
+        },
+        {
+          "text": "A 15. pont záradéka szerint a nemzeti bíróságok — a végső fórumot is beleértve — továbbra is teljesen szabadon fordulhatnak a Bírósághoz, ha azt célszerűnek tartják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kivétel záradéka a jogot megőrzi. A C-283/81. sz. CILFIT-ügy 15. pontja kifejezetten kimondja a szabad fordulás lehetőségét az acte éclairé mellett is. A Da Costa-logika a kötelezettséget üríti ki, nem a jogot. A C-210/06. sz. Cartesio-ügy 88. pontja ugyanezen szellemben őrzi a nemzeti bíróságok széles utalási lehetőségét az EUMSZ 267. cikk alapján."
+        },
+        {
+          "text": "A 13–14. pont a kötelezettséget teheti okafogyottá — korábbi értelmezés vagy kialakult gyakorlat —, a fordulás lehetőségét azonban nem szünteti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az acte éclairé a kötelezettséget oldja, nem a jogot. A C-283/81. sz. CILFIT-ügy 13. pontja a Da Costa egyesített ügyekre (28/62–30/62) támaszkodik: a Bíróság korábbi értelmezése okafogyottá teheti a kötelezettséget. A 14. pont a kialakult ítélkezési gyakorlatra is kiterjeszti e hatást, még ha a kérdések szigorúan véve nem azonosak. Az EUMSZ 267. cikk harmadik albekezdésének „köteles” fordulata így célhoz kötött."
+        },
+        {
+          "text": "Ha az acte éclairé fennáll, a végső fórumnak tilos újabb előzetes döntési kérelmet előterjesztenie.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivétel nem tilalom. A helyes: a C-283/81. sz. CILFIT-ügy 15. pontja szerint a nemzeti bíróságok, a végső fórumot is beleértve, továbbra is teljesen szabadon fordulhatnak a Bírósághoz, ha azt célszerűnek tartják. Az EUMSZ 267. cikk szerinti fordulás joga megmarad, csak a kötelezettség oldódik. A tévedés a kötelezettség oldását tilalomnak olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "62a19e75fdea"
+    },
+    {
+      "question": "Az acte clair (nyilvánvaló helyes alkalmazás) milyen feltételekkel oldja a CILFIT-ügy szerint a végső fórum utalási kötelezettségét?",
+      "options": [
+        {
+          "text": "Elegendő, ha a nemzeti bíró saját jogrendszerében nyilvánvalónak látja a választ; a többi tagállam bíróságainak olvasata irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 16. pont kifejezetten a többi tagállam bíróságaira és a Bíróságra is kiterjedő nyilvánvalóságot követel. A C-283/81. sz. CILFIT-ügy 16. pontja szerint kizárólag e feltételek teljesülése esetén tekinthet el az utalástól. A helyes: az EUMSZ 267. cikk harmadik albekezdésének kötelezettsége csak e konjunktív feltétel mellett oldódik. A tévedés a nemzeti első benyomást teszi elégségessé."
+        },
+        {
+          "text": "Az acte clair esetében a nyelvi változatok összevetése mellőzhető, mert a bíró anyanyelvi változata mindig döntő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyelvi összevetés a nyilvánvalóság része. A C-283/81. sz. CILFIT-ügy 18. pontja szerint a közösségi jogszabályokat több nyelven szövegezték, a nyelvi változatok egyaránt hitelesek, ezért az értelmezés maga után vonja a különböző nyelvi változatok összehasonlítását. A helyes: az EUMSZ 267. cikk harmadik albekezdésének oldása e sajátosság figyelembevétele nélkül nem áll. A tévedés az anyanyelvi változatot kizárólagosnak állítja."
+        },
+        {
+          "text": "A nyilvánvalóság megítélésénél figyelembe kell venni, hogy a közösségi jogszabályokat több nyelven szövegezték, a nyelvi változatok egyaránt hitelesek, ezért az értelmezés maga után vonja a különböző nyelvi változatok összehasonlítását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 18. pontja az első ilyen sajátosság. A 17. pont szerint e lehetőség fennállását a közösségi jog sajátosságai és az értelmezésével kapcsolatos különleges nehézségek függvényében kell megítélni. A nyilvánvalóság tehát nem a nemzeti bíró első benyomása, hanem a többnyelvű, a többi fórum számára is azonos olvasat. Az EUMSZ 267. cikk harmadik albekezdésének oldása e feltételekhez kötött."
+        },
+        {
+          "text": "A közösségi jog helyes alkalmazása lehet olyan nyilvánvaló, hogy a felvetett kérdés megoldásának módját illetően minden ésszerű kétséget kizár, de ezt a többi tagállam bíróságai és a Bíróság számára is ugyanennyire nyilvánvalónak kell látni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 16. pontja a harmadik kivételt adja. Mielőtt a nemzeti bíróság erre következtetne, meg kell győződnie arról, hogy ez ugyanennyire nyilvánvaló a többi tagállam bíróságai és a Bíróság számára is. Kizárólag e feltételek teljesülése esetén tekinthet el az utalástól, és válaszolhatja meg a kérdést saját felelősségére. Az EUMSZ 267. cikk harmadik albekezdése így nem a nemzeti bíró első benyomásán múlik."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "223dcaa1a50b"
+    },
+    {
+      "question": "Az EUMSZ 267. cikk harmadik albekezdése milyen szövegezéssel kötelezi a végső fórumot?",
+      "options": [
+        {
+          "text": "A harmadik albekezdés szövege szerint a végső fórum csak a Szerződések érvényességéről dönthet, értelmezésről nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tárgyi merítéket az első albekezdés adja, a harmadik a kötelezettséget. Az EUMSZ 267. cikk első albekezdése a) pontban a Szerződések értelmezését, b) pontban az uniós aktusok érvényességét és értelmezését jelöli ki. A helyes: a harmadik albekezdés a „köteles” fordulatot adja a végső fórumnak e kérdésekben. A tévedés az érvényességet és az értelmezést felcseréli."
+        },
+        {
+          "text": "A cikk szerint: „Ha egy tagállam olyan bírósága előtt folyamatban lévő ügyben merül fel ilyen kérdés, amelynek határozatai ellen a nemzeti jog értelmében nincs jogorvoslati lehetőség, e bíróság köteles az Európai Unió Bíróságához fordulni.”",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 267. cikk harmadik albekezdése a „köteles” fordulatot adja. A C-283/81. sz. CILFIT-ügy 6. pontja a „kérheti” és a „köteles” fordulatot állítja egymás mellé a fórumok között. A kötelezettség a CILFIT-ügy 10., 13–14. és 16. pontja szerinti kivételekkel oldható. A szó szerinti norma a nemzeti jog szerinti jogorvoslat hiányához köti a küszöböt."
+        },
+        {
+          "text": "A harmadik albekezdés csak akkor kötelez, ha a felek együttes indítványa is fennáll a végső fórum előtt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezettség nem a felek indítványához kötött. Az EUMSZ 267. cikk harmadik albekezdése a bíróságot kötelezi, ha ilyen kérdés merül fel. A helyes: a C-283/81. sz. CILFIT-ügy 9. pontja szerint a fél állítása önmagában nem kötelez, a bíróság pedig hivatalból is fordulhat. A tévedés a felek indítványát teszi a kötelezettség feltételévé."
+        },
+        {
+          "text": "A kötelezettség a közösségi jog helyes alkalmazását és egységes értelmezését valamennyi tagállamban biztosító együttműködésbe illeszkedik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 7. pontja szerint e kötelezettség a nemzeti bíróságok és a Bíróság együttműködésébe illeszkedik. Az EUSZ 19. cikk (1) bekezdése az értelmezési őrködést intézményesíti. Az EUMSZ 267. cikk harmadik albekezdése e célt a végső fórum kötelességévé emeli. A ratio tehát az egységes értelmezés, nem a felek perbeli eszköze."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "e09385aafbdb"
+    },
+    {
+      "question": "A C-210/06. sz. Cartesio-ügy 93–96. pontja szerint meddig terjedhet a kezdeményező végzés elleni nemzeti fellebbezés?",
+      "options": [
+        {
+          "text": "A kezdeményező végzés elleni fellebbezés az uniós jog szerint kötelező, és a fellebbviteli bíróság dönt a kérdések tartalmáról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az uniós jog a fellebbezésre nem terjed ki kötelezően. Az 1/2009. (VI. 24.) PK-KK közös vélemény szerint a közösségi jog a kezdeményező végzések elleni fellebbezésre nem terjed ki; a nemzeti kiegészítés a Cartesio-ügy fényében csak úgy tartható, ha a fellebbvitel nem vonja el a kérdező jogát. A helyes: a C-210/06. sz. Cartesio-ügy 93. pontja az autonómiát védi. A tévedés a fellebbezést uniós kötelezettségnek állítja."
+        },
+        {
+          "text": "Ha a fellebbviteli bíróság a végzést megváltoztatva mellőzné a kezdeményezést, és a felfüggesztett eljárás folytatására utasítaná a kérdezőt, ez összeegyeztethető a 267. cikkel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Cartesio-ügy 95. pontja éppen e következményt tartja problematikusnak. A C-210/06. sz. Cartesio-ügy 95. pontja szerint ilyen utasítás megkérdőjelezné az elsőfokú bíróság 234. cikk szerinti autonóm hatáskörét. A helyes: az EUMSZ 267. cikk szerinti fordulás hatásköre a kérdezőé marad. A tévedés a fellebbvitelt teszi a kérdező helyébe."
+        },
+        {
+          "text": "A fellebbezés kimenetele nem korlátozhatja a kérdező bíróságnak azt a hatáskörét, hogy a Bírósághoz forduljon, ha az előtte folyamatban lévő ügyben uniós jogi értelmezési kérdés merül fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 93. pontja a korlátot mondja ki. A 89. pont szerint a nem végső fórum utaló határozatával szemben a nemzeti jogban előírt rendes jogorvoslat nem összeegyeztethetetlen a 234. cikkel. A Bíróság mindazonáltal tartja magát az utaló végzéshez, amíg azt vissza nem vonják. Az EUMSZ 267. cikk szerinti autonómia tehát a fellebbezés mellett is megmarad."
+        },
+        {
+          "text": "A kérelem helytállóságának és szükségességének megítélése főszabály szerint a kérdező felelőssége; a fellebbvitel nem vonhatja el ezt az autonómiát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 96. pontja szerint a kérelem helytállóságának és szükségességének megítélése főszabály szerint a kérdező felelőssége. Az 1/2009. (VI. 24.) PK-KK közös vélemény a 96. pontot úgy olvassa, hogy a kérdést előterjesztő bíróság feladata a fellebbezés alapján hozott határozatból levonni a következtetést. A kérdező dönti el: a kérelem fenntartásának, megváltoztatásának vagy visszavonásának van-e helye. Az EUMSZ 267. cikk e hatáskört a kérdezőnél hagyja, a fellebbvitel nem vonhatja el."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "0ba06f456655"
+    },
+    {
+      "question": "A Rheinmühlen-Düsseldorf-ítélet Cartesio-ügyben felidézett elve szerint mi a helyzet, ha az ügy másodjára kerül az elsőfokú bíróság elé?",
+      "options": [
+        {
+          "text": "A magasabb fok jogi értékelése abszolút kötőerővel zárja el az elsőfokú bíróságot az előzetes döntés kezdeményezésétől a megismételt eljárásban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Rheinmühlen-elv éppen a fordulás szabadságát védi. A C-210/06. sz. Cartesio-ügy 94. pontja szerint az elsőfokú bíróság szabadon a Bírósághoz fordulhat a megismételt eljárásban. A helyes: az EUMSZ 267. cikk szerinti hatáskör a nemzeti kötőerő ellenére fennmarad. A tévedés a nemzeti kötőerőt abszolút tilalomnak olvassa."
+        },
+        {
+          "text": "A Rheinmühlen-elv csak a Törvényszék előtti eljárásra vonatkozik, a Bírósághoz fordulásra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elv az előzetes döntés nemzeti oldalát védi. A C-210/06. sz. Cartesio-ügy 94. pontja a Bírósághoz fordulás szabadságáról szól. A helyes: az EUMSZ 267. cikk szerinti hatáskör a megismételt eljárásban is megilleti az elsőfokú bíróságot. A tévedés a Törvényszék és a Bíróság közötti elosztást keveri a nemzeti autonómiával."
+        },
+        {
+          "text": "A Cartesio-ügy 95. pontja e szabályt a magyar külön fellebbezésre vetíti: a fellebbvitel nem vonhatja el a kérdező 267. cikk szerinti autonómiáját.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 95. pontja a magyar helyzetre alkalmazza a Rheinmühlen-logikát. Ha a fellebbviteli bíróság mellőzné a kezdeményezést és a folytatásra utasítana, megkérdőjeleződne az elsőfokú bíróság autonóm hatásköre. Az EUMSZ 267. cikk a kérdezőt hatalmazza fel, adott esetben kötelezi. A nemzeti fellebbezés tehát nem írhatja felül e hatáskört."
+        },
+        {
+          "text": "Ha a végső fórum hatályon kívül helyezte az ítéletet, az elsőfokú bíróság szabadon a Bírósághoz fordulhat annak ellenére, hogy a nemzeti jog szerint köti a magasabb fok jogi értékelése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 94. pontja a Rheinmühlen-Düsseldorf-ítéletet (1974) idézi, és kimondja a megismételt eljárás szabadságát. Az elsőfokú bíróság EUMSZ 267. cikk szerinti hatásköre nem szűnik meg a magasabb fok kötőereje miatt. A fordulás joga tehát a megismételt eljárásban is fennáll. Ez az autonómia védelmének egyik klasszikus elve."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "732567d4e644"
+    },
+    {
+      "question": "Az EUMSZ 256. cikk (3) bekezdése milyen egységességvédő korlátokat állít a Törvényszék 267. cikk szerinti hatásköre mellé?",
+      "options": [
+        {
+          "text": "A Törvényszék általános, korlátlan hatáskört kapott minden 267. cikk szerinti kérdésre, a Bíróság pedig kizárólag fellebbviteli fórum.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatáskör az alapokmánybeli ügycsoportokra korlátozódik. A helyes: az EUMSZ 256. cikk (3) bekezdése meghatározott ügycsoportokban ad hatáskört, elvi utalással és kivételes felülvizsgálattal; a 267. cikk címzettje az Európai Unió Bírósága. A tévedés a Törvényszéket korlátlan előzetes döntési fórummá emeli."
+        },
+        {
+          "text": "A Bíróság a Törvényszék 267. cikk szerinti határozatait minden ügyben rendes, teljes fellebbezésben vizsgálja felül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felülvizsgálat kivételes, nem rendes fellebbezés. A helyes: az EUMSZ 256. cikk (3) bekezdése szerint a Bíróság akkor vizsgálhatja felül a Törvényszék e határozatait, ha fennáll a komoly veszélye annak, hogy az uniós jog egységessége vagy koherenciája sérül. Az EUSZ 19. cikk (1) bekezdése szerinti egységességi őrködés e szűk kapun keresztül érvényesül. A tévedés a kivételes utat rendes fellebbezéssé szélesíti."
+        },
+        {
+          "text": "A Bíróság a Törvényszék e határozatait kivételesen felülvizsgálhatja, ha fennáll a komoly veszélye annak, hogy az uniós jog egységessége vagy koherenciája sérül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felülvizsgálat nem rendes fellebbezés, hanem egységességvédő kivétel. Az EUMSZ 256. cikk (3) bekezdése e szűk kaput nyitja. Az EUSZ 19. cikk (1) bekezdése szerinti értelmezési őrködés a belső elosztás mellett is érvényesül. A CILFIT-ügy 7. pontja szerinti egységességi cél e felülvizsgálati záradékkal is védve marad."
+        },
+        {
+          "text": "Ha a Törvényszék úgy ítéli meg, hogy elvi döntés kell, amely az uniós jog egységességét és koherenciáját befolyásolhatja, az ügyet a Bíróság elé utalhatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a belső elosztás nem engedi az egységesség kockázatát. Az EUMSZ 256. cikk (3) bekezdése a Törvényszéknek az alapokmányban meghatározott ügycsoportokban ad 267. cikk szerinti hatáskört, de elvi jelentőségű ügyet a Bíróság elé utalhat. Az EUSZ 19. cikk (1) bekezdése szerinti egységes fórum így sem bomlik meg. A 267. cikk címzettje továbbra is az Európai Unió Bírósága."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "30ff4bf54207"
+    },
+    {
+      "question": "Az EUMSZ 267. cikk negyedik albekezdése milyen szó szerinti parancsot ad fogvatartottat érintő kérdésben?",
+      "options": [
+        {
+          "text": "A 23a. cikk a sürgősségi eljárásnál rövidebb határidőt, a főtanácsnoki indítvány mellőzését, a jogosulti kör korlátozását, kivételesen az írásbeli szakasz mellőzését is lehetővé teszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alapokmány 23a. cikke a 267. cikk negyedik albekezdésének fogvatartotti gyorsítását eljárási eszközzel támogatja. Gyorsított eljárás és a szabadságon, a biztonságon és a jog érvényesülésén alapuló térségre vonatkozó utalásnál sürgősségi eljárás engedett. A gyorsítás a Bíróság oldala. A fél keresete itt sem pótolja a nemzeti utaló határozatot."
+        },
+        {
+          "text": "A negyedik albekezdés csak akkor alkalmazható, ha a végső fórum kötelező utalása is fennáll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a negyedik albekezdés nem a kötelezettségi szabályhoz kötött. Az EUMSZ 267. cikk negyedik albekezdése bármely tagállami bíróság előtt folyamatban lévő, fogvatartottat érintő kérdésnél a Bíróságot gyorsításra szorítja. A helyes: a második vagy harmadik albekezdés szerinti utalás mellett a gyorsítás külön időszerűségi szabály. A tévedés a gyorsítást a kötelezett fórumhoz köti."
+        },
+        {
+          "text": "A cikk szerint: „Ha egy tagállami bíróság előtt folyamatban lévő ügyben olyan kérdés merül fel, amely valamely fogva tartott személyt érint, az Európai Unió Bírósága a lehető legrövidebb időn belül határoz.”",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 267. cikk negyedik albekezdése időszerűségi szabályt állít a fogvatartottat érintő kérdésben, és szó szerint kimondja: „Ha egy tagállami bíróság előtt folyamatban lévő ügyben olyan kérdés merül fel, amely valamely fogva tartott személyt érint, az Európai Unió Bírósága a lehető legrövidebb időn belül határoz.” Nem jogosulti, hanem a Bíróság oldalát szorító rendelkezés. Az alapokmány 23a. cikke ugyanezt a gyorsítási parancsot a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség sürgősségi eljárásával támasztja alá. Az eljárás indítása továbbra is a nemzeti bíróság utaló határozatához kötött."
+        },
+        {
+          "text": "A negyedik albekezdés a fogvatartottnak közvetlen keresetet ad a Bíróság előtt, nemzeti bíróság nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szó szerinti norma a Bíróság határozatának időszerűségét rendezi. Az EUMSZ 267. cikk negyedik albekezdése szerint a Bíróság a lehető legrövidebb időn belül határoz. A helyes: a forma a nemzeti bíróság utaló határozata; a C-283/81. sz. CILFIT-ügy 9. pontja szerint a fél nem jogosult. A tévedés a fogvatartottnak közvetlen keresetet tulajdonít a Bíróság előtt."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "8956c652a523"
+    },
+    {
+      "question": "A PK-KK és a Dorsch Consult-ügy 43. pontja hogyan köti a közösségi hűséget a tagállami bíróság értelmezési gyakorlatához?",
+      "options": [
+        {
+          "text": "A Dorsch Consult-ügy 43. pontja szerinti irányelv-konform értelmezés nem pótolja az EUMSZ 267. cikk szerinti utalást, ha a kérdés az ítélethez szükséges és a CILFIT-kivételek nem állnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két eszköz elválik. A C-54/96. sz. Dorsch Consult-ügy 43. pontja szerint az irányelv eredményének elérése és a lojális együttműködés a bíróságokra is kötelező, ezért a nemzeti jogot — amennyire lehetséges — az irányelv szövegére és céljára tekintettel kell értelmezniük (Marleasing, Wagner Miret, Faccini Dori). Ez a konform értelmezés nem pótolja az EUMSZ 267. cikk szerinti utalást. A C-283/81. sz. CILFIT-ügy 11. pontja a kötelezettséget a kivételek hiányában fenntartja."
+        },
+        {
+          "text": "A PK-KK a Köbler-ügy 31. és 56. pontját, valamint a Kempter-ügy 34–35. pontját a közösségi hűséghez köti: a tagállami bíróság a Bíróság gyakorlatára figyelemmel értelmez.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közösségi hűség a bírói értelmezésre is kiterjed. Az 1/2009. (VI. 24.) PK-KK közös vélemény a Köbler-ügy 31. és 56. pontját, valamint a Kempter-ügy 34–35. pontját a közösségi hűséghez köti. A tagállami bíróság a Bíróság gyakorlatára figyelemmel értelmez. A C-54/96. sz. Dorsch Consult-ügy 43. pontja ugyanezt a lojális együttműködés oldaláról erősíti az EUMSZ 267. cikk szerinti bíróság kötelezettségeinél."
+        },
+        {
+          "text": "A lojális együttműködés és a közösségi hűség csak a kormányzati szervekre vonatkozik, a bíróságokra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bíróságokra is kiterjed a lojális együttműködés. A helyes: a C-54/96. sz. Dorsch Consult-ügy 43. pontja szerint az irányelv eredményének elérése és a lojális együttműködés a bíróságokra is kötelező. Az 1/2009. (VI. 24.) PK-KK a Köbler–Kempter vonalat ugyanezen közösségi hűséghez köti. Az EUMSZ 267. cikk szerinti bíróság az EUSZ 19. cikk (1) bekezdése szerinti értelmezési őrködés nemzeti vége. A tévedés a bíróságokat kiveszi a kötelesség alól."
+        },
+        {
+          "text": "A konform értelmezés teljes mértékben helyettesíti a 267. cikk szerinti utalást, ezért a végső fórum soha nem köteles fordulni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Dorsch Consult-ügy elválasztja a két eszközt. A helyes: a 43. pont szerinti konform értelmezés nem pótolja az EUMSZ 267. cikk szerinti utalást; a CILFIT-kivételek hiányában a kötelezettség fennmarad. A tévedés a Marleasing-vonalat az előzetes döntés kizárásaként olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "828c4b929c93"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható az előzetes döntés a nemzeti bíróság által feltett kérdésre a Schmidberger-ügy szerint?",
+      "options": [
+        {
+          "text": "Ha a kérdést nem a végső fórum tette fel, a Bíróság érdemi válasz nélkül visszautasítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nem végső fórum is kérhet. Az EUMSZ 267. cikk második albekezdése a „kérheti” fordulatot adja. A helyes: a C-112/00. sz. Schmidberger-ügy szerint a Bíróság főszabály szerint válaszol a közösségi jog értelmezésére vonatkozó kérdésekre; a kivétel a hipotetikus vagy elszakadó kérdés. A tévedés a fakultatív utalást elfogadhatatlanná minősíti."
+        },
+        {
+          "text": "Ha a probléma hipotetikus, és a Bíróság nem rendelkezik a hasznos válaszhoz szükséges ténybeli vagy jogi elemekkel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-112/00. sz. Schmidberger-ügy a hipotetikus kérdést is kizárja a Bíróság érdemi válaszának köréből. A kérdező bíróságnak a ténybeli és jogi hátteret jogilag megkövetelt módon kell rögzítenie. A Bíróság elé kell tárnia mindazt az információt, amely a kérelem hasznos megválaszolásához szükséges. Az EUMSZ 267. cikk második albekezdése a nemzeti bíróságra bízza az utalás szakaszát, de a háttér megadása kötelező."
+        },
+        {
+          "text": "Ha nyilvánvaló, hogy a kért értelmezés vagy érvényességvizsgálat nem függ össze az alapeljárás tényállásával vagy tárgyával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-112/00. sz. Schmidberger-ügy 32–40. pontja kivételes elutasítási okot ad. Az együttműködési szellem megköveteli, hogy a nemzeti bíróság tekintettel legyen a Bíróság feladatára: a tagállamok igazságszolgáltatásához való hozzájárulás, nem pedig általános vagy hipotetikus kérdésekkel kapcsolatos tanácsadó vélemény. Az EUMSZ 267. cikk szerinti eljárás tehát nem absztrakt tanácsadás. A Bíróság főszabály szerint válaszol, kivételesen elutasít."
+        },
+        {
+          "text": "Ha a fél nem járult hozzá írásban az utaláshoz, a Bíróság automatikusan elutasítja a kérdést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fél hozzájárulása nem feltétele az elfogadhatóságnak. A C-112/00. sz. Schmidberger-ügy a hipotetikus vagy az alapügytől elszakadó kérdést zárja ki. A helyes: a C-283/81. sz. CILFIT-ügy 9. pontja szerint a fél indítványa nem pótolja a bíróság döntését, és a hozzájárulás hiánya sem akadály. A tévedés a felek beleegyezését teszi elfogadhatósági feltétellé."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "8aae11ab2a8b"
+    },
+    {
+      "question": "A Cartesio-ügy 92. pontja szerint mi a kezdeményező végzés elleni külön fellebbezés gyakorlati következménye a per helyzetére?",
+      "options": [
+        {
+          "text": "A külön fellebbezés megszünteti a felfüggesztést, és a nemzeti per a Bíróság döntése előtt is folytatható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felfüggesztés a Bíróság ítéletéig tart. A C-210/06. sz. Cartesio-ügy 92. pontja szerint az eljárás a Bíróság ítéletéig felfüggesztve van. A helyes: az EUMSZ 267. cikk szerinti utalás mellett a nemzeti per nem fut párhuzamosan a fellebbezés miatt. A tévedés a felfüggesztést a fellebbezéssel feloldhatónak állítja."
+        },
+        {
+          "text": "A fellebbezés automatikusan a fellebbviteli bíróságot teszi meg a 267. cikk szerinti kérdezővé, és a per oda kerül át.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Cartesio-ügy 92. pontja szerint az alapügy a kérdező előtt marad. A C-210/06. sz. Cartesio-ügy 92. pontja kimondja: a forma nem emeli a fellebbviteli bíróságot a 267. cikk szerinti kérdezővé. A helyes: a per a kezdeményező előtt marad, az eljárás felfüggesztve. A tévedés a fellebbvitelt kérdezővé minősíti."
+        },
+        {
+          "text": "A kezdeményező végzés ellen külön fellebbezés van, az alapügy egésze azonban a kérelmet előterjesztő bíróság előtt marad, és az eljárás a Bíróság ítéletéig felfüggesztve van.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 92. pontja e következményt adja a magyar külön fellebbezés gyakorlatára. A kezdeményező végzés ellen külön fellebbezés van, az alapügy egésze azonban a kérelmet előterjesztő bíróság előtt marad. Az eljárás a Bíróság ítéletéig felfüggesztve van. A forma tehát nem emeli a fellebbviteli bíróságot az EUMSZ 267. cikk szerinti kérdezővé."
+        },
+        {
+          "text": "Az 1/2009. (VI. 24.) PK-KK közös vélemény szerint a közösségi jog a kezdeményező végzések elleni fellebbezésre nem terjed ki; a nemzeti kiegészítés csak úgy tartható, ha a fellebbvitel nem vonja el a kérdező 234. cikk szerinti jogát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a PK-KK a Cartesio-ügy fényében olvassa a Pp. 155/A. § (3) bekezdését. A C-210/06. sz. Cartesio-ügy 93. pontja szerint a fellebbezés kimenetele nem korlátozhatja a kérdező hatáskörét. Az EUMSZ 267. cikk szerinti autonómia tehát a nemzeti fellebbezés határa. A 2010. január 1-jétől indult ügyekben a Pp. a külön fellebbezést a kezdeményező és az elutasító végzés ellen egyaránt kizárta."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "5b9d0d82c95b"
+    },
+    {
+      "question": "Mely állítások helytelenek az előzetes döntéshozatal jogosulti köréről?",
+      "options": [
+        {
+          "text": "A 89/665 irányelv szerinti független felülvizsgálati szervi minősítés önmagában pótolja a 267. cikk bíróság-fogalmát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két minősítés elválik. A C-54/96. sz. Dorsch Consult-ügy 22. pontja szerint a 89/665 irányelv 2. cikkének (8) bekezdése szerinti minősítés abban az ügyben nem volt releváns. A helyes: a Dorsch Consult-ügy 23. pontja szerinti uniós bíróság-fogalom és az igazságszolgáltatási funkció együtt dönt. A tévedés az irányelvi fogalmat azonosítja a 267. cikk jogosultjával."
+        },
+        {
+          "text": "Csak a „rendes” polgári bíróság lehet a 267. cikk szerinti bíróság; közbeszerzési felügyeleti szerv soha.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogosulti kör uniós fogalom, nem a nemzeti címke. A C-54/96. sz. Dorsch Consult-ügy 38. pontja szerint a Szövetségi Felügyeleti Bizottság a korábbi 177. cikk értelmében vett bíróságnak minősült. A helyes: a hat ismérv — törvényi létrehozatal, állandóság, kötelező joghatóság, kontradiktórius eljárás, jogszabályalkalmazás, függetlenség — és az igazságszolgáltatási funkció együttese dönt. A tévedés a „rendes” bíróságra szűkít."
+        },
+        {
+          "text": "A nemzeti bíróság hivatalból soha nem fordulhat a Bírósághoz, csak a felek együttes kérelmére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hivatalbóli út nyitva áll. A C-283/81. sz. CILFIT-ügy 9. pontja szerint a nemzeti bíróság indítvány hiányában is, saját elhatározásából fordulhat a Bírósághoz. A helyes: a C-210/06. sz. Cartesio-ügy 88. pontja szerint akár hivatalból, akár a felek kérelmére előterjeszthet. A tévedés a felek közös kérelmét kötelező feltételnek állítja."
+        },
+        {
+          "text": "A fél az EUMSZ 267. cikk alapján közvetlen keresettel kikényszerítheti az utalást a nemzeti bíróság ellenében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a félnek nincs ilyen keresete. A C-283/81. sz. CILFIT-ügy 9. pontja kizárja, hogy a korábbi 177. cikk a feleknek keresetet nyisson a nemzeti bíróság előtt folyamatban lévő ügyben. A helyes: a fordulás a bíróság aktusa, a fél csak indítványozhat. A tévedés a bíróságok közötti együttműködést a felek perorvoslatává alakítja."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "8d3ff889b21f"
+    },
+    {
+      "question": "A Cartesio-ügyben idézett magyar forma szerint mi marad a kérelmet előterjesztő bíróságnál a kezdeményező végzés után?",
+      "options": [
+        {
+          "text": "A bíróság a kezdeményezésről végzéssel határoz, egyidejűleg a per tárgyalását felfüggeszti; az alapügy egésze a kérelmet előterjesztő bíróság előtt marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a forma nemzeti eljárásjogi aktus. A Cartesio-ügy a Pp. 155/A. §-át idézi: végzés és felfüggesztés. A 92. pont szerint a kezdeményező végzés ellen külön fellebbezés volt, az alapügy egésze azonban a kérelmet előterjesztő előtt marad, és az eljárás a Bíróság ítéletéig felfüggesztve van. Az EUMSZ 267. cikk maga a nemzeti végzés alaki kellékeit nem írja elő."
+        },
+        {
+          "text": "A magyar bíróság az EUMSZ 267. cikk alapján közvetlenül, nemzeti végzés nélkül is közölhet kérdést a Bírósággal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a forma nemzeti eljárásjogi aktus. A helyes: a C-210/06. sz. Cartesio-ügy szerint indokolt végzés és a per felfüggesztése kell. Az Európai Unió Bírósága alapokmányának 23. cikke a felfüggesztésről és az utalásról szóló határozat közlését rendezi az EUMSZ 267. cikkhez kapcsolva. A tévedés a nemzeti végzést mellőzhetőnek állítja."
+        },
+        {
+          "text": "A Pp. 155/A. § szerint a fél indítványa önmagában pótolja a bíróság végzését, és automatikusan felfüggeszti a pert.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fél indítványa nem pótolja a bíróság döntését. A helyes: a C-210/06. sz. Cartesio-ügy szerint a bíróság végzéssel határoz és függeszti fel a pert a Pp. 155/A. § alapján. A C-283/81. sz. CILFIT-ügy 9. pontja szerint a fél indítványa nem helyettesíti a bíróság aktusát az EUMSZ 267. cikk szerinti eljárásban. A tévedés a fél indítványát végzésnek minősíti."
+        },
+        {
+          "text": "A forma nem emeli a fellebbviteli bíróságot a 267. cikk szerinti kérdezővé: a per a kezdeményező előtt marad a Bíróság ítéletéig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 92. pontja e gyakorlati következményt adja: a per a kezdeményező előtt marad. A fellebbezés és az autonómia viszonyát a 93–96. pont bontja ki: a jogorvoslat nem vonhatja el a kérdező EUMSZ 267. cikk szerinti hatáskörét. Az 1/2009. (VI. 24.) PK-KK szerint a közösségi jog a kezdeményező végzések elleni fellebbezésre nem terjed ki; a nemzeti kiegészítés csak az autonómia tiszteletben tartásával tartható."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "5df43b8c4de1"
+    },
+    {
+      "question": "Az alapokmány 23. cikke szerint mi történik a nemzeti bíróság felfüggesztő és utaló határozatával a Bíróság előtt?",
+      "options": [
+        {
+          "text": "Az EFTA Felügyeleti Hatóság minden előzetes döntésben kötelezően és határidő nélkül részt vesz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a részvétel feltételes és határidőhöz kötött. A helyes: az Európai Unió Bírósága alapokmányának 23. cikke szerint az EFTA Felügyeleti Hatóság akkor észrevételezhet a közléstől számított két hónapos határidőn belül, ha a határozat az EGT-megállapodás alkalmazási területét érinti. Az EUMSZ 267. cikk szerinti eljárás így nem ír elő általános, határidő nélküli részvételt. A tévedés a feltételt és a határidőt elhagyja."
+        },
+        {
+          "text": "A nemzeti bíróságnak a felek keresetlevelét kell megküldenie; az utaló végzés önmagában nem elegendő a közléshez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közlés tárgya az utaló és felfüggesztő határozat. A helyes: az alapokmány 23. cikke a felfüggesztésről és az ügy Bíróság elé utalásáról szóló határozat közlését írja elő; a CILFIT-ügy 9. pontja szerint a fél indítványa nem pótolja a bíróság döntését. A tévedés a fél keresetét keveri az utaló aktussal."
+        },
+        {
+          "text": "Harmadik állam is észrevételezhet ugyanezen keretben, ha a Tanáccsal kötött megállapodás így rendelkezik; az EGT–EFTA vonal pedig a megállapodás alkalmazási területének érintettségéhez kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címzetti kör nem zárul a tagállamoknál és a Bizottságnál. Az alapokmány 23. cikke szerint az EGT-megállapodás nem tagállami részes államai és az EFTA Felügyeleti Hatóság a két hónapos határidőn belül észrevételezhetnek, ha a határozat a megállapodás alkalmazási területét érinti; harmadik állam is, ha a Tanáccsal kötött megállapodás így rendelkezik. A 23a. cikk a gyorsítást adja, nem e közlési láncot váltja ki."
+        },
+        {
+          "text": "Az érintett bíróság közli a határozatot a Bírósággal; a hivatalvezető továbbítja a feleknek, a tagállamoknak és a Bizottságnak, valamint az aktust meghozó uniós intézménynek, szervnek vagy hivatalnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 23. cikk az uniós oldalt a 267. cikkhez kapcsolja. A tagállam bíróságának az eljárás felfüggesztéséről és az ügy Bíróság elé utalásáról szóló határozatát kell közölni. A hivatalvezető továbbítja a címzetteknek; a közléstől számított két hónapon belül e címzettek beadványokat vagy írásbeli észrevételeket nyújthatnak be. Az EUMSZ 267. cikk maga a nemzeti végzés alaki kellékeit nem írja elő."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "60ba126fb1cb"
+    },
+    {
+      "question": "Egy magyar ítélőtábla előtt uniós irányelv értelmezése merül fel, és a jogerős ítélet ellen felülvizsgálat nyitva áll. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A felülvizsgálat nyitva állása esetén a Kúria sem kötelezett, mert a feleknek mindig van további uniós jogorvoslata.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a PK-KK éppen a Kúriát jelöli ki kötelezettnek. Az 1/2009. (VI. 24.) PK-KK közös vélemény szerint felülvizsgálat nyitva állása esetén a Legfelsőbb Bíróság — ma a Kúria — a kötelezett. A helyes: az EUMSZ 267. cikk harmadik albekezdése e fórumot kötelezi, a CILFIT-kivételek hiányában. A tévedés a kötelezett fórumot is felszabadítja."
+        },
+        {
+          "text": "Az ítélőtábla a Cartesio-ügy szerint nem a 267. cikk harmadik albekezdése szerinti kötelezett fórum, mert a határozataival szemben felülvizsgálatra van lehetőség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 79. pontja szerint az ilyen bíróság nem tekinthető a jogorvoslattal nem támadható határozatot hozó fórumnak. Az Ítélőtábla tehát fakultatív utaló. Az EUMSZ 267. cikk második albekezdése a „kérheti” fordulatot adja számára. A kötelezettség a felülvizsgálati fórumon jelenik meg."
+        },
+        {
+          "text": "Az 1/2009. (VI. 24.) PK-KK közös vélemény szerint a kötelezett fórum — felülvizsgálat nyitva állása esetén — a Legfelsőbb Bíróság, ma a Kúria.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a PK-KK a Cartesio-ügy rendelkező részét a magyar fórumokra fordítja. A másodfokú bíróságot csak akkor terheli a kötelezettség, ha a Pp. a felülvizsgálatot kizárja. Az EUMSZ 267. cikk harmadik albekezdése a nemzeti jog szerinti jogorvoslat hiányához köti a küszöböt. A vélemény 1. pontja a 2/2017. A 2/2017. KMPJE megerősíti, hogy az 1. pont az új Pp. és a Kp. mellett is irányadó."
+        },
+        {
+          "text": "Az ítélőtábla a felülvizsgálat nyitva állása ellenére mindig köteles utalni, mert másodfokú fórum.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a másodfok önmagában nem kötelez. A C-210/06. sz. Cartesio-ügy 79. pontja szerint a felülvizsgálattal támadható ítélőtáblai határozat nem tartozik a 234. cikk harmadik bekezdése alá. A helyes: az EUMSZ 267. cikk második albekezdése szerinti fakultatív utalás illeti meg. A tévedés a másodfokot automatikusan kötelezetté emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "43e4dc05f223"
+    },
+    {
+      "question": "Mely állítások helytelenek a CILFIT-kivételek joghatásáról?",
+      "options": [
+        {
+          "text": "A relevancia hiánya esetén is köteles a végső fórum utalni, ha a fél uniós jogi kérdést állít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a relevancia hiánya kivétel. A C-283/81. sz. CILFIT-ügy 10. pontja szerint a végső fórum nem köteles terjeszteni, ha a válasz érdemben nem befolyásolhatná a jogvita megoldását. A helyes: a fél állítása önmagában nem pótolja a bíróság saját szükségességi vizsgálatát. A tévedés a fél állítását a 10. pont fölé helyezi."
+        },
+        {
+          "text": "Ha az acte éclairé fennáll, a végső fórumnak tilos a Bírósághoz fordulnia.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivétel nem tilalom. A C-283/81. sz. CILFIT-ügy 15. pontja a végső fórumot is beleértve megőrzi a nemzeti bíróságok szabad fordulási jogát, ha azt célszerűnek tartják. A helyes: az EUMSZ 267. cikk szerinti fordulás lehetősége megmarad, a kötelezettség viszont kiürül. A tévedés a kötelezettség oldásából tilalmat olvas ki."
+        },
+        {
+          "text": "Az acte clairhez elég a nemzeti bíró saját első benyomása, a többi tagállam bíróságainak olvasata nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 16. pont konjunktív feltételt állít. A C-283/81. sz. CILFIT-ügy 16. pontja szerint a nyilvánvalóságnak a többi tagállam bíróságai és a Bíróság számára is fenn kell állnia. A helyes: kizárólag e feltételek teljesülése esetén tekinthet el az EUMSZ 267. cikk harmadik albekezdésének kötelezettségétől. A tévedés a nemzeti bíró első benyomását elégséges mércének állítja."
+        },
+        {
+          "text": "A három kivétel vizsgálati sorrendje szabadon felcserélhető, mert joghatásuk azonos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a sorrend kötött. A C-283/81. sz. CILFIT-ügy szerint először a relevancia, másodszor a már eldöntött jogkérdés, harmadszor a nyilvánvalóság vizsgálandó. A helyes: ha a válasz a jogvitát nem érinti, kérdés sincs, így a relevancia vizsgálata megelőzi a többi kivételt. A tévedés a 10., 13–14. és 16. pont sorrendjét feloldja."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "e5b38cc5e0d4"
+    },
+    {
+      "question": "Miben tér el a fakultatív és a kötelező utalás a CILFIT-ügy 6–7. pontja szerint?",
+      "options": [
+        {
+          "text": "A kötelezettség célja, hogy a közösségi jog helyes alkalmazását és egységes értelmezését valamennyi tagállamban biztosítsa.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 7. pontja e célt jelöli meg. Az EUSZ 19. cikk (1) bekezdése az értelmezési őrködést az intézményi keretbe emeli. Az EUMSZ 267. cikk harmadik albekezdése a végső fórumot e cél szolgálatában kötelezi. A felek perbeli eszköze nem ez az eljárás."
+        },
+        {
+          "text": "A fakultatív és a kötelező utalás között nincs különbség: minden tagállami bíróság azonos kötelezettség alatt áll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a modalitás különbözik a két albekezdés között. A C-283/81. sz. CILFIT-ügy 6. pontja a „kérheti” és a „köteles” fordulatot állítja egymás mellé. A helyes: az EUMSZ 267. cikk második albekezdése fakultatív, a harmadik főszabály szerint kötelező a jogorvoslattal nem támadható határozatot hozó bíróságra. A tévedés a két albekezdést azonosítja."
+        },
+        {
+          "text": "A kötelező utalás kizárólag a Bizottság indítványára nyílik meg a végső fórum előtt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezettség a bíróságot terheli, nem a Bizottság indítványához kötött. Az EUMSZ 267. cikk harmadik albekezdése szerint e bíróság köteles az Európai Unió Bíróságához fordulni. A helyes: a C-283/81. sz. CILFIT-ügy 9. pontja szerint a fél — és így más külső indítványozó — állítása önmagában nem pótolja a bíróság döntését. A tévedés a Bizottságot teszi a kötelezettség kulcsává."
+        },
+        {
+          "text": "Bármely bíróság „kérheti” az utalást, a végső fórum pedig „köteles”, ha a közösségi jogi kérdés felmerül és a kivételek nem oldják a kötelezettséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 6. pontja a korábbi 177. cikk második és harmadik bekezdését állítja egymás mellé. A 7. pont szerint a kötelezettség a nemzeti bíróságok és a Bíróság együttműködésébe illeszkedik. Az EUMSZ 267. cikk második albekezdése a „kérheti”, a harmadik a „köteles” fordulatot hordozza. A ratio az egységes értelmezés valamennyi tagállamban."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "c96fb151648c"
+    },
+    {
+      "question": "A 2/2015. BKMPJE 2. pontja hogyan hatott az 1/2009. (VI. 24.) PK-KK 2. és 3. pontjának fennmaradására?",
+      "options": [
+        {
+          "text": "Az 1. pont — a kötelezett fórum kijelölése — továbbra is irányadó; a 2/2017. KMPJE szerint az új Pp. és a Kp. alkalmazásában is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fórumkijelölés elválik a visszavont 2–3. ponttól. Az 1/2009. (VI. 24.) PK-KK 1. pontja — a kötelezett fórum kijelölése — továbbra is irányadó, és a 2/2017. KMPJE szerint az új Pp. és a Kp. alkalmazásában is az. Felülvizsgálat nyitva állása esetén a Kúria marad az EUMSZ 267. cikk harmadik albekezdése szerinti kötelezett fórum. A C-210/06. sz. Cartesio-ügy 79. pontja adja az uniós mércét e fórumkijelöléshez."
+        },
+        {
+          "text": "A Kúria a 2/2015. BKMPJE 2. pontja értelmében a PK-KK 2. és 3. pontját nem tartja fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fellebbezési korlátokat rögzítő 2–3. pont hatálya megszűnt a Kúria jogegységi olvasatában. A Kúria a 2/2015. BKMPJE 2. pontja értelmében az 1/2009. (VI. 24.) PK-KK 2. és 3. pontját nem tartja fenn. A C-210/06. sz. Cartesio-ügy 93–96. pontjának autonómia-elve ettől függetlenül az EUMSZ 267. cikk értelmezéseként érvényesül. A 2010-es Pp.-változás a külön fellebbezés kizárásával e pontok gyakorlati terét is szűkítette."
+        },
+        {
+          "text": "A 2/2015. BKMPJE az 1. pontot is hatályon kívül helyezte, ezért ma nincs kijelölt kötelezett magyar fórum.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 1. pont fennmaradt. A helyes: a Kúria a 2/2015. BKMPJE 2. pontja értelmében az 1/2009. (VI. 24.) PK-KK 2. és 3. pontját nem tartja fenn, az 1. pontot igen. A 2/2017. KMPJE az 1. pontot az új Pp.-re és a Kp.-re is kiterjeszti az EUMSZ 267. cikk harmadik albekezdése szerinti kötelezett fórum kijelöléséhez. A tévedés a 2–3. pont visszavonását az 1. pontra is kiterjeszti."
+        },
+        {
+          "text": "A 2. és 3. pont a 2/2015. BKMPJE óta is teljes terjedelmében fennmaradt, az 1. ponttal együtt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, éppen a 2. és 3. pontot nem tartja fenn a Kúria. A helyes: a 2/2015. BKMPJE 2. pontja értelmében az 1/2009. (VI. 24.) PK-KK 2. és 3. pontja nem marad fenn; az 1. pont irányadó. Az EUMSZ 267. cikk harmadik albekezdésének magyar címzettje felülvizsgálat nyitva állása esetén továbbra is a Kúria. A tévedés a fórumkijelölő 1. pontot keveri a fellebbezési 2–3. ponttal."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "ab27e3c2b1f4"
+    },
+    {
+      "question": "Mi következik abból, ha a Bíróság kialakult ítélkezési gyakorlata már választ ad a felmerült értelmezési kérdés lényegére?",
+      "options": [
+        {
+          "text": "A CILFIT-ügy 14. pontja szerint ez okafogyottá teheti a végső fórum utalási kötelezettségét, még akkor is, ha a vitás kérdések szigorúan véve nem azonosak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 14. pontja a kialakult gyakorlatra is kiterjeszti az acte éclairé hatását. A 13. pont a Da Costa-ügyekre támaszkodva a korábbi előzetes döntést említi. Az EUMSZ 267. cikk harmadik albekezdésének kötelező utalása tehát nem abszolút, hanem célhoz kötött. A 15. pont záradéka a fordulás jogát érintetlenül hagyja."
+        },
+        {
+          "text": "A kialakult gyakorlat csak akkor számít, ha az eljárások jellege is azonos volt a jelen üggyel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 14. pont kifejezetten függetleníti a hatást az eljárások jellegétől. A C-283/81. sz. CILFIT-ügy 14. pontja szerint ugyanezt a hatást eredményezheti a Bíróság kialakult ítélkezési gyakorlata — függetlenül az említett gyakorlatnak helyt adó eljárások jellegétől. A helyes: az EUMSZ 267. cikk harmadik albekezdésének kötelezettsége a kialakult gyakorlat mellett is oldódhat. A tévedés az eljárásazonosságot teszi feltétellé."
+        },
+        {
+          "text": "A kialakult gyakorlat esetén a végső fórum köteles saját hatáskörben eljárni, és tilos újabb előzetes döntést kérnie.",
+          "isCorrect": false,
+          "rationale": "HAMIS, tilalom nincs. A C-283/81. sz. CILFIT-ügy 15. pontja a nemzeti bíróságok szabad fordulási jogát a kivétel mellett is megőrzi. A helyes: a fordulás joga az EUMSZ 267. cikk alapján érintetlen, csupán a kötelezettség oldódik. A tévedés a 14. pontot tilalmi szabállyá élezi."
+        },
+        {
+          "text": "A nemzeti bíróságok, a végső fórumot is beleértve, továbbra is teljesen szabadon fordulhatnak a Bírósághoz, ha azt célszerűnek tartják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 15. pontja e záradékot adja a kivételek mellett is fennmaradó fordulási jogról. A kivétel a kötelezettséget oldja, a jogot nem veszi el. Az EUMSZ 267. cikk szerinti utalási lehetőség tehát fennmarad a végső fórum számára is. A C-210/06. sz. Cartesio-ügy 88. pontja a nem végső fórum széles utalási jogát ugyanezen szellemben őrzi."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "61d54ad32953"
+    },
+    {
+      "question": "A kérdés megfogalmazása az előzetes döntésben kinek a feladata, és milyen tartalmi követelménynek kell megfelelnie?",
+      "options": [
+        {
+          "text": "A kérdést a fél szövegezi meg kötelezően, a bíróság csak továbbítja a Bírósághoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megfogalmazás a bíróságé. A C-283/81. sz. CILFIT-ügy szerint a kérdésnek a jogvita érdeméhez kell kapcsolódnia. A helyes: az EUMSZ 267. cikk szerinti utalás a bíróság aktusa; a fél indítványa nem pótolja. A tévedés a felet teszi a kérdés szerzőjévé."
+        },
+        {
+          "text": "A megfogalmazás a bíróságé: a kérdésnek a jogvita érdeméhez kell kapcsolódnia, és értelmezést vagy érvényességet, nem ténykérdést kell céloznia.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 8–10. pontja a felmerülés és a szükségesség bírói vizsgálatát adja. Az EUMSZ 267. cikk első albekezdésének a) és b) pontja a tárgyi merítéket zárja. A fél szövege nem dönt. A Dorsch Consult-ügy 40. pontja a nemzeti hatásköri minősítést is a nemzeti jogrendszerre bízza."
+        },
+        {
+          "text": "A bíróság ténykérdést is feltehet, ha a bizonyítékok mérlegelése uniós érdeket érint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a ténykérdés kívül esik a tárgyi hatáskörön. Az EUMSZ 267. cikk első albekezdése a Szerződések értelmezését, illetve az uniós aktusok érvényességét és értelmezését jelöli ki. A helyes: a nemzeti jog értelmezése, a tényállás megállapítása és a bizonyítékok mérlegelése nem kérdezhető előzetes döntésben. A tévedés a bizonyítékmérlegelést az EUMSZ 267. cikk merítékébe emeli."
+        },
+        {
+          "text": "A Schmidberger-ügy szerint a kérdezőnek a ténybeli és jogi hátteret jogilag megkövetelt módon kell rögzítenie, és a hasznos válaszhoz szükséges információt a Bíróság elé kell tárnia.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-112/00. sz. Schmidberger-ügy a háttér megadását az együttműködés részévé teszi. A Bíróság feladata a jogvita megoldásához szükséges iránymutatás, nem általános tanácsadó vélemény. Az EUMSZ 267. cikk második albekezdése a nemzeti bíróságra bízza az utalás szakaszát. A hipotetikus kérdés kivételesen elutasítható."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "3360cad21247"
+    },
+    {
+      "question": "A CILFIT-ügy 18. pontja szerinti többnyelvűség hogyan hat az acte clair megítélésére?",
+      "options": [
+        {
+          "text": "A közösségi jogszabályokat több nyelven szövegezték, a nyelvi változatok egyaránt hitelesek, ezért az értelmezés maga után vonja a különböző nyelvi változatok összehasonlítását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 18. pontja ezt a sajátosságot emeli ki. A 17. pont szerint a nyilvánvalóság fennállását a közösségi jog sajátosságai és az értelmezésével kapcsolatos különleges nehézségek függvényében kell megítélni. Az EUMSZ 267. cikk harmadik albekezdésének oldása tehát nem a nemzeti bíró anyanyelvi első olvasatán múlik. A többnyelvű összevetés a nyilvánvalóság része."
+        },
+        {
+          "text": "A többnyelvűség csak a Bizottság észrevételeinél releváns, a nemzeti bíró acte clair vizsgálatánál nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 18. pont a nemzeti bíró nyilvánvalóság-vizsgálatához tartozik. A C-283/81. sz. CILFIT-ügy 16–18. pontja a végső fórum saját felelősségű döntésének előfeltételeit adja. A helyes: az EUMSZ 267. cikk harmadik albekezdésétől csak e feltételek teljesülése esetén tekinthet el. A tévedés a többnyelvűséget a Bizottság eljárására szűkíti."
+        },
+        {
+          "text": "A nyilvánvalóság nem a nemzeti bíró első benyomása, hanem a többnyelvű, a többi fórum számára is azonos olvasat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 16. és 18. pontja együtt adja e mércét. A 16. pont a többi tagállam bíróságaira és a Bíróságra is kiterjedő nyilvánvalóságot követel. A nyelvi változatok összevetése e vizsgálat része. Az EUMSZ 267. cikk harmadik albekezdésének kötelezettsége csak e feltételek mellett oldódik."
+        },
+        {
+          "text": "Elegendő az anyanyelvi változat önálló olvasata, mert a fordítások csak tájékoztató jellegűek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyelvi változatok egyaránt hitelesek. A C-283/81. sz. CILFIT-ügy 18. pontja szerint az értelmezés maga után vonja a különböző nyelvi változatok összehasonlítását. A helyes: az EUMSZ 267. cikk harmadik albekezdésének oldása ilyen összevetés nélkül nem állhat. A tévedés a fordításokat másodlagosnak minősíti."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "b05cd2fa65a3"
+    },
+    {
+      "question": "A Cartesio-ügy 82–87. pontja szerint mi a jelentősége annak, hogy a fellebbezési kérdés hipotetikusnak tűnik?",
+      "options": [
+        {
+          "text": "Írország és a Bizottság hipotetikusnak tartotta a fellebbezési kérdést, mert a végzéssel szemben nem éltek jogorvoslattal, de a Bíróság e kifogást elutasította.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 82–87. pontja a hipotetikussági kifogást vizsgálja, és elutasítja. A relevancia vélelme nem dőlt meg, mert az utaló határozat és az iratok nem tették lehetővé annak megállapítását, hogy fellebbezés nem érkezett vagy ne érkezhetne. Az EUMSZ 267. cikk szerinti együttműködésben a nemzeti bíróság kérdéseinek relevanciáját főszabály szerint el kell fogadni. A hipotetikusság kivételesen cáfolható."
+        },
+        {
+          "text": "A relevancia vélelme mindaddig áll, amíg az utaló határozat és az iratok nem teszik lehetővé a fordítás szükségtelenségének megállapítását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 82–87. pontja a vélelem megdöntésének nehézségét mutatja. A C-112/00. sz. Schmidberger-ügy ugyanezt a főszabályt erősíti: a Bíróság főszabály szerint válaszol. Az EUMSZ 267. cikk szerinti eljárás a nemzeti bíróság felelősségére épül. A kivételes elutasítás a nyilvánvalóan hipotetikus vagy elszakadó kérdésre marad."
+        },
+        {
+          "text": "Ha a Bizottság hipotetikusnak tart egy kérdést, a Bíróság automatikusan elutasítja azt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság álláspontja nem dönt automatikusan. A C-210/06. sz. Cartesio-ügy 82–87. pontja elutasította a hipotetikussági kifogást. A helyes: a relevancia vélelme a nemzeti bíróság kérdése mellett szól, amíg az iratok mást nem mutatnak. A tévedés a Bizottságot a relevancia urává emeli."
+        },
+        {
+          "text": "A fellebbezési kérdés mindig hipotetikus, ezért az EUMSZ 267. cikk soha nem terjed ki a kezdeményező végzés elleni jogorvoslatra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Cartesio-ügy éppen érdemben vizsgálta a fellebbezés és az autonómia viszonyát. A C-210/06. sz. Cartesio-ügy 89. és 93. pontja a nemzeti jogorvoslatot összeegyeztethetőnek tartja, ha nem vonja el a kérdező hatáskörét. A helyes: az EUMSZ 267. cikk szerinti autonómia a fellebbezés határa. A tévedés a fellebbezési kérdést eleve kizárja."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "f35d525e4077"
+    },
+    {
+      "question": "A Cartesio-ügy 96. pontja és a PK-KK olvasata szerint kinek a feladata a fellebbezés alapján hozott határozatból levonni a következményt a kérelem sorsáról?",
+      "options": [
+        {
+          "text": "A kérdést előterjesztő bíróság feladata eldönteni, hogy a kérelem fenntartásának, megváltoztatásának vagy visszavonásának van-e helye.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kérelem sorsa a kérdezőé marad. A Cartesio-ügy 96. pontja szerint a kérelem helytállóságának és szükségességének megítélése főszabály szerint a kérdező felelőssége. Az 1/2009. (VI. 24.) PK-KK a 96. pontot úgy olvassa, hogy a kérdést előterjesztő bíróság vonja le a fellebbezés alapján hozott határozatból a következtetést. Az EUMSZ 267. cikk szerinti autonómia így a fellebbezés után is a kérdezőnél marad."
+        },
+        {
+          "text": "A fellebbviteli bíróság dönt a kérelem fenntartásáról, megváltoztatásáról vagy visszavonásáról a kérdező helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 96. pont a kérdezőt jelöli. A helyes: a C-210/06. sz. Cartesio-ügy 96. pontja szerint a kérelem helytállóságának és szükségességének megítélése főszabály szerint a kérdező felelőssége. Az 1/2009. (VI. 24.) PK-KK szerint a kérdést előterjesztő bíróság dönt a kérelem fenntartásáról, megváltoztatásáról vagy visszavonásáról az EUMSZ 267. cikk alapján. A tévedés a fellebbvitelt teszi a szükségesség urává."
+        },
+        {
+          "text": "A jogorvoslat kimenetele nem korlátozhatja a bíróságnak a 234. cikkben — ma az EUMSZ 267. cikkben — biztosított azon hatáskörét, hogy a Bírósághoz forduljon, ha uniós jogi értelmezési kérdés merül fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 93. pontja az autonómia korlátját mondja ki: a nemzeti jogorvoslat kimenetele nem vonhatja el a kérdező hatáskörét. A 95. pont a magyar külön fellebbezésre is vetíti: a fellebbvitel nem mellőzheti a kezdeményezést úgy, hogy elvonja az elsőfok EUMSZ 267. cikk szerinti autonómiáját. Az 1/2009. (VI. 24.) PK-KK 2–3. pontjának későbbi nem-fenntartása e Cartesio-elvet nem szünteti meg."
+        },
+        {
+          "text": "A nemzeti fellebbezés önmagában összeegyeztethetetlen a 267. cikkel, ezért minden ilyen jogorvoslatot meg kell szüntetni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 89. pont a nemzeti jogorvoslatot összeegyeztethetőnek tartja. A helyes: a Cartesio-ügy 89. pontja szerint a nem végső fórum utaló határozatával szembeni rendes jogorvoslat nem összeegyeztethetetlen a 234. cikkel; a korlát az autonómia elvonásának tilalma. A tévedés a fellebbezést eleve tilosnak állítja."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "6a0333817af1"
+    },
+    {
+      "question": "Mely állítások helytelenek az EUMSZ 256. cikk (3) bekezdése és a 267. cikk viszonyáról?",
+      "options": [
+        {
+          "text": "A Törvényszék korlátlanul átveszi az összes előzetes döntést, a Bíróság pedig csak politikai ügyekben jár el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Törvényszék hatásköre az alapokmányban meghatározott ügycsoportokra korlátozódik. Az EUMSZ 256. cikk (3) bekezdése szerint a Törvényszék meghatározott ügycsoportokban dönthet. A helyes: az EUMSZ 267. cikk címzettje az Európai Unió Bírósága, a 256. cikk a belső elosztást adja. A tévedés a Törvényszéket általános fórummá emeli."
+        },
+        {
+          "text": "A Törvényszék 267. cikk szerinti határozatai ellen minden esetben rendes, teljes fellebbezés nyílik a Bírósághoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felülvizsgálat kivételes. Az EUMSZ 256. cikk (3) bekezdése szerint a Bíróság akkor vizsgálhat felül, ha fennáll a komoly veszélye annak, hogy az uniós jog egységessége vagy koherenciája sérül. A helyes: egységességvédő kivételes felülvizsgálat, nem általános fellebbezés. A tévedés a kivételes felülvizsgálatot rendes fellebbezéssé tágítja."
+        },
+        {
+          "text": "Az EUSZ 19. cikk (1) bekezdése szerinti egységes fórum a 256. cikk (3) bekezdése miatt megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egységes fórum nem bomlik meg. Az EUSZ 19. cikk (1) bekezdése a Bíróságból, a Törvényszékből és a különös hatáskörű törvényszékekből álló intézményt adja. A helyes: az EUMSZ 267. cikk címzettje az Európai Unió Bírósága, a 256. cikk csak belső elosztást ad. A tévedés a belső megosztást intézményi szétválásnak olvassa."
+        },
+        {
+          "text": "Ha a Törvényszék elvi jelentőségű ügyet lát, nem utalhatja a Bíróság elé, mert a hatáskör átruházása végleges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elvi jelentőségű ügy Bíróság elé utalása kifejezetten nyitva áll a Törvényszék számára. Az EUMSZ 256. cikk (3) bekezdése szerint ha a Törvényszék úgy ítéli meg, hogy az ügy az uniós jog egységességét és koherenciáját befolyásoló elvi döntést igényel, az ügyet a Bíróság elé utalhatja. A helyes: a belső elosztás az egységesség védelmét szolgálja, nem zárja el a Bíróságot. A tévedés az elvi utalást végleges hatáskör-átruházásként zárja ki."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "b8adbcc7f37e"
+    },
+    {
+      "question": "A Da Costa egyesített ügyek CILFIT-ben felidézett elve hogyan hat a kötelező utalásra?",
+      "options": [
+        {
+          "text": "A kivétel a kötelezettséget oldja, de a nemzeti bíróság — a végső fórumot is beleértve — továbbra is szabadon fordulhat a Bírósághoz, ha azt célszerűnek tartja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 15. pontja e záradékot fűzi az acte éclairé-hez. Az EUMSZ 267. cikk szerinti fordulás lehetősége tehát nem szűnik meg. A Da Costa-logika a kötelezettséget üríti ki, nem a jogot. A C-210/06. sz. Cartesio-ügy 88. pontja a széles utalási jogot ugyanezen szellemben őrzi."
+        },
+        {
+          "text": "A Da Costa-elv szerint a korábbi értelmezés után a végső fórumnak tilos újabb kérdést feltennie ugyanabban a tárgykörben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, tilalom nincs. A C-283/81. sz. CILFIT-ügy 15. pontja a nemzeti bíróságok szabad fordulási jogát a kivétel mellett is megőrzi. A helyes: az EUMSZ 267. cikk szerinti fordulás lehetősége megmarad, a kötelezettség viszont kiürülhet. A tévedés a Da Costa-elvet tilalmi szabállyá élezi."
+        },
+        {
+          "text": "Bár a 177. cikk utolsó bekezdése minden korlátozás nélkül kötelezi a végső fórumot, a Bíróság által korábban adott értelmezés kötelező jellege okafogyottá teheti a kötelezettséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-283/81. sz. CILFIT-ügy 13. pontja a Da Costa egyesített ügyeket (28/62–30/62) idézi. A kivétel különösen akkor áll, ha a felmerült kérdés lényegében megegyezik egy hasonló esetben már előzetes döntés tárgyát képező kérdéssel. Az EUMSZ 267. cikk harmadik albekezdésének kötelező utalása tehát nem abszolút, hanem célhoz kötött. A 14. pont a kialakult gyakorlatra is kiterjeszti e hatást."
+        },
+        {
+          "text": "A Da Costa-elv csak a Törvényszék határozataira vonatkozik, a Bíróság előzetes döntéseire nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a CILFIT a Bíróság korábbi értelmezéséről beszél. A C-283/81. sz. CILFIT-ügy 13. pontja a Bíróság által korábban adott értelmezés kötelező jellegét említi. A helyes: az EUMSZ 267. cikk harmadik albekezdésének kötelezettsége e korábbi értelmezés mellett oldódhat. A tévedés a Törvényszékre szűkíti az elvet."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "0d941b1b9110"
+    },
+    {
+      "question": "Az alapokmány 23a. cikke milyen eljárási eszközöket ad a gyorsításhoz?",
+      "options": [
+        {
+          "text": "A 23a. cikk a nemzeti bíróságot mentesíti a ténybeli és jogi háttér megadása alól a sürgősségi eljárásban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a háttér megadása az együttműködés része marad. A C-112/00. sz. Schmidberger-ügy szerint a kérdezőnek a ténybeli és jogi hátteret jogilag megkövetelt módon kell rögzítenie. A helyes: az alapokmány 23a. cikke a Bíróság eljárását gyorsítja, nem a nemzeti előkészítést oldja fel. A tévedés a sürgősséget a háttér mellőzésével azonosítja."
+        },
+        {
+          "text": "A gyorsítás a Bíróság oldala: a forma továbbra is a nemzeti bíróság utaló határozata, nem a fél közvetlen keresete.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 23a. cikk eljárási eszköz, nem jogosulti szabály. Az EUMSZ 267. cikk negyedik albekezdése a Bíróságot szorítja a lehető legrövidebb időn belüli határozatra. A C-283/81. sz. CILFIT-ügy 9. pontja szerint a fél nem indíthatja az eljárást saját keresetével. A nemzeti utaló határozat tehát a gyorsított úton is előfeltétel."
+        },
+        {
+          "text": "Sürgősségi eljárás csak akkor indítható, ha a végső fórum kötelező utalása is fennáll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 23a. cikk nem a kötelezettségi szabályhoz kötött. Az alapokmány 23a. cikke a szabadságon, a biztonságon és a jog érvényesülésén alapuló térségre vonatkozó utalásnál enged sürgősségi eljárást. A helyes: az EUMSZ 267. cikk második vagy harmadik albekezdése szerinti utalás mellett a gyorsítás külön eszköz. A tévedés a sürgősséget a kötelezett fórumhoz köti."
+        },
+        {
+          "text": "Gyorsított eljárást és a szabadságon, a biztonságon és a jog érvényesülésén alapuló térségre vonatkozó utalásnál sürgősségi eljárást enged.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alapokmány 23a. cikke az EUMSZ 267. cikk negyedik albekezdésének fogvatartotti gyorsítását támogatja. A sürgősségi eljárásnál rövidebb határidő lehetséges. A főtanácsnoki indítvány mellőzése és a jogosulti kör korlátozása is szóba jöhet. Kivételesen az írásbeli szakasz mellőzése is megengedett."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "b9b144fbee5e"
+    },
+    {
+      "question": "A CILFIT-ügy 9. pontja és a Cartesio-ügy 88. pontja együttesen mit mond a hivatalbóli utalásról?",
+      "options": [
+        {
+          "text": "A nemzeti bíróságok a lehető legszélesebb lehetőséggel rendelkeznek a Bírósághoz fordulásra a Cartesio-ügy 88. pontja szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 88. pontja a nemzeti bíróságok széles utalási mozgásterét erősíti. A CILFIT-ügy 15. pontja a kivételek mellett is őrzi a fordulás jogát. Az EUMSZ 267. cikk második albekezdése a nem végső fórum diszkrécióját adja. A kötelezettség oldása nem tilalom."
+        },
+        {
+          "text": "Hivatalbóli utalás csak a végső fórumot illeti meg; az alsóbb fórumok kizárólag a felek kérelmére fordulhatnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hivatalbóli út nem a végső fórum monopóliuma. A C-210/06. sz. Cartesio-ügy 88. pontja a nemzeti bíróságokról általában beszél. A helyes: az EUMSZ 267. cikk második albekezdése szerinti fakultatív utaló is hivatalból dönthet. A tévedés a hivatalbóli utat a kötelezett fórumra szűkíti."
+        },
+        {
+          "text": "A hivatalbóli utalás csak akkor lehetséges, ha mindkét fél előzetesen lemondott a nemzeti jogorvoslatról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ilyen lemondási feltétel nincs. A C-283/81. sz. CILFIT-ügy 9. pontja a bíróság saját elhatározását ismeri el. A helyes: a C-210/06. sz. Cartesio-ügy 88. pontja szerint a bíróság akár hivatalból előterjeszthet. A tévedés a felek lemondását teszi előfeltétellé."
+        },
+        {
+          "text": "A nemzeti bíróság akár hivatalból, akár a felek kérelmére előterjeszthet, ha a jogvita érdeme a 267. cikk első bekezdésében felsorolt kérdésekre vonatkozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-210/06. sz. Cartesio-ügy 88. pontja e két utat nyitja. A C-283/81. sz. CILFIT-ügy 9. pontja szerint a bíróság a felek indítványa hiányában is dönthet a fordulásról. Az EUMSZ 267. cikk a bíróságot hatalmazza fel, adott esetben kötelezi. A fél indítványa önmagában nem helyettesíti a bíróság döntését az utalásról."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "985285db1136"
+    },
+    {
+      "question": "Mely állítások helytelenek a kezdeményező bíróság autonómiájáról a Cartesio-ügy fényében?",
+      "options": [
+        {
+          "text": "A nemzeti fellebbezés önmagában összeegyeztethetetlen a 267. cikkel, ezért minden ilyen jogorvoslatot meg kell szüntetni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 89. pont a nemzeti jogorvoslatot összeegyeztethetőnek tartja. A C-210/06. sz. Cartesio-ügy 89. pontja szerint a nem végső fórum utaló határozatával szemben a nemzeti jogban előírt rendes jogorvoslat nem összeegyeztethetetlen a 234. cikkel. A helyes: a korlát az, hogy a fellebbezés nem vonhatja el az autonómiát. A tévedés a fellebbezést eleve tilosnak állítja."
+        },
+        {
+          "text": "A Rheinmühlen-elv szerint a megismételt eljárásban az elsőfok soha nem fordulhat a Bírósághoz, ha a magasabb fok kötőereje fennáll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Rheinmühlen-elv a megismételt eljárásban is a fordulás szabadságát védi. A C-210/06. sz. Cartesio-ügy 94. pontja a megismételt eljárásban is szabad utalást biztosít az elsőfokú bíróságnak. A helyes: az EUMSZ 267. cikk szerinti hatáskör a magasabb fok kötőereje mellett is fennmarad. A tévedés a kötőerőt abszolút tilalomnak olvassa."
+        },
+        {
+          "text": "A fellebbviteli bíróság szabadon elvonhatja a kérdező 267. cikk szerinti hatáskörét, ha a végzést megváltoztatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 93. pont éppen e korlátot mondja ki. A C-210/06. sz. Cartesio-ügy 93. pontja szerint a jogorvoslat kimenetele nem korlátozhatja a kérdező hatáskörét. A helyes: az EUMSZ 267. cikk szerinti fordulás a kérdezőé marad. A tévedés a fellebbvitelt a kérdező helyébe állítja."
+        },
+        {
+          "text": "A kérelem helytállóságának és szükségességének megítélése főszabály szerint a fellebbviteli bíróság felelőssége.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 96. pont a kérdezőt jelöli meg. A C-210/06. sz. Cartesio-ügy 96. pontja szerint a kérelem helytállóságának és szükségességének megítélése főszabály szerint a kérdező felelőssége. A helyes: a kérdező dönt a kérelem fenntartásáról, megváltoztatásáról vagy visszavonásáról. A tévedés a fellebbvitelt teszi a szükségesség urává."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "0c04a30b06ae"
+    },
+    {
+      "question": "A Dorsch Consult-ügy 23. pontja szerint mi szabályozza azt, hogy egy szerv a 267. cikk értelmében vett bíróság-e?",
+      "options": [
+        {
+          "text": "A kérdést kizárólag a közösségi jog szabályozza; a nemzeti címke nem dönti el a jogosulti minőséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-54/96. sz. Dorsch Consult-ügy 23. pontja az uniós fogalmat állítja középpontba. A Bíróság a törvényi létrehozatalt, az állandóságot, a kötelező joghatóságot, a kontradiktórius eljárást, a jogszabályalkalmazást és a függetlenséget vizsgálja. Az igazságszolgáltatási funkció a 37–38. pontban egészíti ki e kört. Az EUMSZ 267. cikk tehát nem a nemzeti elnevezéshez köt."
+        },
+        {
+          "text": "A 22. pont elválasztja a 267. cikk szerinti bíróság-fogalmat a 89/665 irányelv 2. cikkének (8) bekezdése szerinti független felülvizsgálati szervi minősítéstől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-54/96. sz. Dorsch Consult-ügy 22. pontja szerint az irányelvi felülvizsgálati szervi minősítés abban az ügyben nem volt releváns. A 23. pont szerinti uniós bíróság-fogalom önálló. Az EUMSZ 267. cikk jogosultja tehát nem azonos automatikusan az irányelvi felülvizsgálati szervvel. A két vizsgálat külön utat jár."
+        },
+        {
+          "text": "A Bíróság csak a polgári perrendtartásban nevesített bíróságokat fogadja el a 267. cikk jogosultjaként.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közbeszerzési felügyeleti bizottság is megfelelhet. A C-54/96. sz. Dorsch Consult-ügy 38. pontja szerint a Vergabeüberwachungsausschuß des Bundes a korábbi 177. cikk értelmében vett bíróságnak minősült. A helyes: az EUMSZ 267. cikk a funkcionális ismérvekhez köt. A tévedés a Pp. szerinti bíróságra szűkít."
+        },
+        {
+          "text": "A nemzeti jog szerinti „bíróság” elnevezés önmagában elegendő a 267. cikk alkalmazásához.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fogalom uniós. A C-54/96. sz. Dorsch Consult-ügy 23. pontja szerint a kérdést kizárólag a közösségi jog szabályozza. A helyes: a hat ismérv és az igazságszolgáltatási funkció együttese dönt. A tévedés a nemzeti címkét teszi döntővé."
+        }
+      ],
+      "sourceKerdesSorszam": 41,
+      "sourceHash": "d944747e887e"
+    },
+    {
+      "question": "Mi a különbség az értelmezési és az érvényességi kérdés között a kötelező utalás CILFIT-kivételei szempontjából?",
+      "options": [
+        {
+          "text": "Értelmezési kérdésben a CILFIT-kivételek oldhatják a végső fórum kötelezettségét; érvényességnél a meríték a Bíróságé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 267. cikk első albekezdésének b) pontja az uniós aktusok érvényességét és értelmezését is a Bírósághoz telepíti. Értelmezési kérdésben a CILFIT-kivételek oldhatják a végső fórum kötelezettségét. Érvényességi kérdésben a nemzeti bíróság nem „nyilvánvaló érvényességgel” helyettesítheti a Bíróság döntését ugyanazzal a könnyedséggel. A tárgyi meríték tehát nem azonos a kivételek terjedelmével."
+        },
+        {
+          "text": "A b) pont merítéke a Bíróságé: érvényesség és értelmezés egyaránt; a nemzeti jog és a ténykérdés kívül esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 267. cikk első albekezdésének a) pontja a Szerződések értelmezését, b) pontja az uniós intézmények, szervek vagy hivatalok jogi aktusainak érvényességét és értelmezését jelöli ki. A két pont kimerítő. A C-54/96. sz. Dorsch Consult-ügy 40. pontja a nemzeti hatásköri minősítést a nemzeti jogrendszerre bízza. A kérdésnek értelmezést vagy érvényességet kell céloznia."
+        },
+        {
+          "text": "Értelmezési és érvényességi kérdésben a CILFIT-kivételek azonos terjedelműek, mert mindkettő a b) pont alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a CILFIT-rendszer az értelmezési kérdéshez köti a CILFIT-kivételeket. Az EUMSZ 267. cikk első albekezdésének b) pontja mindkét típust a Bírósághoz telepíti, de a kötelezettség oldása az értelmezésre vonatkozik. A helyes: érvényességnél a meríték a Bíróságé. A tévedés a két kérdéstípust a kivételek szempontjából azonosítja."
+        },
+        {
+          "text": "Érvényességi kérdésben a végső fórum az acte clair alapján saját hatáskörben megállapíthatja az uniós aktus érvénytelenségét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az érvényesség merítéke a Bíróságé. Az EUMSZ 267. cikk első albekezdésének b) pontja az uniós aktusok érvényességét a Bírósághoz telepíti. A helyes: a CILFIT-kivételek az értelmezési kötelezettséget oldhatják; az érvénytelenség kimondása nem a nemzeti fórum acte clair döntése. A tévedés a nyilvánvalóságot érvénytelenségi hatáskörré tágítja."
+        }
+      ],
+      "sourceKerdesSorszam": 42,
+      "sourceHash": "768555c634b0"
+    },
+    {
+      "question": "Az EUMSZ 267. cikk második albekezdése milyen szó szerinti feltétellel nyitja a fakultatív utalást?",
+      "options": [
+        {
+          "text": "A szükségesség a nemzeti bíróság mérlegelése: a Dorsch Consult-ügy ismérvei szerinti bíróság e feltétel mellett kérhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-54/96. sz. Dorsch Consult-ügy a jogosulti kört a funkcionális ismérvekhez köti. Az EUMSZ 267. cikk második albekezdése a „kérheti” fordulatot adja. A C-210/06. sz. Cartesio-ügy 88. pontja a nemzeti bíróságok széles utalási mozgásterét erősíti. A fél indítványa önmagában nem helyettesíti a bíróság döntését az utalásról."
+        },
+        {
+          "text": "A második albekezdés csak akkor nyílik meg, ha a végső fórum már elutasította a felek utalási indítványát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ilyen előzetes elutasítási feltétel nincs. Az EUMSZ 267. cikk második albekezdése a tagállam bármely bírósága számára nyitja a fakultatív utat. A helyes: a C-210/06. sz. Cartesio-ügy 88. pontja szerint a bíróság akár hivatalból, akár a felek kérelmére előterjeszthet. A tévedés a végső fórum elutasítását teszi előfeltétellé."
+        },
+        {
+          "text": "A cikk szerint: „Ha egy tagállam bírósága előtt ilyen kérdés merül fel, és ez a bíróság úgy ítéli meg, hogy ítélete meghozatalához szükség van a kérdés eldöntésére, kérheti az Európai Unió Bíróságát, hogy hozzon ebben a kérdésben döntést.”",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUMSZ 267. cikk második albekezdése a „kérheti” fordulatot a szükségességi mérlegeléshez köti. A C-283/81. sz. CILFIT-ügy 8–10. pontja ugyanezt a „ha ilyen kérdés merül fel” vizsgálatot adja. A C-112/00. sz. Schmidberger-ügy a szükségesség és a relevancia megítélését a nemzeti bíróságra bízza. A diszkréció tehát nem önhatalmú, hanem az ítélethez szükséges kérdésre korlátozott."
+        },
+        {
+          "text": "A második albekezdés a szükségesség vizsgálata nélkül kötelező utalást ír elő minden tagállami bíróságra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a második albekezdés fakultatív és szükségességhez kötött. Az EUMSZ 267. cikk második albekezdése a „kérheti” fordulatot használja, ha a bíróság úgy ítéli meg, hogy ítélete meghozatalához szükség van a kérdés eldöntésére. A helyes: a kötelező utalás a harmadik albekezdés. A tévedés a fakultatív utat kötelezővé élezi."
+        }
+      ],
+      "sourceKerdesSorszam": 43,
+      "sourceHash": "51e926b1a372"
+    }
+  ]
+}

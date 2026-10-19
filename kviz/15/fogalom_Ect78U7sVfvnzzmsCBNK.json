@@ -1,0 +1,657 @@
+{
+  "id": "Ect78U7sVfvnzzmsCBNK",
+  "sorszam": 15,
+  "cim": "A jogalkotási aktusok és a nem jogalkotási aktusok elhatárolása. Az (...)",
+  "generationType": "fogalom",
+  "title": "15. A jogalkotási aktusok és a nem jogalkotási aktusok elhatárolása. Az (...)",
+  "questions": [
+    {
+      "question": "Mi dönti el az uniós aktus jogalkotási jellegét: a 288. cikk szerinti elnevezés vagy a 289. cikk szerinti eljárás?",
+      "options": [
+        {
+          "text": "Nem a 288. cikk szerinti elnevezés, hanem a 289. cikk szerinti eljárás dönti el a jogalkotási jelleget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a formai katalógus és az eljárási minősítés két független tengely. Az EUMSZ 288. cikk rendeletet, irányelvet, határozatot, ajánlást és véleményt sorol fel, de a 289. cikk (3) bekezdése szerint jogalkotási aktus az, amit jogalkotási eljárás keretében fogadtak el. Ugyanaz a rendelet lehet jogalkotási aktus és lehet felhatalmazáson alapuló vagy végrehajtási, nem jogalkotási rendelet is. A szakvizsgai elhatárolás lényege tehát az eljárás, nem a 288. cikk címkéje."
+        },
+        {
+          "text": "A 289. cikk (3) bekezdése szerint a jogalkotási eljárás keretében elfogadott jogi aktusok jogalkotási aktusoknak minősülnek; a contrario ami nem jogalkotási eljárásban születik, az nem jogalkotási aktus.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalkotási jelleg az elfogadás eljárásához kötött, nem a formai elnevezéshez. Jogalkotási aktus az, amit jogalkotási eljárás keretében fogadtak el; a contrario olvasat szerint a felhatalmazáson alapuló és a végrehajtási aktus szükségszerűen nem jogalkotási, még akkor sem, ha formája rendelet. Az EUMSZ 289. cikk (3) bekezdése ezt a procedurális minősítést rögzíti. A rendelet, irányelv vagy határozat elnevezése önmagában nem dönti el a jogalkotási jelleget."
+        },
+        {
+          "text": "Az ajánlás és a vélemény is születhet jogalkotási eljárásban, ha a Parlament és a Tanács így dönt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a jogalkotási eljárás formáit kibővíti. Az EUMSZ 289. cikk (1) és (2) bekezdése a formát a kötelező három típusra szűkíti: rendelet, irányelv vagy határozat; ajánlás és vélemény jogalkotási eljárásban nem születik. A 288. cikk záró mondata szerint az ajánlások és a vélemények nem kötelezőek. A tévedés a 292. cikk tanácsi ajánlásának jogalkotási aktussá olvasásából ered."
+        },
+        {
+          "text": "Ha egy aktus formája rendelet, az automatikusan jogalkotási aktus, mert a 288. cikk a formát a jogalkotási minősítéssel azonosítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a két tengelyt összecsúsztatja. Az EUMSZ 289. cikk (3) bekezdése a jogalkotási jelleget az eljáráshoz köti, nem a 288. cikk elnevezéséhez; a contrario ami nem jogalkotási eljárásban születik, az nem jogalkotási aktus, még akkor sem, ha formája rendelet. A helyes: a felhatalmazáson alapuló és a végrehajtási rendelet szükségszerűen nem jogalkotási. A tévedés forrása a formai katalógus és az eljárási minősítés összekeverése."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "72170175af02"
+    },
+    {
+      "question": "Mit rendel az EUMSZ 288. cikk a rendelet, az irányelv és a határozat kötőerejéről és címzetti köréről?",
+      "options": [
+        {
+          "text": "A határozat soha nem lehet általános hatályú: címzettek megjelölése nélkül is csak egyetlen címzettre kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a címzetti kört kötelezővé teszi ott, ahol a norma feltételes. Az EUMSZ 288. cikk szerint a határozat teljes egészében kötelező; „Amennyiben külön megjelöli, hogy kik a címzettjei, a határozat kizárólag azokra nézve kötelező.” Címzetti kör nélküli határozat tehát nem esik a „csak egy címzett” szabály alá. A tévedés a címzettes és a címzetti kör nélküli határozat összecseréléséből ered."
+        },
+        {
+          "text": "Az irányelv az elérendő célokat illetően minden címzett tagállamra kötelező, a forma és az eszközök megválasztását a nemzeti hatóságokra hagyja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv célkötelmet, nem teljes közvetlen alkalmazandóságot ír. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően minden címzett tagállamra kötelező, azonban a forma és az eszközök megválasztását a nemzeti hatóságokra hagyja. A határozat ettől különbözik: teljes egészében kötelező, és címzettek megjelölése esetén kizárólag azokra nézve. A típusválasztás arányossága a 296. cikk szerint e katalóguson belül mozog."
+        },
+        {
+          "text": "Az ajánlás és a vélemény a 288. cikk szerint kötelező, ha a Tanács fogadja el őket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nem kötelező forrásokat kötőerővel ruházza fel. Az EUMSZ 288. cikk záró mondata szerint „Az ajánlások és a vélemények nem kötelezőek” — ez a nem kötelező uniós források szerződéses alapja. A 292. cikk a tanácsi ajánláshoz intézményi eljárást kapcsol, de nem teszi kötelezővé az ajánlást. A tévedés a 292. cikk elfogadási szabályának kötőerővé olvasásából ered."
+        },
+        {
+          "text": "A rendelet általános hatályú, teljes egészében kötelező és valamennyi tagállamban közvetlenül alkalmazandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet kötőereje három együttes ismérven áll. Az EUMSZ 288. cikk szerint: „A rendelet általános hatállyal bír. Teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban.” A kötőerő és a címzetti kör a típushoz van kötve, nem a politikai szándékhoz. Ez a szerződéses alapja annak, hogy a felhatalmazáson alapuló rendelet is ugyanezen három ismérvvel bír."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "1c7a7041946c"
+    },
+    {
+      "question": "Hogyan határozza meg az EUMSZ 289. cikk a jogalkotási aktust, és mi a (3) bekezdés a contrario olvasata?",
+      "options": [
+        {
+          "text": "A különleges jogalkotási eljárás mindig a Parlament és a Tanács teljesen egyenrangú közös elfogadását jelenti, mint a rendes eljárás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a különleges eljárás aszimmetriáját eltünteti. Az EUMSZ 289. cikk (2) bekezdése szerint a különleges eljárás a Szerződésekben külön meghatározott esetekben vagy a Parlament elfogadása a Tanács közreműködésével, vagy a Tanács elfogadása a Parlament közreműködésével. A rendes eljárás (1) bekezdése a közös elfogadást írja elő. A tévedés a két eljárás döntési szerkezetének összecseréléséből ered."
+        },
+        {
+          "text": "Jogalkotási aktus kizárólag a Bizottság javaslata alapján születhet; a tagállamok csoportjának vagy a Parlamentnek nincs kezdeményezési szerepe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kezdeményezési főszabályt abszolút tilalommá keményíti. Az EUMSZ 289. cikk (4) bekezdése a Bizottság kezdeményezési főszabálya alóli szerződéses kivételeket sorolja: a tagállamok egy csoportja, a Parlament, az Európai Központi Bank ajánlása, a Bíróság vagy az Európai Beruházási Bank kérelme. A helyes: a főszabály a Bizottság javaslatán áll, de a (4) bekezdés kivételeket nyit. A tévedés a főszabály kivétel nélküli olvasatából ered."
+        },
+        {
+          "text": "A jogalkotási aktust nem a tartalom, hanem az elfogadás eljárása felől határozza meg: a jogalkotási eljárás keretében elfogadott jogi aktus jogalkotási aktusnak minősül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalkotási minősítés procedurális, nem tartalmi. Az EUMSZ 289. cikk (3) bekezdése szerint: „A jogalkotási eljárás keretében elfogadott jogi aktusok jogalkotási aktusoknak minősülnek.” Az (1) bekezdés a rendes eljárást a Bizottság javaslata alapján a Parlament és a Tanács közös elfogadására bontja; a (2) bekezdés a különleges eljárást aszimmetrikus döntéshez köti. A tartalmi súly önmagában nem teszi jogalkotási aktussá az aktust."
+        },
+        {
+          "text": "Ami nem jogalkotási eljárás keretében születik, az nem jogalkotási aktus, még akkor sem, ha a 288. cikk szerinti formája rendelet, irányelv vagy határozat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés a contrario olvasata adja a nem jogalkotási aktus fogalmát. Ami nem jogalkotási eljárásban születik, az nem jogalkotási aktus, még akkor sem, ha formája rendelet, irányelv vagy határozat. A felhatalmazáson alapuló és a végrehajtási aktus ezért szükségszerűen nem jogalkotási. A 294. cikkre utaló mondat a rendes eljárás részletes menetét a 289. cikken kívülre helyezi, de a minősítéshez a 289. cikk önmagában is elégséges."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "532d9763fd37"
+    },
+    {
+      "question": "Mit jelent a felhatalmazáson alapuló aktus az EUMSZ 290. cikk szerint, és mi tilos az alapvető elemekre?",
+      "options": [
+        {
+          "text": "A Bizottság a jogalkotási aktus egyes nem alapvető rendelkezéseit egészítheti ki vagy módosíthatja általános hatályú nem jogalkotási aktussal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 290. cikk (1) bekezdése a felhatalmazást általános hatályú nem jogalkotási aktusként határozza meg. A jogalkotási aktusokban felhatalmazás adható a Bizottság részére olyan általános hatályú nem jogalkotási aktusok elfogadására, amelyek a jogalkotási aktusok egyes nem alapvető rendelkezéseit kiegészítik, illetve módosítják. A felhatalmazást tartalmazó jogalkotási aktusban ki kell mondani a felhatalmazás céljait, tartalmát, alkalmazási körét és időtartamát. A címben a „felhatalmazáson alapuló” kifejezést fel kell tüntetni."
+        },
+        {
+          "text": "A felhatalmazáson alapuló aktus jogalkotási aktus, mert a Bizottság a jogalkotási aktus rendelkezéseit módosíthatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a módosítási hatáskört jogalkotási minősítéssé emeli. Az EUMSZ 290. cikk (1) bekezdése expressis verbis „általános hatályú nem jogalkotási aktusok” elfogadásáról szól; a 289. cikk (3) bekezdése szerint jogalkotási aktus csak jogalkotási eljárás keretében születik. A helyes: a felhatalmazáson alapuló aktus szükségszerűen nem jogalkotási. A tévedés a kiegészítés/módosítás és a jogalkotási eljárás összekeveréséből ered."
+        },
+        {
+          "text": "A Parlament és a Tanács a felhatalmazást csak együtt, együttes aktussal vonhatja vissza, külön-külön soha.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a visszavonási zárat kumulatív kényszerré torzítja. Az EUMSZ 290. cikk (2) bekezdés a) pontja szerint az Európai Parlament vagy a Tanács úgy határozhat, hogy a felhatalmazást visszavonja — a „vagy” diszjunktív. A két zár (visszavonás és kifogás) nem kumulatív kényszer: a jogalkotási aktus a visszavonást, a kifogást vagy mindkettőt előírhatja. A tévedés a „vagy” „és”-sé olvasásából ered."
+        },
+        {
+          "text": "Az adott szabályozási terület alapvető elemei kizárólag a jogalkotási aktusban szabályozhatók, és ezekre nem adható felhatalmazás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alapvető elemekre felhatalmazás nem adható. Az EUMSZ 290. cikk (1) bekezdése szerint: „Az adott szabályozási terület alapvető elemei kizárólag a jogalkotási aktusban szabályozhatók, és ezekre vonatkozóan nem adható felhatalmazás.” A felhatalmazás tehát csak a nem alapvető rendelkezések kiegészítésére vagy módosítására nyílik. A Parlament vagy a Tanács a (2) bekezdés szerint a felhatalmazást visszavonhatja, illetve kifogást emelhet a hatálybalépés előtt."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "29a94ef1d29e"
+    },
+    {
+      "question": "Mi a főszabály és a kivétel a kötelező uniós aktusok végrehajtásánál az EUMSZ 291. cikk szerint?",
+      "options": [
+        {
+          "text": "Ha a végrehajtásnak egységes feltételek szerint kell történnie, a kötelező aktus végrehajtási hatásköröket ruház a Bizottságra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egységes feltételek nyitják a bizottsági végrehajtást. Az EUMSZ 291. cikk (2) bekezdése szerint: ha valamely kötelező erejű uniós jogi aktus végrehajtásának egységes feltételek szerint kell történnie, az ilyen jogi aktus végrehajtási hatásköröket ruház a Bizottságra. Különleges és kellően indokolt esetben, valamint az EUSZ 24. és 26. cikkében előírt esetekben a Tanácsra is. A végrehajtási jogi aktusok címében a „végrehajtási” kifejezést fel kell tüntetni."
+        },
+        {
+          "text": "A végrehajtási aktus felhatalmazáson alapuló aktusnak is minősül, mert mindkettő nem jogalkotási kötelező aktus.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a két nem jogalkotási fajtát összeolvasztja. Az EUMSZ 290. cikk a felhatalmazást, a 291. cikk a végrehajtást adja; a felhatalmazás nem alapvető rendelkezéseket egészít ki vagy módosít, a végrehajtás a már elfogadott kötelező aktus érvényesítésének egységes feltételeit állapítja meg. A címkézési parancs is elválasztja őket: „felhatalmazáson alapuló” versus „végrehajtási”. A tévedés a közös nem jogalkotási jellegből eredő azonosításhoz vezet."
+        },
+        {
+          "text": "Főszabályként a kötelező erejű uniós aktusok végrehajtásához szükséges intézkedéseket a tagállamok fogadják el nemzeti jogukban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a végrehajtás elsődleges címzettje a tagállam. Az EUMSZ 291. cikk (1) bekezdése szerint a tagállamok nemzeti jogukban elfogadják a kötelező erejű uniós jogi aktusok végrehajtásához szükséges intézkedéseket. A Bizottságra csak akkor ruházható végrehajtási hatáskör, ha a végrehajtásnak egységes feltételek szerint kell történnie. A Tanács végrehajtási hatásköre még szűkebb: különleges és kellően indokolt eset, illetve az EUSZ 24. és 26. cikke."
+        },
+        {
+          "text": "A végrehajtási hatáskör főszabályként mindig a Bizottságot illeti, a tagállami nemzeti intézkedés csak kisegítő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a főszabályt és a kivételt felcseréli. Az EUMSZ 291. cikk (1) bekezdése a tagállami nemzeti intézkedést teszi főszabállyá; a Bizottság csak az egységes feltételek (2) bekezdés szerinti esetében kap végrehajtási hatáskört. A helyes: a végrehajtás főszabálya a tagállami nemzeti jog. A tévedés forrása a 290. cikk szerinti bizottsági felhatalmazás ráírása a 291. cikkre."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "561a4b90a82c"
+    },
+    {
+      "question": "Miben tér el a felhatalmazáson alapuló aktus a végrehajtási aktustól?",
+      "options": [
+        {
+          "text": "A végrehajtás az alapvető elemeket is módosíthatja, ha a Bizottság egységes feltételeket állapít meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 290. cikk tilalmát a 291. cikkre írja át. Az alapvető elemekre felhatalmazás nem adható a 290. cikk (1) bekezdése szerint; a végrehajtás pedig nem a jogalkotási aktus módosítása, hanem a kötelező aktus érvényesítésének egységes feltételeinek megállapítása. A helyes: a végrehajtás nem pótolja a felhatalmazás tartalmi határát. A tévedés a két hatáskör funkcionális összecseréléséből ered."
+        },
+        {
+          "text": "A végrehajtási jogi aktus sem jogalkotási, sem felhatalmazáson alapuló; a címében a „végrehajtási” kifejezést fel kell tüntetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a végrehajtási aktus címében kötelező a „végrehajtási” jelző. Az EUMSZ 291. cikk (4) bekezdése szerint: „A végrehajtási jogi aktusok címében fel kell tüntetni a »végrehajtási« kifejezést.” Ez az aktus sem jogalkotási, sem felhatalmazáson alapuló. A 290. cikk (3) bekezdése párhuzamosan a „felhatalmazáson alapuló” kifejezést írja elő, így a Hivatalos Lap élén a nem jogalkotási jelleg leolvasható."
+        },
+        {
+          "text": "A felhatalmazás a jogalkotási aktus nem alapvető rendelkezéseit egészíti ki vagy módosítja általános hatállyal; a végrehajtás a kötelező aktus érvényesítésének egységes feltételeit állapítja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 290. és a 291. cikk két elhatárolt fajtát ad. A felhatalmazás általános hatályú nem jogalkotási aktus, amely a jogalkotási aktus nem alapvető rendelkezéseit egészíti ki vagy módosítja. A végrehajtás főszabályként tagállami intézkedésre épül, és csak egységes feltételek esetén ruház hatáskört a Bizottságra vagy kivételesen a Tanácsra. A két címkézési parancs a Hivatalos Lapban is elválasztja őket."
+        },
+        {
+          "text": "A felhatalmazáson alapuló aktus csak határozat lehet, a végrehajtási aktus csak rendelet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a felhatalmazáson alapuló és a végrehajtási formát mesterségesen szétválasztja. A felhatalmazáson alapuló és a végrehajtási aktus egyaránt öltheti a 288. cikk szerinti rendelet, irányelv vagy határozat formáját; a minősítés a 289–291. cikk szerinti eljárás és funkció, nem a forma. A helyes: a kötőerő a 288. cikk típusához igazodik, a nem jogalkotási jelleg a 290. vagy 291. cikkhez. A tévedés a címke és a forma azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "3ead56ba3701"
+    },
+    {
+      "question": "Mi a 292. cikk szerinti tanácsi ajánlás viszonya a felhatalmazáshoz és a végrehajtáshoz?",
+      "options": [
+        {
+          "text": "A 292. cikk tárgya az ajánlás: nem felhatalmazáson alapuló és nem végrehajtási aktus, és a 288. cikk szerint nem kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tanácsi ajánlás nem a felhatalmazás–végrehajtás tengelyén áll. A Tanács ajánlásokat fogad el; a Tanács a Bizottság javaslata alapján jár el minden olyan esetben, amelyet a mondat megjelöl. Az ajánlás a 288. cikk záró mondata szerint nem kötelező, és nem kapja meg a „felhatalmazáson alapuló” vagy a „végrehajtási” címkét. A 289. cikk (1)–(2) bekezdése az ajánlást a jogalkotási eljárás formái közé sem engedi be."
+        },
+        {
+          "text": "Az ajánlás címében fel kell tüntetni a „végrehajtási” kifejezést, mert a Tanács fogadja el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 291. cikk (4) bekezdésének címkéjét az ajánlásra írja. A „végrehajtási” kifejezés a végrehajtási jogi aktusok címére kötelező; az ajánlás nem ilyen aktus. A helyes: sem „felhatalmazáson alapuló”, sem „végrehajtási” megjelölés nem illik az ajánlásra. A tévedés a Tanács mint elfogadó intézmény és a végrehajtási hatáskör összekeveréséből ered."
+        },
+        {
+          "text": "A tanácsi ajánlás a 290–291. cikkek harmadik alfaja: kötelező, ha a Bizottság javaslatára születik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a tanácsi ajánlást a felhatalmazás–végrehajtás sorába emeli. Az EUMSZ 288. cikk szerint az ajánlások nem kötelezőek; a 292. cikk ehhez intézményi címzettet és eljárást kapcsol, anélkül hogy kötőerőt adna. A helyes: a 292. cikk nem a 290–291. cikkek harmadik alfaja. A tévedés a Bizottság javaslatának kötelezővé tevő olvasatából ered."
+        },
+        {
+          "text": "A 292. cikk a 288. cikk záró mondatának intézményi folytatása: a Tanács az elfogadó, a Bizottság javaslata az eljárás indítója a megjelölt esetekben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 292. cikk az egyéb, nem kötelező források tanácsi ágát rögzíti. Az EUMSZ 292. cikk szerint a Tanács ajánlásokat fogad el, és a Bizottság javaslata alapján jár el a megjelölt esetekben. Ez nem teszi az ajánlást felhatalmazáson alapuló vagy végrehajtási aktussá. A felhatalmazáson alapuló és a végrehajtási aktus ettől élesen különbözik: mindkettő kötelező, és rendelet, irányelv vagy határozat formáját öltheti."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "820506b9f820"
+    },
+    {
+      "question": "Milyen határidővel lép hatályba a Hivatalos Lapban kihirdetett jogalkotási aktus, ha a szöveg napot nem jelöl meg?",
+      "options": [
+        {
+          "text": "A címzetti kört tartalmazó határozat is mindig a Hivatalos Lapban jelenik meg, és a huszadik napon lép hatályba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a címzetti határozatot a kihirdetési pályára kényszeríti. Az EUMSZ 297. cikk (2) bekezdése szerint az egyéb irányelvekről és a címzetti kört tartalmazó határozatokról értesíteni kell a címzettjeiket, és azok az értesítéssel lépnek hatályba. A helyes: a címzetti határozat hatálybalépése az értesítéshez kötött. A tévedés a címzetti kör nélküli és a címzettes határozat szabályának összecseréléséből ered."
+        },
+        {
+          "text": "A kihirdetést követő huszadik napon, ha a jogalkotási aktusban nincs megjelölt hatálybalépési nap.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk (1) bekezdése egységes kihirdetési és hatálybalépési rendet ad. A jogalkotási aktusokat az Európai Unió Hivatalos Lapjában ki kell hirdetni. Ezek a bennük megjelölt napon, illetve ennek hiányában a kihirdetésüket követő huszadik napon lépnek hatályba. A rendes eljárásban elfogadott jogalkotási aktust a Parlament elnöke és a Tanács elnöke írja alá. A huszadik nap tehát a megjelölt nap hiányának kisegítő szabálya."
+        },
+        {
+          "text": "A jogalkotási aktus a kihirdetés napján automatikusan hatályba lép, huszadik napos kisegítő szabály nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a hatálybalépés kisegítő szabályát elhagyja. Az EUMSZ 297. cikk (1) bekezdése szerint a jogalkotási aktusok a bennük megjelölt napon, illetve ennek hiányában a kihirdetésüket követő huszadik napon lépnek hatályba — nem a kihirdetés napján. A helyes: a huszadik nap a megjelölt nap hiányában érvényesül. A tévedés a kihirdetés és a hatálybalépés azonosságának feltételezéséből ered."
+        },
+        {
+          "text": "Ha a jogalkotási aktus megjelöl hatálybalépési napot, az a megjelölt napon lép hatályba; a huszadik nap csak a megjelölt nap hiányában érvényesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 297. cikk (1) bekezdése két tartami szabályt ad a jogalkotási aktusra. A jogalkotási aktusok a bennük megjelölt napon, illetve ennek hiányában a kihirdetésüket követő huszadik napon lépnek hatályba. A huszadik nap tehát kisegítő, nem a megjelölt nap helyettesítője. A kérdés a jogalkotási pálya határidejét kéri; a nem jogalkotási kihirdetési kör ettől elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "bd3f2d365ae8"
+    },
+    {
+      "question": "Mit ír elő az EUMSZ 296. cikk a jogi aktus típusának megválasztásáról, ha a Szerződések a típust nem határozzák meg?",
+      "options": [
+        {
+          "text": "Rendelet ott indokolt, ahol általános hatály és közvetlen alkalmazandóság kell; irányelv ott, ahol a cél uniós, a forma és az eszköz nemzeti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 296. cikk arányossági választása a 288. cikk típusai között történik. Rendelet ott indokolt, ahol általános hatály és közvetlen alkalmazandóság kell; irányelv ott, ahol a cél uniós, a forma és az eszköz a nemzeti hatóságokra marad; határozat ott, ahol a kötelezettség címzetthez kötött. A típusválasztás tehát a kötőerő és a címzetti kör igényéhez igazodik."
+        },
+        {
+          "text": "A Parlament és a Tanács a jogalkotási eljárás alatt szabadon fogadhat el felhatalmazáson alapuló vagy végrehajtási aktust a vita tárgyában.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a jogalkotási eljárás alatti eltérő aktus tilalmát törli. Az EUMSZ 296. cikk harmadik mondata szerint a jogalkotási aktusok tervezetének mérlegelésekor az Európai Parlament és a Tanács tartózkodik az adott területen alkalmazandó jogalkotási eljárásban előírtaktól eltérő jogi aktusok elfogadásától. A helyes: a vita tárgya nem minősíthető át felhatalmazáson alapuló vagy végrehajtási aktussá. A tévedés a procedurális fegyelem feloldásából ered."
+        },
+        {
+          "text": "Ha a Szerződések nem határozzák meg a típust, az intézmények azt eseti alapon, az arányosság elvével összhangban maguk választják meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a típusválasztás arányossága a rendelet–irányelv–határozat–ajánlás–vélemény keretében mozog. Ha a Szerződések nem határozzák meg, milyen típusú jogi aktust kell elfogadni, a típust az intézmények az alkalmazandó eljárásoknak megfelelően, eseti alapon maguk választják meg, az arányosság elvével összhangban. Az EUMSZ 296. cikk ezt a szabad, de arányos választást adja. A választás nem politikai ízlés, hanem a kötőerő és a címzetti kör igényéhez igazított döntés."
+        },
+        {
+          "text": "Ha a Szerződések meghatározzák a jogi aktus típusát, az intézmények attól az arányosságra hivatkozva szabadon eltérhetnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a szerződéses típuskötést arányossági szabad választássá lazítja. Az EUMSZ 296. cikk a szabad típusválasztást csak arra az esetre adja, ha a Szerződések nem határozzák meg a típust. A helyes: ha a Szerződések a típust rögzítik, az intézmények ahhoz kötöttek. A tévedés az eseti választás általánosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "3ea3783bf6f4"
+    },
+    {
+      "question": "Mi a 295. cikk szerinti intézményközi megállapodás helye a 288. cikk öt típusához képest?",
+      "options": [
+        {
+          "text": "Kötelező jellege a 288. cikk ajánlásától és véleményétől elválasztja: azok nem kötelezőek, a 295. cikk szerinti megállapodás a Szerződéseknek megfelelően kötelező lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötőerő az elhatárolás kulcsa. A 288. cikk záró mondata szerint az ajánlások és a vélemények nem kötelezőek; a 295. cikk szerinti megállapodás viszont a Szerződéseknek megfelelően kötelező lehet. Jogalkotási aktussá ettől még nem válik. A 296. cikk szerinti indokolási és típusválasztási szabály a 288. cikk aktusaira íródott; a 295. cikk saját, intézményközi síkon áll."
+        },
+        {
+          "text": "A Parlament, a Tanács és a Bizottság kötelező jellegű intézményközi megállapodásokat köthetnek együttműködésük szabályairól; ez nem rendelet, nem irányelv és nem határozat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 295. cikk a 288. cikk öt típusán kívüli, szerződésben nevesített forrást nyit. Az Európai Parlament, a Tanács és a Bizottság egyeztetnek, és közös megegyezéssel meghatározzák együttműködésük szabályait; e célból a Szerződéseknek megfelelően kötelező jellegű intézményközi megállapodásokat köthetnek. A megállapodás az intézményeket köti, de nem a 289. cikk szerinti jogalkotási aktus. Az egyéb uniós források szerződéses magja ez."
+        },
+        {
+          "text": "Az intézményközi megállapodás jogalkotási aktus, mert a Parlament és a Tanács is részt vesz benne.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a résztvevők köréből jogalkotási minősítést vezet le. Az EUMSZ 289. cikk (3) bekezdése szerint jogalkotási aktus csak jogalkotási eljárás keretében születik; a 295. cikk intézményközi megállapodása nem ilyen eljárás. A helyes: a megállapodás nem válik jogalkotási aktussá. A tévedés a Parlament–Tanács jelenlétének rendes jogalkotási eljárássá olvasásából ered."
+        },
+        {
+          "text": "Az intézményközi megállapodás a magyar jogalkotót is közvetlenül kötelezi, mint a 288. cikk szerinti rendelet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a címzetti kört a magyar jogalkotóra tágítja. Az EUMSZ 295. cikk szerinti intézményközi megállapodás az uniós intézményeket köti, a magyar jogalkotót közvetlenül nem. A helyes: a kötelező jelleg intézményközi, nem tagállami címzetti. A tévedés a 288. cikk rendeletének közvetlen alkalmazandóságának ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "ab7ba240d08d"
+    },
+    {
+      "question": "Mi a kettős és az egyedüli elnöki aláírás jelentősége a 297. cikk szerint?",
+      "options": [
+        {
+          "text": "A nem jogalkotási rendeletet, irányelvet és a külön címzetti kört nem tartalmazó határozatot az elfogadó intézmény elnöke írja alá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyedüli elnöki aláírás a nem jogalkotási aktus látható bélyege. Az EUMSZ 297. cikk (2) bekezdése szerint a rendelet, irányelv, valamint külön címzetti kört nem tartalmazó határozat formájában elfogadott nem jogalkotási aktusokat az azokat elfogadó intézmény elnöke írja alá. A 290. és a 291. cikk szerinti címke a kihirdetett szöveg élén jelenik meg. Így a jogalkotási vagy nem jogalkotási jelleg a 289. cikk (3) bekezdése, a címke és az aláírók száma együtt olvasható le."
+        },
+        {
+          "text": "A felhatalmazáson alapuló rendeletet is a Parlament és a Tanács elnöke írja alá, mert általános hatályú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kettős aláírást a rendelet hatályához köti. A felhatalmazáson alapuló rendelet nem jogalkotási aktus; a 297. cikk (2) bekezdése szerint a nem jogalkotási rendeletet az elfogadó intézmény elnöke írja alá. A helyes: a kettős aláírás a rendes jogalkotási aktusra, nem a felhatalmazáson alapuló rendeletre vonatkozik. A tévedés a 288. cikk általános hatályának összekeverése a 297. cikk aláírási szabályával."
+        },
+        {
+          "text": "A különleges jogalkotási eljárás aktusát is mindig a Parlament és a Tanács elnöke együttesen írja alá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a különleges eljárás aláírását a rendes eljárással azonosítja. Az EUMSZ 297. cikk (1) bekezdése szerint a különleges jogalkotási eljárás keretében elfogadott jogalkotási aktusokat az azokat elfogadó intézmény elnöke írja alá. A helyes: egyedüli elnöki aláírás a különleges eljárásban. A tévedés a 289. cikk (1) és (2) bekezdése szerinti eljárások aláírási szabályának összecseréléséből ered."
+        },
+        {
+          "text": "A rendes jogalkotási eljárásban elfogadott jogalkotási aktust a Parlament elnöke és a Tanács elnöke írja alá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kettős aláírás a rendes jogalkotási aktus külső ismérve. Az EUMSZ 297. cikk (1) bekezdése szerint a rendes jogalkotási eljárás keretében elfogadott jogalkotási aktusokat az Európai Parlament elnöke és a Tanács elnöke írja alá. A különleges eljárásban elfogadott jogalkotási aktust az azt elfogadó intézmény elnöke írja alá. A jogalkotási aktusokat a Hivatalos Lapban ki kell hirdetni. A két aláíró tehát a rendes eljárás látható bélyege."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "442a4ccaf3cd"
+    },
+    {
+      "question": "Hogyan helyezkedik el az uniós jog a magyar jogforrási rendben a 2/2019. (III. 5.) AB határozat szerint?",
+      "options": [
+        {
+          "text": "Az uniós jogra az Alaptörvény E) cikke vonatkozik, amely lex specialis a nemzetközi jogra vonatkozó Q) cikkhez képest.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a sui generis jelleg az E) cikk lex specialis jellegén áll. A 2/2019. (III. 5.) AB határozat szerint az uniós jognak mint belső jognak a nemzetközi jogtól elkülönülő jellegét mutatja, hogy arra az Alaptörvény E) cikke vonatkozik, amely lex specialis a Q) cikkhez képest. A 9/2018. (VII. 9.) AB határozat ezt megerősítette: a nemzetközi jogtól elválik az E) cikk (2) bekezdése alapján történő hatáskörtranszfer. Az uniós másodlagos aktus tehát nem a T) cikk hierarchiájának foka."
+        },
+        {
+          "text": "A felhatalmazáson alapuló és a végrehajtási aktus a magyar felhatalmazási rendelet analogonja a T) cikk hierarchiájában.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a magyar felhatalmazási rendelet fogalmát az uniós nem jogalkotási aktusra írja. A felhatalmazáson alapuló és a végrehajtási aktus az Alaptörvény E) cikke alapján alkalmazandó, nem a magyar felhatalmazási rendelet analogonja. A helyes: a 290. és a 291. cikk szerinti aktus sui generis uniós forrás a 2/2019. (III. 5.) AB határozat olvasatában. A tévedés a nemzeti és az uniós felhatalmazás fogalmi összecseréléséből ered."
+        },
+        {
+          "text": "Az uniós jog nem illeszkedik a T) cikk szerinti hazai jogforrási hierarchiába, hanem az E) cikk alkotmányos parancsa alapján kötelezően alkalmazandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az uniós jog rendszertani értelemben nem része a T) cikk szerinti jogforrási rendszernek. Uniós jog megsemmisítésére az Alkotmánybíróságnak nincs hatásköre, mert az Alaptörvény 24. cikke alapján a T) cikk (2) bekezdésében felsorolt jogszabályokhoz fűzhet ilyen jogkövetkezményt. Az E) cikk (3) bekezdése alapján az uniós belső jog kötelező magatartási szabályokat állapít meg. Az alkalmazási elsőbbség a hazai jogalkotó aktusaival szemben ebből következik."
+        },
+        {
+          "text": "Az Alkotmánybíróság megsemmisítheti az uniós rendeletet, ha az ellentétes a T) cikk (2) bekezdésében felsorolt magyar jogszabállyal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás megsemmisítési hatáskört tulajdonít az Alkotmánybíróságnak uniós jogra. A 2/2019. (III. 5.) AB határozat szerint uniós jog megsemmisítésére az Alkotmánybíróságnak nincs hatásköre, mert a 24. cikk a T) cikk (2) bekezdésében felsorolt jogszabályokra vonatkozik. A helyes: az uniós belső jog az E) cikk alapján áll, nem a T) cikk listáján. A tévedés a T) cikk rendelet-fogalmának ráírása a 288. cikk uniós rendeletére."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "dc63b0134797"
+    },
+    {
+      "question": "Milyen intézményi zárakat köt a 290. cikk (2) bekezdése a felhatalmazás gyakorlásához?",
+      "options": [
+        {
+          "text": "A kifogási zár hiányában a felhatalmazáson alapuló aktus csak a Parlament és a Tanács együttes jóváhagyásával léphet hatályba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás pozitív jóváhagyási kényszert ír a kifogás helyére. Az EUMSZ 290. cikk (2) bekezdés b) pontja negatív zár: az aktus akkor lép hatályba, ha a határidőn belül nem emelnek kifogást — nem kell együttes jóváhagyás. A helyes: a kifogás elmaradása engedi a hatálybalépést. A tévedés a visszavonás és a kifogás modalitásának összecseréléséből ered."
+        },
+        {
+          "text": "A felhatalmazás céljait és időtartamát a Bizottság a felhatalmazáson alapuló aktusban maga határozza meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a felhatalmazás kereteit a Bizottságra telepíti. Az EUMSZ 290. cikk (1) bekezdése szerint a felhatalmazást tartalmazó jogalkotási aktusokban kifejezetten meg kell határozni a felhatalmazás céljait, tartalmát, alkalmazási körét és időtartamát. A helyes: ezeket a jogalkotási aktus mondja ki, nem a felhatalmazáson alapuló aktus. A tévedés a keret és a kereten belüli aktus felcseréléséből ered."
+        },
+        {
+          "text": "A visszavonásnál és a kifogásnál a Parlament tagjainak többségével, a Tanács minősített többséggel jár el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szavazási küszöb a visszavonásnál és a kifogásnál kötött. Az EUMSZ 290. cikk (2) bekezdése szerint az a) és b) pont alkalmazásakor az Európai Parlament tagjainak többségével, a Tanács pedig minősített többséggel jár el. Ez a demokratikus kontroll intézményi súlyát mutatja. A küszöb nem helyettesíti azt a követelményt, hogy a felhatalmazás céljait, tartalmát, alkalmazási körét és időtartamát a jogalkotási aktusban ki kell mondani."
+        },
+        {
+          "text": "A Parlament vagy a Tanács a felhatalmazást visszavonhatja, illetve a felhatalmazáson alapuló aktus csak akkor léphet hatályba, ha a megjelölt határidőn belül nem emelnek kifogást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felhatalmazás gyakorlásához két intézményi zár kapcsolódik. Az EUMSZ 290. cikk (2) bekezdés a) pontja szerint az Európai Parlament vagy a Tanács úgy határozhat, hogy a felhatalmazást visszavonja; a b) pont szerint a felhatalmazáson alapuló jogi aktus csak akkor léphet hatályba, ha a Parlament vagy a Tanács a jogalkotási aktusban előírt határidőn belül nem emel ellene kifogást. A feltételeket a jogalkotási aktusban kifejezetten meg kell határozni. A két zár nem kumulatív kényszer: visszavonás, kifogás vagy mindkettő előírható."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "7b5055779b72"
+    },
+    {
+      "question": "Egy felhatalmazáson alapuló rendelet a Hivatalos Lapban megjelenik. Mely megállapítások állják meg a helyüket a kötőerőről és a minősítésről?",
+      "options": [
+        {
+          "text": "A felhatalmazáson alapuló rendeletre a 291. cikk „végrehajtási” címkéje is kötelező, mert a Bizottság fogadja el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a két címkézési parancsot összecsúsztatja. Az EUMSZ 290. cikk (3) bekezdése a „felhatalmazáson alapuló”, a 291. cikk (4) bekezdése a „végrehajtási” kifejezést írja elő — egymást kizáró címkék. A helyes: a felhatalmazáson alapuló rendelet címében a „felhatalmazáson alapuló” jelző áll. A tévedés a Bizottság mint elfogadó intézmény közös szerepéből ered."
+        },
+        {
+          "text": "A felhatalmazáson alapuló rendelet a 288. cikk szerint általános hatályú, teljes egészében kötelező és közvetlenül alkalmazandó, noha nem jogalkotási aktus.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 288. cikk kötőereje a 289. cikk minősítésétől függetlenül érvényesül. A felhatalmazáson alapuló rendelet is rendelet: általános hatályú, teljes egészében kötelező és közvetlenül alkalmazandó. A 289. cikk (3) bekezdése szerint mégsem jogalkotási aktus, mert nem jogalkotási eljárásban született. A címében a „felhatalmazáson alapuló” kifejezést fel kell tüntetni a 290. cikk (3) bekezdése szerint."
+        },
+        {
+          "text": "Az aláíró az elfogadó intézmény elnöke, nem a Parlament és a Tanács elnöke együttesen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nem jogalkotási rendelet aláírása egyedüli. Az EUMSZ 297. cikk (2) bekezdése szerint a rendelet formájában elfogadott nem jogalkotási aktusokat az azokat elfogadó intézmény elnöke írja alá. A kettős aláírás a rendes jogalkotási aktusra vonatkozik az (1) bekezdés szerint. A felhatalmazáson alapuló rendelet tehát a nem jogalkotási pályán áll aláírásban is."
+        },
+        {
+          "text": "A felhatalmazáson alapuló rendelet jogalkotási aktus, mert általános hatályú és a Hivatalos Lapban kihirdetik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kihirdetést és az általános hatályt jogalkotási minősítéssé emeli. Az EUMSZ 289. cikk (3) bekezdése a jogalkotási jelleget az eljáráshoz köti; a felhatalmazáson alapuló aktus a 290. cikk szerint nem jogalkotási. A helyes: a kihirdetés a 297. cikk (2) bekezdése szerint a nem jogalkotási rendeletre is vonatkozhat. A tévedés a külső ismérvek és a procedurális minősítés összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "c88f76e3bfbf"
+    },
+    {
+      "question": "Mely állítások tévesek a rendes jogalkotási eljárás fogalmáról az EUMSZ 289. cikk (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A rendes eljárásban a Parlament egyedül fogadja el az aktust, a Tanács csak véleményt ad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közös elfogadást aszimmetrikus különleges eljárássá torzítja. Az EUMSZ 289. cikk (1) bekezdése a Parlament és a Tanács közös elfogadását írja elő; a (2) bekezdés szerinti különleges eljárás az aszimmetrikus döntés. A helyes: a rendes eljárás közös aktus. A tévedés az (1) és a (2) bekezdés döntési szerkezetének összecseréléséből ered."
+        },
+        {
+          "text": "A Bizottság javaslatának főszabálya alól a 289. cikk (4) bekezdése soha nem enged kivételt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kezdeményezési főszabályt abszolút tilalommá keményíti. Az EUMSZ 289. cikk (4) bekezdése szerint jogalkotási aktusok a tagállamok egy csoportjának vagy a Parlament kezdeményezésére, az EKB ajánlására vagy a Bíróság, illetve az EBB kérelme alapján is elfogadhatók. A helyes: a főszabály a Bizottság javaslatán áll, de a (4) bekezdés szerződéses kivételeket nyit. A tévedés a kivétel nélküli olvasatból ered."
+        },
+        {
+          "text": "A rendes eljárás ajánlás vagy vélemény közös elfogadása is lehet, ha a Bizottság javaslatot tesz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a rendes eljárás formáit a nem kötelező aktusokra tágítja. Az EUMSZ 289. cikk (1) bekezdése szerint a rendes jogalkotási eljárás rendeleteknek, irányelveknek vagy határozatoknak a Bizottság javaslata alapján, a Parlament és a Tanács által történő közös elfogadásából áll. A helyes: ajánlás és vélemény nem tartozik a rendes eljárás formái közé. A tévedés a 288. cikk teljes katalógusának ráírása a 289. cikk (1) bekezdésére."
+        },
+        {
+          "text": "A rendes eljárás részletes menetét a 289. cikk (1) bekezdése önmagában kimerítően leírja, a 294. cikk nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a rendes eljárás részletes menetének helyét elrejti. Az EUMSZ 289. cikk (1) bekezdése kimondja: „Ezt az eljárást a 294. cikk határozza meg.” A 289. cikk a minősítéshez elégséges a közös elfogadás és a Bizottság javaslatának kimondásával, de a részletes menetet a 294. cikk adja. A helyes: a 294. cikk a rendes eljárás részletes menetét a 289. cikken kívülre helyezi. A tévedés a minősítés és a menetrend azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "83c2cd21b809"
+    },
+    {
+      "question": "Mi következik abból, ha a végrehajtásnak nem kell egységes feltételek szerint történnie?",
+      "options": [
+        {
+          "text": "A tagállamok nemzeti jogukban fogadják el a kötelező erejű uniós aktusok végrehajtásához szükséges intézkedéseket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egységes feltételek hiánya a tagállami pályán tart. Az EUMSZ 291. cikk (1) bekezdése a tagállami nemzeti intézkedést teszi főszabállyá. A (2) bekezdés csak akkor ruház végrehajtási hatáskört a Bizottságra, ha a végrehajtásnak egységes feltételek szerint kell történnie. Egységes feltételek nélkül tehát nem nyílik a bizottsági végrehajtási hatáskör. A Tanács végrehajtási hatásköre ettől függetlenül is kivételes marad."
+        },
+        {
+          "text": "Egységes feltételek hiányában a Tanács automatikusan átveszi a végrehajtási hatáskört az EUSZ 24. és 26. cikke alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Tanács kivételes végrehajtási hatáskörét automatizmussá teszi. Az EUMSZ 291. cikk (2) bekezdése a Tanácsra csak különleges és kellően indokolt esetben, valamint az EUSZ 24. és 26. cikkében előírt esetekben ruház végrehajtási hatáskört — és csak ha egységes feltételek kellenek. A helyes: a Tanács hatásköre kivételes, nem automatikus. A tévedés a KKBP-cikkek általános végrehajtási klauzulává olvasásából ered."
+        },
+        {
+          "text": "Egységes feltételek hiányában a 291. cikk (2) bekezdése szerinti bizottsági végrehajtási hatáskör nem nyílik meg; a végrehajtás az (1) bekezdés szerinti tagállami pályán marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a negatív hipotézis a tagállami főszabályt erősíti. Az EUMSZ 291. cikk (2) bekezdése csak akkor ruház végrehajtási hatáskört a Bizottságra, ha a végrehajtásnak egységes feltételek szerint kell történnie. Egységes feltételek nélkül tehát nincs bizottsági végrehajtási hatáskör, és az (1) bekezdés szerinti nemzeti intézkedés marad az út. A kontrolrendelet a (2) bekezdéses pályához kapcsolódik, nem a hiányhoz."
+        },
+        {
+          "text": "Egységes feltételek hiányában a Bizottság akkor is elfogadhat végrehajtási rendeletet, ha a kötelező aktus hallgat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a (2) bekezdés feltételét elhagyja. Az EUMSZ 291. cikk (2) bekezdése szerint végrehajtási hatáskörök akkor ruházhatók a Bizottságra, ha a végrehajtásnak egységes feltételek szerint kell történnie — ezt a kötelező aktus ruházza. A helyes: egységes feltételek és a hatáskör ruházása nélkül nincs bizottsági végrehajtási aktus. A tévedés a Bizottság általános végrehajtási hatáskörének feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "ad741bb65b21"
+    },
+    {
+      "question": "A törvény által felsoroltak közül mely elemeket kell kifejezetten meghatározni a felhatalmazást tartalmazó jogalkotási aktusban?",
+      "options": [
+        {
+          "text": "Elegendő a felhatalmazás általános megemlítése; a célok és az időtartam a Bizottság mérlegelésére bízható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a „kifejezetten meg kell határozni” követelményt feloldja. Az EUMSZ 290. cikk (1) bekezdése a célokat, tartalmat, alkalmazási kört és időtartamot a jogalkotási aktus kötelező tartalmaként sorolja. A helyes: e négy elem nem bízható a Bizottság mérlegelésére. A tévedés a felhatalmazás „üres keret” olvasatából ered."
+        },
+        {
+          "text": "A felhatalmazás időtartamát nem kell megjelölni, ha a Parlament kifogási jogot kap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kifogási zárat az időtartam-követelmény helyettesítőjévé teszi. Az EUMSZ 290. cikk (1) bekezdése az időtartamot a felhatalmazást tartalmazó jogalkotási aktus kötelező tartalmaként írja elő; a (2) bekezdés b) pontja szerinti kifogás ettől független zár. A helyes: az időtartamot ki kell mondani. A tévedés a két intézményi kontroll összecseréléséből ered."
+        },
+        {
+          "text": "Az alapvető elemekre vonatkozóan nem adható felhatalmazás; azok kizárólag a jogalkotási aktusban szabályozhatók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alapvető elemekre felhatalmazás nem nyílhat. Az EUMSZ 290. cikk (1) bekezdése szerint: „Az adott szabályozási terület alapvető elemei kizárólag a jogalkotási aktusban szabályozhatók, és ezekre vonatkozóan nem adható felhatalmazás.” A célok, a tartalom, az alkalmazási kör és az időtartam meghatározása ezért csak a nem alapvető rendelkezésekre ad keretet. A 290. cikk (3) bekezdése szerint a felhatalmazáson alapuló jogi aktusok címében a „felhatalmazáson alapuló” kifejezést fel kell tüntetni."
+        },
+        {
+          "text": "A felhatalmazás céljait, tartalmát, alkalmazási körét és időtartamát kifejezetten meg kell határozni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felhatalmazás keretei a jogalkotási aktusban állnak. Az EUMSZ 290. cikk (1) bekezdése szerint a felhatalmazást tartalmazó jogalkotási aktusokban kifejezetten meg kell határozni a felhatalmazás céljait, tartalmát, alkalmazási körét és időtartamát. Emellett a (2) bekezdés szerint a felhatalmazás gyakorlásának feltételeit is kifejezetten meg kell határozni. A Bizottság nem pótolhatja e kereteket a felhatalmazáson alapuló aktusban."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "c60c2c89502b"
+    },
+    {
+      "question": "Milyen többség kell a 22/2012. (V. 11.) AB határozat szerint ahhoz, hogy Magyarország Alaptörvényben megjelölt hatásköreinek további átadásához vezető szerződéshez felhatalmazást adjanak?",
+      "options": [
+        {
+          "text": "Elegendő a jelen lévő képviselők egyszerű többsége, mert az uniós jog már a T) cikk része.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az egyszerű többséget és a T) cikkbe illesztést is tévesen állítja. A 22/2012. (V. 11.) AB határozat kétharmados felhatalmazást követel a további hatáskörátadáshoz; a 2/2019. (III. 5.) AB határozat szerint az uniós jog nem része a T) cikk szerinti jogforrási rendszernek. A helyes: kétharmad és E) cikk szerinti sui generis sík. A tévedés a nemzetközi szerződési egyszerű többség ráírásából ered."
+        },
+        {
+          "text": "Az E) cikk (4) bekezdése szerinti alkotmányozó többség kell minden olyan szerződéshez, amely az Alaptörvényben megjelölt hatáskörök további átadásához vezet — az egyszerű törvényhozási többség nem elegendő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22/2012. (V. 11.) AB határozat a további hatáskörátadást kétharmados küszöbhöz köti. Minden olyan szerződéshez, amely Magyarország Alaptörvényben megjelölt hatásköreinek további átadásához vezet, az országgyűlési képviselők kétharmadának szavazatával adott felhatalmazás szükséges. Ez az E) cikk (4) bekezdésének alkotmányozó többségi igényéhez igazodik. A kérdés a többséget kéri, nem a kooperatív értelmezést."
+        },
+        {
+          "text": "Az országgyűlési képviselők kétharmadának szavazatával adott felhatalmazás szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22/2012. (V. 11.) AB határozat a további hatáskörátadáshoz alkotmányozó többséget köt. Minden olyan szerződéshez, amely Magyarország Alaptörvényben megjelölt hatásköreinek további átadásához vezet, az országgyűlési képviselők kétharmadának szavazatával adott felhatalmazás szükséges. Ez a magyar alkotmányos kapu a bővülő uniós hatáskörök előtt."
+        },
+        {
+          "text": "A további hatáskörátadáshoz elég a Kormány rendeletben adott felhatalmazása.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a felhatalmazást a Kormányra telepíti. A 22/2012. (V. 11.) AB határozat szerint az országgyűlési képviselők kétharmadának szavazatával adott felhatalmazás szükséges. A helyes: az Országgyűlés alkotmányozó többsége a kapu. A tévedés a végrehajtó hatalom uniós csatlakozási analogonjából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "253c7eccfba8"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a Hivatalos Lapban való kihirdetés a hatálybalépéshez a 297. cikk (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A jogalkotási aktus is az értesítéssel lép hatályba, ha a Parlament egyedül fogadta el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a jogalkotási aktusokat az értesítési pályára helyezi. Az EUMSZ 297. cikk (1) bekezdése szerint a jogalkotási aktusokat a Hivatalos Lapban ki kell hirdetni; a hatálybalépés a megjelölt nap, illetve a kihirdetést követő huszadik nap. A helyes: a jogalkotási aktus mindig kihirdetendő. A tévedés a különleges eljárás egyedüli aláírásának összekeverése az értesítési hatálybalépéssel."
+        },
+        {
+          "text": "A címzetti kört tartalmazó határozat hatálybalépése az értesítéshez kötött, nem a huszadik napos kisegítő szabályhoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címzetti határozat elkerüli a kihirdetési pályát. Az EUMSZ 297. cikk (2) bekezdése szerint az egyéb irányelvekről és a címzetti kört tartalmazó határozatokról értesíteni kell a címzettjeiket, és azok az értesítéssel lépnek hatályba. A huszadik nap a kihirdetett aktusokra vonatkozik, ha nap nincs megjelölve. A téves azonosítás a címzetti és a címzetti kör nélküli határozat között gyakori."
+        },
+        {
+          "text": "Az egyéb irányelvekről és a címzetti kört tartalmazó határozatokról értesíteni kell a címzetteket, és azok az értesítéssel lépnek hatályba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a nem jogalkotási aktusokat kettéválasztja. A valamennyi tagállamnak címzett rendelet és irányelv, valamint a címzetti kör nélküli határozat a Hivatalos Lapban jelenik meg; az egyéb irányelv és a címzetti határozat az értesítéssel lép hatályba. Az EUMSZ 297. cikk (2) bekezdése ezt expressis verbis rögzíti. A kihirdetés tehát nem univerzális a nem jogalkotási pályán."
+        },
+        {
+          "text": "A valamennyi tagállamnak címzett nem jogalkotási rendelet is csak az értesítéssel léphet hatályba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kihirdetési pályát az értesítési pályára cseréli. Az EUMSZ 297. cikk (2) bekezdése szerint a valamennyi tagállamnak címzett rendeleteket a Hivatalos Lapban ki kell hirdetni; ezek a megjelölt napon, illetve ennek hiányában a kihirdetést követő huszadik napon lépnek hatályba. A helyes: a minden tagállamnak szóló rendelet kihirdetendő. A tévedés a címzetti határozat szabályának ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "156ba59264a2"
+    },
+    {
+      "question": "Miben tér el a 288. cikk szerinti ajánlás a 295. cikk szerinti intézményközi megállapodástól?",
+      "options": [
+        {
+          "text": "Az ajánlás kötelező az intézményekre, az intézményközi megállapodás csak politikai nyilatkozat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kötőerőt megfordítja. Az EUMSZ 288. cikk szerint az ajánlás nem kötelező; a 295. cikk szerinti megállapodás a Szerződéseknek megfelelően kötelező lehet. A helyes: a kötelező jelleg a megállapodás oldalán állhat, az ajánlásén nem. A tévedés a „intézményközi” szó kötelezővé tevő olvasatának megfordításából ered."
+        },
+        {
+          "text": "Az intézményközi megállapodás a tagállamokat is közvetlenül kötelezi, mint a rendelet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a címzetti kört a tagállamokra tágítja. Az EUMSZ 295. cikk szerinti megállapodás az uniós intézményeket köti, a magyar jogalkotót közvetlenül nem. A rendelet ezzel szemben az EUMSZ 288. cikk szerint általános hatályú, teljes egészében kötelező és valamennyi tagállamban közvetlenül alkalmazandó. A helyes: intézményközi kötőerő, nem tagállami közvetlen alkalmazandóság. A tévedés a rendelet hatásának ráírása az intézményközi megállapodásra."
+        },
+        {
+          "text": "Az ajánlás nem kötelező; a 295. cikk szerinti intézményközi megállapodás a Szerződéseknek megfelelően kötelező lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötőerő az elhatárolás tengelye. Az EUMSZ 288. cikk záró mondata szerint az ajánlások és a vélemények nem kötelezőek. A 295. cikk szerint a Parlament, a Tanács és a Bizottság a Szerződéseknek megfelelően kötelező jellegű intézményközi megállapodásokat köthetnek. A megállapodás az intézményeket köti, de nem válik jogalkotási aktussá. A 292. cikk tanácsi ajánlása ugyanezen nem kötelező ágon áll."
+        },
+        {
+          "text": "Az intézményközi megállapodás nem rendelet, nem irányelv és nem határozat, és nem a 289. cikk szerinti jogalkotási aktus.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 295. cikk a 288. cikk öt típusán kívüli forrást nyit. A megállapodás az intézmények együttműködésének belső jogát adja, intézményközi síkon. A 296. cikk szerinti indokolási és típusválasztási szabály a 288. cikk aktusaira íródott; a 295. cikk ettől elválik. A kötelező jelleg tehát nem teszi a megállapodást a 288. cikk katalógusának elemévé."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "0036b1c2b634"
+    },
+    {
+      "question": "Mit ír elő az EUMSZ 290. cikk (3) bekezdése a felhatalmazáson alapuló aktus címéről, és mi a címke szerepe?",
+      "options": [
+        {
+          "text": "A címkézési parancs a 290. és a 291. cikk szerinti nem jogalkotási jelleg leolvashatóságát védi a Hivatalos Lapban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címke a procedurális minősítést a külső ismérvekhez köti. A felhatalmazáson alapuló vagy a végrehajtási jelző nélkül a nem jogalkotási jelleg nem lenne a címről leolvasható. A 297. cikk szerinti kihirdetett szöveg élén jelenik meg a címke. A forrás semmisséget vagy automatikus átminősítést a címke hiányához nem rendel."
+        },
+        {
+          "text": "A 290. cikk (3) bekezdése szerint a felhatalmazáson alapuló jogi aktusok címében fel kell tüntetni a „felhatalmazáson alapuló” kifejezést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címkézési parancs kötelező a Hivatalos Lapban megjelenő szöveg élén. Az EUMSZ 290. cikk (3) bekezdése szerint a felhatalmazáson alapuló jogi aktusok címében fel kell tüntetni a „felhatalmazáson alapuló” kifejezést. A 291. cikk (4) bekezdése párhuzamosan a „végrehajtási” kifejezést írja elő. A címke a szerződéses formai követelmény, nem a 288. cikk elnevezésének pótléka."
+        },
+        {
+          "text": "A „végrehajtási” kifejezés a felhatalmazáson alapuló aktus címében is elfogadható helyettesítő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a két címkét felcserélhetővé teszi. Az EUMSZ 290. cikk (3) bekezdése a „felhatalmazáson alapuló”, a 291. cikk (4) bekezdése a „végrehajtási” kifejezést írja elő — a funkció szerint. A helyes: a felhatalmazáson alapuló aktus címében a „felhatalmazáson alapuló” jelző kötelező. A tévedés a közös nem jogalkotási jellegből eredő címkecseréből fakad."
+        },
+        {
+          "text": "A címke hiánya a felhatalmazáson alapuló rendeletet automatikusan jogalkotási aktussá minősíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a címkézési hibát procedurális minősítéssé emeli. Az EUMSZ 289. cikk (3) bekezdése szerint a jogalkotási jelleg az eljárásból következik, nem a címből; a 290. cikk (3) bekezdése a címkét kötelezővé teszi, de hiánya nem változtatja meg a 289. cikk szerinti minősítést. A helyes: a címke kötelező, de a minősítés az eljáráshoz kötött. A tévedés a külső ismérv és a procedurális fogalom összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "bc99151956ff"
+    },
+    {
+      "question": "Mely állítások tévesek az uniós aktus magyar jogforrási elhelyezéséről?",
+      "options": [
+        {
+          "text": "Az ajánlás és a vélemény a magyar jogalkotót ugyanúgy kötelezi, mint a rendelet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nem kötelező forrásokat kötőerővel ruházza fel. Az EUMSZ 288. cikk szerint az ajánlások és a vélemények nem kötelezőek; a magyar olvasatban sem válnak a T) cikk szerinti kötelező forrássá. A helyes: az ajánlás és a vélemény nem kötelező. A tévedés a 288. cikk teljes katalógusának egységes kötőerővé olvasásából ered."
+        },
+        {
+          "text": "Az uniós irányelv maga a T) cikk szerinti forrás; az átültető törvény csak kiegészítő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az irányelv és az átültető aktus viszonyát megfordítja. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően minden címzett tagállamra kötelező, a forma és az eszközök megválasztását a nemzeti hatóságokra hagyja; a magyar átültető törvény vagy rendelet a T) cikk szerinti forrás, az uniós irányelv maga nem. A helyes: az irányelv uniós forrás az E) cikk alapján, az átültető aktus a hazai hierarchiában áll. A tévedés a célkötelem és a hazai forrás azonosításából ered."
+        },
+        {
+          "text": "Az uniós rendelet a T) cikk (2) bekezdése szerinti magyar rendelet-fogalommal azonos, ezért az Alkotmánybíróság megsemmisítheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 288. cikk rendeletét a T) cikk rendeletével azonosítja. A 2/2019. (III. 5.) AB határozat szerint az uniós rendelet közvetlen alkalmazandósága nem a T) cikk (2) bekezdése szerinti rendelet-fogalom, hanem a 288. cikk saját joghatása; uniós jog megsemmisítésére az Alkotmánybíróságnak nincs hatásköre. A helyes: az uniós aktus az E) cikk alapján alkalmazandó. A tévedés a hazai és az uniós rendelet-fogalom összecseréléséből ered."
+        },
+        {
+          "text": "Az E) cikk (2) és (4) bekezdése szerinti nemzetközi szerződések a hatálybalépésük után elveszítik nemzetközi szerződési eredetüket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nemzetközi szerződési eredet megőrzését tagadja. A 2/2019. (III. 5.) AB határozat szerint az E) cikk (2) és (4) bekezdése szerinti nemzetközi szerződések a hatálybalépésüket követően az uniós jog részét képezik, azonban nemzetközi szerződési eredetüket nem veszítik el; erre a 61/2008. (IV. 29.) AB határozat is utalt. A helyes: uniós jogi rész + megőrzött nemzetközi eredet. A tévedés a teljes „belsősödés” olvasatából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "02da8a7de9fb"
+    },
+    {
+      "question": "A Bizottság javaslatára a Tanács ajánlást fogad el. Mely megállapítások helyesek az aktus minősítéséről?",
+      "options": [
+        {
+          "text": "Az ajánlást a Parlament elnöke és a Tanács elnöke együttesen írja alá, mint a rendes jogalkotási aktust.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kettős aláírást az ajánlásra írja. Az EUMSZ 297. cikk (1) bekezdése a kettős aláírást a rendes jogalkotási eljárás keretében elfogadott jogalkotási aktusokra köti; az ajánlás nem jogalkotási aktus. A helyes: a 292. cikk szerinti ajánlás nem esik a rendes jogalkotási aktus aláírási rendje alá. A tévedés a Tanács részvételének kettős aláírássá olvasásából ered."
+        },
+        {
+          "text": "Az aktus a 292. cikk szerinti ajánlás: nem felhatalmazáson alapuló és nem végrehajtási, és a 288. cikk szerint nem kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tanácsi ajánlás a felhatalmazás–végrehajtás tengelyén kívül áll. Az EUMSZ 292. cikk szerint a Tanács ajánlásokat fogad el, és a Bizottság javaslata alapján jár el a megjelölt esetekben. Az ajánlás a 288. cikk záró mondata szerint nem kötelező. Sem a „felhatalmazáson alapuló”, sem a „végrehajtási” címke nem illik rá. A 289. cikk (1)–(2) bekezdése az ajánlást a jogalkotási eljárás formái közé sem engedi be."
+        },
+        {
+          "text": "A tanácsi ajánlás a 291. cikk szerinti végrehajtási aktus, mert a Tanács fogadja el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Tanács mint elfogadó intézményt végrehajtási hatáskörré olvassa. Az EUMSZ 291. cikk a végrehajtási jogi aktusról szól, amely kötelező, és címében a „végrehajtási” kifejezés áll; a 292. cikk ajánlása nem kötelező. A helyes: a tanácsi ajánlás nem végrehajtási aktus. A tévedés a Tanács kétféle szerepének összekeveréséből ered."
+        },
+        {
+          "text": "A Bizottság javaslatának megléte önmagában nem teszi az ajánlást jogalkotási aktussá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a javaslat a 292. cikk eljárási indítója, nem a 289. cikk szerinti jogalkotási minősítés. Az EUMSZ 289. cikk (3) bekezdése szerint jogalkotási aktus csak jogalkotási eljárás keretében születik; a rendes eljárás formái rendelet, irányelv vagy határozat. A Bizottság javaslatán alapuló tanácsi ajánlás tehát marad nem kötelező, nem jogalkotási forrás. A téves azonosítás a „Bizottság javaslatára” fordulat közös előfordulásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "0bfe161cd709"
+    },
+    {
+      "question": "Mit rendel a 296. cikk harmadik mondata a jogalkotási eljárás alatti eljárási fegyelemről?",
+      "options": [
+        {
+          "text": "A tilalom zárja a vita tárgyának felhatalmazáson alapuló vagy végrehajtási aktussá minősítését, illetve ajánlással vagy véleménnyel való helyettesítését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a 290–291. cikk és a nem kötelező források kijátszását is zárja. A jogalkotási eljárás alatt nem lehet a vita tárgyát felhatalmazáson alapuló vagy végrehajtási aktussá minősíteni, és nem lehet ajánlással vagy véleménnyel helyettesíteni a 289. cikk szerinti rendeletet, irányelvet vagy határozatot. A 296. cikk tehát nem csupán indokolási szabály, hanem eljárási fegyelem. A típusválasztás arányossága ettől elválik: az az első mondat tárgya."
+        },
+        {
+          "text": "A tilalom feloldható, ha a Parlament és a Tanács együttes határozattal átminősíti a tervezetet végrehajtási aktussá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a tilalmat együttes határozattal megkerülhetővé teszi. Az EUMSZ 296. cikk harmadik mondata a tartózkodást írja elő az eltérő jogi aktusok elfogadásától; együttes átminősítési klauzula nincs. A helyes: a jogalkotási eljárás alatt az előírt formát kell követni. A tévedés a társjogalkotói szabadság korlátlan olvasatából ered."
+        },
+        {
+          "text": "A tilalom csak a Bizottságra vonatkozik; a Parlament és a Tanács szabadon vált típust.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a címzetteket elcsúsztatja. Az EUMSZ 296. cikk harmadik mondata expressis verbis az Európai Parlamentet és a Tanácsot kötelezi tartózkodásra. A helyes: a fegyelem a két társjogalkotót köti. A tévedés a Bizottság kezdeményezési szerepének ráírása a 296. cikk harmadik mondatára."
+        },
+        {
+          "text": "A Parlament és a Tanács a jogalkotási aktusok tervezetének mérlegelésekor tartózkodik az adott eljárásban előírtaktól eltérő jogi aktusok elfogadásától.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harmadik mondat a procedurális minősítést védi. Az EUMSZ 296. cikk szerint a jogalkotási aktusok tervezetének mérlegelésekor az Európai Parlament és a Tanács tartózkodik az adott területen alkalmazandó jogalkotási eljárásban előírtaktól eltérő jogi aktusok elfogadásától. A jogalkotási forma nem cserélhető le nem jogalkotási aktusra a vita alatt. Ez a 289. cikk (3) bekezdése szerinti minősítést is erősíti."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "a152e155e6de"
+    }
+  ]
+}

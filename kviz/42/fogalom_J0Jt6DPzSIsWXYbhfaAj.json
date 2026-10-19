@@ -1,0 +1,765 @@
+{
+  "id": "J0Jt6DPzSIsWXYbhfaAj",
+  "sorszam": 42,
+  "cim": "Az adatkezelési elvek és az érintett jogai",
+  "generationType": "fogalom",
+  "title": "42. Az adatkezelési elvek és az érintett jogai",
+  "questions": [
+    {
+      "question": "Mit rögzít a GDPR 5. cikke a személyes adatok kezelésének elvi rendjeként?",
+      "options": [
+        {
+          "text": "Az elszámoltathatóság önálló, hetedik anyagi elv az (1) bekezdésben, és csak a felügyeleti hatóság kérésére vizsgálandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elszámoltathatóság nem az (1) bekezdés hetedik anyagi elve. A helyes: a GDPR 5. cikk (1) bekezdése hat anyagi elvet rögzít, a (2) bekezdés pedig az adatkezelő felelősségét és igazolási kötelezettségét írja elő. A tévedés forrása az (1) és a (2) bekezdés szerkezetének összecsúsztatása: a bizonyítási teher a hat elvre támaszkodik, de nem bővíti azok taxatív listáját."
+        },
+        {
+          "text": "A célhoz kötöttség megengedi a gyűjtéskor meg nem határozott, utólag szabadon alakítható további kezelést, ha az adatkezelő belső szabályzata azt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a célhoz kötöttség a gyűjtéskor meghatározott, egyértelmű és jogszerű célt kíván. A helyes: a GDPR 5. cikk (1) bekezdésének b) pontja szerint a gyűjtés csak meghatározott, egyértelmű és jogszerű célból történhet, és tilos az azzal össze nem egyeztethető további kezelés; a 89. cikk (1) bekezdése szerinti közérdekű archiválás, kutatás és statisztika nem minősül össze nem egyeztethetőnek. A tévedés a belső szabályzatot emeli a célt meghatározó joghely fölé."
+        },
+        {
+          "text": "A jogszerűség, a tisztességes eljárás és az átláthatóság együttes, az érintett felé fordítható követelmény, nem három egymást helyettesítő fordulat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három elem együttesen kötelez. A GDPR 5. cikk (1) bekezdésének a) pontja szerint a személyes adatok kezelését jogszerűen és tisztességesen, valamint az érintett számára átlátható módon kell végezni. A (39) preambulumbekezdés szerint az érintettet a kockázatokról, a garanciákról és a joggyakorlás módjáról is tájékoztatni kell. A tisztesség és az átláthatóság tehát nem opcionális kiegészítés a jogszerűség mellett."
+        },
+        {
+          "text": "Az (1) bekezdés hat anyagi elvet sorol fel, a (2) bekezdés pedig az elszámoltathatóságot: az adatkezelő felel a megfelelésért, és képesnek kell lennie azt igazolni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a II. fejezet anyagi és igazolási rendje így válik kettőssé. A GDPR 5. cikk (1) bekezdése a jogszerűséget, tisztességet és átláthatóságot, a célhoz kötöttséget, az adattakarékosságot, a pontosságot, a korlátozott tárolhatóságot, valamint az integritást és bizalmas jelleget rögzíti. A GDPR 5. cikk (2) bekezdése szerint az adatkezelő felelős az (1) bekezdésnek való megfelelésért, és képesnek kell lennie e megfelelés igazolására. Az elszámoltathatóság így mind a hat elv bizonyítási terhe, nem utólagos dísz."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "1e7b9141a29d"
+    },
+    {
+      "question": "Miben áll a célhoz kötöttség és a korlátozott tárolhatóság elve a GDPR 5. cikke szerint?",
+      "options": [
+        {
+          "text": "A korlátozott tárolhatóság megköveteli, hogy minden személyes adatot legkésőbb egy év elteltével töröljenek, kivéve a különleges kategóriákat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet nem ír egyéves általános törlési határidőt. A helyes: a GDPR 5. cikk (1) bekezdésének e) pontja szerint az azonosíthatóság a cél eléréséhez szükséges időhöz kötött, és hosszabb tárolás a 89. cikk (1) bekezdése szerinti archiválási, kutatási vagy statisztikai célból, megfelelő intézkedések mellett megengedett. A tévedés egy kitalált naptári küszöböt ír a célszerű időmérték helyére."
+        },
+        {
+          "text": "A korlátozott tárolhatóság az azonosíthatóságot a cél eléréséhez szükséges időhöz köti; hosszabb tárolás a 89. cikk (1) bekezdése szerinti archiválási, kutatási vagy statisztikai célból, megfelelő technikai és szervezési intézkedések mellett lehetséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tárolás időbeli kerete a célhoz igazodik. A GDPR 5. cikk (1) bekezdésének e) pontja szerint a tárolás olyan formában történjen, amely az érintettek azonosítását csak a kezelés céljainak eléréséhez szükséges ideig teszi lehetővé. Hosszabb tárolás csak a 89. cikk (1) bekezdése szerinti közérdekű archiválás, tudományos és történelmi kutatás vagy statisztika esetén jöhet szóba, a rendelet szerinti megfelelő intézkedésekre figyelemmel. A pontosság elve ehhez képest a pontatlan adatok haladéktalan törlését vagy helyesbítését követeli."
+        },
+        {
+          "text": "A célhoz kötöttség a gyűjtéskor meghatározott, egyértelmű és jogszerű célt kíván, és tilalmazza az azzal össze nem egyeztethető további kezelést; a 89. cikk (1) bekezdése szerinti archiválás, kutatás és statisztika nem minősül össze nem egyeztethetőnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a cél a gyűjtéskor rögzül, a további kezelés összeegyeztethetősége szűk. A GDPR 5. cikk (1) bekezdésének b) pontja szerint: „gyűjtése csak meghatározott, egyértelmű és jogszerű célból történjen, és azokat ne kezeljék ezekkel a célokkal össze nem egyeztethető módon”. A 89. cikk (1) bekezdése szerinti közérdekű archiválás, tudományos és történelmi kutatás, valamint statisztika kivételként nem minősül össze nem egyeztethetőnek. A céltól eltérő további kezelés külön összeegyeztethetőségi próbát is kaphat a 6. cikk (4) bekezdése szerint."
+        },
+        {
+          "text": "A célhoz kötöttség csak a gyűjtés módját szabályozza; a későbbi, eltérő célú kezelés szabad, ha az adatkezelő jogos érdeket állít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a célhoz kötöttség a további kezelést is korlátozza. A helyes: a GDPR 5. cikk (1) bekezdésének b) pontja tiltja az eredeti céllal össze nem egyeztethető további kezelést, a 6. cikk (4) bekezdése pedig — hozzájárulás vagy a 23. cikk (1) bekezdése szerinti jog hiányában — összeegyeztethetőségi próbát ír elő. A tévedés a jogos érdeket (6. cikk (1) bekezdés f) pont) a célhoz kötöttség felülírásaként kezeli, holott az csak jogalap, nem célszabadság."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "0c885f31791e"
+    },
+    {
+      "question": "Mely megállapítások állják meg a helyüket az adatkezelés jogszerűségének GDPR 6. cikk szerinti zárt listájáról?",
+      "options": [
+        {
+          "text": "A jogos érdek — az f) pont — nem alkalmazható a közhatalmi szervek által feladataik ellátása során végzett adatkezelésre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közhatalmi feladatellátásnál a jogos érdek kizárt. A GDPR 6. cikk (1) bekezdése szerint: „Az első albekezdés f) pontja nem alkalmazható a közhatalmi szervek által feladataik ellátása során végzett adatkezelésre.” A (47) preambulumbekezdés szerint a közhatalmi szerv jogalapját a jogalkotónak kell megállapítania. A c) és e) pont szerinti jogalapot uniós vagy tagállami jognak kell rögzítenie a (3) bekezdés szerint."
+        },
+        {
+          "text": "A 6. cikk (1) bekezdésének listája példálózó: a tagállam bármely további jogalapot is bevezethet a rendelet mellett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 6. cikk (1) bekezdésének taxatív a)–f) pontjait példálózó katalógussá lazítja. A helyes: a GDPR 6. cikk (1) bekezdése szerint a kezelés kizárólag akkor jogszerű, ha legalább az a)–f) pontok egyike teljesül. A (2)–(3) bekezdés a c) és e) pontnál csak konkrétabb uniós vagy tagállami rendelkezéseket enged, nem új, hetedik jogalapot. A tévedés a (2) bekezdés kiigazító hatáskörét összekeveri a jogalap-katalógus bővítésével."
+        },
+        {
+          "text": "A jogos érdek a közhatalmi szerv feladatellátása során is elsődleges jogalap, ha a szerv belső mérlegelése azt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közhatalmi szerv feladatellátásánál a jogos érdek nem alkalmazható. A helyes: a GDPR 6. cikk (1) bekezdésének záró mondata kifejezetten kizárja az f) pontot a közhatalmi szervek feladataik ellátása során végzett kezelésénél; a (47) preambulumbekezdés szerint e szerv jogalapját a jogalkotónak kell megállapítania. A tévedés a belső mérlegelést a jogalkotói jogalap-megállapítás helyére teszi."
+        },
+        {
+          "text": "A kezelés kizárólag akkor és annyiban jogszerű, amennyiben legalább az a)–f) pontok egyike teljesül: hozzájárulás, szerződés, jogi kötelezettség, létfontosságú érdek, közérdekű vagy közhatalmi feladat, illetve jogos érdek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalapok taxatívak, nem példálózók. A GDPR 6. cikk (1) bekezdése szerint a személyes adatok kezelése kizárólag akkor és annyiban jogszerű, amennyiben legalább az a)–f) pontok egyike teljesül. A hozzájárulás, a szerződés teljesítése vagy a szerződéskötést megelőző, az érintett kérésére tett lépés, a jogi kötelezettség, a létfontosságú érdek, a közérdekű vagy közhatalmi feladat és a jogos érdek tehát kimerítő sor. Más, a listán kívüli „általános közérdek” önmagában nem nyit jogalapot."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "baa0cc9f1484"
+    },
+    {
+      "question": "Milyen operatív feltételeket köt a GDPR 7. cikke a hozzájáruláshoz mint jogalaphoz?",
+      "options": [
+        {
+          "text": "A hozzájárulás visszavonása visszamenőlegesen megsemmisíti a visszavonás előtti, hozzájáruláson alapuló kezelés jogszerűségét is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a visszavonás nem hat vissza a korábbi jogszerűségre. A helyes: a GDPR 7. cikk (3) bekezdése szerint a hozzájárulás visszavonása nem érinti a hozzájáruláson alapuló, a visszavonás előtti adatkezelés jogszerűségét, és a visszavonást ugyanolyan egyszerű módon kell lehetővé tenni, mint a megadást. A tévedés a visszavonást semmisségi hatállyal ruházza fel a múltbeli kezelésre."
+        },
+        {
+          "text": "Más ügyekre is kiterjedő írásbeli nyilatkozatban a hozzájárulási kérelmet egyértelműen el kell különíteni, érthető és könnyen hozzáférhető formában, világos és egyszerű nyelvezettel; a rendeletet sértő rész kötelező erővel nem bír.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hozzájárulás nem olvadhat bele más ügyekbe. A GDPR 7. cikk (2) bekezdése szerint a hozzájárulás iránti kérelmet a más ügyektől egyértelműen megkülönböztethető módon kell előadni, érthető és könnyen hozzáférhető formában, világos és egyszerű nyelvezettel. A nyilatkozat bármely, a rendeletet sértő része kötelező erővel nem bír. A (32) preambulumbekezdés szerint a hallgatás, az előre bejelölt négyzet vagy a nem cselekvés nem minősül hozzájárulásnak."
+        },
+        {
+          "text": "A szerződés teljesítéséhez nem szükséges adatok kezeléséhez adott hozzájárulás önkéntességét a 7. cikk nem vizsgálja; az önkéntesség csak a gyermekeknél mérvadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az önkéntesség próbáját a gyermekek 8. cikkére szűkíti, miközben a 7. cikk (4) bekezdése általános. A helyes: a GDPR 7. cikk (4) bekezdése szerint annak megállapításakor, hogy a hozzájárulás önkéntes-e, figyelembe kell venni, hogy a szerződés teljesítésének — beleértve a szolgáltatások nyújtását is — feltételéül szabták-e olyan személyes adatok kezeléséhez való hozzájárulást, amelyek a szerződéshez nem szükségesek. A (43) preambulumbekezdés az egyenlőtlen viszonyt és a szerződéshez nem szükséges hozzájárulás kikötését az önkéntesség ellen hatónak tekinti. A tévedés a gyermekek életkori küszöbét keveri az önkéntesség általános próbájával."
+        },
+        {
+          "text": "Ha a kezelés hozzájáruláson alapul, az adatkezelőnek képesnek kell lennie igazolni, hogy az érintett hozzájárult; a visszavonás bármikor lehetséges, és ugyanolyan egyszerű módon kell lehetővé tenni, mint a megadást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 7. cikk a 6. cikk (1) bekezdésének a) pontját operatív feltételekhez köti. A GDPR 7. cikk (1) bekezdése szerint: „Ha az adatkezelés hozzájáruláson alapul, az adatkezelőnek képesnek kell lennie annak igazolására, hogy az érintett személyes adatainak kezeléséhez hozzájárult.” A (3) bekezdés szerint a hozzájárulás bármikor visszavonható, a visszavonás előtti kezelés jogszerűségének sérelme nélkül, és a visszavonást ugyanolyan egyszerű módon kell lehetővé tenni, mint a megadást. A visszavonás előtt az érintettet erről tájékoztatni kell."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "c09fdce9dec1"
+    },
+    {
+      "question": "Mikor jogszerű a gyermek hozzájárulása a közvetlenül gyermekeknek kínált, információs társadalommal összefüggő szolgáltatásoknál?",
+      "options": [
+        {
+          "text": "A tagállamok e célból alacsonyabb, de a tizenharmadik életévnél nem alacsonyabb életkort is megállapíthatnak; a 8. cikk (3) bekezdése a tagállamok általános szerződési jogát — a gyermek által kötött szerződés érvényességét, formáját, hatályát — nem érinti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzeti eltérés alsó korlátja a tizenharmadik életév. A GDPR 8. cikk (1) bekezdése szerint a tagállamok e célokból jogszabályban a tizenhatodiknál alacsonyabb, de a tizenharmadik életévnél nem alacsonyabb életkort is megállapíthatnak. A (3) bekezdés szerint az (1) bekezdés nem érinti a tagállamok általános szerződési jogát, például a gyermek által kötött szerződések érvényességére, formájára vagy hatályára vonatkozó szabályokat. A (38) preambulumbekezdés a marketinget, a profilalkotást és a közvetlenül a gyermeknek nyújtott szolgáltatások során végzett gyűjtést külön kiemeli."
+        },
+        {
+          "text": "A gyermek hozzájárulása a tizennyolcadik életév betöltéséig soha nem elegendő; minden esetben kizárólag a szülői felügyeletet gyakorló hozzájárulása nyitja meg a kezelést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály a tizenhatodik életév, nem a tizennyolcadik. A helyes: a GDPR 8. cikk (1) bekezdése szerint a kezelés akkor jogszerű, ha a gyermek a tizenhatodik életévét betöltötte; ennél fiatalabbnál a szülői felügyeletet gyakorló hozzájárulása vagy engedélye kell. A tagállam a tizenharmadik életévig csökkentheti a küszöböt. A tévedés a nagykorúságot keveri a 8. cikk információs társadalmi szolgáltatási küszöbével."
+        },
+        {
+          "text": "A tagállam bármilyen alacsony életkort megállapíthat, akár a tizedik életévnél is, ha a szolgáltatás „gyermekbarát” tájékoztatást ad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti eltérés alsó korlátja a tizenharmadik életév. A helyes: a GDPR 8. cikk (1) bekezdése szerint a tagállamok a tizenhatodiknál alacsonyabb, de a tizenharmadik életévnél nem alacsonyabb életkort állapíthatnak meg. A tévedés a „gyermekbarát” tájékoztatást emeli a rendelet kógens alsó korlátja fölé."
+        },
+        {
+          "text": "Főszabály szerint a kezelés akkor jogszerű, ha a gyermek a tizenhatodik életévét betöltötte; ennél fiatalabb gyermeknél a szülői felügyeletet gyakorló hozzájárulása vagy engedélye kell, és csak az így fedezett mértékben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 8. cikk a 6. cikk (1) bekezdésének a) pontját életkori küszöbhöz köti. A GDPR 8. cikk (1) bekezdése szerint a közvetlenül gyermekeknek kínált, információs társadalommal összefüggő szolgáltatásoknál a kezelés akkor jogszerű, ha a gyermek a tizenhatodik életévét betöltötte. A tizenhatodik életévét be nem töltött gyermeknél a szülői felügyeletet gyakorló hozzájárulása vagy engedélye kell, és csak az így fedezett mértékben. Az adatkezelő a rendelkezésre álló technológia figyelembevételével észszerű erőfeszítéseket tesz e hozzájárulás vagy engedély ellenőrzésére."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "9fe276fdb871"
+    },
+    {
+      "question": "Mit tilt és milyen szerkezettel old fel a GDPR 9. cikke a személyes adatok különleges kategóriáinak kezelésénél?",
+      "options": [
+        {
+          "text": "Az (1) bekezdés tiltja a faji vagy etnikai származásra, politikai véleményre, vallási vagy világnézeti meggyőződésre, szakszervezeti tagságra utaló adatok, valamint a genetikai és biometrikus, egészségügyi, illetve a szexuális életre vagy irányultságra vonatkozó adatok kezelését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különleges kategóriák főszabálya a tilalom. A GDPR 9. cikk (1) bekezdése szerint: „A faji vagy etnikai származásra, politikai véleményre, vallási vagy világnézeti meggyőződésre vagy szakszervezeti tagságra utaló személyes adatok, valamint a természetes személyek egyedi azonosítását célzó genetikai és biometrikus adatok, az egészségügyi adatok és a természetes személyek szexuális életére vagy szexuális irányultságára vonatkozó személyes adatok kezelése tilos.” A (51) preambulumbekezdés szerint ezeknek az adatoknak a kezelése az alapvető jogokra jelentős kockázatot hordoz. A fénykép csak akkor válik biometrikus adattá, ha speciális eszközzel az egyedi azonosítást vagy hitelesítést szolgálja."
+        },
+        {
+          "text": "A fénykép mindig különleges adatnak minősül, mert arcképet tartalmaz, függetlenül a kezelés módjától.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fénykép nem automatikusan különleges adat. A helyes: a (51) preambulumbekezdés szerint a fénykép biometrikus adattá akkor válik, ha a természetes személy egyedi azonosítását vagy hitelesítését lehetővé tevő speciális eszközzel kezelik; a GDPR 9. cikk (1) bekezdése a genetikai és biometrikus adatokat az egyedi azonosítás céljához köti. A tévedés a képi megjelenést azonosítja a biometrikus kategóriával."
+        },
+        {
+          "text": "A (2) bekezdés a tilalmat zárt kivétellistával oldja fel; a hozzájárulás itt kifejezett, és uniós vagy tagállami jog a tilalmat a hozzájárulással feloldhatatlanná is teheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kivételek taxatívak, a hozzájárulás szigorúbb. A GDPR 9. cikk (2) bekezdésének a) pontja kifejezett hozzájárulást kíván, kivéve ha uniós vagy tagállami jog úgy rendelkezik, hogy a tilalom a hozzájárulással sem oldható fel. A foglalkoztatási–szociális, létfontosságú, nonprofit szervezeti, nyilvánosságra hozott, jogi igényes, jelentős közérdekű, egészségügyi, népegészségügyi és a 89. cikk (1) bekezdése szerinti archiválási–kutatási–statisztikai kivételek a garanciák mellett nyithatják a kezelést. A (4) bekezdés a genetikai, biometrikus és egészségügyi adatokra további tagállami feltételeket — ideértve korlátozásokat — enged."
+        },
+        {
+          "text": "A különleges kategóriák kezelése a 6. cikk (1) bekezdésének bármely jogalapjával jogszerűvé válik, külön kivétel nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 9. cikk tilalma nem oldódik fel a 6. cikk általános jogalapjával. A helyes: a GDPR 9. cikk (1) bekezdése tiltja a különleges kategóriák kezelését, és csak a (2) bekezdés zárt kivétellistája oldhatja fel a tilalmat. A tévedés a 6. cikk általános jogalap-katalógusát írja rá a 9. cikk szigorúbb rendjére."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "2cedca3871b1"
+    },
+    {
+      "question": "Miben tér el a bűnügyi adatok GDPR 10. cikk szerinti kezelése a különleges kategóriák 9. cikkétől?",
+      "options": [
+        {
+          "text": "A bűnügyi adatok a 9. cikk szerinti különleges kategóriák közé tartoznak, ezért a 9. cikk (2) bekezdésének bármely kivétele automatikusan megnyitja a 10. cikk szerinti kezelést is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 10. cikk nem a 9. cikk különleges kategóriáinak része. A helyes: a GDPR 10. cikke a 6. cikk (1) bekezdése szerinti kezelést közhatalmi szervhez vagy megfelelő garanciájú uniós vagy tagállami joghoz köti, és a teljes körű büntetőjogi nyilvántartást csak közhatalmi szervnél engedi. A tévedés a 9. cikk kivétellistáját írja rá a bűnügyi adatok hatásköri záradékára."
+        },
+        {
+          "text": "Bármely magánadatkezelő szabadon vezethet teljes körű büntetőjogi felelősségi nyilvántartást, ha az érintett hozzájárult.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a teljes körű büntetőjogi nyilvántartás közhatalmi szervhez kötött. A helyes: a GDPR 10. cikke szerint a büntetőjogi felelősség megállapítására vonatkozó határozatok teljes körű nyilvántartása csak közhatalmi szerv által végzett adatkezelés keretében történhet; a hozzájárulás önmagában nem pótolja e hatásköri korlátot. A tévedés a 6. cikk (1) bekezdésének a) pontját emeli a 10. cikk záradéka fölé."
+        },
+        {
+          "text": "A 9. cikttől eltérően a 10. cikk nem különleges kategória-tilalmat állít fel, hanem a bűnügyi adatnál a közhatalomhoz vagy megfelelő garanciájú joghoz kötött kezelést írja elő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két cikk szerkezete eltér. A GDPR 9. cikk (1) bekezdése tilalommal és (2) bekezdésbeli kivétellistával dolgozik, míg a 10. cikk a 6. cikk (1) bekezdése szerinti kezelést közhatalmi szervhez vagy megfelelő garanciájú uniós vagy tagállami joghoz köti. A teljes körű büntetőjogi nyilvántartás kizárólag közhatalmi szerv keretében történhet. A téves azonosítás a 9. cikk „tilalom–kivétel” mintáját írná rá a 10. cikkre."
+        },
+        {
+          "text": "A 10. cikk a büntetőjogi felelősség megállapítására vonatkozó határozatokra, a bűncselekményekre és a kapcsolódó biztonsági intézkedésekre vonatkozó adatoknak a 6. cikk (1) bekezdése szerinti kezelését szűkíti: ilyen adatot kizárólag közhatalmi szerv kezelhet, vagy a kezelést megfelelő garanciákat nyújtó uniós vagy tagállami jog teszi lehetővé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 10. cikk hatásköri és garanciális záradék, nem különleges kategória-tilalom. A GDPR 10. cikke szerint ezeknek az adatoknak a 6. cikk (1) bekezdése alapján történő kezelésére kizárólag közhatalmi szerv adatkezelésében kerülhet sor, vagy ha uniós vagy tagállami jog megfelelő garanciákat nyújt. A büntetőjogi felelősség megállapítására vonatkozó határozatok teljes körű nyilvántartása csak közhatalmi szerv által végzett adatkezelés keretében történhet. A 6. cikk általános jogalapjai tehát önmagukban nem nyitják ki ezt a kört."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "d1302c37e5bd"
+    },
+    {
+      "question": "Mit rendel a GDPR 11. cikke, ha a kezelés céljai nem teszik szükségessé az érintett azonosítását?",
+      "options": [
+        {
+          "text": "Ha az érintett a 15–20. cikk szerinti jogai gyakorlásához azonosítását lehetővé tevő kiegészítő információkat nyújt, a 15–20. cikk ismét alkalmazandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az érintett maga hozhatja vissza az azonosíthatóságot. A GDPR 11. cikk (2) bekezdése szerint a 15–20. cikk nem alkalmazandó a bizonyított azonosíthatatlanság esetén, kivéve ha az érintett abból a célból, hogy e cikkek szerinti jogait gyakorolja, az azonosítását lehetővé tevő kiegészítő információkat nyújt. A 12. cikk (2) bekezdése ehhez kapcsolódóan tiltja a kérelem megtagadását, kivéve ha az adatkezelő bizonyítja, hogy az érintettet nem áll módjában azonosítani. A III. fejezet küszöbe tehát az azonosított érintett, de nem az öncélú azonosítás."
+        },
+        {
+          "text": "Az adatkezelő nem köteles kiegészítő információkat megőrizni, beszerezni vagy kezelni pusztán azért, hogy a rendeletnek megfeleljen; ha bizonyítja, hogy nincs abban a helyzetben, hogy azonosítsa az érintettet, a 15–20. cikk főszabály szerint nem alkalmazandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 11. cikk az elszámoltathatóság és az adattakarékosság ütközését oldja fel. A GDPR 11. cikk (1) bekezdése szerint, ha a kezelés céljai nem vagy már nem teszik szükségessé az érintett azonosítását, az adatkezelő nem köteles kiegészítő információkat megőrizni, beszerezni vagy kezelni pusztán a rendeletnek való megfelelésért. A (2) bekezdés szerint, ha bizonyítani tudja, hogy nincs abban a helyzetben, hogy azonosítsa az érintettet, a 15–20. cikk nem alkalmazandó, kivéve ha az érintett a joggyakorláshoz azonosítását lehetővé tevő kiegészítő információkat nyújt. Az azonosítás kikényszerítése tehát nem lehet öncél."
+        },
+        {
+          "text": "Azonosíthatatlanság esetén a 15–20. cikk véglegesen és visszavonhatatlanul kizárt, még akkor is, ha az érintett később azonosító adatot ad át.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kizárás nem végleges, ha az érintett azonosító kiegészítést nyújt. A helyes: a GDPR 11. cikk (2) bekezdése szerint a 15–20. cikk nem alkalmazandó a bizonyított azonosíthatatlanság esetén, kivéve ha az érintett a joggyakorláshoz azonosítását lehetővé tevő kiegészítő információkat nyújt. A tévedés a kivétel nélküli végleges kizárást állítja a kondicionális kizárás helyére."
+        },
+        {
+          "text": "Az adatkezelő köteles minden érintettet mindig azonosíthatóvá tenni, hogy a 15–20. cikk szerinti jogok soha ne essenek el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az érintett kötelező, folyamatos azonosíthatóságát írja elő a 15–20. cikk védelmében. A helyes: a GDPR 11. cikk (1) bekezdése szerint az adatkezelő nem köteles kiegészítő információkat megőrizni, beszerezni vagy kezelni pusztán azért, hogy azonosítsa az érintettet a rendeletnek való megfeleléshez. A (2) bekezdés a 15–20. cikket csak a bizonyított azonosíthatatlanság idejére zárja ki, kivéve ha az érintett azonosító kiegészítést nyújt. A tévedés a III. fejezet jogait az adattakarékosság felülírásaként kezeli."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "1441c4ee17ff"
+    },
+    {
+      "question": "Milyen határidővel és költséggel kell az adatkezelőnek a 15–22. cikk szerinti kérelmekre válaszolnia?",
+      "options": [
+        {
+          "text": "Ha az adatkezelő nem tesz intézkedést, elég a kérelmet hallgatólagosan elutasítani; indokolás és jogorvoslati tájékoztatás nem kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az intézkedés elmaradását indokolni és jogorvoslatra utalni kell. A helyes: a GDPR 12. cikk (4) bekezdése szerint, ha az adatkezelő nem tesz intézkedéseket, késedelem nélkül, de legkésőbb egy hónapon belül tájékoztatja az érintettet az okokról, valamint arról, hogy panaszt nyújthat be a felügyeleti hatóságnál, és élhet bírósági jogorvoslattal. A tévedés a hallgatólagos elutasítást a kötelező tájékoztatás helyére teszi."
+        },
+        {
+          "text": "Az adatkezelő indokolatlan késedelem nélkül, de a kérelem beérkezésétől számított egy hónapon belül tájékoztatja az érintettet a hozott intézkedésekről; a határidő a kérelem összetettsége és száma miatt további két hónappal hosszabbítható, a késedelem okának egy hónapon belüli közlésével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatás és a joggyakorlás modalitásait a rendelet egy hónapos főszabállyal köti. A GDPR 12. cikk (3) bekezdése szerint az adatkezelő indokolatlan késedelem nélkül, de mindenféleképpen a kérelem beérkezésétől számított egy hónapon belül tájékoztat. Szükség esetén, a kérelem összetettségét és a kérelmek számát figyelembe véve, a határidő további két hónappal meghosszabbítható, és a hosszabbításról a késedelem okaival együtt egy hónapon belül tájékoztatni kell. Elektronikus kérelemre lehetőség szerint elektronikus a válasz."
+        },
+        {
+          "text": "A válaszadási határidő mindig három hónap, és az adatkezelő minden kérelmnél adminisztratív díjat számíthat fel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a hosszabbítást és a díjat általános főszabállyá emeli. A helyes: a GDPR 12. cikk (3) bekezdése egy hónapos tájékoztatást ír elő, amely a kérelem összetettsége és száma miatt további két hónappal hosszabbítható. Az (5) bekezdés szerint a tájékoztatás és intézkedés díjmentes; díj vagy megtagadás csak egyértelműen megalapozatlan vagy túlzó kérelemnél lehetséges, a bizonyítási teher az adatkezelőn van. A tévedés a hosszabbítást és a túlzó-kérelem kivételét általános szabályként kezeli."
+        },
+        {
+          "text": "A 13. és 14. cikk szerinti információkat, valamint a 15–22. és 34. cikk szerinti tájékoztatást és intézkedést díjmentesen kell biztosítani; egyértelműen megalapozatlan vagy különösen ismétlődő jelleg miatt túlzó kérelemnél észszerű díj vagy az intézkedés megtagadása lehetséges, a bizonyítási teher az adatkezelőn van.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a díjmentesség a főszabály, a túlzó kérelem a kivétel. A GDPR 12. cikk (5) bekezdése szerint a 13. és 14. cikk szerinti információkat és a 15–22. és 34. cikk szerinti tájékoztatást és intézkedést díjmentesen kell biztosítani. Ha a kérelem egyértelműen megalapozatlan vagy — különösen ismétlődő jellege miatt — túlzó, az adatkezelő észszerű összegű díjat számíthat fel, vagy megtagadhatja a kérelem alapján történő intézkedést. A kérelem megalapozatlan vagy túlzó jellegének bizonyítása az adatkezelőt terheli."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "aa3000430c31"
+    },
+    {
+      "question": "Miben különbözik a GDPR 13. és 14. cikke a tájékoztatáshoz való jognál?",
+      "options": [
+        {
+          "text": "A 13. és a 14. cikk tartalma azonos, csak a 14. cikk rövidebb listát ad, mert a közvetett gyűjtésnél kevesebb információ jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 14. cikk nem lazít, hanem a forrással és a kategóriákkal bővíti a listát, és saját időzítést ad. A helyes: a GDPR 13. és 14. cikkének különbsége a gyűjtés forrása, az időzítés és a 14. cikk (5) bekezdésének kivételi rendje; a 14. cikk (1) bekezdésének d) pontja az adatok kategóriáit, a (2) bekezdés f) pontja a forrást is megköveteli. A tévedés a közvetett gyűjtést „kevesebb információ” szabályként kezeli."
+        },
+        {
+          "text": "A 14. cikk (5) bekezdése a már ismert információ, a lehetetlen vagy aránytalan erőfeszítés — különösen a 89. cikk (1) bekezdése szerinti archiválás, kutatás, statisztika —, a kifejezett uniós vagy tagállami előírás, valamint a szakmai titoktartás esetén kizárhatja az (1)–(4) bekezdés alkalmazását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetett gyűjtésnél a tájékoztatás négy kivételi ágon eshet el. A GDPR 14. cikk (5) bekezdése szerint az (1)–(4) bekezdés nem alkalmazandó, ha az érintett már rendelkezik az információkkal, ha a rendelkezésre bocsátás lehetetlen vagy aránytalanul nagy erőfeszítést igényelne — különösen a 89. cikk (1) bekezdése szerinti kezelésnél —, ha uniós vagy tagállami jog kifejezetten előírja a megszerzést vagy közlést megfelelő intézkedésekkel, vagy ha szakmai, ideértve a jogszabályon alapuló titoktartás kötelez. Az aránytalan erőfeszítésnél a nyilvános közzététel is megfelelő intézkedés lehet. A 13. cikkhez képest tehát a kivételi rend itt szélesebb, de nem üresíti ki az átláthatóságot."
+        },
+        {
+          "text": "A 13. cikk szerinti tájékoztatás bármikor, akár hónapokkal a gyűjtés után is megadható, ha az adatkezelő belső ütemterve így kívánja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közvetlen gyűjtés tájékoztatását késleltethetővé teszi. A helyes: a GDPR 13. cikk (1) bekezdése szerint, ha az adatokat az érintettől gyűjtik, az adatkezelő a megszerzés időpontjában bocsátja rendelkezésre az (1)–(2) bekezdés szerinti információkat. A (3) bekezdés a céltól eltérő további kezelés előtt újabb tájékoztatást ír elő az eltérő célról és a (2) bekezdés releváns kiegészítő információiról. A tévedés a 14. cikk (3) bekezdésének legfeljebb egy hónapos ágát írja rá a közvetlen gyűjtésre."
+        },
+        {
+          "text": "A 13. cikk akkor alkalmazandó, ha a személyes adatokat az érintettől gyűjtik, és a tájékoztatás időpontja a megszerzés időpontja; a 14. cikk a nem az érintettől szerzett adatokra vonatkozik, és a listát az adatok kategóriáival, valamint a forrással egészíti ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különbség a gyűjtés forrása és az időzítés. A GDPR 13. cikk (1) bekezdése a megszerzés időpontjában adja át a kilétet, a célt, a jogalapot, a jogos érdeket az f) pontnál, a címzetteket és a harmadik országba továbbítás tényét. A 14. cikk (1) bekezdése ugyanezt a célt viszi át, de az érintett személyes adatok kategóriáival egészíti ki, a (2) bekezdés f) pontja pedig a forrást — ideértve a nyilvánosan hozzáférhető forrásokat — is megköveteli. A 14. cikk (3) bekezdése a tájékoztatás idejét legfeljebb egy hónapos, első kapcsolatfelvételi vagy első közlési ágban rögzíti."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "441c624d6877"
+    },
+    {
+      "question": "Mit foglal magában az érintett hozzáférési joga a GDPR 15. cikke szerint?",
+      "options": [
+        {
+          "text": "Az adatkezelő az adatkezelés tárgyát képező személyes adatok másolatát díjmentesen az érintett rendelkezésére bocsátja; további másolatokért az adminisztratív költségeken alapuló, észszerű díj számítható, és a másolati jog nem érintheti hátrányosan mások jogait és szabadságait.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a másolat a hozzáférés része, de nem abszolút. A GDPR 15. cikk (3) bekezdése szerint az adatkezelő az adatkezelés tárgyát képező személyes adatok másolatát az érintett rendelkezésére bocsátja, és a további másolatokért az adminisztratív költségeken alapuló, észszerű mértékű díjat számíthat fel. Elektronikus kérelemnél az információkat széles körben használt elektronikus formátumban kell rendelkezésre bocsátani, eltérő kérés hiányában. A (4) bekezdés szerint a másolat igénylésére vonatkozó jog nem érintheti hátrányosan mások jogait és szabadságait."
+        },
+        {
+          "text": "Az érintett jogosult visszajelzést kapni arról, hogy személyes adatainak kezelése folyamatban van-e, és ha igen, hozzáférést kapni magukhoz az adatokhoz, valamint a célokra, kategóriákra, címzettekre, tárolási időre, a helyesbítés–törlés–korlátozás–tiltakozás jogára, a panaszjogra, a forrásra és az automatizált döntéshozatalra vonatkozó információkhoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 15. cikk kettős alanyi jogot ad: megerősítést és tartalmi hozzáférést. A GDPR 15. cikk (1) bekezdése felsorolja a célokat, a kategóriákat, a címzetteket — különösen a harmadik országbeli címzetteket és nemzetközi szervezeteket —, a tárolási időt vagy szempontjait, a helyesbítés–törlés–korlátozás–tiltakozás jogát, a panaszjogot, a nem az érintettől gyűjtött adatok forrását, valamint a 22. cikk (1) és (4) bekezdése szerinti automatizált döntéshozatalt, ideértve a profilalkotást és az alkalmazott logikát. A (2) bekezdés a 46. cikk szerinti megfelelő garanciákról való tájékoztatást fűzi hozzá harmadik országba történő továbbításnál."
+        },
+        {
+          "text": "A hozzáférési jog csak a kezelés tényének igen/nem megerősítésére terjed ki; az adatokhoz és a célokra vonatkozó információhoz való hozzáférés nem jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megerősítés mellett a tartalmi hozzáférés is alanyi jog. A helyes: a GDPR 15. cikk (1) bekezdése szerint az érintett jogosult visszajelzést kapni a kezelés folyamatban létéről, és ha ilyen kezelés folyamatban van, jogosult a személyes adatokhoz és a célokra, kategóriákra, címzettekre és további felsorolt információkhoz való hozzáférésre. A tévedés a megerősítést a teljes hozzáférési jog helyére szűkíti."
+        },
+        {
+          "text": "Az első másolatért is mindig díjat kell fizetni, és a másolati jog minden esetben felülírja mások üzleti titkát és szerzői jogát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az első másolat díjmentes, a másolati jog pedig mások jogait nem sértheti. A helyes: a GDPR 15. cikk (3) bekezdése az adatkezelés tárgyát képező adatok másolatát díjmentesen bocsátja rendelkezésre, további másolatokért észszerű díj számítható; a (4) bekezdés szerint a másolati jog nem érintheti hátrányosan mások jogait és szabadságait. A (63) preambulumbekezdés szerint az üzleti titok és a szellemi tulajdon megfontolása nem eredményezheti, hogy az érintettől minden információt megtagadnak. A tévedés a díjmentességet és a (4) bekezdés korlátját fordítja meg."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "f15389f9aa7f"
+    },
+    {
+      "question": "Mi következik abból, ha az érintett a rá vonatkozó pontatlan személyes adatok helyesbítését kéri?",
+      "options": [
+        {
+          "text": "A pontatlan adatok helyesbítése helyett az adatkezelő szabadon dönthet a törlésről, a 17. cikk (3) bekezdésének kivételei nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 16. cikk helyesbítést és kiegészítést ad, nem a törlés általános helyettesítőjét. A helyes: a GDPR 16. cikke a pontatlan adatok indokolatlan késedelem nélküli helyesbítését és a hiányos adatok kiegészítését írja elő; a törlés a 17. cikk okhoz kötött joga, a (3) bekezdés kivételeivel. A tévedés a helyesbítést a törlés diszkrecionális döntésével cseréli fel."
+        },
+        {
+          "text": "A helyesbítés csak akkor kötelező, ha a felügyeleti hatóság előzetesen elrendeli; az érintett kérése önmagában nem kötelezi az adatkezelőt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a helyesbítés az érintett kérésére, indokolatlan késedelem nélkül kötelező. A helyes: a GDPR 16. cikke szerint az adatkezelő kérésre indokolatlan késedelem nélkül helyesbíti a pontatlan személyes adatokat, és a cél figyelembevételével a hiányos adatok kiegészítése is kérhető. A tévedés a hatósági elrendelést emeli az alanyi jog elé."
+        },
+        {
+          "text": "A 16. cikk a 5. cikk (1) bekezdésének d) pontja szerinti pontosság elvét alanyi joggá fordítja: a helyesbítés és a kiegészítés az érintett kérésére áll fenn, a pontosság tartalmán a cikk nem nyit mérlegelést, a haladéktalanság az elv és a jog közös időmértéke.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a helyesbítés a pontosság elvének alanyi jogi fordítása. A GDPR 16. cikke szerint az érintett kérésére az adatkezelő indokolatlan késedelem nélkül helyesbíti a pontatlan személyes adatokat, és a cél figyelembevételével a hiányos adatok kiegészítése is kérhető. A GDPR 5. cikk (1) bekezdésének d) pontja a pontosságot anyagi elvként rögzíti; a 16. cikk ezt kérelemre érvényesíthető joggá teszi. A címzetti értesítés a 19. cikk önálló kötelezettsége, nem a 16. cikk helyesbítési kötelezettségének második eleme."
+        },
+        {
+          "text": "Az adatkezelő indokolatlan késedelem nélkül helyesbíti a pontatlan személyes adatokat; a cél figyelembevételével a hiányos adatok kiegészítése is kérhető, egyebek mellett kiegészítő nyilatkozat útján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 16. cikk a 5. cikk (1) bekezdésének d) pontját alanyi joggá fordítja. A GDPR 16. cikke szerint: „Az érintett jogosult arra, hogy kérésére az adatkezelő indokolatlan késedelem nélkül helyesbítse a rá vonatkozó pontatlan személyes adatokat.” Figyelembe véve az adatkezelés célját, az érintett jogosult a hiányos személyes adatok — egyebek mellett kiegészítő nyilatkozat útján történő — kiegészítésére is. A pontosság tartalmán a cikk nem nyit mérlegelést: a haladéktalanság az elv és a jog közös időmértéke."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "a9efaf835222"
+    },
+    {
+      "question": "Mely esetben kérheti az érintett a rá vonatkozó személyes adatok törlését, és mikor nem alkalmazható a törlés?",
+      "options": [
+        {
+          "text": "A nyilvánosságra hozott adat törlésénél az adatkezelőnek nincs kötelezettsége a többi adatkezelő tájékoztatására; elegendő a saját nyilvántartásból való törlés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyilvánosságra hozott adatnál a (2) bekezdés tájékoztatási kötelezettséget ír elő. A helyes: a GDPR 17. cikk (2) bekezdése szerint, ha az adatkezelő nyilvánosságra hozta a személyes adatot és törölni köteles, az elérhető technológia és a költségek figyelembevételével megteszi az észszerűen elvárható lépéseket — ideértve technikai intézkedéseket — annak érdekében, hogy tájékoztassa az adatokat kezelő adatkezelőket a linkek, másolatok és másodpéldányok törlésének kérelméről. A tévedés a saját nyilvántartásra szűkíti az online kiterjesztést."
+        },
+        {
+          "text": "A törlés nem alkalmazandó, ha a kezelés a véleménynyilvánítás és a tájékozódás, jogi kötelezettség vagy közhatalmi feladat, a népegészségügy 9. cikk szerinti esetei, a 89. cikk (1) bekezdése szerinti archiválás, kutatás vagy statisztika — ha a törlés a célt veszélyeztetné —, illetve jogi igények érvényesítése miatt szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés közérdekű és alapjogi ellensúlyt ad. A GDPR 17. cikk (3) bekezdése szerint az (1) és (2) bekezdés nem alkalmazandó, ha a kezelés a véleménynyilvánítás szabadságához és a tájékozódáshoz való jog, uniós vagy tagállami jogi kötelezettség vagy közhatalmi feladat, a 9. cikk (2) bekezdésének h) és i) pontja, valamint a 9. cikk (3) bekezdése szerinti népegészségügy, a 89. cikk (1) bekezdése szerinti archiválás, kutatás vagy statisztika — ha a törlés a célt lehetetlenné tenné vagy komolyan veszélyeztetné —, illetve jogi igények előterjesztése, érvényesítése vagy védelme miatt szükséges. A (65) preambulumbekezdés az elfeledtetést különösen a gyermekként adott hozzájárulás későbbi eltávolításánál tartja lényegesnek."
+        },
+        {
+          "text": "Az érintett kérheti a törlést, és az adatkezelő köteles indokolatlan késedelem nélkül törölni, ha például az adat a célhoz már nem szükséges, a hozzájárulást visszavonták más jogalap hiányában, a 21. cikk szerinti tiltakozás elsőbbséget élvező ok nélkül áll fenn, a kezelés jogellenes, jogi kötelezettség írja elő a törlést, vagy a 8. cikk (1) bekezdése szerinti gyermekszolgáltatás során gyűjtötték az adatot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 17. cikk okhoz kötött alanyi jogot ad, nem abszolút törlési parancsot. A GDPR 17. cikk (1) bekezdése az a)–f) pontokban sorolja fel a törlési indokokat: a célhoz már nem szükséges adat, a hozzájárulás visszavonása más jogalap hiányában, a 21. cikk (1) vagy (2) bekezdése szerinti tiltakozás, a jogellenes kezelés, a jogi kötelezettségen alapuló törlés, valamint a 8. cikk (1) bekezdése szerinti, gyermekeknek kínált információs társadalmi szolgáltatás során gyűjtött adat. A (2) bekezdés a nyilvánosságra hozott adatnál észszerű lépéseket ír elő a többi adatkezelő tájékoztatására a linkek, másolatok és másodpéldányok törlésének kérelméről."
+        },
+        {
+          "text": "A törléshez való jog abszolút: az érintett kérésére az adatkezelő minden esetben köteles azonnal törölni, kivétel nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törlés okhoz kötött, és a (3) bekezdés kivételeket állít. A helyes: a GDPR 17. cikk (1) bekezdése az a)–f) pontok valamelyikének fennállásához köti a törlést, a (3) bekezdés pedig a véleménynyilvánítás, a jogi kötelezettség, a népegészségügy, a 89. cikk szerinti kezelés és a jogi igények esetén kizárja a törlést. A tévedés az elfeledtetést abszolút parancsként kezeli."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "2edf420730e6"
+    },
+    {
+      "question": "Milyen négy tényállás esetén korlátozható az adatkezelés a GDPR 18. cikke szerint?",
+      "options": [
+        {
+          "text": "Korlátozás alatt az adatkezelő a tároláson túl szabadon továbbra is profilalkotást és marketinget végezhet az adaton.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a korlátozás alatt a kezelés a (2) bekezdés taxatív kivételeire szűkül. A helyes: a GDPR 18. cikk (2) bekezdése szerint a korlátozás alá eső adatokat a tárolás kivételével csak az érintett hozzájárulásával, jogi igényhez, más személy jogainak védelméhez, vagy az Unió vagy tagállam fontos közérdekéből lehet kezelni. A tévedés a profilalkotást és a marketinget a tilalmazott szabad felhasználás körébe helyezi."
+        },
+        {
+          "text": "Korlátozás alatt a tároláson kívül az adat csak az érintett hozzájárulásával, jogi igényhez, más személy jogainak védelméhez, vagy az Unió vagy tagállam fontos közérdekéből kezelhető; a korlátozás feloldásáról az érintettet előzetesen tájékoztatni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a korlátozás a kezelést szűkíti, de nem semmisíti meg a tárolást. A GDPR 18. cikk (2) bekezdése szerint a korlátozás alá eső személyes adatokat a tárolás kivételével csak az érintett hozzájárulásával, jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez, más természetes vagy jogi személy jogainak védelme érdekében, vagy az Unió, illetve valamely tagállam fontos közérdekéből lehet kezelni. A (3) bekezdés szerint az adatkezelő a korlátozás feloldásáról előzetesen tájékoztatja azt az érintettet, aki a korlátozást kérte. A GDPR 19. cikke a 16., a 17. cikk (1) bekezdése és a 18. cikk szerinti helyesbítésről, törlésről vagy korlátozásról a címzetteket is tájékoztatja, kivéve ha ez lehetetlen vagy aránytalanul nagy erőfeszítést igényel."
+        },
+        {
+          "text": "A korlátozás kizárólag a törlés előtti átmeneti állapot, és csak a felügyeleti hatóság rendelheti el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a korlátozás az érintett kérésére nyíló, négy önálló tényállású jog. A helyes: a GDPR 18. cikk (1) bekezdése az a)–d) pontokban a pontosság vitatását, a jogellenes kezelésnél a törlés helyetti korlátozást, a jogi igényhez szükséges megőrzést és a 21. cikk (1) bekezdése szerinti tiltakozás ideiglenes korlátozását adja. A tévedés a hatósági elrendelést és a törléshez kötött átmenetet állítja az alanyi jog helyére."
+        },
+        {
+          "text": "A korlátozás kérhető, ha az érintett vitatja a pontosságot (az ellenőrzés idejére), ha a kezelés jogellenes és az érintett a törlés helyett a felhasználás korlátozását kéri, ha az adatkezelőnek már nincs szüksége az adatra, de az érintett jogi igényhez igényli, illetve ha a 21. cikk (1) bekezdése szerinti tiltakozásnál még nem dőlt el az elsőbbség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 18. cikk négy önálló tényállást ad, nem a törlés általános helyettesítőjét. A GDPR 18. cikk (1) bekezdésének a)–d) pontja a pontosság vitatását, a jogellenes kezelésnél a törlés helyetti korlátozást, a jogi igényhez szükséges megőrzést, valamint a 21. cikk (1) bekezdése szerinti tiltakozás ideiglenes korlátozását sorolja. A (67) preambulumbekezdés módszerként a másik rendszerbe való ideiglenes áthelyezést, a felhasználói hozzáférés megszüntetését vagy a honlapról való ideiglenes eltávolítást említi. Automatizált nyilvántartásban a korlátozást technikai eszközzel kell jelezni."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "9a611695b362"
+    },
+    {
+      "question": "Mikor illeti meg az érintettet az adathordozhatósághoz való jog?",
+      "options": [
+        {
+          "text": "A hordozhatóság nem alkalmazandó, ha a kezelés közérdekű vagy az adatkezelőre ruházott közhatalmi jogosítvány gyakorlásának keretében végzett feladat végrehajtásához szükséges, és a jog gyakorlása nem sértheti a 17. cikket, sem mások jogait és szabadságait.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közhatalmi és közérdekű feladat kizárja a hordozhatóságot. A GDPR 20. cikk (3) bekezdése szerint az (1) bekezdésben említett jog gyakorlása nem sértheti a 17. cikket, és nem alkalmazandó, ha a kezelés közérdekű vagy az adatkezelőre ruházott közhatalmi jogosítványai gyakorlásának keretében végzett feladat végrehajtásához szükséges. A (4) bekezdés szerint a jog nem érintheti hátrányosan mások jogait és szabadságait. A (68) preambulumbekezdés szerint a hordozhatóság nem teremt kötelezettséget műszakilag kompatibilis rendszerek bevezetésére, és a szerződés teljesítéséhez még szükséges adatot nem törölteti."
+        },
+        {
+          "text": "A hordozhatóság kötelezi az adatkezelőt, hogy minden más adatkezelővel műszakilag kompatibilis rendszert vezessen be, és a szerződéshez még szükséges adatot is azonnal törölje.",
+          "isCorrect": false,
+          "rationale": "HAMIS, sem a kompatibilis rendszerek bevezetése, sem a törlés nem következik automatikusan a 20. cikkből. A helyes: a (68) preambulumbekezdés szerint a hordozhatóság nem teremt kötelezettséget műszakilag kompatibilis rendszerek bevezetésére, és a szerződés teljesítéséhez még szükséges adatot a 20. cikk nem törölteti; a GDPR 20. cikk (3) bekezdése a jog gyakorlását a 17. cikk sérelme nélkül tartja fenn. A tévedés a hordozhatóságot törlési és rendszerbővítési kötelezettséggé torzítja."
+        },
+        {
+          "text": "Az adathordozhatóság minden jogalapon — ideértve a jogos érdeket és a közhatalmi feladatot — automatikusan megilleti az érintettet, akár manuális nyilvántartásnál is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jog a hozzájáruláshoz vagy szerződéshez és az automatizált kezeléshez kötött. A helyes: a GDPR 20. cikk (1) bekezdése a 6. cikk (1) bekezdésének a) vagy b) pontját, illetve a 9. cikk (2) bekezdésének a) pontját, valamint az automatizált módon történő kezelést követeli; a (3) bekezdés a közérdekű vagy közhatalmi feladatnál kizárja a jogot. A tévedés a jogos érdeket és a manuális kezelést is a hordozhatóság alá vonja."
+        },
+        {
+          "text": "Az érintett jogosult a rá vonatkozó, általa egy adatkezelő rendelkezésére bocsátott személyes adatokat tagolt, széles körben használt, géppel olvasható formátumban megkapni és másik adatkezelőnek továbbítani, ha a kezelés hozzájáruláson vagy szerződésen alapul, és automatizált módon történik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hordozhatóság csak meghatározott jogalapon és automatizált kezelésnél nyílik meg. A GDPR 20. cikk (1) bekezdése szerint a jog akkor áll fenn, ha a kezelés a 6. cikk (1) bekezdésének a) pontja vagy a 9. cikk (2) bekezdésének a) pontja szerinti hozzájáruláson, vagy a 6. cikk (1) bekezdésének b) pontja szerinti szerződésen alapul, és az adatkezelés automatizált módon történik. A (2) bekezdés — ha technikailag megvalósítható — a közvetlen, adatkezelők közötti továbbítást is megnyitja. A (68) preambulumbekezdés a saját adatok feletti rendelkezés erősítéséhez és interoperábilis formátumok ösztönzéséhez köti a jogot."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "15ba0bba03fd"
+    },
+    {
+      "question": "Miben tér el a közvetlen üzletszerzés elleni tiltakozás a közérdekű, közhatalmi vagy jogos érdeken alapuló kezelés elleni tiltakozástól?",
+      "options": [
+        {
+          "text": "A közvetlen üzletszerzés elleni tiltakozásnál az adatkezelő ugyanúgy bizonyíthat kényszerítő erejű jogos okot, mint a 21. cikk (1) bekezdése szerinti tiltakozásnál, és a marketing folytatható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen üzletszerzési tiltakozásnál nincs ilyen bizonyítási kivétel. A helyes: a GDPR 21. cikk (3) bekezdése szerint, ha az érintett tiltakozik a közvetlen üzletszerzés érdekében történő kezelés ellen, az adatok e célból a továbbiakban nem kezelhetők; az (1) bekezdés kényszerítő erejű jogos okai csak az e) vagy f) ponton alapuló kezelésre vonatkoznak. A tévedés az (1) bekezdés mérlegelési kivételét írja rá a (2)–(3) bekezdés feltétlen tilalmára."
+        },
+        {
+          "text": "A 6. cikk (1) bekezdésének e) vagy f) pontján — ideértve az ezeken alapuló profilalkotást — alapuló kezelés ellen az érintett a saját helyzetével kapcsolatos okokból bármikor tiltakozhat; az adatkezelő csak akkor kezelheti tovább az adatokat, ha kényszerítő erejű jogos okokat vagy jogi igényt bizonyít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bizonyítási teher megfordul. A GDPR 21. cikk (1) bekezdése szerint az érintett a saját helyzetével kapcsolatos okokból bármikor tiltakozhat a 6. cikk (1) bekezdésének e) vagy f) pontján alapuló kezelés ellen, ideértve a profilalkotást is. Tiltakozás esetén az adatkezelő a továbbiakban nem kezelheti az adatokat, kivéve ha bizonyítja, hogy az adatkezelést olyan kényszerítő erejű jogos okok indokolják, amelyek elsőbbséget élveznek az érintett érdekeivel, jogaival és szabadságaival szemben, vagy amelyek jogi igényekhez kapcsolódnak. A (69) preambulumbekezdés az adatkezelőre telepíti annak bizonyítását, hogy kényszerítő erejű jogos érdeke elsőbbséget élvezhet."
+        },
+        {
+          "text": "A tiltakozási jogra csak a szerződés megszűnésekor kell felhívni a figyelmet, és elegendő az általános adatvédelmi tájékoztatóba elrejtett utalás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a figyelemfelhívás legkésőbb az első kapcsolatfelvételkor, elkülönítve kötelező. A helyes: a GDPR 21. cikk (4) bekezdése szerint az (1) és (2) bekezdésben említett jogra legkésőbb az érintettel való első kapcsolatfelvétel során kifejezetten fel kell hívni a figyelmet, és az erre vonatkozó tájékoztatást egyértelműen és minden más információtól elkülönítve kell megjeleníteni. A tévedés a szerződésvéghez és a rejtett utaláshoz köti a tájékoztatást."
+        },
+        {
+          "text": "Ha a személyes adatok kezelése közvetlen üzletszerzés érdekében történik, az érintett bármikor tiltakozhat — ideértve a kapcsolódó profilalkotást —, és tiltakozás esetén az adatok e célból a továbbiakban nem kezelhetők; a jogra legkésőbb az első kapcsolatfelvételkor, elkülönítve kell felhívni a figyelmet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetlen üzletszerzési tiltakozás feltétlen. A GDPR 21. cikk (2)–(3) bekezdése szerint, ha az érintett tiltakozik a közvetlen üzletszerzés érdekében történő kezelés ellen, a személyes adatok a továbbiakban e célból nem kezelhetők. A (4) bekezdés szerint az (1) és (2) bekezdésben említett jogra legkésőbb az első kapcsolatfelvétel során kifejezetten fel kell hívni a figyelmet, egyértelműen és minden más információtól elkülönítve. A (70) preambulumbekezdés a közvetlen üzletszerzési tiltakozást díjmentesnek és a tájékoztatásban elkülönítettnek írja elő."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "aed64626fb6a"
+    },
+    {
+      "question": "Milyen védelmet ad a GDPR 22. cikke a kizárólag automatizált döntéshozatallal szemben?",
+      "options": [
+        {
+          "text": "Az érintett jogosult arra, hogy ne terjedjen ki rá az olyan, kizárólag automatizált adatkezelésen — ideértve a profilalkotást — alapuló döntés hatálya, amely rá nézve joghatással járna vagy őt hasonlóképpen jelentős mértékben érintené.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22. cikk alanyi mentességet ad a kizárólag automatizált, joghatású vagy hasonlóan jelentős döntés alól. A GDPR 22. cikk (1) bekezdése szerint: „Az érintett jogosult arra, hogy ne terjedjen ki rá az olyan, kizárólag automatizált adatkezelésen – ideértve a profilalkotást is – alapuló döntés hatálya, amely rá nézve joghatással járna vagy őt hasonlóképpen jelentős mértékben érintené.” A (71) preambulumbekezdés példaként az online hitelkérelem automatikus elutasítását és az emberi beavatkozás nélküli online munkaerő-toborzást említi. A profilalkotás a személyes jellemzők automatizált kiértékelése, ha joghatással jár vagy hasonlóan jelentős mértékben érinti az érintettet."
+        },
+        {
+          "text": "Az (1) bekezdés nem alkalmazandó, ha a döntés a szerződés megkötéséhez vagy teljesítéséhez szükséges, uniós vagy tagállami jog teszi lehetővé megfelelő intézkedésekkel, vagy az érintett kifejezett hozzájárulásán alapul; az a) és c) pontnál legalább emberi beavatkozást, álláspontkifejezést és kifogást kell biztosítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés három kivételt nyit, a (3) bekezdés pedig minimumgaranciákat. A GDPR 22. cikk (2) bekezdése a szerződéshez szükséges döntést, a megfelelő intézkedéseket is megállapító uniós vagy tagállami jogot, valamint az érintett kifejezett hozzájárulását engedi. A (3) bekezdés az a) és c) pontnál legalább azt a jogot írja elő, hogy az adatkezelő részéről emberi beavatkozást kérjen, álláspontját kifejezze, és a döntéssel szemben kifogást nyújtson be. A (4) bekezdés e döntéseket a 9. cikk (1) bekezdése szerinti különleges kategóriákra nem engedi alapítani, kivéve a 9. cikk (2) bekezdésének a) vagy g) pontját, megfelelő intézkedések mellett."
+        },
+        {
+          "text": "A (2) bekezdés szerinti döntések szabadon alapulhatnak a 9. cikk (1) bekezdése szerinti különleges kategóriákon, külön garancia nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a különleges kategóriákra alapozás főszabályként tilos. A helyes: a GDPR 22. cikk (4) bekezdése szerint a (2) bekezdésben említett döntések nem alapulhatnak a 9. cikk (1) bekezdése szerinti különleges kategóriákon, kivéve ha a 9. cikk (2) bekezdésének a) vagy g) pontja alkalmazandó, és megfelelő intézkedések történtek. A tévedés a különleges adatok tilalmát figyelmen kívül hagyja."
+        },
+        {
+          "text": "A kizárólag automatizált, joghatású döntés minden esetben tilos, még szerződéshez vagy kifejezett hozzájáruláshoz kötve sem engedhető meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom alól a (2) bekezdés három kivételt nyit. A helyes: a GDPR 22. cikk (2) bekezdése szerint az (1) bekezdés nem alkalmazandó, ha a döntés a szerződés megkötéséhez vagy teljesítéséhez szükséges, uniós vagy tagállami jog teszi lehetővé megfelelő intézkedésekkel, vagy az érintett kifejezett hozzájárulásán alapul. A tévedés a kivételeket figyelmen kívül hagyva abszolút tilalmat állít."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "0ce9b9ebc3b0"
+    },
+    {
+      "question": "Mi a GDPR 23. cikk szerinti korlátozások jellege az érintett jogainál és az 5. cikk szerinti kötelezettségeknél?",
+      "options": [
+        {
+          "text": "A 23. cikk nem újabb érintetti jog, hanem a 12–22. és a 34. cikk, valamint — a 12–22. cikkel összhangban lévő rendelkezések tekintetében — az 5. cikk szerinti jogok és kötelezettségek hatályának jogalkotási korlátozása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a korlátozás jogalkotási tartalék, nem adatkezelői diszkréció. A GDPR 23. cikk (1) bekezdése szerint az adatkezelőre vagy adatfeldolgozóra alkalmazandó uniós vagy tagállami jog jogalkotási intézkedésekkel korlátozhatja a 12–22. és a 34. cikk, valamint az 5. cikk megfelelő rendelkezéseinek hatályát, ha tiszteletben tartja az alapvető jogok és szabadságok lényeges tartalmát, és a felsorolt célok védelméhez demokratikus társadalomban szükséges és arányos. A katalógus a nemzetbiztonságtól a polgári jogi követelések érvényesítéséig terjed. A (73) preambulumbekezdés szerint a korlátozásoknak a Chartát és az emberi jogok európai egyezményét tiszteletben kell tartaniuk."
+        },
+        {
+          "text": "Az adatkezelő saját belátása szerint, jogalkotási intézkedés nélkül is megtagadhatja a 15–22. cikk szerinti kérelmeket, ha üzleti érdeke úgy kívánja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az adatkezelő üzleti belátását emeli a jogalkotási korlátozás helyére. A helyes: a GDPR 23. cikk (1) bekezdése szerint a 12–22. és a 34. cikk, valamint az 5. cikk megfelelő rendelkezéseinek hatályát csak uniós vagy tagállami jogalkotási intézkedés szűkítheti, a lényeges tartalom, a szükségesség és az arányosság mellett. A (2) bekezdés a célokra, az adatok kategóriáira, a hatályra és a garanciákra vonatkozó tartalmi minimumot is előír. A tévedés az üzleti érdeket a jogalkotási tartalék helyére teszi."
+        },
+        {
+          "text": "A jogalkotási intézkedésnek adott esetben részletes rendelkezéseket kell tartalmaznia legalább a célokra vagy kategóriákra, az adatok kategóriáira, a korlátozás hatályára, a visszaélés elleni garanciákra, az adatkezelő meghatározására, a tárolási időre, a kockázatokra és a korlátozásról való tájékoztatás jogára — kivéve ha ez a célt hátrányosan befolyásolná.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalkotási intézkedés nem elég általános felhatalmazás: tartalmi minimumot kell tartalmaznia. A GDPR 23. cikk (2) bekezdése az a)–h) pontokban sorolja a kötelező elemeket: a célok vagy kategóriák, a személyes adatok kategóriái, a korlátozások hatálya, a visszaélés és a jogosulatlan hozzáférés vagy továbbítás elleni garanciák, az adatkezelő meghatározása, a tárolási idő és garanciák, az érintetteket érintő kockázatok, valamint a korlátozásról való tájékoztatás joga, kivéve ha ez a korlátozás célját hátrányosan befolyásolná. Az (1) bekezdés szerinti lényeges tartalom, szükségesség és arányosság e minimummal együtt feltétele a 12–22. cikk jogainak szűkítésének. A (73) preambulumbekezdés a korlátozás mértékét a közbiztonság, a bűncselekmények és a jelentős közérdek védelméhez is köti."
+        },
+        {
+          "text": "A 23. cikk bármely preambulumbekezdésre hivatkozva, részletes tartalmi minimum nélkül is szűkítheti a 12–22. cikk jogait.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés tartalmi minimuma és az (1) bekezdés feltételei nélkül a szűkítés nem jogszerű. A helyes: a GDPR 23. cikk (1) bekezdése a lényeges tartalom, a szükségesség és az arányosság, valamint a (2) bekezdés a)–h) pont szerinti részletes rendelkezések nélkül nem engedi a 12–22. cikk alanyi jogainak szűkítését. A tévedés a preambulumot a jogalkotási intézkedés helyére emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "83ff1d5cc626"
+    },
+    {
+      "question": "Mit vizsgál az adatkezelő a céltól eltérő további adatkezelés összeegyeztethetőségénél a GDPR 6. cikk (4) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A céltól eltérő további kezelés mindig új, önálló jogalapot kíván, még akkor is, ha a 6. cikk (4) bekezdése szerinti próba szerint összeegyeztethető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az összeegyeztethető további kezeléshez nem kell a gyűjtéstől eltérő, külön jogalap. A helyes: a (50) preambulumbekezdés szerint az összeegyeztethető további kezeléshez nincs szükség a gyűjtést lehetővé tevőtől eltérő, külön jogalapra; a GDPR 6. cikk (4) bekezdése az összeegyeztethetőség szempontjait adja, ha nincs hozzájárulás vagy a 23. cikk (1) bekezdése szerinti jog. A tévedés a külön jogalapot kötelezővé teszi az összeegyeztethetőség mellett is."
+        },
+        {
+          "text": "Ha nincs hozzájárulás, és nincs a 23. cikk (1) bekezdése szerinti, demokratikus társadalomban szükséges és arányos uniós vagy tagállami jog, az adatkezelő többek között a célok kapcsolatát, a gyűjtés körülményeit, az adatok jellegét — ideértve a 9. és a 10. cikket —, a következményeket és a garanciákat, így a titkosítást vagy álnevesítést is figyelembe veszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés összeegyeztethetőségi próbát ad. A GDPR 6. cikk (4) bekezdése szerint, ha az eltérő célú kezelés nem hozzájáruláson vagy a 23. cikk (1) bekezdése szerinti jogon alapul, az adatkezelő többek között figyelembe veszi a gyűjtés és a tervezett további kezelés céljai közötti kapcsolatokat, a gyűjtés körülményeit — különösen az érintett és az adatkezelő kapcsolatát —, az adatok jellegét, különösen a 9. és a 10. cikk szerinti adatokat, az érintettre nézve esetleges következményeket, valamint a megfelelő garanciákat, ami jelenthet titkosítást vagy álnevesítést is. A (50) preambulumbekezdés szerint az összeegyeztethető további kezeléshez nincs szükség a gyűjtést lehetővé tevőtől eltérő, külön jogalapra."
+        },
+        {
+          "text": "A 89. cikk (1) bekezdése szerinti archiválási, kutatási és statisztikai további kezelés összeegyeztethetőnek tekintendő; az összeegyeztethető további kezeléshez nincs szükség a gyűjtést lehetővé tevőtől eltérő, külön jogalapra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kutatási–statisztikai–archiválási további kezelés külön státuszt kap. A (50) preambulumbekezdés szerint az összeegyeztethető további kezeléshez nincs szükség a gyűjtést lehetővé tevőtől eltérő, külön jogalapra, és a 89. cikk (1) bekezdése szerinti archiválási, kutatási és statisztikai további kezelés összeegyeztethetőnek tekintendő. A GDPR 5. cikk (1) bekezdésének b) pontja ugyanezt a 89. cikk (1) bekezdése szerinti további kezelést nem minősíti össze nem egyeztethetőnek. A 6. cikk (4) bekezdése tehát a hozzájárulás és a 23. cikk szerinti jog hiányában is keretet ad az összeegyeztethetőség megállapításához."
+        },
+        {
+          "text": "Az összeegyeztethetőségi próba csak a különleges kategóriákra vonatkozik; a rendes személyes adatoknál a cél szabadon változtatható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a próbát a különleges kategóriákra szűkíti, holott a céltól eltérő kezelés a rendes adatoknál is vizsgálandó. A helyes: a GDPR 6. cikk (4) bekezdése a céltól eltérő további kezelés összeegyeztethetőségét vizsgálja, és a c) pontban kifejezetten figyeli, hogy a 9. cikk szerinti különleges kategóriákról vagy a 10. cikk szerinti bűnügyi adatokról van-e szó. A próba a célok kapcsolatát, a gyűjtés körülményeit, a következményeket és a garanciákat — titkosítást vagy álnevesítést is — szintén figyelembe veszi. A tévedés a különleges kategóriákat a próba egyetlen tárgyává teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "364c800cc9c0"
+    },
+    {
+      "question": "Egy online hitelkérelmet az adatkezelő emberi beavatkozás nélkül, kizárólag automatizált módon elutasít. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A (71) preambulumbekezdés szerint az ilyen, emberi beavatkozás nélküli, joghatású döntés a 22. cikk (1) bekezdése szerinti védelem körébe tartozhat; a szerződéshez szükséges vagy kifejezett hozzájáruláson alapuló kivételnél legalább emberi beavatkozást, álláspontkifejezést és kifogást kell biztosítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az online hitelkérelem a (71) preambulumbekezdés példája. A GDPR 22. cikk (1) bekezdése a kizárólag automatizált, joghatású vagy hasonlóan jelentős döntés alóli mentességet adja. A (2) bekezdés a) vagy c) pontja szerinti kivételnél a (3) bekezdés legalább emberi beavatkozást, az álláspont kifejezését és a döntéssel szembeni kifogást követel. A (71) preambulumbekezdés szerint az ilyen intézkedés gyermekre nem vonatkozhat."
+        },
+        {
+          "text": "Ha a döntés a 9. cikk szerinti egészségügyi adatokon alapul, a 22. cikk (4) bekezdése minden esetben szabad utat enged, garancia nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a különleges kategóriákra alapozás főszabályként tilos. A helyes: a GDPR 22. cikk (4) bekezdése szerint a (2) bekezdés szerinti döntések nem alapulhatnak a 9. cikk (1) bekezdése szerinti különleges kategóriákon, kivéve a 9. cikk (2) bekezdésének a) vagy g) pontját, megfelelő intézkedések mellett. A tévedés az egészségügyi adatot korlátlan kivételként kezeli."
+        },
+        {
+          "text": "Az online hitelkérelem automatikus elutasítása mindig kívül esik a 22. cikken, mert a banki gyakorlat önmagában megfelelő garancia.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (71) preambulumbekezdés kifejezetten az online hitelkérelem automatikus elutasítását említi a 22. cikk körében. A helyes: a GDPR 22. cikk (1) bekezdése a kizárólag automatizált, joghatású döntés alóli mentességet adja, és a (2)–(3) bekezdés szerinti kivétel és garanciák nélkül a döntés nem kerülhet az érintett hatálya alá. A tévedés a banki gyakorlatot a rendelet alanyi védelme helyére teszi."
+        },
+        {
+          "text": "A döntés nem alapulhat a 9. cikk (1) bekezdése szerinti különleges kategóriákon, kivéve a 9. cikk (2) bekezdésének a) vagy g) pontját, megfelelő intézkedések mellett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különleges adatokra alapozás szűk. A GDPR 22. cikk (4) bekezdése szerint a (2) bekezdésben említett döntések nem alapulhatnak a 9. cikk (1) bekezdése szerinti különleges kategóriákon, kivéve ha a 9. cikk (2) bekezdésének a) vagy g) pontja alkalmazandó, és az érintett jogainak, szabadságainak és jogos érdekeinek védelme érdekében megfelelő intézkedések történtek. A 13. és 15. cikk tájékoztatási listája az automatizált döntéshozatal tényét, a logikát és a várható következményeket is megköveteli. A profilalkotás a rendelet jogalapjaira és elveire is tekintettel vizsgálandó."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "e58190d85ffe"
+    },
+    {
+      "question": "Mit követel a pontosság, valamint az integritás és a bizalmas jelleg elve a GDPR 5. cikke szerint?",
+      "options": [
+        {
+          "text": "Az integritás és a bizalmas jelleg csak a különleges kategóriákra vonatkozik; a rendes személyes adatoknál technikai-szervezési védelem nem kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az f) pont a személyes adatok kezelésére általában vonatkozik. A helyes: a GDPR 5. cikk (1) bekezdésének f) pontja a személyes adatok megfelelő biztonságát, a jogosulatlan vagy jogellenes kezeléssel, véletlen elvesztéssel, megsemmisítéssel vagy károsodással szembeni védelmet írja elő technikai vagy szervezési intézkedésekkel. A tévedés a biztonsági elvet a 9. cikk különleges kategóriáira szűkíti."
+        },
+        {
+          "text": "Az integritás és a bizalmas jelleg megfelelő technikai vagy szervezési intézkedésekkel a jogosulatlan vagy jogellenes kezeléssel, a véletlen elvesztéssel, megsemmisítéssel vagy károsodással szembeni védelmet írja elő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a biztonság az elvek része, nem csak a IV. fejezet. A GDPR 5. cikk (1) bekezdésének f) pontja szerint a kezelést oly módon kell végezni, hogy megfelelő technikai vagy szervezési intézkedések alkalmazásával biztosítva legyen a személyes adatok megfelelő biztonsága, a jogosulatlan vagy jogellenes kezeléssel, véletlen elvesztéssel, megsemmisítéssel vagy károsodással szembeni védelmet is ideértve. A (2) bekezdés szerinti elszámoltathatóság e megfelelés igazolását is megköveteli. A 34. cikk szerinti adatvédelmi incidensről szóló tájékoztatás ehhez a biztonsági elvhez kapcsolódik a III. fejezet tájékoztatási rendjén keresztül."
+        },
+        {
+          "text": "A pontosság szerint a személyes adatoknak pontosnak és szükség esetén naprakésznek kell lenniük, és minden észszerű intézkedést meg kell tenni, hogy a cél szempontjából pontatlan adatokat haladéktalanul töröljék vagy helyesbítsék.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a pontosság időbeli és tartalmi követelmény. A GDPR 5. cikk (1) bekezdésének d) pontja szerint a személyes adatoknak pontosnak és szükség esetén naprakésznek kell lenniük, és minden észszerű intézkedést meg kell tenni annak érdekében, hogy az adatkezelés céljai szempontjából pontatlan személyes adatokat haladéktalanul töröljék vagy helyesbítsék. A 16. cikk ezt alanyi joggá fordítja: kérésre indokolatlan késedelem nélküli helyesbítés. A pontatlan adat megőrzése a célhoz kötöttség ellenére is sérti a d) pontot."
+        },
+        {
+          "text": "A pontosság elve megengedi, hogy a cél szempontjából pontatlan adatokat határozatlan ideig megőrizzék, ha az adatkezelő később helyesbíteni tervez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a pontatlan adatot haladéktalanul törölni vagy helyesbíteni kell. A helyes: a GDPR 5. cikk (1) bekezdésének d) pontja szerint minden észszerű intézkedést meg kell tenni, hogy a cél szempontjából pontatlan személyes adatokat haladéktalanul töröljék vagy helyesbítsék. A 16. cikk a helyesbítést indokolatlan késedelem nélküli alanyi jogként erősíti. A tévedés a későbbi tervezett javítást a haladéktalanság helyére teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "5c11b1d24924"
+    },
+    {
+      "question": "Milyen további feltételt köt a GDPR 9. cikk (3) bekezdése az egészségügyi célú h) pont szerinti kezeléshez?",
+      "options": [
+        {
+          "text": "A tagállamok további feltételeket — köztük korlátozásokat — tarthatnak hatályban vagy vezethetnek be a genetikai, a biometrikus és az egészségügyi adatok kezelésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés nemzeti mozgásteret ad. A GDPR 9. cikk (4) bekezdése szerint a tagállamok további feltételeket — köztük korlátozásokat — tarthatnak hatályban, illetve vezethetnek be a genetikai adatok, a biometrikus adatok és az egészségügyi adatok kezelésére vonatkozóan. Ez a mozgástér a (2) bekezdés kivétellistáját nem helyettesíti, hanem a genetikai, biometrikus és egészségügyi adatoknál szigoríthat. A (51) preambulumbekezdés a különleges adatokat természetüknél fogva érzékenynek tekinti, mert kezelésük az alapvető jogokra jelentős kockázatot hordoz."
+        },
+        {
+          "text": "A tagállamok a genetikai, biometrikus és egészségügyi adatoknál nem vezethetnek be további feltételeket, mert a 9. cikk teljesen harmonizált.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés kifejezetten további tagállami feltételeket — ideértve korlátozásokat — enged. A helyes: a GDPR 9. cikk (4) bekezdése szerint a tagállamok további feltételeket — köztük korlátozásokat — tarthatnak hatályban vagy vezethetnek be a genetikai, biometrikus és egészségügyi adatok kezelésére. A tévedés a teljes harmonizációt állítja a (4) bekezdés nemzeti mozgástere ellenében."
+        },
+        {
+          "text": "A 9. cikk (1) bekezdése szerinti különleges adatok a (2) bekezdés h) pontja szerinti egészségügyi célokból csak akkor kezelhetők, ha a kezelés olyan szakember által vagy felelőssége mellett történik, aki uniós vagy tagállami jogban, illetve hatáskörrel rendelkező szerv szabályaiban meghatározott szakmai titoktartás hatálya alatt áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a h) pontot a (3) bekezdés szakmai titoktartáshoz köti. A GDPR 9. cikk (3) bekezdése szerint az (1) bekezdésben említett személyes adatokat a (2) bekezdés h) pontjában említett célokból akkor lehet kezelni, ha a kezelés olyan szakember által vagy felelőssége mellett történik, aki uniós vagy tagállami jogban, illetve az arra hatáskörrel rendelkező tagállami szervek által megállapított szabályokban meghatározott szakmai titoktartási kötelezettség hatálya alatt áll, illetve olyan más személy által, aki szintén ilyen titoktartás alatt áll. A (2) bekezdés h) pontja a megelőző és munkahelyi egészségügyet, a diagnózist, az ellátást és a rendszerek irányítását is e körbe vonja. A (4) bekezdés a genetikai, biometrikus és egészségügyi adatokra további tagállami feltételeket enged."
+        },
+        {
+          "text": "Az egészségügyi célú kezelés a 9. cikk (2) bekezdésének h) pontja alapján bármely adatkezelőnél szabad, szakmai titoktartás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a h) pont a (3) bekezdés szerinti szakmai titoktartáshoz kötött. A helyes: a GDPR 9. cikk (3) bekezdése szerint a (2) bekezdés h) pontja szerinti célokból a kezelés csak olyan szakember által vagy felelőssége mellett történhet, aki uniós vagy tagállami jogban, illetve hatáskörrel rendelkező szerv szabályaiban meghatározott szakmai titoktartás hatálya alatt áll. A tévedés a h) pontot titoktartás nélküli általános felhatalmazásként kezeli."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "700d97f3c573"
+    },
+    {
+      "question": "Mely állítások tévesek a hozzájárulás fogalmáról és a hallgatásról?",
+      "options": [
+        {
+          "text": "A hozzájárulás visszavonása mindig visszamenőlegesen semmisíti a visszavonás előtti, hozzájáruláson alapuló kezelést is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a visszavonás nem hat vissza a korábbi jogszerűségre. A helyes: a GDPR 7. cikk (3) bekezdése szerint a hozzájárulás visszavonása nem érinti a hozzájáruláson alapuló, a visszavonás előtti adatkezelés jogszerűségét, és a visszavonást ugyanolyan egyszerű módon kell lehetővé tenni, mint a megadást. A tévedés a visszavonást semmisségi hatállyal ruházza fel a múltbeli kezelésre."
+        },
+        {
+          "text": "A szerződés teljesítéséhez nem szükséges adatok kezeléséhez való hozzájárulás kikötése soha nem befolyásolja az önkéntesség megítélését.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés éppen ezt a kikötést veszi figyelembe az önkéntességnél. A helyes: a GDPR 7. cikk (4) bekezdése szerint annak megállapításakor, hogy a hozzájárulás önkéntes-e, figyelembe kell venni, hogy a szerződés teljesítésének — beleértve a szolgáltatások nyújtását is — feltételéül szabták-e olyan személyes adatok kezeléséhez való hozzájárulást, amelyek a szerződéshez nem szükségesek. A (43) preambulumbekezdés ezt az önkéntesség ellen hatónak tekinti. A tévedés az önkéntesség próbáját üríti ki."
+        },
+        {
+          "text": "A hallgatás, az előre bejelölt négyzet vagy a nem cselekvés önmagában is érvényes hozzájárulásnak minősül a (32) preambulumbekezdés szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hallgatás és az előre bejelölt négyzet nem hozzájárulás. A helyes: a (32) preambulumbekezdés szerint a hozzájárulás egyértelmű megerősítő cselekedethez kötött — írásbeli, ideértve az elektronikus, vagy szóbeli nyilatkozat, honlapon bejelölt négyzet, technikai beállítás —, és a hallgatás, az előre bejelölt négyzet vagy a nem cselekvés nem minősül hozzájárulásnak. A GDPR 7. cikk (1) bekezdése az adatkezelőre telepíti a hozzájárulás igazolását. A tévedés a passzivitást megerősítő cselekedetté torzítja."
+        },
+        {
+          "text": "A 9. cikk szerinti különleges kategóriáknál elegendő a 6. cikk (1) bekezdésének a) pontja szerinti „sima” hozzájárulás; kifejezett hozzájárulás nem kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a különleges kategóriáknál a hozzájárulás kifejezett. A helyes: a GDPR 9. cikk (2) bekezdésének a) pontja szerint az érintett kifejezett hozzájárulását kell adnia, kivéve ha uniós vagy tagállami jog a tilalmat a hozzájárulással feloldhatatlanná teszi. A 6. cikk (1) bekezdésének a) pontja a rendes jogalap-hozzájárulás, nem pótolja a 9. cikk kifejezett követelményét. A tévedés a két hozzájárulási szintet összemossa."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "50ea95e38d89"
+    },
+    {
+      "question": "Mikor kérhet az adatkezelő további információt a kérelmező személyazonosságának megerősítéséhez, és mikor tagadhatja meg a kérelmet?",
+      "options": [
+        {
+          "text": "Az adatkezelő bármilyen kétség nélkül, rutinból kérhet biometrikus azonosítást minden hozzáférési kérelem előtt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a további információ csak megalapozott kétségnél kérhető. A helyes: a GDPR 12. cikk (6) bekezdése szerint további, a személyazonosság megerősítéséhez szükséges információ csak akkor kérhető, ha az adatkezelőnek megalapozott kétségei vannak a 15–21. cikk szerinti kérelmet benyújtó személy kilétével kapcsolatban. A tévedés a rutin biometrikus azonosítást a megalapozott kétség helyére teszi."
+        },
+        {
+          "text": "Azonosíthatatlanság esetén az adatkezelő indokolás nélkül, véglegesen elutasíthat minden 15–22. cikk szerinti kérelmet, még akkor is, ha az érintett később azonosító adatot ad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megtagadás feltétele a bizonyított azonosíthatatlanság, és az érintett azonosító kiegészítése visszaállítja a 15–20. cikket. A helyes: a GDPR 12. cikk (2) bekezdése szerint a kérelem nem tagadható meg, kivéve ha az adatkezelő bizonyítja, hogy az érintettet nem áll módjában azonosítani; a 11. cikk (2) bekezdése szerint ha az érintett azonosítását lehetővé tevő kiegészítő információkat nyújt, a 15–20. cikk alkalmazandó. A tévedés a végleges, indokolás nélküli elutasítást állítja."
+        },
+        {
+          "text": "A 11. cikk sérelme nélkül, ha az adatkezelőnek megalapozott kétségei vannak a 15–21. cikk szerinti kérelmet benyújtó természetes személy kilétével kapcsolatban, további, az érintett személyazonosságának megerősítéséhez szükséges információk nyújtását kérheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyazonosság megerősítése nem azonos az öncélú azonosítással. A GDPR 12. cikk (6) bekezdése szerint a 11. cikk sérelme nélkül, ha az adatkezelőnek megalapozott kétségei vannak a 15–21. cikk szerinti kérelmet benyújtó természetes személy kilétével kapcsolatban, további, az érintett személyazonosságának megerősítéséhez szükséges információk nyújtását kérheti. A (64) preambulumbekezdés szerint az adatkezelő minden észszerű intézkedést megtesz a kérelmező személyazonosságának megállapítására, de nem őrizheti meg a személyes adatokat kizárólag azért, hogy a lehetséges kérelmeket meg tudja válaszolni. A 11. cikk logikája így a hozzáférési kérelmeknél is érvényesül."
+        },
+        {
+          "text": "A 11. cikk (2) bekezdése szerinti azonosíthatatlanság esetén az adatkezelő a 15–22. cikk szerinti kérelmet nem tagadhatja meg, kivéve ha bizonyítja, hogy az érintettet nem áll módjában azonosítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bizonyítási teher a megtagadáson az adatkezelőn van. A GDPR 12. cikk (2) bekezdése szerint az adatkezelő elősegíti a 15–22. cikk szerinti jogok gyakorlását, és a 11. cikk (2) bekezdése szerinti esetben a kérelmet nem tagadhatja meg, kivéve ha bizonyítja, hogy az érintettet nem áll módjában azonosítani. A 12. cikk (4) bekezdése az intézkedés elmaradásánál egy hónapon belüli indokolást és jogorvoslati tájékoztatást ír elő. A díjmentesség főszabálya mellett az (5) bekezdés a túlzó kérelemnél díjat vagy megtagadást enged."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "b905d771e675"
+    },
+    {
+      "question": "Mikor nincs szükség a szülői felügyeletet gyakorló hozzájárulására a gyermekek védelméről szóló (38) preambulumbekezdés szerint?",
+      "options": [
+        {
+          "text": "A 8. cikk a gyermek minden adatkezelésére — ideértve a közhatalmi feladatot is — kiterjed, életkortól és jogalaptól függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 8. cikk a 6. cikk (1) bekezdésének a) pontjához és a közvetlenül gyermekeknek kínált információs társadalmi szolgáltatásokhoz kötött. A helyes: a GDPR 8. cikk (1) bekezdése szerint, ha a 6. cikk (1) bekezdésének a) pontja alkalmazandó, a közvetlenül gyermekeknek kínált, információs társadalommal összefüggő szolgáltatásoknál a kezelés a tizenhatodik életév vagy a szülői hozzájárulás feltételeivel jogszerű. A tévedés a 8. cikket általános gyermekvédelmi szabályként tágítja ki minden jogalapra."
+        },
+        {
+          "text": "A marketing és a gyermeknek szóló profilalkotás a (38) preambulumbekezdés szerint ugyanúgy mentesül a szülői hozzájárulás alól, mint a megelőzési és tanácsadási szolgáltatás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a marketinget és a profilalkotást a megelőzési–tanácsadási kivétel alá vonja. A helyes: a GDPR 8. cikk (1) bekezdése a közvetlenül gyermekeknek kínált információs társadalmi szolgáltatásoknál a tizenhatodik életévhez vagy a szülői hozzájáruláshoz köti a kezelést, a (38) preambulumbekezdés pedig a marketinget és a profilalkotást a különös védelem kockázatai közé sorolja. Ugyanez a preambulumbekezdés csak a közvetlenül a gyermek részére nyújtott megelőzési és tanácsadási szolgáltatásoknál mondja, hogy a szülői felügyeletet gyakorló hozzájárulására nincs szükség. A tévedés a kockázatkiemelést a kivétellel cseréli fel."
+        },
+        {
+          "text": "A közvetlenül a gyermek részére nyújtott megelőzési és tanácsadási szolgáltatásoknál a szülői felügyeletet gyakorló hozzájárulására nincs szükség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (38) preambulumbekezdés külön kivételt jelez. A (38) preambulumbekezdés a gyermekek különös védelmét a kockázatok, következmények és jogosultságok felismerésének hiányához köti, és kiemeli a marketinget, a személyi vagy felhasználói profilok létrehozását, valamint a közvetlenül a gyermeknek nyújtott szolgáltatások során végzett gyűjtést. Ugyanakkor a közvetlenül a gyermek részére nyújtott megelőzési és tanácsadási szolgáltatásoknál a szülői felügyeletet gyakorló hozzájárulására nincs szükség. A GDPR 8. cikk (1) bekezdése a főszabályt a tizenhatodik — tagállami eltéréssel legalább tizenharmadik — életévhez és a szülői hozzájáruláshoz köti."
+        },
+        {
+          "text": "A (38) preambulumbekezdés szerinti mentesülés szűk: a marketingre és a személyi vagy felhasználói profilok létrehozására nem terjed ki; e körök a gyermek különös védelmének kockázatai közé tartoznak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megelőzési–tanácsadási kivétel nem általános hatály. A (38) preambulumbekezdés a marketinget, a profilalkotást és a közvetlenül a gyermeknek nyújtott szolgáltatások során végzett gyűjtést a különös védelem kockázatai közé sorolja. Ugyanez a preambulumbekezdés csak a közvetlenül a gyermek részére nyújtott megelőzési és tanácsadási szolgáltatásoknál mondja, hogy a szülői felügyeletet gyakorló hozzájárulására nincs szükség. A GDPR 8. cikk (1) bekezdése a hozzájárulásos jogalap életkori küszöbét rendezi, nem e kivétel terjedelmét."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "2af201c5b5a1"
+    },
+    {
+      "question": "Mely állítások tévesek a 23. cikk szerinti korlátozásokról és a Charta szerepéről?",
+      "options": [
+        {
+          "text": "A 23. cikk lehetővé teszi, hogy a 12–22. cikk jogait üzleti titokra hivatkozva, részletes tartalmi minimum nélkül, általános belső szabályzattal szűkítsék.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szűkítéshez jogalkotási intézkedés és a (2) bekezdés tartalmi minimuma kell. A helyes: a GDPR 23. cikk (1)–(2) bekezdése a célokra, az adatok kategóriáira, a hatályra, a garanciákra, az adatkezelőre, a tárolási időre, a kockázatokra és a tájékoztatásra vonatkozó részletes rendelkezéseket is előír. A tévedés a belső szabályzatot a jogalkotási intézkedés helyére teszi."
+        },
+        {
+          "text": "A 23. cikk az 5. cikk szerinti elveket és kötelezettségeket soha, semmilyen jogalkotási intézkedéssel nem érintheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az 5. cikk elveit abszolút érinthetetlennek állítja a 23. cikkel szemben. A helyes: a GDPR 23. cikk (1) bekezdése a 12–22. és a 34. cikk mellett — a 12–22. cikkel összhangban lévő rendelkezések tekintetében — az 5. cikk szerinti jogok és kötelezettségek hatályát is korlátozhatja jogalkotási intézkedéssel. A (2) bekezdés a célokra, az adatok kategóriáira, a hatályra és a garanciákra vonatkozó tartalmi minimumot is előír. A tévedés az elvi fejezetet a korlátozási hatályon kívül helyezi."
+        },
+        {
+          "text": "A (73) preambulumbekezdés szerint a korlátozásoknak nem kell tiszteletben tartaniuk a Chartát és az emberi jogok európai egyezményét, elég a nemzeti közérdek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (73) preambulumbekezdés kifejezetten a Charta és az emberi jogok európai egyezménye tiszteletben tartását írja elő. A helyes: a (73) preambulumbekezdés szerint a korlátozásoknak a Chartát és az emberi jogok európai egyezményét tiszteletben kell tartaniuk, és a GDPR 23. cikk (1) bekezdése a lényeges tartalom, a szükségesség és az arányosság feltételét is rögzíti. A tévedés a nemzeti közérdeket a lényeges tartalom fölé helyezi."
+        },
+        {
+          "text": "Az adatkezelő a Chartára hivatkozva, jogalkotási intézkedés nélkül is megtagadhatja a 15. cikk szerinti hozzáférést, ha úgy ítéli meg, hogy az arányos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a Chartát önálló, adatkezelői megtagadási jogcímmé emeli. A helyes: a GDPR 23. cikk (1) bekezdése szerint a 12–22. és a 34. cikk, valamint az 5. cikk megfelelő rendelkezéseinek hatályát csak uniós vagy tagállami jogalkotási intézkedés korlátozhatja, a lényeges tartalom, a szükségesség és az arányosság mellett. A (73) preambulumbekezdés szerint a korlátozásoknak a Chartát és az emberi jogok európai egyezményét tiszteletben kell tartaniuk, de ez nem pótolja a jogalkotási intézkedést. A tévedés a Chartát az adatkezelő diszkréciójának alapjává teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "f062e23fcb30"
+    },
+    {
+      "question": "Miben áll az adattakarékosság elve, és mivel téveszthető össze a célhoz kötöttséggel?",
+      "options": [
+        {
+          "text": "Az adattakarékosság szerint a személyes adatoknak az adatkezelés céljai szempontjából megfelelőeknek és relevánsaknak kell lenniük, és a szükségesre kell korlátozódniuk.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az adattakarékosság a mennyiségi és relevanciabeli minimum. A GDPR 5. cikk (1) bekezdésének c) pontja szerint a személyes adatoknak az adatkezelés céljai szempontjából megfelelőeknek és relevánsaknak kell lenniük, és a szükségesre kell korlátozódniuk. A célhoz kötöttség (b) pont) a cél meghatározását és az összeegyeztethetőséget, az adattakarékosság pedig a célhoz szükséges adatmennyiséget szabályozza. A 11. cikk az azonosítás öncélú kikényszerítésének tilalmával ugyanezt az adattakarékossági logikát erősíti."
+        },
+        {
+          "text": "A célhoz kötöttség és az adattakarékosság ugyanazt jelenti: elég a célt megnevezni, az adatmennyiség nem számít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két elv külön pontban, külön tartalommal szerepel. A helyes: a GDPR 5. cikk (1) bekezdésének b) pontja a cél meghatározását és az összeegyeztethetőséget, a c) pont pedig a célhoz szükséges adatmennyiséget és relevanciát szabályozza. A tévedés a két elvet egyetlen, üres célszlogenné vonja össze."
+        },
+        {
+          "text": "A célhoz kötöttség a gyűjtéskor meghatározott, egyértelmű és jogszerű célt, valamint az azzal össze nem egyeztethető további kezelés tilalmát adja; az adattakarékosság ehhez képest a célhoz szükséges minimumra szorítja az adatokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két elv egymásra épül, de nem azonos. A GDPR 5. cikk (1) bekezdésének b) pontja a célhoz kötöttséget, a c) pont az adattakarékosságot rögzíti. A 6. cikk (4) bekezdése a céltól eltérő további kezelés összeegyeztethetőségét vizsgálja, míg az adattakarékosság akkor is érvényes, ha a cél jogszerű és összeegyeztethető. A 89. cikk (1) bekezdése szerinti archiválási, kutatási és statisztikai további kezelés a célhoz kötöttségnél nem minősül össze nem egyeztethetőnek, de az adattakarékosság és a garanciák továbbra is vizsgálandók."
+        },
+        {
+          "text": "Az adattakarékosság megengedi a célhoz nem szükséges adatok gyűjtését, ha az adatkezelő későbbi, még nem meghatározott célokra tartalékolja őket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szükségesre korlátozás tiltja a célhoz nem szükséges tartalékolást. A helyes: a GDPR 5. cikk (1) bekezdésének c) pontja szerint az adatoknak a célok szempontjából megfelelőeknek és relevánsaknak kell lenniük, és a szükségesre kell korlátozódniuk; a b) pont szerinti célhoz kötöttség pedig a gyűjtéskor meghatározott célt kíván. A tévedés a későbbi, meg nem határozott célú tartalékolást mindkét elv ellenében engedi."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "2d5e50f8c87f"
+    },
+    {
+      "question": "Mit jelent az elszámoltathatóság a GDPR 5. cikk (2) bekezdése szerint a II. és a III. fejezet viszonyában?",
+      "options": [
+        {
+          "text": "Az adatkezelő felelős az (1) bekezdésnek való megfelelésért, továbbá képesnek kell lennie e megfelelés igazolására; ez a bizonyítási teher a 12. cikk határidőire és a 15. cikk másolatára is támaszkodik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elszámoltathatóság a hat anyagi elv igazolási terhe. A GDPR 5. cikk (2) bekezdése szerint: „Az adatkezelő felelős az (1) bekezdésnek való megfelelésért, továbbá képesnek kell lennie e megfelelés igazolására („elszámoltathatóság”).” A bevezető szerint a 12. cikk határidői és a 15. cikk másolata e (2) bekezdésre támaszkodik: ami nem igazolható, az a rendelet szerint nem felel meg. A 7. cikk (1) bekezdése a hozzájárulás igazolását ugyanezen elszámoltathatósági ágba helyezi."
+        },
+        {
+          "text": "Ami nem igazolható, az a rendelet szerint nem felel meg; a 7. cikk (1) bekezdése a hozzájárulás igazolását ugyanezen elszámoltathatósági ágba helyezi, nem csupán utólagos hatósági díszként.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az igazolhatatlanság meg nem felelés, és a hozzájárulás is e teher alá esik. A GDPR 5. cikk (2) bekezdése szerint az adatkezelő felelős az (1) bekezdésnek való megfelelésért, és képesnek kell lennie e megfelelés igazolására. A GDPR 7. cikk (1) bekezdése szerint, ha a kezelés hozzájáruláson alapul, az adatkezelőnek képesnek kell lennie annak igazolására, hogy az érintett hozzájárult. A fejezet-szerkezeti leírás és a 23. cikk szűkítő hatálya ettől elváló tanulási sík."
+        },
+        {
+          "text": "A 23. cikk kizárólag a III. fejezetet érinti; az 5. cikk elvei és kötelezettségei jogalkotási intézkedéssel sem korlátozhatók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 23. cikk az 5. cikk megfelelő rendelkezéseinek hatályát is korlátozhatja. A helyes: a GDPR 23. cikk (1) bekezdése a 12–22. és a 34. cikk mellett — a 12–22. cikkel összhangban lévő rendelkezések tekintetében — az 5. cikk szerinti jogok és kötelezettségek hatályát is korlátozhatja jogalkotási intézkedéssel. A tévedés az 5. cikket a 23. cikk hatályán kívül helyezi."
+        },
+        {
+          "text": "Az elszámoltathatóság csak a felügyeleti hatóság eljárásában vizsgálandó utólagos dísz; a 15–22. cikk szerinti kérelmeknél nincs igazolási teher.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elszámoltathatóság az (1) bekezdés mind a hat elvének folyamatos bizonyítási terhe. A helyes: a GDPR 5. cikk (2) bekezdése szerint az adatkezelő felelős az (1) bekezdésnek való megfelelésért, és képesnek kell lennie azt igazolni; a 12. cikk határidői és a 15. cikk másolata is erre támaszkodik. A tévedés az igazolást hatósági utóellenőrzésre szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "ccbdbd66db74"
+    }
+  ]
+}

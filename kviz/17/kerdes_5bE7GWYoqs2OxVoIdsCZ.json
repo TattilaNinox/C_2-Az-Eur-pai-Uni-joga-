@@ -1,0 +1,1251 @@
+{
+  "id": "5bE7GWYoqs2OxVoIdsCZ",
+  "sorszam": 17,
+  "cim": "A közvetlen hatály; az Alapszerződések, a rendeletek, az irányelvek (...)",
+  "generationType": "kerdes",
+  "title": "17. A közvetlen hatály; az Alapszerződések, a rendeletek, az irányelvek (...)",
+  "questions": [
+    {
+      "question": "Milyen hármas ismérv teszi a szerződéses rendelkezést egyéni jogot keletkeztetővé a Van Gend en Loos-ügy szerint, és miért nem a 288. cikk „címkéje” a közvetlen hatály?",
+      "options": [
+        {
+          "text": "A közvetlen hatály azt jelenti, hogy a magánszemély csak a Bizottság kötelezettségszegési keresetéhez csatlakozva érvényesíthet jogot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen hatály nem a Bizottság keresetének függeléke. A C-26/62. sz. Van Gend en Loos ügy szerint a 169. és a 170. cikk szerinti út nem fosztja meg a magánszemélyeket attól, hogy a kötelezettségekre a nemzeti bíróság előtt hivatkozzanak. A helyes: a magánszemélyek ébersége kiegészíti a Bizottság és a tagállamok ellenőrzését. A tévedés a kötelezettségszegési eljárást a közvetlen hatály helyettesítőjének tekinti."
+        },
+        {
+          "text": "A 288. cikk a kötőerő-katalógust adja; a közvetlen hatályt a Bíróság a Szerződés szelleméből, rendszeréből és megfogalmazásából vezeti le, nem a katalógus címkéjéből.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötőerő és a közvetlen hatály két sík. Az EUMSZ 288. cikk az aktusok kötelező jellegét sorolja, a közvetlen hatályt azonban a Bíróság a Van Gend-ügyben a Szerződés szelleméből, rendszeréből és megfogalmazásából vezette le. A C-41/74. sz. Van Duyn ügy is e kötelező jellegből indult, amikor az irányelv vertikális hivatkozhatóságát elismerte — de a fogalom magja továbbra sem a 288. cikk címkéje."
+        },
+        {
+          "text": "A rendelkezésnek világosnak és feltétel nélkülinek kell lennie, a tagállam nem teheti a végrehajtást pozitív belső jogi aktustól függővé, és a tartózkodási tilalom különösen alkalmas a közvetlen hatályra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ismérv hármas a Van Gend-mérce szerint. A C-26/62. sz. Van Gend en Loos ügy szerint a rendelkezésnek világosnak és feltétel nélkülinek kell lennie, a tagállam nem teheti a végrehajtást pozitív belső jogi aktustól függővé, és a tartózkodási tilalom különösen alkalmas a közvetlen hatályra. Az EGK-Szerződés 12. cikke ilyen, tartózkodásra kötelező tilalmat állapított meg a vámok és az azokkal azonos hatású díjak körében; a kötelezettségszegési út (akkori 169. és 170. cikk) e magánjogi védelmet nem zárja ki."
+        },
+        {
+          "text": "A közvetlen hatály kizárólag akkor áll fenn, ha a 288. cikk kifejezetten kimondja az adott aktustípusra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötőerő-katalógus nem egyenlő a közvetlen hatály taxatív kimondásával. Az EUMSZ 288. cikk az aktusok kötelező jellegét adja, a közvetlen hatályt azonban a Bíróság a Szerződés szelleméből, rendszeréből és megfogalmazásából vezeti le. A helyes: a C-41/74. sz. Van Duyn ügy is e kötelező jellegből indult, amikor az irányelv vertikális hivatkozhatóságát elismerte. A tévedés a 288. cikk felsorolását a közvetlen hatály egyetlen forrásának nézi."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "718eb050a139"
+    },
+    {
+      "question": "Mi következik a vertikális–horizontális síkelhatárolásból a Szerződés, a rendelet és az irányelv hivatkozhatóságára?",
+      "options": [
+        {
+          "text": "A vertikális és a horizontális hivatkozás az aktus típusával azonos: a rendelet mindig csak vertikális, az irányelv mindig csak horizontális.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a sík és az aktustípus nem esik egybe. A Szerződés és a rendelet az EUMSZ 288. cikk szerinti kötőerő miatt mindkét síkon hivatkozható lehet, az irányelv viszont magánszemélyre kötelezettséget önmagában nem ró. A helyes: a C-152/84. sz. Marshall ügy a horizontális közvetlen hatályt zárja, a rendeletnél ilyen zár nincs. A tévedés a síkot az aktusnévvel azonosítja."
+        },
+        {
+          "text": "A sík a felek viszonyát jelöli, nem az aktus elnevezését: a Szerződés és a rendelet az EUMSZ 288. cikk szerinti kötőerő miatt mindkét síkon hivatkozható lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a sík a felek viszonyát jelöli, az aktustípus pedig a 288. cikk szerinti kötőerőt. A vertikális a magánszemély–tagállam tengely, a horizontális a magánfelek közötti jogvita. Az EUMSZ 288. cikk szerint a rendelet általános hatályú, teljes egészében kötelező és közvetlenül alkalmazandó, ezért mindkét síkon hivatkozható lehet; a „rendelet = mindig csak vertikális” azonosítás ezért téves."
+        },
+        {
+          "text": "Horizontális közvetlen hatály hiányában a magánfelek közötti jogvitában semmilyen irányelvi hatás nem érvényesülhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a horizontális közvetlen hatály tilalma nem zárja ki a közvetett hatályt. A C-106/89. sz. Marleasing ügy szerint a nemzeti bíróság köteles a nemzeti jogot az irányelv szövege és célja fényében értelmezni, hogy az irányelv eredményét kihozza. A helyes: az EUMSZ 288. cikk szerinti irányelvi kötőerő a bíróságon keresztül érvényesül. A tévedés a Marshall-zárat abszolút hatástalansággá tágítja."
+        },
+        {
+          "text": "Az irányelvnél a C-152/84. sz. Marshall-ügy a magánszemélyre rótt kötelezettséget zárja: az irányelv önmagában horizontális közvetlen hatállyal nem hivatkozható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Marshall-ratio a síkelhatárolás irányelvi következménye. A C-152/84. sz. Marshall ügy szerint az irányelv kötelező jellege csak a címzett tagállamra áll fenn, ezért magánszemélyre kötelezettséget önmagában nem ró. Ez a horizontális közvetlen hatály zárja — a sík elhatárolásának aktustípus-specifikus eredménye, nem a két sík fogalmi definíciójának ismétlése."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "0887d7e9a5bc"
+    },
+    {
+      "question": "Az EUMSZ 288. cikk szerinti rendelet milyen három ismérvvel alapozza meg a közvetlen alkalmazást?",
+      "options": [
+        {
+          "text": "Általános hatállyal bír, teljes egészében kötelező, és közvetlenül alkalmazandó valamennyi tagállamban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet e három ismérve a 288. cikk szövegéből következik. Az EUMSZ 288. cikk szerint a rendelet „általános hatállyal bír”, továbbá „teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban”. A C-41/74. sz. Van Duyn ügy 12. pontja e szerződéses minőséget a közvetlen hatályhoz köti."
+        },
+        {
+          "text": "A három ismérv együtt azt jelenti, hogy a transzpozíció hiánya a rendeletnél nem előfeltétele a hivatkozásnak; a rendelet a nemzeti jogrendben magától érvényesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három ismérv jogkövetkezménye a transzpozíció nélküli alkalmazás. A Van Duyn-ügy 12. pontja szerint a rendeletek a 189. cikk (ma 288. cikk) rendelkezései alapján közvetlenül alkalmazandók, és természetükből adódóan közvetlen hatállyal bírnak. Ha a tagállam mégis „átültet”, a rendelet tartalmát nem szűkítheti és nem teheti feltételessé. Ez a három ismérv felsorolásának következménye, nem a síkbeli hivatkozhatóság külön tanulási célja."
+        },
+        {
+          "text": "A rendelet csak a megjelölt címzettekre nézve kötelező, és belőle csak vertikális alanyi jog származhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a címzetti szűkítés a határozat sajátossága. Az EUMSZ 288. cikk szerint a határozat teljes egészében kötelező, és ha megjelöli a címzettjeit, kizárólag azokra nézve kötelező; a rendeletnél ilyen szűkítés nincs. A helyes: a rendelet általános hatályú, teljes egészében kötelező és közvetlenül alkalmazandó. A tévedés a határozat címzetti szerkezetét írja a rendeletre."
+        },
+        {
+          "text": "A rendelet az elérendő célokat illetően kötelezi a címzett tagállamot, a forma és az eszközök azonban a nemzeti hatóságoké.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez az irányelv szabálya, nem a rendeleté. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően minden címzett tagállamra kötelező, a forma és az eszközök megválasztását a nemzeti hatóságokra hagyja; a rendelet viszont teljes egészében kötelező és közvetlenül alkalmazandó. A helyes: a célkötelem versus a közvetlen alkalmazandóság. A tévedés a két kötelező aktustípus összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "3eafe1f2ab62"
+    },
+    {
+      "question": "A C-26/62. sz. Van Gend en Loos ügyben miért volt alkalmas az EGK-Szerződés 12. cikke a közvetlen hatályra?",
+      "options": [
+        {
+          "text": "A 12. cikk világos és feltétel nélküli tilalmat állapított meg, amely tartózkodási kötelezettség, és végrehajtása nem igényelt jogalkotói beavatkozást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bíróság a 12. cikket a 9. cikkel együtt olvasta: a vámunió alapvető tilalmának alkalmazását adja. A szöveg világos, feltétel nélküli, nem tevési, hanem tartózkodási kötelezettség, és az államok nem kötötték pozitív belső aktushoz. A tilalom jellegénél fogva tökéletesen alkalmas a közvetlen hatályra a tagállamok és jogalanyaik között. A cikk a „Közösség alapjai” között szerepelt."
+        },
+        {
+          "text": "A Közösség új jogrendjének alanyai a tagállamok és az állampolgárok is, ezért a világos szerződéses kötelezettség egyéni jogot is keletkeztethet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Van Gend-formula a jogalanyiságot kiterjeszti. A C-26/62. sz. ügy szerint a Közösség a nemzetközi jog új jogrendjét képezi, amelynek alanyai nemcsak a tagállamok, hanem azok állampolgárai is. A jogok azokból a kötelezettségekből is keletkeznek, amelyeket a Szerződés egyértelműen rögzít a magánszemélyek, a tagállamok és a közösségi intézmények számára. Az EGK-Szerződés 12. cikke a vámok és az azokkal azonos hatású díjak új bevezetését vagy emelését tiltó, egyértelmű tartózkodási kötelezettség volt."
+        },
+        {
+          "text": "A 12. cikk közvetlen hatálya azért állt fenn, mert a holland alkotmányjog kifejezetten elismerte a közösségi norma elsőbbségét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság nem a holland alkotmányjogból indult. A C-26/62. sz. ügyben a választ a Szerződés szelleme, rendszere és megfogalmazása alapján adta meg; a holland belső jogelvek szerinti alkalmazás a nemzeti bíróság feladata maradt. A helyes: a közvetlen hatály közösségi jogi értelmezés eredménye. A tévedés a nemzeti alkotmányjogot teszi a közvetlen hatály forrásává."
+        },
+        {
+          "text": "A 12. cikk csak a Bizottság és a tagállamok közötti kötelezettségszegési eljárásban volt érvényesíthető, ezért közvetlen hatálya nem volt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kormányzati érv tévesnek minősült. A C-26/62. sz. Van Gend en Loos ügy szerint a 169. és a 170. cikkre alapított út nem fosztja meg a magánszemélyeket a nemzeti bíróság előtti hivatkozástól. A helyes: a 12. cikket úgy kell értelmezni, hogy közvetlen hatállyal bír, és egyéni jogokat keletkeztet. A tévedés a kötelezettségszegési utat kizárólagos biztosítéknak tekinti."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "8f224c7f29fe"
+    },
+    {
+      "question": "A C-41/74. sz. Van Duyn-ügy harmadik kérdése szerint hogyan határolható el a közrendi fenntartás tartalma a 48. cikk (EGK; ma EUMSZ 45.) közvetlen hatályától?",
+      "options": [
+        {
+          "text": "A csoporthoz való jelenlegi tartozás — a tevékenységben való részvétel és a célokkal való azonosulás — személyes viselkedés lehet; a tagállam nem köteles a szervezet tevékenységét jogszabállyal megtiltani a közrendi hivatkozáshoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyes viselkedés a 64/221 irányelv 3. cikkének (1) bekezdése szerinti mérce. A C-41/74. sz. ügy szerint a tagállam, amely a szervezetet a társadalomra veszélyesnek ítélte és hatósági intézkedéseket foganatosított, a közrendre hivatkozhat anélkül, hogy a tevékenységet jogszabállyal tiltaná. Ez a közrendi tartalom elhatárolása, nem a 48. cikk (EGK; ma EUMSZ 45.) (1)–(2) bekezdésének ismételt pontossági magja."
+        },
+        {
+          "text": "A 48. cikk (EGK; ma EUMSZ 45.) csak akkor bír közvetlen hatállyal, ha a tagállam a közrendi fenntartást jogszabállyal kifejezetten kizárta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen hatály nem a fenntartás kizárásától függ. A C-41/74. sz. Van Duyn ügy szerint a (3) bekezdés fenntartása mellett is igenlő a válasz: a 48. cikk (EGK; ma EUMSZ 45.) közvetlen hatállyal bír. A helyes: a fenntartás alkalmazása bírósági úton felülvizsgálható, de a szabad mozgást biztosító rendelkezések alanyi jogot keletkeztetnek. A tévedés a fenntartást a közvetlen hatály előfeltételévé fordítja."
+        },
+        {
+          "text": "A közrend fogalmát közösségi összefüggésben szigorúan kell érteni: tartalmát a tagállamok a közösségi intézmények ellenőrzése nélkül egyoldalúan nem határozhatják meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartalmi korlát nem hatálykioltás. A C-41/74. sz. Van Duyn ügy a 48. cikk (EGK; ma EUMSZ 45.) és a 64/221 irányelv 3. cikkének együttes olvasatával adja a közrendi fenntartás tartalmát. A nemzeti hatóságok mérlegelése a Szerződés korlátai között elismerhető, de közösségi ellenőrzés mellett áll. A fenntartás a közvetlen hatályt nem vonja vissza."
+        },
+        {
+          "text": "A 48. cikk (EGK; ma EUMSZ 45.) közvetlen hatálya kizárólag a Bizottság kötelezettségszegési keresetében érvényesül, nemzeti bíróság előtt nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Duyn-ügy éppen a nemzeti bíróság előtti érvényesíthetőségről szólt. A High Court of Justice a 177. cikk (ma EUMSZ 267.) alapján kérdezett, és a Bíróság szerint a 48. cikk (EGK; ma EUMSZ 45.) a magánszemélyek számára olyan jogokat biztosít, amelyeket a tagállami bíróságok előtt érvényesíthetnek. A helyes: a nemzeti bíróságnak e jogokat védelemben kell részesítenie. A tévedés a kötelezettségszegési utat kizárólagosnak tekinti."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "c977d52f1d0f"
+    },
+    {
+      "question": "Mi következik abból, ha a Tanács irányelvet és nem rendeletet fogad el a 189. cikk (ma 288. cikk) szerinti katalógusban?",
+      "options": [
+        {
+          "text": "Az irányelv csak ajánlásként érvényesül, ezért belőle sem vertikális, sem horizontális alanyi jog nem származhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelv kötelező, az ajánlás nem. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően minden címzett tagállamra kötelező, míg az ajánlások és a vélemények nem kötelezőek. A helyes: a C-41/74. sz. Van Duyn ügy a 64/221 irányelv 3. cikkének (1) bekezdését vertikálisan hivatkozhatóvá tette. A tévedés az irányelvet az ajánlás kötőerő-nélküliségével azonosítja."
+        },
+        {
+          "text": "A rendelet természete szerint közvetlen hatályú, de ebből nem következik, hogy a cikkben felsorolt egyéb aktusok soha ne rendelkezhetnének hasonló hatállyal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Van Duyn-ügy elutasította az Egyesült Királyság ellentétes érvelését. A C-41/74. sz. ügy szerint a rendeletek a 189. cikk (ma 288. cikk) alapján közvetlenül alkalmazandók és természetükből adódóan közvetlen hatállyal bírnak, de ez nem zárja ki az egyéb aktusok hasonló hatályát. Az irányelv kötelező jellegével összeegyeztethetetlen lenne az elvi kizárás. A hatékony érvényesülés sérülne, ha a jogalanyok nem hivatkozhatnának rá."
+        },
+        {
+          "text": "Ha a Tanács irányelvet választott, az aktus soha nem lehet közvetlenül alkalmazandó, mert a 189. cikk a közvetlen alkalmazandóságot csak a rendeletnek tartja fenn.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez volt az Egyesült Királyság elutasított érve. A C-41/74. sz. Van Duyn ügy szerint a rendelet természet szerinti közvetlen hatályából nem következik, hogy az egyéb aktusok soha ne bírhatnának hasonló hatállyal. A helyes: az irányelv kötelező jellege összeegyeztethetetlen a hivatkozás elvi kizárásával. A tévedés a rendelet–irányelv megkülönböztetést abszolút hatálytilalommá merevíti."
+        },
+        {
+          "text": "Az irányelv kötelező jellege — különösen, ha a tagállamot meghatározott magatartásra kötelezi — lehetővé teheti, hogy a magánszemély a nemzeti bíróság előtt hivatkozzon rá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelező jelleg a hivatkozás alapja. A C-41/74. sz. Van Duyn ügy szerint, ha a Közösség hatóságai irányelvben meghatározott magatartásra kötelezték a tagállamokat, a jogi aktus hatékony érvényesülése sérülne a hivatkozás elvi kizárásával. A 177. cikk (ma EUMSZ 267.) is magában foglalja, hogy a jogalanyok e bíróságok előtt az intézmények aktusaira hivatkozhatnak. Minden esetben a rendelkezés természete, rendszere és kifejezései döntik el a közvetlen hatály alkalmasságát."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "167241c5844a"
+    },
+    {
+      "question": "A 64/221 irányelv 3. cikkének (1) bekezdése milyen feltételek mellett vált ki vertikális közvetlen hatályt a Van Duyn-ügyben?",
+      "options": [
+        {
+          "text": "A rendelkezés horizontálisan is kötelezi a magánmunkáltatót, ezért a magánfelek közötti vitában is közvetlenül hivatkozható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Duyn-ügy vertikális tényállás volt. A C-41/74. sz. ügyben Van Duyn a Home Office ellen indított keresetet; a horizontális tilalmat a C-152/84. sz. Marshall ügy rögzíti. A helyes: az irányelv önmagában nem róhat kötelezettségeket magánszemélyekre. A tévedés a vertikális hivatkozhatóságot horizontális kötelezettséggé tágítja."
+        },
+        {
+          "text": "A 3. cikk (1) bekezdése csak akkor hivatkozható, ha a tagállam a szervezet tevékenységét előzetesen jogszabállyal megtiltotta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Duyn-ügy e követelményt elutasította. A C-41/74. sz. ügy szerint a tagállam, amely a szervezetet a társadalomra veszélyesnek ítélte és hatósági intézkedéseket foganatosított, nem köteles a tevékenységet jogszabállyal megtiltani ahhoz, hogy a közrendre hivatkozhasson. A helyes: a csoporthoz való jelenlegi tartozás személyes viselkedésnek minősülhet. A tévedés a közrendi fenntartáshoz kitalált előzetes törvényi tilalmat fűz."
+        },
+        {
+          "text": "A rendelkezés olyan kötelezettséget határoz meg, amely nem tartalmaz fenntartást vagy feltételt, és természeténél fogva nem igényel további uniós vagy tagállami aktust.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetlen hatály alkalmassága eseti vizsgálat. A C-41/74. sz. Van Duyn ügy szerint a 64/221 irányelv 3. cikkének (1) bekezdése a nemzeti hatóságok diszkrecionális jogkörét korlátozza: a közrendi intézkedések kizárólag az érintett személy viselkedésén alapulhatnak. A kötelezettség fenntartás és feltétel nélküli. A rendelkezés értelme és pontos hatálya értelmezési kérdéseket vethet fel, de ezek a 177. cikk (ma EUMSZ 267.) szerinti előzetes döntéshozatali eljárással rendezhetők."
+        },
+        {
+          "text": "A magánszemélyek számára olyan jogokat keletkeztet, amelyeket a tagállami bíróság előtt érvényesíthetnek, és amelyeket a nemzeti bíróságoknak védelemben kell részesíteniük.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a második kérdésre adott válasz lényege. A C-41/74. sz. ügy a 64/221 irányelv 3. cikkének (1) bekezdését vertikális közvetlen hatállyal ruházta fel. Van Duyn a Home Office-szal, vagyis a tagállammal állt szemben. A horizontális zárat később a C-152/84. sz. Marshall ügy mondja ki. A jogbiztonság megkívánja, hogy e kötelezettségre hivatkozni lehessen."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "f33af7f23ee2"
+    },
+    {
+      "question": "Milyen jogkövetkezménnyel jár az EUMSZ 288. cikk szerint, ha egy aktus ajánlás vagy vélemény?",
+      "options": [
+        {
+          "text": "Az ajánlás és a vélemény kötőerő nélkül áll, ezért belőlük sem vertikális, sem horizontális alanyi jog nem vezethető le.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötőerő hiánya kizárja a közvetlen hatályt. Az EUMSZ 288. cikk záró mondata szerint: „Az ajánlások és a vélemények nem kötelezőek.” A rendelet, az irányelv és a határozat kötelező jellege ehhez képest más. A közvetlen hatály a kötelező jellegből és a rendelkezés alkalmasságából vezethető le, kötőerő nélkül nem."
+        },
+        {
+          "text": "A 288. cikk öt aktustípusa nem egyforma: az ajánlás és a vélemény a kötelező három típustól elválik, mert hiányzik belőlük a teljes kötelező erő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a katalógus belső differenciálása döntő. Az EUMSZ 288. cikk a rendeletet, az irányelvet és a határozatot kötelezőként írja le, az ajánlást és a véleményt nem. A határozat címzetti szűkítése is eltér a rendelettől. Az ajánlásból ezért sem a Van Gend-féle egyéni jog, sem a Marshall-féle vertikális hivatkozás nem vezethető le."
+        },
+        {
+          "text": "A vélemény csak a megjelölt címzettekre nézve kötelező, de belőle alanyi jog mindig származik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a címzetti kötelező erő a határozaté, a véleményé nem. Az EUMSZ 288. cikk szerint a határozat teljes egészében kötelező, és ha megjelöli a címzettjeit, kizárólag azokra nézve kötelező; a vélemények viszont nem kötelezőek. A helyes: a véleményből alanyi jog nem származik. A tévedés a határozat címzetti szerkezetét keveri a véleménnyel."
+        },
+        {
+          "text": "Az ajánlás a rendeletével azonos három ismérvvel bír, ezért vertikálisan és horizontálisan is közvetlenül alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ajánlás nem rendelet. Az EUMSZ 288. cikk szerint a rendelet általános hatályú, teljes egészében kötelező és közvetlenül alkalmazandó, míg az ajánlások és a vélemények nem kötelezőek. A helyes: kötőerő híján közvetlen hatályt nem alapoznak meg. A tévedés a rendelet három ismérvét írja az ajánlásra."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "d4ff0feca383"
+    },
+    {
+      "question": "A C-152/84. sz. Marshall ügyben miért minősült irányelvsértő megkülönböztetésnek a nő kötelező elbocsátása az állami nyugdíjkorhatár elérésekor?",
+      "options": [
+        {
+          "text": "Egy olyan általános elbocsátási politika, amely a nőt kizárólag azért bocsátja el, mert elérte a férfiakétól eltérő állami nyugdíjkorhatárt, nemen alapuló megkülönböztetés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez az első kérdésre adott válasz. A C-152/84. sz. ügy a 76/207/EGK 5. cikkének (1) bekezdését úgy értelmezte, hogy az eltérő korhatárhoz kötött kötelező elbocsátás irányelvsértő. A Social Security Act 1975 a nyugdíj megállapítását rendezte, de nem írt elő nyugdíjba vonulási kötelezettséget. A Marshall-ügy tárgya ezért az elbocsátás, nem a társadalombiztosítási ellátás."
+        },
+        {
+          "text": "A 76/207/EGK irányelv csak a munkaviszony létesítésére vonatkozik, az elbocsátás feltételeire nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 76/207/EGK irányelv az elbocsátást is lefedi. A 76/207/EGK irányelv 5. cikkének (1) bekezdése a munkakörülményekre — beleértve az elbocsátás feltételeit is — alkalmazza az egyenlő bánásmód elvét. A helyes: a C-152/84. sz. Marshall ügy éppen e rendelkezésre épült, amikor a kötelező nyugdíjazási politikát elbocsátásként értékelte. A tévedés a tárgyi hatályt a belépésre szűkíti."
+        },
+        {
+          "text": "A megkülönböztetés jogszerű, mert a 79/7/EGK irányelv 7. cikke a nyugdíjkorhatár megállapítását teljes egészében kiveszi az egyenlő bánásmód alól, ideértve az elbocsátást is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivétel nem nyeli el az elbocsátási szabályt. A C-152/84. sz. Marshall ügy szerint a 79/7/EGK 7. cikkében foglalt kivétel a társadalombiztosítási ellátásokra gyakorolt következményekre vonatkozik, és szigorúan olvasandó. A helyes: a Marshall-ügy tárgya a 76/207/EGK 5. cikke szerinti elbocsátás. A tévedés a nyugdíjkivételt az elbocsátási korhatárra tágítja."
+        },
+        {
+          "text": "A 76/207/EGK irányelv 5. cikkének (1) bekezdése szerint a munkakörülményekre — beleértve az elbocsátás feltételeit is — a nemen alapuló megkülönböztetés nélkül azonos feltételeket kell biztosítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vita elbocsátási politika, nem nyugdíjhozzáférés. A C-152/84. sz. Marshall ügy szerint a kérdés a 76/207/EGK irányelv alapján vizsgálandó, mert a munkaviszony megszüntetésének korhatáráról szól. A Burton-ügy nyomán az „elbocsátás” fogalma a kötelező nyugdíjazási politikát is lefedi. A 79/7/EGK 7. cikkének nyugdíjkorhatár-kivétele szigorúan olvasandó, és e tényállásra nem tágítható."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "dc206a3f6c4f"
+    },
+    {
+      "question": "A C-152/84. sz. Marshall-ügy szerint miért hivatkozhat a magánszemély irányelvre a munkáltatói minőségében eljáró állami hatósággal szemben?",
+      "options": [
+        {
+          "text": "A 76/207/EGK 5. cikkének (1) bekezdésére a munkáltatói minőségében eljáró állami hatósággal szemben hivatkozni lehet annak érdekében, hogy elkerüljék az irányelvvel ellentétes nemzeti rendelkezés alkalmazását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második kérdésre adott válasz e vertikális hivatkozást rögzíti. A C-152/84. sz. Marshall ügy a 76/207/EGK 5. cikkének (1) bekezdését kellően pontosnak találta a nemen alapuló megkülönböztetés tilalmára az elbocsátás feltételeinél. A hivatkozás célja a nemzeti rendelkezés alkalmazásának elkerülése — nem a Becker-feltételek ismételt felsorolása önmagában."
+        },
+        {
+          "text": "A magánszemély az irányelvre a magánmunkáltatóval szemben is közvetlenül hivatkozhat, mert a Marshall-ügy a horizontális hatályt megnyitotta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marshall-ügy a horizontális közvetlen hatályt zárja. A C-152/84. sz. ügy szerint az irányelv önmagában nem róhat kötelezettségeket magánszemélyekre, és vele szemben önmagában nem hivatkozható. A helyes: a magánmunkáltatóval szembeni hiányt a C-106/89. sz. Marleasing ügy közvetett hatálya tölti ki. A tévedés a vertikális hivatkozást horizontálissá tágítja."
+        },
+        {
+          "text": "Az irányelvre csak a központi kormányzattal szemben lehet hivatkozni, az egészségügyi hatósággal mint munkáltatóval szemben soha.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marshall-ügy éppen az állami szerv munkáltatói minőségét fogadta el. A C-152/84. sz. ügy szerint a 76/207/EGK 5. cikkének (1) bekezdésére a munkáltatói minőségében eljáró állami hatósággal szemben hivatkozni lehet. A helyes: a National Health Service Act alapján létrehozott hatóság az állam szerve. A tévedés a hatóság–munkáltató megkülönböztetést a hivatkozás akadályává teszi."
+        },
+        {
+          "text": "Az irányelvre az állammal szemben hivatkozni lehet függetlenül attól, hogy az állam hatóságként vagy munkáltatóként jár el: mindkét minőségben meg kell akadályozni, hogy a saját mulasztásából előnyt kovácsoljon.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az állami szerv tág olvasata döntő. A C-152/84. sz. Marshall ügy szerint a Southampton-i egészségügyi hatóságot a Court of Appeal az állam szervének (emanation of the state) minősítette. A National Health Service Act alapján létrehozott hatóság tehát nem magánmunkáltató. Az állami és magánalkalmazottak közötti különbség a helyes átültetéssel elkerülhető."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "c4d1d2e664d3"
+    },
+    {
+      "question": "Miben áll a Marshall-ügy horizontális tilalmának ratioja az irányelv címzetti szerkezetéhez képest?",
+      "options": [
+        {
+          "text": "A horizontális tilalom csak akkor él, ha a magánmunkáltató a tagállamnak nem ültette át az irányelvet; egyébként az irányelv a magánfelekre is kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom az irányelv címzetti szerkezetéből következik, nem a magánfél mulasztásából. A C-152/84. sz. Marshall ügy szerint az irányelv önmagában nem róhat kötelezettségeket magánszemélyekre. A helyes: a magánvitában a C-106/89. sz. Marleasing ügy a nemzeti jog konform értelmezését írja elő. A tévedés a horizontális zárat feltételes átültetési szabálynak nézi."
+        },
+        {
+          "text": "Az irányelv kötelező jellege a 189. cikk (ma 288. cikk) szerint csak „minden címzett tagállamra” vonatkozik, ezért az irányelv önmagában nem róhat kötelezettségeket magánszemélyekre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címzetti szerkezet a horizontális zár alapja. A C-152/84. sz. Marshall ügy szerint az irányelv rendelkezéseire önmagukban nem lehet magánszeméllyel szemben hivatkozni. A kötelező jelleg a nemzeti bíróság előtti hivatkozás alapja, de csak a címzett tagállamra. A magánfelek közötti hiányt nem e döntés, hanem a Marleasing-féle közvetett hatály kezeli."
+        },
+        {
+          "text": "Vertikálisan a feltétlen és kellően pontos rendelkezés a mulasztó vagy helytelenül átültető állammal — ideértve az állam szervét — szemben hivatkozható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Marshall-ratio kettős. A C-152/84. sz. ügy a 76/207/EGK 5. cikkének (1) bekezdését kellően pontosnak találta a nemen alapuló megkülönböztetés tilalmára. Az 1. cikk (2) bekezdésének szociális biztonsági fenntartása a tárgyi hatályt korlátozza, de az 5. cikk alkalmazására nem szab feltételt. A hivatkozás célja a nemzeti rendelkezés alkalmazásának elkerülése."
+        },
+        {
+          "text": "Ha az állam szervként jár el, az irányelv horizontálisan is kötelezi a vele szerződő magánfelet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állami szerv elleni hivatkozás vertikális, nem horizontális. A C-152/84. sz. Marshall ügy a Southampton-i egészségügyi hatóságot az állam szervének tekintette, és a magánszemély–állam tengelyen engedte a hivatkozást. A helyes: magánszeméllyel szemben az irányelv önmagában nem hivatkozható. A tévedés az emanation of the state fogalmát horizontális kötelezettséggé fordítja."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "0089e950a95f"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható az irányelv horizontális közvetlen hatályának hiányára a Marshall-formula mint abszolút hatástalanság?",
+      "options": [
+        {
+          "text": "A Marshall-formula szerint a magánvitában az irányelv közvetlenül kötelezi a magánfelet, ha a nemzeti átültetés elmaradt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marshall-ügy éppen ezt zárja. A C-152/84. sz. Marshall ügy a 189. cikk címzetti szerkezetéből vezeti le, hogy az irányelv magánszemélyre kötelezettséget nem ró. A helyes: a C-106/89. sz. Marleasing ügy a nemzeti jog konform értelmezését írja elő a magánvitában is. A tévedés a mulasztást horizontális közvetlen hatállyá alakítja."
+        },
+        {
+          "text": "A tagállamok irányelvi kötelezettsége és a Szerződés 5. cikke szerinti együttműködés a bíróságokra is kiterjed hatáskörük keretein belül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetett hatály intézményi alapja széles. A C-106/89. sz. Marleasing ügy szerint az irányelvből fakadó eredménykötelem és a Szerződés 5. cikke a tagállamok valamennyi hatóságára kötelező, beleértve a bíróságokat. A nemzeti jog alkalmazása során — az irányelv előtt vagy után elfogadott rendelkezéseknél is — e fényben kell értelmezni. A cél az, hogy a bíróság megfeleljen a 189. cikk (ma 288. cikk) harmadik bekezdésének, vagyis az irányelv által elérni kívánt eredménynek."
+        },
+        {
+          "text": "Közvetett hatály csak akkor van, ha a nemzeti rendelkezést az irányelv után fogadták el; a korábbi szabályok mentesek az értelmezési kötelezettség alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetett hatály nem csak az irányelv utáni nemzeti szabályokra vonatkozik. A C-106/89. sz. Marleasing ügy szerint a nemzeti bíróság köteles a nemzeti jogot az irányelv fényében értelmezni függetlenül attól, hogy a rendelkezéseket az irányelv előtt vagy után fogadták-e el. A helyes: az értelmezés határai között az irányelv eredményét kell kihozni. A tévedés a közvetett hatályt utólagos jogszabályokra szűkíti."
+        },
+        {
+          "text": "Ha a magánfelek közötti jogvitában a nemzeti bíróság a nemzeti jogot az irányelv szövege és célja fényében, a lehető legmesszebbmenőkig értelmezi — ez a Marleasing-féle közvetett hatály.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a horizontális zár és a közvetett hatály együtt olvasandó. A C-106/89. sz. Marleasing ügy a Marshall-ügyre utalva zárja a horizontális közvetlen hatályt, majd a nemzeti bíróság értelmezési kötelezettségét mondja ki. A 14/83. sz. Von Colson és Kamann ügy 26. pontjára épül. Az irányelv eredménye így a bíróságon keresztül érvényesül, nem magánkötelezettségként."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "0f29bb1dadbf"
+    },
+    {
+      "question": "A C-106/89. sz. Marleasing ügyben miért nem volt járható a 68/151 irányelv 11. cikkének horizontális közvetlen hatálya?",
+      "options": [
+        {
+          "text": "A Marleasing és a La Comercial magánjogi viszonya volt, és állandó gyakorlat szerint egy irányelv önmagában nem róhat kötelezettségeket magánszemélyre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bíróság először a horizontális közvetlen hatályt zárta ki. A C-106/89. sz. Marleasing ügy a Marshall-ügyre utalt: az irányelv rendelkezéseire önmagukban nem lehet magánszeméllyel szemben hivatkozni. A nemzeti bíróság lényegi kérdése ezért az értelmezési kötelezettségre fordult. A Spanyolország csatlakozási okmányának 395. cikke szerinti átültetési kötelezettség elmaradása sem nyitotta meg a horizontális közvetlen hatályt."
+        },
+        {
+          "text": "A 11. cikk azért nem volt horizontálisan hivatkozható, mert a Marleasing-ügy a Marshall-formulát megfordítva a magánfelekre is kiterjesztette az irányelvet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marleasing-ügy nem fordítja meg a Marshall-zárat. A C-106/89. sz. ügy kifejezetten megerősíti: egy irányelv önmagában nem róhat kötelezettségeket magánszemélyre. A helyes: a nemzeti jogot kell az irányelv fényében értelmezni. A tévedés a közvetett hatályt horizontális közvetlen hatállyá nevezi át."
+        },
+        {
+          "text": "A Bíróság a kérdést úgy fogalmazta át, hogy a nemzeti bíróság köteles-e nemzeti jogát az irányelv szövege és célja fényében értelmezni a semmisségi okok korlátozása érdekében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetett hatály pályája nyílt meg. A C-106/89. sz. ügy a 68/151 irányelv 11. cikkének kimerítő semmisségi listáját a nemzeti polgári jog „ok hiányával” szemben olvasta. A Von Colson és Kamann-ügy 26. pontjára építve a bíróságok is a tagállami hatóságok közé tartoznak. A rendelkező rész a konform értelmezést írja elő, nem a 11. cikk közvetlen alkalmazását."
+        },
+        {
+          "text": "A horizontális közvetlen hatály azért hiányzott, mert a 68/151 irányelv ajánlás volt, nem kötelező aktus.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 68/151/EGK irányelv kötelező. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően minden címzett tagállamra kötelező; az ajánlás és a vélemény nem kötelező. A helyes: a C-106/89. sz. Marleasing ügy a kötelező irányelv mellett is zárja a horizontális közvetlen hatályt. A tévedés az irányelvet ajánlássá minősíti."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "ccf74b783ccb"
+    },
+    {
+      "question": "Mi következik abból, ha a nemzeti bíróság a 68/151 irányelv 11. cikkének fényében értelmezi a társasági semmisséget?",
+      "options": [
+        {
+          "text": "A 11. cikk tágítóan értelmezendő, ezért bármely színlelt alapítás automatikusan semmisséget eredményez a magánvitában.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisségi okokat szigorúan kell értelmezni. A C-106/89. sz. Marleasing ügy a preambulum hatodik bekezdésére hivatkozva a jogbiztonság érdekében korlátozza a semmisségi eseteket. A helyes: a „társaság célja” az alapító okiratban vagy alapszabályban leírt cél. A tévedés a kimerítő listát nyitottá tágítja."
+        },
+        {
+          "text": "A nemzeti bíróság a 11. cikket közvetlenül alkalmazva semmissé nyilvánítja a társaságot, ha az alapítás színlelt volt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marleasing-ügy a 11. cikket nem teszi a magánvitában közvetlenül alkalmazandó normává. A C-106/89. sz. ügy a nemzeti jog konform értelmezését írja elő, és a horizontális közvetlen hatályt zárja. A helyes: a semmisség csak a 11. cikkben felsorolt okokból mondható ki, az „ok hiányának” olvasata kizárandó. A tévedés a közvetett hatályt közvetlen alkalmazássá cseréli."
+        },
+        {
+          "text": "A 11. cikk (2) bekezdésének b) pontja szerinti „társaság célja” az alapító okiratban vagy alapszabályban leírt célokra vonatkozik, nem a ténylegesen folytatott tevékenységre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bíróság a Bizottság szűk olvasatát fogadta el. A C-106/89. sz. Marleasing ügy szerint a semmisség akkor mondható ki, ha a társaság célja jogellenes vagy közrendbe ütközik, de a „cél” az alapító okiratbeli leírás. Az alapítók hitelezőinek megkárosítása mint tényleges tevékenység e pont alá nem húzható. A semmisségi okokat a preambulum jogbiztonsági célja miatt szigorúan kell értelmezni."
+        },
+        {
+          "text": "Kizárja a részvénytársaság semmisségének az irányelv 11. cikkében felsoroltaktól eltérő okból történő megállapítását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a Marleasing rendelkező részének lényege. A C-106/89. sz. ügy szerint a nemzeti bíróság köteles nemzeti jogát az irányelv szövege és célja fényében értelmezni e kizárás érdekében. A 68/151 irányelv 11. cikke kimerítően sorolja a társaság semmisségét megalapozó eseteket, és az „ok hiányát” nem tartalmazza. A spanyol polgári törvénykönyv „ok hiányára” épülő olvasata ezért nem fér össze a konform értelmezéssel."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "136cbab3aa93"
+    },
+    {
+      "question": "Miben tér el a rendelet közvetlen alkalmazandósága az irányelv vertikális hivatkozhatóságától?",
+      "options": [
+        {
+          "text": "A rendelet csak vertikálisan hivatkozható, az irányelv viszont horizontálisan is, mert a Marshall-ügy ezt nyitotta meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a viszony fordított. Az EUMSZ 288. cikk szerinti rendelet erga omnes érvényesül, ezért horizontálisan is hivatkozható; a C-152/84. sz. Marshall ügy az irányelv horizontális közvetlen hatályát zárja. A helyes: a magánvitában az irányelvnél a Marleasing-féle közvetett hatály jön szóba. A tévedés a Marshall-ratio irányát megfordítja."
+        },
+        {
+          "text": "Az irányelv is mindig közvetlenül alkalmazandó valamennyi tagállamban, ezért a rendelet és az irányelv hivatkozási feltételei azonosak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen alkalmazandóság a rendelet ismérve. Az EUMSZ 288. cikk a rendeletet nevezi közvetlenül alkalmazandónak; az irányelv az elérendő célokat illetően kötelezi a címzett tagállamot. A helyes: az irányelv vertikális hivatkozhatósága a Bíróság által vezetett, feltételes figura. A tévedés a rendelet három ismérvét írja az irányelvre."
+        },
+        {
+          "text": "Az irányelv vertikális közvetlen hatálya a feltétlen és kellően pontos rendelkezéshez, valamint a címzett tagállammal szembeni hivatkozáshoz kötődik, és magánszemélyre kötelezettséget nem ró.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Marshall–Van Duyn tengely ezt rögzíti. A C-41/74. sz. Van Duyn ügy a 64/221 irányelv 3. cikkének (1) bekezdését vertikálisan hivatkozhatóvá tette; a C-152/84. sz. Marshall ügy a horizontális kötelezettséget zárja. A rendelet viszont a 288. cikk szerinti általános hatály és közvetlen alkalmazandóság miatt horizontálisan is hivatkozható. A két aktus kötőereje tehát nem azonos síkú."
+        },
+        {
+          "text": "A rendeletnél a transzpozíció hiánya nem előfeltétele a hivatkozásnak, mert a 288. cikk szerint közvetlenül alkalmazandó valamennyi tagállamban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet szerződéses minősége erősebb. Az EUMSZ 288. cikk szerint a rendelet „közvetlenül alkalmazandó valamennyi tagállamban”; a C-41/74. sz. Van Duyn ügy 12. pontja e minőséget a közvetlen hatályhoz köti. Ha a tagállam mégis „átültet”, a rendelet tartalmát nem szűkítheti és nem teheti feltételessé. Az irányelvnél a hivatkozás tipikusan a mulasztó vagy helytelenül átültető állammal szemben áll."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "8c5e52380657"
+    },
+    {
+      "question": "Holland importőr a vámhivatal előtt az EGK-Szerződés 12. cikkére hivatkozik a vám emelése miatt. Mely megállapítások állják meg a helyüket a Van Gend en Loos-ügy fényében?",
+      "options": [
+        {
+          "text": "A 12. cikk közvetlen hatállyal bír, és olyan egyéni jogokat keletkeztet, amelyeket a nemzeti bíróságoknak védelemben kell részesíteniük.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a C-26/62. sz. Van Gend en Loos ügy érdemi ratioja. A 12. cikk világos, feltétel nélküli tartózkodási tilalom, amely nem igényel jogalkotói beavatkozást. A kötelezettségszegési út (169. és 170. cikk) a magánszemélyek nemzeti bíróság előtti hivatkozását nem zárja ki. A vámhivatal–importőr viszony vertikális sík."
+        },
+        {
+          "text": "A 12. cikk csak a tagállamok egymás közötti viszonyában hat, ezért az importőr egyéni jogot nem szerezhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Gend-formula éppen ezt cáfolja. A C-26/62. sz. ügy szerint a Közösség új jogrendjének alanyai a tagállamok és az állampolgárok is, és a világos kötelezettség egyéni jogot keletkeztethet. A helyes: a 12. cikket úgy kell értelmezni, hogy közvetlen hatállyal bír. A tévedés a Szerződést klasszikus államközi megállapodásra szűkíti."
+        },
+        {
+          "text": "A hivatkozás csak akkor áll meg, ha a Bizottság már megindította a kötelezettségszegési eljárást ugyanazon vámemelés miatt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magánjogi védelem nem a Bizottság keresetének függeléke. A C-26/62. sz. Van Gend en Loos ügy szerint a 169. és a 170. cikk nem fosztja meg a magánszemélyeket a nemzeti bíróság előtti hivatkozástól. A helyes: a nemzeti bíróság előtti egyéni jog a Bizottság és a tagállamok kötelezettségszegési ellenőrzését egészíti ki. A tévedés a kötelezettségszegési utat előfeltétellé teszi."
+        },
+        {
+          "text": "A Bíróság hatásköre a 177. cikk (ma EUMSZ 267.) alapján a Szerződés értelmezésére terjed, és ehhez elég, hogy a kérdés a Szerződés értelmezésére irányuljon.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kormányzati hatásköri kifogás elbukott. A C-26/62. sz. ügyben a holland és a belga kormány az alkalmazást és az elsőbbséget a nemzeti bíróságok kizárólagos hatáskörébe utalta volna. A Bíróság szerint a 177. cikk (ma EUMSZ 267.) a) pontjának megfelelően a 12. cikk hatályának értelmezését kérték. A nemzeti bíróságot vezető megfontolásokat a Bíróság nem értékeli."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "e904e65220be"
+    },
+    {
+      "question": "Yvonne Van Duyn holland állampolgár belépését a Home Office a Szcientológiai Egyházhoz kötődése miatt tagadja meg. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A 48. cikk (EGK; ma EUMSZ 45.) közvetlen hatállyal bír, és a közrendi fenntartás alkalmazása bírósági úton felülvizsgálható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szabad mozgás alanyi joga és a fenntartás kontrollja együtt áll. A C-41/74. sz. Van Duyn ügy szerint a 48. cikk (EGK; ma EUMSZ 45.) a magánszemélyekre bíróságilag érvényesíthető jogokat ruház. A (3) bekezdés fenntartása nem oltja ki e hatályt. A közrend fogalmát közösségi összefüggésben szigorúan kell érteni, tartalmát a tagállamok egyoldalúan, ellenőrzés nélkül nem határozhatják meg."
+        },
+        {
+          "text": "A 64/221 irányelv 3. cikkének (1) bekezdése csak a magánmunkáltatóval szemben hivatkozható, a Home Office-szal szemben nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a C-41/74. sz. Van Duyn ügy Home Office elleni keresetben dőlt el. A C-41/74. sz. ügyben Van Duyn a Home Office ellen indított keresetet, és a Bíróság a 64/221 irányelv 3. cikkének (1) bekezdését a tagállami bíróság előtt érvényesíthető jogok forrásának minősítette. A helyes: a hivatkozás a tagállammal szemben áll. A tévedés a vertikális síkot horizontálissá cseréli."
+        },
+        {
+          "text": "A csoporthoz való jelenlegi tartozás, amely a tevékenységben való részvételt és a célokkal való azonosulást tükröz, személyes viselkedésnek minősülhet a 64/221 irányelv 3. cikke szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közrendi intézkedés alapja a személyes viselkedés. A C-41/74. sz. ügy a 64/221 irányelv 3. cikkének (1) bekezdését úgy olvasta, hogy a közrendi indokok kizárólag az érintett személy viselkedésén alapulhatnak. A tagállam nem köteles a szervezet tevékenységét jogszabállyal megtiltani a közrendi hivatkozáshoz. A saját állampolgárait a területére belépés jogától a nemzetközi jog elve szerint nem tagadhatja meg, más tagállam állampolgárától a kedvezmény mégis megtagadható."
+        },
+        {
+          "text": "A belépés megtagadása automatikusan jogszerű, mert a tagállam a közrend tartalmát közösségi ellenőrzés nélkül, szabadon meghatározhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közrend nem szabadon tágítható. A C-41/74. sz. Van Duyn ügy szerint a közrend fogalmát a szabad mozgástól való eltérés igazolásakor szigorúan kell érteni, és a tagállamok egyoldalúan, a közösségi intézmények ellenőrzése nélkül nem határozhatják meg. A helyes: a nemzeti hatóságok mérlegelése a Szerződés korlátai között elismerhető, de bírói kontroll alatt. A tévedés a fenntartást korlátlan hatáskörré teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "31652f25b382"
+    },
+    {
+      "question": "Az EUMSZ 288. cikk szerinti határozat kötőereje miben tér el a rendeletétől?",
+      "options": [
+        {
+          "text": "A határozat mindig erga omnes hatályú, ezért a rendeletnél szélesebb a címzetti köre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az erga omnes jelleg a rendeleté. Az EUMSZ 288. cikk szerint a rendelet általános hatályú; a határozat címzetti megjelölés esetén kizárólag a címzettekre nézve kötelező. A helyes: a rendelet hatóköre a szélesebb. A tévedés a két aktus hatókörét felcseréli."
+        },
+        {
+          "text": "A rendelet általános hatályú és valamennyi tagállamban közvetlenül alkalmazandó, míg a határozat címzetti köre szűkülhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két kötelező aktus hatóköre eltér. Az EUMSZ 288. cikk a rendeletet általános hatállyal és közvetlen alkalmazandósággal írja le. A határozat teljes kötelező ereje a megjelölt címzettekre szűkülhet. Az ajánlás és a vélemény kötőerő híján sem vertikális, sem horizontális alanyi jogot nem keletkeztet."
+        },
+        {
+          "text": "A határozat soha nem lehet kötelező, mert a 288. cikk csak a rendeletet és az irányelvet ruházza fel kötőerővel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozat kötelező. Az EUMSZ 288. cikk szerint a határozat teljes egészében kötelező, és címzettek megjelölése esetén csak azokra. A helyes: a kötőerő a címzettekhez igazodik, de nem hiányzik. A tévedés a határozatot az ajánlás nem kötelező kategóriájába sorolja."
+        },
+        {
+          "text": "A határozat teljes egészében kötelező; ha külön megjelöli a címzettjeit, kizárólag azokra nézve kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címzetti korlátozás a határozatot a rendelettől elválasztja. Az EUMSZ 288. cikk szerint: „A határozat teljes egészében kötelező. Amennyiben külön megjelöli, hogy kik a címzettjei, a határozat kizárólag azokra nézve kötelező, akiket címzettként megjelöl.” A rendeletnél ilyen szűkítés nincs. A közvetlen hatály itt a címzettekhez igazodik."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "fc25d369425e"
+    },
+    {
+      "question": "Mi következik abból, ha a tagállam a rendelet tartalmát nemzeti „átültetéssel” szűkíti vagy feltételessé teszi?",
+      "options": [
+        {
+          "text": "A rendelet közvetlen alkalmazandósága miatt a transzpozíció hiánya nem előfeltétele a hivatkozásnak, és a nemzeti „átültetés” a rendelet tartalmát nem szűkítheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet nemzeti maszkolása tilos. Az EUMSZ 288. cikk szerint a rendelet közvetlenül alkalmazandó valamennyi tagállamban. A C-41/74. sz. Van Duyn ügy 12. pontja a rendeleteket természetük szerint közvetlen hatályúnak tekinti. A nemzeti bíróság ezért a rendeletet a szűkítő belső aktus ellenében is alkalmazza."
+        },
+        {
+          "text": "Ha a tagállam „átülteti” a rendeletet, a nemzeti szöveg lesz az egyetlen hivatkozási alap, a rendelet háttérbe szorul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti szöveg nem írhatja felül a rendeletet. Az EUMSZ 288. cikk szerinti közvetlen alkalmazandóság azt jelenti, hogy a rendelet a nemzeti jogrendben magától érvényesül. A helyes: a nemzeti „átültetés” nem szűkítheti és nem teheti feltételessé a rendelet tartalmát. A tévedés a rendeletet irányelvszerű transzpozíciós tárgynak nézi."
+        },
+        {
+          "text": "A határozat címzetti köre szűkülhet, az ajánlás és a vélemény pedig nem kötelező; a rendeletnél ilyen címzetti szűkítés és kötőerő-nélküliség nincs, ezért a nemzeti maszkolás nem írhatja felül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az aktustípus-elhatárolás a rendelet védelmét erősíti. Az EUMSZ 288. cikk szerint a határozat a megjelölt címzettekre nézve kötelező, az ajánlás és a vélemény nem kötelező. A rendelet viszont általános hatályú és közvetlenül alkalmazandó: a nemzeti „átültetés” ezért nem szűkítheti. Ez a maszkolás tilalmának aktustípus-kerete, nem a vertikális/horizontális sík ismétlése."
+        },
+        {
+          "text": "A rendelet csak a helyes nemzeti átültetés után hivatkozható, mert a 288. cikk a formát a nemzeti hatóságokra hagyja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a forma és az eszközök nemzeti választása az irányelvé. Az EUMSZ 288. cikk szerint az irányelv hagyja a nemzeti hatóságokra a forma és az eszközök megválasztását; a rendelet viszont közvetlenül alkalmazandó. A helyes: a rendeletnél a transzpozíció nem előfeltétel. A tévedés az irányelv szabályát írja a rendeletre."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "c042e3fe3c84"
+    },
+    {
+      "question": "A 76/207/EGK irányelv 5. cikkének (2) bekezdése milyen intézkedési kötelezettséget ró a tagállamokra?",
+      "options": [
+        {
+          "text": "Az egyenlő bánásmód elvével ellentétes törvényi, rendeleti és közigazgatási rendelkezéseket hatályon kívül kell helyezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) cikk (2) bekezdése aktív tisztítási kötelezettség. A C-152/84. sz. Marshall ügy tényállásában is megjelenik: a tagállamnak az elvvel ellentétes szabályokat el kell távolítania. A kollektív és egyéni szerződések, valamint a belső szabályzatok ellentétes rendelkezéseit semmissé, semmisnek nyilváníthatóvá vagy módosíthatóvá kell tenni. Ez az eredménykötelem része."
+        },
+        {
+          "text": "A kollektív és egyéni szerződések, valamint a belső szabályzatok ellentétes rendelkezéseit semmissé, semmisnek nyilváníthatóvá vagy módosíthatóvá kell tenni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelezettség túlnyúlik a törvényi szövegeken. A 76/207/EGK 5. cikkének (2) bekezdése a szerződések és belső szabályzatok ellentétes kikötéseit is célozza. A Marshall-ügyben a munkaszerződés hallgatólagos feltételeként érvényesülő elbocsátási politika került terítékre. A vertikális hivatkozás a mulasztó állammal szemben e tisztítási kötelezettség elmaradásához is kapcsolódik."
+        },
+        {
+          "text": "A (2) bekezdés csak a magánmunkáltatókra ró közvetlen kötelezettséget, a tagállamra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelv címzettje a tagállam. Az EUMSZ 288. cikk és a C-152/84. sz. Marshall ügy szerint az irányelv a címzett tagállamra kötelező, magánszemélyre önmagában kötelezettséget nem ró. A helyes: a (2) bekezdés a tagállam intézkedési kötelezettsége. A tévedés a címzetti szerkezetet megfordítja."
+        },
+        {
+          "text": "A (2) bekezdés csak ajánlás, ezért a tagállam szabadon dönthet, hogy hatályon kívül helyezi-e az ellentétes szabályokat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelv kötelező eredményt ír elő. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően minden címzett tagállamra kötelező; a 76/207/EGK 5. cikkének (2) bekezdése intézkedési kötelezettséget tartalmaz. A helyes: az ellentétes rendelkezéseket hatályon kívül kell helyezni, illetve a szerződések ellentétes kikötéseit semmissé vagy módosíthatóvá kell tenni. A tévedés a kötelező irányelvet ajánlássá minősíti."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "728001830966"
+    },
+    {
+      "question": "Mely állítások tévesek az irányelv horizontális közvetlen hatályáról?",
+      "options": [
+        {
+          "text": "A Marleasing-ügy megnyitotta az irányelv horizontális közvetlen hatályát a társasági semmisségi jogvitákban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marleasing-ügy nem a horizontális közvetlen hatályt nyitja meg. A C-106/89. sz. ügy a Marshall-zárat megerősíti, majd a közvetett hatályt — a nemzeti jog irányelv-konform értelmezését — mondja ki. A helyes: a 68/151 irányelv 11. cikkének eredményét az értelmezésen keresztül kell kihozni. A tévedés a közvetett hatályt közvetlen hatállyá nevezi."
+        },
+        {
+          "text": "Az irányelv horizontális közvetlen hatálya mindig fennáll, ha a rendelkezés világos és feltétel nélküli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a világosság és a feltétel nélküliség a vertikális hivatkozás feltétele, nem a horizontális zár feloldása. A C-152/84. sz. Marshall ügy szerint még a kellően pontos 76/207/EGK 5. cikk (1) bekezdése sem ró kötelezettséget magánszemélyre. A helyes: a magánvitában a Marleasing-féle értelmezési kötelezettség jön szóba. A tévedés a Van Gend-féle ismérveket a horizontális síkra írja."
+        },
+        {
+          "text": "Az irányelv a Marshall-ügy óta magánszemélyek egymás közötti jogvitájában is közvetlenül kötelező erővel bír.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marshall-ügy éppen a horizontális közvetlen hatályt zárja. A Marshall-ratio szerint az irányelv rendelkezéseire önmagukban nem lehet magánszeméllyel szemben hivatkozni. A helyes: magánvitában a C-106/89. sz. Marleasing ügy a nemzeti jog konform értelmezését írja elő. A tévedés a C-152/84. sz. Marshall ügy horizontális zárját hatálynyitásként olvassa."
+        },
+        {
+          "text": "Ha a magánmunkáltató az állammal azonos gazdasági erőt képvisel, az irányelv vele szemben is közvetlenül hivatkozható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a horizontális zár nem a gazdasági erőn múlik. A C-152/84. sz. Marshall ügy a címzetti szerkezetből vezeti le, hogy az irányelv magánszemélyre kötelezettséget nem ró. A helyes: az állami szerv (emanation of the state) elleni hivatkozás vertikális. A tévedés a magánfelet „államszerűvé” minősítve kerülőutat keres."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "efa1fe5ab45e"
+    },
+    {
+      "question": "Miben tér el a közvetett hatály a közvetlen hatálytól az irányelv magánfelek közötti alkalmazásánál?",
+      "options": [
+        {
+          "text": "A közvetett hatály azt jelenti, hogy a nemzeti bíróság félreteheti a nemzeti jogot, és helyette az irányelv szövegét alkalmazza közvetlenül a magánfélre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetett hatály értelmezés, nem félretétel és közvetlen alkalmazás. A C-106/89. sz. Marleasing ügy a nemzeti jog konform olvasatát írja elő az értelmezés határai között. A helyes: az irányelv eredményét a nemzeti jogból kell kihozni, nem a magánfélre rótt irányelvi kötelezettségként. A tévedés a közvetett hatályt horizontális közvetlen hatállyá alakítja."
+        },
+        {
+          "text": "Közvetett hatály csak a Bizottság keresetében érvényesül, a nemzeti bíróság előtti magánvitában nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marleasing-ügy nemzeti bíróság előtti magánvita volt. A C-106/89. sz. ügy a Marleasing SA és a La Comercial közötti jogvitában mondta ki az értelmezési kötelezettséget. A helyes: a nemzeti bíróság köteles a 68/151 irányelv 11. cikkének fényében értelmezni. A tévedés a közvetett hatályt a kötelezettségszegési eljárásra szűkíti."
+        },
+        {
+          "text": "A közvetett hatály a nemzeti jog értelmezési kötelezettsége, nem az irányelvnek a magánfélre rótt, Marshall által tiltott kötelezettsége.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két figura dogmatikailag elválik. A C-106/89. sz. Marleasing ügy a horizontális közvetlen hatályt zárja, majd a nemzeti bíróságra telepíti az irányelv szövege és célja szerinti értelmezést. Az EUMSZ 288. cikk szerinti irányelvi kötőerő — az elérendő cél — így a bíróságon keresztül érvényesül. A magánfélre az irányelv önmagában nem ró kötelezettséget."
+        },
+        {
+          "text": "A közvetett hatály a Von Colson és Kamann-ügy 26. pontjára épül: a bíróságok is a tagállam hatóságai közé tartoznak az eredménykötelem teljesítésében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az intézményi alap a bíróságokra is kiterjed. A C-106/89. sz. Marleasing ügy a Von Colson és Kamann-ügy (14/83) 26. pontját idézi. A Szerződés 5. cikke szerinti együttműködés a hatáskörük keretein belül a bíróságokat is köti. A nemzeti jogot a lehető legmesszebbmenőkig az irányelv fényében kell értelmezni."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "f87248203063"
+    },
+    {
+      "question": "A C-106/89. sz. Marleasing-ügyben mire kötelezi a nemzeti bíróságot a Von Colson és Kamann-ügy 26. pontjára épülő közvetett hatály a 68/151 irányelv 11. cikke kapcsán?",
+      "options": [
+        {
+          "text": "A nemzeti bíróság — hatáskörén belül a tagállam hatóságai közé tartozva — köteles a nemzeti jogot a lehető legmesszebbmenőkig az irányelv szövege és célja fényében értelmezni, hogy elérje az irányelv eredményét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetett hatály értelmezési kötelezettség. A C-106/89. sz. Marleasing ügy a Von Colson és Kamann-ügy (14/83) 26. pontját idézi: a Szerződés 5. cikke szerinti együttműködés a bíróságokat is köti. Ez nem a 68/151 irányelv 11. cikkének taxatív listájának ismételt felsorolása, hanem az értelmezési figura intézményi alapja."
+        },
+        {
+          "text": "A 11. cikk csak ajánló jellegű felsorolás, ezért a nemzeti bíróság szabadon bővítheti a semmisségi okokat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 68/151 irányelv 11. cikke kimerítő felsorolás, nem ajánló katalógus. A C-106/89. sz. Marleasing ügy a preambulum jogbiztonsági céljára hivatkozva a semmisségi okok korlátozását írja elő. A helyes: a nemzeti jogot úgy kell értelmezni, hogy a listától eltérő ok ne alapozzon semmisséget. A tévedés a kimerítő listát ajánlássá minősíti."
+        },
+        {
+          "text": "A 11. cikk taxatív listája mellett a nemzeti polgári jog bármely semmisségi oka továbbra is szabadon alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a konform értelmezés éppen a nemzeti tágítást zárja ki. A C-106/89. sz. Marleasing ügy szerint a nemzeti bíróság köteles kizárni a semmisségnek a 11. cikkben felsoroltaktól eltérő okból történő megállapítását. A helyes: az „ok hiányára” épülő olvasat nem fér össze az irányelvvel. A tévedés a kimerítő listát nyitottá teszi."
+        },
+        {
+          "text": "E kötelezettség független attól, hogy a nemzeti rendelkezéseket az irányelv előtt vagy után fogadták-e el; a cél a 189. cikk (ma 288. cikk) harmadik bekezdése szerinti eredmény elérése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az időbeli sorrend nem zárja ki a konform értelmezést. A C-106/89. sz. ügy szerint a nemzeti jog alkalmazása során a bíróság az irányelv fényében értelmez, hogy megfeleljen a 189. cikk (ma 288. cikk) harmadik bekezdésének. A Marleasing–La Comercial magánjogi viszonyában ez a Marshall-féle horizontális zár mellett a közvetett hatályt nyitja."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "8dc728b044bb"
+    },
+    {
+      "question": "A C-152/84. sz. Marshall-ügyben miért tartozik a kötelező nyugdíjazási politikán alapuló elbocsátás a 76/207/EGK 5. cikke szerinti „elbocsátás” fogalomkörébe a 79/7/EGK 7. cikkének kivétele ellenére?",
+      "options": [
+        {
+          "text": "A 79/7/EGK 7. cikke automatikusan mentesít minden, nyugdíjkorhatárhoz kapcsolódó munkáltatói intézkedést, ideértve az elbocsátást is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 79/7/EGK 7. cikkében foglalt kivétel nem mentesít az elbocsátási egyenlő bánásmód alól. A C-152/84. sz. Marshall ügy szerint a 79/7/EGK 7. cikke a társadalombiztosítási következményekre vonatkozik, és szigorúan olvasandó. A helyes: a C-152/84. sz. Marshall ügy a 76/207/EGK irányelv 5. cikke szerinti elbocsátási feltételeket vizsgálta. A tévedés a kivételt az egyenlő bánásmód teljes kizárásává tágítja."
+        },
+        {
+          "text": "Ha az elbocsátás nyugdíjjal jár, a 76/207/EGK irányelv egyáltalán nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyugdíj megállapítása nem vonja ki az elbocsátást a 76/207/EGK alól. A C-152/84. sz. Marshall ügy szerint a kötelező elbocsátás korhatára az elbocsátás fogalomkörébe tartozik, még akkor is, ha nyugdíj megállapításával jár. A helyes: a 76/207/EGK 5. cikkének (1) bekezdése az irányadó. A tévedés a nyugdíjtényt abszolút kivétellé teszi."
+        },
+        {
+          "text": "A Social Security Act 1975 a nyugdíj megállapítását rendezte, de nem írt elő nyugdíjba vonulási kötelezettséget; a Marshall-ügy tárgya ezért az elbocsátási politika, nem a társadalombiztosítási hozzáférés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a belső jogi keret megerősíti a tárgyi elhatárolást. A C-152/84. sz. ügy szerint a vita a munkaviszony megszüntetésének korhatáráról szól. A 76/207/EGK 1. cikkének (2) bekezdése szerinti szociális biztonsági kizárás sem tágítható úgy, hogy a kötelező elbocsátás korhatárát kivegye. Ez más nézőpont, mint a 79/7 kivétel önmagában való kizárása."
+        },
+        {
+          "text": "A Burton-ügy tág „elbocsátás” fogalma szerint a munkáltató általános nyugdíjazási politikája alapján történő kötelező elbocsátás korhatára e körbe tartozik, még akkor is, ha nyugdíj megállapításával jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tárgyi besorolás a Burton-mércén nyugszik. A C-152/84. sz. Marshall ügy ezért a 76/207/EGK 5. cikkének (1) bekezdését alkalmazza az elbocsátás feltételeire. A 79/7/EGK 7. cikkében foglalt kivétel a társadalombiztosítási ellátásokra gyakorolt következményekre vonatkozik, és szigorúan olvasandó — de e kérdés a Burton-féle elbocsátás-fogalomra épül."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "accc1bae7368"
+    },
+    {
+      "question": "Az Egyesült Királyság szerint az állami szervvel szembeni irányelvi hivatkozás önkényes különbséget tesz az állami és a magánalkalmazottak között. Mi a Marshall-ügy válasza?",
+      "options": [
+        {
+          "text": "Az ilyen megkülönböztetés könnyen elkerülhető, ha az érintett tagállam helyesen ülteti át az irányelvet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bíróság nem fogadta el az egyenlőtlenségi érvet mint a hivatkozás akadályát. A C-152/84. sz. Marshall ügy szerint az állami–magán különbség a helyes átültetéssel megszűnik. A mulasztó állam nem hivatkozhat a saját késedelmére. A vertikális hivatkozás éppen a mulasztás következményeinek elhárítását szolgálja."
+        },
+        {
+          "text": "A megoldás az, hogy a magánmunkáltatóval szemben is megnyílik az irányelv horizontális közvetlen hatálya.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marshall-ügy a horizontális közvetlen hatályt zárva tartja. A C-152/84. sz. döntés a horizontális síkon zárja az irányelv kötelező erejének magánfelekre történő kiterjesztését. A helyes: a magánvitában a C-106/89. sz. Marleasing ügy a konform értelmezést írja elő. A tévedés az egyenlőtlenséget horizontális hatálynyitással „javítja”."
+        },
+        {
+          "text": "A Bíróság az egyenlőtlenség miatt megszüntette a vertikális hivatkozást, hogy az állami és a magánalkalmazottak helyzete azonos legyen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marshall-ügy nem áldozza fel a vertikális hivatkozást az egyenlőség nevében. A C-152/84. sz. ügy szerint az egyenlőtlenségi érvelés nem indokol más következtetést. A helyes: a különbség a helyes átültetéssel elkerülhető. A tévedés az egyenlőséget a közvetlen hatály kioltásának ürügyévé teszi."
+        },
+        {
+          "text": "A magánszemély az állammal szemben akkor is hivatkozhat az irányelvre, ha az állam munkáltatóként jár el, mert mindkét minőségben meg kell akadályozni a mulasztásból származó előnyt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az állami szerv tág olvasata ezt szolgálja. A C-152/84. sz. ügy a Southampton-i egészségügyi hatóságot az állam szervének tekintette. A 76/207/EGK 5. cikkének (1) bekezdésére a munkáltatói minőségében eljáró állami hatósággal szemben hivatkozni lehet. A magánmunkáltatóval szembeni hiányt a helyes átültetés, illetve a közvetett hatály kezeli."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "4d17a8eeabab"
+    },
+    {
+      "question": "Mit jelent a Becker–Marshall gyakorlat szerint az, hogy a mulasztó tagállam „nem hivatkozhat a saját mulasztására” az irányelv vertikális hivatkozásánál?",
+      "options": [
+        {
+          "text": "A feltétlen és kellően pontos jelleg önmagában elég a magánmunkáltatóval szembeni közvetlen hivatkozáshoz is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a pontosság a vertikális síkra nyit, a horizontálisra nem. A C-152/84. sz. Marshall ügy a 76/207/EGK 5. cikkét kellően pontosnak találta, mégis zárta a magánszeméllyel szembeni hivatkozást. A helyes: magánvitában a Marleasing-féle közvetett hatály jön szóba. A tévedés a Becker-feltételeket a horizontális síkra írja."
+        },
+        {
+          "text": "A tagállam, amely az előírt határidőn belül nem fogadta el a végrehajtási intézkedéseket, vagy helytelenül ültetett át, a magánszeméllyel szemben nem támaszkodhat erre a mulasztásra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mulasztás a hivatkozás feltétele, nem a tagállam mentsége. A C-152/84. sz. Marshall ügy a Becker-ügy (8/81) állandó gyakorlatát követi. A 189. cikk (ma 288. cikk) szerinti kötelező jelleggel összeegyeztethetetlen lenne a hivatkozás elvi kizárása. Ez a jogkövetkezmény-nézőpont, nem a feltétlenség–pontosság ismérveinek ismételt felsorolása."
+        },
+        {
+          "text": "A vertikális hivatkozás azt szolgálja, hogy a nemzeti bíróság mellőzze az irányelvvel ellentétes nemzeti szabály alkalmazását a mulasztó vagy helytelenül átültető állammal — ideértve az állam szervét — szemben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hivatkozás célja az alkalmazás elkerülése. A C-152/84. sz. Marshall ügy a 76/207/EGK 5. cikkének (1) bekezdését e célból engedi az állami szervvel szemben. A magánmunkáltatóval szembeni közvetlen hivatkozást ugyanakkor a Marshall-ratio zárja; arra a Marleasing-féle közvetett hatály ad választ."
+        },
+        {
+          "text": "A hivatkozás csak a határidő lejárta előtt lehetséges, utána a magánszemély elveszíti az irányelvi védelmet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hivatkozás éppen a határidő elmulasztása után válik tipikussá. A C-152/84. sz. Marshall ügy szerint a magánszemély akkor hivatkozhat, ha a tagállam az előírt határidőn belül elmulasztotta az átültetést, vagy az átültetés helytelen. A helyes: a mulasztás a hivatkozás feltétele, nem a kizárása. A tévedés a határidőt fordítva olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "b9f7ee87d1db"
+    },
+    {
+      "question": "Mely állítások tévesek a rendelet és az irányelv közvetlen hatályának elhatárolásáról?",
+      "options": [
+        {
+          "text": "Az irányelv soha nem bírhat közvetlen hatállyal, mert a 288. cikk a közvetlen alkalmazandóságot kizárólag a rendeletnek tartja fenn.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez a Van Duyn-ügyben elutasított érv. A C-41/74. sz. ügy szerint a rendelet természet szerinti közvetlen hatályából nem következik, hogy az egyéb aktusok soha ne bírhatnának hasonló hatállyal. A helyes: a C-41/74. sz. Van Duyn ügy a 64/221 irányelv 3. cikkének (1) bekezdését a tagállami bíróság előtt érvényesíthető jogok forrásának minősítette. A tévedés a rendelet–irányelv megkülönböztetést abszolút tilalommá merevíti."
+        },
+        {
+          "text": "Az irányelv horizontális közvetlen hatálya a Marshall-ügy óta a rendeletével azonos terjedelmű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelv horizontális közvetlen hatálya nem egyenlő a rendeletével. A C-152/84. sz. Marshall ügy a 189. cikk címzetti szerkezetéből vezeti le, hogy az irányelv magánszemélyre kötelezettséget nem ró. A helyes: az EUMSZ 288. cikk szerinti rendelet erga omnes érvényesül, míg az irányelvnél a magánvitában a C-106/89. sz. Marleasing ügy szerinti közvetett hatály jön szóba. A tévedés a két aktus hatókörét azonosnak tekinti."
+        },
+        {
+          "text": "A rendelet csak a címzett tagállammal szemben hivatkozható, mert a 288. cikk a rendeletet is irányelvszerűen a tagállamhoz címzi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet általános hatályú. Az EUMSZ 288. cikk szerint a rendelet általános hatállyal bír, teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban. A helyes: a rendelet vertikálisan és horizontálisan is hivatkozható. A tévedés az irányelv címzetti szerkezetét írja a rendeletre."
+        },
+        {
+          "text": "Ha a tagállam „átülteti” a rendeletet, a rendelet elveszíti közvetlen alkalmazandóságát, és csak a nemzeti szöveg marad hatályban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti maszkolás nem szünteti meg a rendeletet. Az EUMSZ 288. cikk közvetlen alkalmazandósága szerint a rendelet a belső jogban önállóan hatályosul. A helyes: a tagállami „átültető” szöveg nem szűkítheti és nem teheti feltételessé a rendelet tartalmát. A tévedés a rendeletet az irányelv átültetési logikájával kezeli."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "c0ded33f4b5c"
+    },
+    {
+      "question": "A Van Gend en Loos-ügyben a Bíróság miből vezette le, hogy a Szerződés több, mint államközi kötelezettségvállalás?",
+      "options": [
+        {
+          "text": "A Bíróság a holland alkotmány elsőbbségi klauzulájából vezette le a közösségi jog közvetlen hatályát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a döntés nem a holland alkotmányjogra épült. A C-26/62. sz. Van Gend en Loos ügy a választ a Szerződés szelleme, rendszere és megfogalmazása alapján adta meg. A helyes: a holland belső jogelvek szerinti alkalmazás a nemzeti bíróság feladata maradt. A tévedés a nemzeti alkotmányt teszi a közvetlen hatály forrásává."
+        },
+        {
+          "text": "A Szerződés csak a tagállamok közötti kölcsönös kötelezettségeket hoz létre, ezért a magánszemélyek nem lehetnek a közösségi jog alanyai.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Gend-formula éppen ezt cáfolja. A C-26/62. sz. Van Gend en Loos ügy a Közösséget olyan új jogrendként írja le, amelynek alanyai a tagállamok mellett az állampolgárok is. A helyes: a világos kötelezettség egyéni jogot is keletkeztethet. A tévedés a közösségi jogot pusztán államközi kötelezettségvállalássá silányítja."
+        },
+        {
+          "text": "A Szerződés célkitűzése olyan közös piac, amelynek működése közvetlenül érinti a Közösség jogalanyait, és a preambulum a kormányok mellett a népeket is említi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szellem és a rendszer a ratio része. A C-26/62. sz. Van Gend en Loos ügy a Szerződés szelleméből, rendszeréből és megfogalmazásából indult. A szuverén jogokkal felruházott intézmények a tagállamokat és az állampolgárokat egyaránt érintik. A Parlament és a Gazdasági és Szociális Bizottság közvetítésével az állampolgárokat a működésben való együttműködésre hívták."
+        },
+        {
+          "text": "A 177. cikk (ma EUMSZ 267.) a nemzeti bíróságok értelmezésének egységét szolgálja, és ezzel az államok elismerték, hogy állampolgáraik a közösségi jogra e bíróságok előtt hivatkozhatnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az előzetes döntéshozatal intézményi jele a magánjogi hivatkozásnak. A C-26/62. sz. ügy a 177. cikke (ma EUMSZ 267.)t e megerősítésként olvasta. Ebből következik a Van Gend-formula: a Közösség új jogrend, amelynek alanyai a tagállamok és az állampolgárok. Az EGK-Szerződés 12. cikke e rendszerben egyéni jogot keletkeztethetett a nemzeti bíróság előtt."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "3cd92f6c0d53"
+    },
+    {
+      "question": "Mi a jogkövetkezménye annak, ha a 12. cikk megsértésével szembeni biztosítékokat kizárólag a 169. és a 170. cikkre szorítanánk?",
+      "options": [
+        {
+          "text": "Megszűnne az állampolgárok egyéni jogainak közvetlen bírói védelme a nemzeti bíróság előtt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Van Gend en Loos-ügy e következményt kifejezetten kimondja. A C-26/62. sz. ügy szerint a biztosítékok ilyen szorítása megszüntetné a közvetlen bírói védelmet. A magánszemélyek ébersége kiegészíti a Bizottság és a tagállamok ellenőrzését. Az EGK-Szerződés 12. cikkét ezért úgy kell értelmezni, hogy közvetlen hatállyal bír, és egyéni jogokat keletkeztet."
+        },
+        {
+          "text": "A hivatkozás hatékonyságától foszthatná meg a védelmet, ha az a Szerződést sértő nemzeti határozat végrehajtása után történne.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az időbeli és eljárási rés is veszteség. A C-26/62. sz. ügy szerint a kizárólagos kötelezettségszegési út késedelmes lehet a már végrehajtott nemzeti határozattal szemben. A nemzeti bíróság előtti egyéni jog ezt a rést tölti be. A 169. és a 170. cikk tehát nem zárja ki a magánjogi hivatkozást."
+        },
+        {
+          "text": "A 12. cikk akkor is közvetlen hatályú maradna, ha a magánszemélyek nemzeti bíróság előtti hivatkozását teljesen kizárnánk.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen hatály éppen az egyéni bírói védelmet jelenti. A C-26/62. sz. ügy a 12. cikket úgy értelmezte, hogy egyéni jogokat keletkeztet, amelyeket a nemzeti bíróságoknak védelemben kell részesíteniük. A helyes: a 169–170. cikkre szorítás e védelmet szüntetné meg. A tévedés a közvetlen hatályt a kötelezettségszegési eljárással azonosítja."
+        },
+        {
+          "text": "A kizárólagos kötelezettségszegési út erősítené a magánszemélyek védelmét, mert a Bizottság mindig gyorsabb a nemzeti bíróságnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság ellenkező hatékonysági érvet fogadott el. A C-26/62. sz. Van Gend en Loos ügy szerint a biztosítékok 169–170. cikkre szorítása a közvetlen bírói védelmet szüntetné meg, és a végrehajtás utáni hivatkozást hatástalaníthatná. A helyes: a magánszemélyek ébersége kiegészíti a Bizottság ellenőrzését. A tévedés a kötelezettségszegési utat egyedüli, gyorsabb biztosítéknak állítja."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "cd26063fb940"
+    },
+    {
+      "question": "M. H. Marshallot a Southampton-i egészségügyi hatóság a nőkre vonatkozó nyugdíjkorhatár miatt bocsátja el. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "Mivel az egészségügyi hatóság munkáltató, a Marshall-ügy szerint az irányelv horizontálisan a magánmunkáltatókra is kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkáltatói minőség az állam szervénél is vertikális sík. A C-152/84. sz. ügy az egészségügyi hatóságot az állam szervének tekintette, és a horizontális közvetlen hatályt zárva tartotta. A helyes: a C-152/84. sz. Marshall ügy szerint magánszeméllyel szemben az irányelv rendelkezéseire önmagukban nem lehet hivatkozni. A tévedés az emanation of the state fogalmát horizontális hatálynyitássá fordítja."
+        },
+        {
+          "text": "A Southampton and South-West Hampshire Area Health Authority az állam szerve, ezért a fellebbező az irányelvre a munkáltatói minőségében eljáró állami hatósággal szemben hivatkozhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Court of Appeal már megállapította az emanation of the state minőséget. A C-152/84. sz. Marshall ügy szerint a hivatkozás független attól, hogy az állam hatóságként vagy munkáltatóként jár el. A 76/207/EGK irányelv 5. cikkének (1) bekezdése önmagában általános jelleggel és egyértelműen tiltja a nemen alapuló megkülönböztetést az elbocsátásnál. A cél a nemzeti rendelkezés alkalmazásának elkerülése."
+        },
+        {
+          "text": "A hivatkozás csak a nemi megkülönböztetésről szóló 1975. évi törvény 6. cikkének (4) bekezdése alapján állhat meg, az irányelv önállóan nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti törvényi kivétel nem zárja ki az irányelvi hivatkozást. A C-152/84. sz. Marshall ügy második kérdése éppen azt vizsgálta, hogy a fellebbező hivatkozhat-e az irányelvre a nemzeti bíróságok előtt a törvény 6. cikkének (4) bekezdése ellenére. A helyes: a kellően pontos 5. cikk (1) bekezdésére az állami hatósággal szemben hivatkozni lehet. A tévedés a nemzeti kivételt abszolút akadállyá teszi."
+        },
+        {
+          "text": "A 76/207/EGK 5. cikkének (1) bekezdése szerinti egyenlő bánásmód az elbocsátás feltételeire is kiterjed, és az eltérő korhatárhoz kötött kötelező elbocsátás nemen alapuló megkülönböztetés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a Marshall-ügy első kérdésének válasza. A C-152/84. sz. ügy a 76/207/EGK irányelvet alkalmazta, nem a 79/7/EGK kivételét. A kötelező elbocsátás a Burton-ügy szerinti tág elbocsátásfogalom alá tartozik. A Social Security Act 1975 a nyugdíj folyósításának korhatárát adta, anélkül hogy kötelező nyugdíjba vonulást írt volna elő."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "47474cd839df"
+    },
+    {
+      "question": "A 48. cikk (EGK; ma EUMSZ 45.) (3) bekezdése szerinti közrendi fenntartás mellett a tagállam saját állampolgárát és a más tagállam állampolgárát milyen eltérő módon kezelheti a Van Duyn-ügy szerint?",
+      "options": [
+        {
+          "text": "Saját állampolgárait a területére belépés és az ott tartózkodás jogától a nemzetközi jog elve szerint nem tagadhatja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a saját állampolgárok belépési joga nemzetközi jogi korlát. A C-41/74. sz. Van Duyn ügy ezt az elvet kifejezetten rögzíti. A közrendi fenntartás ezért nem azonos terjedelmű a saját és a más tagállami állampolgárokkal szemben. A 48. cikk (EGK; ma EUMSZ 45.) közvetlen hatályát e különbség nem oltja ki."
+        },
+        {
+          "text": "A más tagállam állampolgárával szembeni közrendi intézkedés csak akkor jogszerű, ha a tagállam ugyanazt a korlátozást a saját állampolgáraira is alkalmazza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Duyn-ügy e párhuzamosságot nem követeli meg. A C-41/74. sz. ügy szerint a szabad mozgás kedvezménye a közrendre hivatkozva megtagadható akkor is, ha a saját állampolgárokat nem veti alá hasonló korlátozásnak. A helyes: a személyes viselkedésen alapuló intézkedés a 64/221 irányelv 3. cikke szerint bírálható. A tévedés kitalált egyenlőségi feltételt fűz a fenntartáshoz."
+        },
+        {
+          "text": "A tagállam a saját állampolgárait is szabadon kitilthatja a területéről, ha a közrendre hivatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a saját állampolgárok belépési joga nem vonható el így. A C-41/74. sz. Van Duyn ügy szerint a tagállam saját állampolgárait a területére belépés és az ott tartózkodás jogától a nemzetközi jog elve szerint nem tagadhatja meg. A helyes: a közrendi fenntartás a más tagállam állampolgárával szemben merül fel. A tévedés a fenntartást a saját állampolgárokra is kiterjeszti."
+        },
+        {
+          "text": "Más tagállam állampolgárától a közrendre hivatkozva a szabad mozgás kedvezménye megtagadható, akkor is, ha a saját állampolgárait nem veti alá hasonló korlátozásnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fenntartás aszimmetriája elismert. A C-41/74. sz. ügy szerint a közrendi hivatkozás a más tagállam állampolgárával szemben fenntartható e különbség mellett is. A csoporthoz való jelenlegi tartozás személyes viselkedésnek minősülhet. A fenntartás alkalmazása bírósági úton felülvizsgálható."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "8f546bf4ef44"
+    },
+    {
+      "question": "Mely állítások tévesek a közvetett hatály Marleasing-formulájáról?",
+      "options": [
+        {
+          "text": "A Marleasing-formula a 11. cikk közvetlen alkalmazását jelenti a magánfelek közötti jogvitában.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a formula értelmezési kötelezettség, nem közvetlen alkalmazás. A C-106/89. sz. ügy a horizontális közvetlen hatályt zárja, majd a nemzeti jog konform olvasatát írja elő. A helyes: a semmisségnek a 11. cikkben felsoroltaktól eltérő okból történő megállapítását kell kizárni. A tévedés a közvetett hatályt horizontális közvetlen hatállyá nevezi."
+        },
+        {
+          "text": "A közvetett hatály csak akkor kötelezi a bíróságot, ha a nemzeti rendelkezést az irányelv után fogadták el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marleasing-formula időbeli hatóköre szélesebb az utólagos nemzeti szabályoknál. A C-106/89. sz. Marleasing ügy a nemzeti bíróságot az irányelv előtt és után elfogadott rendelkezések konform értelmezésére kötelezi. A helyes: a lehető legmesszebbmenőkig az irányelv szövege és célja szerinti olvasatot kell adni. A tévedés a közvetett hatályt csupán a későbbi jogszabályokra korlátozza."
+        },
+        {
+          "text": "A bíróságok kívül esnek az irányelvi kötelezettségen, mert a 189. cikk csak a jogalkotót és a közigazgatást köti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bíróságok is a tagállami hatóságok közé tartoznak. A C-106/89. sz. Marleasing ügy a Von Colson és Kamann-ügy (14/83) 26. pontjára építve a bíróságokra is kiterjeszti az eredménykötelmet. A helyes: a Szerződés 5. cikke szerinti együttműködés a bíróságokat is köti. A tévedés a bírói hatalmat kivonja az irányelvi kötelezettség alól."
+        },
+        {
+          "text": "A közvetett hatály lehetővé teszi, hogy a nemzeti bíróság a nemzeti jogot figyelmen kívül hagyva az irányelv szövegét alkalmazza a magánfélre kötelezettségként.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetett hatály nem a nemzeti jog félretétele és nem magánkötelezettség. A C-106/89. sz. Marleasing ügy a lehető legmesszebbmenőkig történő értelmezést írja elő. A helyes: az irányelv eredményét a nemzeti jogból kell kihozni, a Marshall-féle horizontális tilalom mellett. A tévedés a közvetett hatályt közvetlen alkalmazássá alakítja."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "efe7fbeeb13a"
+    },
+    {
+      "question": "A 76/207/EGK irányelv 2. cikkének (1) bekezdése hogyan határozza meg az egyenlő bánásmód elvét a Marshall-ügy olvasatában?",
+      "options": [
+        {
+          "text": "Az egyenlő bánásmód elve szerint tilos minden nem alapján történő közvetlen vagy közvetett megkülönböztetés, különösen a családi állapottal összefüggésben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2. cikk (1) bekezdése az elv fogalmi magját adja. A C-152/84. sz. Marshall ügy e meghatározást az 5. cikk (1) bekezdésével együtt olvasta. Az 5. cikk a munkakörülményekre — beleértve az elbocsátást — végrehajtja az elvet. A Marshall-tényállásban a 2. cikk szerinti kivételi körök nem adtak mentességet az elbocsátási megkülönböztetés tilalma alól."
+        },
+        {
+          "text": "A 2. cikk (1) bekezdése csak a férfiak védelmét szolgálja, a nők elbocsátására nem terjed ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elv mindkét nemre szól. A 76/207/EGK irányelv 2. cikkének (1) bekezdése minden nemen alapuló közvetlen vagy közvetett megkülönböztetést tilt. A helyes: a C-152/84. sz. Marshall ügy éppen egy nő kötelező elbocsátását minősítette irányelvsértőnek. A tévedés az egyenlő bánásmódot egyoldalú védelemre szűkíti."
+        },
+        {
+          "text": "Az 5. cikk (1) bekezdése a 2. cikk (1) bekezdésében meghatározott elvet hajtja végre, amikor a nemen alapuló megkülönböztetést az elbocsátás feltételeinél tiltja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két cikk együtt adja a vertikális hivatkozás alapját. A C-152/84. sz. ügy szerint az 5. cikk (1) bekezdése önmagában általános jelleggel és egyértelműen tilt. A fellebbező és a Bizottság e rendelkezéseket kellően egyértelműnek tartotta a nyílt megkülönböztetés tilalmához. A nemzeti bíróság előtt ez a vertikális védelem alapja."
+        },
+        {
+          "text": "A 2. cikk kivételei a Marshall-ügyben felülírták az 5. cikk elbocsátási tilalmát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2. cikk kivételi körei a Marshall-tényállásban nem írták felül az elbocsátási tilalmat. A C-152/84. sz. Marshall ügy szerint az 5. cikk nem ruházza fel a tagállamokat arra, hogy az elv alkalmazását a hatálya alatt korlátozzák. A helyes: az 5. cikk (1) bekezdése kellően pontos a vertikális hivatkozáshoz. A tévedés a kivételeket abszolút felülírássá tágítja."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "e1108119a889"
+    },
+    {
+      "question": "A La Comercialot három személy alapítja, a Barviesa SA vagyonát apportálja, a Marleasing pedig ok hiányára hivatkozva kéri a semmisséget. Mi a helyes bírói út?",
+      "options": [
+        {
+          "text": "A bíróság a 11. cikket közvetlenül alkalmazza a Marleasingre nézve kötelező erővel, mert az irányelv átültetése elmaradt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mulasztás nem nyit horizontális közvetlen hatályt. A C-106/89. sz. Marleasing ügy a Marshall-zárat megerősíti: az irányelv önmagában nem ró kötelezettséget magánszemélyre. A helyes: a nemzeti jogot kell a 11. cikk fényében értelmezni. A tévedés az átültetési késedelmet horizontális közvetlen hatállyá alakítja."
+        },
+        {
+          "text": "A „társaság célja” a 11. cikk (2) bekezdés b) pontja szerint az alapító okiratban vagy alapszabályban leírt cél, nem a hitelezők megkárosítására irányuló tényleges tevékenység.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bíróság a Bizottság szűk olvasatát fogadta el. A C-106/89. sz. Marleasing ügy a preambulum hatodik bekezdésére is támaszkodott: a semmisségi eseteket a jogbiztonság érdekében korlátozni kell. A harmadik személyek védelmét a semmisségi okok szűkítésével kell erősíteni. A színlelt alapítás önmagában nem volt a 11. cikk szerinti ok."
+        },
+        {
+          "text": "A nemzeti bíróság a 68/151 irányelv 11. cikkének szövege és célja fényében köteles értelmezni a nemzeti jogot, és kizárni a listától eltérő semmisségi okot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a Marleasing rendelkező része. A C-106/89. sz. ügy a magánfelek közötti vitában a horizontális közvetlen hatályt zárta, majd a konform értelmezést írta elő. A spanyol polgári törvénykönyv 1261. és 1275. cikkének „ok hiányára” épülő olvasata a 11. cikk fényében nem tartható. A csatlakozási okmány 395. cikke szerinti átültetési késedelem sem nyitott horizontális közvetlen hatályt."
+        },
+        {
+          "text": "A Barviesa apportja miatt a semmisség automatikusan kimondandó, függetlenül a 11. cikk listájától.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az apport ténye nem pótolja a 11. cikk szerinti okot. A C-106/89. sz. Marleasing ügy a semmisségi okokat kimerítőnek és szigorúan értelmezendőnek tekinti. A helyes: a nemzeti bíróság kizárja a listától eltérő okból történő semmisséget. A tévedés a tényállási elemet önálló semmisségi okká emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "4706a6c18115"
+    },
+    {
+      "question": "Miért nem oldja fel a Marleasing-féle közvetett hatály a Van Gend-formula szerinti szerződéses horizontális „csírát” és a Marshall-beli irányelvi tilalom különbségét?",
+      "options": [
+        {
+          "text": "A Marshall-ügy óta az irányelv ugyanúgy horizontális kötelezettséget ró, mint a Van Gend-formula a Szerződésre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két figura nem azonos. A C-152/84. sz. Marshall ügy az irányelv horizontális közvetlen hatályát zárja, míg a C-26/62. sz. Van Gend en Loos ügy a szerződéses kötelezettségek magánjogi hivatkozhatóságának csíráját ismeri el. A helyes: az irányelvnél a magánvitában a C-106/89. sz. Marleasing ügy szerinti értelmezés jön szóba. A tévedés a Szerződés és az irányelv horizontális hatását összemosja."
+        },
+        {
+          "text": "A Van Gend-formula a Szerződésnél nyitja a magánszemélyekre rótt kötelezettségek magánjogi hivatkozhatóságának csíráját; ez aktustípus szerint a Szerződésre (és a rendeletre) vonatkozik, nem az irányelv Marshall-zárának feloldására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a horizontális csíra szerződéses aktustípushoz kötött. A C-26/62. sz. Van Gend en Loos ügy a 169. és a 170. cikk mellett elismeri, hogy magánvitában is hivatkozni lehet a közösségi jog magánszemélyekre rótt kötelezettségeinek megsértésére. Az EGK-Szerződés 12. cikke elsősorban a tagállam–jogalany tengelyen vált ki közvetlen hatályt, de a formula tágabb — és nem az irányelvre írt Marshall-zár ellenpéldája."
+        },
+        {
+          "text": "Az irányelvnél a Marshall-ügy a 189. cikk (ma 288. cikk) címzetti szerkezete miatt zárja a horizontális közvetlen hatályt; a Marleasing e zár mellett a nemzeti jog konform értelmezését nyitja, nem a közvetlen hatályt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két figura elválik. A C-152/84. sz. Marshall ügy az irányelv kötelező jellegét csak a címzett tagállamra vonatkoztatja. A C-106/89. sz. Marleasing ügy a magánvitában a közvetett hatályt adja: értelmezés, nem a Marshall-zár feloldása. A rendelet a 288. cikk szerinti erga omnes kötőerő miatt horizontálisan is hivatkozható — ez sem a Marleasing eredménye."
+        },
+        {
+          "text": "A Van Gend-formula kizárólag a Bizottság keresetére korlátozódik, ezért horizontális csírája nincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Gend en Loos-ügy éppen a nemzeti bíróság előtti védelmet emeli ki. A C-26/62. sz. ügy szerint a 169. és a 170. cikk nem zárja ki, hogy magánszemélyek közötti jogvitában a kötelezettségek megsértésére hivatkozzanak. A helyes: a közösségi jog magánszemélyekre is róhat kötelezettségeket. A tévedés a formula hatókörét a kötelezettségszegési eljárásra szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "4423db7c9c98"
+    },
+    {
+      "question": "A nemzeti bíróság feladata a Marshall-ügyben az állami szerv minősítésénél miben áll?",
+      "options": [
+        {
+          "text": "Ha a nemzeti bíróság az állami szervet megállapítja, az irányelv a szervvel szerződő magánfélre is közvetlenül kötelezővé válik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állami szerv elleni hivatkozás vertikális, nem a magánfél kötelezése. A C-152/84. sz. Marshall ügy a horizontális közvetlen hatályt zárva tartja. A helyes: a magánszeméllyel szemben az irányelv önmagában nem hivatkozható; a magánvitában a Marleasing-féle értelmezés jön szóba. A tévedés az emanation fogalmát horizontális kötelezettséggé fordítja."
+        },
+        {
+          "text": "A nemzeti bíróság nem vizsgálhatja, hogy a munkáltató az állam szerve-e, mert ez kizárólag a Bíróság ténykérdése.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tény- és minősítési alkalmazás a nemzeti bíróságé. A C-152/84. sz. Marshall ügy szerint a nemzeti bíróság feladata e megfontolások alkalmazása. A helyes: a Court of Appeal már megállapította a hatósági minőséget. A tévedés a nemzeti bíróságot kivonja az emanation of the state vizsgálatából."
+        },
+        {
+          "text": "Ha a fél hivatkozni tud az irányelvre az állammal szemben, azt megteheti függetlenül attól, hogy az állam hatóságként vagy munkáltatóként jár el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a minőség nem zárja a vertikális síkot. A C-152/84. sz. ügy mindkét minőségben megakadályozza, hogy az állam a saját mulasztásából előnyt kovácsoljon. A 76/207/EGK 5. cikkének (1) bekezdése kellően pontos e hivatkozáshoz. A magánmunkáltató ettől továbbra is kívül esik a horizontális közvetlen hatályon."
+        },
+        {
+          "text": "A nemzeti bíróság alkalmazza azokat a megfontolásokat, amelyek szerint az állammal szembeni hivatkozás a munkáltatói minőségben is megáll, ha a fél az állam szerve.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a minősítés nemzeti alkalmazása. A C-152/84. sz. Marshall ügy a Bíróság megfontolásainak alkalmazását a nemzeti bíróságra bízza. A Court of Appeal azonban már megállapította, hogy a Southampton-i egészségügyi hatóság egy hatóság. A National Health Service Act 1977 alapján létrehozott szerv emanation of the state."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "ed2a7e108c08"
+    },
+    {
+      "question": "Mely állítások tévesek a közvetlen hatály hármas ismérvéről?",
+      "options": [
+        {
+          "text": "Elég, ha a rendelkezés világos; a végrehajtás pozitív belső aktustól is függővé tehető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három ismérv konjunktív, nem elegendő a puszta világosság. A C-26/62. sz. Van Gend en Loos ügy szerint a rendelkezésnek világosnak és feltétel nélkülinek kell lennie, és a tagállam nem teheti a végrehajtást pozitív belső jogi aktustól függővé. A helyes: az EGK-Szerződés 12. cikke ilyen, tartózkodásra kötelező tilalom volt a vámok körében. A tévedés a második ismérvet elhagyja."
+        },
+        {
+          "text": "A hármas ismérv csak a Bizottság kötelezettségszegési keresetében vizsgálandó, a nemzeti bíróság előtt nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlen hatály a nemzeti bíróság előtti alanyi védelem. A C-26/62. sz. ügy a 12. cikket úgy értelmezte, hogy egyéni jogokat keletkeztet, amelyeket a nemzeti bíróságoknak védelemben kell részesíteniük. A helyes: a 169. és a 170. cikk e védelmet nem zárja ki. A tévedés az ismérveket a kötelezettségszegési eljárásra telepíti."
+        },
+        {
+          "text": "Ha a rendelkezés világos és feltétel nélküli, az irányelv magánszemélyre is közvetlenül kötelezettséget ró.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a világosság a vertikális hivatkozás feltétele, nem a horizontális zár feloldása. A C-152/84. sz. Marshall ügy a kellően pontos 76/207/EGK 5. cikk ellenére zárja a magánszemélyre rótt kötelezettséget. A helyes: a magánvitában a C-106/89. sz. Marleasing ügy szerinti közvetett hatály jön szóba. A tévedés a Van Gend-féle ismérveket az irányelv horizontális síkjára írja."
+        },
+        {
+          "text": "A közvetlen hatály csak tevési kötelezettségnél áll fenn; a tartózkodási tilalom alkalmatlan rá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a viszony fordított. A C-26/62. sz. Van Gend en Loos ügy szerint a tilalom jellege — különösen a tartózkodásra vonatkozó kötelezettség — tökéletesen alkalmas a közvetlen hatályra. A helyes: a 12. cikk nem tevési, hanem tartózkodási kötelezettség volt. A tévedés a tevési kötelezettséget teszi egyedüli alkalmas típussá."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "89bc7e26b2cc"
+    },
+    {
+      "question": "Mi következik abból, ha a 68/151 irányelv preambulumának hatodik bekezdése a semmisségi esetek korlátozását a jogbiztonság érdekében írja elő?",
+      "options": [
+        {
+          "text": "A 11. cikk valamennyi semmisségi okát szigorúan kell értelmezni a társaság, a harmadik személyek és a tagok kapcsolataiban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a preambulum a Marleasing-ratio része. A C-106/89. sz. ügy szerint a semmisségi eseteket és a visszamenőleges hatályt a jogbiztonság érdekében kell korlátozni. A harmadik személyek védelmét olyan rendelkezésekkel kell biztosítani, amelyek a lehető legnagyobb mértékben korlátozzák az érvénytelenségi okokat. A tágító nemzeti olvasat ezért konform értelmezéssel kizárandó."
+        },
+        {
+          "text": "A jogbiztonság miatt a nemzeti bíróság szabadon bővítheti a semmisségi okokat, ha ez a hitelezőket védi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a preambulum a bővítést nem, hanem a korlátozást indokolja. A C-106/89. sz. Marleasing ügy a jogbiztonság érdekében a semmisségi esetek szűkítését írja elő. A helyes: a nemzeti jogot úgy kell értelmezni, hogy a 11. cikk listájától eltérő ok ne alapozzon semmisséget. A tévedés a jogbiztonságot tágító felhatalmazásként olvassa."
+        },
+        {
+          "text": "A „társaság célja” fogalmát az alapító okiratbeli leírásra kell szűkíteni, nem a ténylegesen folytatott tevékenységre tágítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szigorú értelmezés a 11. cikk (2) bekezdés b) pontjánál is érvényesül. A C-106/89. sz. Marleasing ügy a Bizottság olvasatát fogadta el. A hitelezők megkárosítására irányuló tényleges tevékenység e pont alá nem húzható. A kimerítő lista így nem nyitható polgári jogi „ok hiányával”."
+        },
+        {
+          "text": "A preambulum csak ajánlás, ezért a 11. cikk kimerítő jellege a bíróságot nem köti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marleasing-ügy a preambulumot a 11. cikk szigorú értelmezésének indokaként használja. A C-106/89. sz. döntés a nemzeti bíróságot a 11. cikk fényében történő értelmezésre kötelezi. A helyes: a kimerítő lista és a szigorú olvasat együtt érvényesül. A tévedés a preambulumot az irányelvi eredménykötelem alól mentesíti."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "fd9444b46aef"
+    },
+    {
+      "question": "Magánmunkáltató női alkalmazottját az állami nyugdíjkorhatár miatt bocsátja el. Mely megállapítások állják meg a helyüket az irányelvi védelem síkján?",
+      "options": [
+        {
+          "text": "A nemzeti bíróság a Marleasing-formula szerint köteles a nemzeti jogot a 76/207/EGK szövege és célja fényében, a lehető legmesszebbmenőkig értelmezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a horizontális zár után a közvetett hatály marad. A C-106/89. sz. Marleasing ügy a magánfelek közötti vitában az értelmezési kötelezettséget mondja ki. A Von Colson és Kamann-ügy (14/83) 26. pontja a bíróságokat is a tagállami hatóságok közé sorolja. Az eredménykötelem így a nemzeti jog konform olvasatán keresztül érvényesül."
+        },
+        {
+          "text": "Közvetett hatály hiányában a magánalkalmazottnak semmilyen uniós jogi eszköze nincs, még a nemzeti jog konform értelmezése sem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetett hatály éppen a magánvita eszköze. A C-106/89. sz. Marleasing ügy a nemzeti bíróság értelmezési kötelezettségét írja elő a magánfelek közötti jogvitában is. A helyes: a nemzeti jogot az irányelv szövege és célja fényében kell értelmezni. A tévedés a Marshall-zárat abszolút hatástalansággá tágítja."
+        },
+        {
+          "text": "Az irányelv horizontális közvetlen hatálya a Marshall-ügy szerint zárva van, ezért a magánmunkáltatóval szemben az irányelv önmagában nem hivatkozható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a magánmunkáltató nem a Marshall-féle állami szerv. A C-152/84. sz. ügy a 189. cikk (ma 288. cikk) címzetti szerkezetéből zárja a magánszemélyre rótt kötelezettséget. A 76/207/EGK 5. cikkének (1) bekezdése vertikálisan hivatkozható lenne, horizontálisan nem. A tényállás ezért nem a Marshall-féle vertikális pályán dől el."
+        },
+        {
+          "text": "A magánmunkáltatóval szemben a Marshall-ügy óta ugyanúgy közvetlenül hivatkozható az 5. cikk, mint az állami szervvel szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marshall-ügy a két síkot elválasztja. A C-152/84. sz. döntés az állami szervvel szembeni hivatkozást engedi, a magánszeméllyel szembeni közvetlen hivatkozást zárja. A helyes: a magánvitában a C-106/89. sz. Marleasing ügy szerinti közvetett hatály jön szóba. A tévedés a vertikális hivatkozást horizontálissá tágítja."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "1dc5562ac79d"
+    },
+    {
+      "question": "A C-41/74. sz. Van Duyn-ügy szerint miért nem zárja ki az irányelv vertikális hivatkozhatóságát az, hogy a rendelkezés értelmezési kérdéseket vet fel?",
+      "options": [
+        {
+          "text": "Ha a rendelkezés értelmezési kérdést vet fel, a közvetlen hatály automatikusan kizárt, mert nem világos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értelmezési kérdés nem egyenlő a világosság hiányával. A C-41/74. sz. Van Duyn ügy szerint az értelmezési kérdések a 177. cikk eljárásával rendezhetők, és nem zárják ki a közvetlen hatályt. A helyes: a 64/221 irányelv 3. cikkének (1) bekezdése a magánszemélyek számára olyan jogokat keletkeztet, amelyeket a nemzeti bíróságoknak védelemben kell részesíteniük. A tévedés minden értelmezési kérdést hatálykioltássá tesz."
+        },
+        {
+          "text": "A 64/221 irányelv 3. cikkének (1) bekezdése olyan kötelezettséget határoz meg, amely nem tartalmaz fenntartást vagy feltételt, és természeténél fogva nem igényel további uniós vagy tagállami aktust — ezért vertikálisan hivatkozható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelkezés természete, rendszere és kifejezései döntik el a közvetlen hatály alkalmasságát. A C-41/74. sz. ügy a 177. cikk (ma EUMSZ 267.) rendszertani érve mellett e mércén átengedte a 3. cikk (1) bekezdését. A High Court–Home Office viszony vertikális; ez más tanulási cél, mint a 177. cikk (ma EUMSZ 267.) általános Van Gend-beli megalapozásának ismétlése."
+        },
+        {
+          "text": "A 177. cikk csak a rendelet értelmezésére nyílik, ezért az irányelv soha nem lehet előzetes döntéshozatal tárgya.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az előzetes döntéshozatal tárgyi hatálya nem szűkül a rendeletre. A C-41/74. sz. Van Duyn ügy szerint a nemzeti bíróságok az intézmények kivétel nélkül valamennyi jogi aktusának értelmezését a Bíróság elé vihetik, ideértve az irányelvet is. A helyes: ez éppen az irányelvi hivatkozás elismerését erősíti. A tévedés a 177. cikk tárgyi hatályát a rendeletre szűkíti."
+        },
+        {
+          "text": "Az értelmezési kérdések — a rendelkezés értelme és pontos hatálya — a 177. cikk (ma EUMSZ 267.) eljárásával rendezhetők, és önmagukban nem zárják ki a közvetlen hatályt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az értelmezési nehézség nem hatálykioltás. A C-41/74. sz. Van Duyn ügy szerint a 64/221 irányelv 3. cikkének (1) bekezdése akkor is alkalmas közvetlen hatályra, ha értelmezési kérdéseket vet fel. A feltétel nélküli, további aktust nem igénylő kötelezettség a döntő. A nemzeti bíróság a Bíróság értelmezésével alkalmazza a rendelkezést."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "c4912fedd823"
+    },
+    {
+      "question": "Mely állítások tévesek az EUMSZ 288. cikk aktuskatalógusának kötőerejéről?",
+      "options": [
+        {
+          "text": "Az irányelv a forma és az eszközök megválasztását is uniós szinten kimerítően meghatározza, a nemzeti hatóságoknak nincs mozgásterük.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a forma és az eszközök nemzeti hatáskörben maradnak. Az EUMSZ 288. cikk szerint az irányelv az elérendő célokat illetően kötelező, a forma és az eszközök megválasztását a nemzeti hatóságokra hagyja. A helyes: ez választja el az irányelvet a rendelettől. A tévedés az irányelvet rendeletszerűvé merevíti."
+        },
+        {
+          "text": "Az ajánlás teljes egészében kötelező, és általános hatállyal bír valamennyi tagállamban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ajánlás nem kötelező, és nem bír a rendelet három ismérvével. Az EUMSZ 288. cikk szerint: „Az ajánlások és a vélemények nem kötelezőek.” A helyes: a rendelet az, amely általános hatályú, teljes egészében kötelező és közvetlenül alkalmazandó valamennyi tagállamban. A tévedés a rendelet három ismérvét írja az ajánlásra."
+        },
+        {
+          "text": "A határozat soha nem lehet címzetti körre szűkített, mert mindig erga omnes hatályú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozat címzetti szűkítése lehetséges. Az EUMSZ 288. cikk szerint, ha a határozat külön megjelöli a címzettjeit, kizárólag azokra nézve kötelező. A helyes: az erga omnes jelleg a rendeleté. A tévedés a határozatot a rendelettel azonos hatókörűnek tekinti."
+        },
+        {
+          "text": "A vélemény alanyi jogot keletkeztet, ha a szöveg világos és feltétel nélküli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vélemény kötőerő híján nem alapoz közvetlen hatályt. Az EUMSZ 288. cikk záró mondata szerint a vélemények nem kötelezőek, ezért belőlük alanyi jog nem származik. A helyes: a Van Gend-féle világosságpróba a kötelező rendelkezésekre vonatkozik, nem a véleményre. A tévedés a világosságpróbat a nem kötelező aktusra írja."
+        }
+      ],
+      "sourceKerdesSorszam": 41,
+      "sourceHash": "85639f4aef60"
+    },
+    {
+      "question": "Miben tér el a kötelezettségszegési eljárás és a közvetlen hatály egymástól a Van Gend en Loos-ügy szerint?",
+      "options": [
+        {
+          "text": "A kötelezettségszegési eljárás kizárja a nemzeti bíróság hatáskörét a szerződéses rendelkezés értelmezésére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 177. cikk szerinti előzetes döntéshozatal a nemzeti bíróság útját nyitja. A C-26/62. sz. ügyben a Bíróság a 12. cikk hatályának értelmezését végezte. A helyes: a kötelezettségszegési út nem fosztja meg a magánszemélyeket a nemzeti bíróság előtti hivatkozástól. A tévedés a két eljárást egymást kizárónak tekinti."
+        },
+        {
+          "text": "A biztosítékok kizárólagos 169–170. cikkre szorítása megszüntetné az egyéni jogok közvetlen bírói védelmét, és a végrehajtás utáni hivatkozást hatástalaníthatná.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bíróság e hatékonysági érvet fogadta el a kormányzati kifogással szemben. A C-26/62. sz. Van Gend en Loos ügy a biztosítékok 169–170. cikkre szorítását elutasította. A Tariefcommissie előtti vita éppen a nemzeti bírósági védelmet példázza. A közvetlen hatály ezért nem a kötelezettségszegési eljárás helyettesítője, hanem párhuzamos védelem."
+        },
+        {
+          "text": "A kötelezettségszegési út a Bizottság és a tagállamok ellenőrzése; a közvetlen hatály a magánszemély nemzeti bíróság előtti alanyi védelme.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két biztosíték kiegészíti egymást. A C-26/62. sz. Van Gend en Loos ügy szerint a 169. és a 170. cikk nem zárja ki a nemzeti bíróság előtti hivatkozást. A magánszemélyek ébersége a Bizottság és a tagállamok ellenőrzését egészíti ki. Az EGK-Szerződés 12. cikke e magánjogi védelemben egyéni jogot keletkeztet."
+        },
+        {
+          "text": "A közvetlen hatály csak a kötelezettségszegési eljárás jogerős megállapítása után nyílik meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két út nem egymás feltétele. A C-26/62. sz. Van Gend en Loos ügy szerint a magánszemély a nemzeti bíróság előtt a kötelezettségre hivatkozhat a Bizottság keresetétől függetlenül. A helyes: a 12. cikk közvetlen hatállyal bír, és egyéni jogokat keletkeztet. A tévedés a kötelezettségszegési utat előfeltétellé teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 42,
+      "sourceHash": "b6256e710681"
+    },
+    {
+      "question": "A High Court három kérdést tesz fel a 48. cikk (EGK; ma EUMSZ 45.) és a 64/221 irányelv kapcsán. Mely elhatárolás helyes a Van Duyn-ügy válaszai között?",
+      "options": [
+        {
+          "text": "A 48. cikk közvetlen hatálya csak a harmadik kérdés igenlő válaszától függött.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az első kérdés önállóan igenelte a 48. cikk közvetlen hatályát. A C-41/74. sz. Van Duyn ügy az (1)–(2) bekezdés pontos kötelezettségéből indult, és a (3) bekezdés fenntartását felülvizsgálható korlátnak tekintette. A helyes: a közrendi tartalom a harmadik kérdés tárgya, nem a hatály előfeltétele. A tévedés a kérdések sorrendjét feltételekké fordítja."
+        },
+        {
+          "text": "A harmadik kérdés a közrendi fenntartás tartalmát adja a 48. cikk (EGK; ma EUMSZ 45.) és a 64/221 irányelv 3. cikkének együttes olvasatával, de nem vonja vissza a közvetlen hatályt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartalmi korlát nem hatálykioltás. A C-41/74. sz. ügy a közrendet szigorúan, közösségi ellenőrzés mellett érti. A csoporthoz való jelenlegi tartozás személyes viselkedés lehet. A tagállam nem köteles a szervezet tevékenységét jogszabállyal megtiltani a közrendi hivatkozáshoz."
+        },
+        {
+          "text": "Az első kérdés a 48. cikk (EGK; ma EUMSZ 45.) közvetlen hatályát igenli; a második a 64/221 irányelv 3. cikkének (1) bekezdését vertikálisan hivatkozhatóvá teszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két válasz külön síkon áll. A C-41/74. sz. Van Duyn ügy a szerződéses szabad mozgást és az irányelvi személyes viselkedés-követelményt egyaránt elismerte. A közrendi fenntartás a (3) bekezdés mellett sem oltja ki a 48. cikk (EGK; ma EUMSZ 45.) hatályát. A Home Office elleni kereset vertikális tényállás."
+        },
+        {
+          "text": "A második kérdés elutasította az irányelv hivatkozhatóságát, mert a Tanács nem rendeletet fogadott el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság az Egyesült Királyság ezt az érvelést elutasította. A C-41/74. sz. Van Duyn ügy szerint a rendelet természet szerinti közvetlen hatályából nem következik, hogy az egyéb aktusok soha ne bírhatnának hasonló hatállyal. A helyes: a C-41/74. sz. döntés a 64/221 irányelv 3. cikkének (1) bekezdését vertikális közvetlen hatállyal ruházta fel. A tévedés az elutasított érvet a döntésnek tulajdonítja."
+        }
+      ],
+      "sourceKerdesSorszam": 43,
+      "sourceHash": "8e0d57e1f681"
+    },
+    {
+      "question": "Miben tér el a rendelet erga omnes kötőereje a határozat címzetti kötelező erejétől a közvetlen hatály szempontjából?",
+      "options": [
+        {
+          "text": "A határozatnál a közvetlen hatály a címzettekhez igazodik; a rendeletnél ilyen szűkítés nincs.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 288. cikk a rendeletet és a határozatot eltérő hatókörrel írja le. Az EUMSZ 288. cikk szövege szerint a határozat címzetti köre szűkülhet. A rendelet a nemzeti jogrendben erga omnes érvényesül. Az ajánlás és a vélemény kötőerő híján e körből kiesik."
+        },
+        {
+          "text": "A határozat mindig szélesebb hatályú a rendeletnél, mert a Bíróság a határozatot erga omnes aktusnak tekinti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a viszony fordított. Az EUMSZ 288. cikk a rendeletet általános hatályúnak, a határozatot pedig címzetti szűkítésre képesnek írja le. A helyes: a rendelet hatóköre a szélesebb. A tévedés a két aktus hatókörét felcseréli."
+        },
+        {
+          "text": "A rendelet csak a megjelölt címzettekre nézve hivatkozható, a határozat viszont minden magánfélre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a címzetti logika a határozaté. Az EUMSZ 288. cikk szerint a rendelet általános hatályú és közvetlenül alkalmazandó valamennyi tagállamban; a határozat címzetti megjelölés esetén kizárólag a címzettekre nézve kötelező. A helyes: a rendelet erga omnes érvényesül. A tévedés a két aktus szerkezetét megfordítja."
+        },
+        {
+          "text": "A rendelet általános hatályú, ezért vertikálisan és horizontálisan is hivatkozható; a határozat címzetti megjelölés esetén csak a címzettekre nézve kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatókör különbsége a hivatkozási síkot is alakítja. Az EUMSZ 288. cikk a rendeletet általános hatállyal és közvetlen alkalmazandósággal írja le. A határozat teljes egészében kötelező, de címzettek megjelölésekor kizárólag azokra nézve. A Van Duyn-ügy 12. pontja a rendelet természet szerinti közvetlen hatályát emeli ki."
+        }
+      ],
+      "sourceKerdesSorszam": 44,
+      "sourceHash": "accf8ca519a5"
+    },
+    {
+      "question": "A von Colson és Kamann-ügyre hivatkozás a Marshall-ügyben milyen szerepet kapott, és miben nem döntötte el a horizontális kérdést?",
+      "options": [
+        {
+          "text": "A Marshall-ügy rögzíti: az irányelvre a munkáltatói minőségében eljáró állami hatósággal szemben hivatkozni lehet, magánszemélyre azonban az irányelv kötelezettséget nem ró.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a kettős Marshall-ratio. A C-152/84. sz. döntés a 76/207/EGK 5. cikkének (1) bekezdését kellően pontosnak találta. A Southampton-i egészségügyi hatóság az állam szerve volt. A magánmunkáltatóval szembeni hiányt nem e döntés, hanem a későbbi Marleasing-féle közvetett hatály tölti ki."
+        },
+        {
+          "text": "A fellebbező a von Colson és Kamann-ügyre a nemzeti jog irányelv-konform értelmezése kapcsán hivatkozott, de a Marshall-ügy érdemi válasza a vertikális hivatkozás és a horizontális tilalom volt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a konform értelmezés említése nem a Marshall-ratio magja. A C-152/84. sz. ügy a Becker-gyakorlatból indult a vertikális hivatkozáshoz. A horizontális tilalmat a 189. cikk (ma 288. cikk) címzetti szerkezetéből vezette le. A Marleasing-ügy később a közvetett hatályt önállóan dolgozza ki."
+        },
+        {
+          "text": "A von Colson-hivatkozás miatt a Marshall-ügyben nem kellett vizsgálni, hogy az ellenérdekű fél az állam szerve-e.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marshall-ügy kulcskérdése volt az állami szerv minősítése. A C-152/84. sz. döntés megvizsgálta, hogy az egészségügyi hatóságot magánszemélyként kell-e kezelni, és a Court of Appeal hatósági megállapítására támaszkodott. A helyes: a vertikális hivatkozás az emanation of the state minőséghez kötődik. A tévedés a von Colson-hivatkozást a szervvizsgálat helyettesítőjének tekinti."
+        },
+        {
+          "text": "A Marshall-ügy a von Colson-formulát úgy alkalmazta, hogy az irányelv horizontális közvetlen hatályát megnyitotta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marshall-ügy a horizontális közvetlen hatályt zárja. A C-152/84. sz. döntés szerint az irányelv önmagában nem róhat kötelezettségeket magánszemélyekre. A helyes: a von Colson-féle értelmezési gondolat a Marleasing-ügyben teljesedik ki. A tévedés a Marshall-ügyet horizontális hatálynyitásként olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 45,
+      "sourceHash": "33f9eb632b96"
+    },
+    {
+      "question": "Mi a helyes sorrend a Van Gend – Van Duyn – Marshall – Marleasing láncban a hivatkozási síkok szerint?",
+      "options": [
+        {
+          "text": "A Marshall a vertikális hivatkozást az állami szervre is kiterjeszti, de a horizontális közvetlen hatályt zárja; a Marleasing e zár mellett a közvetett hatályt nyitja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második két láncszem a horizontális problémát kezeli. A C-152/84. sz. Marshall ügy a 76/207/EGK 5. cikkének (1) bekezdését az állami munkáltatóval szemben engedi. A C-106/89. sz. Marleasing ügy a nemzeti jog konform értelmezését írja elő a magánvitában. A két figura nem ugyanaz: közvetlen versus közvetett hatály."
+        },
+        {
+          "text": "A Van Gend en Loos a szerződéses közvetlen hatályt és az új jogrendet mondja ki; a Van Duyn a 48. cikk (EGK; ma EUMSZ 45.) és az irányelv vertikális hivatkozhatóságát erősíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az első két láncszem a vertikális alanyi védelmet építi. A C-26/62. sz. ügy a 12. cikket, a C-41/74. sz. ügy a 48. cikke (EGK; ma EUMSZ 45.)t és a 64/221 irányelv 3. cikkének (1) bekezdését teszi hivatkozhatóvá. A kötelezettségszegési út e védelmet nem zárja ki. Az EUMSZ 288. cikk kötőerő-katalógusa e bírói fejlődés szerződéses keretét adja."
+        },
+        {
+          "text": "A Van Duyn-ügy megszüntette a Van Gend-formula hármas ismérvét, mert az irányelvnél más feltételek érvényesülnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Van Duyn-ügy nem törli a világosság–feltétel nélküliség–végrehajtási fenntartás nélküliség mércéjét. A C-41/74. sz. ügy minden esetben a rendelkezés természete, rendszere és kifejezései alapján vizsgálja a közvetlen hatály alkalmasságát. A helyes: a 64/221 irányelv 3. cikkének (1) bekezdése e mércén átment. A tévedés a Van Duyn-ügyet a Van Gend-ismérvek hatályon kívül helyezésének tekinti."
+        },
+        {
+          "text": "A Marleasing-ügy feloldja a Marshall-zárat, és az irányelv horizontális közvetlen hatályát általános szabállyá teszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Marleasing-ügy a Marshall-zárat megerősíti, majd más figurát nyit. A C-106/89. sz. döntés szerint az irányelv önmagában nem ró kötelezettséget magánszemélyre. A helyes: a nemzeti bíróság a 68/151 irányelv szövege és célja fényében értelmez. A tévedés a közvetett hatályt horizontális közvetlen hatállyá nevezi."
+        }
+      ],
+      "sourceKerdesSorszam": 46,
+      "sourceHash": "ed9aaa23771e"
+    }
+  ]
+}

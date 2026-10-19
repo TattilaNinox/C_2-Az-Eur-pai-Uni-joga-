@@ -1,0 +1,765 @@
+{
+  "id": "L4eSbf3kV0HJOykppe5f",
+  "sorszam": 32,
+  "cim": "A személyek szabad mozgása; kivételek a személyek szabad mozgása alól",
+  "generationType": "fogalom",
+  "title": "32. A személyek szabad mozgása; kivételek a személyek szabad mozgása alól",
+  "questions": [
+    {
+      "question": "Mit jelent az uniós polgárság a nemzeti állampolgársághoz képest az EUMSZ szerint?",
+      "options": [
+        {
+          "text": "A 20. cikk (2) bekezdésének a) pontja a tagállamok területén való szabad mozgást és tartózkodást nevesíti mint az uniós polgárok katalógusának első elemét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mozgásszabadság a polgársági jogkatalógus nyitó eleme. Az EUMSZ 20. cikk (2) bekezdés a) pontja szerint az uniós polgárok „jogosultak a tagállamok területén szabadon mozogni és tartózkodni”. A 21. cikk (1) bekezdése ezt az a) pontot önálló, közvetlenül hivatkozható alanyi joggá emeli a végrehajtási feltételekkel együtt. A (2) bekezdés záró mondata valamennyi felsorolt jogot a Szerződésekben és a végrehajtási intézkedésekben megállapított feltételekhez és korlátozásokhoz köti."
+        },
+        {
+          "text": "Uniós polgár mindenki, aki valamely tagállam állampolgára, és az uniós polgárság kiegészíti, nem helyettesíti a nemzeti állampolgárságot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az uniós jogállás a nemzeti status civitatisra épül, nem váltja fel azt. Az EUMSZ 20. cikk (1) bekezdése szerint: „Uniós polgár mindenki, aki valamely tagállam állampolgára. Az uniós polgárság kiegészíti és nem helyettesíti a nemzeti állampolgárságot.” A nemzeti állampolgárság továbbra is a tagállam hatáskörében marad. A 20. cikk (2) bekezdése e jogálláshoz a Szerződések szerinti jogokat és kötelezettségeket kapcsolja."
+        },
+        {
+          "text": "Uniós polgár csak az a tagállami állampolgár lehet, aki más tagállamban munkavállalóként tevékenykedik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a polgárságot a munkavállalói tényállásra szűkíti. A helyes: az EUMSZ 20. cikk (1) bekezdése szerint uniós polgár mindenki, aki valamely tagállam állampolgára, gazdasági tevékenységtől függetlenül. A 45. cikk a munkavállalók szabad mozgásának lex specialisa, nem a polgárság keletkezésének feltétele. A tévedés a 20–21. cikk általános jogát a 45. cikk foglalkoztatási szabadságával azonosítja."
+        },
+        {
+          "text": "Az uniós polgárság felváltja a nemzeti állampolgárságot, ezért a tagállami status civitatis megszűnik a belépéssel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kiegészítő jelleg helyett helyettesítést állít. A helyes: az EUMSZ 20. cikk (1) bekezdése szerint az uniós polgárság kiegészíti és nem helyettesíti a nemzeti állampolgárságot; uniós polgár az, aki valamely tagállam állampolgára. A tévedés a kettős jogállást egyetlen, kizárólagos uniós státusszá olvassza. A nemzeti állampolgárság továbbra is a tagállami hatáskörben marad."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "5abb63746848"
+    },
+    {
+      "question": "Miben tér el a 21. cikk (1) bekezdése szerinti szabad mozgás a 45. cikk szerinti munkavállalói szabadságtól?",
+      "options": [
+        {
+          "text": "A 21. cikk (1) bekezdésének korlátozásai és feltételei operatív alakja a 2004/38/EK irányelv, nem a 45. cikk (3)–(4) bekezdése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a polgársági mozgás végrehajtási kerete az irányelv. Az EUMSZ 21. cikk (1) bekezdése a jogot a Szerződésekben és a végrehajtásukra hozott intézkedésekben megállapított korlátozásokkal és feltételekkel illeti; e záradék a 2004/38/EK irányelv. A 45. cikk (3) bekezdése a munkavállalói fejezet közrendi fenntartása, a (4) bekezdés pedig közszolgálati hatálykivétel. A két sík tehát nem helyettesíti egymást."
+        },
+        {
+          "text": "A 21. cikk (1) bekezdése minden uniós polgárnak adja a tagállamok területén való szabad mozgást és tartózkodást, a gazdasági tevékenységtől függetlenül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés alanya a polgár, nem csupán a munkavállaló. Az EUMSZ 21. cikk (1) bekezdése szerint a Szerződésekben és a végrehajtási intézkedésekben megállapított korlátozásokkal és feltételekkel minden uniós polgárnak joga van a szabad mozgáshoz és tartózkodáshoz. A 45. cikk ehhez képest a foglalkoztatási tényállás lex specialisa. A „végrehajtásukra hozott intézkedések” fordulat a 2004/38/EK irányelvet a szerződéses jogba emeli."
+        },
+        {
+          "text": "A 21. cikk (1) bekezdése kizárólag a foglalkoztatáshoz kapcsolódó mozgást és tartózkodást szabályozza, a 45. cikk pedig a gazdasági tevékenységtől független polgársági jogot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás felcseréli a két szerződéses sík tárgyát. A helyes: az EUMSZ 21. cikk (1) bekezdése a gazdasági tevékenységtől független általános mozgási jog; a 45. cikk a munkavállalók szabad mozgása, az állampolgárság alapján történő megkülönböztetés megszüntetésével. A tévedés a lex generalis és a lex specialis viszonyát fordítja meg. A Van Duyn-ügy a 45. cikk elődjének közvetlen hatályát a foglalkoztatási fejezetben mondta ki."
+        },
+        {
+          "text": "A 21. cikk (2) bekezdése a közrendi, közbiztonsági és közegészségügyi fenntartás jogalapja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés residualis megkönnyítési cím, nem a fenntartás. A helyes: az EUMSZ 21. cikk (2) bekezdése szerint, ha az Unió fellépése szükséges és másutt nincs hatáskör, az Európai Parlament és a Tanács rendes jogalkotási eljárásban a jogok gyakorlásának megkönnyítésére fogadhat el rendelkezéseket. A közrendi fenntartás a 45. cikk (3) bekezdésében és a 2004/38/EK irányelv 27. cikkében jelenik meg. A tévedés a megkönnyítést a korlátozás jogalapjává olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "1a26e76bf92b"
+    },
+    {
+      "question": "Hogyan helyezi el a 26. cikk (2) bekezdése a személyek szabad mozgását a belső piac fogalmában?",
+      "options": [
+        {
+          "text": "A 26. cikk (2) bekezdése önálló, feltétel nélküli belépési jogcímet ad minden uniós polgárnak a közrendi fenntartás mellőzésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés fogalmi mag, nem abszolút belépési jog. A helyes: az EUMSZ 26. cikk (2) bekezdése a belső piacot a Szerződések rendelkezéseivel összhangban biztosított négy szabadság térségeként határozza meg; a személyi alanyi jog a 20–21. és a 45. cikkben van. A „Szerződések rendelkezéseivel összhangban” fordulat a korlátozásokat a fogalomba emeli. A tévedés a belső piaci fogalmat abszolút belépési jogosultsággá olvassa."
+        },
+        {
+          "text": "A 26. cikk a személyek mozgását a belső piac fogalmába helyezi, míg a 20–21. és a 45. cikk a személyi alanyi jogot adja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendszertani szerepek elválnak. Az EUMSZ 26. cikk (2) bekezdése a négy szabadságot a belső határok nélküli térségként határozza meg; a 20. cikk (2) bekezdés a) pontja és a 21. cikk (1) bekezdése a polgársági alanyi jogot, a 45. cikk a munkavállalói szabadságot adja. A 2004/38/EK irányelv (2) preambulumbekezdése a személyek szabad mozgását éppen e belső piaci alapvető szabadságként olvassa. A 26. cikk (3) bekezdése iránymutatása nem a közrendi fenntartás."
+        },
+        {
+          "text": "A belső piac belső határok nélküli térség, amelyben a Szerződések rendelkezéseivel összhangban biztosított az áruk, a személyek, a szolgáltatások és a tőke szabad mozgása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyek a négy szabadság egyike a belső piac fogalmi magjában. Az EUMSZ 26. cikk (2) bekezdése szerint: „A belső piac egy olyan, belső határok nélküli térség, amelyben a Szerződések rendelkezéseivel összhangban biztosított az áruk, a személyek, a szolgáltatások és a tőke szabad mozgása.” A „Szerződések rendelkezéseivel összhangban” fordulat a 21. és a 45. cikk korlátait a fogalomba emeli. A 26. cikk a határok nélküli térséget adja, nem önálló belépési jogcímet."
+        },
+        {
+          "text": "A 26. cikk (3) bekezdése a Tanácsot a közszolgálati kivétel uniós fogalmának megállapítására hatalmazza fel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés ágazati iránymutatás, nem a közszolgálati kivétel. A helyes: az EUMSZ 26. cikk (3) bekezdése szerint a Tanács a Bizottság javaslata alapján az érintett ágazatok kiegyensúlyozott fejlődésének iránymutatásait és feltételeit határozza meg. A közszolgálati hatálykivétel a 45. cikk (4) bekezdésében van, uniós fogalmát a C-149/79. sz. Bizottság kontra Belgium ügy adja. A tévedés a belső piaci iránymutatást a (4) bekezdés hatályával azonosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "de5385b859c3"
+    },
+    {
+      "question": "Melyik két kivételtípus határolja a munkavállalók szabad mozgását a 45. cikk szerint?",
+      "options": [
+        {
+          "text": "A 45. cikk (4) bekezdése a közszolgálatban történő foglalkoztatást kiveszi a cikk hatálya alól; ez hatálykivétel, amelyet a Bíróság funkcionálisan határol.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második típus hatálykivétel, nem fenntartás. Az EUMSZ 45. cikk (4) bekezdése kimondja, hogy e cikk rendelkezései nem vonatkoznak a közszolgálatban történő foglalkoztatásra. A C-149/79. sz. Bizottság kontra Belgium ügy szerint a kivétel a közhatalom gyakorlásában és az állam általános érdekeinek védelmében való részvétellel járó állásokra terjed. A fogalmat a tagállam nem határozhatja meg egyoldalúan a nemzeti közszolgálati fogalom szerint."
+        },
+        {
+          "text": "A 45. cikk (3) és (4) bekezdése egyaránt hatálykivétel: mindkettő teljes egészében kiveszi a munkavállalókat a szabad mozgás alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a fenntartást és a hatálykivételt összemosja. A helyes: az EUMSZ 45. cikk (3) bekezdése a közrendi, közbiztonsági vagy közegészségügyi okból indokolt korlátozást engedi a szabad mozgás jogai mellett; a (4) bekezdés a közszolgálatot kiveszi a cikk hatálya alól. A két típus dogmatikailag elválik: az első szigorúan értelmezendő fenntartás, a második funkcionális hatálykivétel. A tévedés a (3) bekezdést is teljes kizárásként olvassa."
+        },
+        {
+          "text": "A 45. cikk (3) bekezdése a közrendi, közbiztonsági vagy közegészségügyi okból indokolt korlátozást engedi; ez szigorúan értelmezendő fenntartás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az első típus fenntartás, nem hatálykivétel. Az EUMSZ 45. cikk (3) bekezdése a közrendi, közbiztonsági vagy közegészségügyi okok alapján indokolt korlátozásokra figyelemmel adja a jelentkezés, a mozgás, a tartózkodás és a maradás jogát. A Van Duyn- és a Rutili-ügy szerint a közrend fogalmát közösségi összefüggésben szigorúan kell érteni. Az irányelv VI. fejezete, különösen a 27. cikk, e fenntartás operatív alakja."
+        },
+        {
+          "text": "A 45. cikk (4) bekezdése szerinti közszolgálati fogalmat minden tagállam a saját alkotmánya és szolgálati szabályzata szerint határozhatja meg egyoldalúan.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nemzeti közszolgálati fogalmat teszi irányadóvá. A helyes: a C-149/79. sz. Bizottság kontra Belgium ügy szerint a 45. cikk (4) bekezdésének — akkor 48. cikk (4) bekezdésének — fogalmát egységesen kell értelmezni a Közösségben, és a nemzeti jogra hivatkozás a közösségi jog hatályának korlátozására nem megengedhető. A (4) bekezdés hatálya a közhatalom gyakorlásához és az állam általános érdekeinek védelméhez kötött. A tévedés a francia–belga átfogó, állampolgársághoz kötött koncepciót követi."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "256cd65a7407"
+    },
+    {
+      "question": "Mit foglal magában a munkavállalók szabad mozgása a 45. cikk (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A szabad mozgás magában foglalja az állampolgárság alapján történő minden megkülönböztetés megszüntetését a foglalkoztatás, a javadalmazás, valamint az egyéb munka- és foglalkoztatási feltételek tekintetében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a diszkriminációs mag. Az EUMSZ 45. cikk (2) bekezdése szerint a munkavállalók szabad mozgása magában foglalja az állampolgárság alapján történő minden megkülönböztetés megszüntetését a tagállamok munkavállalói között a foglalkoztatás, a javadalmazás, valamint az egyéb munka- és foglalkoztatási feltételek tekintetében. Az (1) bekezdés e szabadságot az Unión belül biztosítani rendeli. A 45. cikk a korábbi EK-Szerződés 39. cikkének, az EGK-Szerződés 48. cikkének utóda."
+        },
+        {
+          "text": "A (2) bekezdés szerinti tilalom a foglalkoztatáshoz való hozzáférésre is kiterjed, nem csupán a javadalmazás egyenlőségére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés tárgyköre a foglalkoztatás, a javadalmazás és az egyéb munka- és foglalkoztatási feltételek. Az EUMSZ 45. cikk (2) bekezdése szerint a munkavállalók szabad mozgása magában foglalja az állampolgárság alapján történő minden megkülönböztetés megszüntetését a tagállamok munkavállalói között e triász tekintetében. A felvétel tehát a tilalom része. A közszolgálati kivétel a (4) bekezdésben van, nem a (2) bekezdés hallgatólagos csonkítása."
+        },
+        {
+          "text": "A 45. cikk (2) bekezdése szerinti egyenlő bánásmód csak a saját állampolgárokra terjed ki, a más tagállami munkavállalóra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a tilalom alanyait fordítja meg. A helyes: az EUMSZ 45. cikk (2) bekezdése a tagállamok munkavállalói közötti, állampolgárság alapján történő megkülönböztetés megszüntetését írja elő a foglalkoztatás, a javadalmazás és az egyéb feltételek tekintetében. A szabadság éppen a más tagállami munkavállaló védelmét szolgálja. A tévedés a diszkriminációs magot nemzeti privilégiummá olvassa. A (4) bekezdés közszolgálati kivétele ehhez képest hatálykivétel, nem a (2) bekezdés alanyi köre."
+        },
+        {
+          "text": "A 45. cikk (2) bekezdése csak a javadalmazás egyenlőségét követeli meg, a foglalkoztatáshoz való hozzáférésnél az állampolgársági megkülönböztetés megengedett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a tilalom tárgykörét a díjazásra szűkíti. A helyes: az EUMSZ 45. cikk (2) bekezdése a foglalkoztatás, a javadalmazás, valamint az egyéb munka- és foglalkoztatási feltételek tekintetében szünteti meg az állampolgárság alapján történő minden megkülönböztetést. A hozzáférés tehát a tilalom része. A tévedés a (2) bekezdés taxatív tárgyköreit mesterségesen csonkítja. A közszolgálati kivétel a (4) bekezdésben van, nem a (2) bekezdés hallgatólagos kivétele."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "2098e5c92e6b"
+    },
+    {
+      "question": "Milyen jogokat biztosít a 45. cikk (3) bekezdése a munkavállalónak a közrendi fenntartásra figyelemmel?",
+      "options": [
+        {
+          "text": "A (3) bekezdés c) pontja szerinti tartózkodás a fogadó tagállam állampolgárainak foglalkoztatására vonatkozó törvényi, rendeleti vagy közigazgatási rendelkezéseknek megfelelően illeti meg a munkavállalót.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartózkodás a nemzeti foglalkoztatási szabályokhoz igazodik. Az EUMSZ 45. cikk (3) bekezdés c) pontja szerint a munkavállaló munkavállalás céljából valamely tagállamban tartózkodhat az adott tagállam állampolgárainak foglalkoztatására vonatkozó rendelkezéseknek megfelelően. A d) pont az alkalmazást követő maradást a Bizottság rendeleteihez köti. A fenntartás e jogokat korlátozhatja, de nem törli a katalógust. A (4) bekezdés közszolgálati kivétele ettől elválik."
+        },
+        {
+          "text": "A (3) bekezdés d) pontja szerinti maradás joga a fogadó tagállam egyoldalú közigazgatási gyakorlatától függ, Bizottsági rendelet nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a maradás feltételét a nemzeti gyakorlatra helyezi. A helyes: az EUMSZ 45. cikk (3) bekezdés d) pontja szerint a munkavállaló egy tagállamban történő alkalmazását követően a Bizottság által rendeletekben meghatározott feltételek mellett maradhat az adott tagállam területén. A maradás tehát uniós másodlagos joghoz kötött. A tévedés a d) pontot a nemzeti mérlegelés szabad mezejévé teszi. A c) pont ehhez képest a tartózkodást a fogadó állam saját állampolgáraira irányadó foglalkoztatási szabályokhoz igazítja."
+        },
+        {
+          "text": "A 45. cikk (3) bekezdése a munkavállalónak abszolút belépési jogot ad, amelyet közrendi okból sem lehet korlátozni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a fenntartást kihagyja a jog tartalmából. A helyes: az EUMSZ 45. cikk (3) bekezdése a közrendi, közbiztonsági vagy közegészségügyi okok alapján indokolt korlátozásokra is figyelemmel adja a jelentkezés, a mozgás, a tartózkodás és a maradás jogát. A Van Duyn-ügy szerint a belépés elutasítható, ha a fenntartás alkalmazható. A tévedés a (3) bekezdést feltétel nélküli jogosultsággá olvassa. Az irányelv 27. cikke e fenntartás arányossági és személyes magatartási feltételeit bontja ki."
+        },
+        {
+          "text": "A munkavállaló jogosult tényleges állásajánlatokra jelentkezni, e célból szabadon mozogni, munkavállalás céljából tartózkodni, és alkalmazását követően a Bizottság rendeletei szerint maradni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés a) –d) pontja zárt jogkatalógust ad. Az EUMSZ 45. cikk (3) bekezdése a közrendi, közbiztonsági vagy közegészségügyi okok alapján indokolt korlátozásokra figyelemmel biztosítja a jelentkezést, a mozgást, a tartózkodást a fogadó állam saját állampolgáraira irányadó foglalkoztatási szabályok szerint, valamint a maradást. A fenntartás e jogokhoz kapcsolódik. A Van Duyn-ügy szerint a belépés és a tartózkodás elutasítható, ha a fenntartás alkalmazható."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "c966cf85e8df"
+    },
+    {
+      "question": "Mikor illeti meg az uniós polgárt a három hónapot meghaladó tartózkodás a 2004/38/EK irányelv 7. cikke szerint?",
+      "options": [
+        {
+          "text": "A három hónapot meghaladó tartózkodás akkor illeti meg, ha a fogadó tagállamban munkavállaló vagy önálló vállalkozó, vagy elegendő forrásokkal és teljes körű egészségbiztosítással rendelkezik, vagy tanulmányok fő céljából beiratkozott és az elegendő forrást igazolja, illetve e feltételeket teljesítő polgár családtagja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három hónapot meghaladó tartózkodás feltételes. A 2004/38/EK irányelv 7. cikke szerint uniós polgárt akkor illet meg e tartózkodás, ha munkavállaló vagy önálló vállalkozó; vagy elegendő forrásokkal rendelkezik, hogy ne jelentsen terhet a szociális segítségnyújtási rendszerre, és teljes körű egészségbiztosítással bír; vagy tanulmányok fő céljából beiratkozott; vagy az e feltételeket teljesítő polgárt kísérő családtag. A (2) bekezdés a nem tagállami állampolgár családtagra is kiterjeszti a tartózkodást, ha az uniós polgár az (1) bekezdés a), b) vagy c) pontjának megfelel. A három hónap alatti tartózkodás ehhez képest a (9) preambulumbekezdés szerinti formai könnyűség."
+        },
+        {
+          "text": "A három hónapot meghaladó tartózkodáshoz elegendő az érvényes személyazonosító igazolvány, forrás és egészségbiztosítás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a rövid tartózkodás könnyűségét a hosszabb tartózkodásra írja. A helyes: a 2004/38/EK irányelv 7. cikke a három hónapot meghaladó tartózkodást munkavállalói vagy vállalkozói státuszhoz, elegendő forráshoz és teljes körű egészségbiztosításhoz, tanulmányi beiratkozáshoz, illetve családtagsághoz köti. A (9) preambulumbekezdés szerinti feltételmentesség a három hónapnál nem hosszabb tartózkodásra vonatkozik. A tévedés a két időtartam feltételeit cseréli fel."
+        },
+        {
+          "text": "A három hónapot meghaladó tartózkodás a 7. cikk szerint minden uniós polgárt megillet formalitás nélkül, ha érvényes személyazonosító igazolvánnyal rendelkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a rövid tartózkodás könnyűségét a hosszabb tartózkodásra írja. A helyes: a 2004/38/EK irányelv 7. cikke a három hónapot meghaladó tartózkodást munkavállalói vagy vállalkozói státuszhoz, elegendő forráshoz és teljes körű egészségbiztosításhoz, tanulmányi beiratkozáshoz, illetve családtagsághoz köti. A (9) preambulumbekezdés szerinti feltételmentesség csak a három hónapnál nem hosszabb tartózkodásra vonatkozik. A tévedés a 7. cikk feltételességét formalitás nélküli jogosultsággá olvassa."
+        },
+        {
+          "text": "A 7. cikk (2) bekezdése a tartózkodást a nem tagállami állampolgár családtagra akkor terjeszti ki, ha az uniós polgár az (1) bekezdés a), b) vagy c) pontjának megfelel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a származékos tartózkodás az uniós polgár 7. cikk (1) bekezdés szerinti feltételeihez kötött. A 2004/38/EK irányelv 7. cikk (2) bekezdése a nem tagállami állampolgár családtagra akkor terjeszti ki a tartózkodást, ha az uniós polgár munkavállaló vagy önálló vállalkozó, elegendő forrással és teljes körű egészségbiztosítással rendelkezik, vagy tanulmányok fő céljából beiratkozott. A három hónapot meghaladó tartózkodás tehát feltételes a polgárra és a családtagra is. A (9) preambulumbekezdés szerinti rövid tartózkodási könnyűség ehhez képest más időtartamra szól."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "e31fe58eb769"
+    },
+    {
+      "question": "Mely feltételekhez köti a 2004/38/EK irányelv 27. cikke a közrendi vagy közbiztonsági korlátozást?",
+      "options": [
+        {
+          "text": "Korábbi büntetőítélet önmagában elegendő a 27. cikk (2) bekezdése szerinti közrendi intézkedés megalapozásához.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a büntetőítéletet automatikus alappá teszi. A helyes: a 2004/38/EK irányelv 27. cikk (2) bekezdése szerint korábbi büntetőítéletek önmagukban nem képezhetik az intézkedés alapját; kizárólag az érintett egyén személyes magatartása jöhet szóba, amely valódi, közvetlen és kellően súlyos veszélyt jelent a társadalom alapvető érdekére. A tévedés a büntetőjogi múltra épülő automatizmust olvassa a fenntartásba. A 28. cikk a kiutasítással szembeni védelmet a tartózkodás időtartamához és az integrációhoz is köti."
+        },
+        {
+          "text": "A 27. cikk lehetővé teszi, hogy a tagállam gazdasági egyensúlyának védelmében, általános prevenciós célból korlátozza a szabad mozgást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a gazdasági célt és az általános prevenciót beemeli a fenntartásba. A helyes: a 2004/38/EK irányelv 27. cikke szerint a közrendi, közbiztonsági vagy közegészségügyi okokra gazdasági célok érdekében nem lehet hivatkozni, és az ügyhöz közvetlenül nem kapcsolódó vagy általános megelőzési megfontolásokon alapuló indokolások nem elfogadhatók. A korlátozás kizárólag a személyes magatartáson és az arányosságon alapulhat. A tévedés a Rutili-ratio ellentétét állítja."
+        },
+        {
+          "text": "A közrendi vagy közbiztonsági intézkedéseknek meg kell felelniük az arányosság elvének, és kizárólag az érintett egyén személyes magatartásán alapulhatnak; korábbi büntetőítéletek önmagukban nem képezhetik az alapot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a személyes magatartást és az arányosságot követeli. A 2004/38/EK irányelv 27. cikk (2) bekezdése szerint a közrendi vagy közbiztonsági intézkedéseknek meg kell felelniük az arányosság elvének, és kizárólag az érintett egyén személyes magatartásán alapulhatnak; korábbi büntetőítéletek önmagukban nem képezhetik az alapot. Az érintett személyes magatartása valódi, közvetlen és kellően súlyos veszélyt kell, hogy jelentsen a társadalom valamely alapvető érdekére. Az ügyhöz közvetlenül nem kapcsolódó vagy általános megelőzési megfontolásokon alapuló indokolások nem elfogadhatók."
+        },
+        {
+          "text": "A 27. cikk szerint a tagállamok korlátozhatják az uniós polgárok és családtagjaik szabad mozgáshoz és tartózkodáshoz való jogát közrendi, közbiztonsági vagy közegészségügyi okokból; ezen okokra gazdasági célok érdekében nem lehet hivatkozni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a VI. fejezet általános elve a gazdasági cél kizárásával. A 2004/38/EK irányelv 27. cikke szerint a tagállamok korlátozhatják a szabad mozgást és tartózkodást közrendi, közbiztonsági vagy közegészségügyi okokból, állampolgárságra tekintet nélkül; ezen okokra gazdasági célok érdekében nem lehet hivatkozni. A 30. cikk az írásbeli értesítést, az indokolást és a fellebbezési tájékoztatást adja. A 29. cikk a közegészségügyet a WHO járványos betegségeire és a fogadó állam saját állampolgáraira is kiterjedő fertőző megbetegedésekre szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "f7712fdce99d"
+    },
+    {
+      "question": "Mit mondott ki a C-41/74. sz. Van Duyn-ügy a munkavállalók szabad mozgásának közvetlen hatályáról és a közrendi fenntartásról?",
+      "options": [
+        {
+          "text": "A 48. cikk — a mai 45. cikk elődje — a tagállamok jogrendjében közvetlen hatállyal bír, mert az (1) és (2) bekezdés pontosan meghatározott, mérlegelést nem engedő kötelezettséget ró, és a (3) bekezdés fenntartása bírósági úton felülvizsgálható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetlen hatályt a fenntartás felülvizsgálhatósága sem gátolja. A C-41/74. sz. Van Duyn-ügyben a Bíróság szerint a 48. cikk (1) és (2) bekezdése a tagállamokra pontosan meghatározott, mérlegelést nem engedő kötelezettséget ró. A (3) bekezdés közrendi, közbiztonsági és közegészségügyi fenntartása bírósági úton felülvizsgálható, ezért nem gátolja, hogy a szabad mozgást biztosító rendelkezések a magánszemélyekre a nemzeti bíróságok által védendő jogokat ruházzanak. A 48. cikk — a mai EUMSZ 45. cikk elődje — így a tagállamok jogrendjében közvetlenül érvényesíthető alanyi jogokat keletkeztet."
+        },
+        {
+          "text": "A közrendi fenntartás miatt a 48. cikk nem ruházhat közvetlenül érvényesíthető jogokat a magánszemélyekre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a fenntartást a közvetlen hatály akadályának tekinti. A helyes: a C-41/74. sz. Van Duyn-ügy szerint a 48. cikk (3) bekezdésének fenntartása bírósági úton felülvizsgálható, ezért nem gátolja, hogy a szabad mozgást biztosító rendelkezések a magánszemélyekre a nemzeti bíróságok által védendő jogokat ruházzanak; a 48. cikk közvetlen hatállyal bír. A tévedés a fenntartást a közvetlen hatály kizáró okává olvassa. A Rutili-ügy az „indokolt” korlátozások bírósági felülvizsgálatát erősíti."
+        },
+        {
+          "text": "A közrendi intézkedésnél a múltban véget ért csoporthoz tartozás általában önmagában igazolja a belépés megtagadását, jelenlegi tagság nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a múltbeli tagságot elegendő alapnak tekinti. A helyes: a C-41/74. sz. Van Duyn-ügy szerint adott csoporthoz való jelenlegi tartozás, amely a tevékenységben való részvételt és a célokkal való azonosulást tükröz, a személy viselkedésének része; a múltban véget ért tagság általában nem igazolja a kedvezmény megtagadását. A tévedés a személyes magatartás időbeli súlypontját tolja el. A 2004/38/EK irányelv 27. cikk (2) bekezdése is a személyes magatartást követeli."
+        },
+        {
+          "text": "A 64/221 irányelv 3. cikkének (1) bekezdése — amely szerint a közrendi vagy közbiztonsági indokok kizárólag az érintett személy viselkedésén alapulhatnak — a magánszemély számára a tagállami bíróság előtt érvényesíthető jogokat keletkeztet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelvi személyes viselkedés-követelmény hivatkozható. A C-41/74. sz. Van Duyn-ügyben a Bíróság a 64/221 irányelv 3. cikk (1) bekezdését fenntartás és feltétel nélküli kötelezettségként olvasta, amely a személyes viselkedéstől eltérő elemek figyelembevételét zárja ki. Az érintettek jogbiztonsága megkívánja, hogy e kötelezettségre hivatkozhassanak. A 2004/38/EK irányelv 27. cikk (2) bekezdése e ratiót viszi tovább a személyes magatartás követelményével."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "b10da3d0b35a"
+    },
+    {
+      "question": "Mit jelent a Rutili-ügyben az „indokolt korlátozások” fordulat a közrendi fenntartásnál?",
+      "options": [
+        {
+          "text": "A közrend fogalmát a tagállamok a közösségi intézmények ellenőrzése nélkül, egyoldalúan határozhatják meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nemzeti egyoldalúságot engedi. A helyes: a C-36/75. sz. Rutili-ügy és a Van Duyn-ügy szerint a közrend fogalmát közösségi összefüggésben szigorúan kell értelmezni, úgy, hogy hatályát a tagállam ne határozhassa meg egyoldalúan a Közösség intézményeinek ellenőrzése nélkül. A nemzeti hatóságok mérlegelési jogköre a Szerződés korlátai között elismerendő, de nem abszolút. A tévedés a fenntartást szabad nemzeti fogalommeghatározássá olvassa."
+        },
+        {
+          "text": "Az „indokolt korlátozások” fordulat csak a jogszabályi rendelkezésekre vonatkozik, az egyedi közigazgatási határozatokra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az egyedi határozatokat kiveszi a fordulat alól. A helyes: a C-36/75. sz. Rutili-ügy szerint a kifejezés nemcsak a más tagállami állampolgárok mozgását és tartózkodását korlátozó jogszabályi rendelkezésekre vonatkozik, hanem az azok alkalmazásában hozott egyedi határozatokra is. A nemzeti mérlegelési jogkör kikerülne a bírósági felülvizsgálat alól, ha a bíróságok nem vizsgálhatnák a 48. cikk (3) bekezdése alapján hozott egyedi határozatokat. A tévedés a fenntartást pusztán absztrakt jogszabályi szintre szűkíti."
+        },
+        {
+          "text": "Az „indokolt” azt jelenti, hogy csak a jog — beleértve a közösségi jog — követelményeinek megfelelő korlátozások megengedhetők, különösen a szabad mozgáshoz és tartózkodáshoz való jogra tekintettel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az indokoltság a közösségi jog követelményeihez kötött. A C-36/75. sz. Rutili-ügy szerint a „közrendi okra alapított, indokolt korlátozásokra is figyelemmel” kifejezés nemcsak a jogszabályi rendelkezésekre, hanem az azok alkalmazásában hozott egyedi határozatokra is vonatkozik. Az „indokolt” azt jelenti, hogy csak a jog — beleértve a közösségi jog — követelményeinek megfelelő korlátozások megengedhetők. A nemzeti bíróságok feladata a közösségi jognak elsőbbséget biztosítani az összeegyeztethetetlen nemzeti intézkedéssel szemben."
+        },
+        {
+          "text": "Egyetlen tagállam állampolgárának másik tagállam területére való beutazásához, ott-tartózkodásához és ottani mozgásához való jogára nem lehet korlátozásokat bevezetni, kivéve ha jelenléte vagy magatartása valódi és kellően súlyos veszélyt jelent a közrendre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Rutili-ügy a veszélyküszöböt a személyes jelenléthez és magatartáshoz köti. A C-36/75. sz. ügy szerint a közrend fogalmát közösségi összefüggésben, különösen az egyenlő bánásmód és a munkavállalók szabad mozgása megsértésének indokaként szigorúan kell értelmezni. Korlátozás csak akkor vezethető be, ha a jelenlét vagy magatartás valódi és kellően súlyos veszélyt jelent a közrendre. A 2004/38/EK irányelv 27. cikk (2) bekezdése e ratiót viszi tovább: valódi, közvetlen és kellően súlyos veszély a társadalom alapvető érdekére."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "575428882edc"
+    },
+    {
+      "question": "Hogyan határolja a C-149/79. sz. Bizottság kontra Belgium ügy a közszolgálati kivétel uniós fogalmát?",
+      "options": [
+        {
+          "text": "Vasúti rakodómunkás, ápolónő vagy vízvezetékszerelő állás önmagában a (4) bekezdés hatálya alá tartozik, mert közjogi szervnél van.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közjogi foglalkoztatót teszi a kivétel egyetlen ismérvévé. A helyes: a C-149/79. sz. ügyben a vitatott állások — mozdonyvezető-gyakornok, rakodómunkás, ápolónő, vízvezetékszerelő és hasonló — éppen azt mutatták, hogy a közjogi szervnél fennálló állás önmagában nem elegendő; a minősítés a közhatalom és a közérdek védelméhez kötött. A más tagállami munkavállaló nem zárható ki pusztán állampolgársága miatt. A tévedés a formális foglalkoztatói minőséget funkcionális tesztté emeli."
+        },
+        {
+          "text": "A (4) bekezdés a közigazgatás valamennyi állására kiterjed, ha a nemzeti alkotmány az állampolgárságot felvételi feltételként írja elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a belga alkotmányi érvet fogadja el. A helyes: a C-149/79. sz. Bizottság kontra Belgium ügy szerint a kivételnek a tisztán közigazgatási feladatot nem magában foglaló állásokra kiterjesztése jelentős számú állást vonna ki a Szerződés elvei alól, és egyenlőtlenséget teremtene a tagállamok között. A fogalmat egységesen kell értelmezni; a nemzeti alkotmány nem határozza meg a (4) bekezdés uniós hatályát. A tévedés Belgium átfogó, állampolgársághoz kötött koncepcióját követi."
+        },
+        {
+          "text": "A közigazgatás fogalmát a (4) bekezdés szerint egységesen kell értelmezni és alkalmazni az egész Közösségben; a minősítés attól függ, hogy az állás a közhatalom gyakorlásával és az állam általános érdekei védelmének feladatával megbízott közigazgatás sajátságos tevékenységei közé tartozik-e.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az uniós fogalom egységes. A C-149/79. sz. ügy szerint a 48. cikk (4) bekezdése szerinti közigazgatás fogalmát egységesen kell értelmezni és alkalmazni az egész Közösségben. A belső jogrend rendelkezéseire a közösségi jog hatályának korlátozása céljából történő hivatkozás nem megengedhető. A (4) bekezdés hatálya alá nem tartozó, de közjogi szerv által felkínált állásnál a más tagállami munkavállaló nem zárható ki önmagában az állampolgársága miatt. Az 1612/68 rendelet 8. cikke a szűk, közhatalmi olvasatot erősíti."
+        },
+        {
+          "text": "A 48. cikk (4) bekezdése — a mai 45. cikk (4) bekezdése — azon állások csoportját veszi ki, amelyek a közhatalom gyakorlásában, valamint az állam vagy más közjogi szervek általános érdekeinek védelmét szolgáló feladatokban való részvétellel járnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kivétel funkcionális, nem a nemzeti közszolgálati címke. A C-149/79. sz. Bizottság kontra Belgium ügy szerint e rendelkezés az első három bekezdés hatálya alól kiveszi azon állásokat, amelyek közvetlenül vagy közvetve a közhatalom gyakorlásában, valamint az állam közérdekeinek vagy más közjogi szervek érdekeinek védelmét szolgáló feladatokban való részvétellel járnak. Az ilyen állások az államhoz kötődő különleges szolidaritási kapcsolatot feltételezik. A kivétel terjedelmét a cikk célja alapján kell meghatározni."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "fd513d5349bf"
+    },
+    {
+      "question": "Mit erősít meg a C-473/93. sz. Bizottság kontra Luxemburg ügy a közszolgálati kivétel ágazati alkalmazásáról?",
+      "options": [
+        {
+          "text": "A (4) bekezdés nem terjed ki azokra az állásokra, amelyek — bár az állam vagy más közjogi szervezet hatáskörébe tartoznak — nem kapcsolódnak a szoros értelemben vett közszolgálati feladatokhoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Luxemburg-ügy a Belgium-tesztet ágazatokra alkalmazza. A C-473/93. sz. Bizottság kontra Luxemburg ügy a C-149/79. sz. ügy 10. és 11. pontjára utal: a (4) bekezdés a közhatalom gyakorlásában való közvetlen vagy közvetett részvétellel és az állam vagy más közigazgatási szervek általános érdekeinek védelmével járó állásokra vonatkozik; nem terjed ki a szoros értelemben vett közszolgálati feladatokhoz nem kapcsolódó állásokra. A kutatás, az oktatás, az egészségügy, a közlekedés, a posta, a távközlés és az energiaközművek általános állampolgársági zárja ezért nem automatikus kivétel."
+        },
+        {
+          "text": "A (4) bekezdés a munkaszerződéses közalkalmazottra soha nem terjedhet ki, csak a kinevezett köztisztviselőre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kivételt a szolgálati jogviszony formájához köti. A helyes: a C-473/93. sz. ügyben Luxemburg elvben minden álláshelyhez állampolgárságot követelt, függetlenül attól, hogy kinevezett köztisztviselő, azonos jogállású alkalmazott vagy munkaszerződéses munkavállaló tölti-e be; a Bíróság a funkcionális tesztet alkalmazta, nem a formai jogviszonyt. A kivétel terjedelmét a közhatalmi funkció és a közérdek védelme határozza meg, nem a nemzeti címke. A tévedés a (4) bekezdés uniós fogalmát nemzeti státuszkategóriákkal helyettesíti."
+        },
+        {
+          "text": "A Bizottság 1988-as közleménye szerint a tömegközlekedés, az energiaközművek, a posta és távközlés, a közegészségügy, az állami oktatás és a nem katonai kutatás területén a (4) bekezdés csak igen ritka esetekben terjed ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közlemény a ritka kivételt hangsúlyozza e kereskedelmi és közszolgáltatási ágazatokban. A C-473/93. sz. ügy a Bizottság 88/C 72/02 közleményére hivatkozik: a tagállamok tegyék lehetővé a hozzáférést e szerveknél, mert e feladatokra csak igen ritka esetekben terjed ki a (4) bekezdés. Luxemburgban e területeken elvben minden álláshelyhez luxemburgi állampolgárság kellett, feladatok jellege szerinti különbségtétel nélkül. A különleges, közszolgálati jellegű állások kapcsolatát az alperesnek kell bizonyítania."
+        },
+        {
+          "text": "Ha egy ágazat a nemzeti jog szerint a közszolgálat körébe tartozik, a (4) bekezdés automatikusan az összes álláshelyre kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nemzeti közszolgálati besorolást teszi döntővé. A helyes: a C-473/93. sz. Bizottság kontra Luxemburg ügy szerint a (4) bekezdés nem terjed ki azokra az állásokra, amelyek — bár közjogi szervezet hatáskörébe tartoznak — nem kapcsolódnak a szoros értelemben vett közszolgálati feladatokhoz; a kivétel a közhatalom és a közérdek védelméhez kötött. A tévedés Luxemburg általános állampolgársági követelményét igazolná. A bizonyítási teher a különleges közszolgálati jellegű állásoknál az alperesé."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "df4e16595433"
+    },
+    {
+      "question": "Kit tekint családtagjának a 2004/38/EK irányelv 2. cikkének 2. pontja?",
+      "options": [
+        {
+          "text": "Családtag csak a házastárs lehet; a regisztrált élettárs és az eltartott felmenő kívül esik a 2. cikk 2. pontján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a fogalmi kört a házastársra szűkíti. A helyes: a 2004/38/EK irányelv 2. cikk 2. pontja a házastárs mellett a fogadó államban a házassággal egyenértékűnek tekintett regisztrált élettársat, a 21. életévüket be nem töltött vagy eltartott egyenesági leszármazottakat, valamint az eltartott egyenesági felmenőket is családtagként nevezi meg. A tévedés a b)–d) alpontokat elhagyja. A 3. cikk (2) bekezdése ehhez képest a 2. cikk 2. pontján kívüli más családtagok megkönnyített beutazását rendezi."
+        },
+        {
+          "text": "Családtag a házastárs; a fogadó tagállam joga szerint a házassággal egyenértékűnek tekintett regisztrált élettárs; a 21. életévüket be nem töltött vagy eltartott egyenesági leszármazottak; valamint az eltartott egyenesági felmenők.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2. cikk 2. pontja a)–d) alpontja zárt fogalmi kört ad. A 2004/38/EK irányelv 2. cikk 2. pont a) alpontja szerint családtag a házastárs; a b) alpont szerint az uniós polgár élettársa, akivel egy tagállam joga szerint regisztrált élettársi kapcsolatban él, ha a fogadó tagállam e kapcsolatot a házassággal egyenértékűnek tekinti; a c) alpont a 21. életévüket be nem töltött vagy eltartott egyenesági leszármazottakat, a d) alpont az eltartott egyenesági felmenőket nevezi meg. A C-673/16. sz. Coman-ügy a házastárs fogalmát a származékos tartózkodás és a 21. cikk (1) bekezdése összefüggésében értelmezi."
+        },
+        {
+          "text": "A 3. cikk (1) bekezdése az irányelvet azokra az uniós polgárokra rendeli alkalmazni, akik olyan tagállamba utaznak vagy ott tartózkodnak, amelynek nem állampolgárai, valamint az őket kísérő vagy hozzájuk csatlakozó, a 2. cikk 2. pontja szerinti családtagjaikra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv személyi hatálya a nem saját állampolgárságú tartózkodáshoz és a családtaghoz kötött. A 2004/38/EK irányelv 3. cikk (1) bekezdése ezt a kört jelöli ki. A (2) bekezdés a fogadó tagállamot — a saját jogon való mozgás sérelme nélkül — a 2. cikk 2. pontján kívüli más családtagok, illetve a tartós, megfelelően igazolt kapcsolatban álló élettárs beutazásának és tartózkodásának megkönnyítésére kötelezi. A megkönnyítés a személyes körülmények alapos vizsgálatával és a megtagadás indokolásával jár."
+        },
+        {
+          "text": "A 3. cikk (2) bekezdése a 2. cikk 2. pontján kívüli családtagoknak ugyanolyan, automatikus tartózkodási jogot ad, mint a 2. cikk 2. pontja szerinti családtagoknak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a megkönnyítési kötelezettséget automatikus jogosultsággá emeli. A helyes: a 2004/38/EK irányelv 3. cikk (2) bekezdése a fogadó tagállamot a 2. cikk 2. pontján kívüli más családtagok, illetve a tartós, megfelelően igazolt kapcsolatban álló élettárs beutazásának és tartózkodásának megkönnyítésére kötelezi, a személyes körülmények alapos vizsgálatával és a megtagadás indokolásával. Ez nem azonos a 2. cikk 2. pontja szerinti származékos joggal. A tévedés a (2) bekezdést az (1) bekezdés családtagi hatályával azonosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "a5694b712c0f"
+    },
+    {
+      "question": "Mi a C-673/16. sz. Coman-ügy központi megállapítása a házastárs fogalmáról és a származékos tartózkodásról?",
+      "options": [
+        {
+          "text": "A Coman-ügy szerint a fogadó tagállam mindig megtagadhatja az azonos neműek házasságának elismerését, ha a nemzeti alkotmány a házasságot férfi és nő egységeként védi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nemzeti házasságfogalmat abszolút megtagadási jogcímmé emeli. A helyes: a C-673/16. sz. Coman-ügy szerint a más tagállamban jogszerűen kötött, azonos neműek közötti házasság származékos tartózkodás céljából való el nem ismerése akadályozhatja a 21. cikk (1) bekezdése szerinti jog gyakorlását; a házassági hatáskör gyakorlása során az uniós jogot tiszteletben kell tartani. A korlátozás csak objektív, közérdekű megfontoláson alapulhat, és arányosnak kell lennie. A tévedés a kormányok alkotmányi érvének abszolút hatályát állítja."
+        },
+        {
+          "text": "A tagállamok szabadságot élveznek abban, hogy rendelkeznek-e azonos nemű személyek házasságáról, de e hatáskör gyakorlása során tiszteletben kell tartaniuk az uniós jogot, különösen a szabad mozgáshoz és tartózkodáshoz való jogot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a házassági hatáskör nem mentesít az uniós mozgási jog tisztelete alól. A C-673/16. sz. Coman-ügy emlékeztet: a tagállamok szabadságot élveznek abban, hogy rendelkeznek-e azonos nemű személyek házasságáról; e hatáskör gyakorlása során azonban tiszteletben kell tartaniuk az uniós jogot, különösen a minden uniós polgárt megillető szabad mozgáshoz és tartózkodáshoz való jogra vonatkozó rendelkezéseket. A 2004/38/EK irányelv 2. cikk 2. pont a) alpontjának „házastárs” fogalma e kontextusban olvasandó. A megtagadás azzal a következménnyel járhat, hogy az uniós polgár elveszíti a házastársával való visszatérés lehetőségét."
+        },
+        {
+          "text": "A Coman-ügy a 45. cikk (4) bekezdésének közszolgálati kivételét terjeszti ki a családtag tartózkodására.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közszolgálati hatálykivételt tévesen kapcsolja a családtagi tartózkodáshoz. A helyes: a C-673/16. sz. Coman-ügy a 2004/38/EK irányelv 2. cikk 2. pont a) alpontjának „házastárs” fogalmát, a 3. és a 7. cikket, valamint az EUMSZ 21. cikk (1) bekezdését értelmezi a származékos tartózkodás kapcsán. A 45. cikk (4) bekezdése a közszolgálatban történő foglalkoztatást veszi ki a munkavállalói szabad mozgás alól. A tévedés két elkülönülő kivétel- és jogintézményt mos össze."
+        },
+        {
+          "text": "A más tagállamban jogszerűen kötött, azonos neműek közötti házasság származékos tartózkodás céljából való el nem ismerése akadályozhatja az uniós polgárnak a 21. cikk (1) bekezdésében kimondott szabad mozgáshoz és tartózkodáshoz való jogának gyakorlását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megtagadás a már mozgást gyakorló polgár jogát sértheti. A C-673/16. sz. Coman-ügy szerint, ha a tagállam a vele azonos nemű uniós polgárral — valamely tagállamban, e tagállam joga szerint — házasságot kötött harmadik állambeli állampolgár beutazását vagy tartózkodását aszerint engedélyezhetné vagy tagadhatná meg, hogy a nemzeti jog elismeri-e az azonos neműek házasságát, a szabad mozgás joga tagállamonként változna. Ilyen helyzet ellentétes azzal, hogy a 2004/38/EK irányelv rendelkezései nem értelmezhetők megszorítóan. A 21. cikk (1) bekezdése így a származékos tartózkodás megtagadásának akadályozó hatásához kötődik."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "f680af2bbea1"
+    },
+    {
+      "question": "Milyen eljárási biztosítékokat ad a 2004/38/EK irányelv 30. cikke a 27. cikk alapján hozott határozatoknál?",
+      "options": [
+        {
+          "text": "Az érintettet írásban értesíteni kell úgy, hogy megértse a tartalmát és a rá vonatkozó következtetéseket, és teljes mértékben tájékoztatni kell a közrendi, közbiztonsági és közegészségügyi okokról, kivéve ha ez ellentétes a nemzetbiztonsági érdekekkel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozat írásbeli közlése és az okok feltárása kötelező. A 2004/38/EK irányelv 30. cikke szerint az érintettet írásban értesíteni kell a 27. cikk (1) bekezdése alapján hozott határozatokról, úgy, hogy megértse a tartalmát és a rá vonatkozó következtetéseket. Teljes mértékben tájékoztatni kell a közrendi, közbiztonsági és közegészségügyi okokról, kivéve ha ez ellentétes a nemzetbiztonsági érdekekkel. A C-364/10. sz. Magyarország kontra Szlovákia ügyben a felperes éppen e tájékoztatási és értesítési kötelezettség elmaradását is állította."
+        },
+        {
+          "text": "A határozat megjelöli a fellebbezési fórumot, a határidőt, és adott esetben a terület elhagyására nyitva álló időt; kellően megalapozott sürgős eseteket kivéve e határidő nem lehet kevesebb, mint az értesítéstől számított három hónap.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogorvoslati fórum és az elhagyási határidő is a határozat része. A 2004/38/EK irányelv 30. cikke szerint a határozat megjelöli a fellebbezési fórumot, a határidőt, és adott esetben a terület elhagyására nyitva álló időt; kellően megalapozott sürgős eseteket kivéve e határidő nem lehet kevesebb, mint az értesítéstől számított három hónap. Az anyagi korlátozás 27. cikk szerinti feltételeihez így eljárási garancia társul. A 28. cikk a kiutasítással szembeni védelmet a tartózkodás időtartamához és az integrációhoz köti."
+        },
+        {
+          "text": "A 30. cikk szerint a közrendi határozatot elég szóban közölni, írásbeli értesítés és indokolás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az írásbeliséget és az indokolást mellőzi. A helyes: a 2004/38/EK irányelv 30. cikke szerint az érintettet írásban értesíteni kell a 27. cikk (1) bekezdése alapján hozott határozatokról, és teljes mértékben tájékoztatni kell a közrendi, közbiztonsági és közegészségügyi okokról, kivéve a nemzetbiztonsági érdeket. A határozat a fellebbezési fórumot és a határidőt is megjelöli. A C-364/10. sz. ügyben Magyarország e feltételek be nem tartását állította."
+        },
+        {
+          "text": "A terület elhagyására nyitva álló határidő mindig azonnali lehet, a három hónapos minimum nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a három hónapos minimumot elengedi. A helyes: a 2004/38/EK irányelv 30. cikke szerint a terület elhagyására nyitva álló idő — kellően megalapozott sürgős eseteket kivéve — nem lehet kevesebb, mint az értesítéstől számított három hónap. A sürgősség tehát kivétel, nem a főszabály. A tévedés a sürgős esetet általánosítja. A 27. cikk (2) bekezdése ehhez képest az anyagi arányosságot és a személyes magatartást követeli."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "deb362dee5e2"
+    },
+    {
+      "question": "Mit állapított meg a C-364/10. sz. Magyarország kontra Szlovák Köztársaság ügy a Bíróság hatásköréről a 21. cikk és az irányelv alkalmazhatóságának kérdésében?",
+      "options": [
+        {
+          "text": "A Bíróság a hatáskör hiányát megállapította, mert az államfő belépésének tilalma eleve kívül esik az uniós jogon, ezért a keresetet érdemben nem vizsgálhatta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a szlovák hatásköri kifogást fogadja el véglegesként. A helyes: a C-364/10. sz. ügyben a Bíróság a hatáskör hiányára hivatkozó kifogást elutasította, és kimondta, hogy hatáskörrel rendelkezik annak eldöntésére, hogy a 21. cikk és a 2004/38/EK irányelv alkalmazható-e. Az uniós jog alkalmazási köre a 259. cikk szerinti kereset elbírálásának része. A tévedés a diplomáciai érvet a Bíróság hatáskörének kizárásává emeli. Szlovákia az EUSZ 4. cikk (2) bekezdésére és a nemzeti identitásra is hivatkozott."
+        },
+        {
+          "text": "Magyarország szerint a 2004/38/EK irányelvet valamennyi uniós polgárra, ideértve az államfőket, és minden típusú — hivatalos és magán — látogatásra alkalmazni kell, és csak az irányelvben kifejezetten előírt korlátozások vonatkozhatnak rá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felperesi álláspont a személyi és a látogatási hatály tág olvasata. A C-364/10. sz. ügyben Magyarország szerint a szabad mozgás terjedelmét nem lehet szűkítően értelmezni: csak az irányelvben kifejezetten előírt korlátozások vonatkozhatnak rá, és csak az anyagi és eljárásjogi feltételek teljesülése esetén. A 27. cikk (2) bekezdése arányosságot és személyes magatartást követel; a 30. cikk szerinti értesítés, indokolás és jogorvoslati tájékoztatás elmaradását is állította. Szlovákia ehhez képest a diplomáciai kapcsolatok hatályon kívüliségét érvelte."
+        },
+        {
+          "text": "A Bíróság hatáskörrel rendelkezik annak eldöntésére, hogy az uniós jog — különösen a 21. cikk és a 2004/38/EK irányelv — alkalmazható-e az államfő belépésének tilalmára vonatkozó ügyben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatásköri kifogást a Bíróság elutasította. A C-364/10. sz. Magyarország kontra Szlovák Köztársaság ügyben a Bíróság szerint a kereset kapcsán az uniós jog — különösen a 21. cikk és a 2004/38/EK irányelv — alkalmazási köréről kell állást foglalnia ahhoz, hogy a Szlovák Köztársaság állítólagos nemteljesítését mérlegelje. Az a kérdés, hogy a jelen ügyre alkalmazható-e az uniós jog, teljes egészében a Bíróság — különösen az EUMSZ 259. cikk szerinti — hatáskörébe tartozik. Magyarország a 21. cikk (1) bekezdésének és az irányelv 27. és 30. cikkének megsértését állította."
+        },
+        {
+          "text": "A C-364/10. sz. ügy a 45. cikk (4) bekezdésének közszolgálati kivételét alkalmazza az államfő belépésének tilalmára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közszolgálati hatálykivételt tévesen kapcsolja az államfői belépéshez. A helyes: a C-364/10. sz. ügy az EUMSZ 21. cikk (1) bekezdésének és a 2004/38/EK irányelvnek — különösen a 5., a 27. és a 30. cikknek — az alkalmazhatóságáról és a kötelezettségszegési keresetről szól. A 45. cikk (4) bekezdése a közszolgálatban történő foglalkoztatást veszi ki. A tévedés a polgársági mozgás vitáját a munkavállalói hatálykivétellel azonosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "9dfff745eb72"
+    },
+    {
+      "question": "Milyen aszimmetriát ismer el a Van Duyn-ügy a közrendi fenntartás saját állampolgárral szembeni alkalmazásánál?",
+      "options": [
+        {
+          "text": "A tagállam a közrendre hivatkozva megtagadhatja a másik tagállam állampolgárától a szabad mozgás kedvezményeit akkor is, ha a saját állampolgárait nem veti alá hasonló korlátozásnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzetközi jog a saját állampolgár belépésének megtagadását nem engedi. A C-41/74. sz. Van Duyn-ügy szerint ellentétes a nemzetközi jog elvével — amelyet az EGK-Szerződés sem hagyhat figyelmen kívül —, hogy a tagállam a saját állampolgáraitól megtagadja a területére lépést és az ott-tartózkodást. Ebből következik, hogy a közrendre hivatkozva a másik tagállam állampolgárától a szabad mozgás kedvezményei megtagadhatók, és a munkavállalás megtiltható, akkor is, ha a saját állampolgárokra hasonló tilalom nem áll. A 48. cikk (3) bekezdése a jelentkezés, a mozgás és a tartózkodás jogát a fenntartás alá vonja."
+        },
+        {
+          "text": "A közrendi fenntartás csak akkor alkalmazható, ha a tagállam a saját állampolgárait is azonos tilalom alá veti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a szimmetriát kényszeríti a fenntartásra. A helyes: a C-41/74. sz. Van Duyn-ügy szerint a tagállam a közrendre hivatkozva megtagadhatja a másik tagállam állampolgárától a szabad mozgás kedvezményeit akkor is, ha a saját állampolgárait nem veti alá hasonló korlátozásnak, mert a nemzetközi jog a saját állampolgár belépésének megtagadását nem engedi. A tévedés a saját állampolgári tilalmat a fenntartás előfeltételévé teszi. A 2004/38/EK irányelv 27. cikke e fenntartást az arányosság és a személyes magatartás feltételeihez köti."
+        },
+        {
+          "text": "A közrendi hivatkozáshoz mindig szükséges, hogy a vitatott tevékenységet a fogadó állam jogszabállyal megtiltsa.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a jogszabályi tilalmat a fenntartás feltételeként írja elő. A helyes: a C-41/74. sz. Van Duyn-ügy szerint a tagállam, amely a szervezetet a társadalomra veszélyesnek ítélve hatósági intézkedéseket foganatosított, nem köteles a tevékenységet jogszabállyal megtiltani ahhoz, hogy a közrendre hivatkozhasson. A személyes viselkedés — ideértve a jelenlegi csoporttagságot — elegendő lehet. A tévedés a hatósági politikát a büntetőjogi tilalomhoz köti. A 64/221 irányelv 3. cikk (1) bekezdése a személyes viselkedést követeli."
+        },
+        {
+          "text": "Adott csoporthoz való jelenlegi tartozás, amely a tevékenységben való részvételt és a célokkal való azonosulást tükröz, a személy viselkedésének része lehet a közrendi intézkedésnél.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jelenlegi csoporttagság személyes viselkedésként értékelhető. A C-41/74. sz. Van Duyn-ügy szerint adott csoporthoz való jelenlegi tartozás a személy viselkedésének része; a múltban véget ért tagság általában nem igazolja a kedvezmény megtagadását. A tagállam, amely a szervezetet a társadalomra veszélyesnek ítélve hatósági intézkedéseket foganatosított, nem köteles a tevékenységet jogszabállyal megtiltani ahhoz, hogy a közrendre hivatkozhasson. A 64/221 irányelv 3. cikk (1) bekezdése a személyes viselkedéstől eltérő elemeket zárja ki."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "c38a82b8cd19"
+    },
+    {
+      "question": "Milyen védelmet ad a 2004/38/EK irányelv 28. cikke a kiutasítással szemben?",
+      "options": [
+        {
+          "text": "A 28. cikk a kiutasítást kizárólag a származási ország kérésére engedi, a fogadó állam közrendi mérlegelése nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a fogadó állam mérlegelését a származási ország kérésére cseréli. A helyes: a 2004/38/EK irányelv 28. cikke a fogadó állam kiutasítási döntésének korlátait adja a tartózkodás időtartama, az életkor, az egészségi, családi és gazdasági helyzet, az integráció és a származási országgal fennálló kapcsolatok figyelembevételével. A közrendi vagy közbiztonsági ok a fogadó állam intézkedésének anyagi alapja a 27. cikk szerint. A tévedés a kiutasítást diplomáciai kérelemhez köti."
+        },
+        {
+          "text": "A kiutasítással szembeni védelem a tartózkodás időtartamához, az életkorhoz, az egészségi, családi és gazdasági helyzethez, az integrációhoz és a származási országgal fennálló kapcsolatokhoz kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiutasítás nem automatikus, hanem személyi és tartózkodási szempontokhoz kötött. A 2004/38/EK irányelv 28. cikke a kiutasítással szembeni védelmet a tartózkodás időtartamához, az életkorhoz, az egészségi, családi és gazdasági helyzethez, az integrációhoz és a származási országgal fennálló kapcsolatokhoz köti. Huzamos tartózkodási jog esetén a kiutasítás csak súlyos közrendi vagy közbiztonsági okból hozható. Tízéves tartózkodás vagy kiskorúság esetén — a gyermek legjobb érdekének kivételével — csak a közbiztonság nyomós okán hozható kiutasítás."
+        },
+        {
+          "text": "Huzamos tartózkodási jog esetén a kiutasítás csak súlyos közrendi vagy közbiztonsági okból, tízéves tartózkodás vagy kiskorúság esetén — a gyermek legjobb érdekének kivételével — csak a közbiztonság nyomós okán hozható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a védelem a tartózkodás hosszával szigorodik. A 2004/38/EK irányelv 28. cikke a huzamos tartózkodási joghoz súlyos közrendi vagy közbiztonsági okot, a tízéves tartózkodáshoz vagy a kiskorúsághoz pedig a közbiztonság nyomós okát köti, a gyermek legjobb érdekének kivételével. A 27. cikk szerinti anyagi feltételek — arányosság, személyes magatartás, valódi és kellően súlyos veszély — mellé így fokozott védelem társul. A 30. cikk az írásbeli értesítést, az indokolást és a fellebbezési tájékoztatást írja elő."
+        },
+        {
+          "text": "Huzamos tartózkodási jog esetén a kiutasítás bármely közrendi okból, súlyossági küszöb nélkül elrendelhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a súlyossági küszöböt elhagyja. A helyes: a 2004/38/EK irányelv 28. cikke szerint huzamos tartózkodási jog esetén a kiutasítás csak súlyos közrendi vagy közbiztonsági okból hozható; tízéves tartózkodás vagy kiskorúság esetén — a gyermek legjobb érdekének kivételével — csak a közbiztonság nyomós okán. A tévedés a 27. cikk általános fenntartását a 28. cikk fokozott védelmére írja. A tartózkodás időtartama és az integráció a mérlegelés része."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "51fd22f77ad5"
+    },
+    {
+      "question": "Milyen körre szűkíti a 2004/38/EK irányelv 29. cikke a közegészségügyi korlátozást?",
+      "options": [
+        {
+          "text": "A megérkezéstől számított három hónap elteltével jelentkező betegség nem alap a kiutasításra a 29. cikk szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három hónapos időküszöb a közegészségügyi kiutasítást korlátozza. A 2004/38/EK irányelv 29. cikke szerint a megérkezéstől számított három hónap elteltével jelentkező betegség nem alap a kiutasításra. A betegségkört a WHO járványos betegségei és a fogadó állam saját állampolgáraira is kiterjedő fertőző vagy parazitás megbetegedések adják. A 27. cikk (2) bekezdése a közrendi és közbiztonsági intézkedéseknél a személyes magatartást és az arányosságot követeli; a közegészségügy e külön szűkítést kapja."
+        },
+        {
+          "text": "A közegészségügyet az Egészségügyi Világszervezet járványos betegségeire, valamint a fogadó állam saját állampolgáraira is kiterjedő fertőző vagy parazitás megbetegedésekre szűkíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közegészségügyi korlátozás nem tág nemzeti betegséglista. A 2004/38/EK irányelv 29. cikke a közegészségügyet az Egészségügyi Világszervezet járványos betegségeire, valamint a fogadó állam saját állampolgáraira is kiterjedő fertőző vagy parazitás megbetegedésekre szűkíti. A megérkezéstől számított három hónap elteltével jelentkező betegség nem alap a kiutasításra. A 27. cikk a közegészségügyet a közrend és a közbiztonság mellett említi, de a 29. cikk e fogalom tartalmát a betegségkörrel és az időküszöbbel bontja ki."
+        },
+        {
+          "text": "A 29. cikk a közegészségügyi korlátozást a 45. cikk (4) bekezdésének közszolgálati kivételével azonosítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közegészségügyi fenntartást a közszolgálati hatálykivétellel mosja össze. A helyes: a 2004/38/EK irányelv 29. cikke a közegészségügyi korlátozás betegségkörét és időküszöbét adja; az EUMSZ 45. cikk (4) bekezdése a közszolgálatban történő foglalkoztatást veszi ki a munkavállalói szabad mozgás alól. A két intézmény dogmatikailag elválik: az egyik fenntartás a mozgáson belül, a másik hatálykivétel. A tévedés a VI. fejezetet a (4) bekezdéssel azonosítja."
+        },
+        {
+          "text": "Bármely, a fogadó állam szerint nemkívánatos betegség önmagában elegendő a 29. cikk szerinti kiutasításhoz, időkorlát nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a betegségkört és az időküszöböt elhagyja. A helyes: a 2004/38/EK irányelv 29. cikke a közegészségügyet a WHO járványos betegségeire, valamint a fogadó állam saját állampolgáraira is kiterjedő fertőző vagy parazitás megbetegedésekre szűkíti, és a megérkezéstől számított három hónap elteltével jelentkező betegség nem alap a kiutasításra. A tévedés a nemzeti „nemkívánatosságot” abszolút jogcímmé emeli. A 27. cikk szerint e korlátozásokra gazdasági célok érdekében sem lehet hivatkozni."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "2171f8db193a"
+    },
+    {
+      "question": "Milyen okmányokat követel az irányelv 5. cikkének (1) bekezdése a beutazáshoz, és kérhető-e vízum az uniós polgártól?",
+      "options": [
+        {
+          "text": "A nem tagállami állampolgár családtag beutazásához érvényes útlevél szükséges az 5. cikk (1) bekezdése szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a családtag okmánykövetelménye szigorúbb a polgárénál. A 2004/38/EK irányelv 5. cikk (1) bekezdése szerint a családtagok — ha nem tagállami állampolgárok — érvényes útlevéllel utazhatnak be, míg az uniós polgárok érvényes személyazonosító igazolvánnyal vagy útlevéllel. A polgártól vízum nem kérhető. A 2. cikk 2. pontja a családtag fogalmát, a 7. cikk a három hónapot meghaladó tartózkodás feltételeit adja. A Coman-ügy a származékos tartózkodást a 21. cikk (1) bekezdéséhez köti."
+        },
+        {
+          "text": "Az uniós polgártól a fogadó tagállam beutazási vízumot követelhet, ha a tartózkodás három hónapnál hosszabb lesz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a vízumot a tartózkodás hosszához köti. A helyes: a 2004/38/EK irányelv 5. cikk (1) bekezdése szerint az uniós polgároktól beutazási vízum vagy azzal egyenértékű formai követelmény nem kérhető; a beutazáshoz érvényes személyazonosító igazolvány vagy útlevél elegendő. A három hónapot meghaladó tartózkodás feltételeit a 7. cikk adja, nem a vízum. A tévedés a tartózkodási feltételeket beutazási vízumkövetelménnyé olvassa."
+        },
+        {
+          "text": "A nem tagállami állampolgár családtag beutazásához elegendő a személyazonosító igazolvány, útlevél nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a családtag okmányát a polgár igazolványával azonosítja. A helyes: a 2004/38/EK irányelv 5. cikk (1) bekezdése szerint a nem tagállami állampolgár családtagok érvényes útlevéllel utazhatnak be; az uniós polgárok érvényes személyazonosító igazolvánnyal vagy útlevéllel. A tévedés a két személyi kör okmánykövetelményét felcseréli. A 7. cikk (2) bekezdése a tartózkodást a nem tagállami családtagra az uniós polgár feltételeinek teljesülése esetén terjeszti ki."
+        },
+        {
+          "text": "A tagállamoknak biztosítaniuk kell, hogy az uniós polgárok érvényes személyazonosító igazolvánnyal vagy útlevéllel, nem tagállami állampolgár családtagjaik érvényes útlevéllel beutazhassanak; az uniós polgároktól beutazási vízum vagy azzal egyenértékű formai követelmény nem kérhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 5. cikk (1) bekezdése a dokumentumkövetelményt és a vízumtilalmat rögzíti. A 2004/38/EK irányelv 5. cikk (1) bekezdése szerint a nemzeti határellenőrzéskor alkalmazandó úti okmányokra vonatkozó rendelkezések sérelme nélkül a tagállamoknak biztosítaniuk kell e beutazást; az uniós polgároktól beutazási vízum vagy azzal egyenértékű formai követelmény nem kérhető. A C-364/10. sz. ügy az 5. cikket a 27. és a 30. cikk mellett idézi. A három hónap alatti tartózkodás a (9) preambulumbekezdés szerint egyéb feltétel nélkül illeti meg a polgárt."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "451ca655b687"
+    },
+    {
+      "question": "Milyen eljáráshoz köti a 21. cikk (3) bekezdése a szociális biztonságra és a szociális védelemre vonatkozó intézkedéseket?",
+      "options": [
+        {
+          "text": "A 21. cikk (3) bekezdése a közrendi, közbiztonsági és közegészségügyi fenntartás rendes jogalkotási jogalapja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a szociális egyhangú pályát a fenntartás jogalapjává teszi. A helyes: az EUMSZ 21. cikk (3) bekezdése a szociális biztonságra és a szociális védelemre vonatkozó intézkedéseket a Tanács különleges eljárásához, egyhangúságához és a Parlament konzultációjához köti. A közrendi fenntartás a 45. cikk (3) bekezdésében és az irányelv 27. cikkében van. A tévedés a (3) bekezdést a VI. fejezettel azonosítja. A (2) bekezdés a megkönnyítés residualis címe."
+        },
+        {
+          "text": "A szociális biztonsági intézkedéseket az Európai Parlament és a Tanács rendes jogalkotási eljárásban, minősített többséggel fogadja el a 21. cikk (3) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a (3) bekezdést a rendes eljárással és a minősített többséggel azonosítja. A helyes: az EUMSZ 21. cikk (3) bekezdése szerint a Tanács különleges jogalkotási eljárás keretében, az Európai Parlamenttel folytatott konzultációt követően, egyhangúlag határoz a szociális biztonságra, illetve a szociális védelemre vonatkozó intézkedésekről. A rendes eljárás a (2) bekezdés megkönnyítési címénél jelenik meg. A tévedés a (2) és a (3) bekezdés eljárásrendjét cseréli fel."
+        },
+        {
+          "text": "A Tanács különleges jogalkotási eljárás keretében, az Európai Parlamenttel folytatott konzultációt követően, egyhangúlag fogadhat el intézkedéseket a szociális biztonságra, illetve a szociális védelemre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés egyhangú, konzultációs pálya. Az EUMSZ 21. cikk (3) bekezdése szerint az (1) bekezdésben meghatározottakkal azonos célok érdekében, és amennyiben a Szerződések nem biztosítottak hatáskört, a Tanács különleges jogalkotási eljárás keretében a szociális biztonságra, illetve a szociális védelemre vonatkozó intézkedéseket fogadhat el; a Tanács az Európai Parlamenttel folytatott konzultációt követően, egyhangúlag határoz. Ez nem a közrendi fenntartás jogalapja. A (2) bekezdés residualis megkönnyítési cím rendes eljárásban."
+        },
+        {
+          "text": "A (3) bekezdés a szociális védelmet különleges eljáráshoz, egyhangúsághoz és parlamenti konzultációhoz köti, nem a közrendi fenntartáshoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szociális pálya elválik a közrendi fenntartástól. Az EUMSZ 21. cikk (3) bekezdése a szociális biztonságra és a szociális védelemre vonatkozó intézkedéseket a Tanács egyhangú határozatához és a Parlament konzultációjához köti. A közrendi, közbiztonsági vagy közegészségügyi fenntartás a 45. cikk (3) bekezdésében és a 2004/38/EK irányelv 27. cikkében jelenik meg. A (2) bekezdés a jogok gyakorlásának megkönnyítésére ad residualis címet rendes jogalkotási eljárásban. A két bekezdés tehát nem cserélhető fel."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "d3c8d1af9cc2"
+    },
+    {
+      "question": "Mi következik abból, ha a fogadó tagállam a 27. cikk szerinti korlátozást gazdasági célból indokolja?",
+      "options": [
+        {
+          "text": "A 27. cikk szerint a közrendi, közbiztonsági vagy közegészségügyi okokra gazdasági célok érdekében nem lehet hivatkozni, ezért a gazdasági indoklás önmagában nem igazolja a korlátozást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a VI. fejezet fenntartása nem költségvetési klauzula. A 2004/38/EK irányelv 27. cikke szerint a tagállamok korlátozhatják a szabad mozgást és tartózkodást közrendi, közbiztonsági vagy közegészségügyi okokból; ezen okokra gazdasági célok érdekében nem lehet hivatkozni. A (2) bekezdés az arányosságot, a személyes magatartást és a valódi, közvetlen, kellően súlyos veszélyt követeli a társadalom alapvető érdekére. Az általános megelőzési megfontolások sem elfogadhatók. A Rutili-ügy az „indokolt” korlátozást a közösségi jog követelményeihez kötötte."
+        },
+        {
+          "text": "A fogadó állam költségvetési egyensúlyának védelme önálló, elegendő közrendi indok a 27. cikk szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a gazdasági célt közrendi indokká emeli. A helyes: a 2004/38/EK irányelv 27. cikke szerint a közrendi, közbiztonsági vagy közegészségügyi okokra gazdasági célok érdekében nem lehet hivatkozni; a korlátozás kizárólag a személyes magatartáson és az arányosságon alapulhat. A tévedés a költségvetési érdeket a VI. fejezet fenntartásába olvassa. A (10) preambulumbekezdés a szociális teher kérdését a tartózkodás feltételeihez, nem a 27. cikk gazdasági indokához köti."
+        },
+        {
+          "text": "A korlátozásnak kizárólag az érintett egyén személyes magatartásán kell alapulnia, és valódi, közvetlen, kellően súlyos veszélyt kell jelentenie a társadalom valamely alapvető érdekére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyes magatartás és a veszélyküszöb a gazdasági cél helyett áll. A 2004/38/EK irányelv 27. cikk (2) bekezdése szerint a közrendi vagy közbiztonsági intézkedéseknek meg kell felelniük az arányosság elvének, és kizárólag az érintett egyén személyes magatartásán alapulhatnak; az érintett személyes magatartása valódi, közvetlen és kellően súlyos veszélyt kell, hogy jelentsen a társadalom valamely alapvető érdekére. Korábbi büntetőítéletek önmagukban nem képezhetik az alapot. A gazdasági célú hivatkozás az (1) bekezdés szerint kizárt."
+        },
+        {
+          "text": "Általános megelőzési kampány önmagában megalapozza a 27. cikk (2) bekezdése szerinti intézkedést, személyes magatartás vizsgálata nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az általános prevenciót a személyes magatartás helyére állítja. A helyes: a 2004/38/EK irányelv 27. cikk (2) bekezdése szerint az ügyhöz közvetlenül nem kapcsolódó vagy általános megelőzési megfontolásokon alapuló indokolások nem elfogadhatók; kizárólag az érintett egyén személyes magatartása jöhet szóba, amely valódi, közvetlen és kellően súlyos veszélyt jelent. A tévedés a Rutili- és a 27. cikk ratio ellentétét állítja. A gazdasági célú hivatkozás ugyancsak kizárt."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "d4c169f5275f"
+    },
+    {
+      "question": "Mely megállapítások állják meg a helyüket az uniós polgárság 20. cikk (2) bekezdése szerinti jogkatalógusáról?",
+      "options": [
+        {
+          "text": "A 20. cikk (2) bekezdése csak a szabad mozgást nevesíti; választójog, konzuli védelem és petíció kívül esik a katalóguson.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a katalógust az a) pontra szűkíti. A helyes: az EUMSZ 20. cikk (2) bekezdése az a) pontban a szabad mozgást és tartózkodást, a b) pontban a lakóhely szerinti európai parlamenti és helyhatósági választójogot és választhatóságot, a c) pontban a harmadik országbeli diplomáciai vagy konzuli védelmet, a d) pontban a petíciót, az ombudsmanhoz fordulást és az intézményi nyelvhasználatot adja. A tévedés a polgársági jogkatalógust a mozgásra redukálja. A 21. cikk (1) bekezdése az a) pontot operatív alanyi joggá emeli."
+        },
+        {
+          "text": "A 20. cikk (2) bekezdése szerinti jogok feltétel nélkül, a Szerződések és a végrehajtási intézkedések korlátai nélkül gyakorolhatók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a záró mondat korlátozó záradékát elhagyja. A helyes: az EUMSZ 20. cikk (2) bekezdése szerint ezek a jogok a Szerződésekben és a végrehajtásukra elfogadott intézkedésekben megállapított feltételekkel és korlátozásokkal gyakorolhatók. A 21. cikk (1) bekezdése és a 2004/38/EK irányelv e záradék tartalmát bontja ki. A tévedés a katalógust abszolút jogosultságok listájává olvassa. Az a) pont tehát nem feltétel nélküli belépési jog."
+        },
+        {
+          "text": "A b) pont a lakóhely szerinti tagállam európai parlamenti és helyhatósági választásain a saját állampolgárokkal azonos feltételek szerinti választójogot és választhatóságot adja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a politikai részvétel a katalógus második eleme. Az EUMSZ 20. cikk (2) bekezdés b) pontja szerint az uniós polgárok választásra jogosultak és választhatók a lakóhelyük szerinti tagállam európai parlamenti és helyhatósági választásain, ugyanolyan feltételekkel, mint az adott tagállam állampolgárai. Az a) pont a szabad mozgást és tartózkodást nevesíti. A (2) bekezdés záró mondata valamennyi jogot a Szerződésekben és a végrehajtási intézkedésekben megállapított feltételekhez és korlátozásokhoz köti."
+        },
+        {
+          "text": "A c) pont a harmadik országbeli diplomáciai vagy konzuli védelmet, a d) pont a petíciót, az ombudsmanhoz fordulást és az intézményi nyelvhasználatot adja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a katalógus a védelmet és a részvételi-intézményi jogokat is lefedi. Az EUMSZ 20. cikk (2) bekezdés c) pontja szerint az uniós polgárok jogosultak bármely tagállam diplomáciai vagy konzuli hatóságainak védelmét igénybe venni olyan harmadik ország területén, ahol az állampolgárságuk szerinti tagállam nem rendelkezik képviselettel, ugyanolyan feltételekkel, mint az adott tagállam állampolgárai. A d) pont a petíciót, az európai ombudsmanhoz folyamodást és az intézményi nyelvhasználatot nevezi meg. A mozgásszabadság az a) pontban van, de nem abszolút belépési jog."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "6f43578f0a8a"
+    },
+    {
+      "question": "Miben tér el a közrendi fenntartás a közszolgálati hatálykivételtől a személyek szabad mozgásának rendszerében?",
+      "options": [
+        {
+          "text": "A közszolgálati kivétel a 21. cikk (1) bekezdése szerinti polgársági mozgásra is kiterjed, ezért az uniós polgár belépése a közszolgálati fogalom szerint tagadható meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a (4) bekezdés hatályát a polgársági mozgásra terjeszti. A helyes: az EUMSZ 45. cikk (4) bekezdése a munkavállalók szabad mozgását rendező cikk rendelkezéseit veszi le a közszolgálatról; a 21. cikk (1) bekezdése a gazdasági tevékenységtől független polgársági mozgás általános címe, végrehajtási alakja a 2004/38/EK irányelv. A közrendi korlátozás a polgársági mozgásnál az irányelv 27. cikke szerint lehetséges. A tévedés a lex specialis hatálykivételét a 21. cikkre írja."
+        },
+        {
+          "text": "A közrendi fenntartás a 45. cikk (3) bekezdése és az irányelv 27. cikke szerint a szabad mozgás jogai mellett, szigorú feltételekkel engedi a korlátozást; a közszolgálati kivétel a 45. cikk (4) bekezdése szerint a cikket bizonyos állásokról leveszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fenntartás és a hatálykivétel dogmatikailag elválik. Az EUMSZ 45. cikk (3) bekezdése a közrendi, közbiztonsági vagy közegészségügyi okból indokolt korlátozásra figyelemmel adja a jelentkezés, a mozgás, a tartózkodás és a maradás jogát; az irányelv 27. cikke e fenntartást az arányossághoz és a személyes magatartáshoz köti. A 45. cikk (4) bekezdése szerint a cikk rendelkezései nem vonatkoznak a közszolgálatban történő foglalkoztatásra. A C-149/79. sz. ügy a (4) bekezdést funkcionálisan, a közhatalomhoz és a közérdek védelméhez köti."
+        },
+        {
+          "text": "A közrendi fenntartás és a közszolgálati kivétel azonos jogintézmény: mindkettő teljes egészében kiveszi a munkavállalót a 45. cikk hatálya alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a két típust egyetlen hatálykivétellé olvassa. A helyes: az EUMSZ 45. cikk (3) bekezdése a szabad mozgás jogai mellett engedi a közrendi, közbiztonsági vagy közegészségügyi okból indokolt korlátozást; a (4) bekezdés a közszolgálatot kiveszi a cikk hatálya alól. Az első szigorúan értelmezendő fenntartás, a második funkcionális hatálykivétel. A 2004/38/EK irányelv 27. cikke a fenntartáshoz arányosságot, személyes magatartást és a gazdasági cél tilalmát kapcsolja."
+        },
+        {
+          "text": "A közszolgálati kivétel uniós fogalmát a Bíróság funkcionálisan határolja; a nemzeti közszolgálati címke önmagában nem dönti el a (4) bekezdés hatályát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatálykivétel nem a nemzeti fogalom átvétele. A C-149/79. sz. Bizottság kontra Belgium és a C-473/93. sz. Bizottság kontra Luxemburg ügy szerint a (4) bekezdés a közhatalom gyakorlásában és az állam általános érdekeinek védelmében való részvétellel járó állásokra terjed; a fogalmat egységesen kell értelmezni. A közrendi fenntartás ehhez képest a Van Duyn- és a Rutili-ügy szerint szigorúan értelmezendő, személyes magatartáshoz kötött korlátozás. A két kivételtípus tehát más jogkövetkezménnyel jár."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "b1970304bd8e"
+    },
+    {
+      "question": "Hogyan határozza meg a 2004/38/EK irányelv preambuluma az uniós polgárság és a szabad mozgás viszonyát?",
+      "options": [
+        {
+          "text": "Az (5) preambulumbekezdés a családtagok — állampolgárságukra tekintet nélkül — bevonását, ideértve a regisztrált élettársat, ha a fogadó állam a kapcsolatot a házassággal egyenértékűnek tekinti, a szabadság és a méltóság objektív feltételeihez köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a családtagi bevonás objektív feltételekhez kötött. A 2004/38/EK irányelv (5) preambulumbekezdése a családtagok — állampolgárságukra tekintet nélkül — bevonását, ideértve a regisztrált élettársat, ha a fogadó állam a kapcsolatot a házassággal egyenértékűnek tekinti, a szabadság és a méltóság objektív feltételeihez köti. A 2. cikk 2. pontja e kört operatív fogalommá fordítja. A Coman-ügy a házastárs fogalmát a származékos tartózkodásnál a 21. cikk (1) bekezdéséhez köti."
+        },
+        {
+          "text": "Az irányelv a szabad mozgás jogát a 45. cikk (4) bekezdésének közszolgálati kivételéből vezeti le.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás az irányelvet a közszolgálati hatálykivételhez köti. A helyes: a 2004/38/EK irányelv (1) preambulumbekezdése a szabad mozgást az uniós polgárság elsődleges és egyéni jogaként, a Szerződés és a végrehajtási intézkedések korlátaira figyelemmel határozza meg; ez a 21. cikk (1) bekezdésének másodlagos tükre. A 45. cikk (4) bekezdése a munkavállalói fejezet közszolgálati kivétele. A tévedés a polgársági végrehajtást a hatálykivétellel azonosítja."
+        },
+        {
+          "text": "Az (1) preambulumbekezdés szerint az uniós polgárság elsődleges és egyéni jogot ruház a szabad mozgásra és tartózkodásra, a Szerződésben és az alkalmazására hozott intézkedésekben megállapított korlátozásokra és feltételekre figyelemmel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a preambulum a polgársági mozgás szerződéses magját tükrözi. A 2004/38/EK irányelv (1) preambulumbekezdése szerint az uniós polgárság elsődleges és egyéni jogot ruház a szabad mozgásra és tartózkodásra, a Szerződésben és az alkalmazására hozott intézkedésekben megállapított korlátozásokra és feltételekre figyelemmel; ez az EUMSZ 21. cikk (1) bekezdésének másodlagos tükre. A (3) preambulumbekezdés az uniós polgárságot a szabad mozgást gyakorló tagállami állampolgárok alapvető jogállásává teszi. Az irányelv tehát nem a jogot adja, hanem a feltételeket és a korlátokat."
+        },
+        {
+          "text": "A (3) preambulumbekezdés szerint az uniós polgárság csak a munkavállaló jogállása, a gazdasági tevékenység nélküli polgárra nem terjed ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a polgárságot a munkavállalói státuszra szűkíti. A helyes: a 2004/38/EK irányelv (3) preambulumbekezdése az uniós polgárságot a szabad mozgást gyakorló tagállami állampolgárok alapvető jogállásává teszi; az (1) preambulumbekezdés elsődleges és egyéni jogot ruház a szabad mozgásra. A 21. cikk (1) bekezdése minden uniós polgárnak adja a jogot, nem csupán a munkavállalónak. A tévedés a 45. cikk lex specialisát a polgársági magra írja."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "66a2dab03aae"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a közszolgálati kivétel a fogadó állam általános állampolgársági követelményére a Luxemburg-ügy ratioja szerint?",
+      "options": [
+        {
+          "text": "A nemzeti alkotmány és a szolgálati szabályzat általános állampolgársági feltétele önmagában kiveszi az ágazat összes állását a 45. cikk (1)–(3) bekezdése alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a nemzeti szabályzatot teszi a kivétel forrásává. A helyes: a C-473/93. sz. és a C-149/79. sz. ügy szerint a (4) bekezdés fogalmát egységesen kell értelmezni; a belső jogrend rendelkezéseire a közösségi jog hatályának korlátozása céljából történő hivatkozás nem megengedhető. A (4) bekezdés csak a közhatalmi részvétellel és az állam általános érdekeinek védelmével járó állásokra terjed. A tévedés Luxemburg általános állampolgársági zárját igazolná. A bizonyítási teher a különleges jellegű állásoknál az alperesé."
+        },
+        {
+          "text": "A Bizottság 1988-as közleménye szerint e kereskedelmi jellegű és közszolgáltatási ágazatokban a (4) bekezdés csak igen ritka esetekben terjed ki, ezért a hozzáférést más tagállami állampolgárok számára lehetővé kell tenni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közlemény a ritka kivételt hangsúlyozza. A C-473/93. sz. ügy a Bizottság 88/C 72/02 közleményére hivatkozik: a tömegközlekedés, az energiaközművek, a posta és távközlés, a közegészségügy, az állami oktatás és a nem katonai kutatás területén a (4) bekezdés csak igen ritka esetekben terjed ki. Luxemburgban e területeken elvben minden álláshelyhez luxemburgi állampolgárság kellett, feladatok jellege szerinti különbségtétel nélkül. A C-149/79. sz. Belgium-ügy funkcionális tesztje ezekre az ágazatokra is irányadó."
+        },
+        {
+          "text": "A (4) bekezdés a posta, a távközlés és az energiaközművek minden állására kiterjed, mert ezek állami közszolgáltatások.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közszolgáltatási jelleget automatikus kivétellé emeli. A helyes: a C-473/93. sz. Bizottság kontra Luxemburg ügy és a Bizottság 1988-as közleménye szerint ezekben az ágazatokban a (4) bekezdés csak igen ritka esetekben terjed ki; a kivétel a közhatalom gyakorlásához és az állam általános érdekeinek védelméhez kötött. A tévedés a kereskedelmi jellegű közszolgáltatást a szoros értelemben vett közszolgálattal azonosítja. A más tagállami munkavállaló nem zárható ki pusztán állampolgársága miatt."
+        },
+        {
+          "text": "Ha az állások — bár közjogi szervezet hatáskörébe tartoznak — nem kapcsolódnak a szoros értelemben vett közszolgálati feladatokhoz, a (4) bekezdés nem terjed ki rájuk, és az általános állampolgársági zár nem igazolható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kivétel ritka, funkcionális esetekre szűkül. A C-473/93. sz. Bizottság kontra Luxemburg ügy szerint a (4) bekezdés nem terjed ki azokra az állásokra, amelyek — bár az állam vagy más közjogi szervezet hatáskörébe tartoznak — nem kapcsolódnak a szoros értelemben vett közszolgálati feladatokhoz. A kutatás, az oktatás, az egészségügy, a közlekedés, a posta, a távközlés és az energiaközművek általános állampolgársági követelménye ezért nem automatikus kivétel. A különleges közszolgálati jellegű állások kapcsolatát az alperesnek kell bizonyítania."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "f85243f31119"
+    },
+    {
+      "question": "Sólyom László révkomáromi belépésének tilalma kapcsán Szlovákia milyen hatásköri érvet hozott a C-364/10. sz. ügyben?",
+      "options": [
+        {
+          "text": "A C-364/10. sz. ügyben a Bíróság a hatáskör hiányát megállapította, ezért az irányelv 27. és 30. cikkének feltételeit érdemben nem vizsgálhatta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a hatásköri kifogás elfogadását állítja. A helyes: a C-364/10. sz. ügyben a Bíróság elutasította a hatáskör hiányára hivatkozó kifogást, és kimondta, hogy hatáskörrel rendelkezik annak eldöntésére, hogy a 21. cikk és a 2004/38/EK irányelv alkalmazható-e. Az uniós jog alkalmazási köre a 259. cikk szerinti kereset elbírálásának része. A tévedés a szlovák diplomáciai érvet a Bíróság hatáskörének végleges kizárásává emeli."
+        },
+        {
+          "text": "Szlovákia szerint az, hogy a 2004/38/EK irányelv nem tartalmaz államfői kivételt, nem jelenti az irányelv államfőkre való alkalmazását, mert maguk a Szerződések zárják ki azt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alperes a hallgatólagos szerződéses kizárásra hivatkozik. A C-364/10. sz. ügyben Szlovákia szerint az irányelv államfői kivételének hiánya nem vezet automatikus alkalmazáshoz, mert a Szerződések a diplomáciai kapcsolatokat és a nemzeti identitást az uniós jog hatályán kívül helyezik. Magyarország ehhez képest az EUMSZ 21. cikk (1) bekezdésének, valamint a 2004/38/EK irányelv 27. és 30. cikkében foglalt anyagi és eljárási feltételek megsértését állította. A Bíróság a hatásköri kifogást elutasította, és kimondta: hatáskörrel rendelkezik az alkalmazhatóság eldöntésére."
+        },
+        {
+          "text": "Szlovákia elismerte, hogy a 2004/38/EK irányelv minden államfői, hivatalos látogatásra kógensen alkalmazandó, és csak a 27. cikk feltételeivel korlátozható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a felperesi olvasatot tulajdonítja az alperesnek. A helyes: a C-364/10. sz. ügyben Szlovákia — a Bizottság támogatásával — a diplomáciai kapcsolatok és a nemzeti identitás hatályon kívüliségét érvelte; Magyarország állította az irányelv és a 21. cikk (1) bekezdésének alkalmazását. A Bíróság a hatásköri kifogást elutasította. A tévedés a két perbeli álláspontot felcseréli. Az EUSZ 4. cikk (2) bekezdése az alperesi nemzeti identitás-érv része."
+        },
+        {
+          "text": "Szlovákia — a Bizottság támogatásával — úgy érvelt, hogy a tervezett látogatás államfő más tagállam területére lépése, ezért a tagállamok közötti diplomáciai kapcsolatok körébe tartozik, amelyet a nemzetközi szokásjog és a nemzetközi egyezmények szabályoznak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alperesi álláspont a diplomáciai kapcsolatok hatályon kívüliségét állítja. A C-364/10. sz. Magyarország kontra Szlovák Köztársaság ügyben Szlovákia szerint a látogatás nem uniós polgár magánlátogatása, hanem államfői belépés. Az EUSZ 3. cikkéből, 4. cikkének (1) bekezdéséből és 5. cikkéből eredő hatásköri elhatárolás a kétoldalú diplomáciai kapcsolatokat kizárja az uniós jog hatálya alól. Az EUSZ 4. cikk (2) bekezdése a tagállamok egyenlőségét és nemzeti identitását védi; az államfő a szuverenitás letéteményese."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "11459ae21e80"
+    },
+    {
+      "question": "Mely állítások hibásak a személyek szabad mozgásának két szerződéses síkjáról?",
+      "options": [
+        {
+          "text": "A 26. cikk (2) bekezdése önálló, a Szerződések korlátai nélküli belépési jogcímet ad, ezért a 21. cikk és a 45. cikk feltételei mellőzhetők.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a belső piaci fogalmat abszolút belépési jogcímmé emeli. A helyes: az EUMSZ 26. cikk (2) bekezdése a belső piacot belső határok nélküli térségként határozza meg, amelyben a Szerződések rendelkezéseivel összhangban biztosított a négy szabadság; a személyi alanyi jog a 20–21. és a 45. cikkben van. A „Szerződések rendelkezéseivel összhangban” fordulat a korlátozásokat a fogalomba emeli. A tévedés a 26. cikket a 21. és a 45. cikk helyébe állítja."
+        },
+        {
+          "text": "A 45. cikk a gazdasági tevékenységtől független polgársági mozgás általános címe, a 21. cikk pedig kizárólag a foglalkoztatási tényállás lex specialisa.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás felcseréli a két sík tárgyát. A helyes: az EUMSZ 21. cikk (1) bekezdése minden uniós polgárnak adja a gazdasági tevékenységtől független szabad mozgást és tartózkodást; a 45. cikk a munkavállalók szabad mozgása, az állampolgársági megkülönböztetés megszüntetésével. A 21. cikk (1) bekezdésének feltételeit és korlátait a 2004/38/EK irányelv bontja ki. A tévedés a lex generalis és a lex specialis viszonyát fordítja meg."
+        },
+        {
+          "text": "A 20. cikk (1) bekezdése szerint az uniós polgárság helyettesíti a nemzeti állampolgárságot, ezért a status civitatis megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kiegészítő jelleget helyettesítésként olvassa. A helyes: az EUMSZ 20. cikk (1) bekezdése szerint az uniós polgárság kiegészíti és nem helyettesíti a nemzeti állampolgárságot; uniós polgár az, aki valamely tagállam állampolgára. A nemzeti állampolgárság továbbra is a tagállami hatáskörben marad. A tévedés a kettős jogállást egyetlen uniós státusszá olvassza."
+        },
+        {
+          "text": "A 45. cikk (3) és (4) bekezdése egyaránt abszolút hatálykivétel: a munkavállaló semmilyen körülmények között nem hivatkozhat a szabad mozgásra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a fenntartást és a hatálykivételt egyetlen abszolút kizárássá olvassa. A helyes: az EUMSZ 45. cikk (3) bekezdése a közrendi, közbiztonsági vagy közegészségügyi okból indokolt korlátozásra figyelemmel adja a jelentkezés, a mozgás, a tartózkodás és a maradás jogát; a (4) bekezdés a közszolgálatot veszi ki. A Van Duyn-ügy a (3) bekezdés fenntartásának közvetlen hatályát és felülvizsgálhatóságát mondta ki. A tévedés a (3) bekezdést is teljes kizárásként kezeli."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "4296e296d7f1"
+    }
+  ]
+}

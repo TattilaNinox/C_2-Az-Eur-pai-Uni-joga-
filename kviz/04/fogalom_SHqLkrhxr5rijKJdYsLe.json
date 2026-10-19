@@ -1,0 +1,765 @@
+{
+  "id": "SHqLkrhxr5rijKJdYsLe",
+  "sorszam": 4,
+  "cim": "Az Európai Unió Tanácsának összetétele, működése és hatáskörei. Az (...)",
+  "generationType": "fogalom",
+  "title": "4. Az Európai Unió Tanácsának összetétele, működése és hatáskörei. Az (...)",
+  "questions": [
+    {
+      "question": "Miben különbözik az Európai Tanács hatásköre az Európai Unió Tanácsának jogalkotási szerepétől?",
+      "options": [
+        {
+          "text": "A Tanács kizárólag általános politikai irányokat határoz meg, a konkrét jogalkotási aktusok elfogadása az Európai Tanács feladata.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szerepek fordítva vannak állítva. A helyes szabály: az EUSZ 15. cikk (1) bekezdése az ösztönzést és az általános politikai irányokat az Európai Tanácshoz rendeli, és kizárja a jogalkotást. Az EUSZ 16. cikk (1) bekezdése a jogalkotási és költségvetési feladatokat a Tanácsra, az Európai Parlamenttel közösen telepíti. A tévedés tipikusan abból ered, hogy a magasabb politikai szintű testületet automatikusan a „erősebb” jogalkotónak képzelik."
+        },
+        {
+          "text": "Az Európai Tanács a rendes jogalkotási eljárásban az Európai Parlamenttel együtt elfogadja az uniós rendeleteket és irányelveket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tévedés a jogalkotási hatáskör felcserélése. A helyes szabály: az EUSZ 15. cikk (1) bekezdése szerint az Európai Tanács nem lát el jogalkotási feladatokat; a jogalkotási és költségvetési feladatokat az EUSZ 16. cikk (1) bekezdése a Tanácsra és az Európai Parlamentre telepíti. A csapda forrása a két testület elnevezésének összecsúszása: a magyar jogi nyelvben mindkettő „Tanács”, a Szerződések dogmatikája azonban elválasztja őket."
+        },
+        {
+          "text": "Az Európai Tanács az Uniónak a fejlődéséhez szükséges ösztönzést adja, és meghatározza annak általános politikai irányait és prioritásait, de jogalkotási feladatokat nem lát el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a politikai iránymutatás és a jogalkotás szerződésesen elválik. Az EUSZ 15. cikk (1) bekezdése szerint az Európai Tanács adja az Uniónak a fejlődéséhez szükséges ösztönzést, és meghatározza annak általános politikai irányait és prioritásait. Ugyanezen bekezdés második mondata kógens tilalom: az Európai Tanács nem lát el jogalkotási feladatokat. A Tanács és a Parlament jogalkotási terepét az EUSZ 16. cikk (1) bekezdése éppen e tilalom mellett nyeri el."
+        },
+        {
+          "text": "A Tanács az Európai Parlamenttel közösen ellátja a jogalkotási és költségvetési feladatokat, és a Szerződésekben meghatározott feltételek szerint politikameghatározási és koordinatív feladatokat is ellát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tanács dualizmusa a Parlamenttel közös. Az EUSZ 16. cikk (1) bekezdése a jogalkotási és költségvetési feladatokat a Parlamenttel közösen telepíti, emellett a Szerződések feltételei szerint politikameghatározási és koordinatív feladatokat is ad. Ez nem azonos a 15. cikk (1) bekezdése szerinti általános politikai iránymutatással: az utóbbi az Európai Tanácsé, az előbbi a Tanács operatív és jogalkotói szerepe."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "dee205e05eab"
+    },
+    {
+      "question": "Az Európai Tanács tagságára vonatkozóan mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A főképviselő az Európai Tanács teljes jogú, szavazati joggal rendelkező tagja, a Bizottság elnökével azonos státuszban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főképviselő státusza a részvétel, nem a tagság. A helyes szabály: az EUSZ 15. cikk (2) bekezdése a tagságot az állam-, illetve kormányfőkre, a saját elnökre és a Bizottság elnökére korlátozza, a főképviselőt pedig csak a munkában való részvételre utalja. Az EUMSZ 235. cikk (1) bekezdése a szavazásból az elnököt és a Bizottság elnökét veszi ki; a főképviselő szavazati jogát a 15. cikk nem adja. A csapda a KKBP-beli központi szerepéből eredő túlértelmezés."
+        },
+        {
+          "text": "Az Európai Tanács kizárólag a tagállamok miniszteri szintű képviselőiből áll, akik a kormány nevében kötelezettséget vállalhatnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a miniszteri szint a Tanácsra, nem az Európai Tanácsra igaz. A helyes szabály: az EUSZ 15. cikk (2) bekezdése szerint az Európai Tanács az állam-, illetve kormányfőkből, saját elnökéből és a Bizottság elnökéből áll; a miniszteri szintű, kötelezettségvállalásra képes képviselő az EUSZ 16. cikk (2) bekezdése szerinti tanácsi tagság ismérve. A tévedés forrása a két intézmény tagsági szintjének összecserélése."
+        },
+        {
+          "text": "Az Európai Tanács a tagállamok állam-, illetve kormányfőiből, valamint saját elnökéből és a Bizottság elnökéből áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tagság a legmagasabb politikai szintre van emelve, de a testület nem csupán tagállami konferencia. Az EUSZ 15. cikk (2) bekezdése négy elemet nevesít: a tagállamok állam-, illetve kormányfői, a saját elnök és a Bizottság elnöke. A saját elnök nem egy tagállam küldötte, a Bizottság elnöke pedig a közösségi módszer jelenléte a legmagasabb politikai fórumon."
+        },
+        {
+          "text": "Az Unió külügyi és biztonságpolitikai főképviselője részt vesz az Európai Tanács munkájában, de a 15. cikk (2) bekezdése nem nevezi a testület tagjának.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a részvétel és a tagság elválik. Az EUSZ 15. cikk (2) bekezdése szerint a főképviselő „munkájában részt vesz”, de a tagság felsorolásában nem szerepel. Az EUMSZ 235. cikk (1) bekezdése szerint szavazás esetén az Európai Tanács elnöke és a Bizottság elnöke nem szavaz; a főképviselő szavazati jogát a 15. cikk nem telepíti. A KKBP stratégiai iránymutatása e részvételen keresztül jut el a főképviselőhöz."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "5f0c462546e1"
+    },
+    {
+      "question": "Milyen tartamban és milyen eljárással választják meg az Európai Tanács elnökét?",
+      "options": [
+        {
+          "text": "Akadályoztatás vagy súlyos hivatali mulasztás esetén az Európai Tanács az elnök megbízatását ugyancsak minősített többségű eljárással megszüntetheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a visszahívás a szerződéses tényállásokhoz és ugyanahhoz az eljáráshoz kötött. Az EUSZ 15. cikk (5) bekezdése szerint akadályoztatás vagy súlyos hivatali mulasztás esetén a megbízatás „ugyanilyen eljárással” — tehát ismét minősített többséggel — megszüntethető. Az elnök tehát nem a tagállamok rotációjának automatikus következménye, és a testület hívhatja vissza a nevesített okokon."
+        },
+        {
+          "text": "Az Európai Tanács elnökét az Európai Parlament választja meg abszolút többséggel, ötéves ciklusra, a Bizottság elnökével azonos eljárásban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a választó testület és a tartam is téves. A helyes szabály: az EUSZ 15. cikk (5) bekezdése szerint az elnököt maga az Európai Tanács választja minősített többséggel, két és fél évre, egyszeri megújíthatósággal. Az Európai Parlament a 15. cikk (6) bekezdés d) pontja szerint az ülés utáni jelentés címzettje, nem a megválasztó szerv. A csapda a Bizottság elnökének parlamenti jóváhagyási logikájának átvitele."
+        },
+        {
+          "text": "Az Európai Tanács elnökét a tagállamok féléves rotációja szerint jelölik ki, a megbízatás hat hónapra szól és nem megújítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rotációs modell a Tanács formációinak elnökségére igaz, nem az Európai Tanács elnökére. A helyes szabály: az EUSZ 15. cikk (5) bekezdése szerint az elnököt minősített többséggel, két és fél évre választják, és a megbízatás egy alkalommal megújítható. A tévedés forrása az EUSZ 16. cikk (9) bekezdése szerinti tanácsi rotációs elnökség ráírása az Európai Tanács állandó elnökére."
+        },
+        {
+          "text": "Az Európai Tanács minősített többséggel, két és fél éves időtartamra választja meg elnökét; a megbízatás egy alkalommal megújítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elnök nem a rotációból „következik”, hanem a testület választja. Az EUSZ 15. cikk (5) bekezdése szerint a megválasztás minősített többséggel történik, a megbízatás két és fél év, és egy alkalommal megújítható. Ez elválasztja a tisztséget a Tanács féléves rotációs elnökségétől és a Bizottság elnöki tisztétől is."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "70313d5caae6"
+    },
+    {
+      "question": "A Tanács 2014. november 1-jétől alkalmazandó minősített többségi képletére mely állítások igazak?",
+      "options": [
+        {
+          "text": "A blokkoló kisebbséghez elegendő három, az Unió népességének többségét képviselő tagállam egyetértése.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a háromtagú blokk szerződésesen nem elég. A helyes szabály: az EUSZ 16. cikk (4) bekezdése szerint a blokkoló kisebbségnek legalább négy tanácsi tagból kell állnia, különben a minősített többséget elértnek kell tekinteni. A csapda a nagy tagállamok demográfiai súlyának túlértékelése: a népességi arány a minősített többség egyik eleme, de a blokkolás minimuma taglétszámhoz is kötött."
+        },
+        {
+          "text": "A minősített többséghez a Tanács tagjai legalább 55 százalékának — legalább tizenöt tag által leadott, egyben az Unió népességének legalább 65 százalékát kitevő tagállamokat képviselő — szavazata szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kettős többség konjunktív feltételekből áll. Az EUSZ 16. cikk (4) bekezdése a tagok legalább 55 százalékának szavazatát követeli, legalább tizenöt tag leadásával. Ugyanezen bekezdés egyben az Unió népességének legalább 65 százalékát kitevő tagállamok képviseletét is előírja. A legalább tizenöt tag a kis tagállamok számtani súlyát védi a pusztán százalékos 55 százalékkal szemben."
+        },
+        {
+          "text": "A blokkoló kisebbségnek a Tanács legalább négy tagjából kell állnia; ennek hiányában a minősített többséget elértnek kell tekinteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, három nagy tagállam önmagában nem blokkolhat. Az EUSZ 16. cikk (4) bekezdése szerint a blokkoló kisebbségnek legalább négy tanácsi tagból kell állnia, ellenkező esetben a minősített többséget elértnek kell tekinteni. A negyedik tag a kógens minimum; a 7. nyilatkozat politikai vitamechanizmust ír elő, de a szerződéses küszöböt nem emeli és nem ad vétót."
+        },
+        {
+          "text": "A minősített többséghez elegendő a Tanács tagjainak egyszerű számtani többsége, a népességi arány vizsgálata nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyszerű többség más esetkör, nem a minősített többség helyettesítője. A helyes szabály: az EUSZ 16. cikk (4) bekezdése a tagok 55 százalékát és a népesség 65 százalékát konjunktívan követeli. Az egyszerű többséget az EUMSZ 238. cikk (1) bekezdése a Tanács tagjainak többségéhez köti, jellemzően eljárási és szervezeti kérdésekre. A tévedés a 16. cikk (3) bekezdés minősített többségi főszabályának és a 238. cikk (1) bekezdés egyszerű többségének összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "c179674f534c"
+    },
+    {
+      "question": "Ha az Európai Tanács napirendje úgy kívánja, milyen segítséget vehetnek igénybe a tagok az ülésen?",
+      "options": [
+        {
+          "text": "A tagok úgy határozhatnak, hogy munkájukat tagonként egy miniszter, illetve a Bizottság elnökének esetében egy biztos segítse; a segítség nem helyettesíti a tagság szintjét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a segítség a napirendhez kötött, de a tagság szintje megmarad. Az EUSZ 15. cikk (3) bekezdése szerint, amikor a napirend úgy kívánja, a tagok tagonként egy miniszterrel, a Bizottság elnöke egy biztossal segítethetők. A segítség nem helyettesítés: a tagság szintje megmarad. Az összehívás továbbra is az Európai Tanács saját elnökének hatásköre, nem a Tanács 237. cikke szerinti aktus."
+        },
+        {
+          "text": "A miniszteri vagy biztosi segítség a napirend indokolta tagi határozathoz kötött; a segítség nem helyettesíti az állam- vagy kormányfői, illetve a Bizottság elnöki tagságot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés a segítséget a napirendhez és a tagok határozatához köti. Az EUSZ 15. cikk (3) bekezdése szerint a tagok úgy határozhatnak, hogy munkájukat tagonként egy miniszter, a Bizottság elnökének esetében egy biztos segítse. A segítség nem helyettesítés, a tagság szintje megmarad. A szavazási képviselet maximumát ehhez képest az EUMSZ 235. cikk (1) bekezdése rendezi."
+        },
+        {
+          "text": "A napirend indokolta esetben a miniszter teljes jogú tagként helyettesítheti az állam- vagy kormányfőt, és a helyettes szavazati joga azonos a helyettesítettével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a miniszter segíthet, de nem lép a tagság helyébe. A helyes szabály: az EUSZ 15. cikk (3) bekezdése a miniszteri vagy biztosi segítséget engedi, a tagság szintje azonban megmarad. Az EUMSZ 235. cikk (1) bekezdése a szavazási képviseletet legfeljebb még egy másik tagra korlátozza, de ez sem miniszteri helyettesítést jelent a 15. cikk (2) bekezdése szerinti tagság helyett. A tévedés a Tanács miniszteri tagságának ráírásából ered."
+        },
+        {
+          "text": "Az Európai Tanács üléseit a Tanács elnöke hívja össze a Bizottság vagy bármely tagállam kérésére, a 237. cikk szabályai szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 237. cikk a Tanácsra, nem az Európai Tanácsra vonatkozik. A helyes szabály: az EUSZ 15. cikk (3) bekezdése szerint az Európai Tanácsot saját elnöke hívja össze; az EUMSZ 237. cikk a Tanács összehívását a Tanács elnökére telepíti, saját kezdeményezésre, illetve tag vagy Bizottság kérésére. A csapda a két összehívási hatáskör összekeverése."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "313df4db291f"
+    },
+    {
+      "question": "Mi a döntési főszabály az Európai Tanácsban, és mikor lép háttérbe?",
+      "options": [
+        {
+          "text": "Ha a Szerződések eltérően nem rendelkeznek, az Európai Tanács konszenzussal dönt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a konszenzus a főszabály, az eltérés a kivétel. Az EUSZ 15. cikk (4) bekezdése szerint, ha a Szerződések eltérően nem rendelkeznek, az Európai Tanács konszenzussal dönt. Ahol a Szerződés minősített többséget ír elő — például az elnök megválasztása és megbízatásának megszüntetése, vagy az EUMSZ 236. cikk határozatai —, ott a (4) bekezdés főszabálya háttérbe lép. A konszenzus nem azonos automatikusan az egyhangúság szavazásos alakzatával, amelyet az EUMSZ 235. cikk (1) bekezdése a tartózkodás szabályával külön rendez."
+        },
+        {
+          "text": "Ahol a Szerződés minősített többséget ír elő — például az elnök megválasztása és megbízatásának megszüntetése, illetve a 236. cikk határozatai —, a 15. cikk (4) bekezdése szerinti konszenzusos főszabály háttérbe lép.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főszabály a Szerződés eltérő rendelkezésénél háttérbe szorul. Az EUSZ 15. cikk (4) bekezdése a konszenzust akkor teszi főszabállyá, ha a Szerződések eltérően nem rendelkeznek. A 15. cikk (5) bekezdése az elnök megválasztását és megszüntetését minősített többséghez köti; az EUMSZ 236. cikk ugyanezt a módot írja elő a formációlista és az elnökségi határozat elfogadására. Ezeken a pontokon a konszenzus nem irányadó."
+        },
+        {
+          "text": "Az Európai Tanács minden ügyben minősített többséggel határoz, a konszenzus csak a KKBP-re korlátozódik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály fordítva áll. A helyes szabály: az EUSZ 15. cikk (4) bekezdése szerint, ha a Szerződések eltérően nem rendelkeznek, az Európai Tanács konszenzussal dönt. A minősített többség szerződéses kivétel, például a 15. cikk (5) bekezdése szerinti elnökválasztásnál. A tévedés a Tanács EUSZ 16. cikk (3) bekezdése szerinti minősített többségi főszabályának ráírásából ered."
+        },
+        {
+          "text": "A 236. cikk szerinti formációlista és elnökségi határozat is konszenzust követel, mert az Európai Tanács főszabálya minden intézményi aktusra kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a konszenzust a formációlista és az elnökségi határozat elfogadására is ráírja. Az EUMSZ 236. cikk kifejezetten minősített többséget ír elő mind az a), mind a b) pont szerinti európai tanácsi határozatra. Az EUSZ 15. cikk (4) bekezdése szerinti konszenzusos főszabály csak akkor él, ha a Szerződések eltérően nem rendelkeznek; a 236. cikk ilyen eltérés. A tévedés a konszenzusos főszabálynak a szerződéses kivételekre való kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "853f7dfb5e8a"
+    },
+    {
+      "question": "Az Európai Tanács elnökének feladataira és összeférhetetlenségére mely megállapítások helytállóak?",
+      "options": [
+        {
+          "text": "Az elnök elnököl az üléseken, gondoskodik az előkészítésről és a folyamatosságról, erőfeszítéseket tesz a kohézió és a konszenzus megteremtésére, és minden ülés után jelentést nyújt be az Európai Parlamentnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a feladatok zárt katalógusban állnak. Az EUSZ 15. cikk (6) bekezdés a) pontja szerint az elnök elnököl az üléseken, és lendületet ad a testület munkájának. A b) pont alapján a Bizottság elnökével együttműködve és az Általános Ügyek Tanácsában folytatott munka alapján gondoskodik az előkészítésről és a folyamatosságról. A c) és d) pont szerint kohéziót és konszenzust keres, valamint minden ülés után jelentést nyújt be az Európai Parlamentnek."
+        },
+        {
+          "text": "Az Európai Tanács elnöke a Külügyek Tanácsának elnöke is, és irányítja a főképviselő KKBP-beli tevékenységét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Külügyek Tanácsának elnöke a főképviselő. A helyes szabály: az EUSZ 18. cikk (3) bekezdése szerint a főképviselő a Külügyek Tanácsának elnöke; az Európai Tanács elnöke a 15. cikk (6) bekezdése szerint a KKBP külső képviseletét a saját szintjén, a főképviselő hatáskörének sérelme nélkül látja el. A három szereplő — európai tanácsi elnök, főképviselő, Külügyek Tanácsa — nem helyettesíti egymást."
+        },
+        {
+          "text": "Az Európai Tanács elnöke semmilyen nemzeti tisztséget nem tölthet be.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a funkció függetlenségét védi. Az EUSZ 15. cikk (6) bekezdésének záró mondata kógens: „Az Európai Tanács elnöke semmilyen nemzeti tisztséget nem tölthet be.” Ez elválasztja a tisztséget az EUSZ 16. cikk (9) bekezdése szerinti rotációs tanácsi elnökségtől is, amelyet tagállami képviselő visel. Az EUMSZ 243. cikk szerinti tanácsi javadalmazás ugyanezt a függetlenséget anyagi oldalon egészíti ki."
+        },
+        {
+          "text": "Az Európai Tanács elnöke egyidejűleg viselheti a küldő tagállam kormányfői tisztségét, ha a nemzeti alkotmány ezt lehetővé teszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzeti tisztség tilalma abszolút. A helyes szabály: az EUSZ 15. cikk (6) bekezdése szerint az elnök semmilyen nemzeti tisztséget nem tölthet be. A rotációs tanácsi elnökségnél az EUSZ 16. cikk (9) bekezdése szerint éppen tagállami képviselő jár el. A két modell összekeverése adja a csapdát: az állandó európai tanácsi elnök nemzeti hivataltól eltiltott, a tanácsi rotáció viszont tagállami képviselet."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "ecfca5506390"
+    },
+    {
+      "question": "A Tanács tagságának érvényességi feltételeire mi igaz?",
+      "options": [
+        {
+          "text": "A Tanácsban a tagállamot az állandó képviselő is teljes jogú tagként képviselheti, a kormány kötelezettségvállalási meghatalmazása nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a COREPER előkészít, de nem váltja ki a miniszteri tagságot. A helyes szabály: az EUSZ 16. cikk (2) bekezdése miniszteri szintű, kötelezettségvállalásra és szavazásra képes képviselőt követel; az EUMSZ 240. cikk (1) bekezdése az állandó képviselők bizottságát a munka előkészítésére és meghatározott eljárási határozatokra jogosítja. A tévedés a COREPER szerepének túlértékeléséből ered."
+        },
+        {
+          "text": "Szavazás esetén a Tanács bármely tagja legfeljebb még egy másik tag képviseletében járhat el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a meghatalmazás egyszeres, nem láncolt. Az EUMSZ 239. cikk szerint szavazás esetén a Tanács bármely tagja legfeljebb még egy másik tag képviseletében járhat el. Egy jelen lévő miniszter tehát egy távollévőt képviselhet, kettőt nem. Az EUMSZ 235. cikk (1) bekezdése ugyanezt a maximumot az Európai Tanácsra is előírja."
+        },
+        {
+          "text": "Szavazásnál egy jelen lévő tanácsi tag korlátlan számú távollévő tagot képviselhet, ha írásbeli meghatalmazással rendelkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a képviselet maximuma egyetlen további tag. A helyes szabály: az EUMSZ 239. cikk szerint a Tanács bármely tagja legfeljebb még egy másik tag képviseletében járhat el. Az EUMSZ 235. cikk (1) bekezdése ugyanezt a korlátot az Európai Tanácsra is kimondja. A csapda a nemzeti közjogi általános helyettesítési logika átvitele."
+        },
+        {
+          "text": "A Tanács a tagállamok egy-egy olyan, miniszteri szintű képviselőjéből áll, aki az általa képviselt tagállam kormánya nevében kötelezettséget vállalhat és szavazhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szint és a kötelezettségvállalási képesség együtt érvényességi mag. Az EUSZ 16. cikk (2) bekezdése szerint a Tanács a tagállamok egy-egy miniszteri szintű képviselőjéből áll, aki a kormány nevében kötelezettséget vállalhat és szavazhat. A képviselő tehát nem lehet pusztán nagyköveti vagy szakértői szintű, ha a kormányt nem tudja kötelezni. Az Állandó Képviselők Bizottsága az EUSZ 16. cikk (7) bekezdése és az EUMSZ 240. cikk szerint előkészít, de nem helyettesíti a miniszteri tagságot."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "94cd18899ad8"
+    },
+    {
+      "question": "Mely esetben nem a 16. cikk (4) bekezdése szerinti 55 százalékos küszöb irányadó a Tanács minősített többségénél?",
+      "options": [
+        {
+          "text": "Bizottsági javaslat hiányában is elegendő a tagok 55 százaléka és a népesség 65 százaléka, mert a 16. cikk (4) bekezdése minden esetben irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 16. cikk (4) bekezdése a főszabály, de a 238. cikk (2) bekezdése eltérést ad. A helyes szabály: bizottsági vagy főképviselői javaslat nélkül a minősített többséghez a tagok legalább 72 százaléka és a népesség 65 százaléka kell az EUMSZ 238. cikk (2) bekezdése szerint. A tévedés a 16. cikk (4) bekezdés záró utalásának figyelmen kívül hagyásából ered."
+        },
+        {
+          "text": "A 72 százalékos küszöb kizárólag a megerősített együttműködésben részt nem vevő tagállamok szavazatára vonatkozik, a teljes Tanácsban soha nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 72 százalék a teljes tagságú, javaslat nélküli döntés küszöbe. A helyes szabály: az EUMSZ 238. cikk (2) bekezdése a Bizottság vagy a főképviselő javaslata nélküli eljárásra emeli 72 százalékra a tagi küszöböt; a nem teljes tagságú szavazást külön a 238. cikk (3) bekezdése rendezi. A csapda a (2) és a (3) bekezdés összekeverése."
+        },
+        {
+          "text": "Ha a Tanács nem a Bizottságnak vagy a főképviselőnek a javaslata alapján jár el, a minősített többséghez a tagok legalább 72 százalékának szavazata kell, akik egyben a népesség legalább 65 százalékát képviselő tagállamokat képviselik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a javaslat nélküli út nehezebb. Az EUMSZ 238. cikk (2) bekezdése a 16. cikk (4) bekezdésétől eltérve 2014. november 1-jétől 72 százalékos tagi küszöböt és 65 százalékos népességi küszöböt ír elő, ha nincs bizottsági vagy főképviselői javaslat. A közösségi módszer — bizottsági javaslat — így a könnyebb, 55 százalékos ághoz kötött."
+        },
+        {
+          "text": "A főképviselő javaslata a 238. cikk (2) bekezdése szerinti összevetésben a „könnyebb” ágba tartozik: a 72 százalék akkor irányadó, ha a Tanács nem a Bizottság vagy a főképviselő javaslata alapján jár el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főképviselő javaslata nem esik a nehezebb küszöb alá. Az EUMSZ 238. cikk (2) bekezdése a 72 százalékos küszöböt arra az esetre szabja, amikor a Tanács nem a Bizottságnak vagy a főképviselőnek a javaslata alapján jár el. A KKBP-ben tehát a főképviselői javaslat a 16. cikk (4) bekezdése szerinti 55 százalékos logikához kapcsolódik, nem a 72 százalékoshoz."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "b4f1dda33e40"
+    },
+    {
+      "question": "Az Általános Ügyek Tanácsa és a Külügyek Tanácsa szerződéses szerepére mi igaz?",
+      "options": [
+        {
+          "text": "A Külügyek Tanácsának elnökségét a tagállamok egyenjogúságon alapuló rotációja szerint, hathónapos váltással látják el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Külügyek Tanácsa a rotáció alóli szerződéses kivétel. A helyes szabály: az EUSZ 16. cikk (9) bekezdése a formációk elnökségét a Külügyek Tanácsa kivételével a tagállami képviselőkre telepíti; az EUSZ 18. cikk (3) bekezdése szerint a főképviselő a Külügyek Tanácsának elnöke. A csapda a 9. nyilatkozat szerinti hármas rotáció ráírása e kivételre."
+        },
+        {
+          "text": "A Külügyek Tanácsa az Európai Tanács által meghatározott stratégiai iránymutatások alapján dolgozza ki az Unió külső tevékenységét, és gondoskodik az Unió tevékenységeinek összhangjáról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a külső tevékenység operatív kidolgozása a stratégiai iránymutatáshoz kötött. Az EUSZ 16. cikk (6) bekezdése ezt a feladatot a Külügyek Tanácsára telepíti. Elnöke a főképviselő az EUSZ 18. cikk (3) bekezdése szerint, nem a rotációs tagállami képviselő. A 15. cikk (1) bekezdése szerinti általános politikai irány itt a külső tevékenységre konkretizálódik."
+        },
+        {
+          "text": "Az Általános Ügyek Tanácsa és a Külügyek Tanácsa listáját az Európai Tanács a 236. cikk a) pontja szerint minősített többséggel bármikor módosíthatja vagy törölheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két formáció a Szerződésből ered, nem a listáról. A helyes szabály: az EUMSZ 236. cikk a) pontja a formációk listáját az Általános Ügyek Tanácsa és a Külügyek Tanácsa kivételével határozza meg; státuszuk az EUSZ 16. cikk (6) bekezdéséből következik. A tévedés a lista általános nyitottságának túlértelmezése."
+        },
+        {
+          "text": "Az Általános Ügyek Tanácsa gondoskodik a Tanács különböző formációiban folyó munka összhangjáról, és az Európai Tanács elnökével és a Bizottsággal kapcsolatot tartva készíti elő és követi nyomon az Európai Tanács üléseit.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a formációk közötti összhang és az európai tanácsi előkészítés intézményesített csatornája. Az EUSZ 16. cikk (6) bekezdése szerint az Általános Ügyek Tanácsa gondoskodik a különböző formációk munkájának összhangjáról. Ugyanezen bekezdés alapján az Európai Tanács elnökével és a Bizottsággal kapcsolatot tartva készíti elő és követi nyomon az Európai Tanács üléseit. Az EUSZ 15. cikk (6) bekezdés b) pontja ugyanezt az előkészítést az Európai Tanács elnökének feladataként is előírja."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "2a2ceaa66bd1"
+    },
+    {
+      "question": "Mi következik abból, ha a Tanács jogalkotási aktus tervezetéről tanácskozik vagy szavaz?",
+      "options": [
+        {
+          "text": "A nyilvánosság a jogalkotási döntéshozatali részhez kötött; a nem jogalkotási tevékenységgel foglalkozó rész ettől elválik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kétrészes ülésszerkezet a nyilvánosság intézményes eszköze. Az EUSZ 16. cikk (8) bekezdése expressis verbis elválasztja a jogalkotási döntéshozatalt a nem jogalkotási tevékenységtől. A politikameghatározási és koordinatív feladatok a 16. cikk (1) bekezdése szerint más minőségben állnak, és nem minden esetben esnek a jogalkotási nyilvánosság alá. Az EUMSZ 237. cikk ettől függetlenül a Tanács összehívását a Tanács elnökére telepíti, saját kezdeményezésre, illetve tag vagy Bizottság kérésére."
+        },
+        {
+          "text": "Az Európai Tanács jogalkotási üléseire ugyanez a 16. cikk (8) bekezdése szerinti nyilvánossági rend vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Európai Tanács nem lát el jogalkotási feladatokat. A helyes szabály: az EUSZ 15. cikk (1) bekezdése kizárja a jogalkotást, ezért az Európai Tanács ülései nem esnek a 16. cikk (8) bekezdése szerinti jogalkotási nyilvánosság alá. A csapda a két testület ülésrendjének összemosása."
+        },
+        {
+          "text": "Ilyenkor a Tanács ülései nyilvánosak, és az ülések két részre tagolódnak: uniós jogalkotási aktusokra vonatkozó döntéshozatalra és nem jogalkotási tevékenységre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalkotási nyilvánosság szerződéses. Az EUSZ 16. cikk (8) bekezdése szerint, amikor jogalkotási aktus tervezetéről tanácskoznak vagy szavaznak, az ülések nyilvánosak. Ennek érdekében az ülés két részre tagolódik. A 15. cikk (1) bekezdésének jogalkotási tilalma az Európai Tanács üléseit e nyilvánossági rend alól is kiveszi, mert ott nincs jogalkotási napirendi rész."
+        },
+        {
+          "text": "A Tanács minden ülése — ideértve a KKBP koordinációt is — teljes terjedelmében nyilvános, külön tagolás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyilvánosság a jogalkotási napirendhez kötött. A helyes szabály: az EUSZ 16. cikk (8) bekezdése a nyilvánosságot ahhoz köti, amikor jogalkotási aktus tervezetéről tanácskoznak vagy szavaznak, és az ülést e célból két részre tagolja. A tévedés a (8) bekezdés hatályának kiterjesztése a nem jogalkotási tevékenységre."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "0aca5f5f0c50"
+    },
+    {
+      "question": "Miben tér el a Tanács formációinak elnöksége a Külügyek Tanácsának elnöklésétől?",
+      "options": [
+        {
+          "text": "Minden tanácsi formáció — ideértve a Külügyek Tanácsát is — elnökségét a Bizottság elnöke látja el, a Parlament egyetértésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bizottság elnöke nem a Tanács formációinak elnöke. A helyes szabály: az EUSZ 16. cikk (9) bekezdése a rotációs tagállami elnökséget írja elő, a Külügyek Tanácsa kivételével, ahol az EUSZ 18. cikk (3) bekezdése szerint a főképviselő elnököl. A tévedés a Bizottság 17. cikk szerinti szerepének átvitele a tanácsi elnökségre."
+        },
+        {
+          "text": "A Külügyek Tanácsának elnöke az Unió külügyi és biztonságpolitikai főképviselője; a rotáció ide nem nyúlik be.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez szerződéses kivétel a rotáció alól. Az EUSZ 18. cikk (3) bekezdése szerint a főképviselő a Külügyek Tanácsának elnöke. Az EUSZ 16. cikk (9) bekezdése és az EUMSZ 236. cikk b) pontja ezt a kivételt mind az elnökség gyakorlásánál, mind az európai tanácsi határozatnál fenntartja. A Politikai és Biztonsági Bizottság elnökségét a 9. nyilatkozat szerint a főképviselő képviselője látja el."
+        },
+        {
+          "text": "A különböző formációk elnökségét — a Külügyek Tanácsának kivételével — a Tanácsban részt vevő tagállami képviselők látják el egyenjogúságon alapuló rotációs rendszer szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rotáció a főszabály, a kivétel nevesített. Az EUSZ 16. cikk (9) bekezdése a formációk elnökségét a Külügyek Tanácsa kivételével a tagállami képviselőkre telepíti, a 236. cikkben meghatározott feltételek szerint. Az EUMSZ 236. cikk b) pontja az elnökségről szóló határozatot az Európai Tanács minősített többségéhez utalja, ismét a Külügyek Tanácsa kivételével."
+        },
+        {
+          "text": "A Külügyek Tanácsának elnökségét az Általános Ügyek Tanácsát vezető tagállam képviselője gyakorolja a hármas csoport hathónapos váltása szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Általános Ügyek Tanácsának rotációja nem nyúlik át a Külügyek Tanácsára. A helyes szabály: az EUSZ 18. cikk (3) bekezdése szerint a főképviselő a Külügyek Tanácsának elnöke; a 9. nyilatkozat szerinti hármas rotáció a Külügyek Tanácsa kivételével érvényesül. A csapda a COREPER elnökségének — amelyet az Általános Ügyek Tanácsa elnökségét ellátó tagállam képviselője visel — ráírása a Külügyek Tanácsára."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "458ca9bab832"
+    },
+    {
+      "question": "Az Európai Tanács szavazására és eljárására az EUMSZ 235. cikke szerint mely állítások igazak?",
+      "options": [
+        {
+          "text": "Az Európai Tanács eljárási kérdésekben, valamint eljárási szabályzatának elfogadásakor egyszerű többséggel határoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az eljárási rend nem a konszenzusos főszabály alá esik. Az EUMSZ 235. cikk (3) bekezdése az eljárási kérdéseket és az eljárási szabályzat elfogadását egyszerű többséghez köti. Itt nem a 15. cikk (4) bekezdése szerinti konszenzus a mérce. A testület munkáját ugyanezen cikk (4) bekezdése szerint a Tanács Főtitkársága segíti."
+        },
+        {
+          "text": "Ha az Európai Tanács szavazással dönt, az Európai Tanács elnöke és a Bizottság elnöke nem szavaz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tagság nem jelent automatikus szavazati súlyt. Az EUMSZ 235. cikk (1) bekezdése szerint, amennyiben az Európai Tanács szavazással dönt, az elnöke és a Bizottság elnöke nem szavaz. A 15. cikk (2) bekezdése szerinti tagságuk tehát nem szavazati súly. Minősített többségnél a 16. cikk (4) bekezdését és a 238. cikk (2) bekezdését kell alkalmazni."
+        },
+        {
+          "text": "Szavazáskor az Európai Tanács elnöke és a Bizottság elnöke is teljes szavazati joggal rendelkezik, mert a 15. cikk (2) bekezdése szerint tagok.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szavazásból mindketten ki vannak zárva. A helyes szabály: az EUMSZ 235. cikk (1) bekezdése szerint, ha az Európai Tanács szavazással dönt, az elnöke és a Bizottság elnöke nem szavaz. A 15. cikk (2) bekezdése szerinti tagság nem egyenlő szavazati joggal. A tévedés a tagság és a szavazati jog azonosításából ered."
+        },
+        {
+          "text": "Az Európai Parlament elnöke az Európai Tanács teljes jogú, szavazati joggal rendelkező tagja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Parlament elnöke legfeljebb felszólalhat, de nem tag. A helyes szabály: az EUMSZ 235. cikk (2) bekezdése szerint az Európai Parlament elnökét fel lehet hívni arra, hogy szólaljon fel az Európai Tanácsban. A 15. cikk (2) bekezdése a tagságot az állam-, illetve kormányfőkre, a saját elnökre és a Bizottság elnökére korlátozza. A csapda a 15. cikk (6) bekezdés d) pontja szerinti utólagos jelentés túlértelmezése."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "633effc3151b"
+    },
+    {
+      "question": "Milyen határozatokat fogad el az Európai Tanács minősített többséggel a Tanács belső szerkezetéről?",
+      "options": [
+        {
+          "text": "Az Általános Ügyek Tanácsát és a Külügyek Tanácsát is az Európai Tanács 236. cikk a) pontja szerinti listája hozza létre, és ugyanígy törölheti őket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két formáció nem a lista terméke. A helyes szabály: az EUMSZ 236. cikk a) pontja a listát az Általános Ügyek Tanácsa és a Külügyek Tanácsa kivételével határozza meg. Az EUSZ 16. cikk (6) bekezdése intézményesíti e két formációt, ezért a 236. cikk a) pontja szerinti lista sem létrehozni, sem törölni nem tudja őket. A csapda a lista általános módosíthatóságának kiterjesztése a szerződéses formációkra."
+        },
+        {
+          "text": "A Tanács formációinak listáját és elnökségét a Bizottság rendeletben állapítja meg, az Európai Parlament egyetértésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatáskör az Európai Tanácsé, nem a Bizottságé. A helyes szabály: az EUMSZ 236. cikk a) és b) pontja szerint a formációk listáját és az elnökségről szóló határozatot az Európai Tanács fogadja el minősített többséggel. A tévedés a Bizottság 17. cikk szerinti javaslattevő szerepének átvitele e szervezeti döntésre."
+        },
+        {
+          "text": "Az Európai Tanács minősített többséggel fogadja el a Tanács formációinak elnökségéről szóló határozatot, a Külügyek Tanácsa kivételével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elnökség konkrét beosztása európai tanácsi határozat. Az EUMSZ 236. cikk b) pontja a 16. cikk (9) bekezdéséhez kapcsolódóan minősített többségű határozatot ír elő, a Külügyek Tanácsa kivételével. Az egyenjogúsági mérce a 16. cikk (9) bekezdésében áll; a konkrét rotáció a 236. cikk b) pontja szerinti aktusban. A döntési mód minősített többség, nem konszenzus: a 15. cikk (4) bekezdésének eltérése itt maga a 236. cikk."
+        },
+        {
+          "text": "Az Európai Tanács minősített többséggel fogadja el a Tanács formációinak listáját meghatározó határozatot, az Általános Ügyek Tanácsa és a Külügyek Tanácsa kivételével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lista európai tanácsi aktus, de a két szerződéses formáció ki van véve. Az EUMSZ 236. cikk a) pontja ezt a határozatot minősített többséghez köti. A formációk száma és elnevezése nem merev szerződéses katalógus, kivéve a két nevesített formációt. A 15. cikk (1) bekezdésének jogalkotási tilalma mellett ez intézményi határozat, nem jogalkotási aktus."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "c5ab91096071"
+    },
+    {
+      "question": "Ki hívja össze a Tanácsot, és milyen kezdeményezésre?",
+      "options": [
+        {
+          "text": "A Tanácsot saját kezdeményezésére, illetve a Tanács valamely tagja vagy a Bizottság kérésére a Tanács elnöke hívja össze.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az összehívás az elnök aktusa, de a kérés intézményes út. Az EUMSZ 237. cikk szerint a Tanácsot a Tanács elnöke hívja össze saját kezdeményezésére, illetve tag vagy Bizottság kérésére. Az elnök tehát nem csupán a rotáció címzettje: a diszkréció nála van, a kérés azonban a napirendre kerülés útja. A Külügyek Tanácsában ezt a funkciót a főképviselő viseli."
+        },
+        {
+          "text": "A Tanács üléseit kizárólag az Európai Tanács elnöke hívhatja össze, a 15. cikk (3) bekezdése szerinti rendkívüli ülés szabályai szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két összehívási hatáskör elválik. A helyes szabály: az EUMSZ 237. cikk a Tanács összehívását a Tanács elnökére telepíti, saját kezdeményezésre, illetve tag vagy Bizottság kérésére. Az EUSZ 15. cikk (3) bekezdése az Európai Tanács összehívását az Európai Tanács saját elnökére bízza. A tévedés a két elnöki tisztség és a két testület összekeveréséből ered."
+        },
+        {
+          "text": "A Tanácsot csak minősített többségű határozattal lehet összehívni, tag vagy Bizottság kérése önmagában nem elegendő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az összehívás nem minősített többségű döntés. A helyes szabály: az EUMSZ 237. cikk szerint a Tanács elnöke hívja össze saját kezdeményezésére, illetve tag vagy Bizottság kérésére. A csapda a 16. cikk (3) bekezdés döntési főszabályának ráírása az összehívás operatív aktusára."
+        },
+        {
+          "text": "A Bizottság összehívási kérése azt jelenti, hogy a Tanács nem térhet ki a napirend elől azzal, hogy az elnök egyszerűen nem hívja össze a testületet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kérés a javaslattevő szerep intézményi kiterjesztése. Az EUMSZ 237. cikk a Bizottság kérését az összehívás egyik indokává teszi. A javaslat akkor sem dől el automatikusan, ha az ülést összehívják, de a Tanács nem kerülheti el a napirendet az összehívás megtagadásával. Ez nem azonos az EUMSZ 241. cikk szerinti vizsgálati felkéréssel, amely egyszerű többségű felhívás vizsgálatra és javaslatra."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "e17f5ac4dcae"
+    },
+    {
+      "question": "A nem teljes tagságú tanácsi szavazásnál hogyan alakul a minősített többség és a blokkoló kisebbség?",
+      "options": [
+        {
+          "text": "Ha nem az összes tag vesz részt, a minősített többséghez a részt vevő tagállamokat képviselő tanácsi tagok legalább 55 százalékának szavazata kell, akik egyben e tagállamok népességének legalább 65 százalékát képviselik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a küszöb a részt vevőkön belül számít. Az EUMSZ 238. cikk (3) bekezdés a) pontja a 55/65 képletet a szavazásban részt vevő tagállamokra szabja. Ez a megerősített együttműködés és a kimaradások szavazási arányát védi. Javaslat nélküli eljárásnál a b) pont a részt vevőkön belül 72/65 küszöböt alkalmaz."
+        },
+        {
+          "text": "A blokkoló kisebbségnek legalább a részt vevő tagállamok népességének több mint 35 százalékát képviselő tagokból és még egy tagból kell állnia; ennek hiányában a minősített többséget elértnek kell tekinteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 35 százalék fölé még egy tag is kell. Az EUMSZ 238. cikk (3) bekezdés a) pontja ezt a blokkoló képletet írja elő. A teljes tagságú 16. cikk (4) bekezdés szerinti legalább négy tagos minimumtól ez elválik: itt a népességi küszöb és a „még egy tag” a mérce. Ha a blokkoló kisebbség nem áll össze, a minősített többséget elértnek kell tekinteni."
+        },
+        {
+          "text": "Nem teljes tagságú szavazásnál a minősített többséghez továbbra is az Unió teljes népességének 65 százaléka kell, a kimaradó tagállamok népességét is beleszámítva.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a népességi arány a részt vevő tagállamokra vonatkozik. A helyes szabály: az EUMSZ 238. cikk (3) bekezdés a) pontja a részt vevő tagállamok népességének legalább 65 százalékát követeli, nem az Unió teljes népességét. A tévedés a 16. cikk (4) bekezdés teljes uniós népességi küszöbének ráírása a részvételi esetkörre."
+        },
+        {
+          "text": "Nem teljes tagságú szavazásnál három részt vevő tag mindig elegendő a blokkoló kisebbséghez, a népességi aránytól függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a blokkolás itt népességi küszöbhöz és plusz egy taghoz kötött. A helyes szabály: az EUMSZ 238. cikk (3) bekezdés a) pontja szerint a blokkoló kisebbségnek a részt vevő népesség több mint 35 százalékát képviselő tagokból és még egy tagból kell állnia. A csapda a 16. cikk (4) bekezdés négytagos minimumának vagy a három nagy tagállam logikájának helytelen átvitele."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "db8706e68b6d"
+    },
+    {
+      "question": "A COREPER és a Tanács Főtitkársága szerepére mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A Tanács munkáját az általa kinevezett főtitkár irányítása alatt álló Főtitkárság segíti; a Főtitkárság szervezetét a Tanács egyszerű többséggel határozza meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főtitkár kinevezése és a szervezet a Tanácsé. Az EUMSZ 240. cikk (2) bekezdése szerint a Tanács munkáját az általa kinevezett főtitkár irányítása alatt álló Főtitkárság segíti, és a szervezetet a Tanács egyszerű többséggel határozza meg. Az egyszerű többség a 238. cikk (1) bekezdése szerinti tagok többsége: a Főtitkárság szervezete nem igényel minősített többséget. Az EUMSZ 235. cikk (4) bekezdése szerint ugyanez a Főtitkárság segíti az Európai Tanácsot is."
+        },
+        {
+          "text": "A COREPER a 16. cikk (1) bekezdése szerinti jogalkotási kérdésekben a Tanács helyett dönthet, ha az állandó képviselők egyhangúlag megállapodnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a COREPER nem váltja ki a Tanács jogalkotói hatáskörét. A helyes szabály: az EUMSZ 240. cikk (1) bekezdése az előkészítést és a megbízatások teljesítését, valamint az eljárási szabályzatban előírt eljárási határozatokat engedi; a 16. cikk (1) bekezdése szerinti jogalkotás a Tanácsé (a Parlamenttel). A tévedés az A-pontos napirendi gyakorlat túlértelmezése szerződéses hatáskörpótlássá."
+        },
+        {
+          "text": "A Tanács munkájának előkészítése és a Tanács által adott megbízatások teljesítése a tagállamok állandó képviselőiből álló bizottság feladata; a bizottság az eljárási szabályzatban előírt esetekben eljárási határozatokat fogadhat el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a COREPER szerződéses előkészítő felelősséggel bír. Az EUMSZ 240. cikk (1) bekezdése a tagállamok állandó képviselőiből álló bizottságra telepíti az előkészítést és a megbízatások teljesítését. Az eljárási határozat nem jogalkotási aktus: a 16. cikk (8) bekezdése szerinti nyilvános jogalkotási résztől elválik. A 16. cikk (7) bekezdése ugyanezt a felelősséget intézményi szinten is kimondja."
+        },
+        {
+          "text": "A Főtitkárság szervezetét az Európai Tanács elnöke határozza meg, mert a Főtitkárság mindkét testületet segíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szervezet meghatározása a Tanácsé. A helyes szabály: az EUMSZ 240. cikk (2) bekezdése szerint a Főtitkárság szervezetét a Tanács határozza meg egyszerű többséggel. Az EUMSZ 235. cikk (4) bekezdése csak annyit mond, hogy az Európai Tanács munkáját is e Főtitkárság segíti. A közös apparátus a 15. és a 16. cikk hatásköri elválasztását nem oldja fel."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "5d9c77f6b0e1"
+    },
+    {
+      "question": "Mi a jogkövetkezménye annak, ha a Tanács a Bizottságot vizsgálatokra és javaslatok benyújtására kéri fel?",
+      "options": [
+        {
+          "text": "A Tanács egyszerű többséggel felkérheti a Bizottságot, hogy végezze el a közös célkitűzések eléréséhez szükségesnek tartott vizsgálatokat, és terjesszen be hozzá megfelelő javaslatokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felkérés kétirányú: vizsgálat és javaslat. Az EUMSZ 241. cikk az egyszerű többséget a politikai nyomás eszközévé teszi: nem kell minősített többség. A 16. cikk (1) bekezdése és a 17. cikk (2) bekezdése szerinti javaslattevő monopólium nem törik át: a Tanács nem tehet a Bizottság helyett jogalkotási javaslatot, csak kérhet."
+        },
+        {
+          "text": "A Bizottság felkéréséhez minősített többség kell, mert a 16. cikk (3) bekezdése minden tanácsi döntésre ez a főszabály.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felkéréshez nem minősített többség kell. A helyes szabály: az EUMSZ 241. cikk szerint a Tanács egyszerű többséggel kérheti fel a Bizottságot vizsgálatokra és javaslatok benyújtására. A 16. cikk (3) bekezdése főszabálya a Szerződések eltérő rendelkezése mellett áll, és itt az eltérés maga a 241. cikk. A csapda a minősített többségi főszabály kiterjesztése az egyszerű többségű eljárási-politikai eszközökre."
+        },
+        {
+          "text": "Ha a Bizottság nem terjeszt elő javaslatot, ennek okairól tájékoztatja a Tanácsot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megtagadás ára az indokolási kötelezettség, nem a hatáskör átszállása. Az EUMSZ 241. cikk második mondata ezt a tájékoztatási kötelezettséget írja elő. A Bizottság függetlensége a 17. cikk (3) bekezdése szerint ettől nem csökken. A javaslattevő monopólium átláthatóvá, de nem átjárhatóvá válik."
+        },
+        {
+          "text": "Ha a Bizottság a felkérés ellenére nem tesz javaslatot, a Tanács minősített többséggel maga terjeszthet elő jogalkotási javaslatot a Parlamentnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felkérés nem törí át a javaslattevő monopóliumot. A helyes szabály: az EUMSZ 241. cikk szerint a Bizottság megtagadása esetén tájékoztatási kötelezettség áll fenn, de a Tanács nem lép a Bizottság helyébe; a 17. cikk (2) bekezdése szerinti javaslattevő szerep megmarad. A tévedés a felkérés hatáskör-átszállásként olvasásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "97e6364d5fdf"
+    },
+    {
+      "question": "A Szerződések által előírt bizottságokra vonatkozó szabályok megállapításánál mi a helyes eljárás?",
+      "options": [
+        {
+          "text": "A szerződéses bizottságok eljárási szabályait a Bizottság egyedül, rendeletben állapítja meg, a Tanács egyetértése nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a döntés a Tanácsé, nem a Bizottság egyoldalú aktusa. A helyes szabály: az EUMSZ 242. cikk szerint a Tanács a Bizottsággal folytatott konzultációt követően egyszerű többséggel határozza meg a Szerződések által előírt bizottságokra vonatkozó szabályokat. A tévedés a Bizottság 17. cikk szerinti belső szervezeti hatáskörének kiterjesztése a szerződéses bizottságokra."
+        },
+        {
+          "text": "A 242. cikk a Tanács szervezeti hatáskörét a Bizottság meghallgatásához köti, de a Bizottság belső szervezetébe — amelyet az EUSZ 17. cikk (6) bekezdése a Bizottság elnökére telepít — nem nyúlik bele.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határok élesek. Az EUMSZ 242. cikk a Szerződések által előírt bizottságok szabályait rendezi. A Bizottság belső szervezetét az EUSZ 17. cikk (6) bekezdése a Bizottság elnökére telepíti; a 242. cikk abba a rendbe nem avatkozik. Ez összhangban áll a 16. cikk (1) bekezdésének koordinatív feladatával: a bizottsági rend a Tanács munkájának kerete."
+        },
+        {
+          "text": "A Tanács a Bizottsággal folytatott konzultációt követően egyszerű többséggel határozza meg a Szerződések által előírt bizottságokra vonatkozó szabályokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a konzultáció kötelező, az egyetértés nem. Az EUMSZ 242. cikk a döntést a Tanácsnál hagyja, a Bizottság véleménye nem vétó. Az egyszerű többség a 238. cikk (1) bekezdése szerinti tagok többsége. A 242. cikk nem a 16. cikk (6) bekezdése szerinti formációkról és nem a COREPER-ről szól, hanem a szerződéses szakbizottságok eljárási rendjéről."
+        },
+        {
+          "text": "A 242. cikk szerinti szabályok elfogadásához a Bizottság egyetértése kötelező; egyetértés hiányában a Tanács nem dönthet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a konzultáció nem egyetértés. A helyes szabály: az EUMSZ 242. cikk konzultációt ír elő a Bizottsággal, de a döntést a Tanácsnál hagyja. A Bizottság véleménye nem vétó, az egyetértés hiánya önmagában nem akadályozza a tanácsi határozatot. A csapda a konzultációs és az egyetértési eljárás összekeverése."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "c517a5721565"
+    },
+    {
+      "question": "Ki határozza meg az Európai Tanács elnökének illetményét, juttatásait és nyugdíját?",
+      "options": [
+        {
+          "text": "Az Európai Tanács elnökének illetményét az Európai Tanács maga állapítja meg konszenzussal, a 15. cikk (4) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a javadalmazás nem az Európai Tanács saját döntése. A helyes szabály: az EUMSZ 243. cikk az Európai Tanács elnökének illetményét a Tanácsra — az Európai Unió Tanácsára — telepíti. A tévedés a 15. cikk szerinti intézmény önigazgatásának feltételezéséből ered."
+        },
+        {
+          "text": "A Bíróság bíráinak illetményét a küldő tagállamok határozzák meg, a bírói függetlenség nemzeti finanszírozási oldalaként.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bírói javadalmazás is a Tanács listáján van. A helyes szabály: az EUMSZ 243. cikk a Bíróság elnökeinek, bíráinak és hivatalvezetőinek illetményét, juttatásait és nyugdíját a Tanácsra telepíti. A bírói függetlenség anyagi oldala így a Tanácshoz, nem a tagállamokhoz kötődik. A csapda a nemzeti bírói fizetési modellek átvitele az uniós Bíróságra."
+        },
+        {
+          "text": "A Tanács határozza meg az Európai Tanács elnökének, a Bizottság elnökének, a főképviselőnek, a Bizottság tagjainak, az Európai Unió Bírósága elnökeinek, bíráinak és hivatalvezetőinek, valamint a Tanács főtitkárának illetményét, juttatásait és nyugdíját.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a javadalmazás egységesen a Tanács aktusa. Az EUMSZ 243. cikk ezt a vegyes listát a Tanácsra telepíti. Nem a küldő tagállam, nem az Európai Tanács és nem a Parlament állapítja meg. Az Európai Tanács elnökének anyagi státuszát tehát a 16. cikk szerinti intézmény rögzíti, a 15. cikk szerinti tisztségviselőre nézve."
+        },
+        {
+          "text": "A Tanács meghatározza továbbá minden egyéb, javadalmazás helyett fizetett juttatást is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 243. cikk második mondata a helyettesítő juttatásokat is lefedi. Az EUMSZ 243. cikk szerint a Tanács „meghatároz továbbá minden egyéb, javadalmazás helyett fizetett juttatást”. Ez kiegészíti a 15. cikk (6) bekezdése szerinti nemzeti tisztség tilalmát: az elnök nem a tagállami fizetésből él. A főtitkár javadalmazása a 240. cikk (2) bekezdése szerinti kinevezéshez kapcsolódik."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "1ab8c2602f2c"
+    },
+    {
+      "question": "Az Európai Tanács elnökének KKBP-beli külső képviselete hogyan viszonyul a főképviselő hatásköréhez?",
+      "options": [
+        {
+          "text": "Az Európai Tanács elnöke a saját szintjén és e minőségében, a főképviselő hatáskörének sérelme nélkül látja el az Unió külső képviseletét a közös kül- és biztonságpolitikához tartozó ügyekben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a képviselet szintje és a főképviselői hatáskör elválik. Az EUSZ 15. cikk (6) bekezdése ezt a megosztást expressis verbis rögzíti. Az elnök nem veszi el a 18. cikk (2) bekezdése szerinti irányítást, és nem helyettesíti a Külügyek Tanácsának elnöklését. A három szereplő — európai tanácsi elnök, főképviselő, Külügyek Tanácsa — a stratégia, a képviselet szintje és a formáció elnöklése mentén különül el."
+        },
+        {
+          "text": "A KKBP külső képviselete kizárólag a Bizottság elnökét illeti, mert a Bizottság elnöke az Európai Tanács tagja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KKBP külső képviseletét a 15. cikk (6) bekezdése az Európai Tanács elnökére telepíti a saját szintjén. A helyes szabály: az EUSZ 15. cikk (6) bekezdése a főképviselő hatáskörének sérelme nélküli európai tanácsi elnöki képviseletet ír elő; a Bizottság elnöke a 15. cikk (2) bekezdése szerint tag, de nem ez a KKBP-képviseleti jogcím. A csapda a Bizottság általános külső szerepének ráírása a KKBP-re."
+        },
+        {
+          "text": "Az Európai Tanács elnöke a főképviselő helyett elnököl a Külügyek Tanácsában, ha a napirend állam- és kormányfői szintű KKBP-kérdést tartalmaz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Külügyek Tanácsának elnöke mindig a főképviselő. A helyes szabály: az EUSZ 18. cikk (3) bekezdése szerint a főképviselő a Külügyek Tanácsának elnöke; a 15. cikk (6) bekezdése szerinti európai tanácsi elnöki képviselet a főképviselő hatáskörének sérelme nélkül, a saját szintjén érvényesül. A tévedés a „saját szint” túlértelmezése formációelnökséggé."
+        },
+        {
+          "text": "A főképviselő a 15. cikk (2) bekezdése szerint részt vesz az Európai Tanács munkájában, így a stratégiai iránymutatás e részvételen keresztül jut el hozzá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a részvétel a stratégiai csatorna, nem szavazati tagság. Az EUSZ 15. cikk (2) bekezdése a főképviselőt a munkában való részvételre utalja. A 16. cikk (6) bekezdése a Külügyek Tanácsát az Európai Tanács stratégiai iránymutatásaihoz köti. A 15. cikk (1) bekezdése szerinti általános politikai irány így a külső tevékenységre konkretizálódik."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "517825a3129b"
+    },
+    {
+      "question": "Milyen tartamban és szerkezetben működik a Tanács rotációs elnökségének hármas csoportja a 9. nyilatkozat szerint?",
+      "options": [
+        {
+          "text": "Az Állandó Képviselők Bizottságának elnökségét az Általános Ügyek Tanácsa elnökségét ellátó tagállam képviselője viseli; a Politikai és Biztonsági Bizottságét a főképviselő képviselője.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a COREPER és a PBBelnökség eltérő logikát követ. A 9. nyilatkozat az Állandó Képviselők Bizottságának elnökségét az Általános Ügyek Tanácsa elnökségét ellátó tagállam képviselőjére telepíti. A Politikai és Biztonsági Bizottság elnökségét a főképviselő képviselője látja el. Ez összeköti a 16. cikk (6) bekezdése szerinti Általános Ügyek Tanácsát a COREPER elnökségével, és megőrzi a főképviselői kivételt."
+        },
+        {
+          "text": "A Politikai és Biztonsági Bizottság elnökségét is a rotációs hármas csoport hathónapos elnöke látja el, a Külügyek Tanácsával azonos módon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a PBB elnöksége a főképviselő képviselőjénél van. A helyes szabály: a 9. nyilatkozat szerint a Politikai és Biztonsági Bizottság elnökségét a főképviselő képviselője látja el; a Külügyek Tanácsának elnöke az EUSZ 18. cikk (3) bekezdése szerint maga a főképviselő. A csapda a rotációs modell kiterjesztése a főképviselői kivételekre."
+        },
+        {
+          "text": "A hármas csoport mindhárom tagja egyszerre, közös elnökségként vezeti az összes formációt a teljes tizennyolc hónapos időszakban, váltás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a csoporton belül hathónapos váltás van, nem együttes folyamatos elnöklés. A helyes szabály: az EUSZ 16. cikk (9) bekezdése szerinti rotációt a 9. nyilatkozat úgy bontja ki, hogy a csoport tagjai a formációk elnökségét hathónapos időszakonként, egymást váltva látják el, a többiek pedig közös program alapján segítenek. Az EUMSZ 236. cikk b) pontja az elnökségről szóló határozatot az Európai Tanács minősített többségéhez utalja. A tévedés a tizennyolc hónapos csoportidőszak és a tényleges elnöklési tartam összekeverése."
+        },
+        {
+          "text": "A formációk elnökségét — a Külügyek Tanácsa kivételével — a tagállamok előre meghatározott hármas csoportjai tizennyolc hónapon keresztül látják el, a csoport tagjai pedig hathónapos időszakonként váltják egymást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rotáció egyenjogúsága operatív beosztást kap. Az EUSZ 16. cikk (9) bekezdése egyenjogúságon alapuló rotációs rendszert ír elő a formációk elnökségére, a Külügyek Tanácsa kivételével. A 9. nyilatkozat szerinti határozattervezet a feladatokat hármas csoportokban, tizennyolc hónapon át rendeli ellátni, hathónapos váltással. A csoportok összeállítása a tagállamok egyenjogúságán, a különbözőségén és a földrajzi egyensúlyon alapul."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "220e2c262e67"
+    },
+    {
+      "question": "A 7. nyilatkozat a blokkoló kisebbséghez kapcsolódó politikai mechanizmusáról mi igaz?",
+      "options": [
+        {
+          "text": "A 7. nyilatkozat a blokkoló kisebbség szerződéses minimumát három tagra csökkenti, ha a három tag az Unió népességének többségét képviseli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyilatkozat nem módosítja a négytagos minimumot. A helyes szabály: az EUSZ 16. cikk (4) bekezdése szerint a blokkoló kisebbségnek legalább négy tanácsi tagból kell állnia; a 7. nyilatkozat csak vitamechanizmust ír elő. A tévedés a politikai mechanizmus szerződéses küszöbmódosításként olvasása."
+        },
+        {
+          "text": "Ha a blokkoló kisebbséghez szükséges népesség vagy tagállamszám meghatározott hányadát képviselő tagok jelzik, hogy ellenezni kívánják az aktus minősített többségű elfogadását, a Tanács megvitatja a kérdést, és ésszerű határidőn belül kielégítő megoldást keres.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vita intézményesített, de nem emeli a szerződéses küszöböt. A 7. nyilatkozat a 16. cikk (4) bekezdése és a 238. cikk (2) bekezdése végrehajtására e politikai mechanizmust írja elő. A kötelező határidők sérelme nélkül kell megoldást keresni. Ez nem ad vétót, és a 16. cikk (4) bekezdése szerinti számítás nem módosul."
+        },
+        {
+          "text": "A 7. nyilatkozat nem emeli a szerződéses blokkoló küszöböt, és nem ad vétót; a hatályos szerződéses mérce továbbra is a 16. cikk (4) bekezdése és a 238. cikk.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nyilatkozat politikai, nem normatív küszöbemelés. A 7. nyilatkozat mechanizmusa nem módosítja az EUSZ 16. cikk (4) bekezdése szerinti számítást. A blokkoló kisebbség szerződéses minimuma továbbra is legalább négy tanácsi tag; ennek hiányában a minősített többséget elértnek kell tekinteni. A 2014–2017-es átmeneti szakaszok a nyilatkozatban elválnak, a hatályos mérce a (4) bekezdés és az EUMSZ 238. cikk."
+        },
+        {
+          "text": "A 7. nyilatkozat szerinti vita kötelező eredménye, hogy az aktust csak egyhangúsággal lehet elfogadni, ha a jelzett ellenzés fennáll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mechanizmus nem váltja egyhangúságra a minősített többséget. A helyes szabály: a 7. nyilatkozat ésszerű határidőn belüli megoldáskeresést ír elő, de nem ad vétót, és a 16. cikk (4) bekezdése szerinti számítás nem módosul. A csapda a politikai vita jogi döntési módként kezelése."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "26cbd4253d2c"
+    },
+    {
+      "question": "Egyszerű többséget igénylő tanácsi jogi aktusnál mi a döntési mérce?",
+      "options": [
+        {
+          "text": "Az eljárási szabályzat elfogadásához minősített többség kell, mert a 16. cikk (3) bekezdése minden tanácsi döntésre ez a főszabály.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az eljárási szabályzat egyszerű többségű. A helyes szabály: az EUMSZ 240. cikk (3) bekezdése szerint a Tanács eljárási kérdésekben és eljárási szabályzatának elfogadásakor egyszerű többséggel határoz; a 16. cikk (3) bekezdése a Szerződések eltérő rendelkezése mellett áll. A csapda a minősített többségi főszabály kiterjesztése az eljárási sávra."
+        },
+        {
+          "text": "A Tanács eljárási kérdésekben, valamint eljárási szabályzatának elfogadásakor egyszerű többséggel határoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az eljárási rend egyszerű többségű. Az EUMSZ 240. cikk (3) bekezdése ezt a Tanácsra mondja ki. Az EUMSZ 235. cikk (3) bekezdése ugyanezt az Európai Tanács eljárási kérdéseire és eljárási szabályzatára is előírja. A 15. cikk (4) bekezdése szerinti konszenzus és a 16. cikk (3) bekezdése szerinti minősített többség tehát nem az eljárási sáv mércéje."
+        },
+        {
+          "text": "Az egyszerű többséget igénylő jogi aktusok elfogadásakor a Tanács a tagjainak többségével jár el, nem a jelenlévők többségével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mérce a tagok számtani többsége. Az EUMSZ 238. cikk (1) bekezdése expressis verbis a Tanács tagjainak többségéhez köti az egyszerű többséget. Ez nem a jelenlévők aránya, hanem a teljes tagság számtani többsége. Az eljárási szabályzat, a Főtitkárság szervezete, valamint a 241. és a 242. cikk szerinti döntések tipikusan ebbe a sávba esnek."
+        },
+        {
+          "text": "Egyszerű többségnél elegendő a jelen lévő tanácsi tagok fele plusz egy szavazat, a távollévők figyelmen kívül hagyásával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mérce nem a jelenlévők többsége. A helyes szabály: az EUMSZ 238. cikk (1) bekezdése szerint a Tanács az egyszerű többséget igénylő jogi aktusok elfogadásakor a tagjainak többségével jár el. A távollévők tehát beleszámítanak a nevezőbe. A tévedés a parlamenti jelenléti többség logikájának átvitele a tanácsi egyszerű többségre."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "a116eb72865b"
+    },
+    {
+      "question": "A Tanács döntési főszabálya és a kivételek viszonyára mely megállapítások helytállóak?",
+      "options": [
+        {
+          "text": "A Tanács minden politikameghatározási és koordinatív döntése egyhangúságot követel, a minősített többség csak a költségvetésre vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály a minősített többség, nem az egyhangúság. A helyes szabály: az EUSZ 16. cikk (3) bekezdése szerint, ha a Szerződések eltérően nem rendelkeznek, a Tanács minősített többséggel határoz; az egyhangúság a kivétel. A tévedés a KKBP egyhangúsági esetköreinek általánosítása minden koordinatív feladatra."
+        },
+        {
+          "text": "Az egyszerű többséget a 238. cikk (1) bekezdése, a 240. cikk (2)–(3) bekezdése, a 241. és a 242. cikk tipikusan eljárási és szervezeti kérdésekre telepíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyszerű többség nem a rendes jogalkotás főútja. Az EUMSZ 238. cikk (1) bekezdése az egyszerű többség fogalmát adja. A Főtitkárság szervezete, az eljárási szabályzat, a Bizottság felkérése és a szerződéses bizottságok szabályai ebbe a sávba esnek. A jogalkotási főszabály továbbra is a 16. cikk (3)–(4) bekezdése szerinti minősített többség, ha a Szerződés nem ír elő egyhangúságot."
+        },
+        {
+          "text": "A 16. cikk (3) bekezdése a KKBP döntéseire is minősített többséget ír elő, felülírva a Szerződések eltérő rendelkezéseit.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés az eltérő szerződéses rendelkezéseket nem írja felül. A helyes szabály: az EUSZ 16. cikk (3) bekezdése a minősített többséget csak akkor teszi főszabállyá, ha a Szerződések eltérően nem rendelkeznek. A KKBP a Szerződések eltérő rendelkezései közé tartozik, ezért a (3) bekezdés nem kényszerít rá minősített többséget. A csapda a főszabály abszolutizálása."
+        },
+        {
+          "text": "Ha a Szerződések eltérően nem rendelkeznek, a Tanács minősített többséggel határoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a minősített többség a főszabály. Az EUSZ 16. cikk (3) bekezdése ezt expressis verbis kimondja. Az egyhangúság és az egyszerű többség a kivétel. A KKBP és a szerződésmódosítást érintő döntések a Szerződések eltérő rendelkezései közé tartoznak; a 16. cikk (3) bekezdése ezeket nem írja felül."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "376a98bedea5"
+    },
+    {
+      "question": "Miben tér el a Tanács 239. cikk szerinti szavazási képviselete az Európai Tanács 235. cikk (1) bekezdése szerinti párhuzamos szabályától a szavazó személye és a kizárások tekintetében?",
+      "options": [
+        {
+          "text": "A 235. cikk (1) bekezdése az Európai Tanács elnökét és a Bizottság elnökét kizárja a szavazásból; a 239. cikknek nincs ilyen kivétele, mert a Tanácsban a rotációs elnök is szavazó tag.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szavazási kivétel csak az Európai Tanácsnál áll. Az EUMSZ 235. cikk (1) bekezdése az Európai Tanács elnökét és a Bizottság elnökét veszi ki a szavazásból, amikor a testület szavazással dönt. Az EUMSZ 239. cikk a Tanács tagjainak egyszeres képviseleti maximumát rögzíti, de nem zárja ki a rotációs elnököt a szavazásból. A rotációs tanácsi elnök tehát szavazó tag marad, szemben az Európai Tanács állandó elnökével."
+        },
+        {
+          "text": "Mindkét szabály szerint a képviselet legfeljebb még egy másik tagra terjedhet; a különbség a szavazó személye: az Európai Tanácsban az állam- vagy kormányfő, a Tanácsban a 16. cikk (2) bekezdése szerinti miniszteri képviselő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a maximum azonos, a szavazó személye más. Az EUMSZ 239. cikk és a 235. cikk (1) bekezdése azonos mondatszerkezetű egyszeres maximumot állít. Az Európai Tanácsban a 15. cikk (2)–(3) bekezdése szerinti állam- vagy kormányfő szavaz; a Tanácsban a 16. cikk (2) bekezdése szerinti miniszteri képviselő. A párhuzamos szerkezet szándékos."
+        },
+        {
+          "text": "A Tanácsban a rotációs elnök nem szavazhat, mert a 235. cikk (1) bekezdése szerinti kizárás a 239. cikkre is kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 235. cikk (1) bekezdése szerinti kivételt a Tanácsra írja rá. Az EUMSZ 239. cikknek nincs ilyen kizárása; a rotációs elnök szavazó tag. A tévedés a két intézmény szavazási kivételeinek összekeveréséből ered."
+        },
+        {
+          "text": "Az Európai Tanácsban a képviseleti maximum három további tag, a Tanácsban csak egy, mert a 15. cikk (3) bekezdése szerinti miniszteri segítség tágítja a 235. cikket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a maximumot feloldja és a segítséget képviseletté torzítja. Az EUMSZ 235. cikk (1) bekezdése és a 239. cikk egyaránt legfeljebb még egy másik tag képviseletét engedi. A 15. cikk (3) bekezdése szerinti miniszteri segítség nem helyettesítés és nem tágítja a képviseleti maximumot. A tévedés a segítség és a szavazási meghatalmazás összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "d03c03c05c4f"
+    },
+    {
+      "question": "Az Európai Tanács és a Tanács elhatárolásánál mely ismérvek a szerződéses különbség tengelyei?",
+      "options": [
+        {
+          "text": "Az Európai Tanács a Tanács felettes fóruma, ezért a Tanács jogalkotási aktusait az Európai Tanács rendszeresen felülvizsgálja és módosítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, nincs ilyen felettes jogalkotói viszony. A helyes szabály: az EUSZ 15. cikk (1) bekezdése kizárja az Európai Tanács jogalkotását; a jogalkotás a 16. cikk (1) bekezdése szerint a Tanács és a Parlament feladata. A kapcsolódás az előkészítésben, az apparátusban és a szavazási képletben áll, nem hatásköri felülvizsgálatban. A csapda a politikai hierarchia jogi hatáskörré olvasása."
+        },
+        {
+          "text": "A döntési főszabály és az elnökség is elválik: az Európai Tanácsban a konszenzus és az állandó, minősített többséggel választott elnök; a Tanácsban a minősített többség és a formációk rotációs elnöksége, a Külügyek Tanácsa főképviselői kivételével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harmadik és negyedik tengely. Az EUSZ 15. cikk (4)–(5) bekezdése a konszenzust és az állandó elnököt adja; a 16. cikk (3) és (9) bekezdése a minősített többséget és a rotációt. A tagság szintje — állam-, illetve kormányfők versus miniszteri képviselők — a második tengely. A nyilvánosság ötödik tengelye: a Tanács jogalkotási ülése a 16. cikk (8) bekezdése szerint nyilvános és kétrészes."
+        },
+        {
+          "text": "A két testület hatásköre azonos, a különbség csupán az ülésezés gyakoriságában áll: az Európai Tanács ritkábban, a Tanács gyakrabban ülésezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a különbség hatásköri, nem csupán ütemezési. A helyes szabály: az EUSZ 13. cikke két intézményt sorol fel; a 15. és a 16. cikk eltérő funkciót, tagságot, döntési főszabályt, elnökséget és nyilvánosságot rendel. A tévedés a 15. cikk (3) bekezdése szerinti félévente kétszeri ülésezés túlértékelése a hatásköri dualizmus helyett."
+        },
+        {
+          "text": "A funkció elválik: az Európai Tanács ösztönzést és általános politikai irányokat ad, jogalkotási feladatot nem lát el; a Tanács az Európai Parlamenttel közösen jogalkotó és költségvetési hatóság.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez az első tengely. Az EUSZ 15. cikk (1) bekezdése az ösztönzést és az irányokat az Európai Tanácshoz rendeli, és kizárja a jogalkotást. Az EUSZ 16. cikk (1) bekezdése a jogalkotási és költségvetési feladatokat a Tanácsra (a Parlamenttel) telepíti. A politikameghatározási és koordinatív feladatok a Tanácsnál a Szerződések feltételei szerint állnak, nem a 15. cikk szerinti általános iránymutatásként."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "69f3cbbcf379"
+    },
+    {
+      "question": "A Lisszaboni Szerződés utáni intézményi katalógusban hogyan jelenik meg az Európai Tanács és a Tanács elválasztása?",
+      "options": [
+        {
+          "text": "A Lisszaboni Szerződés óta az Európai Tanács elnöke azonos a Tanács féléves rotációs elnökével, hogy a két testület vezetése egységes legyen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két elnökség elválik. A helyes szabály: az EUSZ 15. cikk (5) bekezdése szerint az Európai Tanács elnökét minősített többséggel, két és fél évre választják. A Tanács formációinak elnöksége a 16. cikk (9) bekezdése szerint rotációs, a Külügyek Tanácsa kivételével. Az állandó európai tanácsi elnök nem azonos a Tanács féléves rotációs elnökségével, és nem a Bizottság elnöke."
+        },
+        {
+          "text": "Az Európai Tanácsra az EUMSZ 235–236. cikk, a Tanácsra az EUMSZ 237–243. cikk adja a részletes működési rendet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a működési részletszabályok szétválnak. Az EUMSZ 235–236. cikke az Európai Tanács szavazását, eljárását, a Főtitkárságot, valamint a formációk és az elnökség európai tanácsi határozatait rendezi. Az EUMSZ 237–243. cikke a Tanács összehívását, szavazási mátrixát, képviseletét, a COREPER-t, a Bizottság felkérését, a szerződéses bizottságokat és a javadalmazást. A két testület hatásköre elválik, az előkészítés és az apparátus összeköti őket."
+        },
+        {
+          "text": "Az EUSZ 13. cikke az Európai Tanácsot a Tanács egyik formációjaként említi, ezért a 16. cikk szabályai az Európai Tanácsra is irányadók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két testület nem formáció-viszonyban áll. A helyes szabály: az EUSZ 13. cikke az Európai Tanácsot és a Tanácsot külön intézményként nevezi meg. Az EUSZ 15. és 16. cikke eltérő statútumot ad nekik, funkcióval, tagsággal és döntési főszabállyal. A tévedés a formációk 16. cikk (6) bekezdése szerinti belső szerkezetének ráírása az intézményi katalógusra."
+        },
+        {
+          "text": "Az EUSZ 13. cikke az Unió intézményi keretében külön intézményként sorolja fel az Európai Tanácsot és a Tanácsot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megkülönböztetés nem stilisztikai. Az EUSZ 13. cikke a két testületet külön intézményként nevezi meg. A Lisszaboni Szerződés az Európai Tanácsot e katalógusba emelte, és állandó elnököt adott neki. A magyar jogi nyelvben az elnevezések összecsúszhatnak; a Szerződések dogmatikája éppen ezt az összemosást zárja ki."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "9d4a134a826a"
+    }
+  ]
+}

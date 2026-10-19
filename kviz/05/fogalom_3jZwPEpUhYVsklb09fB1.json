@@ -1,0 +1,738 @@
+{
+  "id": "3jZwPEpUhYVsklb09fB1",
+  "sorszam": 5,
+  "cim": "Az Európai Parlament összetétele, tagjainak választása, működése és (...)",
+  "generationType": "fogalom",
+  "title": "5. Az Európai Parlament összetétele, tagjainak választása, működése és (...)",
+  "questions": [
+    {
+      "question": "Mit rendel az EUSZ a Parlament jogalkotási és költségvetési szerepéről, és milyen személyi hatalmi ágat kapcsol ehhez?",
+      "options": [
+        {
+          "text": "A Parlament a Tanáccsal közösen látja el a jogalkotási és költségvetési feladatokat, és megválasztja a Bizottság elnökét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lisszaboni együttdöntés intézményi magja a közös jogalkotás és költségvetés. Az EUSZ 14. cikk (1) bekezdése szerint: „Az Európai Parlament, a Tanáccsal közösen, ellátja a jogalkotási és költségvetési feladatokat.” Ugyanezen bekezdés rögzíti, hogy a Parlament megválasztja a Bizottság elnökét, ami a végrehajtó testület politikai felelősségének első láncszeme. A politikai ellenőrzési és konzultatív feladatok ehhez képest csak a Szerződésekben meghatározott feltételek szerint illetik meg."
+        },
+        {
+          "text": "Az Európai Tanács a 15. cikk (1) bekezdése szerint nem lát el jogalkotási feladatokat, szemben a Parlament–Tanács közös tengellyel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalkotás intézményi elhatárolása szándékos. Az EUSZ 15. cikk (1) bekezdése az Európai Tanácsot kifejezetten eltiltja a jogalkotási feladat ellátásától. Az EUSZ 16. cikk (1) bekezdése szimmetrikusan a Tanács oldaláról is kimondja a Parlamenttel közös jogalkotási és költségvetési feladatot. A 14. cikk (2) bekezdése szerinti helykiosztási határozat e tilalom alóli, egyhangúsághoz és parlamenti egyetértéshez kötött kivételes intézményi aktus, nem rendes jogalkotás."
+        },
+        {
+          "text": "A Parlament egyedül, a Tanács nélkül alkotja meg a költségvetést, mert a polgári képviselet ezt megköveteli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közös feladatot egyoldalú parlamenti hatáskörré torzítja. Az EUSZ 14. cikk (1) bekezdése a jogalkotási és költségvetési feladatokat a Tanáccsal közösen telepíti a Parlamentre. Az EUSZ 16. cikk (1) bekezdése ugyanezt a Tanács oldaláról ismétli: a Tanács az Európai Parlamenttel közösen látja el e feladatokat. A tévedés forrása a nemzeti parlamentek költségvetési elsőbbségének ráírása az uniós intézményi tengelyre."
+        },
+        {
+          "text": "A Bizottság elnökét a Parlament helyett az Európai Tanács választja meg minősített többséggel, a Parlamentnek csak véleményezési joga van.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a választás alanyát cseréli fel. Az EUSZ 14. cikk (1) bekezdése szerint a Parlament választja meg a Bizottság elnökét. Az EUSZ 17. cikk (7) bekezdése szerint az Európai Tanács minősített többséggel javaslatot tesz, a jelöltet pedig a Parlament tagjainak többségével választja meg. A tévedés a javaslattevő és a választó intézmény felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "09e3bf85b7d4"
+    },
+    {
+      "question": "Milyen létszámkeretet és helykiosztási elveket rögzít az EUSZ a Parlament összetételére?",
+      "options": [
+        {
+          "text": "A képviselők száma — az elnököt nem számítva — nem haladhatja meg a hétszázötvenet, és a képviselet arányosan csökkenő módon valósul meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a plafon és az arányosan csökkenő elv együtt zárja a létszámot. Az EUSZ 14. cikk (2) bekezdése szerint a képviselők száma az elnököt nem számítva nem haladhatja meg a hétszázötvenet. Ugyanezen bekezdés kimondja: a polgárok képviselete arányosan csökkenő módon valósul meg. A képviselői minőség az Unió polgáraihoz, nem a tagállami kormányokhoz kötődik."
+        },
+        {
+          "text": "Tagállamonként legalább hat képviselői hely jár, és egyik tagállamnak sem lehet több, mint kilencvenhat helye.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alsó és a felső tagállami küszöb kógens. Az EUSZ 14. cikk (2) bekezdése szerint a tagállamonkénti alsó küszöbérték legalább hat tag, és egyik tagállamnak sem lehet több, mint kilencvenhat képviselői helye. Az összetételt az Európai Tanács a Parlament kezdeményezésére és vele egyetértésben, egyhangúlag elfogadott határozatban állapítja meg. Az alapelvek — arányosan csökkenő képviselet, hat–kilencvenhat sáv, hétszázötvenes plafon — e határozat keretei."
+        },
+        {
+          "text": "A helyek kiosztását a Bizottság rendeleti javaslatára a Tanács minősített többséggel állapítja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a döntéshozó intézményt és az eljárást is elcsúsztatja. Az EUSZ 14. cikk (2) bekezdésének második albekezdése szerint az Európai Tanács a Parlament kezdeményezésére és vele egyetértésben, egyhangúlag elfogadott határozatban határozza meg az összetételt. Nem a Bizottság rendeleti javaslatáról, és nem a Tanács minősített többségéről van szó. A tévedés a rendes jogalkotási pálya ráírásából ered egy alkotmányos súlyú, egyhangú európai tanácsi aktusra."
+        },
+        {
+          "text": "A Parlament létszáma az elnököt is beleértve pontosan hétszázötven fő, és a helyek népességarányos egyenlő elosztásúak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a plafont kötelező állománnyá, az arányosan csökkenő elvet pedig egyenlő elosztássá torzítja. Az EUSZ 14. cikk (2) bekezdése felső határt ad: a szám az elnököt nem számítva nem haladhatja meg a hétszázötvenet, nem ír elő pontosan hétszázötven fős állományt. A képviselet arányosan csökkenő módon valósul meg, nem népességarányos egyenlő helykiosztással. A tévedés a „nem haladhatja meg” fordulat félreolvasásából és a degresszív elv figyelmen kívül hagyásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "4cbf5e0a2e79"
+    },
+    {
+      "question": "Mely ismérvek szerint választják az Európai Parlament tagjait?",
+      "options": [
+        {
+          "text": "A választási ismérvek kizárólag nemzeti alkotmányos kérdésként maradnak, uniós szerződési keret nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a választás uniós szerződési ismérveit nemzeti belügynek minősíti, holott azok az EUSZ-ben állnak. Az EUSZ 14. cikk (3) bekezdése uniós szinten rögzíti a közvetlen és általános választójogot, a szabad és titkos választást és az ötéves időtartamot. Az EUMSZ 223. cikk (1) bekezdése ehhez képest az egységes eljárás vagy a közös elvek uniós megalkotásának módját adja. A tévedés a nemzeti választójogi alap védelmét (UK-nyilatkozat) összekeveri a szerződési ismérvek teljes hiányával."
+        },
+        {
+          "text": "A tagokat közvetlen és általános választójog alapján, szabad és titkos választásokon, ötéves időtartamra választják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a választás négy ismérve szerződési szintű. Az EUSZ 14. cikk (3) bekezdése szerint: „Az Európai Parlament tagjait közvetlen és általános választójog alapján, szabad és titkos választásokon, ötéves időtartamra választják.” A megbízatás időtartama így megegyezik a Bizottság EUSZ 17. cikk (3) bekezdése szerinti ötéves hivatali idejével. A belső tisztségviselők megválasztását ehhez képest a 14. cikk (4) bekezdése a tagok közül a Parlament autonómiájába utalja."
+        },
+        {
+          "text": "A képviselőket a tagállami kormányok jelölik ki négyéves időtartamra, közvetett módon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a közvetlenséget és az időtartamot is elrontja. Az EUSZ 14. cikk (3) bekezdése közvetlen és általános választójogot, valamint ötéves — nem négyéves — időtartamot ír elő. A 14. cikk (2) bekezdése a képviselői minőséget az Unió polgáraihoz, nem a tagállami kormányokhoz köti. A tévedés a Tanács kormányközi összetételének ráírásából ered a polgári képviseletre."
+        },
+        {
+          "text": "A választási ismérvek uniós szerződési szinten állnak: a 14. cikk (3) bekezdése rögzíti őket, nem hagyja pusztán nemzeti alkotmányos belügynek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a választás négy ismérve és az ötéves tartam uniós szerződési szinten áll, nem csupán nemzeti belügyként. Az EUSZ 14. cikk (3) bekezdése uniós szinten írja elő a közvetlen és általános választójogot, a szabad és titkos választást, valamint az ötéves időtartamot. Az EUMSZ 223. cikk (1) bekezdése ehhez képest az egységes eljárás vagy a közös elvek megalkotásának módját adja, tanácsi egyhangúsággal és tagállami alkotmányos jóváhagyással. A nemzeti választójogi alap védelme (UK-nyilatkozat) az ismérvek értelmezési határa, nem az ismérvek pótlása."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "fa2cd7c6cf76"
+    },
+    {
+      "question": "Hogyan dől el a Parlament összetételének meghatározása az EUSZ szerint?",
+      "options": [
+        {
+          "text": "A helyek elosztásáról a Bíróság teljes ülésben dönt, ha a tagállamok nem jutnak egyezségre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróságnak nincs ilyen helykiosztási hatásköre. Az EUSZ 14. cikk (2) bekezdése az Európai Tanács egyhangú, parlamenti egyetértéshez kötött határozatát rendeli. A Bíróság teljes üléses eljárása az ombudsman EUMSZ 228. cikk (2) bekezdése szerinti felmentésénél jelenik meg, nem a képviselői helyek elosztásánál. A tévedés a 228. cikk bírói aktusának ráírásából ered a 14. cikk intézményi határozatára."
+        },
+        {
+          "text": "Az átmeneti rendelkezésekről szóló (36.) jegyzőkönyv 2. cikke előírta, hogy az Európai Tanács a 2014-es választásokat megelőzően kellő időben határozatot fogadjon el a tagok számáról és elosztásáról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jegyzőkönyv a 14. cikk (2) bekezdésének második albekezdésével összhangban időzítette a helykiosztási döntést. Ugyanezen jegyzőkönyv a 2009–2014-es időszakra ideiglenesen 754 fős összlétszámot engedett a 736 hely további 18 hellyel való emelésével. A (3) bekezdéstől eltérően az érintett tagállamok e helyeket ad hoc választással, a 2009. júniusi eredmény alapján vagy a nemzeti parlament saját képviselői közül is kijelölhették. A 2014 előtti európai tanácsi határozat tehát a lisszaboni plafon és a választási valóság közötti átmenet záróeleme volt."
+        },
+        {
+          "text": "Az összetételt a Parlament saját eljárási szabályzatában, a leadott szavazatok egyszerű többségével állapítja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a házszabályi autonómiát összetéveszti az összetétel meghatározásával. Az EUSZ 14. cikk (2) bekezdése szerint az összetételt az Európai Tanács egyhangú határozata rögzíti, parlamenti kezdeményezéssel és egyetértéssel. Az EUMSZ 232. cikk szerinti eljárási szabályzat a működési rendet — például a határozatképességet — kodifikálja, nem a helyek tagállamok közötti kiosztását. A tévedés a 232. cikk többségi küszöbének ráírásából ered a 14. cikk alkotmányos aktusára."
+        },
+        {
+          "text": "Az Európai Tanács a Parlament kezdeményezésére és vele egyetértésben, egyhangúlag elfogadott határozatban határozza meg az összetételt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez ritka, alkotmányos súlyú aktus. Az EUSZ 14. cikk (2) bekezdésének második albekezdése szerint az Európai Tanács a Parlament kezdeményezésére és vele egyetértésben, az első albekezdés alapelveinek tiszteletben tartásával egyhangúlag elfogadott határozatban állapítja meg az összetételt. Az alapelvek közé tartozik az arányosan csökkenő képviselet, a legalább hat és legfeljebb kilencvenhat hely, valamint a hétszázötvenes plafon. A határozat nem rendes jogalkotás, noha az Európai Tanácsot a 15. cikk (1) bekezdése egyébként eltiltja a jogalkotástól."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "36c5baef0c5b"
+    },
+    {
+      "question": "Mi a Bizottság elnökének megválasztására vonatkozó eljárási lánc az EUSZ szerint?",
+      "options": [
+        {
+          "text": "Ha a jelölt nem kapja meg a szükséges többséget, az Európai Tanács egy hónapon belül új jelöltet javasol minősített többséggel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kudarc nem zárja le a pályát, hanem új javaslatot indít. Az EUSZ 17. cikk (7) bekezdése szerint ilyenkor az Európai Tanács minősített többséggel egy hónapon belül új jelöltet javasol, akit a Parlament ugyanazon eljárás szerint választ meg. Az elnöknek, a főképviselőnek és a Bizottság többi tagjának mint testületnek a jóváhagyásáról a Parlament szavaz. E jóváhagyás alapján a Bizottságot az Európai Tanács nevezi ki minősített többséggel."
+        },
+        {
+          "text": "Sikertelen szavazás után a Bizottság elnökét a Tanács egyhangú határozattal nevezi ki, parlamenti újraszavazás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás megkerüli a parlamenti választást. Az EUSZ 17. cikk (7) bekezdése szerint új jelöltet kell javasolni, akit a Parlament ugyanazon eljárás szerint választ meg. A Bizottság kinevezése csak a testület parlamenti jóváhagyása után, az Európai Tanács minősített többségű aktusával történik. A tévedés a Tanács egyhangúságát (például a 223. cikk választási pályáját) írja rá az elnökválasztásra."
+        },
+        {
+          "text": "A jelöltet a Parlament a leadott szavazatok egyszerű többségével választja meg, a tartózkodások beleszámítanak a nevezőbe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 231. cikk főszabályát írja rá az elnökválasztásra. Az EUSZ 17. cikk (7) bekezdése a Parlament tagjainak többségét követeli, nem a leadott szavazatok többségét. Az EUMSZ 231. cikk szerinti leadott-szavazatos főszabály csak akkor érvényes, ha a Szerződések másként nem rendelkeznek. A tévedés a 231. cikk általános küszöbének összekeveréséből ered a 17. cikk abszolút tagtöbbségével."
+        },
+        {
+          "text": "Az Európai Tanács minősített többséggel javaslatot tesz, a jelöltet a Parlament tagjainak többségével választja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a javaslat és a választás két külön intézményi aktus. Az EUSZ 17. cikk (7) bekezdése szerint az európai parlamenti választások figyelembevételével és a megfelelő egyeztetések után az Európai Tanács minősített többséggel javaslatot tesz a Parlamentnek. A jelöltet a Parlament tagjainak többségével választja meg. Ez a 14. cikk (1) bekezdésének elnökválasztási mondatát eljárási alakba önti."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "4b7ad7ac5aac"
+    },
+    {
+      "question": "Miben tér el a választási eljárás uniós megalkotása a rendes együttdöntéstől?",
+      "options": [
+        {
+          "text": "A választási eljárást a Parlament és a Tanács rendes jogalkotási eljárásban, minősített többséggel elfogadott rendelettel állapítja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 224. cikk rendes pályáját írja rá a 223. cikkre. Az EUMSZ 223. cikk (1) bekezdése különleges jogalkotási eljárást és tanácsi egyhangúságot követel, tagállami alkotmányos jóváhagyással. Az európai szintű politikai pártok finanszírozása (EUMSZ 224. cikk) ezzel szemben rendes jogalkotási eljárásban, rendeletekkel dől el. A tévedés a két különleges–rendes pálya összekeveréséből ered."
+        },
+        {
+          "text": "A Bizottság kizárólagos javaslattételi joga a választási eljárás megalkotására is kiterjed, a Parlament csak véleményez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a választási eljárás megalkotásánál a javaslat a Parlamenté, nem a Bizottságé. Az EUMSZ 223. cikk (1) bekezdése szerint a Parlament dolgoz ki javaslatot a választáshoz szükséges intézkedésekre. Az EUSZ 17. cikk (2) bekezdése szerinti bizottsági javaslatmonopólium csak akkor érvényes, ha a Szerződések eltérően nem rendelkeznek — itt eltérően rendelkeznek. A tévedés az általános kezdeményezési monopólium ráírásából ered a választójogi különleges pályára."
+        },
+        {
+          "text": "A Parlament javaslatot dolgoz ki, a Tanács különleges jogalkotási eljárásban egyhangúlag állapítja meg a rendelkezéseket a Parlament tagtöbbségi egyetértése után.",
+          "isCorrect": true,
+          "rationale": "IGAZ, itt a Parlament a javaslat gazdája, nem a Bizottság. Az EUMSZ 223. cikk (1) bekezdése egységes eljárást vagy valamennyi tagállamban közös elveket ír elő, közvetlen és általános választójog alapján. A Tanács a Parlamentnek a tagjai többségével elfogadott egyetértését követően, különleges jogalkotási eljárásban egyhangúlag állapítja meg a szükséges rendelkezéseket. Ez eltér a 14. cikk (1) bekezdésének rendes együttdöntési főszabályától."
+        },
+        {
+          "text": "A rendelkezések csak azt követően lépnek hatályba, hogy azokat a tagállamok saját alkotmányos követelményeiknek megfelelően jóváhagyták.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatálybalépés harmadik zára a tagállami alkotmányos jóváhagyás. Az EUMSZ 223. cikk (1) bekezdése hármas legitimációs láncot ad: parlamenti javaslat és egyetértés, tanácsi egyhangúság, majd tagállami ratifikáció. A nemzeti alkotmányos identitás így őrködik a választójogi szabály felett. A pálya ezért nem zárul le uniós intézményközi aktussal."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "a878054d5492"
+    },
+    {
+      "question": "Milyen eljárási zárak kötik a képviselői statútum megalkotását?",
+      "options": [
+        {
+          "text": "A Parlament saját kezdeményezésű, különleges jogalkotási eljárásban elfogadott rendeletekben határozza meg a tagok feladatellátásának szabályait, a Bizottság véleménye és a Tanács egyetértése mellett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a képviselői jogállás intézményi önszabályozás, de nem korlátlan. Az EUMSZ 223. cikk (2) bekezdése szerint a Parlament saját kezdeményezésére, különleges jogalkotási eljárás keretében elfogadott rendeletekben, a Bizottság véleményének kikérése után és a Tanács egyetértésével állapítja meg a szabályokat. A Tanács egyetértése nélkül a rendelet nem zárul. Ez a pálya is eltér a 14. cikk (1) bekezdésének rendes együttdöntésétől."
+        },
+        {
+          "text": "Az adózási szabályokat a Parlament a leadott szavazatok többségével, tanácsi egyetértés nélkül véglegesítheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az adózásnál a Tanács egyhangúsága kógens. Az EUMSZ 223. cikk (2) bekezdése szerint a tagok vagy volt tagok adózására vonatkozó bármilyen szabály esetén a Tanács egyhangú határozata szükséges. A 231. cikk leadott-szavazatos főszabálya nem oldja fel ezt a különleges zárat. A tévedés a házszabályi vagy általános szavazási küszöb ráírásából ered a fiskális egyhangúságra."
+        },
+        {
+          "text": "A tagok vagy volt tagok adózására vonatkozó bármely szabálynál a Tanács egyhangú határozata szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az adózásnál a Tanács vétója szigorúbb az egyszerű egyetértésnél. Az EUMSZ 223. cikk (2) bekezdése kifejezetten egyhangú tanácsi határozatot követel a tagok vagy volt tagok adózására vonatkozó bármilyen szabály vagy feltétel esetén. Ez tagállami fiskális vétó a képviselői statútumban. A választási eljárás hármas zárához képest itt nincs tagállami alkotmányos ratifikáció, de az adózási egyhangúság ugyanezt a nemzeti érzékenységet védi."
+        },
+        {
+          "text": "A képviselői statútumot a Tanács egyedül, rendeleti formában alkotja meg, a Parlament meghallgatása után.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kezdeményezőt és a döntéshozót felcseréli. Az EUMSZ 223. cikk (2) bekezdése szerint a Parlament a saját kezdeményezésű rendelet gazdája, a Tanács egyetértése — adózásnál egyhangúsága — a korlát. A Bizottság véleményét ki kell kérni, de a javaslat nem a Bizottságé. A tévedés a Tanács kormányközi túlsúlyának ráírásából ered a képviselői önszabályozásra."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "ef4f0a01252f"
+    },
+    {
+      "question": "Mely eljárás szabályozza az európai szintű politikai pártokra vonatkozó uniós előírásokat?",
+      "options": [
+        {
+          "text": "A Parlament és a Tanács rendes jogalkotási eljárás keretében elfogadott rendeletekben határozza meg a szabályokat, különösen a finanszírozást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a pártfinanszírozás a közös módszerre — a rendes jogalkotásra — van bízva. Az EUMSZ 224. cikk az EUSZ 10. cikk (4) bekezdésében említett európai szintű politikai pártokra irányadó szabályokat rendeleti formában állapítja meg. A rendeletforma egységes alkalmazást kíván. Ami a 223. cikknél alkotmányos zár, az itt tudatosan a közös eljárási pálya."
+        },
+        {
+          "text": "Az európai szintű pártok szabályait kizárólag a Bizottság delegált rendeletben alkothatja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 224. cikk a Parlamentet és a Tanácsot rendeli jogalkotónak. Az EUMSZ 224. cikk szerint a szabályokat a Parlament és a Tanács rendes jogalkotási eljárás keretében elfogadott rendeletekben határozza meg. Nincs szó bizottsági delegált rendeletről mint kizárólagos eszközről. A tévedés a végrehajtó jogalkotás ráírásából ered a szerződési szintű rendes pályára."
+        },
+        {
+          "text": "A 224. cikk nem magát az EUSZ 10. cikk (4) bekezdését ismétli, hanem annak intézményi utalását tölti ki anyagi és pénzügyi szabállyal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szerződési hely funkciója elválik. Az EUSZ 10. cikk (4) bekezdése a pártok politikai szerepét nevezi meg; az EUMSZ 224. cikk a rájuk irányadó — különösen finanszírozási — előírások megalkotásának eljárását adja. A Parlament és a Tanács együtt, rendes jogalkotási eljárásban alkot. A választási eljárás 223. cikk szerinti hármas zára ide nem települ."
+        },
+        {
+          "text": "Az európai pártok finanszírozását a Tanács egyhangúlag, a Parlament egyetértése és a tagállami ratifikáció után állapítja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 223. cikk (1) bekezdésének hármas zárát írja rá a 224. cikkre. Az EUMSZ 224. cikk rendes jogalkotási eljárást és rendeleti formát ír elő, nem tanácsi egyhangúságot és nem tagállami alkotmányos jóváhagyást. A tévedés a választójogi különleges pálya és a pártfinanszírozási rendes pálya összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "092a172ad3ed"
+    },
+    {
+      "question": "Mikor és milyen küszöbbel kérheti fel a Parlament a Bizottságot javaslat előterjesztésére?",
+      "options": [
+        {
+          "text": "Ha a Bizottság nem terjeszt elő javaslatot, ennek okairól tájékoztatja a Parlamentet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság megtagadása nem hallgatás, hanem indokolási kötelezettség. Az EUMSZ 225. cikk szerint: ha a Bizottság nem terjeszt elő javaslatot, ennek okairól tájékoztatja az Európai Parlamentet. Az indokolási kötelezettség politikai felelősség, nem pótkezdeményezés. A Parlament tehát nem lép a Bizottság helyébe, még sikeres felkérés után sem."
+        },
+        {
+          "text": "A felkéréshez elegendő a leadott szavazatok egyszerű többsége, a tartózkodások figyelmen kívül hagyásával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felkéréshez a Parlament tagjainak többsége kell, nem a leadott szavazatoké. Az EUMSZ 225. cikk szerint a Parlament a tagjainak többségével kérheti fel a Bizottságot. Az EUMSZ 231. cikk leadott-szavazatos főszabálya csak akkor él, ha a Szerződések másként nem rendelkeznek — itt másként rendelkeznek. A tévedés a 231. cikk általános küszöbének ráírásából ered a közvetett kezdeményezésre."
+        },
+        {
+          "text": "Ha a Bizottság elutasítja a felkérést, a Parlament saját rendeleti javaslattal léphet a helyébe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Parlament nem pótolja a bizottsági javaslatot. Az EUMSZ 225. cikk csak tájékoztatási kötelezettséget ró a Bizottságra, ha nem terjeszt elő javaslatot. Az EUSZ 17. cikk (2) bekezdése szerinti javaslatmonopólium érintetlen marad. A tévedés a 223. cikk (1) bekezdésének parlamenti javaslatgazdai szerepét írja rá a 225. cikk felkérési eszközére."
+        },
+        {
+          "text": "A Parlament a tagjainak többségével felkérheti a Bizottságot megfelelő javaslat előterjesztésére, ha megítélése szerint a Szerződések végrehajtása uniós jogi aktust tesz szükségessé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a bizottsági javaslatmonopólium parlamenti ellensúlya. Az EUMSZ 225. cikk a tagok többségét követeli — szigorúbb küszöb, mint az EUMSZ 231. cikk leadott szavazatokra épülő főszabálya. Az EUSZ 17. cikk (2) bekezdése szerint főszabályként az Unió jogalkotási aktusait kizárólag a Bizottság javaslata alapján lehet elfogadni. A 225. cikk e monopóliumot nem töri át, csak indokolásköteles felkérést enged."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "8a960452fbf5"
+    },
+    {
+      "question": "Mely feltételek mellett állítható fel ideiglenes vizsgálóbizottság?",
+      "options": [
+        {
+          "text": "A Parlament tagjai egynegyedének kérelmére állíthat fel ideiglenes vizsgálóbizottságot az uniós jog végrehajtása során felmerülő állítólagos jogsértés vagy hivatali visszásság kivizsgálására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kezdeményezési küszöb egynegyed, a tárgy pedig a végrehajtási jogsértés vagy visszásság. Az EUMSZ 226. cikk szerint a vizsgálat a Szerződések által más intézményekre vagy szervekre ruházott hatáskörök sérelme nélkül folyik. A bizottság ideiglenes: jelentésének benyújtása után feloszlik. A vizsgálati jog részletes szabályait a Parlament saját kezdeményezésű, a Tanács és a Bizottság egyetértésével elfogadott rendeletekben állapítja meg."
+        },
+        {
+          "text": "A vizsgálat kizárt, ha az állítólagos tényállást bíróság vizsgálja, és a bírósági eljárás még nem zárult le.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lis pendens-korlát a bírói út elsőbbségét védi. Az EUMSZ 226. cikk kifejezetten kizárja a vizsgálatot, amíg a bírósági eljárás folyamatban van. A tilalom kettős: hatásköri sérelem tilalma és párhuzamos bírósági eljárás tilalma. A petíció (227. cikk) és az ombudsmani panasz (228. cikk) ehhez képest más szűrőkkel működik, de a bírósági párhuzam az ombudsmannál is kizáró ok."
+        },
+        {
+          "text": "Vizsgálóbizottság felállításához a leadott szavazatok kétharmada és a tagok többsége szükséges, mint a bizalmatlanságnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 234. cikk kettős többségét írja rá a 226. cikkre. Az EUMSZ 226. cikk a tagok egynegyedének kérelmét követeli a felállításhoz, nem kétharmados elfogadást. A bizalmatlanság (EUMSZ 234. cikk) a leadott szavazatok kétharmadát és a tagok többségét kívánja. A tévedés a politikai ellenőrzés végső eszközének küszöbének összekeveréséből ered a vizsgálóbizottsági kezdeményezéssel."
+        },
+        {
+          "text": "A vizsgálóbizottság állandó szerv, és a Bíróság igazságszolgáltatási tevékenységét is vizsgálhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizottság ideiglenes, és más intézmények hatáskörét nem sértheti. Az EUMSZ 226. cikk szerint a vizsgálóbizottság jelentésének benyújtása után feloszlik. A vizsgálat a Szerződések által más intézményekre ruházott hatáskörök sérelme nélkül folyik; a Bíróság igazságszolgáltatási tevékenysége az ombudsman (228. cikk) alól is kivétel. A tévedés az állandó parlamenti bizottságok és az ideiglenes vizsgálóbizottság összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "3930edeb61b6"
+    },
+    {
+      "question": "Ki és milyen feltételekkel nyújthat be petíciót az Európai Parlamenthez?",
+      "options": [
+        {
+          "text": "A petíciót a Bizottsághoz kell benyújtani, amely továbbítja a Parlamentnek, ha az ügy a végrehajtást érinti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a címzett közvetlenül a Parlament. Az EUMSZ 227. cikk szerint a jogosult az Európai Parlamenthez nyújtja be a petíciót. A Bizottsághoz intézett kérdés (230. cikk) vagy a 225. cikk szerinti javaslatfelkérés más ellenőrző csatorna. A tévedés a végrehajtó intézmény panaszfogadó szerepének ráírásából ered a polgárközeli parlamenti jogra."
+        },
+        {
+          "text": "Petíciót csak uniós polgár nyújthat be, a tagállami lakóhellyel rendelkező harmadik országbeli személy nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogosulti kör a lakóhelyet és a székhelyet is magában foglalja. Az EUMSZ 227. cikk szerint petíciót nyújthat be bármely uniós polgár, valamint valamely tagállamban lakóhellyel, illetve létesítő okirat szerinti székhellyel rendelkező természetes vagy jogi személy. A harmadik országbeli, de tagállamban lakó személy tehát jogosult lehet. A tévedés az uniós polgárság kizárólagos olvasatából ered."
+        },
+        {
+          "text": "A petíció tárgya az Unió tevékenységi területére tartozó és a kérelmezőt közvetlenül érintő ügy kell legyen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, két szűrő konjunktív. Az EUMSZ 227. cikk szerint az ügy az Unió tevékenységi területére tartozzék, és a kérelmezőt közvetlenül érintse. A petíció így elválik az ombudsmani panasztól: amaz a hivatali visszásságra szabott, ez a tevékenységi körbe tartozó, közvetlenül érintő ügyre. A vizsgálóbizottság (226. cikk) ehhez képest intézményi ellenőrző eszköz, nem alanyi panaszjog."
+        },
+        {
+          "text": "Bármely uniós polgár, valamint a tagállamban lakóhellyel vagy létesítő okirat szerinti székhellyel rendelkező természetes vagy jogi személy petíciót nyújthat be.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogosulti kör tágabb az uniós polgárságnál. Az EUMSZ 227. cikk szerint a jogosult egyénileg vagy másokkal közösen fordulhat a Parlamenthez. A címzett a Parlament, nem a Bizottság: a petíció a képviselői testület polgárközeli funkciója. Ugyanez a személyi kör jelenik meg az ombudsmani panasznál (EUMSZ 228. cikk), más tárgyi szűrővel."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "792d678ce6c2"
+    },
+    {
+      "question": "Milyen a panaszjogosultság és a tárgyi hatály az európai ombudsmannál?",
+      "options": [
+        {
+          "text": "Hivatali visszásság megállapítása esetén az érintett intézménynek három hónapja van álláspontja közlésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három hónapos válaszidő kógens. Az EUMSZ 228. cikk (1) bekezdése szerint ezt követi a jelentés a Parlamentnek és az érintettnek, a panaszos tájékoztatása, valamint az éves jelentés. A vizsgálat kizárt, ha a tényállás bírósági eljárás tárgyát képezi vagy képezte. Az ombudsman tehát a bírói út lezárása vagy hiánya mellett működik, nem párhuzamosan a folyamatban lévő perrel."
+        },
+        {
+          "text": "Az ombudsman az uniós intézmények, szervek vagy hivatalok tevékenysége során felmerülő hivatali visszásságokra vonatkozó panaszok átvételére jogosult.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tárgy a hivatali visszásság, nem bármely uniós ügy. Az EUMSZ 228. cikk (1) bekezdése szerint kivétel az igazságszolgáltatási hatáskörében eljáró Európai Unió Bírósága. A panaszjogosult az uniós polgár és a tagállamban lakóhellyel vagy székhellyel rendelkező természetes vagy jogi személy — ugyanaz a személyi kör, mint a petíciónál. A vizsgálat saját kezdeményezésre vagy közvetlenül, illetve a Parlament valamely tagján keresztül benyújtott panasz alapján indul."
+        },
+        {
+          "text": "Az ombudsman a tagállami közigazgatás hivatali visszásságait is kivizsgálhatja, ha az uniós jogot alkalmazzák.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tárgyi hatály az uniós intézményekre, szervekre és hivatalokra korlátozódik. Az EUMSZ 228. cikk (1) bekezdése az uniós intézmények, szervek vagy hivatalok tevékenysége során felmerülő hivatali visszásságokról szól. A tagállami közigazgatás nem e cikk ombudsmani hatásköre. A tévedés a petíció tágabb „Unió tevékenységi területe” szűrőjének ráírásából ered az ombudsman intézményi hatályára."
+        },
+        {
+          "text": "Az ombudsman a Bíróság igazságszolgáltatási tevékenységét is ellenőrizheti, mert az is uniós intézmény.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Bíróság igazságszolgáltatási hatásköre kifejezett kivétel. Az EUMSZ 228. cikk (1) bekezdése szerint a panaszok átvétele alól kivétel az igazságszolgáltatási hatáskörében eljáró Európai Unió Bírósága. A Bíróság egyébként a 228. cikk (2) bekezdése alapján a Parlament kérelmére felmentheti az ombudsmant. A tévedés az intézményi státusz és az igazságszolgáltatási kivétel összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "7283eb3f8b7e"
+    },
+    {
+      "question": "Hogyan kapcsolódik az ombudsman megbízatása a parlamenti ciklushoz, és miként menthető fel?",
+      "options": [
+        {
+          "text": "Az ombudsman a megbízatása idején elfogadhat utasítást a Parlament elnökétől, mert a Parlament választotta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a választás nem utasítási jogot ad. Az EUMSZ 228. cikk (3) bekezdése szerint az ombudsman feladatainak ellátása során teljes mértékben független, és nem kérhet vagy fogadhat el utasításokat semmilyen kormánytól, intézménytől, szervtől vagy más szervezettől. A megbízatás idején semmilyen egyéb — akár kereső, akár ingyenes — foglalkozást nem folytathat. A tévedés a parlamenti választás és a funkcionális függetlenség összekeveréséből ered."
+        },
+        {
+          "text": "A Bíróság a Parlament kérelmére felmentheti az ombudsmant, ha már nem felel meg a feladatai ellátásához szükséges feltételeknek, vagy súlyos kötelezettségszegést követett el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felmentés bírói aktus, nem tanácsi. Az EUMSZ 228. cikk (2) bekezdése e két okot nevezi meg. A Bíróság alapokmánya szerint a Bíróság teljes ülésben jár el a 228. cikk (2) bekezdése alapján elé terjesztett ügyben. A (3) bekezdés ehhez képest a teljes függetlenséget és az utasítás tilalmát mondja ki, és a megbízatás idejére minden egyéb — kereső vagy ingyenes — foglalkozást tilt."
+        },
+        {
+          "text": "Az ombudsmant minden európai parlamenti választást követően, a Parlament megbízatásának időtartamára választják, és a megbízatás megújítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megbízatás a parlamenti ciklushoz igazodik. Az EUMSZ 228. cikk (2) bekezdése szerint az ombudsmant minden európai parlamenti választást követően, a Parlament megbízatásának időtartamára választják. A megbízatás megújítható. Az ombudsman a Parlament által választott, de feladatában független külső ellenőrző."
+        },
+        {
+          "text": "Az ombudsmant a Tanács minősített többséggel nevezi ki és bármikor indokolás nélkül felmenti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a választás a Parlamenté, a felmentés pedig bírói. Az EUMSZ 228. cikk (2) bekezdése szerint az ombudsmant a Parlament választja a megbízatás időtartamára. Felmenteni a Bíróság a Parlament kérelmére akkor mentheti, ha a feltételeknek már nem felel meg, vagy súlyos kötelezettségszegést követett el. A tévedés a Tanács személyi kinevezési szerepének ráírásából ered az ombudsmani tisztségre."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "f647f3decdbb"
+    },
+    {
+      "question": "Mikor ül össze a Parlament, és ki kezdeményezhet rendkívüli ülésszakot?",
+      "options": [
+        {
+          "text": "Rendkívüli ülésszakot kizárólag a Bizottság elnöke rendelhet el, a képviselők kérelme nem elegendő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a képviselők többsége önállóan indíthat rendkívüli ülésszakot. Az EUMSZ 229. cikk szerint a Parlament a tagjai többségének kérelmére, valamint a Tanács vagy a Bizottság kérelmére tarthat rendkívüli ülésszakot. A Bizottság tehát csak az egyik lehetséges kérelmező, nem kizárólagos. A tévedés a végrehajtó napirend-monopólium ráírásából ered."
+        },
+        {
+          "text": "A Parlament évente egy ülésszakot tart, és minden március második keddjén külön összehívás nélkül ül össze.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendes ülésezés nem a Tanács vagy a Bizottság összehívásától függ. Az EUMSZ 229. cikk szerint: „Az Európai Parlament évente egy ülésszakot tart. Minden március második keddjén külön összehívás nélkül ül össze.” A végrehajtó intézmények tehát nem zárhatják el a Parlamentet a rendes ülésezéstől. Ez a 14. cikk (1) bekezdése szerinti politikai ellenőrzés időbeli feltétele."
+        },
+        {
+          "text": "A Parlament csak akkor ülhet össze, ha a Tanács elnöke összehívja, mint a nemzeti parlamenteknél a kormány.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendes ülésszak összehívás nélkül indul. Az EUMSZ 229. cikk szerint a Parlament minden március második keddjén külön összehívás nélkül ül össze. A Tanács kérelme csak a rendkívüli ülésszakot indíthatja, nem a rendes ciklust. A tévedés a kormányzati összehívási jog nemzeti mintájának ráírásából ered az uniós parlamenti autonómiára."
+        },
+        {
+          "text": "Rendkívüli ülésszakot a tagok többségének kérelmére, valamint a Tanács vagy a Bizottság kérelmére tarthat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendkívüli összehívás háromféle kérelmezőt ismer. Az EUMSZ 229. cikk a belső többséget, a Tanácsot és a Bizottságot egyaránt feljogosítja a kérelemre. A végrehajtó intézmények tehát kezdeményezhetik a rendkívüli ülésszakot, de a rendes márciusi összeülést nem blokkolhatják. A 230. cikk ehhez képest a Bizottság ülésen való részvételét és felszólalását rendezi."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "a1815bf1367f"
+    },
+    {
+      "question": "Milyen jelenléti és kérdésjogi csatornát nyit az EUMSZ a Bizottság felé a Parlamentben?",
+      "options": [
+        {
+          "text": "A Bizottság a Parlament bármely ülésén részt vehet, és kérésére bármikor felszólalhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kezdeményező intézmény hallhatósága a képviselői fórumon szerződési szintű. Az EUMSZ 230. cikk szerint a Bizottság szóban vagy írásban válaszol a Parlament vagy annak tagjai által hozzá intézett kérdésekre. Ez a 225. cikk szerinti javaslatkéréstől és a 234. cikk szerinti bizalmatlanságtól elváló, folyamatos kontroll. A politikai ellenőrzés tehát nem merül ki a szankciós eszközökben."
+        },
+        {
+          "text": "A Bizottság csak írásban válaszolhat a képviselők kérdéseire, szóbeli válasz szerződésileg kizárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a válasz modalitása szóban vagy írásban egyaránt megengedett. Az EUMSZ 230. cikk szerint a Bizottság szóban vagy írásban válaszol az Európai Parlament vagy annak tagjai által hozzá intézett kérdésekre. A szóbeli válasz tehát nem tilos. A tévedés a petíció vagy az éves jelentés írásbeli jellegének ráírásából ered a 230. cikk kérdésjogára."
+        },
+        {
+          "text": "Az Európai Tanács, illetve a Tanács a saját eljárási szabályzatában megállapított feltételeknek megfelelően szólalhat fel a Parlamentben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszólalás nem általános parlamenti idézési jog. Az EUMSZ 230. cikk szerint az Európai Tanács, illetve a Tanács a saját eljárási szabályzatában megállapított feltételeknek megfelelően felszólalhat. Nem a Parlament idézi őket általános hatáskörrel, hanem a saját szabályuk engedi a megszólalást. A Bizottság ehhez képest bármely ülésen részt vehet és kérésére felszólalhat."
+        },
+        {
+          "text": "A Parlament általános hatáskörrel idézheti az Európai Tanácsot bármely napirendi pontra, a Tanács eljárási szabályzatától függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Európai Tanács megszólalása a saját eljárási szabályzatához kötött. Az EUMSZ 230. cikk szerint az Európai Tanács, illetve a Tanács a saját eljárási szabályzatában megállapított feltételeknek megfelelően szólalhat fel. Nincs általános parlamenti idézési hatáskör. A tévedés a Bizottság szabadabb jelenléti jogának ráírásából ered az Európai Tanácsra."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "f5d9c4913b89"
+    },
+    {
+      "question": "Mi a Parlament döntéshozatali főszabálya, és hol dől el a határozatképesség?",
+      "options": [
+        {
+          "text": "A Parlament minden döntését a tagok kétharmadával hozza, a leadott szavazatok aránya irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály a leadott szavazatok többsége. Az EUMSZ 231. cikk csak akkor enged eltérést, ha a Szerződések másként rendelkeznek. A kétharmados küszöb a 234. cikk szerinti bizalmatlanságnál jelenik meg, a tagok többségével együtt. A tévedés a bizalmatlanság különleges többségének általánosításából ered."
+        },
+        {
+          "text": "A határozatképesség alsó határát az EUMSZ számszerűen, a képviselők felében rögzíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Szerződés nem ad számszerű kvórumot. Az EUMSZ 231. cikk a határozatképesség feltételeit az eljárási szabályzatra bízza. Az EUMSZ 232. cikk szerint az eljárási szabályzatot a tagok többségével fogadják el, de ez a házszabály elfogadási küszöbe, nem a mindennapi ülési kvórum. A tévedés a 232. cikk tagtöbbségének összekeveréséből ered a határozatképességgel."
+        },
+        {
+          "text": "A határozatképesség feltételeit az eljárási szabályzat határozza meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kvórum a belső autonómia tárgya, nem szerződési szám. Az EUMSZ 231. cikk második mondata szerint a határozatképesség feltételeit az eljárási szabályzat határozza meg. Az EUMSZ 232. cikk szerint az eljárási szabályzatot a tagok többségével kell elfogadni. A házszabály tehát egyben a 229–230. cikk operatív részleteinek kodifikált magja is."
+        },
+        {
+          "text": "Ha a Szerződések másként nem rendelkeznek, a Parlament a leadott szavazatok többségével határoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a döntéshozatali főszabály a leadott szavazatok többsége, ezért a tartózkodás nem növeli a nevezőt. Az EUMSZ 231. cikk szerint: „Ha a Szerződések másként nem rendelkeznek, az Európai Parlament a leadott szavazatok többségével határoz.” Ettől a főszabálytól a Szerződések több helyen eltérnek: a 223. cikk szerinti egyetértés, a 225. cikk szerinti felkérés és a 232. cikk szerinti eljárási szabályzat a tagok többségét követeli. A bizalmatlanságnál az EUMSZ 234. cikk a leadott szavazatok kétharmadát és a tagok többségét kívánja együttesen."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "781356d6a8e1"
+    },
+    {
+      "question": "Milyen küszöbbel fogadja el a Parlament az eljárási szabályzatát, és mi köti a jegyzőkönyvek közzétételét?",
+      "options": [
+        {
+          "text": "Az eljárási szabályzat elfogadásához a tagok többsége kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, abszolút tagtöbbség védi a házszabályt a politikai kisebbség egyszerű leszavazásával szemben. Az EUMSZ 232. cikk szerint: „Az Európai Parlament tagjainak többségével elfogadja eljárási szabályzatát.” Ez ismét eltér a 231. cikk leadott-szavazatos főszabályától. Az eljárási szabályzatban dől el a határozatképesség, és ott jelennek meg a 229–230. cikk operatív részletei."
+        },
+        {
+          "text": "A jegyzőkönyvek közzététele kizárólag a Parlament elnökének diszkrecionális döntése.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közzététel szerződési és házszabályi feltételekhez kötött. Az EUMSZ 232. cikk szerint az ülések jegyzőkönyveit a Szerződésekben és az eljárási szabályzatában megállapított feltételeknek megfelelően kell közzétenni. Az elnöki belátás önmagában nem oldja fel e kettős kötést. A tévedés a 14. cikk (4) bekezdése szerinti tisztségviselő-választási autonómia túlterjesztéséből ered."
+        },
+        {
+          "text": "Az ülések jegyzőkönyveit a Szerződésekben és az eljárási szabályzatban megállapított feltételeknek megfelelően kell közzétenni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a működés nyilvánossága nem a Parlament belátásán múlik. Az EUMSZ 232. cikk a közzétételt a szerződési és a házszabályi kettős kötéshez köti. A nyilvánosság így a politikai ellenőrzés látható ága, párhuzamosan a 233. cikk szerinti éves jelentés nyilvános vitájával. A 16. cikk (8) bekezdése szerinti tanácsi jogalkotási nyilvánosság ehhez képest a társtörvényhozó oldalán áll."
+        },
+        {
+          "text": "Az eljárási szabályzatot a leadott szavazatok egyszerű többségével is meg lehet változtatni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a házszabály elfogadásához a Parlament tagjainak többsége kell. Az EUMSZ 232. cikk szerint a Parlament a tagjainak többségével fogadja el eljárási szabályzatát. Az EUMSZ 231. cikk leadott-szavazatos főszabálya csak akkor él, ha a Szerződések másként nem rendelkeznek — itt másként rendelkeznek. A tévedés az általános szavazási főszabály ráírásából ered a házszabályi küszöbre."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "c2bbf0816b91"
+    },
+    {
+      "question": "Mi a Bizottság éves általános jelentésének parlamenti sorsa?",
+      "options": [
+        {
+          "text": "A Parlament nyilvános ülésen megvitatja a Bizottság által hozzá benyújtott éves általános jelentést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vita kötelező, a bizalmatlanság nem automatikus. Az EUMSZ 233. cikk szerint: „Az Európai Parlament nyilvános ülésen megvitatja a Bizottság által hozzá benyújtott éves általános jelentést.” Ez az EUSZ 17. cikk (8) bekezdése és a 234. cikk szerinti testületi felelősség látható, nem szankciós ága. A jelentés benyújtása a Bizottságé, a napirendre tűzés és a vita a Parlamenté."
+        },
+        {
+          "text": "Az éves általános jelentés benyújtásának elmulasztása automatikusan a Bizottság testületi lemondását eredményezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az éves jelentés elmulasztása önmagában nem buktatja a Bizottságot. Az EUMSZ 233. cikk nyilvános vitát ír elő a benyújtott éves általános jelentésről, de automatikus lemondást nem rendel. Az EUMSZ 234. cikk szerinti bizalmatlanság külön indítványt és kettős többséget követel: a leadott szavazatok kétharmadát és a tagok többségét. A tévedés a jelentésvitát összekeveri a bizalmatlanság jogkövetkezményével."
+        },
+        {
+          "text": "Az éves jelentést zárt ülésen kell megvitatni, mert a Bizottság belső működésére vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az éves általános jelentés vitája nem tartható zárt ülésen. Az EUMSZ 233. cikk szerint a Parlament nyilvános ülésen vitatja meg a Bizottság által hozzá benyújtott éves általános jelentést. A nyilvánosság az ellenőrzés módja: a jelentés benyújtása a Bizottságé, a napirendre tűzés és a vita a Parlamenté. A tévedés a Tanács nem jogalkotási üléseinek zártságát írja rá a parlamenti jelentésvitára, noha az EUSZ 16. cikk (8) bekezdése a Tanács jogalkotási üléseit éppen nyilvánossá teszi."
+        },
+        {
+          "text": "A nyilvános vita az ellenőrzés módja, de önmagában nem váltja ki a Bizottság lemondását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az éves jelentés nyilvános vitája nem azonos a bizalmatlansági eljárással. Az EUMSZ 233. cikk a jelentés megvitatását írja elő; a bizalmatlanság az EUMSZ 234. cikk szerint külön indítványt, háromnapos türelmet, nyílt szavazást, valamint a leadott szavazatok kétharmadát és a tagok többségét kívánja. Az éves jelentés megvitatása tehát folyamatos politikai kontroll, nem automatikus lemondás. Az EUMSZ 230. cikk szerinti szóbeli vagy írásbeli kérdésjog ugyanezen, nem szankciós ellenőrzési síkon áll."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "576ff90fdc29"
+    },
+    {
+      "question": "Milyen feltételekkel fogadható el bizalmatlansági indítvány a Bizottsággal szemben?",
+      "options": [
+        {
+          "text": "Az elfogadáshoz a leadott szavazatok kétharmada és a Parlament tagjainak többsége szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, kettős többség kell. Az EUMSZ 234. cikk szerint: ha a bizalmatlansági indítványt a leadott szavazatok kétharmadával és az Európai Parlament tagjainak többségével elfogadják, a Bizottság tagjainak testületileg le kell mondaniuk. A külügyi és biztonságpolitikai főképviselőnek a bizottsági tagságról kell lemondania. A 231. cikk leadott-szavazatos főszabálya itt a kétharmados küszöbbel és a tagtöbbséggel együtt szigorodik."
+        },
+        {
+          "text": "Sikeres bizalmatlanság esetén a Bizottság azonnal elveszíti ügyintézési jogosultságát, és semmilyen folyamatban lévő ügyet nem láthat el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a folyamatosság védelme ügyvezető bentmaradást ír elő. Az EUMSZ 234. cikk szerint az új Bizottság EUSZ 17. cikk szerinti kinevezéséig a lemondásra kötelezett tagok hivatalban maradnak, és a folyamatban lévő ügyeket továbbra is ellátják. Az utódul kinevezett tagok hivatali ideje azon a napon jár le, amikor a testületileg lemondásra kötelezett tagoké lejárt volna. A tévedés az azonnali hatalomvesztés nemzeti mintájának ráírásából ered."
+        },
+        {
+          "text": "A bizalmatlanság elfogadásához elegendő a leadott szavazatok egyszerű többsége.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizalmatlanság elfogadásához nem elég a leadott szavazatok egyszerű többsége. Az EUMSZ 234. cikk a leadott szavazatok kétharmadát és a Parlament tagjainak többségét követeli együttesen. Az EUMSZ 231. cikk szerinti leadott-szavazatos többség csak a főszabály, és a Szerződések eltérése felváltja. A tévedés az általános szavazási főszabály ráírásából ered a bizalmatlanságra."
+        },
+        {
+          "text": "Az indítványról legkorábban a beterjesztés után három nappal, nyílt szavazással lehet határozni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a türelmi idő a rögtönzés, a nyíltság a képviselői felelősség ellen hat. Az EUMSZ 234. cikk szerint az Európai Parlament, ha a Bizottság tevékenysége miatt bizalmatlansági indítványt terjesztenek elé, arról legkorábban az indítvány beterjesztése után három nappal, nyílt szavazással határoz. Az EUSZ 17. cikk (8) bekezdése a testületi felelősséget ehhez a cikkhez köti. Az indítvány tárgya a Bizottság tevékenysége."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "2f71895ab10f"
+    },
+    {
+      "question": "Mit jelent a bizalmatlanság a külügyi és biztonságpolitikai főképviselőre nézve?",
+      "options": [
+        {
+          "text": "A főképviselőre a bizalmatlanság nem vonatkozik, mert őt kizárólag az Európai Tanács ellenőrzi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főképviselő bizottsági tagsága a testületi felelősség része. Az EUMSZ 234. cikk kifejezetten előírja a bizottsági tagságról való lemondást. Az EUSZ 17. cikk (8) bekezdése a Bizottság testületi felelősségét a Parlament felé telepíti. A tévedés a 18. cikk európai tanácsi kinevezését abszolút mentességgé torzítja."
+        },
+        {
+          "text": "Sikeres bizalmatlanság esetén a főképviselőnek le kell mondania a bizottsági tagságról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, sikeres bizalmatlanság esetén a főképviselő bizottsági tagsága is megszűnik. Az EUMSZ 234. cikk szerint a Bizottság tagjainak testületileg le kell mondaniuk, a főképviselőnek pedig a bizottsági tagságról. Az EUSZ 17. cikk (8) bekezdése ugyanezt a testületi felelősséget köti a 234. cikkhez. A főképviselő az EUSZ 18. cikk szerint a Bizottság egyik alelnöke és a Külügyek Tanácsának elnöke."
+        },
+        {
+          "text": "A bizalmatlanság automatikusan megszünteti a főképviselő Külügyek Tanácsa elnöki tisztségét is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizalmatlanság nem törli automatikusan a főképviselő teljes uniós tisztségrendszerét. Az EUMSZ 234. cikk szerint a főképviselőnek a bizottsági tagságról kell lemondania; az EUSZ 18. cikk (1) bekezdése szerinti európai tanácsi kinevezés automatikus megszűnését a 234. cikk szövege nem mondja ki. Az új Bizottság EUSZ 17. cikk szerinti kinevezéséig a testület ügyvezetőként marad. A tévedés a bizottsági és a tanácsi elnöki minőség teljes egybeolvasztásából ered."
+        },
+        {
+          "text": "A 234. cikk szövege nem szünteti meg automatikusan a főképviselő Európai Tanács általi, 18. cikk (1) bekezdése szerinti kinevezését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bizottsági tagság elvesztése és a 18. cikk szerinti kinevezés elválik. Az EUMSZ 234. cikk a főképviselőt a bizottsági tagságban érinti, az Európai Tanács általi, EUSZ 18. cikk (1) bekezdése szerinti kinevezést pedig nem szünteti meg automatikusan. Az új Bizottság kinevezéséig a lemondásra kötelezett testület ügyvezetőként marad, és a folyamatban lévő ügyeket ellátja. A személyi státusz tehát rétegesen oldódik fel."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "22da9d17d043"
+    },
+    {
+      "question": "Milyen intézményi helyet foglal el a Parlament az EUSZ 13. cikke szerint?",
+      "options": [
+        {
+          "text": "A Parlament a Szerződések keretein kívül is eljárhat, ha a polgárok képviselete ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatásköri fegyelem kógens. Az EUSZ 13. cikk (2) bekezdése szerint az intézmények csak a Szerződésekben rájuk ruházott hatáskörök határain belül, az ott meghatározott eljárások, feltételek és célok szerint járhatnak el. A Parlament tehát nem „szabadon” bővítheti hatáskörét a polgári képviseletre hivatkozva. A tévedés a képviseleti legitimációt abszolút hatáskör-forrássá torzítja."
+        },
+        {
+          "text": "Az EUSZ 13. cikk (1) bekezdése az Unió intézményei között első helyen nevezi meg a Parlamentet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a polgári képviselet intézményi sorrendje szerződési jelzés. Az EUSZ 13. cikk (1) bekezdése az Unió intézményei között első helyen nevezi meg az Európai Parlamentet. A (2) bekezdés szerint az intézmények — így a Parlament is — csak a Szerződésekben rájuk ruházott hatáskörök határain belül, az ott meghatározott eljárások, feltételek és célok szerint járhatnak el. A kölcsönös, jóhiszemű együttműködés ugyanezen bekezdés kötelezettsége."
+        },
+        {
+          "text": "A 13. cikk (3) bekezdése dualizmust rögzít: a Parlamentre vonatkozó részletes rendelkezéseket az EUMSZ állapítja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az EUSZ a státuszt, az EUMSZ a részletes működést adja. Az EUSZ 14. cikk a státuszt, a létszámkeretet, a választás alkotmányos ismérveit és a fő funkciókat tartalmazza. Az EUMSZ 223–234. cikke a választási eljárás megalkotását, a képviselői jogállást, az ellenőrző eszközöket és a működési rendet. A Gazdasági és Szociális Bizottság, valamint a Régiók Bizottsága a 13. cikk (4) bekezdése szerint tanácsadói minőségű, intézményi státusz nélkül."
+        },
+        {
+          "text": "A Gazdasági és Szociális Bizottság és a Régiók Bizottsága az EUSZ 13. cikk szerinti intézmények közé tartoznak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, e szervek tanácsadói minőségűek, nem intézmények. Az EUSZ 13. cikk (4) bekezdése a Parlamentet, a Tanácsot és a Bizottságot e szervek segítségéhez köti, anélkül hogy e szervek intézményi státuszt nyernének. Az intézmények taxatív listáját a 13. cikk (1) bekezdése adja, és a Parlamentet első helyen nevezi meg. A tévedés a tanácsadó szervek és az intézmények összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "d06c0f98cd6d"
+    },
+    {
+      "question": "Miben tér el a Tanács jogalkotási nyilvánossága a Parlament ellenőrző eszközeitől?",
+      "options": [
+        {
+          "text": "Az Európai Tanács a Parlamenttel közösen alkotja a költségvetést, a Tanács csak véleményez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a költségvetés a Parlament és a Tanács közös feladata. Az EUSZ 14. cikk (1) bekezdése és a 16. cikk (1) bekezdése ezt a közös tengelyt rögzíti. Az Európai Tanács a 15. cikk (1) bekezdése szerint nem lát el jogalkotási feladatokat. A tévedés az Európai Tanács politikai súlyát írja rá a költségvetési társtörvényhozásra."
+        },
+        {
+          "text": "A Tanács minden ülése nyilvános, beleértve a politikameghatározási és koordinatív napirendet is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyilvánosság a jogalkotási szakaszhoz kötött. Az EUSZ 16. cikk (8) bekezdése szerint a Tanács ülései akkor nyilvánosak, amikor jogalkotási aktus tervezetéről tanácskoznak vagy szavaznak; ezért az ülések két részre tagolódnak. A politikameghatározási és koordinatív feladatok a 16. cikk (1) bekezdése szerint a Szerződésekben meghatározott feltételekhez kötöttek, de nem esnek automatikusan a (8) bekezdés nyilvánossága alá. A tévedés a jogalkotási nyilvánosság általánosításából ered."
+        },
+        {
+          "text": "A Parlament a Tanáccsal közös jogalkotási és költségvetési tengelyen áll, míg az Európai Tanács jogalkotástól el van tiltva.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három intézmény szerepe elválik. Az EUSZ 14. cikk (1) bekezdése és a 16. cikk (1) bekezdése a Parlament–Tanács közös feladatát mondja ki. Az EUSZ 15. cikk (1) bekezdése az Európai Tanácsot eltiltja a jogalkotási feladat ellátásától. A 14. cikk (2) bekezdése szerinti helykiosztási határozat e tilalom alóli, egyhangúsághoz és parlamenti egyetértéshez kötött kivételes aktus."
+        },
+        {
+          "text": "A Tanács ülései akkor nyilvánosak, amikor jogalkotási aktus tervezetéről tanácskoznak vagy szavaznak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tanács ülései ezért két részre tagolódnak. Az EUSZ 16. cikk (8) bekezdése a jogalkotási tanácskozás és szavazás nyilvánosságát írja elő. Az EUSZ 16. cikk (1) bekezdése szerint a Tanács a Parlamenttel közösen látja el a jogalkotási és költségvetési feladatokat. A nyilvánosság tehát a társtörvényhozó oldalán a jogalkotási szakaszhoz kötött."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "ef30b12c0b79"
+    },
+    {
+      "question": "Milyen szabályok vonatkoznak az ombudsman feladatellátásának különleges jogalkotási pályájára?",
+      "options": [
+        {
+          "text": "A 228. cikk (4) bekezdése a 223. cikk (2) bekezdésével rokon szerkezetet követ: a Parlament a kezdeményező, a Bizottság véleménye és a Tanács egyetértése nélkül a rendelet nem zárul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különleges jogalkotási pálya intézményközi zárakkal fut. Az EUMSZ 228. cikk (4) bekezdése szerint a Parlament saját kezdeményezésére, a Bizottság véleményének kikérése után és a Tanács egyetértésével állapítja meg az ombudsman feladatellátásának szabályait rendeletekben. Az EUMSZ 223. cikk (2) bekezdése ugyanezt a szerkezetet adja a képviselői jogállásnál. A megújíthatóság és a foglalkozási tilalom a (2)–(3) bekezdés személyi státusza, nem a (4) szerinti jogalkotási pálya."
+        },
+        {
+          "text": "Az ombudsman a megbízatása idején elfogadhat kereső foglalkozást, ha az nem uniós intézményhez kötődik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a foglalkozási tilalom teljes. Az EUMSZ 228. cikk (3) bekezdése szerint az ombudsman a megbízatása ideje alatt semmilyen egyéb — akár kereső, akár ingyenesen végzett — foglalkozást nem folytathat. A tilalom nem szűkül az uniós intézményekre. A tévedés a függetlenség részleges olvasatából ered."
+        },
+        {
+          "text": "Az ombudsman szabályait a Bizottság delegált rendeletben, a Parlament meghallgatása nélkül alkothatja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szabályalkotás a Parlament saját kezdeményezésű rendelete. Az EUMSZ 228. cikk (4) bekezdése különleges jogalkotási eljárást, bizottsági véleményt és tanácsi egyetértést követel. A Bizottság nem a rendelet gazdája. A tévedés a végrehajtó delegált jogalkotás ráírásából ered a 228. cikk (4) bekezdésének parlamenti pályájára."
+        },
+        {
+          "text": "A Parlament saját kezdeményezésű, különleges jogalkotási eljárásban elfogadott rendeletekben határozza meg az ombudsman feladatellátásának szabályait, a Bizottság véleménye és a Tanács egyetértése mellett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ombudsman szabályalkotása különleges jogalkotási pályán fut, a képviselői statútumhoz hasonlóan. Az EUMSZ 228. cikk (4) bekezdése szerint a Parlament saját kezdeményezésére, a Bizottság véleményének kikérése után és a Tanács egyetértésével állapítja meg a feladatellátás szabályait rendeletekben. Az EUMSZ 223. cikk (2) bekezdése ugyanezt a szerkezetet adja a képviselői jogállásnál. Az ombudsman anyagi függetlensége (228. cikk (3) bekezdés) mellett tehát az intézményközi zár is él."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "d8f623ce5da0"
+    },
+    {
+      "question": "Mi következik abból, ha a bizalmatlansági indítványt elfogadják, az új Bizottság kinevezéséig?",
+      "options": [
+        {
+          "text": "Az utódul kinevezett tagok hivatali ideje azon a napon jár le, amikor a testületileg lemondásra kötelezett tagoké lejárt volna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a ciklus nem hosszabbodik a válság árán. Az EUMSZ 234. cikk ezt a lejárati napot kifejezetten rögzíti. Az EUSZ 17. cikk (3) bekezdése szerinti ötéves hivatali idő így a bizalmatlanság után sem tolódik el automatikusan. A parlamenti ciklus (EUSZ 14. cikk (3) bekezdés) és a bizottsági ciklus párhuzama megmarad."
+        },
+        {
+          "text": "A lemondásra kötelezett Bizottság azonnal elveszíti a folyamatban lévő ügyek ellátásának jogát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ügyvezető bentmaradás kógens. Az EUMSZ 234. cikk szerint az új Bizottság kinevezéséig a tagok hivatalban maradnak, és a folyamatban lévő ügyeket továbbra is ellátják. Az EUSZ 17. cikk (8) bekezdése a testületi felelősséget ehhez az eljáráshoz köti, de a folyamatosságot a 234. cikk védi. A tévedés az azonnali hatalomvesztés nemzeti mintájának ráírásából ered."
+        },
+        {
+          "text": "A Bizottság tagjai hivatalban maradnak, és a folyamatban lévő ügyeket továbbra is ellátják az új kinevezésig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a folyamatosság ügyvezető bentmaradást követel. Az EUMSZ 234. cikk szerint az új Bizottságnak az EUSZ 17. cikkével összhangban történő kinevezéséig a lemondásra kötelezett tagok hivatalban maradnak. A külügyi és biztonságpolitikai főképviselő a bizottsági tagságról mond le. A politikai felelősség tehát nem azonnali intézményi űrt hoz létre."
+        },
+        {
+          "text": "Az új Bizottság hivatali ideje automatikusan újabb teljes öt évvel kezdődik a bizalmatlanság napjától.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az utódok ideje a lemondott testület eredeti lejáratához igazodik. Az EUMSZ 234. cikk szerint az utódul kinevezett tagok hivatali ideje azon a napon jár le, amikor a testületileg lemondásra kötelezett tagoké lejárt volna. Az EUSZ 17. cikk (3) bekezdése szerinti öt év tehát nem indul újra a válság miatt. A tévedés a teljes ciklusú újraindítás feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "365bee91f854"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a leadott szavazatok többségének főszabálya a Parlamentben?",
+      "options": [
+        {
+          "text": "A 231. cikk főszabálya minden parlamenti döntésre kógens, a Szerződések nem térhetnek el tőle.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a leadott szavazatok többsége nem kivételtelen kényszer. Az EUMSZ 231. cikk szövege szerint a Parlament a leadott szavazatok többségével határoz, ha a Szerződések másként nem rendelkeznek. Az EUMSZ 223., 225., 232. és 234. cikke éppen ilyen eltéréseket állít — tagtöbbséget vagy kettős küszöböt. A tévedés a főszabályt kivételtelen kényszerré torzítja."
+        },
+        {
+          "text": "A 225. cikk szerinti javaslatfelkéréshez a tagok többsége kell, nem a leadott szavazatoké.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Bizottság felkéréséhez abszolút tagtöbbség kell. Az EUMSZ 225. cikk a Parlament tagjainak többségével engedi a megfelelő javaslat előterjesztésére való felkérést. Az EUMSZ 231. cikk leadott-szavazatos főszabálya csak akkor érvényes, ha a Szerződések másként nem rendelkeznek — itt másként rendelkeznek. A közvetett kezdeményezés tehát szigorúbb legitimációs küszöböt kap, mint a mindennapi határozathozatal."
+        },
+        {
+          "text": "Az eljárási szabályzat elfogadásához szintén a tagok többsége szükséges a 232. cikk szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a házszabály abszolút tagtöbbséget követel. Az EUMSZ 232. cikk szerint a Parlament a tagjainak többségével fogadja el eljárási szabályzatát. Ugyanígy a 223. cikk szerinti választási egyetértés is a tagok többségét kívánja. A 234. cikk ehhez képest a leadott szavazatok kétharmadát és a tagok többségét együtt követeli."
+        },
+        {
+          "text": "A bizalmatlansághoz elegendő a leadott szavazatok többsége, a tagok többsége nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizalmatlanság kettős küszöbű. Az EUMSZ 234. cikk a leadott szavazatok kétharmadát és a Parlament tagjainak többségét követeli. A pusztán leadott-szavazatos többség az EUMSZ 231. cikk főszabálya, amely itt nem érvényesül. A tévedés az általános főszabály ráírásából ered a politikai felelősség végső eszközére."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "556d8c4ade75"
+    },
+    {
+      "question": "Hogyan határolható el a petíció az ombudsmani panasztól?",
+      "options": [
+        {
+          "text": "Az ombudsmani panaszt kizárólag a Parlamenthez lehet benyújtani, közvetlen panasz az ombudsmanhoz nincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a panasz közvetlenül vagy képviselőn keresztül is benyújtható. Az EUMSZ 228. cikk (1) bekezdése szerint az ombudsman a hozzá közvetlenül vagy az Európai Parlament valamely tagján keresztül benyújtott panaszok alapján is vizsgálatot folytat, illetve saját kezdeményezésre is eljárhat. A tévedés a petíció parlamenti címzettségét írja rá az ombudsmani panaszra."
+        },
+        {
+          "text": "A petíció az Unió tevékenységi területére tartozó, a kérelmezőt közvetlenül érintő ügyre szól, és a Parlamenthez címzett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 227. cikk két szűrője a tevékenységi kör és a közvetlen érintettség. Az EUMSZ 227. cikk szerint bármely uniós polgár, valamint a tagállamban lakóhellyel vagy székhellyel rendelkező természetes vagy jogi személy élhet e joggal. A címzett a Parlament, nem a Bizottság. A jogosulti kör azonos az ombudsmani panaszéval, a tárgyi szűrő azonban más."
+        },
+        {
+          "text": "Az ombudsmani panasz a hivatali visszásságra szabott, és kivétel az igazságszolgáltatási hatáskörében eljáró Bíróság.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ombudsmani panasz tárgyi magva a hivatali visszásság, nem bármely uniós ügy. Az EUMSZ 228. cikk (1) bekezdése az uniós intézmények, szervek vagy hivatalok tevékenységére korlátozza a panaszt, kivéve az igazságszolgáltatási hatáskörében eljáró Bíróságot. A vizsgálat kizárt, ha a tényállás bírósági eljárás tárgyát képezi vagy képezte. A petíció (EUMSZ 227. cikk) ehhez képest a tevékenységi körbe tartozó, közvetlenül érintő ügyre épül."
+        },
+        {
+          "text": "A petíció és az ombudsmani panasz azonos tárgyi hatályú, csak a benyújtás formája különbözik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tárgyi szűrők elválnak. Az EUMSZ 227. cikk a tevékenységi területet és a közvetlen érintettséget követeli; az EUMSZ 228. cikk a hivatali visszásságot, a Bíróság igazságszolgáltatási kivételével. A jogosulti kör egyezése nem teszi a két jogot azonossá. A tévedés a személyi kör azonosságát tárgyi azonossággá torzítja."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "a6ac0d8e43c8"
+    },
+    {
+      "question": "Mit jelent az arányosan csökkenő képviselet a Parlament összetételében?",
+      "options": [
+        {
+          "text": "Arányosan csökkenő képviselet azt jelenti, hogy minden tagállam azonos számú képviselőt küld.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az azonos helyszám éppen ellentéte a degresszív elvnek. Az EUSZ 14. cikk (2) bekezdése arányosan csökkenő képviseletet, valamint legalább hat és legfeljebb kilencvenhat helyet ír elő tagállamonként. Az egyenlő helykiosztás a Tanács bizonyos konfigurációira emlékeztethet, nem a Parlamentre. A tévedés az államegyenlőség elvének ráírásából ered a polgári képviseletre."
+        },
+        {
+          "text": "A létszámplafon az elnököt is beleszámítva hétszázötven fő, és a helyek szabadon bővíthetők rendelettel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a plafon az elnököt nem számítva érvényes, és a helykiosztás nem rendeleti. Az EUSZ 14. cikk (2) bekezdése szerint a képviselők száma — az elnököt nem számítva — nem haladhatja meg a hétszázötvenet. Az összetételt az Európai Tanács egyhangú határozata állapítja meg, a Parlament kezdeményezésére és egyetértésével. A tévedés a plafon számítási módját és az aktus formáját is elrontja."
+        },
+        {
+          "text": "A polgárok képviselete arányosan csökkenő módon valósul meg, tagállamonként legalább hat és legfeljebb kilencvenhat hellyel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a degresszív elv és a tagállami sáv együtt áll. Az EUSZ 14. cikk (2) bekezdése szerint a polgárok képviselete arányosan csökkenő módon valósul meg, ahol a tagállamonkénti alsó küszöbérték legalább hat tag, és egyik tagállamnak sem lehet több, mint kilencvenhat helye. Az elnököt nem számítva a létszám nem haladhatja meg a hétszázötvenet. Az összetételt az Európai Tanács egyhangú, parlamenti egyetértéshez kötött határozata rögzíti."
+        },
+        {
+          "text": "A képviselői minőség az Unió polgáraihoz kötődik, nem a tagállami kormányokhoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a polgári képviselet elválik a kormányközi logikától. Az EUSZ 14. cikk (2) bekezdése szerint az Európai Parlament az Unió polgárainak képviselőiből áll. A tagokat a 14. cikk (3) bekezdése szerint közvetlen és általános választójog alapján választják. A Tanács ezzel szemben a tagállamok kormányzati képviselete — a két intézmény legitimációs forrása különbözik."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "e21da5b98ae9"
+    }
+  ]
+}
