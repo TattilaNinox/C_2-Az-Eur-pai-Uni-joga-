@@ -1,0 +1,1619 @@
+{
+ "kiiras": "tetelsor/kiiras_2026.txt",
+ "tetel": 42,
+ "forrasok": [
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "46",
+    "1995"
+   ],
+   "nev": "95/46/EK",
+   "tetelek": [
+    42
+   ],
+   "fajl": []
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "141",
+    "04"
+   ],
+   "nev": "C-141/04",
+   "tetelek": [
+    19
+   ],
+   "fajl": []
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "26",
+    "83"
+   ],
+   "nev": "C-26/83",
+   "tetelek": [
+    38
+   ],
+   "fajl": []
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "416",
+    "93"
+   ],
+   "nev": "C-416/93",
+   "tetelek": [
+    38
+   ],
+   "fajl": []
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "48",
+    "93"
+   ],
+   "nev": "C-48/93",
+   "tetelek": [
+    26
+   ],
+   "fajl": []
+  },
+  {
+   "tipus": "rov",
+   "kulcs": [
+    "rov",
+    "be"
+   ],
+   "nev": "Be.",
+   "tetelek": [
+    25
+   ],
+   "fajl": [
+    "Be. (új) - 2017. évi XC. törvény a büntetőeljárásról - Hatályos Jogszabályok Gyűjteménye.txt"
+   ]
+  },
+  {
+   "tipus": "rov",
+   "kulcs": [
+    "rov",
+    "pp"
+   ],
+   "nev": "Pp.",
+   "tetelek": [
+    25
+   ],
+   "fajl": [
+    "Pp. (új) - 2016. évi CXXX. törvény a polgári perrendtartásról - Hatályos Jogszabályok Gyűjteménye.txt"
+   ]
+  },
+  {
+   "tipus": "nev",
+   "kulcs": [
+    "nev",
+    "Alaptörvény"
+   ],
+   "nev": "Alaptörvény",
+   "tetelek": [
+    8
+   ],
+   "fajl": [
+    "22_2016. (XII. 5.) AB határozat az Alaptörvény E) cikk (2) bekezdésének értelmezéséről.txt",
+    "2_2019. (III. 5.) AB határozat az Alaptörvény R) cikk (1) bekezdésének, 24. cikk (1) bekezdésének, valamint a XIV. cikk (4) bekezdésének értelmezéséről.txt",
+    "Alaptörvény - Magyarország Alaptörvénye (2011. április 25.) - Hatályos Jogszabályok Gyűjteménye.txt"
+   ]
+  },
+  {
+   "tipus": "szamev",
+   "kulcs": [
+    "szamev",
+    "143",
+    "2010",
+    "AB"
+   ],
+   "nev": "143/2010. (VII. 14.) AB határozat",
+   "tetelek": [
+    8
+   ],
+   "fajl": [
+    "143_2010. (VII. 14.) AB határozat.txt"
+   ]
+  },
+  {
+   "tipus": "szamev",
+   "kulcs": [
+    "szamev",
+    "2",
+    "2019",
+    "AB"
+   ],
+   "nev": "2/2019. (III. 5.) AB határozat",
+   "tetelek": [
+    8
+   ],
+   "fajl": [
+    "2_2019. (III. 5.) AB határozat az Alaptörvény R) cikk (1) bekezdésének, 24. cikk (1) bekezdésének, valamint a XIV. cikk (4) bekezdésének értelmezéséről.txt"
+   ]
+  },
+  {
+   "tipus": "szamev",
+   "kulcs": [
+    "szamev",
+    "22",
+    "2016",
+    "AB"
+   ],
+   "nev": "22/2016. (XII. 5.) AB határozat",
+   "tetelek": [
+    8
+   ],
+   "fajl": [
+    "22_2016. (XII. 5.) AB határozat az Alaptörvény E) cikk (2) bekezdésének értelmezéséről.txt"
+   ]
+  },
+  {
+   "tipus": "szamev",
+   "kulcs": [
+    "szamev",
+    "30",
+    "1998",
+    "AB"
+   ],
+   "nev": "30/1998. (VI. 25.) AB határozat",
+   "tetelek": [
+    8
+   ],
+   "fajl": [
+    "30_1998. (VI. 25.) AB határozat.txt"
+   ]
+  },
+  {
+   "tipus": "szamev",
+   "kulcs": [
+    "szamev",
+    "32",
+    "2008",
+    "AB"
+   ],
+   "nev": "32/2008. (III. 12.) AB határozat",
+   "tetelek": [
+    8
+   ],
+   "fajl": [
+    "32_2008. (III. 12.) AB határozat.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "679",
+    "2016"
+   ],
+   "nev": "(EU) 2016/679",
+   "tetelek": [
+    42
+   ],
+   "fajl": [
+    "2016_679_EU rendelet GDPR.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "1215",
+    "2012"
+   ],
+   "nev": "1215/2012/EU",
+   "tetelek": [
+    28
+   ],
+   "fajl": [
+    "1215_2012_EU rendelet Brüsszel Ia.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "1259",
+    "2010"
+   ],
+   "nev": "1259/2010/EU",
+   "tetelek": [
+    28
+   ],
+   "fajl": [
+    "1259_2010_EU rendelet Róma III.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "139",
+    "2004"
+   ],
+   "nev": "139/2004/EK",
+   "tetelek": [
+    40
+   ],
+   "fajl": [
+    "139_2004_EK rendelet az összefonódások ellenőrzéséről.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "1",
+    "2003"
+   ],
+   "nev": "2003/1/EK",
+   "tetelek": [
+    41
+   ],
+   "fajl": [
+    "1_2003_EK rendelet a versenyszabályok végrehajtásáról.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "38",
+    "2004"
+   ],
+   "nev": "2004/38/EK",
+   "tetelek": [
+    32
+   ],
+   "fajl": [
+    "2004_38_EK irányelv a polgárok szabad mozgásáról.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "36",
+    "2005"
+   ],
+   "nev": "2005/36/EK",
+   "tetelek": [
+    35
+   ],
+   "fajl": [
+    "2005_36_EK irányelv a szakmai képesítések elismeréséről.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "111",
+    "2006"
+   ],
+   "nev": "2006/111/EK",
+   "tetelek": [
+    40
+   ],
+   "fajl": [
+    "2006_111_EK irányelv a közvállalkozások pénzügyi átláthatóságáról.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "123",
+    "2006"
+   ],
+   "nev": "2006/123/EK",
+   "tetelek": [
+    37
+   ],
+   "fajl": [
+    "2006_123_EK irányelv a belső piaci szolgáltatásokról.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "1111",
+    "2019"
+   ],
+   "nev": "2019/1111/EU",
+   "tetelek": [
+    28
+   ],
+   "fajl": [
+    "2019_1111_EU rendelet Brüsszel IIb.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "1783",
+    "2020"
+   ],
+   "nev": "2020/1783/EU",
+   "tetelek": [
+    28
+   ],
+   "fajl": [
+    "2020_1783_EU rendelet a bizonyításfelvételről.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "1784",
+    "2020"
+   ],
+   "nev": "2020/1784/EU",
+   "tetelek": [
+    28
+   ],
+   "fajl": [
+    "2020_1784_EU rendelet iratkézbesítés.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "45",
+    "2001"
+   ],
+   "nev": "45/2001/EK",
+   "tetelek": [
+    7
+   ],
+   "fajl": [
+    "45_2001_EK rendelet a személyes adatok intézményi feldolgozásáról.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "593",
+    "2008"
+   ],
+   "nev": "593/2008/EK",
+   "tetelek": [
+    28
+   ],
+   "fajl": [
+    "593_2008_EK rendelet Róma I.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "650",
+    "2012"
+   ],
+   "nev": "650/2012/EU",
+   "tetelek": [
+    28
+   ],
+   "fajl": [
+    "650_2012_EU rendelet öröklési ügyek.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "864",
+    "2007"
+   ],
+   "nev": "864/2007/EK",
+   "tetelek": [
+    28
+   ],
+   "fajl": [
+    "864_2007_EK rendelet Róma II.txt"
+   ]
+  },
+  {
+   "tipus": "eu",
+   "kulcs": [
+    "eu",
+    "5",
+    "1998"
+   ],
+   "nev": "98/5/EK",
+   "tetelek": [
+    35
+   ],
+   "fajl": [
+    "98_5_EK irányelv az ügyvédi hivatás állandó gyakorlásáról.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "106",
+    "77"
+   ],
+   "nev": "C-106/77",
+   "tetelek": [
+    16
+   ],
+   "fajl": [
+    "C-106_77 Simmenthal-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "106",
+    "89"
+   ],
+   "nev": "C-106/89",
+   "tetelek": [
+    17
+   ],
+   "fajl": [
+    "C-106_89 Marleasing-ügy tárgyalási jelentés.txt",
+    "C-106_89 Marleasing-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "11",
+    "70"
+   ],
+   "nev": "C-11/70",
+   "tetelek": [
+    21
+   ],
+   "fajl": [
+    "C-11_70 Internationale Handelsgesellschaft-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "112",
+    "00"
+   ],
+   "nev": "C-112/00",
+   "tetelek": [
+    21
+   ],
+   "fajl": [
+    "C-112_00 Schmidberger-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "12",
+    "86"
+   ],
+   "nev": "C-12/86",
+   "tetelek": [
+    21
+   ],
+   "fajl": [
+    "C-12_86 Demirel-ügy tárgyalási jelentés.txt",
+    "C-12_86 Demirel-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "120",
+    "78"
+   ],
+   "nev": "C-120/78",
+   "tetelek": [
+    36
+   ],
+   "fajl": [
+    "C-120_78 Cassis de Dijon-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "135",
+    "08"
+   ],
+   "nev": "C-135/08",
+   "tetelek": [
+    18
+   ],
+   "fajl": [
+    "C-135_08 Rottmann-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "139",
+    "85"
+   ],
+   "nev": "C-139/85",
+   "tetelek": [
+    33
+   ],
+   "fajl": [
+    "C-139_85 Kempf-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "149",
+    "79"
+   ],
+   "nev": "C-149/79",
+   "tetelek": [
+    32
+   ],
+   "fajl": [
+    "C-149_79 Bizottság kontra Belgium-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "150",
+    "05"
+   ],
+   "nev": "C-150/05",
+   "tetelek": [
+    29
+   ],
+   "fajl": [
+    "C-150_05 Van Straaten-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "152",
+    "84"
+   ],
+   "nev": "C-152/84",
+   "tetelek": [
+    17
+   ],
+   "fajl": [
+    "C-152_84 Marshall-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "187",
+    "01"
+   ],
+   "nev": "C-187/01",
+   "tetelek": [
+    29
+   ],
+   "fajl": [
+    "C-187_01 Gözütok és Brügge-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "200",
+    "02"
+   ],
+   "nev": "C-200/02",
+   "tetelek": [
+    18
+   ],
+   "fajl": [
+    "C-200_02 Zhu és Chen-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "208",
+    "00"
+   ],
+   "nev": "C-208/00",
+   "tetelek": [
+    34
+   ],
+   "fajl": [
+    "C-208_00 Überseering-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "210",
+    "06"
+   ],
+   "nev": "C-210/06",
+   "tetelek": [
+    24,
+    34
+   ],
+   "fajl": [
+    "C-210_06 Cartesio-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "212",
+    "97"
+   ],
+   "nev": "C-212/97",
+   "tetelek": [
+    34
+   ],
+   "fajl": [
+    "C-212_97 Centros-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "224",
+    "01"
+   ],
+   "nev": "C-224/01",
+   "tetelek": [
+    26
+   ],
+   "fajl": [
+    "C-224_01 Köbler-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "24",
+    "68"
+   ],
+   "nev": "C-24/68",
+   "tetelek": [
+    36
+   ],
+   "fajl": [
+    "C-24_68 Bizottság kontra Olaszország-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "25",
+    "62"
+   ],
+   "nev": "C-25/62",
+   "tetelek": [
+    23
+   ],
+   "fajl": [
+    "C-25_62 Plaumann-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "26",
+    "62"
+   ],
+   "nev": "C-26/62",
+   "tetelek": [
+    16,
+    17
+   ],
+   "fajl": [
+    "C-26_62 van Gend en Loos-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "283",
+    "81"
+   ],
+   "nev": "C-283/81",
+   "tetelek": [
+    24
+   ],
+   "fajl": [
+    "C-283_81 CILFIT-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "286",
+    "82"
+   ],
+   "nev": "C-286/82",
+   "tetelek": [
+    38
+   ],
+   "fajl": [
+    "C-286_82 Luisi és Carbone egyesített ügyek.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "29",
+    "69"
+   ],
+   "nev": "C-29/69",
+   "tetelek": [
+    21
+   ],
+   "fajl": [
+    "C-29_69 Stauder-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "290",
+    "05"
+   ],
+   "nev": "C-290/05",
+   "tetelek": [
+    36
+   ],
+   "fajl": [
+    "C-290_05 Nádasdi és Németh-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "294",
+    "83"
+   ],
+   "nev": "C-294/83",
+   "tetelek": [
+    23
+   ],
+   "fajl": [
+    "C-294_83 Les Verts-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "297",
+    "07"
+   ],
+   "nev": "C-297/07",
+   "tetelek": [
+    29
+   ],
+   "fajl": [
+    "C-297_07 Bourquain-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "328",
+    "04"
+   ],
+   "nev": "C-328/04",
+   "tetelek": [
+    21
+   ],
+   "fajl": [
+    "C-328_04 Vajnai-ügy végzés.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "33",
+    "74"
+   ],
+   "nev": "C-33/74",
+   "tetelek": [
+    37
+   ],
+   "fajl": [
+    "C-33_74 van Binsbergen-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "340",
+    "89"
+   ],
+   "nev": "C-340/89",
+   "tetelek": [
+    35
+   ],
+   "fajl": [
+    "C-340_89 Vlassopoulou-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "344",
+    "87"
+   ],
+   "nev": "C-344/87",
+   "tetelek": [
+    33
+   ],
+   "fajl": [
+    "C-344_87 Bettray-ügy tárgyalási jelentés.txt",
+    "C-344_87 Bettray-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "358",
+    "93"
+   ],
+   "nev": "C-358/93",
+   "tetelek": [
+    38
+   ],
+   "fajl": [
+    "C-358_93 Bordessa és társai egyesített ügyek.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "359",
+    "09"
+   ],
+   "nev": "C-359/09",
+   "tetelek": [
+    35
+   ],
+   "fajl": [
+    "C-359_09 Ebert-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "36",
+    "75"
+   ],
+   "nev": "C-36/75",
+   "tetelek": [
+    21
+   ],
+   "fajl": [
+    "C-36_75 Rutili-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "364",
+    "10"
+   ],
+   "nev": "C-364/10",
+   "tetelek": [
+    32
+   ],
+   "fajl": [
+    "C-364_10 Magyarország kontra Szlovákia-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "374",
+    "87"
+   ],
+   "nev": "C-374/87",
+   "tetelek": [
+    21
+   ],
+   "fajl": [
+    "C-374_87 Orkem-ügy tárgyalási jelentés.txt",
+    "C-374_87 Orkem-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "379",
+    "87"
+   ],
+   "nev": "C-379/87",
+   "tetelek": [
+    33
+   ],
+   "fajl": [
+    "C-379_87 Groener-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "4",
+    "73"
+   ],
+   "nev": "C-4/73",
+   "tetelek": [
+    21
+   ],
+   "fajl": [
+    "C-4_73 Nold-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "41",
+    "74"
+   ],
+   "nev": "C-41/74",
+   "tetelek": [
+    17,
+    32
+   ],
+   "fajl": [
+    "C-41_74 van Duyn-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "415",
+    "93"
+   ],
+   "nev": "C-415/93",
+   "tetelek": [
+    19
+   ],
+   "fajl": [
+    "C-415_93 Bosman-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "416",
+    "10"
+   ],
+   "nev": "C-416/10",
+   "tetelek": [
+    24
+   ],
+   "fajl": [
+    "C-416_10 Križan-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "420",
+    "16"
+   ],
+   "nev": "C-420/16",
+   "tetelek": [
+    18
+   ],
+   "fajl": [
+    "C-420_16 P Izsák és Dabis-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "43",
+    "75"
+   ],
+   "nev": "C-43/75",
+   "tetelek": [
+    19
+   ],
+   "fajl": [
+    "C-43_75 Defrenne II-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "436",
+    "04"
+   ],
+   "nev": "C-436/04",
+   "tetelek": [
+    29
+   ],
+   "fajl": [
+    "C-436_04 Van Esbroeck-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "44",
+    "79"
+   ],
+   "nev": "C-44/79",
+   "tetelek": [
+    21
+   ],
+   "fajl": [
+    "C-44_79 Hauer-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "46",
+    "93"
+   ],
+   "nev": "C-46/93",
+   "tetelek": [
+    26
+   ],
+   "fajl": [
+    "C-46_93 Brasserie du Pêcheur-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "473",
+    "93"
+   ],
+   "nev": "C-473/93",
+   "tetelek": [
+    32
+   ],
+   "fajl": [
+    "C-473_93 Bizottság kontra Luxemburg-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "484",
+    "93"
+   ],
+   "nev": "C-484/93",
+   "tetelek": [
+    38
+   ],
+   "fajl": [
+    "C-484_93 Svensson és Gustavsson-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "486",
+    "14"
+   ],
+   "nev": "C-486/14",
+   "tetelek": [
+    29
+   ],
+   "fajl": [
+    "C-486_14 Kossowski-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "491",
+    "07"
+   ],
+   "nev": "C-491/07",
+   "tetelek": [
+    29
+   ],
+   "fajl": [
+    "C-491_07 Turanský-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "493",
+    "17"
+   ],
+   "nev": "C-493/17",
+   "tetelek": [
+    16
+   ],
+   "fajl": [
+    "C-493_17 Weiss-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "5",
+    "71"
+   ],
+   "nev": "C-5/71",
+   "tetelek": [
+    27
+   ],
+   "fajl": [
+    "C-5_71 Schöppenstedt-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "5",
+    "88"
+   ],
+   "nev": "C-5/88",
+   "tetelek": [
+    21
+   ],
+   "fajl": [
+    "C-5_88 Wachauf-ügy tárgyalási jelentés.txt",
+    "C-5_88 Wachauf-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "503",
+    "99"
+   ],
+   "nev": "C-503/99",
+   "tetelek": [
+    38
+   ],
+   "fajl": [
+    "C-503_99 Bizottság kontra Belgium aranyrészvény-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "54",
+    "96"
+   ],
+   "nev": "C-54/96",
+   "tetelek": [
+    24
+   ],
+   "fajl": [
+    "C-54_96 Dorsch Consult-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "55",
+    "94"
+   ],
+   "nev": "C-55/94",
+   "tetelek": [
+    35,
+    37
+   ],
+   "fajl": [
+    "C-55_94 Gebhard-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "57",
+    "65"
+   ],
+   "nev": "C-57/65",
+   "tetelek": [
+    36
+   ],
+   "fajl": [
+    "C-57_65 Lütticke-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "583",
+    "11"
+   ],
+   "nev": "C-583/11",
+   "tetelek": [
+    23
+   ],
+   "fajl": [
+    "C-583_11 Inuit Tapiriit Kanatami fellebbezés.txt",
+    "C-583_11 P Inuit Tapiriit Kanatami-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "6",
+    "64"
+   ],
+   "nev": "C-6/64",
+   "tetelek": [
+    16
+   ],
+   "fajl": [
+    "C-6_64 Costa kontra ENEL-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "6",
+    "90"
+   ],
+   "nev": "C-6/90",
+   "tetelek": [
+    26
+   ],
+   "fajl": [
+    "C-6_90 Francovich és Bonifaci egyesített ügyek.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "617",
+    "10"
+   ],
+   "nev": "C-617/10",
+   "tetelek": [
+    21
+   ],
+   "fajl": [
+    "C-617_10 Åkerberg Fransson-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "66",
+    "85"
+   ],
+   "nev": "C-66/85",
+   "tetelek": [
+    33
+   ],
+   "fajl": [
+    "C-66_85 Lawrie-Blum-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "673",
+    "16"
+   ],
+   "nev": "C-673/16",
+   "tetelek": [
+    32
+   ],
+   "fajl": [
+    "C-673_16 Coman-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "68",
+    "79"
+   ],
+   "nev": "C-68/79",
+   "tetelek": [
+    26
+   ],
+   "fajl": [
+    "C-68_79 Hans Just-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "8",
+    "74"
+   ],
+   "nev": "C-8/74",
+   "tetelek": [
+    36
+   ],
+   "fajl": [
+    "C-8_74 Dassonville-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "83",
+    "76"
+   ],
+   "nev": "C-83/76",
+   "tetelek": [
+    27
+   ],
+   "fajl": [
+    "C-83_76 Bayerische HNL-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "899",
+    "19"
+   ],
+   "nev": "C-899/19",
+   "tetelek": [
+    18
+   ],
+   "fajl": [
+    "C-899_19 P Románia kontra Bizottság-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "C",
+    "9",
+    "90"
+   ],
+   "nev": "C-9/90",
+   "tetelek": [
+    26
+   ],
+   "fajl": [
+    "C-6_90 Francovich és Bonifaci egyesített ügyek.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "T",
+    "18",
+    "10"
+   ],
+   "nev": "T-18/10",
+   "tetelek": [
+    23
+   ],
+   "fajl": [
+    "C-583_11 Inuit Tapiriit Kanatami fellebbezés.txt",
+    "T-18_10 Inuit Tapiriit Kanatami végzés (EN).txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "T",
+    "391",
+    "17"
+   ],
+   "nev": "T-391/17",
+   "tetelek": [
+    18
+   ],
+   "fajl": [
+    "T-391_17 Románia kontra Bizottság Minority SafePack-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "T",
+    "529",
+    "13"
+   ],
+   "nev": "T-529/13",
+   "tetelek": [
+    18
+   ],
+   "fajl": [
+    "T-529_13 Izsák és Dabis-ügy.txt"
+   ]
+  },
+  {
+   "tipus": "eub",
+   "kulcs": [
+    "eub",
+    "T",
+    "646",
+    "13"
+   ],
+   "nev": "T-646/13",
+   "tetelek": [
+    18
+   ],
+   "fajl": [
+    "T-646_13 Minority SafePack-ügy.txt"
+   ]
+  }
+ ],
+ "nemHivatkozottFajl": [
+  "1_2009. (VI. 24.) PK-KK közös vélemény.txt",
+  "2_13 sz. EUB vélemény (EJEE).txt",
+  "2_94 sz. EUB vélemény (EJEE).txt",
+  "3_2005. (XI. 14.) PK-KK vélemény.txt",
+  "5_7-24_66 Kampffmeyer egyesített ügyek.txt",
+  "Alapjogi Charta (2016).txt",
+  "Bizottsági közlemény - közszolgáltatás ellentételezése (2012_C 8_03).txt",
+  "C-144_04 Mangold-ügy.txt",
+  "C-147_03 Bizottság kontra Ausztria-ügy.txt",
+  "C-2_74 Reyners-ügy.txt",
+  "C-453_99 Courage-ügy.txt",
+  "Consilium - éghajlatváltozás politikája.txt",
+  "EH 2008.1815 Kfv.I.35.055_2007.txt",
+  "EUMSZ - az Európai Unió működéséről szóló szerződés (2016).txt",
+  "EUSZ - az Európai Unióról szóló szerződés (2016).txt",
+  "Ismertetők az Európai Unióról - Energiapolitika általános elvek (2020).txt"
+ ]
+}
