@@ -117,11 +117,11 @@
       "file": "korpusz/2005_36_EK irányelv a szakmai képesítések elismeréséről.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/2005_36_EK irányelv a szakmai képesítések elismeréséről.txt",
       "storageName": "2005_36_EK irányelv a szakmai képesítések elismeréséről.txt",
-      "bytes": 491315,
-      "sha256": "0e0cb74e552c34bbe9bff5662e0b2656376aee57e6380417fe448161349fb232",
+      "bytes": 521873,
+      "sha256": "11cc33c41d2661e23f69489c5ef868fe6c895ac0f4a5d63c6dd75e87b76e2e23",
       "macUtkozes": false,
       "idoallapot": "2025.10.29. –",
-      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02005L0036). A Storage-ba még feltöltendő.",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02005L0036); a preambulum az eredeti kihirdetett szövegből (CELEX 32005L0036). A Storage-ba még feltöltendő.",
       "hatalyossag": {
         "allapot": "friss",
         "jogallapot": "2026-12-09",
@@ -294,11 +294,11 @@
       "file": "korpusz/98_5_EK irányelv az ügyvédi hivatás állandó gyakorlásáról.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/98_5_EK irányelv az ügyvédi hivatás állandó gyakorlásáról.txt",
       "storageName": "98_5_EK irányelv az ügyvédi hivatás állandó gyakorlásáról.txt",
-      "bytes": 25221,
-      "sha256": "d9b85f26a64ab5d611a97bf61f06aa46eb0909bdb70a0148b478d484870f6672",
+      "bytes": 37095,
+      "sha256": "5ee97bc015a95dbaaecee1064644257626281302542ed0074573e9711d921c07",
       "macUtkozes": false,
       "idoallapot": "2013.07.01. –",
-      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 01998L0005). A Storage-ba még feltöltendő.",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 01998L0005); a preambulum az eredeti kihirdetett szövegből (CELEX 31998L0005). A Storage-ba még feltöltendő.",
       "hatalyossag": {
         "allapot": "friss",
         "jogallapot": "2026-12-09",
@@ -309,9 +309,16 @@
       "file": "korpusz/Alapjogi Charta (2016).txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/Alapjogi Charta (2016).txt",
       "storageName": "Alapjogi Charta (2016).txt",
-      "bytes": 28555,
-      "sha256": "bb05c93654244d206020db5591e3d967e59d4a4a97abf46be5adf94c96eeced0",
-      "macUtkozes": false
+      "bytes": 27073,
+      "sha256": "17ebe2b5d3dfab564b937f4d40b3b9b5f7f95dec344cdd0667cc8f9f6255836c",
+      "macUtkozes": false,
+      "idoallapot": "2016.06.07. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex magyar szövegére (CELEX 12016P, HL C 202., 2016.6.7.). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/Alaptörvény - Magyarország Alaptörvénye (2011. április 25.) - Hatályos Jogszabályok Gyűjteménye.txt",
@@ -977,17 +984,31 @@
       "file": "korpusz/EUMSZ - az Európai Unió működéséről szóló szerződés (2016).txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/EUMSZ - az Európai Unió működéséről szóló szerződés (2016).txt",
       "storageName": "EUMSZ - az Európai Unió működéséről szóló szerződés (2016).txt",
-      "bytes": 760151,
-      "sha256": "4d332ffd27b230123cf56527b71ebea42569e7a121f02ec5f372f01a698fbbf8",
-      "macUtkozes": false
+      "bytes": 745111,
+      "sha256": "223eae03ac0d51f135e300690445a219636118bd9ff552a8b4be5df57bc1aef0",
+      "macUtkozes": false,
+      "idoallapot": "2016.06.07. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex egységes szerkezetű magyar szövegére (CELEX 12016E, HL C 202., 2016.6.7.; a szerződés, a jegyzőkönyvek, a mellékletek, a nyilatkozatok és a megfelelési táblázatok). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/EUSZ - az Európai Unióról szóló szerződés (2016).txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/EUSZ - az Európai Unióról szóló szerződés (2016).txt",
       "storageName": "EUSZ - az Európai Unióról szóló szerződés (2016).txt",
-      "bytes": 445142,
-      "sha256": "7bc5b4451b7386ffbf22b0fe386a4dd374d623d112208931175aae2a1a456e57",
-      "macUtkozes": false
+      "bytes": 435816,
+      "sha256": "52719d6a52003911c26d80e8ba8c6cb428d402e085ebb54d1f9fc7ea3b1a5f64",
+      "macUtkozes": false,
+      "idoallapot": "2016.06.07. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex egységes szerkezetű magyar szövegére (CELEX 12016M, HL C 202., 2016.6.7.; a szerződés, a jegyzőkönyvek, a nyilatkozatok és a megfelelési táblázatok). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/Ismertetők az Európai Unióról - Energiapolitika általános elvek (2020).txt",
