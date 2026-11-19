@@ -1,7 +1,7 @@
 # S1 – alapfelvétel: C/2 – Az Európai Unió joga
 
 - kiírás: 43 tétel (tetelsor/kiiras_2026.txt); jegyzet: 131 rész 43 tételben
-- feloldott hivatkozás: 199; feloldatlan: 3; a kiírás által nem hivatkozott korpusz-fájl: 10
+- feloldott hivatkozás: 199; feloldatlan: 2; a kiírás által nem hivatkozott korpusz-fájl: 10
 - alapfelvételi hiba: 0
 
 
@@ -9,7 +9,6 @@
 
 - 1. tétel: a kiírásban nincs feloldható hivatkozás
 - 11. tétel: a kiírásban nincs feloldható hivatkozás
-- 43. tétel: fel nem ismert hivatkozás: https://www.europarl.europa.eu/factsheets/hu/sheet/68/energiapolitika-altalanos-elvek
 
 ## Átfogó ismeret (a kiírás elején)
 
@@ -75,4 +74,4 @@
 | 40 | Mi a versenyjog funkciója? Milyen jogforráson alapul? (antitröszt, áll | 2 | 41381 | 137109 | 0 |
 | 41 | Mi a Bizottság szerepe a versenyjogban (a Bizottság hatásköre, jogalko | 1 | 47426 | 86299 | 0 |
 | 42 | Az adatkezelési elvek és az érintett jogai | 1 | 77658 | 373546 | 0 |
-| 43 | Az Európai Unió klíma- és energiapolitikájának fő irányai | 1 | 38135 | 24610 | 1 |
+| 43 | Az Európai Unió klíma- és energiapolitikájának fő irányai | 1 | 38135 | 24610 | 0 |
