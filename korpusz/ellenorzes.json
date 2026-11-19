@@ -1,0 +1,1223 @@
+{
+ "korpusz": {
+  "hianyzoForras": [],
+  "forrashozNemKotottFajl": [
+   "Bizottsági közlemény - közszolgáltatás ellentételezése (2012_C 8_03).txt",
+   "C-106_89 Marleasing-ügy.txt",
+   "C-12_86 Demirel-ügy.txt",
+   "C-147_03 Bizottság kontra Ausztria-ügy.txt",
+   "C-2_74 Reyners-ügy.txt",
+   "C-344_87 Bettray-ügy.txt",
+   "C-374_87 Orkem-ügy.txt",
+   "C-453_99 Courage-ügy.txt",
+   "C-583_11 P Inuit Tapiriit Kanatami-ügy.txt",
+   "C-5_88 Wachauf-ügy.txt",
+   "T-18_10 Inuit Tapiriit Kanatami végzés (EN).txt"
+  ],
+  "duplikalt": []
+ },
+ "dobozok": {
+  "osszes": 3,
+  "elteres": []
+ },
+ "lefedettseg": {
+  "1": {
+   "hiany": [],
+   "info": []
+  },
+  "2": {
+   "hiany": [
+    {
+     "forras": "EUSZ",
+     "elem": "13–13",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "223–287",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "3": {
+   "hiany": [
+    {
+     "forras": "EUSZ",
+     "elem": "17–17",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "244–250",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "4": {
+   "hiany": [
+    {
+     "forras": "EUSZ",
+     "elem": "15–16",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "235–243",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "5": {
+   "hiany": [
+    {
+     "forras": "EUSZ",
+     "elem": "14–14",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "223–234",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "6": {
+   "hiany": [
+    {
+     "forras": "EUSZ",
+     "elem": "19–19",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "251–281",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "7": {
+   "hiany": [
+    {
+     "forras": "EUSZ",
+     "elem": "39–39",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "16–16",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "24–24",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "227–228",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "R45_2001",
+     "elem": "41–48",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "Charta",
+     "elem": "43–44",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "8": {
+   "hiany": [
+    {
+     "forras": "Alaptv",
+     "elem": "E)–E)",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUSZ",
+     "elem": "4–5",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "2–6",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "352–352",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "30/1998. (VI. 25.) AB határozat",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "143/2010. (VII. 14.) AB határozat",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "32/2008. (III. 12.) AB határozat",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "22/2016. (XII. 5.) AB határozat",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "2/2019. (III. 5.) AB határozat",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "9": {
+   "hiany": [
+    {
+     "forras": "EUSZ",
+     "elem": "5–5",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "21–22",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "25–25",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "77–77",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "81–81",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "113–113",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "289–289",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "293–294",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "296–297",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "10": {
+   "hiany": [
+    {
+     "forras": "EUSZ",
+     "elem": "5–5",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUSZ",
+     "elem": "12–12",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUSZ",
+     "elem": "48–48",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "69–71",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "81–81",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "85–85",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "88–88",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "11": {
+   "hiany": [],
+   "info": []
+  },
+  "12": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "216–219",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "13": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "288–288",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "297–297",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "14": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "288–288",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "297–297",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "15": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "288–290",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "292–292",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "296–296",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "16": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "288–288",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "C-26/62",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-6/64",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-106/77",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-493/17",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "17": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "288–288",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "C-26/62",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-41/74",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-152/84",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-106/89",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "18": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "20–25",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "C-200/02",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-135/08",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "T-529/13",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-420/16",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "T-646/13",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "T-391/17",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-899/19",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "19": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "10–10",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "18–19",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "34–37",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "45–45",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "49–49",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "54–56",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "63–63",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "110–110",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "157–157",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "C-43/75",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-415/93",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-141/04",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "20": {
+   "hiany": [
+    {
+     "forras": "EUSZ",
+     "elem": "6–6",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "Charta",
+     "elem": "None–None",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUB 2/94",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "EUB 2/13",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "21": {
+   "hiany": [
+    {
+     "forras": "C-29/69",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-11/70",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-4/73",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-36/75",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-44/79",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-12/86",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-374/87",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-5/88",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-112/00",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-328/04",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-617/10",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "22": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "258–260",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "23": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "263–266",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "277–277",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "C-25/62",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-294/83",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "T-18/10",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-583/11",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "24": {
+   "hiany": [
+    {
+     "forras": "EUSZ",
+     "elem": "19–19",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "267–267",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "C-283/81",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-210/06",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-54/96",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-416/10",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "25": {
+   "hiany": [
+    {
+     "forras": "3/2005. PK-KK vélemény",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "1/2009. PK-KK vélemény",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "EBH 2008.1815",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "26": {
+   "hiany": [
+    {
+     "forras": "C-6/90",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-9/90",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-46/93",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-48/93",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-224/01",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-68/79",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "27": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "340–340",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "C-5/66",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-5/71",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-83/76",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "28": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "67–76",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "81–81",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "1215/2012/EU",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "2019/1111/EU",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "593/2008/EK",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "864/2007/EK",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "1259/2010/EU",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "650/2012/EU",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "2020/1783/EU",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "2020/1784/EU",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "29": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "82–86",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "C-187/01",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-436/04",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-150/05",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-297/07",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-486/14",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-491/07",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "30": {
+   "hiany": [
+    {
+     "forras": "EUSZ",
+     "elem": "21–37",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUSZ",
+     "elem": "40–40",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "31": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "114–118",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "32": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "20–20",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "21–21",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "26–26",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "45–45",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "2004/38/EK",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-41/74",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-149/79",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-473/93",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-364/10",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-673/16",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "33": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "45–45",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "49–55",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "C-139/85",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-66/85",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-344/87",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-379/87",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "34": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "49–50",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "54–55",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "C-212/97",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-208/00",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-210/06",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "35": {
+   "hiany": [
+    {
+     "forras": "98/5/EK",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "2005/36/EK",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-340/89",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-55/94",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-359/09",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "36": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "28–30",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "34–37",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "110–110",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "C-24/68",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-8/74",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-120/78",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-57/65",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-290/05",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "37": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "56–62",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "2006/123/EK",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-33/74",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-55/94",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "38": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "63–66",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "C-286/82",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-26/83",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-358/93",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-416/93",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-484/93",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "C-503/99",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "39": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "119–144",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "219–219",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "282–284",
+     "ok": "a tartomány határa nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "40": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "3–3",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "EUMSZ",
+     "elem": "101–109",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "139/2004/EK",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "2006/111/EK",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "41": {
+   "hiany": [
+    {
+     "forras": "EUMSZ",
+     "elem": "101–102",
+     "ok": "a tartomány határa nincs a korpuszban"
+    },
+    {
+     "forras": "2003/1/EK",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "42": {
+   "hiany": [
+    {
+     "forras": "(EU) 2016/679",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  },
+  "43": {
+   "hiany": [
+    {
+     "forras": "EP-ismerteto-energia",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    },
+    {
+     "forras": "Consilium-eghajlat",
+     "elem": "None–None",
+     "ok": "a jogszabály nincs a korpuszban"
+    }
+   ],
+   "info": []
+  }
+ }
+}

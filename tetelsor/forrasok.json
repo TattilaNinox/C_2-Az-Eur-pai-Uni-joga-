@@ -1,0 +1,1225 @@
+{
+ "forrasok": [
+  {
+   "kod": "EUMSZ",
+   "nev": "Az Európai Unió működéséről szóló szerződés (egységes szerkezet, 2016)",
+   "tipus": null,
+   "jogszabalytar": null,
+   "korpusz": [
+    "EUMSZ - az Európai Unió működéséről szóló szerződés (2016).txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "EUSZ",
+   "nev": "Az Európai Unióról szóló szerződés (egységes szerkezet, 2016)",
+   "tipus": null,
+   "jogszabalytar": null,
+   "korpusz": [
+    "EUSZ - az Európai Unióról szóló szerződés (2016).txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "Charta",
+   "nev": "Az Európai Unió Alapjogi Chartája (2016/C 202/02)",
+   "tipus": null,
+   "jogszabalytar": null,
+   "korpusz": [
+    "Alapjogi Charta (2016).txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "R45_2001",
+   "nev": "45/2001/EK európai parlamenti és tanácsi rendelet a személyes adatok közösségi intézmények és szervek által történő feldolgozásáról",
+   "tipus": null,
+   "jogszabalytar": null,
+   "korpusz": [
+    "45_2001_EK rendelet a személyes adatok intézményi feldolgozásáról.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "Alaptv",
+   "nev": "Magyarország Alaptörvénye",
+   "tipus": null,
+   "jogszabalytar": null,
+   "korpusz": [
+    "Alaptörvény - Magyarország Alaptörvénye (2011. április 25.) - Hatályos Jogszabályok Gyűjteménye.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "Pp",
+   "nev": "2016. évi CXXX. törvény a polgári perrendtartásról",
+   "tipus": null,
+   "jogszabalytar": null,
+   "korpusz": [
+    "Pp. (új) - 2016. évi CXXX. törvény a polgári perrendtartásról - Hatályos Jogszabályok Gyűjteménye.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "Be",
+   "nev": "2017. évi XC. törvény a büntetőeljárásról",
+   "tipus": null,
+   "jogszabalytar": null,
+   "korpusz": [
+    "Be. (új) - 2017. évi XC. törvény a büntetőeljárásról - Hatályos Jogszabályok Gyűjteménye.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-5/66",
+   "nev": "5/66., 7/66. és 13–24/66. sz. Kampffmeyer és társai egyesített ügyek",
+   "tipus": "EUB-ügy",
+   "jogszabalytar": null,
+   "korpusz": [
+    "5_7-24_66 Kampffmeyer egyesített ügyek.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "EUB 2/94",
+   "nev": "Az Európai Bíróság 2/94. sz. véleménye (EJEE)",
+   "tipus": "EUB vélemény",
+   "jogszabalytar": null,
+   "korpusz": [
+    "2_94 sz. EUB vélemény (EJEE).txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "EUB 2/13",
+   "nev": "Az Európai Bíróság 2/13. sz. véleménye (EJEE)",
+   "tipus": "EUB vélemény",
+   "jogszabalytar": null,
+   "korpusz": [
+    "2_13 sz. EUB vélemény (EJEE).txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "3/2005. PK-KK vélemény",
+   "nev": "3/2005. (XI. 14.) LB PK-KK közös vélemény a tárgyalás felfüggesztésének egyes kérdéseiről",
+   "tipus": "kollégiumi vélemény",
+   "jogszabalytar": null,
+   "korpusz": [
+    "3_2005. (XI. 14.) PK-KK vélemény.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "1/2009. PK-KK vélemény",
+   "nev": "1/2009. (VI. 24.) LB PK-KK közös vélemény az előzetes döntéshozatali eljárás kezdeményezése körében hozott végzések elleni fellebbezések elbírálásáról és a kezdeményezési kötelezettségről",
+   "tipus": "kollégiumi vélemény",
+   "jogszabalytar": null,
+   "korpusz": [
+    "1_2009. (VI. 24.) PK-KK közös vélemény.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "EBH 2008.1815",
+   "nev": "Legf. Bír. Kfv. I. 35.055/2007. (EBH 2008/1/1815)",
+   "tipus": "eseti döntés",
+   "jogszabalytar": null,
+   "korpusz": [
+    "EH 2008.1815 Kfv.I.35.055_2007.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "EP-ismerteto-energia",
+   "nev": "Ismertetők az Európai Unióról – Energiapolitika: általános elvek (2020)",
+   "tipus": "ismertető",
+   "jogszabalytar": null,
+   "korpusz": [
+    "Ismertetők az Európai Unióról - Energiapolitika általános elvek (2020).txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "Consilium-eghajlat",
+   "nev": "Az Európai Unió Tanácsa: Éghajlatváltozás (consilium.europa.eu/hu/policies/climate-change)",
+   "tipus": "ismertető",
+   "jogszabalytar": null,
+   "korpusz": [
+    "Consilium - éghajlatváltozás politikája.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "30/1998. (VI. 25.) AB határozat",
+   "nev": "30/1998. (VI. 25.) AB határozat",
+   "tipus": "AB határozat",
+   "jogszabalytar": null,
+   "korpusz": [
+    "30_1998. (VI. 25.) AB határozat.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "143/2010. (VII. 14.) AB határozat",
+   "nev": "143/2010. (VII. 14.) AB határozat",
+   "tipus": "AB határozat",
+   "jogszabalytar": null,
+   "korpusz": [
+    "143_2010. (VII. 14.) AB határozat.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "32/2008. (III. 12.) AB határozat",
+   "nev": "32/2008. (III. 12.) AB határozat",
+   "tipus": "AB határozat",
+   "jogszabalytar": null,
+   "korpusz": [
+    "32_2008. (III. 12.) AB határozat.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "22/2016. (XII. 5.) AB határozat",
+   "nev": "22/2016. (XII. 5.) AB határozat",
+   "tipus": "AB határozat",
+   "jogszabalytar": null,
+   "korpusz": [
+    "22_2016. (XII. 5.) AB határozat az Alaptörvény E) cikk (2) bekezdésének értelmezéséről.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "2/2019. (III. 5.) AB határozat",
+   "nev": "2/2019. (III. 5.) AB határozat",
+   "tipus": "AB határozat",
+   "jogszabalytar": null,
+   "korpusz": [
+    "2_2019. (III. 5.) AB határozat az Alaptörvény R) cikk (1) bekezdésének, 24. cikk (1) bekezdésének, valamint a XIV. cikk (4) bekezdésének értelmezéséről.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-26/62",
+   "nev": "C-26/62",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-26_62 van Gend en Loos-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-6/64",
+   "nev": "C-6/64",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-6_64 Costa kontra ENEL-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-106/77",
+   "nev": "C-106/77",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-106_77 Simmenthal-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-493/17",
+   "nev": "C-493/17",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-493_17 Weiss-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-41/74",
+   "nev": "C-41/74",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-41_74 van Duyn-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-152/84",
+   "nev": "C-152/84",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-152_84 Marshall-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-106/89",
+   "nev": "C-106/89",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-106_89 Marleasing-ügy tárgyalási jelentés.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-200/02",
+   "nev": "C-200/02",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-200_02 Zhu és Chen-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-135/08",
+   "nev": "C-135/08",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-135_08 Rottmann-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "T-529/13",
+   "nev": "T-529/13",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "T-529_13 Izsák és Dabis-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-420/16",
+   "nev": "C-420/16",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-420_16 P Izsák és Dabis-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "T-646/13",
+   "nev": "T-646/13",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "T-646_13 Minority SafePack-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "T-391/17",
+   "nev": "T-391/17",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "T-391_17 Románia kontra Bizottság Minority SafePack-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-899/19",
+   "nev": "C-899/19",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-899_19 P Románia kontra Bizottság-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-43/75",
+   "nev": "C-43/75",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-43_75 Defrenne II-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-415/93",
+   "nev": "C-415/93",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-415_93 Bosman-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-141/04",
+   "nev": "C-141/04",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-144_04 Mangold-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-29/69",
+   "nev": "C-29/69",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-29_69 Stauder-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-11/70",
+   "nev": "C-11/70",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-11_70 Internationale Handelsgesellschaft-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-4/73",
+   "nev": "C-4/73",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-4_73 Nold-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-36/75",
+   "nev": "C-36/75",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-36_75 Rutili-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-44/79",
+   "nev": "C-44/79",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-44_79 Hauer-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-12/86",
+   "nev": "C-12/86",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-12_86 Demirel-ügy tárgyalási jelentés.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-374/87",
+   "nev": "C-374/87",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-374_87 Orkem-ügy tárgyalási jelentés.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-5/88",
+   "nev": "C-5/88",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-5_88 Wachauf-ügy tárgyalási jelentés.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-112/00",
+   "nev": "C-112/00",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-112_00 Schmidberger-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-328/04",
+   "nev": "C-328/04",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-328_04 Vajnai-ügy végzés.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-617/10",
+   "nev": "C-617/10",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-617_10 Åkerberg Fransson-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-25/62",
+   "nev": "C-25/62",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-25_62 Plaumann-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-294/83",
+   "nev": "C-294/83",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-294_83 Les Verts-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "T-18/10",
+   "nev": "T-18/10",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-583_11 Inuit Tapiriit Kanatami fellebbezés.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-583/11",
+   "nev": "C-583/11",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-583_11 Inuit Tapiriit Kanatami fellebbezés.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-283/81",
+   "nev": "C-283/81",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-283_81 CILFIT-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-210/06",
+   "nev": "C-210/06",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-210_06 Cartesio-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-54/96",
+   "nev": "C-54/96",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-54_96 Dorsch Consult-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-416/10",
+   "nev": "C-416/10",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-416_10 Križan-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-6/90",
+   "nev": "C-6/90",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-6_90 Francovich és Bonifaci egyesített ügyek.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-9/90",
+   "nev": "C-9/90",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-6_90 Francovich és Bonifaci egyesített ügyek.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-46/93",
+   "nev": "C-46/93",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-46_93 Brasserie du Pêcheur-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-48/93",
+   "nev": "C-48/93",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-46_93 Brasserie du Pêcheur-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-224/01",
+   "nev": "C-224/01",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-224_01 Köbler-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-68/79",
+   "nev": "C-68/79",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-68_79 Hans Just-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-5/71",
+   "nev": "C-5/71",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-5_71 Schöppenstedt-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-83/76",
+   "nev": "C-83/76",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-83_76 Bayerische HNL-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "1215/2012/EU",
+   "nev": "1215/2012/EU",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "1215_2012_EU rendelet Brüsszel Ia.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "2019/1111/EU",
+   "nev": "2019/1111/EU",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "2019_1111_EU rendelet Brüsszel IIb.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "593/2008/EK",
+   "nev": "593/2008/EK",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "593_2008_EK rendelet Róma I.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "864/2007/EK",
+   "nev": "864/2007/EK",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "864_2007_EK rendelet Róma II.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "1259/2010/EU",
+   "nev": "1259/2010/EU",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "1259_2010_EU rendelet Róma III.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "650/2012/EU",
+   "nev": "650/2012/EU",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "650_2012_EU rendelet öröklési ügyek.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "2020/1783/EU",
+   "nev": "2020/1783/EU",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "2020_1783_EU rendelet a bizonyításfelvételről.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "2020/1784/EU",
+   "nev": "2020/1784/EU",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "2020_1784_EU rendelet iratkézbesítés.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-187/01",
+   "nev": "C-187/01",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-187_01 Gözütok és Brügge-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-436/04",
+   "nev": "C-436/04",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-436_04 Van Esbroeck-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-150/05",
+   "nev": "C-150/05",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-150_05 Van Straaten-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-297/07",
+   "nev": "C-297/07",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-297_07 Bourquain-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-486/14",
+   "nev": "C-486/14",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-486_14 Kossowski-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-491/07",
+   "nev": "C-491/07",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-491_07 Turanský-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "2004/38/EK",
+   "nev": "2004/38/EK",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "2004_38_EK irányelv a polgárok szabad mozgásáról.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-149/79",
+   "nev": "C-149/79",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-149_79 Bizottság kontra Belgium-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-473/93",
+   "nev": "C-473/93",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-473_93 Bizottság kontra Luxemburg-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-364/10",
+   "nev": "C-364/10",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-364_10 Magyarország kontra Szlovákia-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-673/16",
+   "nev": "C-673/16",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-673_16 Coman-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-139/85",
+   "nev": "C-139/85",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-139_85 Kempf-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-66/85",
+   "nev": "C-66/85",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-66_85 Lawrie-Blum-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-344/87",
+   "nev": "C-344/87",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-344_87 Bettray-ügy tárgyalási jelentés.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-379/87",
+   "nev": "C-379/87",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-379_87 Groener-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-212/97",
+   "nev": "C-212/97",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-212_97 Centros-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-208/00",
+   "nev": "C-208/00",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-208_00 Überseering-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "98/5/EK",
+   "nev": "98/5/EK",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "98_5_EK irányelv az ügyvédi hivatás állandó gyakorlásáról.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "2005/36/EK",
+   "nev": "2005/36/EK",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "2005_36_EK irányelv a szakmai képesítések elismeréséről.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-340/89",
+   "nev": "C-340/89",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-340_89 Vlassopoulou-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-55/94",
+   "nev": "C-55/94",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-55_94 Gebhard-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-359/09",
+   "nev": "C-359/09",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-359_09 Ebert-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-24/68",
+   "nev": "C-24/68",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-24_68 Bizottság kontra Olaszország-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-8/74",
+   "nev": "C-8/74",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-8_74 Dassonville-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-120/78",
+   "nev": "C-120/78",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-120_78 Cassis de Dijon-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-57/65",
+   "nev": "C-57/65",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-57_65 Lütticke-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-290/05",
+   "nev": "C-290/05",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-290_05 Nádasdi és Németh-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "2006/123/EK",
+   "nev": "2006/123/EK",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "2006_123_EK irányelv a belső piaci szolgáltatásokról.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-33/74",
+   "nev": "C-33/74",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-33_74 van Binsbergen-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-286/82",
+   "nev": "C-286/82",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-286_82 Luisi és Carbone egyesített ügyek.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-26/83",
+   "nev": "C-26/83",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-286_82 Luisi és Carbone egyesített ügyek.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-358/93",
+   "nev": "C-358/93",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-358_93 Bordessa és társai egyesített ügyek.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-416/93",
+   "nev": "C-416/93",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-358_93 Bordessa és társai egyesített ügyek.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-484/93",
+   "nev": "C-484/93",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-484_93 Svensson és Gustavsson-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "C-503/99",
+   "nev": "C-503/99",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "C-503_99 Bizottság kontra Belgium aranyrészvény-ügy.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "139/2004/EK",
+   "nev": "139/2004/EK",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "139_2004_EK rendelet az összefonódások ellenőrzéséről.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "2006/111/EK",
+   "nev": "2006/111/EK",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "2006_111_EK irányelv a közvállalkozások pénzügyi átláthatóságáról.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "2003/1/EK",
+   "nev": "2003/1/EK",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "1_2003_EK rendelet a versenyszabályok végrehajtásáról.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  },
+  {
+   "kod": "(EU) 2016/679",
+   "nev": "(EU) 2016/679",
+   "tipus": "iránymutatás",
+   "jogszabalytar": null,
+   "korpusz": [
+    "2016_679_EU rendelet GDPR.txt"
+   ],
+   "jogtar": null,
+   "jogkodex": null
+  }
+ ]
+}

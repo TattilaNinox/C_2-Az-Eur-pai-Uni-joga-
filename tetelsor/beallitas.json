@@ -1,0 +1,252 @@
+{
+ "sema": 1,
+ "azon": "c2",
+ "cim": "C/2 – Az Európai Unió joga",
+ "kategoria": "C/2 Az Európai Unió joga",
+ "tetelDb": 43,
+ "foKodex": "EUMSZ",
+ "kiiras": {
+  "fajl": "tetelsor/kiiras_2026.txt",
+  "pdf": "tetelsor/C2_kiiras_2026.pdf",
+  "ev": 2026
+ },
+ "jogallapot": "2026-12-09",
+ "apiKeretUsd": 60,
+ "hatarozatMod": "altalanos",
+ "megjegyzes": "S0/S1 beállítás (2026-11-19). A forrasok a kiírás cikk- és §-hivatkozásait a korpusz fájljaihoz kötik ('mintak': a kiírás megnevezései regexként, 'egyseg': cikk, § vagy romaiCikk). A rendeleteket, irányelveket, AB-határozatokat, kollégiumi véleményeket, eseti döntést és EUB-ügyeket az alapfelvetel.py általános módja (hatarozatMod: altalanos) a fájlnévből oldja fel; a 45/2001/EK rendelet azért forrás, mert a kiírás cikkre hivatkozik rá (7. tétel). Az EUMSZ második mintája a 16. tétel előtag nélküli „288. cikk” hivatkozását köti az EUMSZ-hez (a 13–15. és 17. tétel ugyanezt EUMSZ 288. cikként írja). Az Alaptörvény és a Charta mintája a tételcímben álló megnevezést kizárja (8. tétel „Alaptörvény E) cikke;”, 20. tétel „Alapjogi Chartája;”). A közös eszközkészlet kulcsai, amelyek a C/2-ben még nem ismertek, az A/2 szerint üresek vagy null. A kiírás azon forrásait, amelyeket az általános mód nem ismer fel (13–24/66. Kampffmeyer, 2/94. és 2/13. EUB-vélemény, „LB PK-KK közös vélemény”, „Legf. Bír. Kfv.” alakú eseti döntés, a 43. tétel ismertetői), a forrasok sorolja fel 'tipus'-sal; egységhivatkozás nélkül a teljes fájl az előírás.",
+ "forrasok": [
+  {
+   "kod": "EUMSZ",
+   "nev": "Az Európai Unió működéséről szóló szerződés (egységes szerkezet, 2016)",
+   "mintak": [
+    "EUMSZ",
+    "(?<=elsőbbsége )(?=288\\. cikk)"
+   ],
+   "fajlKezdet": "EUMSZ - ",
+   "egyseg": "cikk",
+   "atfogo": true
+  },
+  {
+   "kod": "EUSZ",
+   "nev": "Az Európai Unióról szóló szerződés (egységes szerkezet, 2016)",
+   "mintak": [
+    "EUSZ"
+   ],
+   "fajlKezdet": "EUSZ - ",
+   "egyseg": "cikk",
+   "atfogo": true
+  },
+  {
+   "kod": "Charta",
+   "nev": "Az Európai Unió Alapjogi Chartája (2016/C 202/02)",
+   "mintak": [
+    "Az Európai Unió Alapjogi Chartája(?!;)"
+   ],
+   "fajl": "Alapjogi Charta (2016).txt",
+   "egyseg": "cikk"
+  },
+  {
+   "kod": "R45_2001",
+   "nev": "45/2001/EK európai parlamenti és tanácsi rendelet a személyes adatok közösségi intézmények és szervek által történő feldolgozásáról",
+   "mintak": [
+    "45/2001/EK rendelet"
+   ],
+   "fajlKezdet": "45_2001_EK",
+   "egyseg": "cikk"
+  },
+  {
+   "kod": "Alaptv",
+   "nev": "Magyarország Alaptörvénye",
+   "mintak": [
+    "Alaptörvény(?= E\\) cikk,)"
+   ],
+   "fajlKezdet": "Alaptörvény - ",
+   "egyseg": "romaiCikk"
+  },
+  {
+   "kod": "Pp",
+   "nev": "2016. évi CXXX. törvény a polgári perrendtartásról",
+   "mintak": [
+    "Pp\\."
+   ],
+   "fajlKezdet": "Pp. (új)",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Be",
+   "nev": "2017. évi XC. törvény a büntetőeljárásról",
+   "mintak": [
+    "Be\\."
+   ],
+   "fajlKezdet": "Be. (új)",
+   "egyseg": "§"
+  },
+  {
+   "kod": "C-5/66",
+   "nev": "5/66., 7/66. és 13–24/66. sz. Kampffmeyer és társai egyesített ügyek",
+   "tipus": "EUB-ügy",
+   "mintak": [
+    "C-13-24/66\\. sz\\."
+   ],
+   "fajlKezdet": "5_7-24_66 Kampffmeyer",
+   "egyseg": "cikk"
+  },
+  {
+   "kod": "EUB 2/94",
+   "nev": "Az Európai Bíróság 2/94. sz. véleménye (EJEE)",
+   "tipus": "EUB vélemény",
+   "mintak": [
+    "2/94\\. sz\\."
+   ],
+   "fajlKezdet": "2_94 sz. EUB vélemény",
+   "egyseg": "cikk"
+  },
+  {
+   "kod": "EUB 2/13",
+   "nev": "Az Európai Bíróság 2/13. sz. véleménye (EJEE)",
+   "tipus": "EUB vélemény",
+   "mintak": [
+    "2/13\\. sz\\."
+   ],
+   "fajlKezdet": "2_13 sz. EUB vélemény",
+   "egyseg": "cikk"
+  },
+  {
+   "kod": "3/2005. PK-KK vélemény",
+   "nev": "3/2005. (XI. 14.) LB PK-KK közös vélemény a tárgyalás felfüggesztésének egyes kérdéseiről",
+   "tipus": "kollégiumi vélemény",
+   "mintak": [
+    "3/2005\\. \\(XI\\. 14\\.\\) LB PK-KK közös vélemény"
+   ],
+   "fajlKezdet": "3_2005. (XI. 14.) PK-KK",
+   "egyseg": "cikk"
+  },
+  {
+   "kod": "1/2009. PK-KK vélemény",
+   "nev": "1/2009. (VI. 24.) LB PK-KK közös vélemény az előzetes döntéshozatali eljárás kezdeményezése körében hozott végzések elleni fellebbezések elbírálásáról és a kezdeményezési kötelezettségről",
+   "tipus": "kollégiumi vélemény",
+   "mintak": [
+    "1/2009\\. \\(VI\\. 24\\.\\) LB PK-KK közös vélemény"
+   ],
+   "fajlKezdet": "1_2009. (VI. 24.) PK-KK",
+   "egyseg": "cikk"
+  },
+  {
+   "kod": "EBH 2008.1815",
+   "nev": "Legf. Bír. Kfv. I. 35.055/2007. (EBH 2008/1/1815)",
+   "tipus": "eseti döntés",
+   "mintak": [
+    "Legf\\. Bír\\. Kfv\\. I\\. 35\\.055/2007\\."
+   ],
+   "fajlKezdet": "EH 2008.1815",
+   "egyseg": "cikk"
+  },
+  {
+   "kod": "EP-ismerteto-energia",
+   "nev": "Ismertetők az Európai Unióról – Energiapolitika: általános elvek (2020)",
+   "tipus": "ismertető",
+   "mintak": [
+    "Ismertetők az Európai Unióról - Energiapolitika"
+   ],
+   "fajlKezdet": "Ismertetők az Európai Unióról - Energiapolitika",
+   "egyseg": "cikk"
+  },
+  {
+   "kod": "Consilium-eghajlat",
+   "nev": "Az Európai Unió Tanácsa: Éghajlatváltozás (consilium.europa.eu/hu/policies/climate-change)",
+   "tipus": "ismertető",
+   "mintak": [
+    "https://www\\.consilium\\.europa\\.eu/hu/policies/climate-change/?"
+   ],
+   "fajlKezdet": "Consilium - éghajlatváltozás",
+   "egyseg": "cikk"
+  }
+ ],
+ "hatarozatok": [],
+ "targyKod": "szakvizsga_c2",
+ "celag": "termekek-c2",
+ "parMinta": "egyszeru",
+ "dobozRovidites": [
+  [
+   "EUMSZ",
+   "EUMSZ"
+  ],
+  [
+   "EUSZ",
+   "EUSZ"
+  ],
+  [
+   "Alapjogi Charta",
+   "Charta"
+  ],
+  [
+   "Az Európai Unió Alapjogi Chartája",
+   "Charta"
+  ],
+  [
+   "45/2001/EK rendelet",
+   "R45_2001"
+  ],
+  [
+   "Alaptörvény",
+   "Alaptv"
+  ],
+  [
+   "Pp\\.",
+   "Pp"
+  ],
+  [
+   "Be\\.",
+   "Be"
+  ],
+  [
+   "GDPR",
+   "(EU) 2016/679"
+  ],
+  [
+   "1/2003/EK rendelet",
+   "2003/1/EK"
+  ],
+  [
+   "2005/36/EK irányelv",
+   "2005/36/EK"
+  ],
+  [
+   "98/5/EK irányelv",
+   "98/5/EK"
+  ]
+ ],
+ "beagyazott": {},
+ "kiejtes": {},
+ "mondatRovidites": [],
+ "jogszabalyRovidites": [],
+ "kontroll": {
+  "jelzok": {},
+  "iranymutatasRx": "(?!)",
+  "paragrafusForrasok": [
+   "EUMSZ"
+  ]
+ },
+ "kiirasRovidites": {},
+ "biroRx": "(?!)",
+ "kommentar": null,
+ "mintaTetelek": null,
+ "rt2Alap": null,
+ "hangAlapAgak": [],
+ "emlites": {},
+ "elhatarolasPar": "EUMSZ \\d+\\. cikk",
+ "rt2PontKivetel": [],
+ "regiAuditFoMinta": "",
+ "regiAuditKod": [],
+ "kiirasElirasok": {
+  "kihagy": [
+   "95/46/EK"
+  ],
+  "megfeleltet": {
+   "C-141/04": "C-144_04 Mangold-ügy.txt",
+   "C-48/93": "C-46_93 Brasserie du Pêcheur-ügy.txt",
+   "C-26/83": "C-286_82 Luisi és Carbone egyesített ügyek.txt",
+   "C-416/93": "C-358_93 Bordessa és társai egyesített ügyek.txt"
+  }
+ }
+}
