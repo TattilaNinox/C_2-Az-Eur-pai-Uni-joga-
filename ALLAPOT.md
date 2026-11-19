@@ -93,3 +93,9 @@ A közös eszköz cikkre tagolt joganyagnál (S0–S1, 2026-11-19; a C/2-ben nem
 - **Alapállapot előtte → utána:** `feloldatlan 3 → 3` (az alapfelvétel kimenete a GDPR/95/46 hiba miatt most sincs commitolva), `dobozok: 418, eltérés: 30 → 15`, `hiányos bekezdés: 31 → 12`.
 - **Nyitva maradt dobozok:** 98/5/EK 2., 6., 10. (35. t.: a tétel saját „[helyesen: …]” betoldásai, a 6. cikk (3) bekezdése); EUMSZ 125. (39. t.: ismert eszközhiba, utasításra kihagyva – az új, egysoros (2) bekezdéssel a doboz_javit most már teljes szöveget adna); EUMSZ 294. (9. t.: az alcímek elvesznének); Charta 54. (20. t.: a záró megjegyzés a cikkhez csapódna). Az `ellenorzes` további eltérései: EUMSZ 10. (19. t.) – a forrásban (EUR-Lex) nincs záró pont, a doboz_javit a pont nélküli egyetlen sort a `csoportok()` záró levágása miatt nem látja (2. központi pont); a 35. tétel hat 2005/36/EK- és három 98/5/EK-preambulumdoboza – a tétel dobozszövege PDF-ből szétvágott („értel- (1) mében”), a preambulumdobozt a doboz_javit nem építi újra.
 
+
+## Közös készlet KE-3 (2026-11-19, központi chat)
+
+- Szinkronizálva (admin-commit `9ceab3a`): új `tools/s5/doboz_beszur.py` (doboz beszúrása a korpuszból), a `kontroll.py` minden forrás §/cikk-hivatkozását ellenőrzi és termékek nélkül is fut, betűs cikkszám, táblasor nem cikkfej, kihagyott megnevezés, záró sor levágása javítva.
+- `alapfelvetel: tétel 43, feloldott 199, feloldatlan 2, hiba 0` | `dobozok: 418, eltérés: 14; hiányzó forrás: []; lefedettségi hiány: 10 elem 2 tételben` | `hiányos bekezdés: 11`
+- A 7. tétel a 45/2001/EK helyett az (EU) 2018/1725 rendelet VI. fejezetére (52–60. cikk) épül (`beallitas.json` `tetelForras`; Attila döntése 2026-11-19 18:40). Az EUMSZ 125. cikk doboza újraépítve.

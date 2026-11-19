@@ -63,7 +63,7 @@
      "egyseg": "cikk",
      "tol": "13",
      "ig": "13",
-     "karakter": 1094
+     "karakter": 1093
     },
     {
      "forras": "EUMSZ",
@@ -71,7 +71,7 @@
      "egyseg": "cikk",
      "tol": "223",
      "ig": "287",
-     "karakter": 48727
+     "karakter": 48645
     }
    ],
    "feloldatlan": [],
@@ -109,7 +109,7 @@
      "egyseg": "cikk",
      "tol": "17",
      "ig": "17",
-     "karakter": 4675
+     "karakter": 4670
     },
     {
      "forras": "EUMSZ",
@@ -117,7 +117,7 @@
      "egyseg": "cikk",
      "tol": "244",
      "ig": "250",
-     "karakter": 4740
+     "karakter": 4729
     }
    ],
    "feloldatlan": [],
@@ -155,7 +155,7 @@
      "egyseg": "cikk",
      "tol": "15",
      "ig": "16",
-     "karakter": 4363
+     "karakter": 4356
     },
     {
      "forras": "EUMSZ",
@@ -163,7 +163,7 @@
      "egyseg": "cikk",
      "tol": "235",
      "ig": "243",
-     "karakter": 4873
+     "karakter": 4862
     }
    ],
    "feloldatlan": [],
@@ -201,7 +201,7 @@
      "egyseg": "cikk",
      "tol": "14",
      "ig": "14",
-     "karakter": 1056
+     "karakter": 1055
     },
     {
      "forras": "EUMSZ",
@@ -209,7 +209,7 @@
      "egyseg": "cikk",
      "tol": "223",
      "ig": "234",
-     "karakter": 7531
+     "karakter": 7521
     }
    ],
    "feloldatlan": [],
@@ -247,7 +247,7 @@
      "egyseg": "cikk",
      "tol": "19",
      "ig": "19",
-     "karakter": 1436
+     "karakter": 1435
     },
     {
      "forras": "EUMSZ",
@@ -255,7 +255,7 @@
      "egyseg": "cikk",
      "tol": "251",
      "ig": "281",
-     "karakter": 21483
+     "karakter": 21451
     }
    ],
    "feloldatlan": [],
@@ -286,6 +286,7 @@
    "csoport": "",
    "szoveg": "Az Európai Ombudsman és a petíciós jog; az Európai Adatvédelmi Biztos EUSZ 39. cikk, EUMSZ 16. cikk, 24. cikk, 227-228. cikk, 45/2001/EK rendelet 41-48. cikk, Az Európai Unió Alapjogi Chartája 43-44. cikk",
    "cim": "Az Európai Ombudsman és a petíciós jog; az Európai Adatvédelmi Biztos",
+   "forrasMegfeleltetes": "a kiírás által megnevezett 45/2001/EK rendelet 41–48. cikkét (az európai adatvédelmi biztos) az (EU) 2018/1725 rendelet hatályon kívül helyezte; helyükbe a VI. fejezet (52–60. cikk) lépett; Attila döntése (2026-11-19, 18:40)",
    "hivatkozasok": [
     {
      "forras": "EUSZ",
@@ -301,7 +302,7 @@
      "egyseg": "cikk",
      "tol": "16",
      "ig": "16",
-     "karakter": 701
+     "karakter": 700
     },
     {
      "forras": "EUMSZ",
@@ -317,15 +318,7 @@
      "egyseg": "cikk",
      "tol": "227",
      "ig": "228",
-     "karakter": 2653
-    },
-    {
-     "forras": "R45_2001",
-     "fajl": "45_2001_EK rendelet a személyes adatok intézményi feldolgozásáról.txt",
-     "egyseg": "cikk",
-     "tol": "41",
-     "ig": "48",
-     "karakter": 10319
+     "karakter": 2647
     },
     {
      "forras": "Charta",
@@ -334,6 +327,14 @@
      "tol": "43",
      "ig": "44",
      "karakter": 655
+    },
+    {
+     "forras": "R2018_1725",
+     "fajl": "2018_1725_EU rendelet a személyes adatok uniós intézményi kezeléséről.txt",
+     "egyseg": "cikk",
+     "tol": "52",
+     "ig": "60",
+     "karakter": 14036
     }
    ],
    "feloldatlan": [],
@@ -360,14 +361,14 @@
      "ig": "228"
     },
     {
-     "forras": "R45_2001",
-     "tol": "41",
-     "ig": "48"
-    },
-    {
      "forras": "Charta",
      "tol": "43",
      "ig": "44"
+    },
+    {
+     "forras": "R2018_1725",
+     "tol": "52",
+     "ig": "60"
     }
    ],
    "jegyzetek": [
@@ -399,7 +400,7 @@
      "egyseg": "cikk",
      "tol": "4",
      "ig": "5",
-     "karakter": 2699
+     "karakter": 2697
     },
     {
      "forras": "EUMSZ",
@@ -407,7 +408,7 @@
      "egyseg": "cikk",
      "tol": "2",
      "ig": "6",
-     "karakter": 4919
+     "karakter": 4913
     },
     {
      "forras": "EUMSZ",
@@ -415,7 +416,7 @@
      "egyseg": "cikk",
      "tol": "352",
      "ig": "352",
-     "karakter": 1410
+     "karakter": 1408
     },
     {
      "forras": "30/1998. (VI. 25.) AB határozat",
@@ -566,7 +567,7 @@
      "egyseg": "cikk",
      "tol": "21",
      "ig": "22",
-     "karakter": 2172
+     "karakter": 2171
     },
     {
      "forras": "EUMSZ",
@@ -574,7 +575,7 @@
      "egyseg": "cikk",
      "tol": "25",
      "ig": "25",
-     "karakter": 761
+     "karakter": 759
     },
     {
      "forras": "EUMSZ",
@@ -582,7 +583,7 @@
      "egyseg": "cikk",
      "tol": "77",
      "ig": "77",
-     "karakter": 1785
+     "karakter": 1781
     },
     {
      "forras": "EUMSZ",
@@ -590,7 +591,7 @@
      "egyseg": "cikk",
      "tol": "81",
      "ig": "81",
-     "karakter": 2318
+     "karakter": 2313
     },
     {
      "forras": "EUMSZ",
@@ -614,7 +615,7 @@
      "egyseg": "cikk",
      "tol": "293",
      "ig": "294",
-     "karakter": 4673
+     "karakter": 4590
     },
     {
      "forras": "EUMSZ",
@@ -622,7 +623,7 @@
      "egyseg": "cikk",
      "tol": "296",
      "ig": "297",
-     "karakter": 1732
+     "karakter": 1731
     }
    ],
    "feloldatlan": [],
@@ -703,7 +704,7 @@
      "egyseg": "cikk",
      "tol": "12",
      "ig": "12",
-     "karakter": 1365
+     "karakter": 1363
     },
     {
      "forras": "EUSZ",
@@ -711,7 +712,7 @@
      "egyseg": "cikk",
      "tol": "48",
      "ig": "48",
-     "karakter": 4380
+     "karakter": 4304
     },
     {
      "forras": "EUMSZ",
@@ -719,7 +720,7 @@
      "egyseg": "cikk",
      "tol": "69",
      "ig": "71",
-     "karakter": 1372
+     "karakter": 1370
     },
     {
      "forras": "EUMSZ",
@@ -727,7 +728,7 @@
      "egyseg": "cikk",
      "tol": "81",
      "ig": "81",
-     "karakter": 2318
+     "karakter": 2313
     },
     {
      "forras": "EUMSZ",
@@ -735,7 +736,7 @@
      "egyseg": "cikk",
      "tol": "85",
      "ig": "85",
-     "karakter": 1641
+     "karakter": 1639
     },
     {
      "forras": "EUMSZ",
@@ -743,7 +744,7 @@
      "egyseg": "cikk",
      "tol": "88",
      "ig": "88",
-     "karakter": 1568
+     "karakter": 1566
     }
    ],
    "feloldatlan": [],
@@ -832,7 +833,7 @@
      "egyseg": "cikk",
      "tol": "216",
      "ig": "219",
-     "karakter": 7532
+     "karakter": 7519
     }
    ],
    "feloldatlan": [],
@@ -865,7 +866,7 @@
      "egyseg": "cikk",
      "tol": "288",
      "ig": "288",
-     "karakter": 658
+     "karakter": 657
     },
     {
      "forras": "EUMSZ",
@@ -911,7 +912,7 @@
      "egyseg": "cikk",
      "tol": "288",
      "ig": "288",
-     "karakter": 658
+     "karakter": 657
     },
     {
      "forras": "EUMSZ",
@@ -957,7 +958,7 @@
      "egyseg": "cikk",
      "tol": "288",
      "ig": "290",
-     "karakter": 2716
+     "karakter": 2713
     },
     {
      "forras": "EUMSZ",
@@ -965,7 +966,7 @@
      "egyseg": "cikk",
      "tol": "292",
      "ig": "292",
-     "karakter": 528
+     "karakter": 527
     },
     {
      "forras": "EUMSZ",
@@ -973,7 +974,7 @@
      "egyseg": "cikk",
      "tol": "296",
      "ig": "296",
-     "karakter": 646
+     "karakter": 645
     }
    ],
    "feloldatlan": [],
@@ -1016,7 +1017,7 @@
      "egyseg": "cikk",
      "tol": "288",
      "ig": "288",
-     "karakter": 658
+     "karakter": 657
     },
     {
      "forras": "C-26/62",
@@ -1125,7 +1126,7 @@
      "egyseg": "cikk",
      "tol": "288",
      "ig": "288",
-     "karakter": 658
+     "karakter": 657
     },
     {
      "forras": "C-26/62",
@@ -1234,7 +1235,7 @@
      "egyseg": "cikk",
      "tol": "20",
      "ig": "25",
-     "karakter": 5792
+     "karakter": 5785
     },
     {
      "forras": "C-200/02",
@@ -1408,7 +1409,7 @@
      "egyseg": "cikk",
      "tol": "18",
      "ig": "19",
-     "karakter": 1171
+     "karakter": 1170
     },
     {
      "forras": "EUMSZ",
@@ -1416,7 +1417,7 @@
      "egyseg": "cikk",
      "tol": "34",
      "ig": "37",
-     "karakter": 2149
+     "karakter": 2147
     },
     {
      "forras": "EUMSZ",
@@ -1424,7 +1425,7 @@
      "egyseg": "cikk",
      "tol": "45",
      "ig": "45",
-     "karakter": 1077
+     "karakter": 1075
     },
     {
      "forras": "EUMSZ",
@@ -1432,7 +1433,7 @@
      "egyseg": "cikk",
      "tol": "49",
      "ig": "49",
-     "karakter": 829
+     "karakter": 828
     },
     {
      "forras": "EUMSZ",
@@ -1440,7 +1441,7 @@
      "egyseg": "cikk",
      "tol": "54",
      "ig": "56",
-     "karakter": 1424
+     "karakter": 1421
     },
     {
      "forras": "EUMSZ",
@@ -1464,7 +1465,7 @@
      "egyseg": "cikk",
      "tol": "157",
      "ig": "157",
-     "karakter": 1560
+     "karakter": 1557
     },
     {
      "forras": "C-43/75",
@@ -1594,7 +1595,7 @@
      "egyseg": "cikk",
      "tol": "6",
      "ig": "6",
-     "karakter": 1143
+     "karakter": 1141
     },
     {
      "forras": "Charta",
@@ -1602,7 +1603,7 @@
      "egyseg": "cikk",
      "tol": null,
      "ig": null,
-     "karakter": 26031
+     "karakter": 24580
     },
     {
      "forras": "EUB 2/94",
@@ -1907,7 +1908,7 @@
      "egyseg": "cikk",
      "tol": "258",
      "ig": "260",
-     "karakter": 2982
+     "karakter": 2975
     }
    ],
    "feloldatlan": [],
@@ -1940,7 +1941,7 @@
      "egyseg": "cikk",
      "tol": "263",
      "ig": "266",
-     "karakter": 3692
+     "karakter": 3689
     },
     {
      "forras": "EUMSZ",
@@ -2056,7 +2057,7 @@
      "egyseg": "cikk",
      "tol": "19",
      "ig": "19",
-     "karakter": 1436
+     "karakter": 1435
     },
     {
      "forras": "EUMSZ",
@@ -2403,7 +2404,7 @@
      "egyseg": "cikk",
      "tol": "340",
      "ig": "340",
-     "karakter": 725
+     "karakter": 724
     },
     {
      "forras": "C-5/66",
@@ -2493,7 +2494,7 @@
      "egyseg": "cikk",
      "tol": "67",
      "ig": "76",
-     "karakter": 5085
+     "karakter": 5078
     },
     {
      "forras": "EUMSZ",
@@ -2501,7 +2502,7 @@
      "egyseg": "cikk",
      "tol": "81",
      "ig": "81",
-     "karakter": 2318
+     "karakter": 2313
     },
     {
      "forras": "1215/2012/EU",
@@ -2509,7 +2510,7 @@
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 87621
+     "karakter": 90870
     },
     {
      "forras": "2019/1111/EU",
@@ -2525,7 +2526,7 @@
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 52720
+     "karakter": 52035
     },
     {
      "forras": "864/2007/EK",
@@ -2533,7 +2534,7 @@
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 40690
+     "karakter": 42262
     },
     {
      "forras": "1259/2010/EU",
@@ -2565,7 +2566,7 @@
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 102146
+     "karakter": 62806
     }
    ],
    "feloldatlan": [],
@@ -2643,7 +2644,7 @@
      "egyseg": "cikk",
      "tol": "82",
      "ig": "86",
-     "karakter": 10450
+     "karakter": 10431
     },
     {
      "forras": "C-187/01",
@@ -2790,7 +2791,7 @@
      "egyseg": "cikk",
      "tol": "21",
      "ig": "37",
-     "karakter": 18912
+     "karakter": 18879
     },
     {
      "forras": "EUSZ",
@@ -2798,7 +2799,7 @@
      "egyseg": "cikk",
      "tol": "40",
      "ig": "40",
-     "karakter": 603
+     "karakter": 601
     }
    ],
    "feloldatlan": [],
@@ -2836,7 +2837,7 @@
      "egyseg": "cikk",
      "tol": "114",
      "ig": "118",
-     "karakter": 6314
+     "karakter": 6309
     }
    ],
    "feloldatlan": [],
@@ -2869,7 +2870,7 @@
      "egyseg": "cikk",
      "tol": "20",
      "ig": "20",
-     "karakter": 1290
+     "karakter": 1289
     },
     {
      "forras": "EUMSZ",
@@ -2885,7 +2886,7 @@
      "egyseg": "cikk",
      "tol": "26",
      "ig": "26",
-     "karakter": 561
+     "karakter": 559
     },
     {
      "forras": "EUMSZ",
@@ -2893,7 +2894,7 @@
      "egyseg": "cikk",
      "tol": "45",
      "ig": "45",
-     "karakter": 1077
+     "karakter": 1075
     },
     {
      "forras": "2004/38/EK",
@@ -2901,7 +2902,7 @@
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 56915
+     "karakter": 57949
     },
     {
      "forras": "C-41/74",
@@ -3055,7 +3056,7 @@
      "egyseg": "cikk",
      "tol": "45",
      "ig": "45",
-     "karakter": 1077
+     "karakter": 1075
     },
     {
      "forras": "EUMSZ",
@@ -3063,7 +3064,7 @@
      "egyseg": "cikk",
      "tol": "49",
      "ig": "55",
-     "karakter": 5774
+     "karakter": 5765
     },
     {
      "forras": "C-139/85",
@@ -3177,7 +3178,7 @@
      "egyseg": "cikk",
      "tol": "49",
      "ig": "50",
-     "karakter": 3298
+     "karakter": 3294
     },
     {
      "forras": "EUMSZ",
@@ -3185,7 +3186,7 @@
      "egyseg": "cikk",
      "tol": "54",
      "ig": "55",
-     "karakter": 890
+     "karakter": 887
     },
     {
      "forras": "C-212/97",
@@ -3280,7 +3281,7 @@
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 31413
+     "karakter": 33228
     },
     {
      "forras": "2005/36/EK",
@@ -3288,7 +3289,7 @@
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 340415
+     "karakter": 471571
     },
     {
      "forras": "C-340/89",
@@ -3383,7 +3384,7 @@
      "egyseg": "cikk",
      "tol": "28",
      "ig": "30",
-     "karakter": 1089
+     "karakter": 1088
     },
     {
      "forras": "EUMSZ",
@@ -3391,7 +3392,7 @@
      "egyseg": "cikk",
      "tol": "34",
      "ig": "37",
-     "karakter": 2149
+     "karakter": 2147
     },
     {
      "forras": "EUMSZ",
@@ -3537,7 +3538,7 @@
      "egyseg": "cikk",
      "tol": "56",
      "ig": "62",
-     "karakter": 2960
+     "karakter": 2959
     },
     {
      "forras": "2006/123/EK",
@@ -3545,7 +3546,7 @@
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 160202
+     "karakter": 163723
     },
     {
      "forras": "C-33/74",
@@ -3621,7 +3622,7 @@
      "egyseg": "cikk",
      "tol": "63",
      "ig": "66",
-     "karakter": 4214
+     "karakter": 4207
     },
     {
      "forras": "C-286/82",
@@ -3756,7 +3757,7 @@
      "egyseg": "cikk",
      "tol": "119",
      "ig": "144",
-     "karakter": 35144
+     "karakter": 35094
     },
     {
      "forras": "EUMSZ",
@@ -3764,7 +3765,7 @@
      "egyseg": "cikk",
      "tol": "219",
      "ig": "219",
-     "karakter": 2361
+     "karakter": 2359
     },
     {
      "forras": "EUMSZ",
@@ -3772,7 +3773,7 @@
      "egyseg": "cikk",
      "tol": "282",
      "ig": "284",
-     "karakter": 3311
+     "karakter": 3309
     }
    ],
    "feloldatlan": [],
@@ -3823,7 +3824,7 @@
      "egyseg": "cikk",
      "tol": "101",
      "ig": "109",
-     "karakter": 11128
+     "karakter": 11117
     },
     {
      "forras": "139/2004/EK",
@@ -3831,7 +3832,7 @@
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 95530
+     "karakter": 71146
     },
     {
      "forras": "2006/111/EK",
@@ -3839,7 +3840,7 @@
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 29775
+     "karakter": 13643
     }
    ],
    "feloldatlan": [],
@@ -3893,7 +3894,7 @@
      "egyseg": "cikk",
      "tol": "101",
      "ig": "102",
-     "karakter": 2747
+     "karakter": 2744
     },
     {
      "forras": "2003/1/EK",
@@ -3901,7 +3902,7 @@
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 83552
+     "karakter": 50059
     }
    ],
    "feloldatlan": [],
@@ -3939,7 +3940,7 @@
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 373546
+     "karakter": 200754
     }
    ],
    "feloldatlan": [],

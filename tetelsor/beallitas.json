@@ -48,11 +48,10 @@
   {
    "kod": "R45_2001",
    "nev": "45/2001/EK európai parlamenti és tanácsi rendelet a személyes adatok közösségi intézmények és szervek által történő feldolgozásáról",
-   "mintak": [
-    "45/2001/EK rendelet"
-   ],
+   "mintak": [],
    "fajlKezdet": "45_2001_EK",
-   "egyseg": "cikk"
+   "egyseg": "cikk",
+   "megjegyzes": "hatályon kívül; a kiírás 7. tételbeli hivatkozása helyett a tetelForras (2018/1725) – Attila döntése, 2026-11-19 18:40"
   },
   {
    "kod": "Alaptv",
@@ -160,6 +159,15 @@
    ],
    "fajlKezdet": "Consilium - éghajlatváltozás",
    "egyseg": "cikk"
+  },
+  {
+   "kod": "R2018_1725",
+   "nev": "(EU) 2018/1725 európai parlamenti és tanácsi rendelet a természetes személyeknek a személyes adatok uniós intézmények, szervek, hivatalok és ügynökségek általi kezelése tekintetében való védelméről",
+   "mintak": [
+    "2018/1725"
+   ],
+   "fajlKezdet": "2018_1725_EU",
+   "egyseg": "cikk"
   }
  ],
  "hatarozatok": [],
@@ -249,7 +257,22 @@
    "C-416/93": "C-358_93 Bordessa és társai egyesített ügyek.txt"
   },
   "nemHivatkozas": [
-   "https://www.europarl.europa.eu/factsheets/hu/sheet/68/energiapolitika-altalanos-elvek"
+   "https://www.europarl.europa.eu/factsheets/hu/sheet/68/energiapolitika-altalanos-elvek",
+   "45/2001/EK rendelet 41-48. cikk"
+  ]
+ },
+ "tetelForras": {
+  "7": [
+   {
+    "kod": "R2018_1725",
+    "nev": "(EU) 2018/1725 rendelet (az európai adatvédelmi biztos: VI. fejezet)",
+    "tipus": "rendelet",
+    "fajl": "2018_1725_EU rendelet a személyes adatok uniós intézményi kezeléséről.txt",
+    "egyseg": "cikk",
+    "tol": "52",
+    "ig": "60",
+    "indok": "a kiírás által megnevezett 45/2001/EK rendelet 41–48. cikkét (az európai adatvédelmi biztos) az (EU) 2018/1725 rendelet hatályon kívül helyezte; helyükbe a VI. fejezet (52–60. cikk) lépett; Attila döntése (2026-11-19, 18:40)"
+   }
   ]
  }
 }
