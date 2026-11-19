@@ -34,6 +34,13 @@ Programok utolsó sora (szó szerint):
 
 **Kiinduló számok értelmezése:** a 197 lefedettségi hiány gépi műtermék, nem tartalmi hiány (89 „a tartomány határa nincs a korpuszban” – minden cikk-tartomány; 108 „a jogszabály nincs a korpuszban” – minden teljes fájlként előírt EUB-ügy, rendelet, AB-határozat). A 3 felismert doboz a 25. tétel két Pp. 130. §- és egy Be. 490. §-doboza; a jegyzetek ~437 dobozából ~360 cikkfejlécű (EUMSZ, EUSZ, GDPR, Alapjogi Charta, 45/2001/EK, 1/2003/EK, 2005/36/EK, 98/5/EK), ezeket a közös eszköz nem ismeri fel.
 
+## A közös készlet KE-1 javítása után (2026-11-19, központi chat)
+
+- `alapfelvetel: tétel 43, feloldott 199, feloldatlan 3, hiba 0`
+- `dobozok: 408, eltérés: 91; hiányzó forrás: []; lefedettségi hiány: 1 elem 1 tételben`
+- `hiányos bekezdés: 183`
+- A korábbi „Központi teendő” pontok közül a hivatkozásfeloldás, a cikk-egység és a vegyes számozás javítva (admin-commit `d1c2925`). Az új feloldatlan sorok a maradékvizsgálatból jönnek (`jelentesek/alapfelvetel.md`): beállítást kérnek (`kiirasElirasok`), nem korpuszhiányt jelentenek.
+
 ## Attila teendői
 
 ## Központi teendő

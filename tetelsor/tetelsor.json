@@ -29,6 +29,7 @@
    "EUSZ"
   ]
  },
+ "csoportEloiras": [],
  "tetelek": [
   {
    "sorszam": 1,
@@ -1152,11 +1153,11 @@
     },
     {
      "forras": "C-106/89",
-     "fajl": "C-106_89 Marleasing-ügy tárgyalási jelentés.txt",
+     "fajl": "C-106_89 Marleasing-ügy.txt",
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 19691
+     "karakter": 9764
     }
    ],
    "feloldatlan": [],
@@ -1669,7 +1670,7 @@
    "sorszam": 21,
    "csoport": "",
    "szoveg": "Az Európai Unió Bíróságának ítélkezési gyakorlata az alapjogok terén; az uniós hatáskörök és az alapjogok védelmének kapcsolata C-29/69. sz. Stauder-ügy, C-11/70. sz. Internationale Handelsgesellschaft ügy, C-4/73 sz. Nold- ügy, C-36/75 sz. Rutili-ügy, C-44/79. sz. Hauer-ügy, C-12/86 sz. Demirel-ügy, C-374/87 sz. Orkem-ügy, C-5/88 sz. Wachauf-ügy, C-112/00. sz. Schmidberger-ügy, C-328/04. sz. Vajnai- ügy, C-617/10. sz. Åkerberg Fransson ügy",
-   "cim": "Az Európai Unió Bíróságának ítélkezési gyakorlata az alapjogok terén; az uniós hatáskörök és az alapjogok védelmének kapcsolata C-29/69. sz. Stauder-ügy, C-11/70. sz. Internationale Handelsgesellschaft ügy, C-4/73 sz. Nold- ügy, C-36/75 sz. Rutili-ügy, C-44/79. sz. Hauer-ügy, C-12/86 sz. Demirel-ügy, C-374/87 sz. Orkem-ügy, C-5/88 sz. Wachauf-ügy, C-112/00. sz. Schmidberger-ügy, C-328/04. sz. Vajnai- ügy, C-617/10. sz. Åkerberg Fransson ügy",
+   "cim": "Az Európai Unió Bíróságának ítélkezési gyakorlata az alapjogok terén; az uniós hatáskörök és az alapjogok védelmének kapcsolata",
    "hivatkozasok": [
     {
      "forras": "C-29/69",
@@ -1713,27 +1714,27 @@
     },
     {
      "forras": "C-12/86",
-     "fajl": "C-12_86 Demirel-ügy tárgyalási jelentés.txt",
+     "fajl": "C-12_86 Demirel-ügy.txt",
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 52332
+     "karakter": 17848
     },
     {
      "forras": "C-374/87",
-     "fajl": "C-374_87 Orkem-ügy tárgyalási jelentés.txt",
+     "fajl": "C-374_87 Orkem-ügy.txt",
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 45849
+     "karakter": 22300
     },
     {
      "forras": "C-5/88",
-     "fajl": "C-5_88 Wachauf-ügy tárgyalási jelentés.txt",
+     "fajl": "C-5_88 Wachauf-ügy.txt",
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 28898
+     "karakter": 19477
     },
     {
      "forras": "C-112/00",
@@ -1967,19 +1968,19 @@
     },
     {
      "forras": "T-18/10",
-     "fajl": "C-583_11 Inuit Tapiriit Kanatami fellebbezés.txt",
+     "fajl": "T-18_10 Inuit Tapiriit Kanatami végzés (EN).txt",
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 4978
+     "karakter": 43131
     },
     {
      "forras": "C-583/11",
-     "fajl": "C-583_11 Inuit Tapiriit Kanatami fellebbezés.txt",
+     "fajl": "C-583_11 P Inuit Tapiriit Kanatami-ügy.txt",
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 4978
+     "karakter": 81877
     }
    ],
    "feloldatlan": [],
@@ -2285,18 +2286,10 @@
    "sorszam": 26,
    "csoport": "",
    "szoveg": "A tagállam kárfelelőssége az uniós jog megsértéséért (általános alapelvek) C-6/90. sz. és C-9/90. sz. Frankovich és Bonifaci egyesített ügyek, C-46/93 és C-48/93. sz. Brasserie du Pecheur és Factortame egyesített ügyek, C-224/01. sz. Köbler-ügy, C-68/79. sz. Just-ügy",
-   "cim": "A tagállam kárfelelőssége az uniós jog megsértéséért (általános alapelvek) C-6/90. sz. és C-9/90. sz. Frankovich és Bonifaci egyesített ügyek, C-46/93 és C-48/93. sz. Brasserie du Pecheur és Factortame egyesített ügyek, C-224/01. sz. Köbler-ügy, C-68/79. sz. Just-ügy",
+   "cim": "A tagállam kárfelelőssége az uniós jog megsértéséért (általános alapelvek)",
    "hivatkozasok": [
     {
      "forras": "C-6/90",
-     "fajl": "C-6_90 Francovich és Bonifaci egyesített ügyek.txt",
-     "egyseg": "egesz",
-     "tol": null,
-     "ig": null,
-     "karakter": 27749
-    },
-    {
-     "forras": "C-9/90",
      "fajl": "C-6_90 Francovich és Bonifaci egyesített ügyek.txt",
      "egyseg": "egesz",
      "tol": null,
@@ -2341,11 +2334,6 @@
    "eloirasok": [
     {
      "forras": "C-6/90",
-     "tol": null,
-     "ig": null
-    },
-    {
-     "forras": "C-9/90",
      "tol": null,
      "ig": null
     },
@@ -3095,11 +3083,11 @@
     },
     {
      "forras": "C-344/87",
-     "fajl": "C-344_87 Bettray-ügy tárgyalási jelentés.txt",
+     "fajl": "C-344_87 Bettray-ügy.txt",
      "egyseg": "egesz",
      "tol": null,
      "ig": null,
-     "karakter": 26496
+     "karakter": 12500
     },
     {
      "forras": "C-379/87",
@@ -3284,7 +3272,7 @@
    "sorszam": 35,
    "csoport": "",
    "szoveg": "A diplomák és szakképesítések kölcsönös elismerése; az ügyvédi hivatás gyakorlása az Európai Unió más tagállamában 98/5/EK irányelv, 2005/36/EK irányelv, C-340/89. sz. Vlassopoulou-ügy, C-55/94. sz. Gebhard-ügy, C-359/09. sz. Ebert-ügy",
-   "cim": "A diplomák és szakképesítések kölcsönös elismerése; az ügyvédi hivatás gyakorlása az Európai Unió más tagállamában 98/5/EK irányelv, 2005/36/EK irányelv, C-340/89. sz. Vlassopoulou-ügy, C-55/94. sz. Gebhard-ügy, C-359/09. sz. Ebert-ügy",
+   "cim": "A diplomák és szakképesítések kölcsönös elismerése; az ügyvédi hivatás gyakorlása az Európai Unió más tagállamában",
    "hivatkozasok": [
     {
      "forras": "98/5/EK",
@@ -3943,7 +3931,7 @@
    "sorszam": 42,
    "csoport": "",
    "szoveg": "Az adatkezelési elvek és az érintett jogai A természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről szóló 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet, GDPR) II. és III. Fejezet",
-   "cim": "Az adatkezelési elvek és az érintett jogai A természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről szóló 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet, GDPR) II. és III. Fejezet",
+   "cim": "Az adatkezelési elvek és az érintett jogai",
    "hivatkozasok": [
     {
      "forras": "(EU) 2016/679",
@@ -3995,7 +3983,9 @@
      "karakter": 7270
     }
    ],
-   "feloldatlan": [],
+   "feloldatlan": [
+    "fel nem ismert hivatkozás: https://www.europarl.europa.eu/factsheets/hu/sheet/68/energiapolitika-altalanos-elvek"
+   ],
    "eloirasSzoveg": "Az Európai Unió klíma- és energiapolitikájának fő irányai Ismertetők az Európai Unióról - Energiapolitika: általános elvek (2020); https://www.europarl.europa.eu/factsheets/hu/sheet/68/energiapolitika-altalanos-elvek https://www.consilium.europa.eu/hu/policies/climate-change/",
    "eloirasok": [
     {

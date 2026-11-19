@@ -5,52 +5,103 @@ Gépi kimenet: `korpusz/ellenorzes.json`. Újragenerálás: `python3 tools/ellen
 ## 1. Korpusz
 
 - Hiányzó előírt forrás: nincs
-- Forráshoz nem kötött korpusz-fájl: Bizottsági közlemény - közszolgáltatás ellentételezése (2012_C 8_03).txt, C-106_89 Marleasing-ügy.txt, C-12_86 Demirel-ügy.txt, C-147_03 Bizottság kontra Ausztria-ügy.txt, C-2_74 Reyners-ügy.txt, C-344_87 Bettray-ügy.txt, C-374_87 Orkem-ügy.txt, C-453_99 Courage-ügy.txt, C-583_11 P Inuit Tapiriit Kanatami-ügy.txt, C-5_88 Wachauf-ügy.txt, T-18_10 Inuit Tapiriit Kanatami végzés (EN).txt
+- Forráshoz nem kötött korpusz-fájl: Bizottsági közlemény - közszolgáltatás ellentételezése (2012_C 8_03).txt, C-106_89 Marleasing-ügy tárgyalási jelentés.txt, C-12_86 Demirel-ügy tárgyalási jelentés.txt, C-147_03 Bizottság kontra Ausztria-ügy.txt, C-2_74 Reyners-ügy.txt, C-344_87 Bettray-ügy tárgyalási jelentés.txt, C-374_87 Orkem-ügy tárgyalási jelentés.txt, C-453_99 Courage-ügy.txt, C-583_11 Inuit Tapiriit Kanatami fellebbezés.txt, C-5_88 Wachauf-ügy tárgyalási jelentés.txt
 - Több fájlban szereplő forrás: nincs
 
-## 2. Dobozok (3 doboz, 0 eltérés)
+## 2. Dobozok (408 doboz, 91 eltérés)
 
+- 3. tétel, `EUMSZ 246. cikk`: eltér a korpusztól — „(az EKSz. korábbi 215. cikke) A Bizottság tagjainak megbízatása  a megbízatás lejártától vagy az elhalálozástól eltekin…”
+- 4. tétel, `EUMSZ 238. cikk`: eltér a korpusztól — „(3) Figyelemmel az átmeneti rendelkezésekről szóló jegyzőkönyvben megállapított rendelkezé sekre, 2014. november 1-jétől…”
+- 4. tétel, `EUMSZ 240. cikk`: eltér a korpusztól — „(3) A Tanács eljárási kérdésekben, valamint eljárási szabályzatának elfogadásakor egyszerű több séggel határoz.…”
+- 5. tétel, `EUSZ 14. cikk`: eltér a korpusztól — „(2) Az Európai Parlament az Unió polgárainak képviselőiből áll. A képviselők száma – az elnököt nem számítva  nem halad…”
+- 5. tétel, `EUMSZ 223. cikk`: eltér a korpusztól — „(1) Az Európai Parlament javaslatot dolgoz ki a tagjainak valamennyi tagállamban egységes eljárás szerint vagy valamenny…”
+- 5. tétel, `EUMSZ 228. cikk`: eltér a korpusztól — „(4) Az Európai Parlament saját kezdeményezésére különleges jogalkotási eljárás keretében elfoga dott rendeletekben, a Bi…”
+- 8. tétel, `EUSZ 5. cikk`: eltér a korpusztól — „(1) Az Unió hatásköreinek elhatárolására a hatáskör-átruházás elve az irányadó. Az uniós hatás körök gyakorlására a szub…”
+- 8. tétel, `EUMSZ 352. cikk`: eltér a korpusztól — „(1) Ha a Szerződésekben meghatározott politikák keretében az Unió fellépése bizonyul szük ségesnek ahhoz, hogy a Szerződ…”
+- 9. tétel, `EUMSZ 77. cikk`: eltér a korpusztól — „b) a személyek ellenőrzésének és a határátlépések eredményes felügyeletének biztosítása a külső határokon,…”
+- 9. tétel, `EUMSZ 81. cikk`: eltér a korpusztól — „(1) Az Unió a határokon átnyúló vonatkozású polgári ügyek tekintetében igazságügyi együttműködést alakít ki, amely a bír…”
+- 10. tétel, `EUMSZ 70. cikk`: eltér a korpusztól — „A 258., a 259. és a 260. cikk sérelme nélkül a Tanács a Bizottság javaslata alapján intézkedéseket fogadhat el, amelyekb…”
+- 10. tétel, `EUMSZ 81. cikk`: eltér a korpusztól — „(2) Az (1) bekezdésben foglaltak céljából az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében intézked…”
+- 10. tétel, `EUMSZ 85. cikk`: eltér a korpusztól — „c) az igazságügyi együttműködés erősítése, többek között a joghatósági összeütközések feloldása, valamint az Európai Iga…”
+- 10. tétel, `EUMSZ 88. cikk`: eltér a korpusztól — „b) a tagállamok hatáskörrel rendelkező hatóságaival közösen vagy közös nyomozócsoportok keretében végzett nyomozati és o…”
+- 11. tétel, `EUSZ 1. cikk`: eltér a korpusztól — „(1) E szerződéssel a egymás között létrehozzák az EURÓPAI UNIÓT (a továbbiakban: az Unió), amelyre közös célkitűzéseik e…”
+- 11. tétel, `EUSZ 3. cikk`: eltér a korpusztól — „(2) Az Unió egy belső határok nélküli, a szabadságon, a biztonságon és a jog érvényesülésén alapuló olyan térséget kínál…”
+- 19. tétel, `EUMSZ 10. cikk`: eltér a korpusztól — „Politikái és tevékenységei meghatározása és végrehajtása során az Unió küzd mindenfajta nemen, faji vagy etnikai származ…”
+- 20. tétel, `Alapjogi Charta 8. cikk`: eltér a korpusztól — „(2) Az ilyen adatokat csak tisztességesen és jóhiszeműen, meghatározott célokra, az érintett személy hozzájárulása alapj…”
+- 20. tétel, `Alapjogi Charta 12. cikk`: eltér a korpusztól — „(1) Mindenkinek joga van a békés célú gyülekezés szabadságához és a másokkal való bármilyen szintű, különösen politikai,…”
+- 20. tétel, `Alapjogi Charta 14. cikk`: eltér a korpusztól — „(3) Az oktatási intézmények demokratikus elvek figyelembevételével történő alapításának szabadságát, valamint a szülők a…”
+- 20. tétel, `Alapjogi Charta 15. cikk`: eltér a korpusztól — „(2) Az uniós polgárokat az Unió bármely tagállamában megilleti a szabad álláskeresés, munkavállalás, letelepedés és szol…”
+- 20. tétel, `Alapjogi Charta 17. cikk`: eltér a korpusztól — „(1) Mindenkinek joga van ahhoz, hogy jogszerűen szerzett tulajdonát birtokolja, használja, azzal rendelkezzen, és azt ör…”
+- 22. tétel, `EUMSZ 260. cikk`: eltér a korpusztól — „(2) Ha a Bizottság megítélése szerint az érintett tagállam nem teszi meg az Európai Unió Bírósá gának ítéletében foglalt…”
+- 28. tétel, `EUMSZ 67. cikk`: eltér a korpusztól — „(1) Az Unió egy, a szabadságon, a biztonságon és a jog érvényesülésén alapuló térséget alkot, amelyben tiszteletben tart…”
+- 28. tétel, `EUMSZ 70. cikk`: eltér a korpusztól — „A 258., a 259. és a 260. cikk sérelme nélkül a Tanács a Bizottság javaslata alapján intézkedéseket fogadhat el, amelyekb…”
+- 28. tétel, `EUMSZ 81. cikk`: eltér a korpusztól — „a) a bírósági és bíróságon kívüli ügyekben hozott határozatok tagállamok közötti kölcsönös elisme rése és azok végrehajt…”
+- 29. tétel, `EUMSZ 82. cikk`: eltér a korpusztól — „(1) Az Unióban a büntetőügyekben folytatott igazságügyi együttm űködés a bírósági ítéletek és határozatok kölcsönös elis…”
+- 29. tétel, `EUMSZ 83. cikk`: eltér a korpusztól — „(1) Az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében elfogadott irányelvekben szabályozási minimumo…”
+- 29. tétel, `EUMSZ 85. cikk`: eltér a korpusztól — „(1) Az Eurojust feladata a két vagy több tagállamot érintő, illetve a közös alapokon való bűnül dözést szükségessé tevő …”
+- 30. tétel, `EUSZ 22. cikk`: eltér a korpusztól — „(2) A közös kül- és biztonságpolitika terén az Unió külügyi és biztonságpolitikai f őképviselője, a külkapcsolatok egyéb…”
+- 30. tétel, `EUSZ 24. cikk`: eltér a korpusztól — „(3) A tagállamok az Unió kül- és biztonságpolitikáját a lojalitás és a kölcsönös szolidaritás jegyében tevékenyen és fen…”
+- 30. tétel, `EUSZ 26. cikk`: eltér a korpusztól — „(1) Az Európai Tanács megállapítja az Unió stratégiai érdekeit, valamint meghatározza a közös kül- és biztonságpolitika …”
+- 30. tétel, `EUSZ 28. cikk`: eltér a korpusztól — „(1) Amennyiben a nemzetközi helyzet műveleti fellépést tesz szükségessé, a Tanács elfogadja a szükséges határozatokat. A…”
+- 30. tétel, `EUSZ 31. cikk`: eltér a korpusztól — „(2) Az (1) bekezdés rendelkezéseitől eltérve, a Tanács minősített többséggel határoz:  amikor az Európai Tanácsnak az U…”
+- 30. tétel, `EUSZ 34. cikk`: eltér a korpusztól — „(2) A 24. cikk (3) bekezdésével összhangban azok a tagállamok, amelyek olyan nemzetközi szervezetekben, illetve konferen…”
+- 31. tétel, `EUMSZ 26. cikk`: eltér a korpusztól — „(3) A Tanács a Bizottság javaslata alapján meghatározza az összes érintett ágazat kiegyensúlyo zott fejlődésének biztosí…”
+- 31. tétel, `EUMSZ 114. cikk`: eltér a korpusztól — „(1) Ha a Szerződések másként nem rendelkeznek, a 26. cikkben meghatározott célkitűzések megvalósítására a következő rend…”
+- 31. tétel, `EUMSZ 117. cikk`: eltér a korpusztól — „(1) Amennyiben okkal lehet tartani attól, hogy törvényi, rendeleti vagy közigazgatási rendelke zések elfogadása vagy mód…”
+- 33. tétel, `EUMSZ 45. cikk`: eltér a korpusztól — „(2) A munkavállalók szabad mozgása magában foglalja az állampolgárság alapján történő minden megkülönböztetés megszüntet…”
+- 33. tétel, `EUMSZ 50. cikk`: eltér a korpusztól — „(2) Az Európai Parlament, a Tanács, illetve a Bizottság a fenti rendelkezésekben számára megálla pított feladatokat külö…”
+- 33. tétel, `EUMSZ 53. cikk`: eltér a korpusztól — „(1) Az Európai Parlament és a Tanács az önálló vállalkozói tevékenység megkezdésének és folytatásának megkönnyítése érde…”
+- 34. tétel, `EUMSZ 50. cikk`: eltér a korpusztól — „(2) Az Európai Parlament, a Tanács, illetve a Bizottság a fenti rendelkezésekben számára megálla pított feladatokat külö…”
+- 35. tétel, `98/5/EK irányelv 2. cikk`: eltér a korpusztól — „Bármely ügyvéd jogosult állandó jelleggel bármely más tagállamban a saját tagálla- mában megszerzett szakmai címmel az 5…”
+- 35. tétel, `98/5/EK irányelv 6. cikk`: eltér a korpusztól — „A saját tagállamában érvényes ügyvédi működési [helyesen: szakmai és etikai] sza- bályoktól függetlenül a saját országán…”
+- 35. tétel, `98/5/EK irányelv 10. cikk`: eltér a korpusztól — „(1) Annak a saját országa szakmai címével működő ügyvédnek, aki igazolja, hogy a fogadó tagállamban legalább három évig …”
+- 36. tétel, `EUMSZ 37. cikk`: eltér a korpusztól — „(2) A tagállamok tartózkodnak minden olyan új intézkedés bevezetésétől, amely ellentétes az (1) bekezdésben megállapítot…”
+- 37. tétel, `EUMSZ 58. cikk`: eltér a korpusztól — „(2) A tőkemozgásokkal kapcsolatos banki és biztosítási szolgáltatások liberalizációja a tőkemoz gások liberalizációjával…”
+- 37. tétel, `EUMSZ 59. cikk`: eltér a korpusztól — „(1) Az Európai Parlament és a Tanács a Gazdasági és Szociális Bizottsággal folytatott konzultációt követően, rendes joga…”
+- 38. tétel, `EUMSZ 64. cikk`: eltér a korpusztól — „(3) A (2) bekezdéstől eltérve, az Európai Parlamenttel folytatott konzultációt követően, különleges jogalkotási eljárás …”
+- 38. tétel, `EUMSZ 65. cikk`: eltér a korpusztól — „(2) E fejezet rendelkezései nem érintik a letelepedési jogra vonatkozó és a Szerződésekkel össze egyeztethető korlátozás…”
+- 39. tétel, `EUMSZ 119. cikk`: eltér a korpusztól — „(1) Az Európai Unióról szóló szerződés 3. cikkében meghatározott célok megvalósítása érde kében a tagállamok és az Unió …”
+- 39. tétel, `EUMSZ 121. cikk`: eltér a korpusztól — „(2) A Tanács a Bizottság ajánlása alapján tervezetet készít a tagállamok és az Unió gazdaság politikájára vonatkozó átfo…”
+- 39. tétel, `EUMSZ 122. cikk`: eltér a korpusztól — „(1) A Tanács, a Szerződésekben előírt egyéb eljárások sérelme nélkül, a Bizottság javaslata alapján, a tagállamok között…”
+- 39. tétel, `EUMSZ 123. cikk`: eltér a korpusztól — „(2) Az (1) bekezdés nem alkalmazható a köztulajdonban lévő hitelintézetekre, amelyeket a jegy banki pénzkínálat vonatkoz…”
+- 39. tétel, `EUMSZ 125. cikk`: eltér a korpusztól — „(1) Az Unió nem felel a tagállamok központi kormányzatának, regionális vagy helyi közigazga tási szerveinek, közjogi tes…”
+- 39. tétel, `EUMSZ 126. cikk`: eltér a korpusztól — „(2) A Bizottság figyelemmel kíséri a tagállamok költségvetési helyzetének, államadósság-állo mányának alakulását a jelen…”
+- 39. tétel, `EUMSZ 127. cikk`: eltér a korpusztól — „(1) A Központi Bankok Európai Rendszerének (a továbbiakban: KBER) elsődleges célja az árstabi litás fenntartása. Az árst…”
+- 39. tétel, `EUMSZ 128. cikk`: eltér a korpusztól — „(1) Az Unión belül kizárólag az Európai Központi Bank jogosult eurobankjegyek kibocsátásának az engedélyezésére. Ilyen b…”
+- 39. tétel, `EUMSZ 129. cikk`: eltér a korpusztól — „(1) A KBER-t az Európai Központi Bank döntéshozó szervei, a Kormányzótanács és az Igazga tóság irányítják.…”
+- 39. tétel, `EUMSZ 132. cikk`: eltér a korpusztól — „(1) A KBER-re bízott feladatok teljesítése érdekében az Európai Központi Bank a Szerződések rendelkezéseinek megfelelően…”
+- 39. tétel, `EUMSZ 284. cikk`: eltér a korpusztól — „(1) A Tanács elnöke és a Bizottság egy tagja szavazati jog nélkül részt vehet az Európai Központi Bank Kormányzótanácsán…”
+- 39. tétel, `EUMSZ 134. cikk`: eltér a korpusztól — „(1) A tagállamok politikáinak a belső piac működéséhez szükséges legteljesebb mértékű össze hangolásának elősegítése érd…”
+- 39. tétel, `EUMSZ 138. cikk`: eltér a korpusztól — „(1) Annak érdekében, hogy az eurónak a nemzetközi pénzrendszerben elfoglalt helyét biztosítsa, a Tanács a Bizottság java…”
+- 39. tétel, `EUMSZ 219. cikk`: eltér a korpusztól — „(1) A 218. cikktől eltérve, a Tanács az Európai Központi Bank ajánlása alapján vagy az Európai Központi Bankkal az ársta…”
+- 39. tétel, `EUMSZ 139. cikk`: eltér a korpusztól — „i) a gazdasági és monetáris unió szempontjából különösen jelentős ügyekben a nemzetközi pénz ügyi intézményekben és konf…”
+- 39. tétel, `EUMSZ 140. cikk`: eltér a korpusztól — „(1) A Bizottság és az Európai Központi Bank legalább kétévente egyszer, illetve valamely eltéréssel rendelkező tagállam …”
+- 39. tétel, `EUMSZ 141. cikk`: eltér a korpusztól — „(2) Amennyiben és amíg vannak eltéréssel rendelkező tagállamok, az Európai Központi Bank ezen tagállamok tekintetében: —…”
+- 39. tétel, `EUMSZ 143. cikk`: eltér a korpusztól — „(1) Ha egy eltéréssel rendelkező tagállam a fizetési mérlege tekintetében a fizetési mérleg egészének egyensúlyhiányából…”
+- 39. tétel, `EUMSZ 144. cikk`: eltér a korpusztól — „(2) A Bizottságot és a többi tagállamot az ilyen védintézkedésekről legkésőbb azok hatálybalé pésének időpontjában tájék…”
+- 40. tétel, `EUMSZ 101. cikk`: eltér a korpusztól — „(1) A belső piaccal összeegyeztethetetlen és tilos minden olyan vállalkozások közötti megállapo dás, vállalkozások társu…”
+- 40. tétel, `EUMSZ 103. cikk`: eltér a korpusztól — „(1) A 101. és 102. cikkben meghatározott elvek érvényre juttatását szolgáló megfelelő rendele teket vagy irányelveket a …”
+- 40. tétel, `EUMSZ 105. cikk`: eltér a korpusztól — „(1) A 104. cikk sérelme nélkül a Bizottság biztosítja a 101. és 102. cikkben megállapított elvek alkalmazását. Egy tagál…”
+- 40. tétel, `EUMSZ 106. cikk`: eltér a korpusztól — „(2) Az általános gazdasági érdekű szolgáltatások működtetésével megbízott vagy a jövedelemter melő monopólium jellegű vá…”
+- 40. tétel, `EUMSZ 107. cikk`: eltér a korpusztól — „(1) Ha a Szerződések másként nem rendelkeznek, a belső piaccal összeegyeztethetetlen a tagállamok által vagy állami forr…”
+- 40. tétel, `EUMSZ 108. cikk`: eltér a korpusztól — „(1) A Bizottság a tagállamokkal együttműködve folyamatosan vizsgálja a tagállamokban létező támogatási programokat. A Bi…”
+- 41. tétel, `1/2003/EK rendelet 8. cikk`: eltér a korpusztól — „(1) A versenyt veszélyeztető komoly és helyrehozhatatlan kár kockázata miatt felmerülő sürgős esetben a Bizottság saját …”
+- 41. tétel, `1/2003/EK rendelet 9. cikk`: eltér a korpusztól — „(1) Ha a Bizottság olyan határozatot szándékozik elfogadni, amely a jogsértés befejezését írja elő, és az érintett válla…”
+- 41. tétel, `1/2003/EK rendelet 11. cikk`: eltér a korpusztól — „(4) A tagállamok versenyhatóságai legkésőbb 30 nappal a jogsértés befejezésére felszólító határozat elfogadása, köteleze…”
+- 41. tétel, `1/2003/EK rendelet 12. cikk`: eltér a korpusztól — „(2) Az átadott információ bizonyítékként kizárólag a Szerződés 81. vagy 82. cikkének alkalmazása céljából, és csak olyan…”
+- 41. tétel, `1/2003/EK rendelet 13. cikk`: eltér a korpusztól — „(1) Ha két vagy több tagállam versenyhatósága elé ugyanazon megállapodás, társulás döntése vagy magatartás ellen érkezet…”
+- 41. tétel, `1/2003/EK rendelet 14. cikk`: eltér a korpusztól — „(3) A konzultációra a Bizottság által összehívott és levezetett ülésen kerül sor, amelyet legalább 14 nappal azt követőe…”
+- 41. tétel, `1/2003/EK rendelet 15. cikk`: eltér a korpusztól — „(1) A Szerződés 81. vagy 82. cikke alkalmazására vonatkozó eljárás során a tagállamok bíróságai felkérhetik a Bizottságo…”
+- 41. tétel, `1/2003/EK rendelet 16. cikk`: eltér a korpusztól — „(1) Amennyiben a nemzeti bíróságok hoznak határozatot a Szerződés 81. vagy 82. cikkének hatálya alá tartozó olyan megáll…”
+- 41. tétel, `1/2003/EK rendelet 30. cikk`: eltér a korpusztól — „(2) A közzététel során megadja a felek nevét és a határozat fő tartalmát, ideértve a kiszabott szankciókat. Tekintetbe v…”
+- 41. tétel, `1/2003/EK rendelet 33. cikk`: eltér a korpusztól — „(1) A Bizottság felhatalmazással rendelkezik arra, hogy e rendelet alkalmazása érdekében megfelelő intézkedéseket hozzon…”
+- 41. tétel, `1/2003/EK rendelet 35. cikk`: eltér a korpusztól — „(1) A tagállamok úgy jelölik ki a Szerződés 81. és 82. cikkének alkalmazásáért felelős versenyhatóságot vagy versenyható…”
+- 42. tétel, `GDPR 5. cikk`: eltér a korpusztól — „c) az adatkezelés céljai szempontjából megfelelőek és relevánsak kell, hogy legyenek, és a szükségesre kell korlátozódni…”
+- 42. tétel, `GDPR 8. cikk`: eltér a korpusztól — „A gyermek hozzájárulására vonatkozó feltételek az információs társadalommal összefüggő szolgáltatások vonatkozásában…”
+- 42. tétel, `GDPR 17. cikk`: eltér a korpusztól — „c) az érintett a 21. cikk (1) bekezdése alapján tiltakozik az adatkezelése ellen, és nincs elsőbbséget élvező jogszerű o…”
+- 42. tétel, `GDPR 21. cikk`: eltér a korpusztól — „(1) Az érintett jogosult arra, hogy a saját helyzetével kapcsolatos okokból bármikor tiltakozzon személyes adatainak a 6…”
+- 43. tétel, `EUMSZ 191. cikk`: eltér a korpusztól — „(2) Az Unió környezetpolitikájának célja a magas szintű védelem, figyelembe véve ugyanakkor az Unió különböző régióinak …”
 
 ## 3. Lefedettség (az előírt körből hiányzó elemek)
 
-- **2. tétel:** EUSZ 13–13 (a tartomány határa nincs a korpuszban); EUMSZ 223–287 (a tartomány határa nincs a korpuszban)
-- **3. tétel:** EUSZ 17–17 (a tartomány határa nincs a korpuszban); EUMSZ 244–250 (a tartomány határa nincs a korpuszban)
-- **4. tétel:** EUSZ 15–16 (a tartomány határa nincs a korpuszban); EUMSZ 235–243 (a tartomány határa nincs a korpuszban)
-- **5. tétel:** EUSZ 14–14 (a tartomány határa nincs a korpuszban); EUMSZ 223–234 (a tartomány határa nincs a korpuszban)
-- **6. tétel:** EUSZ 19–19 (a tartomány határa nincs a korpuszban); EUMSZ 251–281 (a tartomány határa nincs a korpuszban)
-- **7. tétel:** EUSZ 39–39 (a tartomány határa nincs a korpuszban); EUMSZ 16–16 (a tartomány határa nincs a korpuszban); EUMSZ 24–24 (a tartomány határa nincs a korpuszban); EUMSZ 227–228 (a tartomány határa nincs a korpuszban); R45_2001 41–48 (a tartomány határa nincs a korpuszban); Charta 43–44 (a tartomány határa nincs a korpuszban)
-- **8. tétel:** Alaptv E)–E) (a tartomány határa nincs a korpuszban); EUSZ 4–5 (a tartomány határa nincs a korpuszban); EUMSZ 2–6 (a tartomány határa nincs a korpuszban); EUMSZ 352–352 (a tartomány határa nincs a korpuszban); 30/1998. (VI. 25.) AB határozat None–None (a jogszabály nincs a korpuszban); 143/2010. (VII. 14.) AB határozat None–None (a jogszabály nincs a korpuszban); 32/2008. (III. 12.) AB határozat None–None (a jogszabály nincs a korpuszban); 22/2016. (XII. 5.) AB határozat None–None (a jogszabály nincs a korpuszban); 2/2019. (III. 5.) AB határozat None–None (a jogszabály nincs a korpuszban)
-- **9. tétel:** EUSZ 5–5 (a tartomány határa nincs a korpuszban); EUMSZ 21–22 (a tartomány határa nincs a korpuszban); EUMSZ 25–25 (a tartomány határa nincs a korpuszban); EUMSZ 77–77 (a tartomány határa nincs a korpuszban); EUMSZ 81–81 (a tartomány határa nincs a korpuszban); EUMSZ 113–113 (a tartomány határa nincs a korpuszban); EUMSZ 289–289 (a tartomány határa nincs a korpuszban); EUMSZ 293–294 (a tartomány határa nincs a korpuszban); EUMSZ 296–297 (a tartomány határa nincs a korpuszban)
-- **10. tétel:** EUSZ 5–5 (a tartomány határa nincs a korpuszban); EUSZ 12–12 (a tartomány határa nincs a korpuszban); EUSZ 48–48 (a tartomány határa nincs a korpuszban); EUMSZ 69–71 (a tartomány határa nincs a korpuszban); EUMSZ 81–81 (a tartomány határa nincs a korpuszban); EUMSZ 85–85 (a tartomány határa nincs a korpuszban); EUMSZ 88–88 (a tartomány határa nincs a korpuszban)
-- **12. tétel:** EUMSZ 216–219 (a tartomány határa nincs a korpuszban)
-- **13. tétel:** EUMSZ 288–288 (a tartomány határa nincs a korpuszban); EUMSZ 297–297 (a tartomány határa nincs a korpuszban)
-- **14. tétel:** EUMSZ 288–288 (a tartomány határa nincs a korpuszban); EUMSZ 297–297 (a tartomány határa nincs a korpuszban)
-- **15. tétel:** EUMSZ 288–290 (a tartomány határa nincs a korpuszban); EUMSZ 292–292 (a tartomány határa nincs a korpuszban); EUMSZ 296–296 (a tartomány határa nincs a korpuszban)
-- **16. tétel:** EUMSZ 288–288 (a tartomány határa nincs a korpuszban); C-26/62 None–None (a jogszabály nincs a korpuszban); C-6/64 None–None (a jogszabály nincs a korpuszban); C-106/77 None–None (a jogszabály nincs a korpuszban); C-493/17 None–None (a jogszabály nincs a korpuszban)
-- **17. tétel:** EUMSZ 288–288 (a tartomány határa nincs a korpuszban); C-26/62 None–None (a jogszabály nincs a korpuszban); C-41/74 None–None (a jogszabály nincs a korpuszban); C-152/84 None–None (a jogszabály nincs a korpuszban); C-106/89 None–None (a jogszabály nincs a korpuszban)
-- **18. tétel:** EUMSZ 20–25 (a tartomány határa nincs a korpuszban); C-200/02 None–None (a jogszabály nincs a korpuszban); C-135/08 None–None (a jogszabály nincs a korpuszban); T-529/13 None–None (a jogszabály nincs a korpuszban); C-420/16 None–None (a jogszabály nincs a korpuszban); T-646/13 None–None (a jogszabály nincs a korpuszban); T-391/17 None–None (a jogszabály nincs a korpuszban); C-899/19 None–None (a jogszabály nincs a korpuszban)
-- **19. tétel:** EUMSZ 10–10 (a tartomány határa nincs a korpuszban); EUMSZ 18–19 (a tartomány határa nincs a korpuszban); EUMSZ 34–37 (a tartomány határa nincs a korpuszban); EUMSZ 45–45 (a tartomány határa nincs a korpuszban); EUMSZ 49–49 (a tartomány határa nincs a korpuszban); EUMSZ 54–56 (a tartomány határa nincs a korpuszban); EUMSZ 63–63 (a tartomány határa nincs a korpuszban); EUMSZ 110–110 (a tartomány határa nincs a korpuszban); EUMSZ 157–157 (a tartomány határa nincs a korpuszban); C-43/75 None–None (a jogszabály nincs a korpuszban); C-415/93 None–None (a jogszabály nincs a korpuszban); C-141/04 None–None (a jogszabály nincs a korpuszban)
-- **20. tétel:** EUSZ 6–6 (a tartomány határa nincs a korpuszban); Charta None–None (a tartomány határa nincs a korpuszban); EUB 2/94 None–None (a jogszabály nincs a korpuszban); EUB 2/13 None–None (a jogszabály nincs a korpuszban)
-- **21. tétel:** C-29/69 None–None (a jogszabály nincs a korpuszban); C-11/70 None–None (a jogszabály nincs a korpuszban); C-4/73 None–None (a jogszabály nincs a korpuszban); C-36/75 None–None (a jogszabály nincs a korpuszban); C-44/79 None–None (a jogszabály nincs a korpuszban); C-12/86 None–None (a jogszabály nincs a korpuszban); C-374/87 None–None (a jogszabály nincs a korpuszban); C-5/88 None–None (a jogszabály nincs a korpuszban); C-112/00 None–None (a jogszabály nincs a korpuszban); C-328/04 None–None (a jogszabály nincs a korpuszban); C-617/10 None–None (a jogszabály nincs a korpuszban)
-- **22. tétel:** EUMSZ 258–260 (a tartomány határa nincs a korpuszban)
-- **23. tétel:** EUMSZ 263–266 (a tartomány határa nincs a korpuszban); EUMSZ 277–277 (a tartomány határa nincs a korpuszban); C-25/62 None–None (a jogszabály nincs a korpuszban); C-294/83 None–None (a jogszabály nincs a korpuszban); T-18/10 None–None (a jogszabály nincs a korpuszban); C-583/11 None–None (a jogszabály nincs a korpuszban)
-- **24. tétel:** EUSZ 19–19 (a tartomány határa nincs a korpuszban); EUMSZ 267–267 (a tartomány határa nincs a korpuszban); C-283/81 None–None (a jogszabály nincs a korpuszban); C-210/06 None–None (a jogszabály nincs a korpuszban); C-54/96 None–None (a jogszabály nincs a korpuszban); C-416/10 None–None (a jogszabály nincs a korpuszban)
-- **25. tétel:** 3/2005. PK-KK vélemény None–None (a jogszabály nincs a korpuszban); 1/2009. PK-KK vélemény None–None (a jogszabály nincs a korpuszban); EBH 2008.1815 None–None (a jogszabály nincs a korpuszban)
-- **26. tétel:** C-6/90 None–None (a jogszabály nincs a korpuszban); C-9/90 None–None (a jogszabály nincs a korpuszban); C-46/93 None–None (a jogszabály nincs a korpuszban); C-48/93 None–None (a jogszabály nincs a korpuszban); C-224/01 None–None (a jogszabály nincs a korpuszban); C-68/79 None–None (a jogszabály nincs a korpuszban)
-- **27. tétel:** EUMSZ 340–340 (a tartomány határa nincs a korpuszban); C-5/66 None–None (a jogszabály nincs a korpuszban); C-5/71 None–None (a jogszabály nincs a korpuszban); C-83/76 None–None (a jogszabály nincs a korpuszban)
-- **28. tétel:** EUMSZ 67–76 (a tartomány határa nincs a korpuszban); EUMSZ 81–81 (a tartomány határa nincs a korpuszban); 1215/2012/EU None–None (a jogszabály nincs a korpuszban); 2019/1111/EU None–None (a jogszabály nincs a korpuszban); 593/2008/EK None–None (a jogszabály nincs a korpuszban); 864/2007/EK None–None (a jogszabály nincs a korpuszban); 1259/2010/EU None–None (a jogszabály nincs a korpuszban); 650/2012/EU None–None (a jogszabály nincs a korpuszban); 2020/1783/EU None–None (a jogszabály nincs a korpuszban); 2020/1784/EU None–None (a jogszabály nincs a korpuszban)
-- **29. tétel:** EUMSZ 82–86 (a tartomány határa nincs a korpuszban); C-187/01 None–None (a jogszabály nincs a korpuszban); C-436/04 None–None (a jogszabály nincs a korpuszban); C-150/05 None–None (a jogszabály nincs a korpuszban); C-297/07 None–None (a jogszabály nincs a korpuszban); C-486/14 None–None (a jogszabály nincs a korpuszban); C-491/07 None–None (a jogszabály nincs a korpuszban)
-- **30. tétel:** EUSZ 21–37 (a tartomány határa nincs a korpuszban); EUSZ 40–40 (a tartomány határa nincs a korpuszban)
-- **31. tétel:** EUMSZ 114–118 (a tartomány határa nincs a korpuszban)
-- **32. tétel:** EUMSZ 20–20 (a tartomány határa nincs a korpuszban); EUMSZ 21–21 (a tartomány határa nincs a korpuszban); EUMSZ 26–26 (a tartomány határa nincs a korpuszban); EUMSZ 45–45 (a tartomány határa nincs a korpuszban); 2004/38/EK None–None (a jogszabály nincs a korpuszban); C-41/74 None–None (a jogszabály nincs a korpuszban); C-149/79 None–None (a jogszabály nincs a korpuszban); C-473/93 None–None (a jogszabály nincs a korpuszban); C-364/10 None–None (a jogszabály nincs a korpuszban); C-673/16 None–None (a jogszabály nincs a korpuszban)
-- **33. tétel:** EUMSZ 45–45 (a tartomány határa nincs a korpuszban); EUMSZ 49–55 (a tartomány határa nincs a korpuszban); C-139/85 None–None (a jogszabály nincs a korpuszban); C-66/85 None–None (a jogszabály nincs a korpuszban); C-344/87 None–None (a jogszabály nincs a korpuszban); C-379/87 None–None (a jogszabály nincs a korpuszban)
-- **34. tétel:** EUMSZ 49–50 (a tartomány határa nincs a korpuszban); EUMSZ 54–55 (a tartomány határa nincs a korpuszban); C-212/97 None–None (a jogszabály nincs a korpuszban); C-208/00 None–None (a jogszabály nincs a korpuszban); C-210/06 None–None (a jogszabály nincs a korpuszban)
-- **35. tétel:** 98/5/EK None–None (a jogszabály nincs a korpuszban); 2005/36/EK None–None (a jogszabály nincs a korpuszban); C-340/89 None–None (a jogszabály nincs a korpuszban); C-55/94 None–None (a jogszabály nincs a korpuszban); C-359/09 None–None (a jogszabály nincs a korpuszban)
-- **36. tétel:** EUMSZ 28–30 (a tartomány határa nincs a korpuszban); EUMSZ 34–37 (a tartomány határa nincs a korpuszban); EUMSZ 110–110 (a tartomány határa nincs a korpuszban); C-24/68 None–None (a jogszabály nincs a korpuszban); C-8/74 None–None (a jogszabály nincs a korpuszban); C-120/78 None–None (a jogszabály nincs a korpuszban); C-57/65 None–None (a jogszabály nincs a korpuszban); C-290/05 None–None (a jogszabály nincs a korpuszban)
-- **37. tétel:** EUMSZ 56–62 (a tartomány határa nincs a korpuszban); 2006/123/EK None–None (a jogszabály nincs a korpuszban); C-33/74 None–None (a jogszabály nincs a korpuszban); C-55/94 None–None (a jogszabály nincs a korpuszban)
-- **38. tétel:** EUMSZ 63–66 (a tartomány határa nincs a korpuszban); C-286/82 None–None (a jogszabály nincs a korpuszban); C-26/83 None–None (a jogszabály nincs a korpuszban); C-358/93 None–None (a jogszabály nincs a korpuszban); C-416/93 None–None (a jogszabály nincs a korpuszban); C-484/93 None–None (a jogszabály nincs a korpuszban); C-503/99 None–None (a jogszabály nincs a korpuszban)
-- **39. tétel:** EUMSZ 119–144 (a tartomány határa nincs a korpuszban); EUMSZ 219–219 (a tartomány határa nincs a korpuszban); EUMSZ 282–284 (a tartomány határa nincs a korpuszban)
-- **40. tétel:** EUMSZ 3–3 (a tartomány határa nincs a korpuszban); EUMSZ 101–109 (a tartomány határa nincs a korpuszban); 139/2004/EK None–None (a jogszabály nincs a korpuszban); 2006/111/EK None–None (a jogszabály nincs a korpuszban)
-- **41. tétel:** EUMSZ 101–102 (a tartomány határa nincs a korpuszban); 2003/1/EK None–None (a jogszabály nincs a korpuszban)
-- **42. tétel:** (EU) 2016/679 None–None (a jogszabály nincs a korpuszban)
-- **43. tétel:** EP-ismerteto-energia None–None (a jogszabály nincs a korpuszban); Consilium-eghajlat None–None (a jogszabály nincs a korpuszban)
+- **19. tétel:** C-141/04 teljes (a tétel nem említi)

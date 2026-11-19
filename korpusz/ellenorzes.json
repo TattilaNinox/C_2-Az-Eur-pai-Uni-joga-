@@ -3,22 +3,568 @@
   "hianyzoForras": [],
   "forrashozNemKotottFajl": [
    "Bizottsági közlemény - közszolgáltatás ellentételezése (2012_C 8_03).txt",
-   "C-106_89 Marleasing-ügy.txt",
-   "C-12_86 Demirel-ügy.txt",
+   "C-106_89 Marleasing-ügy tárgyalási jelentés.txt",
+   "C-12_86 Demirel-ügy tárgyalási jelentés.txt",
    "C-147_03 Bizottság kontra Ausztria-ügy.txt",
    "C-2_74 Reyners-ügy.txt",
-   "C-344_87 Bettray-ügy.txt",
-   "C-374_87 Orkem-ügy.txt",
+   "C-344_87 Bettray-ügy tárgyalási jelentés.txt",
+   "C-374_87 Orkem-ügy tárgyalási jelentés.txt",
    "C-453_99 Courage-ügy.txt",
-   "C-583_11 P Inuit Tapiriit Kanatami-ügy.txt",
-   "C-5_88 Wachauf-ügy.txt",
-   "T-18_10 Inuit Tapiriit Kanatami végzés (EN).txt"
+   "C-583_11 Inuit Tapiriit Kanatami fellebbezés.txt",
+   "C-5_88 Wachauf-ügy tárgyalási jelentés.txt"
   ],
   "duplikalt": []
  },
  "dobozok": {
-  "osszes": 3,
-  "elteres": []
+  "osszes": 408,
+  "elteres": [
+   {
+    "tetel": 3,
+    "fejlec": "EUMSZ 246. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(az EKSz. korábbi 215. cikke) A Bizottság tagjainak megbízatása  a megbízatás lejártától vagy az elhalálozástól eltekintve — lemondással vagy felmentéssel szűnik meg. A lemondó, hivatalából felmentet"
+   },
+   {
+    "tetel": 4,
+    "fejlec": "EUMSZ 238. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(3) Figyelemmel az átmeneti rendelkezésekről szóló jegyzőkönyvben megállapított rendelkezé sekre, 2014. november 1-jétől azokban az esetekben, amikor a Szerződések értelmében a Tanácsnak nem az összes"
+   },
+   {
+    "tetel": 4,
+    "fejlec": "EUMSZ 240. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(3) A Tanács eljárási kérdésekben, valamint eljárási szabályzatának elfogadásakor egyszerű több séggel határoz."
+   },
+   {
+    "tetel": 5,
+    "fejlec": "EUSZ 14. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Az Európai Parlament az Unió polgárainak képviselőiből áll. A képviselők száma – az elnököt nem számítva  nem haladhatja meg a hétszázötvenet. A polgárok képviselete arányosan csökkenő módon való"
+   },
+   {
+    "tetel": 5,
+    "fejlec": "EUMSZ 223. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az Európai Parlament javaslatot dolgoz ki a tagjainak valamennyi tagállamban egységes eljárás szerint vagy valamennyi tagállamban közös elveknek megfelelően tartandó, közvetlen és általános válasz"
+   },
+   {
+    "tetel": 5,
+    "fejlec": "EUMSZ 228. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(4) Az Európai Parlament saját kezdeményezésére különleges jogalkotási eljárás keretében elfoga dott rendeletekben, a Bizottság véleményének kikérése után és a Tanács egyetértésével meghatározza az om"
+   },
+   {
+    "tetel": 8,
+    "fejlec": "EUSZ 5. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az Unió hatásköreinek elhatárolására a hatáskör-átruházás elve az irányadó. Az uniós hatás körök gyakorlására a szubszidiaritás és az arányosság elve az irányadó."
+   },
+   {
+    "tetel": 8,
+    "fejlec": "EUMSZ 352. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Ha a Szerződésekben meghatározott politikák keretében az Unió fellépése bizonyul szük ségesnek ahhoz, hogy a Szerződésekben foglalt célkitűzések valamelyike megvalósuljon, és a Szer ződések nem bi"
+   },
+   {
+    "tetel": 9,
+    "fejlec": "EUMSZ 77. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "b) a személyek ellenőrzésének és a határátlépések eredményes felügyeletének biztosítása a külső határokon,"
+   },
+   {
+    "tetel": 9,
+    "fejlec": "EUMSZ 81. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az Unió a határokon átnyúló vonatkozású polgári ügyek tekintetében igazságügyi együttműködést alakít ki, amely a bírósági és bíróságon kívüli határozatok kölcsönös elismerésének elvén alapul. Enne"
+   },
+   {
+    "tetel": 10,
+    "fejlec": "EUMSZ 70. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "A 258., a 259. és a 260. cikk sérelme nélkül a Tanács a Bizottság javaslata alapján intézkedéseket fogadhat el, amelyekben megállapítja azokat a szabályokat, amelyek szerint a tagállamok a Bizottságga"
+   },
+   {
+    "tetel": 10,
+    "fejlec": "EUMSZ 81. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Az (1) bekezdésben foglaltak céljából az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében intézkedéseket állapít meg  különösen, ha ez a belső piac megfelelő működéséhez szükség"
+   },
+   {
+    "tetel": 10,
+    "fejlec": "EUMSZ 85. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "c) az igazságügyi együttműködés erősítése, többek között a joghatósági összeütközések feloldása, valamint az Európai Igazságügyi Hálózattal való szoros együttműködés révén. E rendeletekben kell tovább"
+   },
+   {
+    "tetel": 10,
+    "fejlec": "EUMSZ 88. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "b) a tagállamok hatáskörrel rendelkező hatóságaival közösen vagy közös nyomozócsoportok keretében végzett nyomozati és operatív tevékenységek összehangolása, megszervezése és végrehajtása, adott esetb"
+   },
+   {
+    "tetel": 11,
+    "fejlec": "EUSZ 1. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) E szerződéssel a egymás között létrehozzák az EURÓPAI UNIÓT (a továbbiakban: az Unió), amelyre közös célkitűzéseik elérése érdekében a tagállamok hatásköröket ruháznak. E szerződés új szakaszt jel"
+   },
+   {
+    "tetel": 11,
+    "fejlec": "EUSZ 3. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Az Unió egy belső határok nélküli, a szabadságon, a biztonságon és a jog érvényesülésén alapuló olyan térséget kínál polgárai számára, ahol a személyek szabad mozgásának biztosítása a külső határo"
+   },
+   {
+    "tetel": 19,
+    "fejlec": "EUMSZ 10. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "Politikái és tevékenységei meghatározása és végrehajtása során az Unió küzd mindenfajta nemen, faji vagy etnikai származáson, valláson vagy meggyőződésen, fogyatékosságon, életkoron vagy szexuális irá"
+   },
+   {
+    "tetel": 20,
+    "fejlec": "Alapjogi Charta 8. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Az ilyen adatokat csak tisztességesen és jóhiszeműen, meghatározott célokra, az érintett személy hozzájárulása alapján vagy valamilyen más, a törvényben rögzített jogos okból lehet kezelni. Minden"
+   },
+   {
+    "tetel": 20,
+    "fejlec": "Alapjogi Charta 12. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Mindenkinek joga van a békés célú gyülekezés szabadságához és a másokkal való bármilyen szintű, különösen politikai, szakszervezeti és polgári célú egyesüléshez, ami magában foglalja mindenkinek a"
+   },
+   {
+    "tetel": 20,
+    "fejlec": "Alapjogi Charta 14. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(3) Az oktatási intézmények demokratikus elvek figyelembevételével történő alapításának szabadságát, valamint a szülők azon jogát, hogy gyermekeik számára vallási, világnézeti vagy pedagógiai meggyőző"
+   },
+   {
+    "tetel": 20,
+    "fejlec": "Alapjogi Charta 15. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Az uniós polgárokat az Unió bármely tagállamában megilleti a szabad álláskeresés, munkavállalás, letelepedés és szolgáltatásnyújtás joga."
+   },
+   {
+    "tetel": 20,
+    "fejlec": "Alapjogi Charta 17. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Mindenkinek joga van ahhoz, hogy jogszerűen szerzett tulajdonát birtokolja, használja, azzal rendelkezzen, és azt örökül hagyja. Tulajdonától senkit sem lehet megfosztani, kivéve, ha ez közérdekbő"
+   },
+   {
+    "tetel": 22,
+    "fejlec": "EUMSZ 260. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Ha a Bizottság megítélése szerint az érintett tagállam nem teszi meg az Európai Unió Bírósá gának ítéletében foglaltak teljesítéséhez szükséges intézkedéseket, a Bizottság – miután a tagállamnak l"
+   },
+   {
+    "tetel": 28,
+    "fejlec": "EUMSZ 67. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az Unió egy, a szabadságon, a biztonságon és a jog érvényesülésén alapuló térséget alkot, amelyben tiszteletben tartják az alapvető jogokat és a tagállamok eltérő jogrendszereit és jogi hagyo mány"
+   },
+   {
+    "tetel": 28,
+    "fejlec": "EUMSZ 70. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "A 258., a 259. és a 260. cikk sérelme nélkül a Tanács a Bizottság javaslata alapján intézkedéseket fogadhat el, amelyekben megállapítja azokat a szabályokat, amelyek szerint a tagállamok a Bizottságga"
+   },
+   {
+    "tetel": 28,
+    "fejlec": "EUMSZ 81. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "a) a bírósági és bíróságon kívüli ügyekben hozott határozatok tagállamok közötti kölcsönös elisme rése és azok végrehajtása,"
+   },
+   {
+    "tetel": 29,
+    "fejlec": "EUMSZ 82. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az Unióban a büntetőügyekben folytatott igazságügyi együttm űködés a bírósági ítéletek és határozatok kölcsönös elismerésének elvén alapul, és magában foglalja a tagállamok törvényi, rende leti és"
+   },
+   {
+    "tetel": 29,
+    "fejlec": "EUMSZ 83. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében elfogadott irányelvekben szabályozási minimumokat állapíthat meg a bűncselekményi tényállások és a büntetési tételek meghatáro"
+   },
+   {
+    "tetel": 29,
+    "fejlec": "EUMSZ 85. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az Eurojust feladata a két vagy több tagállamot érintő, illetve a közös alapokon való bűnül dözést szükségessé tevő súlyos bűncselekmények kivizsgálására, valamint az ezekkel kapcsolatos büntetőel"
+   },
+   {
+    "tetel": 30,
+    "fejlec": "EUSZ 22. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) A közös kül- és biztonságpolitika terén az Unió külügyi és biztonságpolitikai f őképviselője, a külkapcsolatok egyéb területein pedig a Bizottság együttes javaslatokat terjeszthet a Tanács elé. A "
+   },
+   {
+    "tetel": 30,
+    "fejlec": "EUSZ 24. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(3) A tagállamok az Unió kül- és biztonságpolitikáját a lojalitás és a kölcsönös szolidaritás jegyében tevékenyen és fenntartások nélkül támogatják, és tiszteletben tartják az Unió e területen folytat"
+   },
+   {
+    "tetel": 30,
+    "fejlec": "EUSZ 26. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az Európai Tanács megállapítja az Unió stratégiai érdekeit, valamint meghatározza a közös kül- és biztonságpolitika célkitűzéseit és az arra vonatkozó általános iránymutatásokat, beleértve a védel"
+   },
+   {
+    "tetel": 30,
+    "fejlec": "EUSZ 28. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Amennyiben a nemzetközi helyzet műveleti fellépést tesz szükségessé, a Tanács elfogadja a szükséges határozatokat. A határozatban meg kell határozni annak céljait, hatókörét, az Unió rendel kezésé"
+   },
+   {
+    "tetel": 30,
+    "fejlec": "EUSZ 31. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Az (1) bekezdés rendelkezéseitől eltérve, a Tanács minősített többséggel határoz:  amikor az Európai Tanácsnak az Unió stratégiai érdekeit és célkitűzéseit meghatározó, a 22. cikk (1) bekezdése s"
+   },
+   {
+    "tetel": 30,
+    "fejlec": "EUSZ 34. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) A 24. cikk (3) bekezdésével összhangban azok a tagállamok, amelyek olyan nemzetközi szervezetekben, illetve konferenciákon vesznek részt, ahol nem vesz részt minden tagállam, folya matosan tájékoz"
+   },
+   {
+    "tetel": 31,
+    "fejlec": "EUMSZ 26. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(3) A Tanács a Bizottság javaslata alapján meghatározza az összes érintett ágazat kiegyensúlyo zott fejlődésének biztosításához szükséges iránymutatásokat és feltételeket."
+   },
+   {
+    "tetel": 31,
+    "fejlec": "EUMSZ 114. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Ha a Szerződések másként nem rendelkeznek, a 26. cikkben meghatározott célkitűzések megvalósítására a következő rendelkezéseket kell alkalmazni. Az Európai Parlament és a Tanács rendes jogalkotási"
+   },
+   {
+    "tetel": 31,
+    "fejlec": "EUMSZ 117. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Amennyiben okkal lehet tartani attól, hogy törvényi, rendeleti vagy közigazgatási rendelke zések elfogadása vagy módosítása a 116. cikk értelmében vett torzulást okoz, az így eljárni kívánó tagáll"
+   },
+   {
+    "tetel": 33,
+    "fejlec": "EUMSZ 45. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) A munkavállalók szabad mozgása magában foglalja az állampolgárság alapján történő minden megkülönböztetés megszüntetését a tagállamok munkavállalói között a foglalkoztatás, a javadalma zás, valami"
+   },
+   {
+    "tetel": 33,
+    "fejlec": "EUMSZ 50. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Az Európai Parlament, a Tanács, illetve a Bizottság a fenti rendelkezésekben számára megálla pított feladatokat különösen azáltal látja el, hogy:"
+   },
+   {
+    "tetel": 33,
+    "fejlec": "EUMSZ 53. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az Európai Parlament és a Tanács az önálló vállalkozói tevékenység megkezdésének és folytatásának megkönnyítése érdekében rendes jogalkotási eljárás keretében irányelveket bocsát ki az oklevelek, "
+   },
+   {
+    "tetel": 34,
+    "fejlec": "EUMSZ 50. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Az Európai Parlament, a Tanács, illetve a Bizottság a fenti rendelkezésekben számára megálla pított feladatokat különösen azáltal látja el, hogy:"
+   },
+   {
+    "tetel": 35,
+    "fejlec": "98/5/EK irányelv 2. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "Bármely ügyvéd jogosult állandó jelleggel bármely más tagállamban a saját tagálla- mában megszerzett szakmai címmel az 5. cikkben meghatározott tevékenységek folytatására. A fogadó tagállam ügyvédi sz"
+   },
+   {
+    "tetel": 35,
+    "fejlec": "98/5/EK irányelv 6. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "A saját tagállamában érvényes ügyvédi működési [helyesen: szakmai és etikai] sza- bályoktól függetlenül a saját országának szakmai címe használatával működő ügyvéd- re minden olyan tevékenység esetébe"
+   },
+   {
+    "tetel": 35,
+    "fejlec": "98/5/EK irányelv 10. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Annak a saját országa szakmai címével működő ügyvédnek, aki igazolja, hogy a fogadó tagállamban legalább három évig ténylegesen és rendszeresen folytatta te- vékenységét annak [helyesen: ennek] az"
+   },
+   {
+    "tetel": 36,
+    "fejlec": "EUMSZ 37. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) A tagállamok tartózkodnak minden olyan új intézkedés bevezetésétől, amely ellentétes az (1) bekezdésben megállapított elvekkel, vagy amely korlátozza a tagállamok közötti vámok és mennyi ségi korl"
+   },
+   {
+    "tetel": 37,
+    "fejlec": "EUMSZ 58. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) A tőkemozgásokkal kapcsolatos banki és biztosítási szolgáltatások liberalizációja a tőkemoz gások liberalizációjával összhangban valósul meg."
+   },
+   {
+    "tetel": 37,
+    "fejlec": "EUMSZ 59. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az Európai Parlament és a Tanács a Gazdasági és Szociális Bizottsággal folytatott konzultációt követően, rendes jogalkotási eljárás keretében irányelveket bocsát ki valamely meghatározott szol gál"
+   },
+   {
+    "tetel": 38,
+    "fejlec": "EUMSZ 64. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(3) A (2) bekezdéstől eltérve, az Európai Parlamenttel folytatott konzultációt követően, különleges jogalkotási eljárás keretében, egyhangúlag eljárva kizárólag a Tanács fogadhat el olyan intézkedések"
+   },
+   {
+    "tetel": 38,
+    "fejlec": "EUMSZ 65. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) E fejezet rendelkezései nem érintik a letelepedési jogra vonatkozó és a Szerződésekkel össze egyeztethető korlátozások alkalmazhatóságát."
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 119. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az Európai Unióról szóló szerződés 3. cikkében meghatározott célok megvalósítása érde kében a tagállamok és az Unió tevékenysége — a Szerz ődésekben előírtak szerint  magában foglalja egy olyan g"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 121. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) A Tanács a Bizottság ajánlása alapján tervezetet készít a tagállamok és az Unió gazdaság politikájára vonatkozó átfogó iránymutatásokról, és erről jelentést tesz az Európai Tanácsnak. Az Európai T"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 122. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A Tanács, a Szerződésekben előírt egyéb eljárások sérelme nélkül, a Bizottság javaslata alapján, a tagállamok közötti szolidaritás szellemében határozhat a gazdasági helyzetnek megfelelő intézke d"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 123. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Az (1) bekezdés nem alkalmazható a köztulajdonban lévő hitelintézetekre, amelyeket a jegy banki pénzkínálat vonatkozásában a nemzeti központi bankoknak és az Európai Központi Banknak a magántulajd"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 125. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az Unió nem felel a tagállamok központi kormányzatának, regionális vagy helyi közigazga tási szerveinek, közjogi testületeinek, egyéb közintézményeinek vagy közvállalkozásainak kötelezett ségeiért"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 126. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) A Bizottság figyelemmel kíséri a tagállamok költségvetési helyzetének, államadósság-állo mányának alakulását a jelentős mértékű eltérések feltárása érdekében. Különösen a költségvetési fegyelem be"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 127. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A Központi Bankok Európai Rendszerének (a továbbiakban: KBER) elsődleges célja az árstabi litás fenntartása. Az árstabilitási cél veszélyeztetése nélkül a KBER támogatja az Unión belüli álta lános"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 128. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az Unión belül kizárólag az Európai Központi Bank jogosult eurobankjegyek kibocsátásának az engedélyezésére. Ilyen bankjegyek kibocsátására az Európai Központi Bank és a nemzeti központi bankok jo"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 129. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A KBER-t az Európai Központi Bank döntéshozó szervei, a Kormányzótanács és az Igazga tóság irányítják."
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 132. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A KBER-re bízott feladatok teljesítése érdekében az Európai Központi Bank a Szerződések rendelkezéseinek megfelelően és a KBER és az EKB alapokmányában megállapított feltételek mellett — rendelete"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 284. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A Tanács elnöke és a Bizottság egy tagja szavazati jog nélkül részt vehet az Európai Központi Bank Kormányzótanácsának ülésein. A Tanács elnöke megvitatás céljából indítványt terjeszthet az Európa"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 134. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A tagállamok politikáinak a belső piac működéséhez szükséges legteljesebb mértékű össze hangolásának elősegítése érdekében létrejön a Gazdasági és Pénzügyi Bizottság."
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 138. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Annak érdekében, hogy az eurónak a nemzetközi pénzrendszerben elfoglalt helyét biztosítsa, a Tanács a Bizottság javaslata alapján határozatban állapítja meg a gazdasági és monetáris unió szem pont"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 219. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A 218. cikktől eltérve, a Tanács az Európai Központi Bank ajánlása alapján vagy az Európai Központi Bankkal az árstabilitási célkitűzéssel összhangban álló konszenzus elérése céljából folytatott k"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 139. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "i) a gazdasági és monetáris unió szempontjából különösen jelentős ügyekben a nemzetközi pénz ügyi intézményekben és konferenciákon képviselendő közös álláspontot meghatározó határozatok (138. cikk (1)"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 140. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A Bizottság és az Európai Központi Bank legalább kétévente egyszer, illetve valamely eltéréssel rendelkező tagállam kérelmére jelentést tesz a Tanácsnak az eltéréssel rendelkező tagállamok által a"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 141. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Amennyiben és amíg vannak eltéréssel rendelkező tagállamok, az Európai Központi Bank ezen tagállamok tekintetében: — er ősíti a nemzeti központi bankok közötti együttműködést; — er ősíti a tagálla"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 143. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Ha egy eltéréssel rendelkező tagállam a fizetési mérlege tekintetében a fizetési mérleg egészének egyensúlyhiányából vagy a rendelkezésére álló deviza típusából adódóan nehézségekkel küzd vagy ily"
+   },
+   {
+    "tetel": 39,
+    "fejlec": "EUMSZ 144. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) A Bizottságot és a többi tagállamot az ilyen védintézkedésekről legkésőbb azok hatálybalé pésének időpontjában tájékoztatni kell. A Bizottság javaslatot tehet a Tanácsnak a 143. cikk szerinti kölc"
+   },
+   {
+    "tetel": 40,
+    "fejlec": "EUMSZ 101. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A belső piaccal összeegyeztethetetlen és tilos minden olyan vállalkozások közötti megállapo dás, vállalkozások társulásai által hozott döntés és összehangolt magatartás, amely hatással lehet a tag"
+   },
+   {
+    "tetel": 40,
+    "fejlec": "EUMSZ 103. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A 101. és 102. cikkben meghatározott elvek érvényre juttatását szolgáló megfelelő rendele teket vagy irányelveket a Tanács a Bizottság javaslata alapján, az Európai Parlamenttel folytatott konzult"
+   },
+   {
+    "tetel": 40,
+    "fejlec": "EUMSZ 105. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A 104. cikk sérelme nélkül a Bizottság biztosítja a 101. és 102. cikkben megállapított elvek alkalmazását. Egy tagállam kérelmére vagy hivatalból — együttm űködve a tagállamok hatáskörrel rendelke"
+   },
+   {
+    "tetel": 40,
+    "fejlec": "EUMSZ 106. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Az általános gazdasági érdekű szolgáltatások működtetésével megbízott vagy a jövedelemter melő monopólium jellegű vállalkozások olyan mértékben tartoznak a Szerződések szabályai, külö nösen a vers"
+   },
+   {
+    "tetel": 40,
+    "fejlec": "EUMSZ 107. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Ha a Szerződések másként nem rendelkeznek, a belső piaccal összeegyeztethetetlen a tagállamok által vagy állami forrásból bármilyen formában nyújtott olyan támogatás, amely bizo nyos vállalkozások"
+   },
+   {
+    "tetel": 40,
+    "fejlec": "EUMSZ 108. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A Bizottság a tagállamokkal együttműködve folyamatosan vizsgálja a tagállamokban létező támogatási programokat. A Bizottság javaslatot tesz a tagállamoknak a belső piac fokozatos fejlő dése vagy m"
+   },
+   {
+    "tetel": 41,
+    "fejlec": "1/2003/EK rendelet 8. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A versenyt veszélyeztető komoly és helyrehozhatatlan kár kockázata miatt felmerülő sürgős esetben a Bizottság saját kezdeményezésére, prima facie megállapított jogsértés alapján ideiglenes intézke"
+   },
+   {
+    "tetel": 41,
+    "fejlec": "1/2003/EK rendelet 9. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Ha a Bizottság olyan határozatot szándékozik elfogadni, amely a jogsértés befejezését írja elő, és az érintett vállalkozások olyan kötelezettségvállalásokat ajánlanak fel, hogy a Bizottság által s"
+   },
+   {
+    "tetel": 41,
+    "fejlec": "1/2003/EK rendelet 11. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(4) A tagállamok versenyhatóságai legkésőbb 30 nappal a jogsértés befejezésére felszólító határozat elfogadása, kötelezettségvállalások elfogadása vagy a csoportmentességről szóló rendeletből származó"
+   },
+   {
+    "tetel": 41,
+    "fejlec": "1/2003/EK rendelet 12. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Az átadott információ bizonyítékként kizárólag a Szerződés 81. vagy 82. cikkének alkalmazása céljából, és csak olyan tárgyban használható fel, amellyel kapcsolatban az átadó hatóság azt gyűjtötte."
+   },
+   {
+    "tetel": 41,
+    "fejlec": "1/2003/EK rendelet 13. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Ha két vagy több tagállam versenyhatósága elé ugyanazon megállapodás, társulás döntése vagy magatartás ellen érkezett panasz, vagy ezzel kapcsolatban saját kezdeményezésre indított eljárásban jár "
+   },
+   {
+    "tetel": 41,
+    "fejlec": "1/2003/EK rendelet 14. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(3) A konzultációra a Bizottság által összehívott és levezetett ülésen kerül sor, amelyet legalább 14 nappal azt követően kell megtartani, hogy az összehívásról szóló értesítést az ügy összefoglalójáv"
+   },
+   {
+    "tetel": 41,
+    "fejlec": "1/2003/EK rendelet 15. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A Szerződés 81. vagy 82. cikke alkalmazására vonatkozó eljárás során a tagállamok bíróságai felkérhetik a Bizottságot arra, hogy részükre a Bizottság a birtokában lévő információt átadja, vagy vél"
+   },
+   {
+    "tetel": 41,
+    "fejlec": "1/2003/EK rendelet 16. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Amennyiben a nemzeti bíróságok hoznak határozatot a Szerződés 81. vagy 82. cikkének hatálya alá tartozó olyan megállapodásokról, döntésekről vagy magatartásokról, amelyek már bizottsági határozat "
+   },
+   {
+    "tetel": 41,
+    "fejlec": "1/2003/EK rendelet 30. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) A közzététel során megadja a felek nevét és a határozat fő tartalmát, ideértve a kiszabott szankciókat. Tekintetbe veszi a vállalkozások ahhoz fűződő jogos érdekét, hogy üzleti titkaikat megőrizzé"
+   },
+   {
+    "tetel": 41,
+    "fejlec": "1/2003/EK rendelet 33. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A Bizottság felhatalmazással rendelkezik arra, hogy e rendelet alkalmazása érdekében megfelelő intézkedéseket hozzon. Az intézkedések vonatkozhatnak többek között:"
+   },
+   {
+    "tetel": 41,
+    "fejlec": "1/2003/EK rendelet 35. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) A tagállamok úgy jelölik ki a Szerződés 81. és 82. cikkének alkalmazásáért felelős versenyhatóságot vagy versenyhatóságokat, hogy e rendelet rendelkezéseit hatékonyan betartsák. 2004. május 1. elő"
+   },
+   {
+    "tetel": 42,
+    "fejlec": "GDPR 5. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "c) az adatkezelés céljai szempontjából megfelelőek és relevánsak kell, hogy legyenek, és a szükségesre kell korlátozódniuk („adattakarékosság”); d) pontosnak és szükség esetén naprakésznek kell lenniü"
+   },
+   {
+    "tetel": 42,
+    "fejlec": "GDPR 8. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "A gyermek hozzájárulására vonatkozó feltételek az információs társadalommal összefüggő szolgáltatások vonatkozásában"
+   },
+   {
+    "tetel": 42,
+    "fejlec": "GDPR 17. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "c) az érintett a 21. cikk (1) bekezdése alapján tiltakozik az adatkezelése ellen, és nincs elsőbbséget élvező jogszerű ok az adatkezelésre, vagy az érintett a 21. cikk (2) bekezdése alapján tiltakozik"
+   },
+   {
+    "tetel": 42,
+    "fejlec": "GDPR 21. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(1) Az érintett jogosult arra, hogy a saját helyzetével kapcsolatos okokból bármikor tiltakozzon személyes adatainak a 6. cikk (1) bekezdésének e) vagy f) pontján alapuló kezelése ellen, ideértve az e"
+   },
+   {
+    "tetel": 43,
+    "fejlec": "EUMSZ 191. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) Az Unió környezetpolitikájának célja a magas szintű védelem, figyelembe véve ugyanakkor az Unió különböző régióinak helyzetében mutatkozó különbségeket. Ez a politika az elővigyáza tosság és a meg"
+   }
+  ]
  },
  "lefedettseg": {
   "1": {
@@ -26,253 +572,39 @@
    "info": []
   },
   "2": {
-   "hiany": [
-    {
-     "forras": "EUSZ",
-     "elem": "13–13",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "223–287",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "3": {
-   "hiany": [
-    {
-     "forras": "EUSZ",
-     "elem": "17–17",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "244–250",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "4": {
-   "hiany": [
-    {
-     "forras": "EUSZ",
-     "elem": "15–16",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "235–243",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "5": {
-   "hiany": [
-    {
-     "forras": "EUSZ",
-     "elem": "14–14",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "223–234",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "6": {
-   "hiany": [
-    {
-     "forras": "EUSZ",
-     "elem": "19–19",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "251–281",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "7": {
-   "hiany": [
-    {
-     "forras": "EUSZ",
-     "elem": "39–39",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "16–16",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "24–24",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "227–228",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "R45_2001",
-     "elem": "41–48",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Charta",
-     "elem": "43–44",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "8": {
-   "hiany": [
-    {
-     "forras": "Alaptv",
-     "elem": "E)–E)",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUSZ",
-     "elem": "4–5",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "2–6",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "352–352",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "30/1998. (VI. 25.) AB határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "143/2010. (VII. 14.) AB határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "32/2008. (III. 12.) AB határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "22/2016. (XII. 5.) AB határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2/2019. (III. 5.) AB határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "9": {
-   "hiany": [
-    {
-     "forras": "EUSZ",
-     "elem": "5–5",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "21–22",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "25–25",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "77–77",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "81–81",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "113–113",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "289–289",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "293–294",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "296–297",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "10": {
-   "hiany": [
-    {
-     "forras": "EUSZ",
-     "elem": "5–5",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUSZ",
-     "elem": "12–12",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUSZ",
-     "elem": "48–48",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "69–71",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "81–81",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "85–85",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "88–88",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "11": {
@@ -280,944 +612,197 @@
    "info": []
   },
   "12": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "216–219",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "13": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "288–288",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "297–297",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "14": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "288–288",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "297–297",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "15": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "288–290",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "292–292",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "296–296",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "16": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "288–288",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "C-26/62",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-6/64",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-106/77",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-493/17",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "17": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "288–288",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "C-26/62",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-41/74",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-152/84",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-106/89",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "18": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "20–25",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "C-200/02",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-135/08",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "T-529/13",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-420/16",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "T-646/13",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "T-391/17",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-899/19",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "19": {
    "hiany": [
     {
-     "forras": "EUMSZ",
-     "elem": "10–10",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "18–19",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "34–37",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "45–45",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "49–49",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "54–56",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "63–63",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "110–110",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "157–157",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "C-43/75",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-415/93",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
      "forras": "C-141/04",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "elem": "teljes",
+     "ok": "a tétel nem említi"
     }
    ],
    "info": []
   },
   "20": {
-   "hiany": [
-    {
-     "forras": "EUSZ",
-     "elem": "6–6",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
+   "hiany": [],
+   "info": [
     {
      "forras": "Charta",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 18 egységét említi a 54 hatályosból"
     },
     {
      "forras": "EUB 2/94",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 0 hatályosból"
     },
     {
      "forras": "EUB 2/13",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 0 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "21": {
-   "hiany": [
-    {
-     "forras": "C-29/69",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-11/70",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-4/73",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-36/75",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-44/79",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-12/86",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-374/87",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-5/88",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-112/00",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-328/04",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-617/10",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "22": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "258–260",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "23": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "263–266",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "277–277",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "C-25/62",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-294/83",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "T-18/10",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-583/11",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "24": {
-   "hiany": [
-    {
-     "forras": "EUSZ",
-     "elem": "19–19",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "267–267",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "C-283/81",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-210/06",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-54/96",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-416/10",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "25": {
-   "hiany": [
+   "hiany": [],
+   "info": [
     {
      "forras": "3/2005. PK-KK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 0 hatályosból"
     },
     {
      "forras": "1/2009. PK-KK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 1 hatályosból"
     },
     {
      "forras": "EBH 2008.1815",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 0 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "26": {
-   "hiany": [
-    {
-     "forras": "C-6/90",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-9/90",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-46/93",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-48/93",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-224/01",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-68/79",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "27": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "340–340",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
+   "hiany": [],
+   "info": [
     {
      "forras": "C-5/66",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-5/71",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-83/76",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 1 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "28": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "67–76",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "81–81",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "1215/2012/EU",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2019/1111/EU",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "593/2008/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "864/2007/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "1259/2010/EU",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "650/2012/EU",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2020/1783/EU",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2020/1784/EU",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "29": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "82–86",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "C-187/01",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-436/04",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-150/05",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-297/07",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-486/14",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-491/07",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "30": {
-   "hiany": [
-    {
-     "forras": "EUSZ",
-     "elem": "21–37",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUSZ",
-     "elem": "40–40",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "31": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "114–118",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "32": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "20–20",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "21–21",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "26–26",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "45–45",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "2004/38/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-41/74",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-149/79",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-473/93",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-364/10",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-673/16",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "33": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "45–45",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "49–55",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "C-139/85",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-66/85",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-344/87",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-379/87",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "34": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "49–50",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "54–55",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "C-212/97",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-208/00",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-210/06",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "35": {
-   "hiany": [
+   "hiany": [],
+   "info": [
     {
      "forras": "98/5/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 6 egységét említi a 18 hatályosból"
     },
     {
      "forras": "2005/36/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-340/89",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-55/94",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-359/09",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 3 egységét említi a 59 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "36": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "28–30",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "34–37",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "110–110",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "C-24/68",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-8/74",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-120/78",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-57/65",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-290/05",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "37": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "56–62",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "2006/123/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-33/74",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-55/94",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "38": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "63–66",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "C-286/82",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-26/83",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-358/93",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-416/93",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-484/93",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-503/99",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "39": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "119–144",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "219–219",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "282–284",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "40": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "3–3",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "EUMSZ",
-     "elem": "101–109",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "139/2004/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2006/111/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "41": {
-   "hiany": [
-    {
-     "forras": "EUMSZ",
-     "elem": "101–102",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
+   "hiany": [],
+   "info": [
     {
      "forras": "2003/1/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 17 egységét említi a 44 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "42": {
-   "hiany": [
+   "hiany": [],
+   "info": [
     {
      "forras": "(EU) 2016/679",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 19 egységét említi a 99 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "43": {
-   "hiany": [
+   "hiany": [],
+   "info": [
     {
      "forras": "EP-ismerteto-energia",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 0 hatályosból"
     },
     {
      "forras": "Consilium-eghajlat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 0 hatályosból"
     }
-   ],
-   "info": []
+   ]
   }
  }
 }

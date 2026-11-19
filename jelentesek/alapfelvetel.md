@@ -1,7 +1,7 @@
 # S1 – alapfelvétel: C/2 – Az Európai Unió joga
 
 - kiírás: 43 tétel (tetelsor/kiiras_2026.txt); jegyzet: 131 rész 43 tételben
-- feloldott hivatkozás: 200; feloldatlan: 2; a kiírás által nem hivatkozott korpusz-fájl: 11
+- feloldott hivatkozás: 199; feloldatlan: 3; a kiírás által nem hivatkozott korpusz-fájl: 10
 - alapfelvételi hiba: 0
 
 
@@ -9,6 +9,7 @@
 
 - 1. tétel: a kiírásban nincs feloldható hivatkozás
 - 11. tétel: a kiírásban nincs feloldható hivatkozás
+- 43. tétel: fel nem ismert hivatkozás: https://www.europarl.europa.eu/factsheets/hu/sheet/68/energiapolitika-altalanos-elvek
 
 ## Átfogó ismeret (a kiírás elején)
 
@@ -18,16 +19,15 @@
 ## A kiírás által nem hivatkozott korpusz-fájlok (tájékoztató)
 
 - Bizottsági közlemény - közszolgáltatás ellentételezése (2012_C 8_03).txt
-- C-106_89 Marleasing-ügy.txt
-- C-12_86 Demirel-ügy.txt
+- C-106_89 Marleasing-ügy tárgyalási jelentés.txt
+- C-12_86 Demirel-ügy tárgyalási jelentés.txt
 - C-147_03 Bizottság kontra Ausztria-ügy.txt
 - C-2_74 Reyners-ügy.txt
-- C-344_87 Bettray-ügy.txt
-- C-374_87 Orkem-ügy.txt
+- C-344_87 Bettray-ügy tárgyalási jelentés.txt
+- C-374_87 Orkem-ügy tárgyalási jelentés.txt
 - C-453_99 Courage-ügy.txt
-- C-583_11 P Inuit Tapiriit Kanatami-ügy.txt
-- C-5_88 Wachauf-ügy.txt
-- T-18_10 Inuit Tapiriit Kanatami végzés (EN).txt
+- C-583_11 Inuit Tapiriit Kanatami fellebbezés.txt
+- C-5_88 Wachauf-ügy tárgyalási jelentés.txt
 
 ## Tételenként
 
@@ -49,23 +49,23 @@
 | 14 | Az irányelv joghatásai, jellemzői és viszonya a nemzeti joghoz; az átü | 1 | 22456 | 1743 | 0 |
 | 15 | A jogalkotási aktusok és a nem jogalkotási aktusok elhatárolása. Az Eu | 1 | 26936 | 3890 | 0 |
 | 16 | Az uniós jog autonómiája és elsőbbsége | 5 | 194862 | 147188 | 0 |
-| 17 | A közvetlen hatály; az Alapszerződések, a rendeletek, az irányelvek ve | 5 | 117778 | 107562 | 0 |
+| 17 | A közvetlen hatály; az Alapszerződések, a rendeletek, az irányelvek ve | 5 | 117778 | 97635 | 0 |
 | 18 | Az uniós polgárság és az uniós polgársághoz fűződő jogok terjedelme; a | 8 | 400823 | 350506 | 0 |
 | 19 | A diszkrimináció tilalma és az egyenlő bánásmód elve az uniós jogban.  | 4 | 205229 | 154440 | 0 |
 | 20 | Alapjogvédelem az Európai Unióban; Az Európai Unió Alapjogi Chartája;  | 3 | 280541 | 256844 | 0 |
-| 21 | Az Európai Unió Bíróságának ítélkezési gyakorlata az alapjogok terén;  | 12 | 333674 | 416491 | 0 |
+| 21 | Az Európai Unió Bíróságának ítélkezési gyakorlata az alapjogok terén;  | 12 | 333674 | 349037 | 0 |
 | 22 | A tagállamokkal szemben indított kötelezettségszegési eljárás (szakasz | 1 | 19202 | 2982 | 0 |
-| 23 | Az uniós jogi aktusok megsemmisítése iránti eljárás (az eljárás megind | 4 | 162825 | 60194 | 0 |
+| 23 | Az uniós jogi aktusok megsemmisítése iránti eljárás (az eljárás megind | 4 | 162825 | 175246 | 0 |
 | 24 | Az előzetes döntéshozatali eljárás (az eljárás kezdeményezésére jogosu | 5 | 216951 | 183347 | 0 |
 | 25 | Az előzetes döntéshozatali eljárás és a magyar bírósági jogalkalmazás  | 4 | 69566 | 34296 | 0 |
-| 26 | A tagállam kárfelelőssége az uniós jog megsértéséért (általános alapel | 5 | 232047 | 302559 | 0 |
+| 26 | A tagállam kárfelelőssége az uniós jog megsértéséért (általános alapel | 5 | 232047 | 274810 | 0 |
 | 27 | Az Európai Unió intézményei vagy azok alkalmazottai által okozott kár  | 4 | 81016 | 126343 | 0 |
 | 28 | A szabadság, a biztonság és a jog érvényesülésén alapuló térség. Igazs | 1 | 56976 | 806299 | 0 |
 | 29 | Igazságügyi együttműködés büntetőügyekben; a kölcsönös elismerés elve; | 7 | 244756 | 181014 | 0 |
 | 30 | A közös kül- és biztonságpolitika elvei és céljai, intézményrendszere, | 1 | 48240 | 19515 | 0 |
 | 31 | A belső piac fogalma, kialakulása; jogalkotás – dereguláció a belső pi | 1 | 23721 | 6314 | 0 |
 | 32 | A személyek szabad mozgása; kivételek a személyek szabad mozgása alól | 7 | 193395 | 203108 | 0 |
-| 33 | A munkavállalók szabad mozgása; a letelepedés szabadsága önálló vállal | 5 | 111367 | 84233 | 0 |
+| 33 | A munkavállalók szabad mozgása; a letelepedés szabadsága önálló vállal | 5 | 111367 | 70237 | 0 |
 | 34 | A letelepedés szabadsága vállalkozások esetében | 4 | 188719 | 146941 | 0 |
 | 35 | A diplomák és szakképesítések kölcsönös elismerése; az ügyvédi hivatás | 4 | 121289 | 448530 | 0 |
 | 36 | Az áruk szabad mozgása; a vámok és azzal azonos hatású díjak tilalma;  | 6 | 125258 | 99763 | 0 |
@@ -74,5 +74,5 @@
 | 39 | A monetáris unió fogalma és jelentősége | 1 | 87459 | 40816 | 0 |
 | 40 | Mi a versenyjog funkciója? Milyen jogforráson alapul? (antitröszt, áll | 2 | 41381 | 137109 | 0 |
 | 41 | Mi a Bizottság szerepe a versenyjogban (a Bizottság hatásköre, jogalko | 1 | 47426 | 86299 | 0 |
-| 42 | Az adatkezelési elvek és az érintett jogai A természetes személyeknek  | 1 | 77658 | 373546 | 0 |
-| 43 | Az Európai Unió klíma- és energiapolitikájának fő irányai | 1 | 38135 | 24610 | 0 |
+| 42 | Az adatkezelési elvek és az érintett jogai | 1 | 77658 | 373546 | 0 |
+| 43 | Az Európai Unió klíma- és energiapolitikájának fő irányai | 1 | 38135 | 24610 | 1 |
