@@ -235,15 +235,27 @@
       "storageName": "Alaptörvény - Magyarország Alaptörvénye (2011. április 25.) - Hatályos Jogszabályok Gyűjteménye.txt",
       "bytes": 136252,
       "sha256": "9ac2a56e58a0735291f43ddffa3a4b698b059f2df03207da19daa96e6469133e",
-      "macUtkozes": false
+      "macUtkozes": false,
+      "megjegyzes": "2026-11-19: cserélve a már ellenőrzött, 2026. december 9-én hatályos szövegre (másik tételsor korpuszából). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/Be. (új) - 2017. évi XC. törvény a büntetőeljárásról - Hatályos Jogszabályok Gyűjteménye.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/Be. (új) - 2017. évi XC. törvény a büntetőeljárásról - Hatályos Jogszabályok Gyűjteménye.txt",
       "storageName": "Be. (új) - 2017. évi XC. törvény a büntetőeljárásról - Hatályos Jogszabályok Gyűjteménye.txt",
-      "bytes": 1300069,
-      "sha256": "271d32991e37695ae52a8611b3d05d238550c1de529aae8021ddd7e07aaad06d",
-      "macUtkozes": false
+      "bytes": 1293403,
+      "sha256": "569eb7430fe73d4f54781c43ed66ceaa017fb54ffb8349ae355b0752a6da5f9c",
+      "macUtkozes": false,
+      "megjegyzes": "2026-11-19: cserélve a már ellenőrzött, 2026. december 9-én hatályos szövegre (másik tételsor korpuszából). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/Bizottsági közlemény - közszolgáltatás ellentételezése (2012_C 8_03).txt",
@@ -905,9 +917,15 @@
       "file": "korpusz/Pp. (új) - 2016. évi CXXX. törvény a polgári perrendtartásról - Hatályos Jogszabályok Gyűjteménye.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/Pp. (új) - 2016. évi CXXX. törvény a polgári perrendtartásról - Hatályos Jogszabályok Gyűjteménye.txt",
       "storageName": "Pp. (új) - 2016. évi CXXX. törvény a polgári perrendtartásról - Hatályos Jogszabályok Gyűjteménye.txt",
-      "bytes": 712397,
-      "sha256": "fa404fc7c627d2cc2716601eed0f12da9df1e4da048f1a8a0d58d11e4460e8e0",
-      "macUtkozes": false
+      "bytes": 712513,
+      "sha256": "1e9cf236bf6f3d8e1d7854a73003e5f2b9a028e943647198383b2cd1804f8b33",
+      "macUtkozes": false,
+      "megjegyzes": "2026-11-19: cserélve a már ellenőrzött, 2026. december 9-én hatályos szövegre (másik tételsor korpuszából). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/T-18_10 Inuit Tapiriit Kanatami végzés (EN).txt",
