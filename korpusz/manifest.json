@@ -1,7 +1,7 @@
 {
   "kategoria": "C/2 Az Európai Unió joga",
   "forras": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/",
-  "darab": 117,
+  "darab": 118,
   "kotottLawDocId": 117,
   "megjegyzes": "A fajlok a Storage TXT valtozatlan masolatai. Nincs trim, nincs atiras.",
   "items": [
@@ -9,9 +9,16 @@
       "file": "korpusz/1_2003_EK rendelet a versenyszabályok végrehajtásáról.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/1_2003_EK rendelet a versenyszabályok végrehajtásáról.txt",
       "storageName": "1_2003_EK rendelet a versenyszabályok végrehajtásáról.txt",
-      "bytes": 92124,
-      "sha256": "6f51c4467a366d1d8124ed1c5b1b77d96d44ef1edcd863f10c0f378c6b81027b",
-      "macUtkozes": false
+      "bytes": 55351,
+      "sha256": "be69facfecfb968a68da0bda730862124d3a08b8507135b85b64c2a21fa52b4a",
+      "macUtkozes": false,
+      "idoallapot": "2009.07.01. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02003R0001). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/1_2009. (VI. 24.) PK-KK közös vélemény.txt",
@@ -25,9 +32,16 @@
       "file": "korpusz/1215_2012_EU rendelet Brüsszel Ia.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/1215_2012_EU rendelet Brüsszel Ia.txt",
       "storageName": "1215_2012_EU rendelet Brüsszel Ia.txt",
-      "bytes": 96745,
-      "sha256": "f6e510dcba38b1be3d3531f95181c384a8279b12866a67408c798a7b8a31ff42",
-      "macUtkozes": false
+      "bytes": 100350,
+      "sha256": "1bf42001afdf160daed23e375d29cb77b29350edf62cf5323c9f5e9d86fd3551",
+      "macUtkozes": false,
+      "idoallapot": "2015.02.26. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02012R1215). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/1259_2010_EU rendelet Róma III.txt",
@@ -41,9 +55,16 @@
       "file": "korpusz/139_2004_EK rendelet az összefonódások ellenőrzéséről.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/139_2004_EK rendelet az összefonódások ellenőrzéséről.txt",
       "storageName": "139_2004_EK rendelet az összefonódások ellenőrzéséről.txt",
-      "bytes": 105821,
-      "sha256": "eb0dce312f62e5b2cfe9a41cd8220835885490fc96cdd11519190b77f573788c",
-      "macUtkozes": false
+      "bytes": 78249,
+      "sha256": "83e86844ae25c3ad068c6711d85abd2da89eda63375c0cf63804a946765d0f3c",
+      "macUtkozes": false,
+      "idoallapot": "2004.02.18. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02004R0139). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/143_2010. (VII. 14.) AB határozat.txt",
@@ -81,41 +102,76 @@
       "file": "korpusz/2004_38_EK irányelv a polgárok szabad mozgásáról.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/2004_38_EK irányelv a polgárok szabad mozgásáról.txt",
       "storageName": "2004_38_EK irányelv a polgárok szabad mozgásáról.txt",
-      "bytes": 62967,
-      "sha256": "479b8ebe163b7608a51f6943f0fd1166e4d1bd98a728eb3b4966601e13634ec2",
-      "macUtkozes": false
+      "bytes": 63986,
+      "sha256": "488d876957012ff6b6059c7c122ca388c1114ce5be61b781783496de672ef9e8",
+      "macUtkozes": false,
+      "idoallapot": "2011.06.16. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02004L0038). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/2005_36_EK irányelv a szakmai képesítések elismeréséről.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/2005_36_EK irányelv a szakmai képesítések elismeréséről.txt",
       "storageName": "2005_36_EK irányelv a szakmai képesítések elismeréséről.txt",
-      "bytes": 378432,
-      "sha256": "5036e372272296e22076dc1d1b65876b818833099a497ecba8b5e6c8d57e6542",
-      "macUtkozes": false
+      "bytes": 491315,
+      "sha256": "0e0cb74e552c34bbe9bff5662e0b2656376aee57e6380417fe448161349fb232",
+      "macUtkozes": false,
+      "idoallapot": "2025.10.29. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02005L0036). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/2006_111_EK irányelv a közvállalkozások pénzügyi átláthatóságáról.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/2006_111_EK irányelv a közvállalkozások pénzügyi átláthatóságáról.txt",
       "storageName": "2006_111_EK irányelv a közvállalkozások pénzügyi átláthatóságáról.txt",
-      "bytes": 32879,
-      "sha256": "1aaff14b8760fd88f5e9fd097864bb53e9f01e58f835cc971f330f93c7235968",
-      "macUtkozes": false
+      "bytes": 14987,
+      "sha256": "1207f048a39b4d166a59467e97a75e986cdbc1bf33d4783f42686a28719dbfc3",
+      "macUtkozes": false,
+      "idoallapot": "2025.08.10. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02006L0111). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/2006_123_EK irányelv a belső piaci szolgáltatásokról.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/2006_123_EK irányelv a belső piaci szolgáltatásokról.txt",
       "storageName": "2006_123_EK irányelv a belső piaci szolgáltatásokról.txt",
-      "bytes": 178763,
-      "sha256": "9cd0e83d7ab2342de6112ebb1789b6a78e1cc2a45281544620ef73a5f4e75724",
-      "macUtkozes": false
+      "bytes": 182244,
+      "sha256": "e69ed3ac6b56f2b536a091eb3c1cb62cece46b5859f39018bd2ede252e6062a8",
+      "macUtkozes": false,
+      "idoallapot": "2006.12.28. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02006L0123). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/2016_679_EU rendelet GDPR.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/2016_679_EU rendelet GDPR.txt",
       "storageName": "2016_679_EU rendelet GDPR.txt",
-      "bytes": 412606,
-      "sha256": "cce7d71e7dac16d7eef7d59fea7148ab2eb91807f528884e4aa427ed8d31e97b",
-      "macUtkozes": false
+      "bytes": 221770,
+      "sha256": "52cc2d194ae38955a8d1ec52deb3f7ecf076d735ee703b49eec5cddfc1ba00dd",
+      "macUtkozes": false,
+      "idoallapot": "2016.05.04. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02016R0679). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/2019_1111_EU rendelet Brüsszel IIb.txt",
@@ -137,9 +193,16 @@
       "file": "korpusz/2020_1784_EU rendelet iratkézbesítés.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/2020_1784_EU rendelet iratkézbesítés.txt",
       "storageName": "2020_1784_EU rendelet iratkézbesítés.txt",
-      "bytes": 112129,
-      "sha256": "31d28072c8d8214ad71ae69b7bc8bc1ca1ef51f7f1dc3f134acb5f86cfb2771c",
-      "macUtkozes": false
+      "bytes": 69801,
+      "sha256": "23ffcd0bb7eb7aebf8ee4acef9c2ddf9100b5b21ad0be84b56b536419f10a45a",
+      "macUtkozes": false,
+      "idoallapot": "2025.05.01. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02020R1784). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/22_2016. (XII. 5.) AB határozat az Alaptörvény E) cikk (2) bekezdésének értelmezéséről.txt",
@@ -193,9 +256,16 @@
       "file": "korpusz/593_2008_EK rendelet Róma I.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/593_2008_EK rendelet Róma I.txt",
       "storageName": "593_2008_EK rendelet Róma I.txt",
-      "bytes": 58177,
-      "sha256": "a553037c4838651158cd1155ac6dc3bcbfbe784ba4a1f3bb7f97b6385a3092ef",
-      "macUtkozes": false
+      "bytes": 57468,
+      "sha256": "84727ae6f1838c8346a2cc786690d461e06396dddda70c74a7a06854858411d3",
+      "macUtkozes": false,
+      "idoallapot": "2008.07.24. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02008R0593). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/650_2012_EU rendelet öröklési ügyek.txt",
@@ -209,17 +279,31 @@
       "file": "korpusz/864_2007_EK rendelet Róma II.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/864_2007_EK rendelet Róma II.txt",
       "storageName": "864_2007_EK rendelet Róma II.txt",
-      "bytes": 45152,
-      "sha256": "0702386b5f813463f1e341e09ddc3f5190f8ab84b7d12f19eac2f36042e74540",
-      "macUtkozes": false
+      "bytes": 46713,
+      "sha256": "681ce042d7ee882d65780ced2ba8ec1fdb29cebe903964c10a66fbb1f747acee",
+      "macUtkozes": false,
+      "idoallapot": "2009.01.11. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02007R0864). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/98_5_EK irányelv az ügyvédi hivatás állandó gyakorlásáról.txt",
       "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/98_5_EK irányelv az ügyvédi hivatás állandó gyakorlásáról.txt",
       "storageName": "98_5_EK irányelv az ügyvédi hivatás állandó gyakorlásáról.txt",
-      "bytes": 35252,
-      "sha256": "806f8424acad115c21292deff494d32dbb8fb5a064aa4f0d67eec82b1fc8bd9a",
-      "macUtkozes": false
+      "bytes": 25221,
+      "sha256": "d9b85f26a64ab5d611a97bf61f06aa46eb0909bdb70a0148b478d484870f6672",
+      "macUtkozes": false,
+      "idoallapot": "2013.07.01. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 01998L0005). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     },
     {
       "file": "korpusz/Alapjogi Charta (2016).txt",
@@ -958,6 +1042,21 @@
       "bytes": 34244,
       "sha256": "a41c4cab25ac314cda8f8829752455297b76d0fa4701774ff5e21cac3d138556",
       "macUtkozes": false
+    },
+    {
+      "file": "korpusz/2018_1725_EU rendelet a személyes adatok uniós intézményi kezeléséről.txt",
+      "storagePath": "jogforrasok/1.Jogszabályok/Korpusz/C2 tételsor/TXT/2018_1725_EU rendelet a személyes adatok uniós intézményi kezeléséről.txt",
+      "storageName": "2018_1725_EU rendelet a személyes adatok uniós intézményi kezeléséről.txt",
+      "bytes": 180261,
+      "sha256": "0e99493058488444ff35d3821a6894ab1d279f661026847184a39b937779d0c0",
+      "macUtkozes": false,
+      "idoallapot": "2018.11.21. –",
+      "megjegyzes": "2026-11-19: cserélve az EUR-Lex hatályos egységes szerkezetű magyar szövegére (CELEX 02018R1725). A Storage-ba még feltöltendő.",
+      "hatalyossag": {
+        "allapot": "friss",
+        "jogallapot": "2026-12-09",
+        "ellenorizve": "2026-11-19"
+      }
     }
   ]
 }

@@ -2,6 +2,7 @@
  "korpusz": {
   "hianyzoForras": [],
   "forrashozNemKotottFajl": [
+   "2018_1725_EU rendelet a személyes adatok uniós intézményi kezeléséről.txt",
    "Bizottsági közlemény - közszolgáltatás ellentételezése (2012_C 8_03).txt",
    "C-106_89 Marleasing-ügy tárgyalási jelentés.txt",
    "C-12_86 Demirel-ügy tárgyalási jelentés.txt",
@@ -16,56 +17,8 @@
   "duplikalt": []
  },
  "dobozok": {
-  "osszes": 408,
+  "osszes": 418,
   "elteres": [
-   {
-    "tetel": 3,
-    "fejlec": "EUMSZ 246. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(az EKSz. korábbi 215. cikke) A Bizottság tagjainak megbízatása  a megbízatás lejártától vagy az elhalálozástól eltekintve — lemondással vagy felmentéssel szűnik meg. A lemondó, hivatalából felmentet"
-   },
-   {
-    "tetel": 4,
-    "fejlec": "EUMSZ 238. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(3) Figyelemmel az átmeneti rendelkezésekről szóló jegyzőkönyvben megállapított rendelkezé sekre, 2014. november 1-jétől azokban az esetekben, amikor a Szerződések értelmében a Tanácsnak nem az összes"
-   },
-   {
-    "tetel": 4,
-    "fejlec": "EUMSZ 240. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(3) A Tanács eljárási kérdésekben, valamint eljárási szabályzatának elfogadásakor egyszerű több séggel határoz."
-   },
-   {
-    "tetel": 5,
-    "fejlec": "EUSZ 14. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) Az Európai Parlament az Unió polgárainak képviselőiből áll. A képviselők száma – az elnököt nem számítva  nem haladhatja meg a hétszázötvenet. A polgárok képviselete arányosan csökkenő módon való"
-   },
-   {
-    "tetel": 5,
-    "fejlec": "EUMSZ 223. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Az Európai Parlament javaslatot dolgoz ki a tagjainak valamennyi tagállamban egységes eljárás szerint vagy valamennyi tagállamban közös elveknek megfelelően tartandó, közvetlen és általános válasz"
-   },
-   {
-    "tetel": 5,
-    "fejlec": "EUMSZ 228. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(4) Az Európai Parlament saját kezdeményezésére különleges jogalkotási eljárás keretében elfoga dott rendeletekben, a Bizottság véleményének kikérése után és a Tanács egyetértésével meghatározza az om"
-   },
-   {
-    "tetel": 8,
-    "fejlec": "EUSZ 5. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Az Unió hatásköreinek elhatárolására a hatáskör-átruházás elve az irányadó. Az uniós hatás körök gyakorlására a szubszidiaritás és az arányosság elve az irányadó."
-   },
-   {
-    "tetel": 8,
-    "fejlec": "EUMSZ 352. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Ha a Szerződésekben meghatározott politikák keretében az Unió fellépése bizonyul szük ségesnek ahhoz, hogy a Szerződésekben foglalt célkitűzések valamelyike megvalósuljon, és a Szer ződések nem bi"
-   },
    {
     "tetel": 9,
     "fejlec": "EUMSZ 77. cikk",
@@ -121,6 +74,12 @@
     "sor": "Politikái és tevékenységei meghatározása és végrehajtása során az Unió küzd mindenfajta nemen, faji vagy etnikai származáson, valláson vagy meggyőződésen, fogyatékosságon, életkoron vagy szexuális irá"
    },
    {
+    "tetel": 19,
+    "fejlec": "EUMSZ 54. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "Valamely tagállam jogszabályai alapján létrehozott olyan társaság, amelynek létesítő okirat szerinti székhelye, központi ügyvezetése vagy üzleti tevékenységének fő helye az Unió területén van, e fejez"
+   },
+   {
     "tetel": 20,
     "fejlec": "Alapjogi Charta 8. cikk",
     "hiba": "eltér a korpusztól",
@@ -151,124 +110,70 @@
     "sor": "(1) Mindenkinek joga van ahhoz, hogy jogszerűen szerzett tulajdonát birtokolja, használja, azzal rendelkezzen, és azt örökül hagyja. Tulajdonától senkit sem lehet megfosztani, kivéve, ha ez közérdekbő"
    },
    {
-    "tetel": 22,
-    "fejlec": "EUMSZ 260. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) Ha a Bizottság megítélése szerint az érintett tagállam nem teszi meg az Európai Unió Bírósá gának ítéletében foglaltak teljesítéséhez szükséges intézkedéseket, a Bizottság – miután a tagállamnak l"
-   },
-   {
-    "tetel": 28,
-    "fejlec": "EUMSZ 67. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Az Unió egy, a szabadságon, a biztonságon és a jog érvényesülésén alapuló térséget alkot, amelyben tiszteletben tartják az alapvető jogokat és a tagállamok eltérő jogrendszereit és jogi hagyo mány"
-   },
-   {
     "tetel": 28,
     "fejlec": "EUMSZ 70. cikk",
     "hiba": "eltér a korpusztól",
     "sor": "A 258., a 259. és a 260. cikk sérelme nélkül a Tanács a Bizottság javaslata alapján intézkedéseket fogadhat el, amelyekben megállapítja azokat a szabályokat, amelyek szerint a tagállamok a Bizottságga"
    },
    {
-    "tetel": 28,
-    "fejlec": "EUMSZ 81. cikk",
+    "tetel": 35,
+    "fejlec": "2005/36/EK irányelv (1) preambulumbekezdés",
     "hiba": "eltér a korpusztól",
-    "sor": "a) a bírósági és bíróságon kívüli ügyekben hozott határozatok tagállamok közötti kölcsönös elisme rése és azok végrehajtása,"
+    "sor": "A Szerződés 3. cikke (1) bekezdésének c) pontja értel- (1) mében a személyek és a szolgáltatások tagállamok"
    },
    {
-    "tetel": 29,
-    "fejlec": "EUMSZ 82. cikk",
+    "tetel": 35,
+    "fejlec": "2005/36/EK irányelv (3) preambulumbekezdés",
     "hiba": "eltér a korpusztól",
-    "sor": "(1) Az Unióban a büntetőügyekben folytatott igazságügyi együttm űködés a bírósági ítéletek és határozatok kölcsönös elismerésének elvén alapul, és magában foglalja a tagállamok törvényi, rende leti és"
+    "sor": "Az ezen irányelv által arra vonatkozóan nyújtott (3) garancia, hogy a valamely tagállamban szakmai képesí- téstszerzettszemélyegymásiktagállamban—ugya- nazon jogokat élvezve, mint e másik tagállam áll"
    },
    {
-    "tetel": 29,
-    "fejlec": "EUMSZ 83. cikk",
+    "tetel": 35,
+    "fejlec": "2005/36/EK irányelv (4) preambulumbekezdés",
     "hiba": "eltér a korpusztól",
-    "sor": "(1) Az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében elfogadott irányelvekben szabályozási minimumokat állapíthat meg a bűncselekményi tényállások és a büntetési tételek meghatáro"
+    "sor": "(4) A szabad szolgáltatásnyújtás megkönnyítése érdekében"
    },
    {
-    "tetel": 29,
-    "fejlec": "EUMSZ 85. cikk",
+    "tetel": 35,
+    "fejlec": "2005/36/EK irányelv (8) preambulumbekezdés",
     "hiba": "eltér a korpusztól",
-    "sor": "(1) Az Eurojust feladata a két vagy több tagállamot érintő, illetve a közös alapokon való bűnül dözést szükségessé tevő súlyos bűncselekmények kivizsgálására, valamint az ezekkel kapcsolatos büntetőel"
+    "sor": "A szolgáltatásnyújtóra alkalmazni kell a fogadó tagál- (8)"
    },
    {
-    "tetel": 30,
-    "fejlec": "EUSZ 22. cikk",
+    "tetel": 35,
+    "fejlec": "2005/36/EK irányelv (9) preambulumbekezdés",
     "hiba": "eltér a korpusztól",
-    "sor": "(2) A közös kül- és biztonságpolitika terén az Unió külügyi és biztonságpolitikai f őképviselője, a külkapcsolatok egyéb területein pedig a Bizottság együttes javaslatokat terjeszthet a Tanács elé. A "
+    "sor": "Fenntartva a letelepedés szabadsága tekintetében (9)"
    },
    {
-    "tetel": 30,
-    "fejlec": "EUSZ 24. cikk",
+    "tetel": 35,
+    "fejlec": "2005/36/EK irányelv (10) preambulumbekezdés",
     "hiba": "eltér a korpusztól",
-    "sor": "(3) A tagállamok az Unió kül- és biztonságpolitikáját a lojalitás és a kölcsönös szolidaritás jegyében tevékenyen és fenntartások nélkül támogatják, és tiszteletben tartják az Unió e területen folytat"
+    "sor": "Ez az irányelv nem gátolja a tagállamokat abban, hogy"
    },
    {
-    "tetel": 30,
-    "fejlec": "EUSZ 26. cikk",
+    "tetel": 35,
+    "fejlec": "2005/36/EK irányelv (15) preambulumbekezdés",
     "hiba": "eltér a korpusztól",
-    "sor": "(1) Az Európai Tanács megállapítja az Unió stratégiai érdekeit, valamint meghatározza a közös kül- és biztonságpolitika célkitűzéseit és az arra vonatkozó általános iránymutatásokat, beleértve a védel"
+    "sor": "(15) Az általános rendszerben szabályozott szakmák gyakor-"
    },
    {
-    "tetel": 30,
-    "fejlec": "EUSZ 28. cikk",
+    "tetel": 35,
+    "fejlec": "98/5/EK irányelv (2) preambulumbekezdés",
     "hiba": "eltér a korpusztól",
-    "sor": "(1) Amennyiben a nemzetközi helyzet műveleti fellépést tesz szükségessé, a Tanács elfogadja a szükséges határozatokat. A határozatban meg kell határozni annak céljait, hatókörét, az Unió rendel kezésé"
+    "sor": "(2) […] a 89/48[…]irányelv […] alapján az egyik tagállamban teljes képesítést nyert ügyvéd [helyesen: az egyik tagállamban teljes képesítést szerző ügyvéd a 89/48[…]irányelv […] alapján] kérheti oklev"
    },
    {
-    "tetel": 30,
-    "fejlec": "EUSZ 31. cikk",
+    "tetel": 35,
+    "fejlec": "98/5/EK irányelv (3) preambulumbekezdés",
     "hiba": "eltér a korpusztól",
-    "sor": "(2) Az (1) bekezdés rendelkezéseitől eltérve, a Tanács minősített többséggel határoz:  amikor az Európai Tanácsnak az Unió stratégiai érdekeit és célkitűzéseit meghatározó, a 22. cikk (1) bekezdése s"
+    "sor": "(3) […] amíg egyes ügyvédek – többek között a 89/48[…] irányelvben előírt al- kalmassági vizsga letételével – gyorsan beilleszkedhetnek a fogadó tagállam ügyvédi szakmájába [helyesen: hivatásrendjébe]"
    },
    {
-    "tetel": 30,
-    "fejlec": "EUSZ 34. cikk",
+    "tetel": 35,
+    "fejlec": "98/5/EK irányelv (7) preambulumbekezdés",
     "hiba": "eltér a korpusztól",
-    "sor": "(2) A 24. cikk (3) bekezdésével összhangban azok a tagállamok, amelyek olyan nemzetközi szervezetekben, illetve konferenciákon vesznek részt, ahol nem vesz részt minden tagállam, folya matosan tájékoz"
-   },
-   {
-    "tetel": 31,
-    "fejlec": "EUMSZ 26. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(3) A Tanács a Bizottság javaslata alapján meghatározza az összes érintett ágazat kiegyensúlyo zott fejlődésének biztosításához szükséges iránymutatásokat és feltételeket."
-   },
-   {
-    "tetel": 31,
-    "fejlec": "EUMSZ 114. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Ha a Szerződések másként nem rendelkeznek, a 26. cikkben meghatározott célkitűzések megvalósítására a következő rendelkezéseket kell alkalmazni. Az Európai Parlament és a Tanács rendes jogalkotási"
-   },
-   {
-    "tetel": 31,
-    "fejlec": "EUMSZ 117. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Amennyiben okkal lehet tartani attól, hogy törvényi, rendeleti vagy közigazgatási rendelke zések elfogadása vagy módosítása a 116. cikk értelmében vett torzulást okoz, az így eljárni kívánó tagáll"
-   },
-   {
-    "tetel": 33,
-    "fejlec": "EUMSZ 45. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) A munkavállalók szabad mozgása magában foglalja az állampolgárság alapján történő minden megkülönböztetés megszüntetését a tagállamok munkavállalói között a foglalkoztatás, a javadalma zás, valami"
-   },
-   {
-    "tetel": 33,
-    "fejlec": "EUMSZ 50. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) Az Európai Parlament, a Tanács, illetve a Bizottság a fenti rendelkezésekben számára megálla pított feladatokat különösen azáltal látja el, hogy:"
-   },
-   {
-    "tetel": 33,
-    "fejlec": "EUMSZ 53. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Az Európai Parlament és a Tanács az önálló vállalkozói tevékenység megkezdésének és folytatásának megkönnyítése érdekében rendes jogalkotási eljárás keretében irányelveket bocsát ki az oklevelek, "
-   },
-   {
-    "tetel": 34,
-    "fejlec": "EUMSZ 50. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) Az Európai Parlament, a Tanács, illetve a Bizottság a fenti rendelkezésekben számára megálla pított feladatokat különösen azáltal látja el, hogy:"
+    "sor": "(7) […] e célkitűzések szem előtt tartása mellett ez az irányelv nem határoz meg semmilyen, kizárólag egy országon belüli helyzetre vonatkozó szabályt, és ahol mégis kihatással van az ügyvédi hivatás "
    },
    {
     "tetel": 35,
@@ -289,280 +194,10 @@
     "sor": "(1) Annak a saját országa szakmai címével működő ügyvédnek, aki igazolja, hogy a fogadó tagállamban legalább három évig ténylegesen és rendszeresen folytatta te- vékenységét annak [helyesen: ennek] az"
    },
    {
-    "tetel": 36,
-    "fejlec": "EUMSZ 37. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) A tagállamok tartózkodnak minden olyan új intézkedés bevezetésétől, amely ellentétes az (1) bekezdésben megállapított elvekkel, vagy amely korlátozza a tagállamok közötti vámok és mennyi ségi korl"
-   },
-   {
-    "tetel": 37,
-    "fejlec": "EUMSZ 58. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) A tőkemozgásokkal kapcsolatos banki és biztosítási szolgáltatások liberalizációja a tőkemoz gások liberalizációjával összhangban valósul meg."
-   },
-   {
-    "tetel": 37,
-    "fejlec": "EUMSZ 59. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Az Európai Parlament és a Tanács a Gazdasági és Szociális Bizottsággal folytatott konzultációt követően, rendes jogalkotási eljárás keretében irányelveket bocsát ki valamely meghatározott szol gál"
-   },
-   {
-    "tetel": 38,
-    "fejlec": "EUMSZ 64. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(3) A (2) bekezdéstől eltérve, az Európai Parlamenttel folytatott konzultációt követően, különleges jogalkotási eljárás keretében, egyhangúlag eljárva kizárólag a Tanács fogadhat el olyan intézkedések"
-   },
-   {
-    "tetel": 38,
-    "fejlec": "EUMSZ 65. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) E fejezet rendelkezései nem érintik a letelepedési jogra vonatkozó és a Szerződésekkel össze egyeztethető korlátozások alkalmazhatóságát."
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 119. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Az Európai Unióról szóló szerződés 3. cikkében meghatározott célok megvalósítása érde kében a tagállamok és az Unió tevékenysége — a Szerz ődésekben előírtak szerint  magában foglalja egy olyan g"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 121. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) A Tanács a Bizottság ajánlása alapján tervezetet készít a tagállamok és az Unió gazdaság politikájára vonatkozó átfogó iránymutatásokról, és erről jelentést tesz az Európai Tanácsnak. Az Európai T"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 122. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A Tanács, a Szerződésekben előírt egyéb eljárások sérelme nélkül, a Bizottság javaslata alapján, a tagállamok közötti szolidaritás szellemében határozhat a gazdasági helyzetnek megfelelő intézke d"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 123. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) Az (1) bekezdés nem alkalmazható a köztulajdonban lévő hitelintézetekre, amelyeket a jegy banki pénzkínálat vonatkozásában a nemzeti központi bankoknak és az Európai Központi Banknak a magántulajd"
-   },
-   {
     "tetel": 39,
     "fejlec": "EUMSZ 125. cikk",
     "hiba": "eltér a korpusztól",
     "sor": "(1) Az Unió nem felel a tagállamok központi kormányzatának, regionális vagy helyi közigazga tási szerveinek, közjogi testületeinek, egyéb közintézményeinek vagy közvállalkozásainak kötelezett ségeiért"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 126. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) A Bizottság figyelemmel kíséri a tagállamok költségvetési helyzetének, államadósság-állo mányának alakulását a jelentős mértékű eltérések feltárása érdekében. Különösen a költségvetési fegyelem be"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 127. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A Központi Bankok Európai Rendszerének (a továbbiakban: KBER) elsődleges célja az árstabi litás fenntartása. Az árstabilitási cél veszélyeztetése nélkül a KBER támogatja az Unión belüli álta lános"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 128. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Az Unión belül kizárólag az Európai Központi Bank jogosult eurobankjegyek kibocsátásának az engedélyezésére. Ilyen bankjegyek kibocsátására az Európai Központi Bank és a nemzeti központi bankok jo"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 129. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A KBER-t az Európai Központi Bank döntéshozó szervei, a Kormányzótanács és az Igazga tóság irányítják."
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 132. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A KBER-re bízott feladatok teljesítése érdekében az Európai Központi Bank a Szerződések rendelkezéseinek megfelelően és a KBER és az EKB alapokmányában megállapított feltételek mellett — rendelete"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 284. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A Tanács elnöke és a Bizottság egy tagja szavazati jog nélkül részt vehet az Európai Központi Bank Kormányzótanácsának ülésein. A Tanács elnöke megvitatás céljából indítványt terjeszthet az Európa"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 134. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A tagállamok politikáinak a belső piac működéséhez szükséges legteljesebb mértékű össze hangolásának elősegítése érdekében létrejön a Gazdasági és Pénzügyi Bizottság."
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 138. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Annak érdekében, hogy az eurónak a nemzetközi pénzrendszerben elfoglalt helyét biztosítsa, a Tanács a Bizottság javaslata alapján határozatban állapítja meg a gazdasági és monetáris unió szem pont"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 219. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A 218. cikktől eltérve, a Tanács az Európai Központi Bank ajánlása alapján vagy az Európai Központi Bankkal az árstabilitási célkitűzéssel összhangban álló konszenzus elérése céljából folytatott k"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 139. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "i) a gazdasági és monetáris unió szempontjából különösen jelentős ügyekben a nemzetközi pénz ügyi intézményekben és konferenciákon képviselendő közös álláspontot meghatározó határozatok (138. cikk (1)"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 140. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A Bizottság és az Európai Központi Bank legalább kétévente egyszer, illetve valamely eltéréssel rendelkező tagállam kérelmére jelentést tesz a Tanácsnak az eltéréssel rendelkező tagállamok által a"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 141. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) Amennyiben és amíg vannak eltéréssel rendelkező tagállamok, az Európai Központi Bank ezen tagállamok tekintetében: — er ősíti a nemzeti központi bankok közötti együttműködést; — er ősíti a tagálla"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 143. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Ha egy eltéréssel rendelkező tagállam a fizetési mérlege tekintetében a fizetési mérleg egészének egyensúlyhiányából vagy a rendelkezésére álló deviza típusából adódóan nehézségekkel küzd vagy ily"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 144. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) A Bizottságot és a többi tagállamot az ilyen védintézkedésekről legkésőbb azok hatálybalé pésének időpontjában tájékoztatni kell. A Bizottság javaslatot tehet a Tanácsnak a 143. cikk szerinti kölc"
-   },
-   {
-    "tetel": 40,
-    "fejlec": "EUMSZ 101. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A belső piaccal összeegyeztethetetlen és tilos minden olyan vállalkozások közötti megállapo dás, vállalkozások társulásai által hozott döntés és összehangolt magatartás, amely hatással lehet a tag"
-   },
-   {
-    "tetel": 40,
-    "fejlec": "EUMSZ 103. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A 101. és 102. cikkben meghatározott elvek érvényre juttatását szolgáló megfelelő rendele teket vagy irányelveket a Tanács a Bizottság javaslata alapján, az Európai Parlamenttel folytatott konzult"
-   },
-   {
-    "tetel": 40,
-    "fejlec": "EUMSZ 105. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A 104. cikk sérelme nélkül a Bizottság biztosítja a 101. és 102. cikkben megállapított elvek alkalmazását. Egy tagállam kérelmére vagy hivatalból — együttm űködve a tagállamok hatáskörrel rendelke"
-   },
-   {
-    "tetel": 40,
-    "fejlec": "EUMSZ 106. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) Az általános gazdasági érdekű szolgáltatások működtetésével megbízott vagy a jövedelemter melő monopólium jellegű vállalkozások olyan mértékben tartoznak a Szerződések szabályai, külö nösen a vers"
-   },
-   {
-    "tetel": 40,
-    "fejlec": "EUMSZ 107. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Ha a Szerződések másként nem rendelkeznek, a belső piaccal összeegyeztethetetlen a tagállamok által vagy állami forrásból bármilyen formában nyújtott olyan támogatás, amely bizo nyos vállalkozások"
-   },
-   {
-    "tetel": 40,
-    "fejlec": "EUMSZ 108. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A Bizottság a tagállamokkal együttműködve folyamatosan vizsgálja a tagállamokban létező támogatási programokat. A Bizottság javaslatot tesz a tagállamoknak a belső piac fokozatos fejlő dése vagy m"
-   },
-   {
-    "tetel": 41,
-    "fejlec": "1/2003/EK rendelet 8. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A versenyt veszélyeztető komoly és helyrehozhatatlan kár kockázata miatt felmerülő sürgős esetben a Bizottság saját kezdeményezésére, prima facie megállapított jogsértés alapján ideiglenes intézke"
-   },
-   {
-    "tetel": 41,
-    "fejlec": "1/2003/EK rendelet 9. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Ha a Bizottság olyan határozatot szándékozik elfogadni, amely a jogsértés befejezését írja elő, és az érintett vállalkozások olyan kötelezettségvállalásokat ajánlanak fel, hogy a Bizottság által s"
-   },
-   {
-    "tetel": 41,
-    "fejlec": "1/2003/EK rendelet 11. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(4) A tagállamok versenyhatóságai legkésőbb 30 nappal a jogsértés befejezésére felszólító határozat elfogadása, kötelezettségvállalások elfogadása vagy a csoportmentességről szóló rendeletből származó"
-   },
-   {
-    "tetel": 41,
-    "fejlec": "1/2003/EK rendelet 12. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) Az átadott információ bizonyítékként kizárólag a Szerződés 81. vagy 82. cikkének alkalmazása céljából, és csak olyan tárgyban használható fel, amellyel kapcsolatban az átadó hatóság azt gyűjtötte."
-   },
-   {
-    "tetel": 41,
-    "fejlec": "1/2003/EK rendelet 13. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Ha két vagy több tagállam versenyhatósága elé ugyanazon megállapodás, társulás döntése vagy magatartás ellen érkezett panasz, vagy ezzel kapcsolatban saját kezdeményezésre indított eljárásban jár "
-   },
-   {
-    "tetel": 41,
-    "fejlec": "1/2003/EK rendelet 14. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(3) A konzultációra a Bizottság által összehívott és levezetett ülésen kerül sor, amelyet legalább 14 nappal azt követően kell megtartani, hogy az összehívásról szóló értesítést az ügy összefoglalójáv"
-   },
-   {
-    "tetel": 41,
-    "fejlec": "1/2003/EK rendelet 15. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A Szerződés 81. vagy 82. cikke alkalmazására vonatkozó eljárás során a tagállamok bíróságai felkérhetik a Bizottságot arra, hogy részükre a Bizottság a birtokában lévő információt átadja, vagy vél"
-   },
-   {
-    "tetel": 41,
-    "fejlec": "1/2003/EK rendelet 16. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Amennyiben a nemzeti bíróságok hoznak határozatot a Szerződés 81. vagy 82. cikkének hatálya alá tartozó olyan megállapodásokról, döntésekről vagy magatartásokról, amelyek már bizottsági határozat "
-   },
-   {
-    "tetel": 41,
-    "fejlec": "1/2003/EK rendelet 30. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) A közzététel során megadja a felek nevét és a határozat fő tartalmát, ideértve a kiszabott szankciókat. Tekintetbe veszi a vállalkozások ahhoz fűződő jogos érdekét, hogy üzleti titkaikat megőrizzé"
-   },
-   {
-    "tetel": 41,
-    "fejlec": "1/2003/EK rendelet 33. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A Bizottság felhatalmazással rendelkezik arra, hogy e rendelet alkalmazása érdekében megfelelő intézkedéseket hozzon. Az intézkedések vonatkozhatnak többek között:"
-   },
-   {
-    "tetel": 41,
-    "fejlec": "1/2003/EK rendelet 35. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) A tagállamok úgy jelölik ki a Szerződés 81. és 82. cikkének alkalmazásáért felelős versenyhatóságot vagy versenyhatóságokat, hogy e rendelet rendelkezéseit hatékonyan betartsák. 2004. május 1. elő"
-   },
-   {
-    "tetel": 42,
-    "fejlec": "GDPR 5. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "c) az adatkezelés céljai szempontjából megfelelőek és relevánsak kell, hogy legyenek, és a szükségesre kell korlátozódniuk („adattakarékosság”); d) pontosnak és szükség esetén naprakésznek kell lenniü"
-   },
-   {
-    "tetel": 42,
-    "fejlec": "GDPR 8. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "A gyermek hozzájárulására vonatkozó feltételek az információs társadalommal összefüggő szolgáltatások vonatkozásában"
-   },
-   {
-    "tetel": 42,
-    "fejlec": "GDPR 17. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "c) az érintett a 21. cikk (1) bekezdése alapján tiltakozik az adatkezelése ellen, és nincs elsőbbséget élvező jogszerű ok az adatkezelésre, vagy az érintett a 21. cikk (2) bekezdése alapján tiltakozik"
-   },
-   {
-    "tetel": 42,
-    "fejlec": "GDPR 21. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Az érintett jogosult arra, hogy a saját helyzetével kapcsolatos okokból bármikor tiltakozzon személyes adatainak a 6. cikk (1) bekezdésének e) vagy f) pontján alapuló kezelése ellen, ideértve az e"
-   },
-   {
-    "tetel": 43,
-    "fejlec": "EUMSZ 191. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(2) Az Unió környezetpolitikájának célja a magas szintű védelem, figyelembe véve ugyanakkor az Unió különböző régióinak helyzetében mutatkozó különbségeket. Ez a politika az elővigyáza tosság és a meg"
    }
   ]
  },
@@ -745,11 +380,11 @@
    "info": [
     {
      "forras": "98/5/EK",
-     "megjegyzes": "teljes fájl előírva; a tétel 6 egységét említi a 18 hatályosból"
+     "megjegyzes": "teljes fájl előírva; a tétel 7 egységét említi a 18 hatályosból"
     },
     {
      "forras": "2005/36/EK",
-     "megjegyzes": "teljes fájl előírva; a tétel 3 egységét említi a 59 hatályosból"
+     "megjegyzes": "teljes fájl előírva; a tétel 4 egységét említi a 64 hatályosból"
     }
    ]
   },
@@ -778,7 +413,7 @@
    "info": [
     {
      "forras": "2003/1/EK",
-     "megjegyzes": "teljes fájl előírva; a tétel 17 egységét említi a 44 hatályosból"
+     "megjegyzes": "teljes fájl előírva; a tétel 17 egységét említi a 41 hatályosból"
     }
    ]
   },
