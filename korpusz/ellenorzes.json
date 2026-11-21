@@ -2,7 +2,6 @@
  "korpusz": {
   "hianyzoForras": [],
   "forrashozNemKotottFajl": [
-   "2018_1725_EU rendelet a személyes adatok uniós intézményi kezeléséről.txt",
    "Bizottsági közlemény - közszolgáltatás ellentételezése (2012_C 8_03).txt",
    "C-106_89 Marleasing-ügy tárgyalási jelentés.txt",
    "C-12_86 Demirel-ügy tárgyalási jelentés.txt",
@@ -20,6 +19,12 @@
   "osszes": 418,
   "elteres": [
    {
+    "tetel": 3,
+    "fejlec": "EUSZ 17. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "(4) A Lisszaboni Szerződés hatálybalépésének időpontja és 2014. október 31. között kinevezett Bizottság a tagállamok egy-egy állampolgárából áll, beleértve az elnökét, valamint az Unió külügyi és bizt"
+   },
+   {
     "tetel": 9,
     "fejlec": "EUMSZ 294. cikk",
     "hiba": "eltér a korpusztól",
@@ -30,6 +35,12 @@
     "fejlec": "EUMSZ 10. cikk",
     "hiba": "eltér a korpusztól",
     "sor": "Politikái és tevékenységei meghatározása és végrehajtása során az Unió küzd mindenfajta nemen, faji vagy etnikai származáson, valláson vagy meggyőződésen, fogyatékosságon, életkoron vagy szexuális irá"
+   },
+   {
+    "tetel": 30,
+    "fejlec": "EUSZ 25. cikk",
+    "hiba": "eltér a korpusztól",
+    "sor": "b) határozatokat fogad el, amelyek meghatározzák: i. az Unió által végrehajtandó fellépéseket, ii . az Unió által képviselendő álláspontokat, iii. az i. és ii. pontban említett határozatok végrehajtás"
    },
    {
     "tetel": 35,
@@ -102,12 +113,6 @@
     "fejlec": "98/5/EK irányelv 10. cikk",
     "hiba": "eltér a korpusztól",
     "sor": "(1) Annak a saját országa szakmai címével működő ügyvédnek, aki igazolja, hogy a fogadó tagállamban legalább három évig ténylegesen és rendszeresen folytatta te- vékenységét annak [helyesen: ennek] az"
-   },
-   {
-    "tetel": 39,
-    "fejlec": "EUMSZ 125. cikk",
-    "hiba": "eltér a korpusztól",
-    "sor": "(1) Az Unió nem felel a tagállamok központi kormányzatának, regionális vagy helyi közigazga tási szerveinek, közjogi testületeinek, egyéb közintézményeinek vagy közvállalkozásainak kötelezett ségeiért"
    }
   ]
  },
@@ -137,7 +142,53 @@
    "info": []
   },
   "7": {
-   "hiany": [],
+   "hiany": [
+    {
+     "forras": "R2018_1725",
+     "elem": "52",
+     "ok": "nincs dobozban és nincs hivatkozva"
+    },
+    {
+     "forras": "R2018_1725",
+     "elem": "53",
+     "ok": "nincs dobozban és nincs hivatkozva"
+    },
+    {
+     "forras": "R2018_1725",
+     "elem": "54",
+     "ok": "nincs dobozban és nincs hivatkozva"
+    },
+    {
+     "forras": "R2018_1725",
+     "elem": "55",
+     "ok": "nincs dobozban és nincs hivatkozva"
+    },
+    {
+     "forras": "R2018_1725",
+     "elem": "56",
+     "ok": "nincs dobozban és nincs hivatkozva"
+    },
+    {
+     "forras": "R2018_1725",
+     "elem": "57",
+     "ok": "nincs dobozban és nincs hivatkozva"
+    },
+    {
+     "forras": "R2018_1725",
+     "elem": "58",
+     "ok": "nincs dobozban és nincs hivatkozva"
+    },
+    {
+     "forras": "R2018_1725",
+     "elem": "59",
+     "ok": "nincs dobozban és nincs hivatkozva"
+    },
+    {
+     "forras": "R2018_1725",
+     "elem": "60",
+     "ok": "nincs dobozban és nincs hivatkozva"
+    }
+   ],
    "info": []
   },
   "8": {
@@ -294,7 +345,7 @@
     },
     {
      "forras": "2005/36/EK",
-     "megjegyzes": "teljes fájl előírva; a tétel 4 egységét említi a 64 hatályosból"
+     "megjegyzes": "teljes fájl előírva; a tétel 4 egységét említi a 83 hatályosból"
     }
    ]
   },

@@ -34,7 +34,7 @@ def egysegek(B, a, b):
             out.append((f'{i}–{i + 1}', h.blokk_hang(B[i]) + '\n\n' + h.blokk_hang(B[i + 1]))); i += 2
         else:
             out.append((str(i), h.blokk_hang(B[i]))); i += 1
-    return out
+    return [(k, t) for k, t in out if t.strip()]          # a felolvasó által kihagyott blokk (kiejtes.kihagyRx) nem egység
 
 
 def main():
