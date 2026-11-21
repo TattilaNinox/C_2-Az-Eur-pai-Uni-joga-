@@ -28,9 +28,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a soft-law kivétel nem oldható fel érintettséggel. A helyes: az EUMSZ 263. cikk első bekezdése az ajánlást és a véleményt kifejezetten kizárja; a Plaumann-küszöb a kötelező joghatású aktusok magánkereshetőségéhez tartozik. A tévedés a kereshetőségi szűrőt a tárgyi hatály helyébe tolja."
         }
-      ],
-      "sourceKerdesSorszam": 1,
-      "sourceHash": "fe4d3fe59b6d"
+      ]
     },
     {
       "question": "A félig privilegiált státusz milyen korláttal jár, és mely alanyok maradnak e listán kívül?",
@@ -55,9 +53,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a félig privilegiált küszöb az előjogvédelem, nem a Plaumann-érintettség. A helyes: az EUMSZ 263. cikk harmadik bekezdése az előjogok megóvásához köti a keresetet; a személyes érintettség a magánfél negyedik bekezdés szerinti ágainak szűrője. A tévedés a magánfél formuláját vetíti az intézményi státuszra."
         }
-      ],
-      "sourceKerdesSorszam": 2,
-      "sourceHash": "c784ed36a302"
+      ]
     },
     {
       "question": "A 263. cikk negyedik bekezdésének lisszaboni harmadik fordulata mit enged el a magánfélnél, és mit nem old fel?",
@@ -82,9 +78,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a C-583/11 P a jogalkotási aktust kiveszi a rendeleti kategóriából. A T-18/10 és a C-583/11 P szerint a 1007/2009/EK rendelet jogalkotási aktus maradt, ezért a harmadik fordulat nem nyílt meg. A személyes érintettség tartalmát a Lisszaboni Szerződés nem módosította. A címzett ág ettől elválik: ott a címzettség pótolja az érintettséget."
         }
-      ],
-      "sourceKerdesSorszam": 3,
-      "sourceHash": "c91f706b23f8"
+      ]
     },
     {
       "question": "A megsemmisítés iránti eljárás két hónapos határideje kire áll, és mi nyílik a lejárat után?",
@@ -109,9 +103,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a 277. cikk szerinti kifogás csak a konkrét jogvitában zárja ki az aktus alkalmazását. A helyes: az EUMSZ 277. cikke exceptio illegalitatis általános hatályú aktusra; erga omnes semmisséget nem mond ki. A 264. cikk szerinti semmissé nyilvánítás továbbra is a határidőn belüli, elfogadható megsemmisítési kereset következménye. A tévedés az alkalmazhatatlansági kifogást erga omnes semmisségi hatáskörré növeli."
         }
-      ],
-      "sourceKerdesSorszam": 4,
-      "sourceHash": "d9b78b45f656"
+      ]
     },
     {
       "question": "A 264. cikk szerinti semmisség hogyan viszonyul a kártérítéshez és a 266. cikk szerinti teljesítési kötelességhez?",
@@ -136,9 +128,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a fennmaradó joghatások nem oldják fel a teljesítést. A helyes: az EUMSZ 266. cikke szerinti kötelesség a fenntartott joghatásokhoz igazodik, de a teljesítés ténye megmarad. A tévedés a fennmaradó joghatások megjelölését a 266. cikk alóli teljes felmentésnek olvassa."
         }
-      ],
-      "sourceKerdesSorszam": 5,
-      "sourceHash": "924eb475f8bf"
+      ]
     },
     {
       "question": "A C-25/62 Plaumann-ügyben miért nyilvánította a Bíróság elfogadhatatlannak a hamburgi klementin-importőr megsemmisítés iránti keresetét?",
@@ -163,9 +153,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a Bíróság éppen ezt a megszorítást utasította el. A C-25/62 Plaumann-ügyben a rendelkezés se nem pontosítja, se nem korlátozza a „más személy” kifejezést, és a jogalanyok eljárási jogára vonatkozó szabályokat nem lehet megszorító módon értelmezni. A helyes: a tagállamhoz címzett határozat elvileg támadható, ha a felperest közvetlenül és személyében érinti; Plaumann a személyes érintettségen bukott. A tévedés a Bizottság elutasított álláspontját ismétli."
         }
-      ],
-      "sourceKerdesSorszam": 6,
-      "sourceHash": "87f25728fe71"
+      ]
     },
     {
       "question": "Mi következik abból a Plaumann-ügyben, ha a megsemmisítés iránti kereset elfogadhatatlan, és a kár éppen a fennmaradó aktus joghatása?",
@@ -190,9 +178,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, elfogadhatatlan semmisségi kereset mellett nincs hivatalbóli semmisség. A C-25/62 Plaumann-ügyben a megsemmisítés iránti keresetet elfogadhatatlannak, a kártérítést megalapozatlannak nyilvánították. A helyes: a 264. cikk szerinti semmisség a megalapozott 263. cikk szerinti kereset következménye. A tévedés a kár mértékét semmisségi küszöbbé emeli."
         }
-      ],
-      "sourceKerdesSorszam": 7,
-      "sourceHash": "9ca54d3926bc"
+      ]
     },
     {
       "question": "A C-294/83 Les Verts-ügy milyen hatásköri következtetést vont le a Parlament harmadik személyekre joghatással járó aktusairól?",
@@ -217,9 +203,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a Bíróság éppen a joghatású parlamenti aktusokat vonta a felülvizsgálat alá. A C-294/83 Les Verts-ügyben megállapította: megsemmisítés iránti keresetet lehet indítani a Parlament harmadik személyekre joghatások kiváltására irányuló aktusai ellen. A helyes: az eredeti konzultációs szerep magyarázza a szövegbeli hiányt, de nem mentesíti a joghatású aktusokat. A tévedés a történeti hatáskörszűkösséget abszolút mentességgé emeli."
         }
-      ],
-      "sourceKerdesSorszam": 8,
-      "sourceHash": "79b3928efb91"
+      ]
     },
     {
       "question": "A 263. cikk szerinti négy megtámadási ok közül mely állítások állják meg a helyüket?",
@@ -244,9 +228,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a magánfél először a kereshetőségi küszöbön esik át. Az EUMSZ 263. cikk negyedik bekezdése a címzettséget, a Plaumann-érintettséget vagy a rendeleti jellegű, végrehajtás nélküli aktust követeli; csak ezek után vihető perbe a négy ok. A helyes: a privilegiált felperesnek nincs érintettségi küszöbe, a magánfélnek van. A tévedés a privilegiált státuszt a magánfélre vetíti."
         }
-      ],
-      "sourceKerdesSorszam": 9,
-      "sourceHash": "17c240c5f16d"
+      ]
     },
     {
       "question": "A T-18/10 szerint miért nem nyílt meg a 1007/2009/EK rendelet ellen a lisszaboni harmadik fordulat, és mi maradt a magánfél útja?",
@@ -271,9 +253,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a jogalkotási versus rendeleti minősítés eljárásfüggő. A T-18/10 Inuit Tapiriit Kanatami végzés szerint az EUMSZ 294. cikk szerinti rendes jogalkotási eljárás lényegében az együttdöntést veszi át. Ebből a Törvényszék levonta, hogy a kereset a 263. cikk negyedik bekezdésének utolsó fordulata alapján nem fogadható el. A végrehajtási intézkedés vizsgálatát e fordulatnál a jogalkotási minősítés után mellőzték."
         }
-      ],
-      "sourceKerdesSorszam": 10,
-      "sourceHash": "512258d1e336"
+      ]
     },
     {
       "question": "A C-583/11 P Inuit-ítélet szerint a személyes érintettség és a Charta 47. cikke hogyan viszonyul a 263. cikk negyedik bekezdésének küszöbeihez?",
@@ -298,9 +278,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a hatékony bírói jogvédelem nem üresíti ki a szerződési küszöböket. A C-583/11 P ítélet 97–98. pontja szerint a Charta 47. cikke e küszöböket nem módosítja. A feltételeket e jog fényében kell értelmezni, de a Szerződésben kifejezetten előírt küszöböktől az uniós bíróság nem tekinthet el. A nagytanács a fellebbezést elutasította."
         }
-      ],
-      "sourceKerdesSorszam": 11,
-      "sourceHash": "1c735f1480fc"
+      ]
     },
     {
       "question": "Miért nem pótolja a 277. cikk a lekésett semmisségi keresetet, és mi a tárgyi korlátja?",
@@ -325,9 +303,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, ez exceptio illegalitatis, nem önálló semmisségi út. Az EUMSZ 277. cikke a 263. cikk hatodik bekezdésének lejárta ellenére engedi az alkalmazhatatlanságra hivatkozást. A perbeli alkalmazás kizárása nem egyenlő a 264. cikk szerinti erga omnes semmisséggel. A lekésett közvetlen kereset tehát nem „újjáéled” a 277. cikk révén."
         }
-      ],
-      "sourceKerdesSorszam": 12,
-      "sourceHash": "790d2f63a442"
+      ]
     },
     {
       "question": "A mulasztási kereset privilegiált felperesi oldala kit ölel fel, és miért nem elég a puszta politikai várakozás?",
@@ -352,9 +328,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a privilegiált mulasztási kereset nem címzettséghez kötött. Az EUMSZ 265. cikk első bekezdése szerint a tagállamok és az Unió többi intézménye keresettel fordulhatnak a Bírósághoz a jogsértés megállapítása iránt. A cikket azonos feltételek mellett a mulasztó szervekre és hivatalokra is alkalmazni kell. A magánfél ettől szűkebb, címzendő aktusra korlátozott panaszt kap."
         }
-      ],
-      "sourceKerdesSorszam": 13,
-      "sourceHash": "52875f81b86b"
+      ]
     },
     {
       "question": "Milyen előzetes feltételhez és határidőkhöz kötött a mulasztási kereset elfogadhatósága?",
@@ -379,9 +353,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, az előzetes felkérés az elfogadhatóság feltétele, nem udvariasság. Az EUMSZ 265. cikk második bekezdése szerint a kereset csak akkor elfogadható, ha az érintett intézményt, szervet vagy hivatalt előzetesen felkérték, hogy járjon el. A felkérés nélkül a mulasztási kereset eleve elfogadhatatlan. A privilegiált és a magánfél panaszára egyaránt ez a küszöb."
         }
-      ],
-      "sourceKerdesSorszam": 14,
-      "sourceHash": "8fc26c6afeac"
+      ]
     },
     {
       "question": "Mely esetben nem indíthat a természetes vagy jogi személy mulasztási panaszt az EUMSZ 265. cikke alapján?",
@@ -406,9 +378,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az ajánlás és a vélemény ki van zárva, és a címzendőség is kell. Az EUMSZ 265. cikk harmadik bekezdése csak a neki címzendő jogi aktus — ajánlás és vélemény kivételével — elmulasztása ellen ad panaszt. A helyes: a magánfél mulasztási köre szűkebb a privilegiált felperesénél. A tévedés a magánfél panaszát általános intézményi számonkéréssé bővíti."
         }
-      ],
-      "sourceKerdesSorszam": 15,
-      "sourceHash": "09618f3acc10"
+      ]
     },
     {
       "question": "A 266. cikk teljesítési parancsa mikor lép be, és hogyan viszonyul a Plaumann-féle kártérítési korláthoz?",
@@ -433,9 +403,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a teljesítési kötelesség a semmisségi és a mulasztási ítéletre egyaránt áll. Az EUMSZ 266. cikk első bekezdése szerint az az intézmény, szerv vagy hivatal, amelynek aktusait semmisnek, illetve mulasztását a Szerződésekkel ellentétesnek nyilvánították, köteles megtenni az ítélet teljesítéséhez szükséges intézkedéseket. A semmisség önmagában nem pótolja a hiányzó aktust. A mulasztás megállapítása sem hozza meg az elmaradt döntést: az intézménynek pozitívan kell eljárnia."
         }
-      ],
-      "sourceKerdesSorszam": 16,
-      "sourceHash": "820f064947fa"
+      ]
     },
     {
       "question": "A Les Verts-ügy jogközösségi megállapítása mit mond a felülvizsgálatról, és mit nem old fel a Charta 47. cikke a C-583/11 P szerint?",
@@ -460,9 +428,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a jogközösség a felülvizsgálat rendszerszintű indoka. A C-294/83 Les Verts-ügy szerint a természetes és jogi személyek védelmet élveznek az általános érvényű aktusok rájuk való alkalmazásával szemben is, ha azokat közvetlenül gyakran nem támadhatják. A C-583/11 P 92–93. pontja ugyanezt a rendszert a 263., a 277. és a 267. cikkre olvassa. A Számvevőszék ellenőrzése a Bíróság felülvizsgálatát nem zárja ki."
         }
-      ],
-      "sourceKerdesSorszam": 17,
-      "sourceHash": "90d92d8f4ec8"
+      ]
     },
     {
       "question": "A T-18/10 szerint a közvetlen érintettség megállapítása után miért bukott mégis a négy fókatermék-kereskedő a Plaumann-ágon?",
@@ -487,9 +453,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a nagytanács a személyes érintettség tartalmát változatlanul hagyta. A C-583/11 P szerint a fókatermékek forgalomba hozatalának tilalmát megkülönböztetés nélkül alkalmazták minden, a rendelet hatálya alá tartozó gazdasági szereplőre. A 97–98. pont szerint a Charta 47. cikke a 263. cikk negyedik bekezdésének feltételeit nem írja felül. A fellebbezés elutasítása ezért a Plaumann-küszöb fennmaradását erősítette meg."
         }
-      ],
-      "sourceKerdesSorszam": 18,
-      "sourceHash": "08ac4fdc2e8c"
+      ]
     },
     {
       "question": "Egy kanadai fókatermék-feldolgozó a 1007/2009/EK rendelet megsemmisítését kéri a Törvényszéken, személyes érintettség nélkül. Mely megállapítások állják meg a helyüket?",
@@ -514,9 +478,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a két feltétel konjunktív a jogalkotási aktus elleni magánkereseten. A C-583/11 P Inuit Tapiriit Kanatami-ügy szerint ha az aktus sem rendeleti jellegű, sem a felperesnek címzett, a közvetlen és a személyes érintettségnek egyszerre kell teljesülnie. Az egyik hiánya a keresetet elfogadhatatlanná teszi. A C-583/11 P 97–98. pontja szerint a Charta 47. cikke a 263. cikk negyedik bekezdésének küszöbeit nem módosítja."
         }
-      ],
-      "sourceKerdesSorszam": 19,
-      "sourceHash": "bbb93f5554c8"
+      ]
     },
     {
       "question": "Mely állítások helytelenek a szervek és hivatalok aktusainak felülvizsgálatáról?",
@@ -541,9 +503,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a létrehozó aktus további feltételeket szabhat. Az EUMSZ 263. cikk ötödik bekezdése szerint az Unió szerveit és hivatalait létrehozó jogi aktusok meghatározhatják azokat a külön feltételeket, amelyek alapján egy természetes vagy jogi személy az e szervek és hivatalok által elfogadott, rá nézve joghatás kiváltására irányuló jogi aktusokkal szemben keresettel élhet. A helyes: a külön feltételek a magánfélre nézve lehetségesek. A tévedés a létrehozó aktus szerepét tagadja."
         }
-      ],
-      "sourceKerdesSorszam": 20,
-      "sourceHash": "b1467d14e222"
+      ]
     },
     {
       "question": "Miben tér el a megsemmisítés iránti eljárás a mulasztási eljárástól a jogszerűségi felülvizsgálat dualizmusában?",
@@ -568,9 +528,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a két keresettípus tárgya különbözik a jogszerűségi dualizmusban. Az EUMSZ 263. cikke a meghozott, joghatás kiváltására irányuló uniós aktus jogszerűségét támadja. Az EUMSZ 265. cikke a Szerződéseket sértő döntéshozatali hallgatást teszi perelhetővé. A dualizmus lényege: a 263. cikk a létező aktus ellen, a 265. cikk a meg nem hozott döntés szerződésellenességének megállapítására szolgál."
         }
-      ],
-      "sourceKerdesSorszam": 21,
-      "sourceHash": "b3974baf1495"
+      ]
     },
     {
       "question": "A C-583/11 P szerint a Konvent előkészítő anyagai hogyan támasztják alá a rendeleti jellegű jogi aktus szűk értelmezését?",
@@ -595,9 +553,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a teleologikus olvasat a fordulatok különbségét védi. A C-583/11 P szerint a Lisszaboni Szerződés harmadik fordulata rugalmasabbá tette a magánfél kereshetőségét: a személyes érintettség e fordulaton nem feltétel, de csak a közvetlenül érintő, végrehajtási intézkedést nem vonó rendeleti jellegű aktusokra nyílik. Az első két fordulat az EK 230. cikk negyedik bekezdésének megfelelője. A jogalkotási aktus a második fordulaton a Plaumann-teszttel marad."
         }
-      ],
-      "sourceKerdesSorszam": 22,
-      "sourceHash": "4b0b489cc8c4"
+      ]
     },
     {
       "question": "Egy tagállam a Bizottság rendeletét két hónapon belül támadja hatáskör hiányára hivatkozva. Mely megállapítások helyesek?",
@@ -622,9 +578,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a határidő a privilegiált felperesre is áll. Az EUMSZ 263. cikk hatodik bekezdése az e cikkben szabályozott eljárásokra két hónapot szab. A tagállamnak nincs érintettségi küszöbe, de a keresetindítási határidő rá is érvényes. A határidő jogvesztő; az EUMSZ 277. cikke utána csak alkalmazhatatlansági hivatkozást enged általános hatályú aktusra."
         }
-      ],
-      "sourceKerdesSorszam": 23,
-      "sourceHash": "68a7c17909bd"
+      ]
     },
     {
       "question": "Mely állítások helytelenek a semmissé nyilvánítás és a fennmaradó joghatások viszonyáról?",
@@ -649,9 +603,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a semmisség nem kártérítés. Az EUMSZ 264. cikke a megtámadott aktus semmisségét és szükség szerint a fennmaradó joghatásokat mondja ki. A helyes: az EUMSZ 266. cikk második bekezdése fenntartja a 340. cikk második bekezdéséből származó kártérítési kötelezettségeket. A tévedés a 264. és a 340. cikk hatását összeolvasztja."
         }
-      ],
-      "sourceKerdesSorszam": 24,
-      "sourceHash": "e1318de372f4"
+      ]
     },
     {
       "question": "A C-294/83 Les Verts-ügyben a Bíróság milyen hatásköri érvet vont le a 22/70 ERTA-ítéletből a Parlament aktusainak felülvizsgálatára?",
@@ -676,9 +628,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Les Verts a hatáskört az ERTA-rendszerhez köti. A C-294/83 szerint a 22/70 Bizottság kontra Tanács ügy 1971. március 31-i ítélete kimondta: a Szerződés rendszerében nyitva áll a közvetlen kereset az intézmények joghatású rendelkezéseivel szemben. A Parlament eredetileg konzultációs és politikai ellenőrzési hatáskörökkel szerepelt, ezért nem volt a 173. cikk alperesi listáján. Ahol azonban harmadik személyekre joghatást vált ki, a felülvizsgálat alóli kivétel ellentétes lenne a Szerződés szellemével és a 164. cikk igazságszolgáltatási feladatával."
         }
-      ],
-      "sourceKerdesSorszam": 25,
-      "sourceHash": "774f3c62d20a"
+      ]
     },
     {
       "question": "Hogyan viszonyul egymáshoz a magánfél három ága: a címzett aktus, a Plaumann-ág és a rendeleti jellegű (végrehajtás nélküli) ág?",
@@ -703,9 +653,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a három ág egymástól elválik. Az EUMSZ 263. cikk negyedik bekezdése külön nyitja a neki címzett aktust, a közvetlenül és személyében érintő aktust, valamint a közvetlenül érintő, végrehajtási intézkedést nem vonó rendeleti jellegű jogi aktust. A címzettség az első ágon önmagában elég. A második ágon a Plaumann-formula a személyes egyénítést követeli. A harmadik ágon a személyes érintettség elmarad, de a közvetlen érintettség és a végrehajtás hiánya konjunktív."
         }
-      ],
-      "sourceKerdesSorszam": 26,
-      "sourceHash": "6e20bec7203e"
+      ]
     },
     {
       "question": "Mi a következménye annak, ha a mulasztási felkérés után az intézmény a két hónapon belül állást foglal?",
@@ -730,9 +678,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az állásfoglalás megszünteti a döntéshozatali hallgatást. Az EUMSZ 265. cikke a keresetet ahhoz köti, hogy az intézmény a felkéréstől számított két hónapon belül nem foglal állást. A helyes: állásfoglalás esetén a mulasztási út lezárulhat, és a tartalom a 263. cikk szerinti semmisségi kereset tárgya lehet. A tévedés a felkérést örökös kereseti jogcímmé teszi a hallgatás megszűnése után is."
         }
-      ],
-      "sourceKerdesSorszam": 27,
-      "sourceHash": "ea9eac989576"
+      ]
     },
     {
       "question": "A 277. cikk szerinti jogellenességi kifogás hogyan viszi át a 263. cikk második bekezdésének négy megtámadási okát?",
@@ -757,9 +703,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a 277. cikk a 263. cikk második bekezdésének teljes oklistáját átviszi. Az EUMSZ 277. cikke expressis verbis a 263. cikk második bekezdésében meghatározott eszközökkel engedi a hivatkozást. A helyes: mind a négy kimerítő ok — hatáskör hiánya, eljárási szabálysértés, anyagi jogsértés, hatáskörrel való visszaélés — rendelkezésre áll. A tévedés az oklistát mesterségesen szűkíti."
         }
-      ],
-      "sourceKerdesSorszam": 28,
-      "sourceHash": "af60d764d181"
+      ]
     },
     {
       "question": "A Régiók Bizottsága milyen feltételekkel indíthat megsemmisítés iránti keresetet a félig privilegiált státusz alapján?",
@@ -784,9 +728,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, az előjog-korlát a félig privilegiált státusz lényege. Az EUMSZ 263. cikk harmadik bekezdése a Számvevőszék, az Európai Központi Bank és a Régiók Bizottsága kereseteit előjogaik megóvására korlátozza. A privilegiált felperes — tagállam, Parlament, Tanács, Bizottság — érdekeltség nélkül támadhat a második bekezdés szerint. A különbség tehát nem az okokban, hanem a kereset céljában van: előjogvédelem versus általános legalitás."
         }
-      ],
-      "sourceKerdesSorszam": 29,
-      "sourceHash": "35af49468d9d"
+      ]
     },
     {
       "question": "A hatáskör hiánya és a hatáskörrel való visszaélés hogyan jelenik meg a 277. cikk szerinti jogellenességi kifogásnál?",
@@ -811,9 +753,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a hatáskör hiánya és a hatáskörrel való visszaélés a 277. cikknél is külön ok marad. A helyes: az EUMSZ 263. cikk második bekezdése külön nevezi meg őket, és az EUMSZ 277. cikke ugyanezt az eszközkészletet hívja. Hiánynál nincs érvényes felhatalmazás; visszaélésnél a hatáskör fennáll, de a cél idegen. A tévedés a négy kimerítő ok két elemét azonos tényállásra olvasztja."
         }
-      ],
-      "sourceKerdesSorszam": 30,
-      "sourceHash": "d28f322e1149"
+      ]
     },
     {
       "question": "Az ajánlás és a vélemény hogyan esik ki mind a 263., mind a 265. cikk tárgyi hatálya alól?",
@@ -838,9 +778,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az ajánlás és a vélemény egyaránt ki van zárva. Az EUMSZ 263. cikk első bekezdése mindkét kategóriát kivételként említi. A helyes: kötelező joghatás hiányában semmisségi kereset nincs, a Plaumann-küszöb sem pótolja. A tévedés az egyik soft-law formát felülvizsgálhatóvá teszi."
         }
-      ],
-      "sourceKerdesSorszam": 31,
-      "sourceHash": "4418e825b62b"
+      ]
     },
     {
       "question": "Mikor kezdődik a megsemmisítés iránti kereset két hónapos határideje, ha nincs kihirdetés és nincs a felperessel való közlés?",
@@ -865,9 +803,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a jogvesztés és az exceptio illegalitatis együtt értendő. A közvetlen semmisségi kereset határidejének elmulasztása után a 264. cikk szerinti erga omnes semmisség már nem kérhető. A 277. cikk a folyamatban lévő jogvitában az általános aktus alkalmazását zárhatja ki. A tudomásszerzés tehát a 263. cikk határidejét indítja, nem a 277. cikk önálló keresetét."
         }
-      ],
-      "sourceKerdesSorszam": 32,
-      "sourceHash": "4cd371e5e30e"
+      ]
     },
     {
       "question": "A T-18/10 Inuit-végzés szerint miért mellőzhető a végrehajtási intézkedés vizsgálata, ha a megtámadott aktus jogalkotási?",
@@ -892,9 +828,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, az eljárás dönt, nem a hatály formája. A T-18/10 a 1007/2009/EK rendeletet az EK 95. cikk és az együttdöntés alapján jogalkotási aktusnak tekintette; az EUMSZ 294. cikk szerinti rendes jogalkotási eljárás lényegében ezt veszi át. Az általános hatály önmagában nem teszi rendeleti jellegűvé az aktust. Ebből következik, hogy a harmadik fordulat feltételei közül a rendeleti jelleg hiányzik, mielőtt a végrehajtás kérdése egyáltalán felmerülne."
         }
-      ],
-      "sourceKerdesSorszam": 33,
-      "sourceHash": "c480e434e1b2"
+      ]
     },
     {
       "question": "Mulasztást megállapító ítélet után mit nem pótol a Bíróság a 266. cikk alapján, és mit kell az intézménynek megtennie?",
@@ -919,9 +853,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a teljesítés és a kártérítés párhuzamos. Az EUMSZ 266. cikk második bekezdése expressis verbis fenntartja a 340. cikk második bekezdéséből származó kötelezettségeket. A jogellenes hallgatás kára akkor is követelhető, ha a teljesítési intézkedések már folyamatban vannak. A kártérítés nem olvasztódik a teljesítési parancsba."
         }
-      ],
-      "sourceKerdesSorszam": 34,
-      "sourceHash": "786bcbb548f4"
+      ]
     },
     {
       "question": "Egy magánfél a Bizottságot felkéri, hogy hozzon a neki címzendő kötelező határozatot; a Bizottság hallgat. Mely megállapítások helyesek?",
@@ -946,9 +878,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a rendeleti jellegű ág a mulasztásra nem vihető át. Az EUMSZ 265. cikk záró bekezdése csak a neki címzendő jogi aktus elmulasztását engedi. A helyes: a 263. cikk harmadik magánági fordulata a meghozott aktus megtámadására szolgál, nem a meghozatal kikényszerítésére. A tévedés a lisszaboni enyhítést a mulasztási panaszba olvassa."
         }
-      ],
-      "sourceKerdesSorszam": 35,
-      "sourceHash": "b44d8c7226e1"
+      ]
     },
     {
       "question": "Mely állítások helytelenek a Plaumann-formula gyakori félreértéseiről?",
@@ -973,9 +903,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a bárki által folytatható tevékenység nem egyénít. A C-25/62 Plaumann-ügyben a Bíróság szerint a klementin-importőrkénti érintettség nem olyan természetű, amely a címzetthez hasonlóan megkülönbözteti a felperest. A helyes: a C-25/62 szerint sajátos jellemzők vagy megkülönböztető ténybeli helyzet kell a személyes érintettséghez. A tévedés a piaci érintettséget Plaumann-egyénítéssé emeli."
         }
-      ],
-      "sourceKerdesSorszam": 36,
-      "sourceHash": "839559bed6b6"
+      ]
     },
     {
       "question": "Egy folyamatban lévő uniós perben a fél a két hónapos határidő lejárta után hivatkozik egy általános hatályú rendelet alkalmazhatatlanságára. Mely megállapítások helyesek?",
@@ -1000,9 +928,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az alkalmazhatatlansági kifogás alanyi köre nem korlátozódik a magánfélre. Az EUMSZ 277. cikke szerint „bármelyik fél” élhet a 263. cikk második bekezdésének eszközeivel. A helyes: a folyamatban lévő, általános hatályú aktusra vonatkozó jogvitában bármelyik fél hivatkozhat. A tévedés a kifogást a magánfél kiváltságává szűkíti."
         }
-      ],
-      "sourceKerdesSorszam": 37,
-      "sourceHash": "4f9ffe414ccb"
+      ]
     },
     {
       "question": "A két hónapos semmisségi határidő lejárta után melyik eszköz marad nyitva az általános hatályú aktussal szemben, és melyik nem?",
@@ -1027,9 +953,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a közvetlen semmisségi határidő jogvesztő. A helyes: lekésett közvetlen kereset után csak alkalmazhatatlanság jöhet szóba az EUMSZ 277. cikke alapján. A tévedés a járulékos hivatkozást határidő-hosszabbítássá torzítja."
         }
-      ],
-      "sourceKerdesSorszam": 38,
-      "sourceHash": "ca1b81034163"
+      ]
     },
     {
       "question": "Az Európai Tanács aktusa mikor esik a 263. cikk szerinti megsemmisítési felülvizsgálat alá?",
@@ -1054,9 +978,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a felülvizsgálat nem a Régiók Bizottságához van kötve. Az EUMSZ 263. cikke a privilegiált, félig privilegiált és magánfél kereseteket külön szabályozza. A helyes: az Európai Tanács joghatású aktusa ellen a jogosult felperesi kör a szokásos szabályok szerint indíthat. A tévedés egyetlen félig privilegiált felpereshez köti a tárgyi hatályt."
         }
-      ],
-      "sourceKerdesSorszam": 39,
-      "sourceHash": "e320381d4de6"
+      ]
     },
     {
       "question": "Mely állítások helytelenek a 263. cikk négy megtámadási okának taxatív jellegéről és a 277. cikkre való átviteléről?",
@@ -1081,9 +1003,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a négy ok kimerítő. Az EUMSZ 263. cikk második bekezdése a hatáskör hiányát, a lényeges eljárási szabálysértést, a Szerződések vagy az alkalmazásukra vonatkozó rendelkezés megsértését és a hatáskörrel való visszaélést sorolja. A helyes: az alapjogi sérelem a Szerződések megsértésének tág anyagi jogalapján vihető perbe, nem ötödik okként. A C-583/11 P szerint a Charta 47. cikke a kereshetőségi küszöböt sem írja felül."
         }
-      ],
-      "sourceKerdesSorszam": 40,
-      "sourceHash": "429cbc149849"
+      ]
     },
     {
       "question": "Az EKB félig privilegiált keresetében mi a döntő korlát ahhoz képest, hogy a Bizottság privilegiált felperesként indít?",
@@ -1108,9 +1028,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a két intézményi státusz indítványi köre fordított a felvetetthez képest. Az EUMSZ 263. cikk második bekezdése a Bizottságot privilegiált felperesként érdekeltség nélkül engedi perelni. Az EUMSZ 263. cikk harmadik bekezdése az Európai Központi Bankot előjogai megóvásához köti. A helyes: a Bizottság tágabb, az EKB szűkebb indítványi körrel rendelkezik — a tévedés a két státuszt felcseréli."
         }
-      ],
-      "sourceKerdesSorszam": 41,
-      "sourceHash": "e7164a874d8a"
+      ]
     },
     {
       "question": "A C-583/11 P szerint a 267. cikk szerinti előzetes döntéshozatal milyen szerepet tölt be a magánfél védelmében a közvetlen kereset szűkössége mellett?",
@@ -1135,9 +1053,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az előzetes döntéshozatal és az alkalmazhatatlansági kifogás párhuzamos. A helyes: a C-583/11 P a 263., a 277. és a 267. cikk együttesét tekinti teljes rendszernek. A tévedés a három eszközt egymást kizáró alternatívákká teszi."
         }
-      ],
-      "sourceKerdesSorszam": 42,
-      "sourceHash": "190f13cf207f"
+      ]
     },
     {
       "question": "Mely állítások helytelenek a mulasztási és a semmisségi út közötti váltásról, ha az intézmény a felkérés után joghatású aktust fogad el?",
@@ -1162,9 +1078,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a mulasztási eljárás nem alakul át semmisségi keresetté. Az EUMSZ 265. cikke a hallgatás szerződésellenességének megállapítására szolgál; a semmisséget az EUMSZ 264. cikke a 263. cikk szerinti keresethez köti. A helyes: joghatású állásfoglalás esetén a magánfél adott esetben külön semmisségi keresetet indít. A tévedés a két ítélettípust egy eljárásban olvasztja."
         }
-      ],
-      "sourceKerdesSorszam": 43,
-      "sourceHash": "678e344ffcdf"
+      ]
     },
     {
       "question": "A 263. cikk hatodik bekezdése szerint a két hónapos határidő milyen sorrendben kapcsolódik a kihirdetéshez, a közléshez és a tudomásszerzéshez?",
@@ -1189,9 +1103,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a hatodik bekezdés kezdőpontjai nem intézménytípushoz kötöttek. Az EUMSZ 263. cikk hatodik bekezdése a kihirdetést, a közlést és — hiányukban — a tudomásszerzést általános szabályként adja. A helyes: a kisegítő fordulat bármely, a cikk alá eső aktusnál szóba jöhet, ha nincs kihirdetés és közlés. A tévedés mesterséges intézményi kivételt kreál."
         }
-      ],
-      "sourceKerdesSorszam": 44,
-      "sourceHash": "bef1443900ac"
+      ]
     },
     {
       "question": "Egy kanadai fókaipari érdekképviselet a 1007/2009/EK rendeletet a 263. cikk negyedik bekezdésének harmadik fordulata alapján támadja. Mely megállapítások helyesek az Inuit-ügyek fényében?",
@@ -1216,9 +1128,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a jogalkotási minősítés zárja a harmadik fordulatot. A T-18/10 és a C-583/11 P a 1007/2009/EK rendeletet jogalkotási aktusnak tekintette. Az EUMSZ 263. cikk negyedik bekezdésének utolsó fordulata csak rendeleti jellegű aktusra nyílik. A Plaumann-teszt a jogalkotási aktus elleni magánkereseten fennmarad, és az Inuit-felperesek e szűrőn nem mentek át."
         }
-      ],
-      "sourceKerdesSorszam": 45,
-      "sourceHash": "e244a4e93a54"
+      ]
     },
     {
       "question": "Az EUMSZ 263. cikk első bekezdése szerint a Bíróság „megvizsgálja a jogalkotási aktusok jogszerűségét, valamint a Tanács, a Bizottság és az Európai Központi Bank jogi aktusait, kivéve az ajánlásokat és a véleményeket, továbbá az Európai Parlament és az Európai Tanács harmadik személyekre joghatással járó aktusait.” Mely olvasatok helyesek?",
@@ -1243,9 +1153,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az ajánlás és a vélemény a felsorolt intézményeknél is ki van zárva. Az EUMSZ 263. cikk első bekezdése a Tanács, a Bizottság és az EKB jogi aktusait „kivéve az ajánlásokat és a véleményeket” vonja felülvizsgálat alá. A helyes: az intézmény neve nem oldja fel a soft-law kivételt. A tévedés a felsorolást a kivétel elé helyezi."
         }
-      ],
-      "sourceKerdesSorszam": 46,
-      "sourceHash": "c6706d985106"
+      ]
     }
   ]
 }

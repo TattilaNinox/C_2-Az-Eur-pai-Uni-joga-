@@ -1,8 +1,9 @@
 {
   "kategoria": "C/2 Az Európai Unió joga",
-  "forras": "jogedu C/2_2 memoriapalota_allomasok htmlTartalom + allomasok.tartalom",
+  "forras": "jogedu memoriapalota_allomasok htmlTartalom + allomasok.tartalom",
   "utvonal": 43,
   "allomas": 814,
+  "megjegyzes": "Az utvonal.html a htmlTartalom valtozatlan masolata. Az allomas tartalom valtozatlan.",
   "items": [
     {
       "sorszam": 1,
@@ -10,6 +11,9 @@
       "title": "1. Az Európai Unió alapszerződései. (Milyen jelentős intézményi (...)",
       "htmlChars": 27937,
       "htmlSha256": "f8d7ac6262c49b0b3d4f584469695606206a4612273d622cc4e014fe8e3dbc41",
+      "htmlFile": "memoriautvonal/01/utvonal.html",
+      "metaFile": "memoriautvonal/01/utvonal.meta.json",
+      "metaSha256": "3c01449a5ebf8cfcddfcfc7585f46c54b1843647cf08453c566697cec8471231",
       "allomasok": [
         {
           "file": "memoriautvonal/01/allomasok/01.json",
@@ -123,6 +127,9 @@
       "title": "2. Az Európai Unió intézményei, főbb hatásköreik és egymáshoz való viszonyuk",
       "htmlChars": 114708,
       "htmlSha256": "dc9882ae5b3227702d1c3076fabc3e33d3ad08b49d0a52849fbd177808690b0f",
+      "htmlFile": "memoriautvonal/02/utvonal.html",
+      "metaFile": "memoriautvonal/02/utvonal.meta.json",
+      "metaSha256": "d63baaeeacc721580af4c60270ab3780ada232ffcaaa150097c114a24942f941",
       "allomasok": [
         {
           "file": "memoriautvonal/02/allomasok/01.json",
@@ -508,6 +515,9 @@
       "title": "3. Az Európai Bizottság összetétele, működése és hatáskörei",
       "htmlChars": 44488,
       "htmlSha256": "b96f30b8f4a2da9c715879c7a4db4dfe6a27314120ed2d92edf589f1c9241d64",
+      "htmlFile": "memoriautvonal/03/utvonal.html",
+      "metaFile": "memoriautvonal/03/utvonal.meta.json",
+      "metaSha256": "4d07b5d8f165ca7d017d71f5a63e8fa3bc52ee7c1d219b88a23da78443f40fde",
       "allomasok": [
         {
           "file": "memoriautvonal/03/allomasok/01.json",
@@ -661,6 +671,9 @@
       "title": "4. Az Európai Unió Tanácsának összetétele, működése és hatáskörei. Az (...)",
       "htmlChars": 47151,
       "htmlSha256": "a867731a7b61d3f61e99335f0c8c232a4ce12a8becc57556aab1c802f0a12d78",
+      "htmlFile": "memoriautvonal/04/utvonal.html",
+      "metaFile": "memoriautvonal/04/utvonal.meta.json",
+      "metaSha256": "424d44851022b1381dd135087b2d55ca572b21a56d13c84ab8173a12d8159119",
       "allomasok": [
         {
           "file": "memoriautvonal/04/allomasok/01.json",
@@ -854,6 +867,9 @@
       "title": "5. Az Európai Parlament összetétele, tagjainak választása, működése és (...)",
       "htmlChars": 33070,
       "htmlSha256": "eb1cbfda336ea86c89e708012262befc53edff672c5ad4899ae3bbdfe5de2abd",
+      "htmlFile": "memoriautvonal/05/utvonal.html",
+      "metaFile": "memoriautvonal/05/utvonal.meta.json",
+      "metaSha256": "45d2169a2f3677bbf7fef5fa1851f9f9b722d29222be147846dcd2449f4f4457",
       "allomasok": [
         {
           "file": "memoriautvonal/05/allomasok/01.json",
@@ -975,6 +991,9 @@
       "title": "6. Az Európai Unió Bíróságának felépítése és működése",
       "htmlChars": 57822,
       "htmlSha256": "f185c3440ac55b144aff8cb544cf6981d6decc1b09632a8b46fd35f7600635e4",
+      "htmlFile": "memoriautvonal/06/utvonal.html",
+      "metaFile": "memoriautvonal/06/utvonal.meta.json",
+      "metaSha256": "8527ba8df2fde9fef80fa63b08a8f3494838fd6ec413a52c2462a698e95e79b3",
       "allomasok": [
         {
           "file": "memoriautvonal/06/allomasok/01.json",
@@ -1184,6 +1203,9 @@
       "title": "7. Az Európai Ombudsman és a petíciós jog; az Európai Adatvédelmi Biztos",
       "htmlChars": 56878,
       "htmlSha256": "19e40d7c3e779b0da24c1b71a6bc17a0ff38bb965c396d6bbef8982485207309",
+      "htmlFile": "memoriautvonal/07/utvonal.html",
+      "metaFile": "memoriautvonal/07/utvonal.meta.json",
+      "metaSha256": "254b3bdf1b9b0760b648a9dea3a6c05ebc1ae7fadb5ca3d49401fe54b3abb4ba",
       "allomasok": [
         {
           "file": "memoriautvonal/07/allomasok/01.json",
@@ -1401,6 +1423,9 @@
       "title": "8. Az Európai Unió hatáskörei. A hatáskör-átruházás elve; az Alaptörvény (...)",
       "htmlChars": 49442,
       "htmlSha256": "6794a938770324c00d48bec5b8b76ff6e4edc1bc97de0fd4908ead687eabdfa0",
+      "htmlFile": "memoriautvonal/08/utvonal.html",
+      "metaFile": "memoriautvonal/08/utvonal.meta.json",
+      "metaSha256": "210f323ebdb2142beb42c12bcc3a23c62d4e240192be31303508a6d11ad8782f",
       "allomasok": [
         {
           "file": "memoriautvonal/08/allomasok/01.json",
@@ -1546,6 +1571,9 @@
       "title": "9. Jogalkotási eljárás az Európai Unióban; a rendes jogalkotási eljárás és (...)",
       "htmlChars": 42840,
       "htmlSha256": "9b04f770df373f0bf90ca588350e4363e540bbc6edbc0b557ac17bb0906c51d8",
+      "htmlFile": "memoriautvonal/09/utvonal.html",
+      "metaFile": "memoriautvonal/09/utvonal.meta.json",
+      "metaSha256": "c8a4d3766923259e3f954d91edcdd8850e251065680884d989708e16a933ccc5",
       "allomasok": [
         {
           "file": "memoriautvonal/09/allomasok/01.json",
@@ -1691,6 +1719,9 @@
       "title": "10. A nemzeti parlamentek szerepe az uniós jogalkotási eljárásban",
       "htmlChars": 40641,
       "htmlSha256": "9af0cdf1cc11951c18d81ebfb81afc3471dff2e9d27f7049596f37bb36827c22",
+      "htmlFile": "memoriautvonal/10/utvonal.html",
+      "metaFile": "memoriautvonal/10/utvonal.meta.json",
+      "metaSha256": "7b4e077a36b4b35d1e99ccb16fa13f47cd7f217bb3b506848f290860e3577cea",
       "allomasok": [
         {
           "file": "memoriautvonal/10/allomasok/01.json",
@@ -1836,6 +1867,9 @@
       "title": "11. Az Európai Unió elsődleges jogforrásai",
       "htmlChars": 28752,
       "htmlSha256": "756ea4b16b6e1b156cfc82109a1160febf019233a34b87f1216f498dbd3b416f",
+      "htmlFile": "memoriautvonal/11/utvonal.html",
+      "metaFile": "memoriautvonal/11/utvonal.meta.json",
+      "metaSha256": "7987f7fd0ffc4e30c63c70a554fb6596092de84b90958ca51660c2f4dd7f926c",
       "allomasok": [
         {
           "file": "memoriautvonal/11/allomasok/01.json",
@@ -1949,6 +1983,9 @@
       "title": "12. Az Európai Unió mint a nemzetközi jog alanya; az Európai Unió által (...)",
       "htmlChars": 27961,
       "htmlSha256": "0f1c60b9d50899034757e2a8b0a791d8654d646514f90196c3f84c6b3618a8d4",
+      "htmlFile": "memoriautvonal/12/utvonal.html",
+      "metaFile": "memoriautvonal/12/utvonal.meta.json",
+      "metaSha256": "10a5d54f0550bd341d52167480da76c6f767b176884c1d5d49e9f1aa9231bb95",
       "allomasok": [
         {
           "file": "memoriautvonal/12/allomasok/01.json",
@@ -2054,6 +2091,9 @@
       "title": "13. A rendelet joghatásai, jellemzői és viszonya a nemzeti joghoz; a (...)",
       "htmlChars": 28879,
       "htmlSha256": "9c029a53da7c4dc30ce73cab4d35bf947ee4d1d5dcfb14741b969e47f8e958d6",
+      "htmlFile": "memoriautvonal/13/utvonal.html",
+      "metaFile": "memoriautvonal/13/utvonal.meta.json",
+      "metaSha256": "b268b9ff00168d7fc81a862e3d3cf392df00cf9f5b1f03e257d96ea82fa7cf10",
       "allomasok": [
         {
           "file": "memoriautvonal/13/allomasok/01.json",
@@ -2167,6 +2207,9 @@
       "title": "14. Az irányelv joghatásai, jellemzői és viszonya a nemzeti joghoz; az (...)",
       "htmlChars": 23731,
       "htmlSha256": "a2f8b33563301f8b85087c757203bfc3f325e0c82bb05f48fcd4a9cfd696bc06",
+      "htmlFile": "memoriautvonal/14/utvonal.html",
+      "metaFile": "memoriautvonal/14/utvonal.meta.json",
+      "metaSha256": "4f69b6cc2db2c2caf1ed91f4732ee7bd2a74edc8ccd46d85bbe65f24753f9682",
       "allomasok": [
         {
           "file": "memoriautvonal/14/allomasok/01.json",
@@ -2256,6 +2299,9 @@
       "title": "15. A jogalkotási aktusok és a nem jogalkotási aktusok elhatárolása. Az (...)",
       "htmlChars": 28423,
       "htmlSha256": "50a97b72576d0bc2e76ee04f68581aa1fe8785c22e463c4b66439634c856821d",
+      "htmlFile": "memoriautvonal/15/utvonal.html",
+      "metaFile": "memoriautvonal/15/utvonal.meta.json",
+      "metaSha256": "220a97edfb4c3a81a6537cfd6855b7d8702f369402d7305d05c0b83b9d07def4",
       "allomasok": [
         {
           "file": "memoriautvonal/15/allomasok/01.json",
@@ -2353,6 +2399,9 @@
       "title": "16. Az uniós jog autonómiája és elsőbbsége",
       "htmlChars": 41507,
       "htmlSha256": "f6131c3949e6a8f3fd98bf8cf2f0cbb880f7e4b5fdaa7183ab01a6bda45ec5e1",
+      "htmlFile": "memoriautvonal/16/utvonal.html",
+      "metaFile": "memoriautvonal/16/utvonal.meta.json",
+      "metaSha256": "87eb4620027dc7c74c0103bc179b244b305873120390fc1d1bc15453755c6e8d",
       "allomasok": [
         {
           "file": "memoriautvonal/16/allomasok/01.json",
@@ -2514,6 +2563,9 @@
       "title": "17. A közvetlen hatály; az Alapszerződések, a rendeletek, az irányelvek (...)",
       "htmlChars": 39495,
       "htmlSha256": "15aa0d346203a72b21c18f3a91e77d75a2fc0975416dd1715089eed362783435",
+      "htmlFile": "memoriautvonal/17/utvonal.html",
+      "metaFile": "memoriautvonal/17/utvonal.meta.json",
+      "metaSha256": "0ea431b1f5543e6befb0144055c8ae9a6cb8d6750f7ece05a8e299709bd9b2c2",
       "allomasok": [
         {
           "file": "memoriautvonal/17/allomasok/01.json",
@@ -2675,6 +2727,9 @@
       "title": "18. Az uniós polgárság és az uniós polgársághoz fűződő jogok terjedelme; az (...)",
       "htmlChars": 43853,
       "htmlSha256": "d3613db285b3b185293de36585eb97f2adf69774d7172736e5936ccd53b6fb60",
+      "htmlFile": "memoriautvonal/18/utvonal.html",
+      "metaFile": "memoriautvonal/18/utvonal.meta.json",
+      "metaSha256": "caff94d5e7ad5bdd8b9c91d2b8a6ab2a502ee88c566f87fc44c8e21b2a8f16f7",
       "allomasok": [
         {
           "file": "memoriautvonal/18/allomasok/01.json",
@@ -2820,6 +2875,9 @@
       "title": "19. A diszkrimináció tilalma és az egyenlő bánásmód elve az uniós jogban (...)",
       "htmlChars": 48063,
       "htmlSha256": "4ccf7cd5aecaddfdc4f09a804835684c2f67b8eff920500229cbb1200f0b67ef",
+      "htmlFile": "memoriautvonal/19/utvonal.html",
+      "metaFile": "memoriautvonal/19/utvonal.meta.json",
+      "metaSha256": "74e00ebe142dded197432b6f20a9a994304e4735a88406674bb794b4d2c96e5a",
       "allomasok": [
         {
           "file": "memoriautvonal/19/allomasok/01.json",
@@ -2989,6 +3047,9 @@
       "title": "20. Alapjogvédelem az Európai Unióban; Az Európai Unió Alapjogi Chartája (...)",
       "htmlChars": 47966,
       "htmlSha256": "9b79586f91618f550606f690c3e1daeaeb73708a23aa16be287559a5150c6493",
+      "htmlFile": "memoriautvonal/20/utvonal.html",
+      "metaFile": "memoriautvonal/20/utvonal.meta.json",
+      "metaSha256": "8f6e669ef1098382f94bd744e1a65c12ea48a6b3f26d90531f7b10b90f8727d7",
       "allomasok": [
         {
           "file": "memoriautvonal/20/allomasok/01.json",
@@ -3174,6 +3235,9 @@
       "title": "21. Az Európai Unió Bíróságának ítélkezési gyakorlata az alapjogok terén (...)",
       "htmlChars": 63008,
       "htmlSha256": "ccdf6004a23ab96121601d94bb516161cd163b95e8e040ed7dfecfd007aed2f9",
+      "htmlFile": "memoriautvonal/21/utvonal.html",
+      "metaFile": "memoriautvonal/21/utvonal.meta.json",
+      "metaSha256": "45e8b447a163097e712ed60261c2e413171325245ead6e3a2d6fbb5c0062c51d",
       "allomasok": [
         {
           "file": "memoriautvonal/21/allomasok/01.json",
@@ -3391,6 +3455,9 @@
       "title": "22. A tagállamokkal szemben indított kötelezettségszegési eljárás (...)",
       "htmlChars": 20745,
       "htmlSha256": "2ef9bdab15d4eeb3e639d5f61aea7e7d5265e87577820deeb5ef7aa463268082",
+      "htmlFile": "memoriautvonal/22/utvonal.html",
+      "metaFile": "memoriautvonal/22/utvonal.meta.json",
+      "metaSha256": "44f2ebca5c5b769fca33dc6a67229c518c736d0b06dda629daf6e1dd9d648b71",
       "allomasok": [
         {
           "file": "memoriautvonal/22/allomasok/01.json",
@@ -3488,6 +3555,9 @@
       "title": "23. Az uniós jogi aktusok megsemmisítése iránti eljárás (az eljárás (...)",
       "htmlChars": 35047,
       "htmlSha256": "2dda244638cf73293f05c20692b2e3b9fc8fc3f9e3df76e62026ce0704754866",
+      "htmlFile": "memoriautvonal/23/utvonal.html",
+      "metaFile": "memoriautvonal/23/utvonal.meta.json",
+      "metaSha256": "b5fe0ba3c555ea43fbd66787712debc2b6d00fcaa49449a61f2a755f75bf26bc",
       "allomasok": [
         {
           "file": "memoriautvonal/23/allomasok/01.json",
@@ -3625,6 +3695,9 @@
       "title": "24. Az előzetes döntéshozatali eljárás (az eljárás kezdeményezésére (...)",
       "htmlChars": 28756,
       "htmlSha256": "5caff861d5d07be1458d8d072a28da9efa36aa99ffb0a34c511ea039f7cf491f",
+      "htmlFile": "memoriautvonal/24/utvonal.html",
+      "metaFile": "memoriautvonal/24/utvonal.meta.json",
+      "metaSha256": "cf91a44c52bdbd2cb0a217182070222d03ed60073e8c8b11975045843f33a859",
       "allomasok": [
         {
           "file": "memoriautvonal/24/allomasok/01.json",
@@ -3746,6 +3819,9 @@
       "title": "25. Az előzetes döntéshozatali eljárás és a magyar bírósági jogalkalmazás (...)",
       "htmlChars": 37357,
       "htmlSha256": "7b189e66b1771da572a25c61c5f3a0318b7b9f4f9f9507737ac3f178b2b10e14",
+      "htmlFile": "memoriautvonal/25/utvonal.html",
+      "metaFile": "memoriautvonal/25/utvonal.meta.json",
+      "metaSha256": "c717dce8e896fcbe8f06628aad1e4712e5bfd126533da2299bd5fbe4e970295c",
       "allomasok": [
         {
           "file": "memoriautvonal/25/allomasok/01.json",
@@ -3891,6 +3967,9 @@
       "title": "26. A tagállam kárfelelőssége az uniós jog megsértéséért (általános alapelvek)",
       "htmlChars": 47455,
       "htmlSha256": "b2ac0a542345bf4d299dc4f3534aea6d8ec363686e022684e289e836009ff4d4",
+      "htmlFile": "memoriautvonal/26/utvonal.html",
+      "metaFile": "memoriautvonal/26/utvonal.meta.json",
+      "metaSha256": "523d5787f2a65dc661d5e0d82bd185238a17bf4c78b68b4308f8a4ce21d8b136",
       "allomasok": [
         {
           "file": "memoriautvonal/26/allomasok/01.json",
@@ -4060,6 +4139,9 @@
       "title": "27. Az Európai Unió intézményei vagy azok alkalmazottai által okozott kár (...)",
       "htmlChars": 29757,
       "htmlSha256": "1b3b1fddbdf9c47f32380c7b45b113074beef19765781ca361fefce1eb691c84",
+      "htmlFile": "memoriautvonal/27/utvonal.html",
+      "metaFile": "memoriautvonal/27/utvonal.meta.json",
+      "metaSha256": "2a0ec4c84c5579b199fb185a46ce9ed5a10cf451496a175f4e2084814b948856",
       "allomasok": [
         {
           "file": "memoriautvonal/27/allomasok/01.json",
@@ -4165,6 +4247,9 @@
       "title": "28. A szabadság, a biztonság és a jog érvényesülésén alapuló térség (...)",
       "htmlChars": 60775,
       "htmlSha256": "0d4a17779c25cb0471c114e56b56b521415dc76f328de5714e237254c28a3d8b",
+      "htmlFile": "memoriautvonal/28/utvonal.html",
+      "metaFile": "memoriautvonal/28/utvonal.meta.json",
+      "metaSha256": "e1904a2cfa923982bb570ca237109f3ad9d1aef6da3a1fa9c5cfaa9566a4f87d",
       "allomasok": [
         {
           "file": "memoriautvonal/28/allomasok/01.json",
@@ -4382,6 +4467,9 @@
       "title": "29. Igazságügyi együttműködés büntetőügyekben; a kölcsönös elismerés elve (...)",
       "htmlChars": 56674,
       "htmlSha256": "b964e07e403395003dfe552ba7ef20af34c0807798147bd7871973cacc230f1a",
+      "htmlFile": "memoriautvonal/29/utvonal.html",
+      "metaFile": "memoriautvonal/29/utvonal.meta.json",
+      "metaSha256": "bc8ebc1d52af8c785381fe2cb3d1fb7c5b90560bd2792a025219ae307dc81246",
       "allomasok": [
         {
           "file": "memoriautvonal/29/allomasok/01.json",
@@ -4591,6 +4679,9 @@
       "title": "30. A közös kül- és biztonságpolitika elvei és céljai, intézményrendszere (...)",
       "htmlChars": 51248,
       "htmlSha256": "8310fffa0b6ba21929c2198fa9e48aa221ddbbd02b4ff1d8bdac2ec24283dd71",
+      "htmlFile": "memoriautvonal/30/utvonal.html",
+      "metaFile": "memoriautvonal/30/utvonal.meta.json",
+      "metaSha256": "ccca45726e4eb439131caaa0a9c3e47bcc59a227fcfc65c89ed806488f506d2c",
       "allomasok": [
         {
           "file": "memoriautvonal/30/allomasok/01.json",
@@ -4768,6 +4859,9 @@
       "title": "31. A belső piac fogalma, kialakulása; jogalkotás – dereguláció a belső (...)",
       "htmlChars": 25316,
       "htmlSha256": "27dd459b077558223b469e53dd0e4d371e71c2104d1d07bf06a67efcaf47dd68",
+      "htmlFile": "memoriautvonal/31/utvonal.html",
+      "metaFile": "memoriautvonal/31/utvonal.meta.json",
+      "metaSha256": "94d0b21e12be61757b999dfd1da40b281263f41f6f74622dcc5124c99a29b7f1",
       "allomasok": [
         {
           "file": "memoriautvonal/31/allomasok/01.json",
@@ -4873,6 +4967,9 @@
       "title": "32. A személyek szabad mozgása; kivételek a személyek szabad mozgása alól",
       "htmlChars": 42848,
       "htmlSha256": "45483ac34aa657f1d9874280df3e9f0d070c50271d3b7d0dbb1dc41a3ad1b9dd",
+      "htmlFile": "memoriautvonal/32/utvonal.html",
+      "metaFile": "memoriautvonal/32/utvonal.meta.json",
+      "metaSha256": "ea043efb204d22c82ba3c5295c5efe8ca8b81ea89373cb58592b58d0a055da02",
       "allomasok": [
         {
           "file": "memoriautvonal/32/allomasok/01.json",
@@ -5034,6 +5131,9 @@
       "title": "33. A munkavállalók szabad mozgása; a letelepedés szabadsága önálló (...)",
       "htmlChars": 45771,
       "htmlSha256": "9f2accb811744e88e4cb1142ea667b9734b6f5406c9a8e9e1b1072a29f24804f",
+      "htmlFile": "memoriautvonal/33/utvonal.html",
+      "metaFile": "memoriautvonal/33/utvonal.meta.json",
+      "metaSha256": "b2059ba5d84d99e25a372060880cbff956b4b6fff46a7d8b0624f2502c05da0b",
       "allomasok": [
         {
           "file": "memoriautvonal/33/allomasok/01.json",
@@ -5179,6 +5279,9 @@
       "title": "34. A letelepedés szabadsága vállalkozások esetében",
       "htmlChars": 41727,
       "htmlSha256": "585f952681002c1539ead05de1c70f2de19eda63fa3eef7e6e569b8e5bffb37e",
+      "htmlFile": "memoriautvonal/34/utvonal.html",
+      "metaFile": "memoriautvonal/34/utvonal.meta.json",
+      "metaSha256": "1571067a3f2548f2b1768d3f0c40af81408291410898f4453deb61e7252fd072",
       "allomasok": [
         {
           "file": "memoriautvonal/34/allomasok/01.json",
@@ -5324,6 +5427,9 @@
       "title": "35. A diplomák és szakképesítések kölcsönös elismerése; az ügyvédi hivatás (...)",
       "htmlChars": 39550,
       "htmlSha256": "df7f2ec3f1058dad57dbb0bdeba701888c8818ddb1ec494a5d0ffe44fa325e87",
+      "htmlFile": "memoriautvonal/35/utvonal.html",
+      "metaFile": "memoriautvonal/35/utvonal.meta.json",
+      "metaSha256": "50b0f72844b5145708ba6775e47ffc6936be6802d2465ba9f36f79329b12c514",
       "allomasok": [
         {
           "file": "memoriautvonal/35/allomasok/01.json",
@@ -5469,6 +5575,9 @@
       "title": "36. Az áruk szabad mozgása; a vámok és azzal azonos hatású díjak tilalma; a (...)",
       "htmlChars": 38319,
       "htmlSha256": "eed4f2f67d6041f18f2fcc8ba8c7eb060250a54556c96bd9093cac26dc2b605b",
+      "htmlFile": "memoriautvonal/36/utvonal.html",
+      "metaFile": "memoriautvonal/36/utvonal.meta.json",
+      "metaSha256": "ab6b84a901f2cec02ced9189829f661acae223de0876d73bd2117d2618dd3929",
       "allomasok": [
         {
           "file": "memoriautvonal/36/allomasok/01.json",
@@ -5630,6 +5739,9 @@
       "title": "37. A szolgáltatások szabad mozgása, a szolgáltatás fogalma, az (...)",
       "htmlChars": 24259,
       "htmlSha256": "f5868518f726eff7ff307210a7d3b47706b90d70e26caef87c26298d10f21e28",
+      "htmlFile": "memoriautvonal/37/utvonal.html",
+      "metaFile": "memoriautvonal/37/utvonal.meta.json",
+      "metaSha256": "fe1fb5ee0d02b28d891955efa912b8b01721e34fc17875599ac0904b71cde970",
       "allomasok": [
         {
           "file": "memoriautvonal/37/allomasok/01.json",
@@ -5743,6 +5855,9 @@
       "title": "38. A tőke szabad mozgása",
       "htmlChars": 35315,
       "htmlSha256": "354342ca6d6d2a98758da84e3032800e4b7f621ba20fb2082f2af3fd30a3716d",
+      "htmlFile": "memoriautvonal/38/utvonal.html",
+      "metaFile": "memoriautvonal/38/utvonal.meta.json",
+      "metaSha256": "7a875764809d014bddd111b69c1576490e6c95611365d2417f23d19fac6592f6",
       "allomasok": [
         {
           "file": "memoriautvonal/38/allomasok/01.json",
@@ -5880,6 +5995,9 @@
       "title": "39. A monetáris unió fogalma és jelentősége",
       "htmlChars": 93314,
       "htmlSha256": "9357cb623bcb8c9b908797baa777c914f21453630b7f2c47f114375123aa17e5",
+      "htmlFile": "memoriautvonal/39/utvonal.html",
+      "metaFile": "memoriautvonal/39/utvonal.meta.json",
+      "metaSha256": "5d095596fcd00ad773446300b7715ff6faefbf29a08baa732d01f303cb3ea71f",
       "allomasok": [
         {
           "file": "memoriautvonal/39/allomasok/01.json",
@@ -6209,6 +6327,9 @@
       "title": "40. Mi a versenyjog funkciója? Milyen jogforráson alapul? (antitröszt (...)",
       "htmlChars": 44127,
       "htmlSha256": "0a31362b0655a01ed0c05e759e322450edd692739dfb68e48140b4571c4ef201",
+      "htmlFile": "memoriautvonal/40/utvonal.html",
+      "metaFile": "memoriautvonal/40/utvonal.meta.json",
+      "metaSha256": "1c63c0765062370d7a75d855146bb3b5af485db74399d8f729f009e966f99cd0",
       "allomasok": [
         {
           "file": "memoriautvonal/40/allomasok/01.json",
@@ -6362,6 +6483,9 @@
       "title": "41. Mi a Bizottság szerepe a versenyjogban (a Bizottság hatásköre (...)",
       "htmlChars": 49963,
       "htmlSha256": "e962fbd1f78ff4bf9f332652933d0bb3a1e8e63659e0ab7fbb26f7e9b3c8fd00",
+      "htmlFile": "memoriautvonal/41/utvonal.html",
+      "metaFile": "memoriautvonal/41/utvonal.meta.json",
+      "metaSha256": "5d7dcf039d49c58f17fa7ef436700118f1e697e812c7f703ea0cef5817600480",
       "allomasok": [
         {
           "file": "memoriautvonal/41/allomasok/01.json",
@@ -6523,6 +6647,9 @@
       "title": "42. Az adatkezelési elvek és az érintett jogai",
       "htmlChars": 81861,
       "htmlSha256": "d696e0a90beaca77ca7c86608310b5c7d55fdf028d14058a6c008f9beaba5327",
+      "htmlFile": "memoriautvonal/42/utvonal.html",
+      "metaFile": "memoriautvonal/42/utvonal.meta.json",
+      "metaSha256": "e5255179da90cd44de741d0deea68be37c684c9c2a54a72ddd80a73d76361789",
       "allomasok": [
         {
           "file": "memoriautvonal/42/allomasok/01.json",
@@ -6772,6 +6899,9 @@
       "title": "43. Az Európai Unió klíma- és energiapolitikájának fő irányai",
       "htmlChars": 40552,
       "htmlSha256": "701aa5457acdd6eea8ce2f7621b39c9c22fb5f8841a7e8f9ad0404192abdcefd",
+      "htmlFile": "memoriautvonal/43/utvonal.html",
+      "metaFile": "memoriautvonal/43/utvonal.meta.json",
+      "metaSha256": "b7b4cff4028d1089345fda8a4d0918271d80453faaf8102dbca0f809c59b706d",
       "allomasok": [
         {
           "file": "memoriautvonal/43/allomasok/01.json",

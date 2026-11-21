@@ -1,0 +1,33 @@
+{
+  "ttsId": "Hjvu9Bxa4MfQWBQw3Y2r",
+  "noteId": "bPhX72bDgAD8gXteYniJ",
+  "title": "(IV-V.) Kapcsolódó jogintézmények: az 1. és a 2. jegyzőkönyv",
+  "tagPath": "C/2 Az Európai Unió joga > 10. A nemzeti parlamentek szerepe az uniós jogalkotási eljárásban",
+  "via": "audioSource",
+  "model": "gemini-2.5-pro",
+  "processingMode": "v3_enhanced",
+  "chunkCount": 3,
+  "chunks": [
+    {
+      "file": "chunk_001.txt",
+      "index": 1,
+      "charCount": 4613,
+      "status": "completed",
+      "audioFile": "audio/notes/Hjvu9Bxa4MfQWBQw3Y2r_chunk_001.mp3"
+    },
+    {
+      "file": "chunk_002.txt",
+      "index": 2,
+      "charCount": 622,
+      "status": "completed",
+      "audioFile": "audio/notes/Hjvu9Bxa4MfQWBQw3Y2r_chunk_002.mp3"
+    },
+    {
+      "file": "chunk_003.txt",
+      "index": 3,
+      "charCount": 3371,
+      "status": "completed",
+      "audioFile": "audio/notes/Hjvu9Bxa4MfQWBQw3Y2r_chunk_003.mp3"
+    }
+  ]
+}
