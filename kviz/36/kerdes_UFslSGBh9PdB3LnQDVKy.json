@@ -28,9 +28,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a diszkrimináció hiánya nem helyezi a határátlépéshez kötött díjat a 110. cikk alá. A helyes: a C-24/68. sz. ügy szerint azonos hatású díj a határátlépéshez kötött, egyoldalú pénzügyi teher akkor is, ha hatása nem diszkriminatív vagy védő jellegű, és ha a termék nem áll versenyben belföldi termékkel. Az EUMSZ 30. cikk e tilalmat a fiskális vámokra is kiterjeszti. A tévedés a 110. cikket a nem diszkriminatív határdíj menekülőútjává teszi."
         }
-      ],
-      "sourceKerdesSorszam": 1,
-      "sourceHash": "b5f392bfcc24"
+      ]
     },
     {
       "question": "Mikor maradhat kívül a tilalmon a határátlépéshez kötött pénzügyi teher a C-24/68. sz. ügy szerint, és mi a tilalom jellege?",
@@ -55,9 +53,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a szolgáltatás-ellenérték szűk, megkerülést kizáró kivétel. A C-24/68. sz. Bizottság kontra Olaszország ügy szerint konkrét, ténylegesen teljesített szolgáltatás arányos ellenértéke csak olyan esetben maradhat kívül a tilalmon, amely nem vezet a vámtilalmi rendelkezések megkerüléséhez. A határátlépéskor minden alkalommal kivetett statisztikai díj e kivétel alá nem esik. Az EUMSZ 30. cikk a behozatali vagy kiviteli vámot és az azzal azonos hatású díjat tiltja."
         }
-      ],
-      "sourceKerdesSorszam": 2,
-      "sourceHash": "b5bd30f2c9c5"
+      ]
     },
     {
       "question": "Mi a jogkövetkezménye annak, ha a harmadik országbeli termék vámját részben vagy egészben visszatérítik a 29. cikk szerinti szabad forgalom szempontjából?",
@@ -82,9 +78,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a szabad forgalom jogi minősítés, nem pusztán fizikai belépés. A helyes: az EUMSZ 29. cikk három konjunktív feltételt követel — alaki követelmények, vám vagy azonos hatású díj beszedése, visszatérítés tilalma. A tévedés a fizikai belépést a jogi minősítés helyébe állítja."
         }
-      ],
-      "sourceKerdesSorszam": 3,
-      "sourceHash": "ac5d519a9510"
+      ]
     },
     {
       "question": "A C-8/74. sz. Dassonville-ügy eljárási kerete és a 36. cikk második mondatának alkalmazása milyen megállapításokat enged?",
@@ -109,9 +103,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a Dassonville-ügy éppen a hatály eldöntése nélküli alkalmazást mondja ki. A helyes: a C-8/74. sz. ügy a 36. cikk második mondatának elvét anélkül alkalmazza, hogy el kellene dönteni a cikk hatályát. Az EUMSZ 36. cikk második mondata az önkényes megkülönböztetés és a rejtett korlátozás tilalmát rögzíti. A tévedés a belső korlátot előzetes hatályvizsgálathoz köti."
         }
-      ],
-      "sourceKerdesSorszam": 4,
-      "sourceHash": "dd62435e6a15"
+      ]
     },
     {
       "question": "A német hatóság a francia cassis de Dijon forgalomba hozatalát azért tagadja meg, mert a termék alkoholtartalma a német minimális küszöb alatt van. Mely megállapítások helytállóak?",
@@ -136,9 +128,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Cassis-ratio a minimális alkoholtartalmat a 34. cikk alá vonja. A C-120/78. sz. Cassis de Dijon ügy rendelkező része szerint a 30. cikk — ma az EUMSZ 34. cikke — szerinti azonos hatású intézkedés fogalmába tartozik az emberi fogyasztásra szánt szeszes italokra vonatkozó, tagállami jogszabályban megállapított minimális alkoholtartalom. Nincs elfogadható indok arra, hogy a tagállamok bármelyikében jogszerűen előállított és forgalmazott szeszes italokat egy másik tagállam piacára ne lehessen bevezetni. A német 25 térfogatszázalékos küszöb a francia 15–20 térfogatszázalékos termékkel szemben e tilalom alá esett."
         }
-      ],
-      "sourceKerdesSorszam": 5,
-      "sourceHash": "65314e23e605"
+      ]
     },
     {
       "question": "Mi a jogkövetkezménye a Cassis de Dijon-ügy kölcsönös befogadási szabályának a minimális alkoholtartalomra nézve?",
@@ -163,9 +153,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a kölcsönös befogadás a rendelkező rész magja. A C-120/78. sz. Cassis de Dijon ügy szerint nincs elfogadható indok arra, hogy a tagállamok bármelyikében jogszerűen előállított és forgalmazott szeszes italokat egy másik tagállam piacára ne lehessen bevezetni. A minimális alkoholtartalom egyoldalú követelménye a 30. cikkel (ma 34. cikk) össze nem egyeztethető akadály. Az EUMSZ 34. cikk az akadályt a behozatali azonos hatású intézkedés fogalma alá vonja."
         }
-      ],
-      "sourceKerdesSorszam": 6,
-      "sourceHash": "fbd0ce9bea69"
+      ]
     },
     {
       "question": "A Brenner-autópálya közel harminc órás teljes lezárását eredményező rendezvény el nem tiltása milyen következménnyel járhat a Schmidberger-ügy szerint?",
@@ -190,9 +178,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a védelmi kötelezettség irányfüggetlen. A C-112/00. sz. ügy a korábbi 34. cikket — a hatályos 35. cikket — a 34. cikkel együtt olvassa: a behozatal, a kivitel és az átmenő forgalom akadálya között a védelmi kötelezettség szempontjából nem kell különbséget tenni. Az EUMSZ 35. cikk a kivitelre vonatkozó mennyiségi korlátozást és az azonos hatású intézkedést tiltja. A magánakadály mindhárom irányban a tilalom alá eshet."
         }
-      ],
-      "sourceKerdesSorszam": 7,
-      "sourceHash": "4024657a0d16"
+      ]
     },
     {
       "question": "Mely esetben nem alkalmazható a 37. cikk a nemzeti forgalmazási szabályokra a Cassis de Dijon-ügy szerint?",
@@ -217,9 +203,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a termék monopóliumkörbe tartozása önmagában nem nyitja meg a 37. cikket. A C-120/78. sz. Cassis de Dijon ügy szerint közömbös, hogy a termékek a monopólium körébe tartoznak-e; a 37. cikk a kereskedelmi jellegű állami monopóliumokra vonatkozó különös rendelkezés. Az általános forgalmazási szabály — így a minimális alkoholtartalom — kizárólag az EUMSZ 34. cikke szerinti azonos hatású intézkedésként vizsgálandó. A 37. cikk nem irányadó, ha a szabály nem a kizárólagossági jog gyakorlása."
         }
-      ],
-      "sourceKerdesSorszam": 8,
-      "sourceHash": "20fc46dcd094"
+      ]
     },
     {
       "question": "Mi a jogkövetkezménye a 37. cikk (2) bekezdése szerinti standstill-tilalomnak a C-6/64. sz. Costa-ügy olvasatában?",
@@ -244,9 +228,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a tilalom közvetlen hatályú egyéni jogot ad, nem csak intézményi eljárásban érvényesíthető. A helyes: a C-6/64. sz. Costa-ügy szerint a világosan kifejezett tilalom a jogalanyok egyéni jogát képezi, amelyet a nemzeti bíróságnak védelemben kell részesítenie. Az EUMSZ 37. cikk (2) bekezdése e standstill-tartalommal bír a kereskedelmi jellegű állami monopóliumoknál. A tévedés a közvetlen hatályt kötelezettségszegési eljárásra szűkíti."
         }
-      ],
-      "sourceKerdesSorszam": 9,
-      "sourceHash": "e4d63fa94250"
+      ]
     },
     {
       "question": "Hogyan válik el a 110. cikk két mondata a 30. cikk vámjogi tilalmától a C-24/68. sz. ügy olvasatában?",
@@ -271,9 +253,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, ez a 30. cikk határátlépési próbájának ráírása a belső adó tilalmára. A helyes: a C-24/68. sz. ügy szerint az EUMSZ 30. cikke a határátlépéshez kötött, egyoldalú díjat éri el akkor is, ha nincs hasonló belföldi termék; a 110. cikk a belső adózás rendszerében maradó terhet a hasonló vagy védendő belföldi termékhez méri. A C-290/05. sz. Nádasdi-ügy e 110. cikkes semlegességi próbát operatívvá teszi. A tévedés a síkok előfeltételeit felcseréli."
         }
-      ],
-      "sourceKerdesSorszam": 10,
-      "sourceHash": "5fd4a4e0bbca"
+      ]
     },
     {
       "question": "Mi a következménye annak, ha a behozott használt személygépkocsira a tagállam a teljes, értékvesztést figyelmen kívül hagyó regisztrációs adót veti ki, miközben a hasonló belföldi használt gépkocsi terhe már csak a maradvány?",
@@ -298,9 +278,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a semlegességi próba a maradványteherhez mér. A C-290/05. sz. Nádasdi-ügy szerint a behozott használt személygépkocsit terhelő regisztrációs adót a Magyarországon már nyilvántartásba vett, ezért már adózott, hasonló használt személygépkocsit terhelő regisztrációsadó-maradvánnyal kell összehasonlítani. Az értékvesztéssel arányosan csökken a megmaradó értékben foglalt regisztrációs adó is. A teljes összegű, értékvesztést figyelmen kívül hagyó adó ezért a 110. cikk első mondatába ütközik."
         }
-      ],
-      "sourceKerdesSorszam": 11,
-      "sourceHash": "12393296f02f"
+      ]
     },
     {
       "question": "Mely szempontok szerint vezethető be a 110. cikk szerinti hasonló termékek között különbséget tevő adórendszer a Nádasdi-ügy szerint?",
@@ -325,9 +303,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, nincs olyan követelmény, hogy az adó összege a személygépkocsi árához kapcsolódjon. A helyes: a C-290/05. sz. Nádasdi-ügy szerint a motor, a hengerűrtartalom és a környezetvédelmi besorolás objektív szempontként alkalmazható az EUMSZ 110. cikke szerinti hasonló termékek között. A tilalom a behozott termék magasabb adóztatására vonatkozik, nem az árkötöttségre. A tévedés nem létező árkapcsolati kötelezettséget ír a semlegességi próba helyébe."
         }
-      ],
-      "sourceKerdesSorszam": 12,
-      "sourceHash": "3f1c00774b81"
+      ]
     },
     {
       "question": "Az EUMSZ 28. cikk (1) bekezdése szerinti vámunió milyen kettős tartalmat hordoz a belső tilalom és a külső tarifa oldalán?",
@@ -352,9 +328,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a kiterjesztés nélkül a vámunió lyukas maradna. Az EUMSZ 28. cikk (2) bekezdése e hatályt kifejezetten kimondja a szabad forgalmú harmadik országbeli termékre is. A harmadik országból beléptetett, majd továbbértékesített áru így nem ütközhet ismét nemzeti vám- vagy mennyiségi akadályba. A 29. cikk a szabad forgalom jogi minősítését adja e kiterjesztéshez."
         }
-      ],
-      "sourceKerdesSorszam": 13,
-      "sourceHash": "46a0357e42b7"
+      ]
     },
     {
       "question": "Mely esetben maradhat kívül az azonos hatású díj tilalmán a pénzügyi teher a C-24/68. sz. ügy szerint?",
@@ -379,9 +353,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a belső adó a vámtilalomtól elváló pályán marad. A C-24/68. sz. ügy e határt kifejezetten megvonja az azonos hatású díj formulájától: a fogalom nem foglalja magában azokat az adókat, amelyeket az államon belül azonos módon vetnek ki a hasonló belföldi termékekre. A hasonló belföldi termékre azonos módon kivetett teher tehát nem a 30. cikk, hanem az EUMSZ 110. cikke alá esik. A határátlépéshez kötött, egyoldalú teher ettől elválik."
         }
-      ],
-      "sourceKerdesSorszam": 14,
-      "sourceHash": "02766b135d24"
+      ]
     },
     {
       "question": "Miben tér el a mennyiségi korlátozás az azonos hatású intézkedéstől a 34. cikk síkján?",
@@ -406,9 +378,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a tilalom alanyi jogként érvényesül. A C-8/74. sz. Dassonville-ügy a Tribunal de première instance de Bruxelles előzetes döntéshozatalából született. A belga kereskedők elleni büntetőeljárás a szabad forgalmú Scotch whisky párhuzamos behozatalán fordult. A rendelkező rész a párhuzamos behozatalt ellehetetlenítő eredetiségbizonyítványt azonos hatású intézkedésnek minősítette."
         }
-      ],
-      "sourceKerdesSorszam": 15,
-      "sourceHash": "9df817a3b6dc"
+      ]
     },
     {
       "question": "Mely megállapítások tévesek a 36. cikk belső korlátjának és a Cassis-pálya elválasztásának jogkövetkezményéről? (tanító)",
@@ -433,9 +403,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a második mondat a kivétel belső korlátja, a szerződéses indokra hivatkozás mellett is. A helyes: az EUMSZ 36. cikk második mondata szerint a tilalmak és korlátozások nem lehetnek önkényes megkülönböztetés vagy a tagállamok közötti kereskedelem rejtett korlátozásának eszközei. A C-8/74. sz. Dassonville-ügy e belső korlátot a 36. cikk hatályának eldöntése nélkül is alkalmazza. A tévedés a belső korlátot a szerződéses hivatkozással kikapcsolhatónak olvassa."
         }
-      ],
-      "sourceKerdesSorszam": 16,
-      "sourceHash": "262bfb4a02e7"
+      ]
     },
     {
       "question": "Mi a jogkövetkezménye annak, ha a tagállam a másik tagállamban jogszerűen előállított és forgalmazott szeszes italt egyoldalú minimális alkoholtartalom miatt nem engedi a piacára?",
@@ -460,9 +428,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a termék monopóliumi besorolása nem menti a forgalmazási szabályt. A helyes: a C-120/78. sz. ügy szerint a 37. cikk nem irányadó az általános előállítási és forgalmazási szabályokra, és közömbös, hogy a termékek a monopólium körébe tartoznak-e; a minimális alkoholtartalom az EUMSZ 34. cikke alá esik. A tévedés a Cassis-beli, a Bíróság által elvetett 37. cikkes érvet ismétli."
         }
-      ],
-      "sourceKerdesSorszam": 17,
-      "sourceHash": "9cb4f2956d14"
+      ]
     },
     {
       "question": "A Bíróság milyen alkotó szerepet tölt be az áruk szabad mozgásának három síkján?",
@@ -487,9 +453,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, e két ügy a monopólium és a mulasztás síkján adja a tilalom alanyi érvényesülését. A C-6/64. sz. Costa-ügy a kereskedelmi jellegű állami monopólium tilalmának közvetlen hatályát és a nemzeti bíróság védelmi kötelezettségét mondja ki. A C-112/00. sz. Schmidberger-ügy szerint a 34. cikk a magánszemélyek magatartásából eredő akadály elhárításának elmulasztására is kiterjedhet. A felek védőérvei csak annyiban számítanak, amennyiben a Bíróság ratioja azokat elfogadja vagy elveti."
         }
-      ],
-      "sourceKerdesSorszam": 18,
-      "sourceHash": "a7a8a4f16b22"
+      ]
     },
     {
       "question": "Mely esetben kívánja a 37. cikk (3) bekezdése az egyenértékű biztosítékot a mezőgazdasági monopólium kiigazításánál?",
@@ -514,9 +478,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a (3) bekezdés nem teljes kivétel. A helyes: az EUMSZ 37. cikk (3) bekezdése szerint a mezőgazdasági cél esetén az e cikkben foglalt szabályok alkalmazásakor kell lépéseket tenni az egyenértékű biztosíték érdekében; az (1)–(2) bekezdés elvei fennmaradnak. A C-6/64. sz. Costa-ügy a kereskedelmi jellegű monopólium diszkriminációs tilalmát erősíti. A tévedés a biztosítékot teljes mentességgé emeli."
         }
-      ],
-      "sourceKerdesSorszam": 19,
-      "sourceHash": "a4ed5ac20aa2"
+      ]
     },
     {
       "question": "A C-24/68. sz. Bizottság kontra Olaszország ügyben az alperes érvei és a Bíróság ratioja hogyan válnak el egymástól?",
@@ -541,9 +503,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a kiterjesztés a megkerülés kizárását szolgálja. A C-24/68. sz. ügy szerint a tilalmak jelentősége olyan nagy, hogy a Szerződés a vám- és adóügyi megkerülést is ki akarta zárni, és a vámok tilalmának az azonos hatású díjakra való kiterjesztése a tilalmat egészíti ki és teszi hatékonnyá. Az EUMSZ 30. cikk a fiskális vámokra is alkalmazza a tilalmat. A cél nem csupán a védő jelleg megszüntetése."
         }
-      ],
-      "sourceKerdesSorszam": 20,
-      "sourceHash": "d51276739dd9"
+      ]
     },
     {
       "question": "Az EUMSZ 34. cikke milyen tilalmat mond ki a behozatalra, és hogyan tölti ezt ki a Dassonville-formula?",
@@ -568,9 +528,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a szerződéses tilalom és a bírói formula együtt adja a behozatali zárat. Az EUMSZ 34. cikke szerint „a tagállamok között tilos a behozatalra vonatkozó minden mennyiségi korlátozás és azzal azonos hatású intézkedés”. A C-8/74. sz. Dassonville-ügy 5. pontja a tág akadályozási próbát mondja ki. A formula nem a szándékot, nem a diszkriminációt és nem a védő jelleget követeli."
         }
-      ],
-      "sourceKerdesSorszam": 21,
-      "sourceHash": "891f20b971d6"
+      ]
     },
     {
       "question": "Mikor állapítható meg az EUMSZ 110. cikk első mondatának sérelme a Nádasdi-ügy szerint, ha a behozott és a hasonló belföldi termék adója másképp számítandó?",
@@ -595,9 +553,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Nádasdi-ügy a maradványteherhez mér. A C-290/05. sz. ítélet szerint az értékvesztéssel arányosan csökken a megmaradó értékben foglalt regisztrációs adó is. A teljes összegű, értékvesztést figyelmen kívül hagyó adó a 110. cikk első mondatába ütközik. A törvény hatálybalépése előtti nyilvántartásba vétel összehasonlítási alapként nem használható."
         }
-      ],
-      "sourceKerdesSorszam": 22,
-      "sourceHash": "9aa1e6a1a70f"
+      ]
     },
     {
       "question": "Mely megállapítások tévesek az azonos hatású díj tilalmának jogkövetkezményéről és a C-24/68. sz. ügybeli elhatárolásról? (tanító)",
@@ -622,9 +578,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az új vámok vagy azonos hatású díjak tilalma nem enged meg kivételt. A helyes: a C-24/68. sz. ügy szerint e tilalom az áruk szabad mozgásának elvéhez kapcsolódó alapvető szabály, amely — a Szerződés egyéb rendelkezéseinek sérelme nélkül — nem enged meg kivételt. Az EUMSZ 30. cikk e tilalmat abszolút és általános hatályúnak olvassa. A tévedés a piaczavar hiányát arányossági mentességgé alakítja."
         }
-      ],
-      "sourceKerdesSorszam": 23,
-      "sourceHash": "dbbe24f89a3c"
+      ]
     },
     {
       "question": "A 29. cikk három feltétele közül melyik sérülése zárja ki önmagában a szabad forgalmat, és miért konjunktív a hármas?",
@@ -649,9 +603,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a szabad forgalom a 29. cikk szerinti három feltétel együttes teljesítésétől függ. Az EUMSZ 29. cikk a harmadik országbeli termék szabad forgalmát három konjunktív feltételhez köti: behozatali alaki követelmények, a fizetendő vám vagy azonos hatású díj beszedése, valamint a visszatérítés tilalma. Bármelyik hiánya kizárja a szabad forgalmat. A 28. cikk (2) bekezdése e minősítéshez kapcsolja a vámtilalom és a mennyiségi korlátozások tilalmának hatályát."
         }
-      ],
-      "sourceKerdesSorszam": 24,
-      "sourceHash": "f9adc5f80073"
+      ]
     },
     {
       "question": "A 36. cikk taxatív listáján mely indokok szerepelnek ténylegesen a nemzeti kincs és a szellemi tulajdon oldalán?",
@@ -676,9 +628,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a nemzeti kincs védelme nem nyitja meg automatikusan a fogyasztóvédelmi származásjelölést. A helyes: az EUMSZ 36. cikke a művészi, történelmi vagy régészeti értéket képviselő nemzeti kincsek védelmét nevezi meg; a fogyasztóvédelem a C-120/78. sz. Cassis de Dijon ügy szerinti feltétlenül érvényesítendő követelmények között keresendő. A tévedés a szerződéses indokot a Cassis-pályára tolja."
         }
-      ],
-      "sourceKerdesSorszam": 25,
-      "sourceHash": "d1e220bb83ae"
+      ]
     },
     {
       "question": "Magyarország a belföldön forgalomba helyezendő személygépkocsi után, új és használt járműre azonos táblázattal, regisztrációs adót vet ki. Mely megállapítások állják meg a helyüket a Nádasdi-ügyben?",
@@ -703,9 +653,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a regisztrációs adó a belső adózás rendszerében marad, nem a vámtilalom alatt. A helyes: a C-290/05. sz. ügy a korábbi 90. cikk — ma az EUMSZ 110. cikke — szerinti semlegességi próba alapján döntött; a 30. cikk a határátlépéshez kötött, egyoldalú díjat éri el. A tévedés a pénzügyi zárakat felcseréli."
         }
-      ],
-      "sourceKerdesSorszam": 26,
-      "sourceHash": "b7b652074d4a"
+      ]
     },
     {
       "question": "A 35. cikk szerinti kiviteli tilalom milyen szerződéses záradékkal és milyen vámjogi párhuzammal olvasható együtt?",
@@ -730,9 +678,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a 36. cikk a 34. és a 35. cikk alóli kivétel egyaránt. A helyes: az EUMSZ 36. cikk szerint a 34. és a 35. cikk rendelkezései nem zárják ki a behozatalra, a kivitelre vagy a tranzitárukra vonatkozó, a cikkben felsorolt indokokkal igazolt tilalmakat vagy korlátozásokat. A második mondat az önkényes megkülönböztetés és a rejtett korlátozás tilalmát fűzi hozzá. A tévedés a 35. cikket kiveszi a 36. cikk alól."
         }
-      ],
-      "sourceKerdesSorszam": 27,
-      "sourceHash": "7987b643fdd0"
+      ]
     },
     {
       "question": "Mikor nem minősül automatikusan jogsértőnek a magánakadály elhárításának elmulasztása a C-112/00. sz. Schmidberger-ügy szerint?",
@@ -757,9 +703,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a mulasztás is a 34. cikk szerinti tilalom alá eshet. A helyes: a C-112/00. sz. Schmidberger-ügy szerint a 34. cikk akkor is alkalmazható, ha a tagállam nem hozta meg az áruk szabad mozgása nem állami eredetű akadályainak elhárításához szükséges intézkedéseket. A Dassonville-formula így a magánakadályra is kiterjed. A tévedés a tilalmat az aktív aktusra szűkíti."
         }
-      ],
-      "sourceKerdesSorszam": 28,
-      "sourceHash": "fc3735feee9f"
+      ]
     },
     {
       "question": "Miért terjed ki a 30. cikk tilalma a fiskális vámokra, és hogyan kapcsolódik ehhez a 110. cikk a C-24/68. sz. ügy szerint?",
@@ -784,9 +728,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a belső adó tilalma a vámtilalom mellett pótló zárként működik. A C-24/68. sz. ügy a korábbi 95. cikket — ma az EUMSZ 110. cikkét — azzal a céllal helyezi el, hogy betömje a tilalmakon keletkező réseket a behozott termékre a belföldi adót meghaladó belső adó tilalmával. Az EUMSZ 110. cikk a hasonló termékekre a magasabb belső adót tiltja. A 30. és a 110. cikk egymást kiegészíti, de nem fedi egymást."
         }
-      ],
-      "sourceKerdesSorszam": 29,
-      "sourceHash": "252815ed6814"
+      ]
     },
     {
       "question": "Mely megállapítások hamisak a kereskedelmi állami monopólium 37. cikk szerinti szabályairól? (tanító)",
@@ -811,9 +753,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a tilalom közvetlen hatályú egyéni jogot adhat a jogalanyoknak is. A helyes: a C-6/64. sz. Costa-ügy a világosan kifejezett tilalmat egyéni jogként kezeli, amelyet a nemzeti bíróságnak védelemben kell részesítenie. Az EUMSZ 37. cikk (2) bekezdése a standstill-tartalmat hordozza az új diszkriminációval szemben. A tévedés a közvetlen hatályt intézményi eljárásra szűkíti a nemzeti bíróság elől."
         }
-      ],
-      "sourceKerdesSorszam": 30,
-      "sourceHash": "654258f3c660"
+      ]
     },
     {
       "question": "Mi a következménye annak, ha a tagállam a minimális alkoholtartalmat a közegészség védelmével próbálja igazolni a Cassis de Dijon-ügy tényállásában?",
@@ -838,9 +778,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a közegészségügyi hivatkozás nem tolja a forgalmazási szabályt a 37. cikk alá. A helyes: a C-120/78. sz. ügy a 37. cikket kizárta az általános előállítási és forgalmazási szabályoknál, és a minimális alkoholtartalmat az EUMSZ 34. cikke alá vonta. Közömbös, hogy a termékek a monopólium körébe tartoznak-e a Cassis-ügy ratioja szerint. A tévedés a monopólium különös rendelkezését egészségvédelmi címkével nyitja meg."
         }
-      ],
-      "sourceKerdesSorszam": 31,
-      "sourceHash": "abdc4f28cecd"
+      ]
     },
     {
       "question": "Miért nem mentette meg a német minimális alkoholtartalmat a közegészségügyi, illetve a fogyasztóvédelmi érv a Cassis de Dijon-ügyben?",
@@ -865,9 +803,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a Cassis-pálya csak nem diszkriminatív forgalmazási szabálynál nyílik. A helyes: a C-120/78. sz. ügy a feltétlenül érvényesítendő követelményeket szűken méri, és a 36. cikken kívüli pályán. Az EUMSZ 36. cikk a diszkriminatív szabály szerződéses indokait adja. A tévedés a Cassis-indokot diszkriminatív mentességgé tágítja."
         }
-      ],
-      "sourceKerdesSorszam": 32,
-      "sourceHash": "39699fc9d38b"
+      ]
     },
     {
       "question": "Mi következik abból, ha a tagállam új intézkedést vezet be, amely a 37. cikk (1) bekezdésének elveivel ellentétes?",
@@ -892,9 +828,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a (3) bekezdés nem oldja fel a standstillt a mezőgazdasági cél címkéjével. A helyes: az EUMSZ 37. cikk (3) bekezdése a mezőgazdasági monopólium alkalmazásakor a termelők foglalkoztatásának és életszínvonalának egyenértékű biztosítékát követeli; a (2) bekezdés standstillje fennmarad. A C-6/64. sz. Costa-ügy a diszkriminációs tilalmat erősíti a kereskedelmi jellegű monopóliumnál. A tévedés a biztosítékot mentességgé emeli a standstill alól."
         }
-      ],
-      "sourceKerdesSorszam": 33,
-      "sourceHash": "502890652ab9"
+      ]
     },
     {
       "question": "A 36. cikk által felsoroltak közül melyik szerepel ténylegesen a szerződéses indokok között?",
@@ -919,9 +853,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a fogyasztóvédelem és az adóellenőrzés hatékonysága nem a 36. cikk felsorolt indoka. A helyes: a C-120/78. sz. Cassis de Dijon ügy e célokat a feltétlenül érvényesítendő követelmények között ismeri el, és csak nem diszkriminatív szabálynál. Az EUMSZ 36. cikke a közerkölcsöt, a közrendet, a közbiztonságot, az egészség védelmét, a nemzeti kincset és az ipari-kereskedelmi tulajdont nevezi meg. A tévedés a Cassis-pályát a szerződéses kivétel címkéje alá tolja."
         }
-      ],
-      "sourceKerdesSorszam": 34,
-      "sourceHash": "41c37c6244f6"
+      ]
     },
     {
       "question": "A C-57/65. sz. Lütticke-ügy milyen kapcsolatban áll a 110. cikk síkjával?",
@@ -946,9 +878,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Lütticke-ügy nem a vámjogi, hanem a belső adó síkján helyezkedik el. A C-24/68. sz. ítélet a korábbi 95. cikket — ma az EUMSZ 110. cikkét — a vámtilalom réseit betöltő szabályként helyezi el. A C-57/65. sz. Lütticke-ügy ehhez a 110. cikkes vonalhoz kapcsolódik a belső adóztatásnál. A 30. cikk a határátlépéshez kötött, egyoldalú díjat éri el a vámjogi síkon."
         }
-      ],
-      "sourceKerdesSorszam": 35,
-      "sourceHash": "eaba700ffd4f"
+      ]
     },
     {
       "question": "Mi a célja a 28. cikk (2) bekezdése szerinti hatálykiterjesztésnek a szabad forgalmú harmadik országbeli termékre?",
@@ -973,9 +903,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a (2) bekezdés kifejezetten a szabad forgalmú harmadik országbeli termékre is kiterjed. A helyes: az EUMSZ 28. cikk (2) bekezdése a 30. cikk és a mennyiségi korlátozásokról szóló fejezet (34–35. cikk) hatályát a tagállamokból származó, továbbá a harmadik országokból érkező és a tagállamokban szabad forgalomban lévő termékekre alkalmazza. E kiterjesztés nélkül a továbbértékesített áru ismét nemzeti akadályba ütközhetne. A tévedés a kiterjesztés második fordulatát elhagyja a vámunió zártságából."
         }
-      ],
-      "sourceKerdesSorszam": 36,
-      "sourceHash": "d251dc44d3aa"
+      ]
     },
     {
       "question": "A tagállam fiskális vámot vet ki a behozatalra, és azzal érvel, hogy a teher pénzügyi célú, nem kereskedelmi védelem. Mi a helyes megítélés?",
@@ -1000,9 +928,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a szerződéses szöveg a fiskális vámot kifejezetten a tilalom alá vonja. Az EUMSZ 30. cikke kimondja, hogy a tilalmat a fiskális vámokra is alkalmazni kell. A C-24/68. sz. Bizottság kontra Olaszország ügy a teher célját és a bevétel rendeltetését közömbösnek tekinti. A határátlépéshez kötött, egyoldalú pénzügyi teher így a vámtilalom alá esik."
         }
-      ],
-      "sourceKerdesSorszam": 37,
-      "sourceHash": "4df1a7b80a5c"
+      ]
     },
     {
       "question": "Mi a jogkövetkezménye a párhuzamos behozatalt ellehetetlenítő eredetiségbizonyítványnak, és milyen ésszerűségi korlátok mellett maradhat fenn az eredetvédelem a Dassonville-ügy szerint?",
@@ -1027,9 +953,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a rendelkező rész a párhuzamos behozatal ellehetetlenítését azonos hatású intézkedésnek minősíti. A C-8/74. sz. Dassonville-ügy szerint ilyen helyzet áll elő, ha az eredet igazolására megkövetelt alakiságot komolyabb nehézség nélkül gyakorlatilag csak a közvetlen importőr tudja teljesíteni. Az EUMSZ 34. cikk a behozatali mennyiségi korlátozást és az azonos hatású intézkedést tiltja. A formula a kereskedelem akadályozásának képességét nézi."
         }
-      ],
-      "sourceKerdesSorszam": 38,
-      "sourceHash": "ccc4c402acd2"
+      ]
     },
     {
       "question": "A 110. cikk második mondata milyen védelmet tilt a hasonló termékek egyenlő adóterhén túl?",
@@ -1054,9 +978,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a két mondat két külön tényállást fed le a belső adóztatásban. Az EUMSZ 110. cikk első mondata a behozott termék belső adóját a hasonló hazai termék adóterhéhez méri. A második mondat a közvetett védelmet tiltja más termékek javára. A C-290/05. sz. Nádasdi-ügy az első mondat semlegességi próbáját adja a használt személygépkocsin."
         }
-      ],
-      "sourceKerdesSorszam": 39,
-      "sourceHash": "bfbc65d6e218"
+      ]
     },
     {
       "question": "Mikor a 110. cikk, és mikor a 30. cikk dönt a pénzügyi teherről a C-24/68. sz. ügy és a Nádasdi-ügy elhatárolása szerint?",
@@ -1081,9 +1003,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a két pénzügyi zár elválasztott tárgyú. A C-24/68. sz. ügy szerint azonos hatású díj a határátlépéshez kötött, egyoldalú pénzügyi teher, míg a hasonló belföldi termékre azonos módon kivetett belső adó nem e fogalom alá esik. Az EUMSZ 110. cikk a hasonló jellegű hazai termékhez mért magasabb belső adót, illetve a közvetett védelmet tiltja. A C-290/05. sz. Nádasdi-ügy a 110. cikk első mondatának semlegességi próbáját a használt személygépkocsi regisztrációs adóján teszi operatívvá."
         }
-      ],
-      "sourceKerdesSorszam": 40,
-      "sourceHash": "b6479c9bdf59"
+      ]
     },
     {
       "question": "A Cassis de Dijon-ügy mely példákat nevezi meg a feltétlenül érvényesítendő követelmények között, és milyen feltétellel?",
@@ -1108,9 +1028,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a feltétlenül érvényesítendő követelmények példái a 36. cikken kívüli pályán állnak. A C-120/78. sz. Cassis de Dijon ügy szerint közös szabályozás hiányában el kell fogadni a nemzeti jogszabályok különbségeiből eredő akadályokat, amennyiben azok feltétlenül érvényesítendő követelményeknek való megfelelés érdekében szükségesek: különösen az adóellenőrzés hatékonysága, a közegészség védelme, a kereskedelmi ügyletek tisztességessége vagy a fogyasztóvédelem. Az EUMSZ 36. cikk kimerítő listája e címke alatt nem bővíthető. A diszkriminatív szabályra a Cassis-pálya nem nyílik."
         }
-      ],
-      "sourceKerdesSorszam": 41,
-      "sourceHash": "7ccdd9775dbc"
+      ]
     },
     {
       "question": "Mi a jogkövetkezménye annak, ha a harmadik országbeli termék a 29. cikk szerint szabad forgalomba került, a 28. cikk (2) bekezdése alapján?",
@@ -1135,9 +1053,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a (2) bekezdés a szabad forgalmú harmadik országbeli termékre is kiterjed. A helyes: az EUMSZ 28. cikk (2) bekezdése a 30. cikk és a mennyiségi korlátozásokról szóló fejezet (34–35. cikk) hatályát a tagállamokból származó, továbbá a harmadik országokból érkező és a tagállamokban szabad forgalomban lévő termékekre alkalmazza. A második fordulat elhagyása a vámuniót lyukassá tenné. A tévedés a származó árukra szűkít."
         }
-      ],
-      "sourceKerdesSorszam": 42,
-      "sourceHash": "7a4d4deeeae6"
+      ]
     },
     {
       "question": "A 37. cikk (1) és (3) bekezdése milyen kiigazítási és mezőgazdasági korlátot állít a kereskedelmi jellegű állami monopólium elé a Costa-ügy olvasatával együtt?",
@@ -1162,9 +1078,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a (3) bekezdés nem oldja fel a standstillt. A helyes: az EUMSZ 37. cikk (3) bekezdése a termelők foglalkoztatására és életszínvonalára vonatkozó egyenértékű biztosítékot követeli; a (2) bekezdés standstillje fennmarad. A C-6/64. sz. Costa-ügy a diszkriminációs tilalmat a kereskedelmi jellegű monopóliumnál erősíti. A tévedés a biztosítékot mentesítéssé olvassa."
         }
-      ],
-      "sourceKerdesSorszam": 43,
-      "sourceHash": "6b2dba38afeb"
+      ]
     },
     {
       "question": "Mi a Cassis de Dijon-ügy rendelkező részének lényege a minimális alkoholtartalomra nézve, a közegészségügyi és fogyasztóvédelmi érvek elvetése után?",
@@ -1189,9 +1103,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a közegészségügyi hivatkozás nem helyezi a szabályt a 37. cikk alá. A helyes: a C-120/78. sz. ügy a 37. cikket kizárja, mert a szabály nem a monopólium kizárólagossági jogának gyakorlása, hanem általános forgalmazási előírás, és a minimális alkoholtartalmat a 34. cikk alapján vizsgálja. Közömbös, hogy a termékek a monopólium körébe tartoznak-e. A tévedés a 34. és a 37. cikk pályáját cseréli fel."
         }
-      ],
-      "sourceKerdesSorszam": 44,
-      "sourceHash": "e19d12062ade"
+      ]
     },
     {
       "question": "A tagállam a behozott áru határátlépésekor „kezelési díjat” vet ki, amelyet a belföldi forgalomban nem alkalmaznak. Mely megállapítások állják meg a helyüket?",
@@ -1216,9 +1128,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a diszkrimináció nem feltétele az azonos hatású díjnak. A helyes: a C-24/68. sz. ügy szerint a határátlépéshez kötött teher akkor is tilos, ha nem diszkriminatív, nem védő jellegű, és nincs belföldi versenytárs. Az EUMSZ 30. cikke a teher határátlépési oka szerint dől el. A védő jelleg követelményének ráírása hibás a vámtilalomra."
         }
-      ],
-      "sourceKerdesSorszam": 45,
-      "sourceHash": "80a9c9254615"
+      ]
     },
     {
       "question": "A 36. cikk második mondata milyen belső korlátot állít a szerződéses indokokra hivatkozó korlátozás elé?",
@@ -1243,9 +1153,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a második mondat a kivétel belső záradéka. Az EUMSZ 36. cikke e tilalmat a 34. és a 35. cikk alóli kivételhez fűzi. A C-8/74. sz. Dassonville-ügy a rejtett korlátozás tilalmát a párhuzamos behozatalt ellehetetlenítő alakiságon alkalmazza. A Bíróság a kivételt szűken olvassa, a konkrét tényállás elemei alapján."
         }
-      ],
-      "sourceKerdesSorszam": 46,
-      "sourceHash": "fbd158ea99e3"
+      ]
     }
   ]
 }

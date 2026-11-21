@@ -1,0 +1,985 @@
+{
+  "id": "3",
+  "parentId": "MF2FT2smr1bPph5uVGed",
+  "variantIndex": 3,
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "EUSZ 15. cikk",
+      "text": "(1) Az Európai Tanács adja az Uniónak a __[b1]__ ösztönzést, és __[b2]__ annak általános politikai irányait és prioritásait. Az Európai Tanács __[b3]__ jogalkotási feladatokat. (2) Az Európai Tanács a __[b4]__ állam-, illetve kormányfőiből, valamint __[b5]__ és a Bizottság elnökéből áll. __[b6]__ az Unió __[b7]__ f őképviselője. (3) Az Európai Tanács, __[b8]__, félévente kétszer __[b9]__. Amikor a __[b10]__, __[b11]__, hogy munkájukat __[b12]__, illetve a Bizottság elnökének esetében __[b13]__. __[b14]__, az elnök az Európai Tanácsot rendkívüli ülésre hívja össze. (4) Ha a __[b15]__, az Európai Tanács konszenzussal __[b16]__. (5) Az Európai Tanács __[b17]__, két és fél éves __[b18]__ elnökét; az elnök megbízatása egy alkalommal __[b19]__. __[b20]__ súlyos hivatali mulasztás esetén az Európai Tanács az elnök megbízatását __[b21]__ megszüntetheti. (6) Az Európai Tanács elnöke: a) __[b22]__ az Európai Tanács ülésein, és lendületet ad munkájának, b) a Bizottság elnökével együttműködve és az Általános Ügyek Tanácsában folytatott munka alapján gondoskodik az Európai Tanács munkájának __[b23]__, c) __[b24]__ az Európai Tanácson belüli kohézió és konszenzus megteremtésére, d) az Európai Tanács minden ülését követően jelentést nyújt be az Európai Parlamentnek. Az Európai Tanács elnöke  a saját szintjén és e minőségében, valamint az Unió külügyi és bizton ságpolitikai főképviselője hatáskörének sérelme nélkül – ellátja az Unió küls ő képviseletét a közös kül- és biztonságpolitikához tartozó ügyekben. Az Európai Tanács elnöke semmilyen nemzeti tisztséget nem tölthet be.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "fejlődéséhez szükséges"
+        },
+        {
+          "id": "b2",
+          "answer": "meghatározza"
+        },
+        {
+          "id": "b3",
+          "answer": "nem lát el"
+        },
+        {
+          "id": "b4",
+          "answer": "tagállamok"
+        },
+        {
+          "id": "b5",
+          "answer": "saját elnökéből"
+        },
+        {
+          "id": "b6",
+          "answer": "Munkájában részt vesz"
+        },
+        {
+          "id": "b7",
+          "answer": "külügyi és biztonságpolitikai"
+        },
+        {
+          "id": "b8",
+          "answer": "elnökének összehívására"
+        },
+        {
+          "id": "b9",
+          "answer": "ülésezik"
+        },
+        {
+          "id": "b10",
+          "answer": "napirend úgy kívánja"
+        },
+        {
+          "id": "b11",
+          "answer": "tagjai úgy határozhatnak"
+        },
+        {
+          "id": "b12",
+          "answer": "tagonként egy miniszter"
+        },
+        {
+          "id": "b13",
+          "answer": "egy biztos segítse"
+        },
+        {
+          "id": "b14",
+          "answer": "Ha a helyzet úgy kívánja"
+        },
+        {
+          "id": "b15",
+          "answer": "Szerződések eltérően nem rendelkeznek"
+        },
+        {
+          "id": "b16",
+          "answer": "dönt"
+        },
+        {
+          "id": "b17",
+          "answer": "minősített többséggel"
+        },
+        {
+          "id": "b18",
+          "answer": "időtartamra választja meg"
+        },
+        {
+          "id": "b19",
+          "answer": "megújítható"
+        },
+        {
+          "id": "b20",
+          "answer": "Akadályoztatás vagy"
+        },
+        {
+          "id": "b21",
+          "answer": "ugyanilyen eljárással"
+        },
+        {
+          "id": "b22",
+          "answer": "elnököl"
+        },
+        {
+          "id": "b23",
+          "answer": "előkészítéséről és folyamatosságáról"
+        },
+        {
+          "id": "b24",
+          "answer": "erőfeszítéseket tesz"
+        }
+      ],
+      "distractors": [
+        "működéséhez elengedhetetlen",
+        "jóváhagyja",
+        "kizárólagosan lát el",
+        "intézmények",
+        "általa kijelölt tagjaiból",
+        "Tanácskozásain jelen van",
+        "gazdasági és pénzügyi",
+        "saját kezdeményezésére",
+        "tanácskozik",
+        "helyzet indokolja",
+        "kötelesek úgy eljárni",
+        "minden tagállam két képviselője",
+        "egy főigazgató támogassa",
+        "Rendkívüli esemény esetén",
+        "jogszabályok kifejezetten előírják",
+        "javaslatot tesz",
+        "egyszerű többséggel",
+        "határozatlan időre nevezi ki",
+        "nem hosszabbítható meg",
+        "Felmentés vagy",
+        "külön jogszabályban meghatározott módon",
+        "irányítja",
+        "végrehajtásáról és ellenőrzéséről",
+        "kizárólagosan felel"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "EUSZ 16. cikk",
+      "text": "(1) A Tanács, az __[b1]__, __[b2]__ a __[b3]__ feladatokat. A Szerződésekben __[b4]__ politikameghatározási és koordinatív feladatokat lát el. (2) A Tanács a __[b5]__, miniszteri szintű képviselőjéből áll, aki az általa __[b6]__ kötelezettséget vállalhat és szavazhat. (3) __[b7]__, a Tanács minősített többséggel __[b8]__. (4) 2014. november 1-jétől a minősített többséghez __[b9]__ legalább 55%-ának – legalább tizenöt tag által leadott, egyben az Unió népességének legalább 65%-át kitevő __[b10]__ – __[b11]__. A blokkoló kisebbségnek a Tanács legalább négy tagjából kell állnia, ennek hiányában a minősített többséget __[b12]__. A minősített többségi szavazásra __[b13]__ az Európai Unió működéséről szóló szerződés __[b14]__ __[b15]__. (5) A __[b16]__, __[b17]__ alkalmazandó, a minősített többség __[b18]__ átmeneti rendelkezéseket az átmeneti rendelkezésekről szóló __[b19]__. (6) A Tanács különböző formációkban ülésezik, a formációk __[b20]__ az Európai Unió működéséről szóló szerződés __[b21]__ __[b22]__. Az Általános Ügyek Tanácsa __[b23]__ a Tanács különböző formációiban folyó munka összhangjáról. Az Általános Ügyek Tanácsa, az Európai Tanács elnökével és a Bizottsággal __[b24]__, gondoskodik az Európai Tanács üléseinek előkészítéséről és nyomon követéséről. A Külügyek Tanácsa az Európai Tanács által meghatározott stratégiai iránymutatások alapján kidolgozza az Unió külső tevékenységét, és gondoskodik az Unió tevékenységeinek összhangjáról. (7) A tagállamok kormányai állandó képviselőinek bizottsága felel a Tanács munkájának előkészítéséért. (8) A Tanács ülései, amikor azokon jogalkotási aktus tervezetéről tanácskoznak vagy szavaznak, nyilvánosak. Ennek érdekében a Tanács ülései két részre tagolódnak: egy uniós jogalkotási aktusokra vonatkozó __[b25]__ és egy nem jogalkotási tevékenységgel foglalkozó részre. (9) A Tanács különböző formációinak elnökségét, a Külügyek Tanácsának kivételével, a Tanácsban részt vevő tagállami képviselők látják el az Európai Unió működéséről szóló szerződés 236. cikkének meghatározott feltételeknek megfelelően, egy egyenjogúságon alapuló rotációs rendszer szerint.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Európai Parlamenttel közösen"
+        },
+        {
+          "id": "b2",
+          "answer": "ellátja"
+        },
+        {
+          "id": "b3",
+          "answer": "jogalkotási és költségvetési"
+        },
+        {
+          "id": "b4",
+          "answer": "meghatározott feltételek szerint"
+        },
+        {
+          "id": "b5",
+          "answer": "tagállamok egy-egy olyan"
+        },
+        {
+          "id": "b6",
+          "answer": "képviselt tagállam kormánya nevében"
+        },
+        {
+          "id": "b7",
+          "answer": "Ha a Szerződések eltérően nem rendelkeznek"
+        },
+        {
+          "id": "b8",
+          "answer": "határoz"
+        },
+        {
+          "id": "b9",
+          "answer": "a Tanács tagjai"
+        },
+        {
+          "id": "b10",
+          "answer": "tagállamokat képviselő"
+        },
+        {
+          "id": "b11",
+          "answer": "szavazata szükséges"
+        },
+        {
+          "id": "b12",
+          "answer": "elértnek kell tekinteni"
+        },
+        {
+          "id": "b13",
+          "answer": "alkalmazandó egyéb szabályokat"
+        },
+        {
+          "id": "b14",
+          "answer": "238. cikkének (2) bekezdése"
+        },
+        {
+          "id": "b15",
+          "answer": "állapítja meg"
+        },
+        {
+          "id": "b16",
+          "answer": "2014. október 31-ig"
+        },
+        {
+          "id": "b17",
+          "answer": "valamint a 2014. november 1. és 2017. március 31. között"
+        },
+        {
+          "id": "b18",
+          "answer": "meghatározására vonatkozó"
+        },
+        {
+          "id": "b19",
+          "answer": "jegyzőkönyv állapítja meg"
+        },
+        {
+          "id": "b20",
+          "answer": "listájának elfogadására"
+        },
+        {
+          "id": "b21",
+          "answer": "236. cikkének megfelelően"
+        },
+        {
+          "id": "b22",
+          "answer": "kerül sor"
+        },
+        {
+          "id": "b23",
+          "answer": "gondoskodik"
+        },
+        {
+          "id": "b24",
+          "answer": "kapcsolatot tartva"
+        },
+        {
+          "id": "b25",
+          "answer": "döntéshozatallal foglalkozó"
+        }
+      ],
+      "distractors": [
+        "Bizottsággal egyetértésben",
+        "javasolja",
+        "igazgatási és ellenőrzési",
+        "saját belátása szerint",
+        "összes tagállam delegáltjai",
+        "személyes minőségében",
+        "Amennyiben a jogszabályok előírják",
+        "egyetértést keres",
+        "a Bizottság képviselői",
+        "intézményeket képviselő",
+        "véleménye kikérhető",
+        "érvénytelennek kell nyilvánítani",
+        "kiegészítő rendelkezéseket",
+        "237. cikkének (1) bekezdése",
+        "rögzíti",
+        "2015. január 1-től",
+        "illetve a 2018. január 1. és 2020. december 31. közötti",
+        "értelmezésére irányuló",
+        "rendelet tartalmazza",
+        "összetételének felülvizsgálatára",
+        "235. cikkének értelmében",
+        "lehetséges",
+        "felügyeli",
+        "konzultálva",
+        "tájékoztatással kapcsolatos"
+      ]
+    },
+    {
+      "id": "s3",
+      "cimke": "EUMSZ 235. cikk",
+      "text": "(1) __[b1]__ az __[b2]__ __[b3]__ __[b4]__ __[b5]__ __[b6]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Szavazás esetén"
+        },
+        {
+          "id": "b2",
+          "answer": "Európai Tanács"
+        },
+        {
+          "id": "b3",
+          "answer": "bármely tagja"
+        },
+        {
+          "id": "b4",
+          "answer": "legfeljebb még egy"
+        },
+        {
+          "id": "b5",
+          "answer": "másik tag"
+        },
+        {
+          "id": "b6",
+          "answer": "képviseletében is eljárhat"
+        }
+      ],
+      "distractors": [
+        "Döntéshozatal során",
+        "Európai Parlament",
+        "az elnöke",
+        "legalább két",
+        "intézmény",
+        "meghatalmazást adhat"
+      ]
+    },
+    {
+      "id": "s4",
+      "cimke": "EUMSZ 236. cikk",
+      "text": "Az __[b1]__ __[b2]__ __[b3]__: a) __[b4]__ __[b5]__ __[b6]__ az __[b7]__ és a __[b8]__ __[b9]__ __[b10]__ __[b11]__; b) az Európai Unióról szóló szerződés __[b12]__ megfelelően a Külügyek Taná csának kivételével a Tanács __[b13]__ __[b14]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Európai Tanács"
+        },
+        {
+          "id": "b2",
+          "answer": "minősített többséggel"
+        },
+        {
+          "id": "b3",
+          "answer": "fogadja el"
+        },
+        {
+          "id": "b4",
+          "answer": "az Európai Unióról szóló szerződés"
+        },
+        {
+          "id": "b5",
+          "answer": "16. cikke (6) bekezdésének"
+        },
+        {
+          "id": "b6",
+          "answer": "megfelelően"
+        },
+        {
+          "id": "b7",
+          "answer": "Általános Ügyek Tanácsának"
+        },
+        {
+          "id": "b8",
+          "answer": "Külügyek Tanácsának kivételével"
+        },
+        {
+          "id": "b9",
+          "answer": "a Tanács"
+        },
+        {
+          "id": "b10",
+          "answer": "formációinak listáját"
+        },
+        {
+          "id": "b11",
+          "answer": "meghatározó határozatot"
+        },
+        {
+          "id": "b12",
+          "answer": "16. cikke (9) bekezdésének"
+        },
+        {
+          "id": "b13",
+          "answer": "formációinak elnökségéről"
+        },
+        {
+          "id": "b14",
+          "answer": "szóló határozatot"
+        }
+      ],
+      "distractors": [
+        "Bizottság",
+        "egyszerű többséggel",
+        "jóváhagyja",
+        "az Európai Közösséget létrehozó szerződés",
+        "15. cikke (4) bekezdésének",
+        "figyelembe véve",
+        "Külügyek Tanácsának",
+        "valamennyi formációja esetében",
+        "a Bizottság",
+        "tagjainak jegyzékét",
+        "iránymutató állásfoglalást",
+        "15. cikke (7) bekezdésének",
+        "tagjainak kiválasztásáról",
+        "vonatkozó javaslatot"
+      ]
+    },
+    {
+      "id": "s5",
+      "cimke": "EUMSZ 237. cikk",
+      "text": "(az EKSz. korábbi 204. cikke) A __[b1]__ __[b2]__, illetve __[b3]__ __[b4]__ vagy __[b5]__ __[b6]__ __[b7]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Tanácsot"
+        },
+        {
+          "id": "b2",
+          "answer": "saját kezdeményezésére"
+        },
+        {
+          "id": "b3",
+          "answer": "a Tanács"
+        },
+        {
+          "id": "b4",
+          "answer": "valamely tagja"
+        },
+        {
+          "id": "b5",
+          "answer": "a Bizottság kérésére"
+        },
+        {
+          "id": "b6",
+          "answer": "a Tanács elnöke"
+        },
+        {
+          "id": "b7",
+          "answer": "hívja össze"
+        }
+      ],
+      "distractors": [
+        "Parlamentet",
+        "külső felkérésre",
+        "az Európai Tanács",
+        "összes tagja",
+        "az elnök utasítására",
+        "a Bizottság elnöke",
+        "tájékoztatja"
+      ]
+    },
+    {
+      "id": "s6",
+      "cimke": "EUMSZ 238. cikk",
+      "text": "(az EKSz. korábbi 205. cikkének (1) és (2) bekezdése) (1) Az __[b1]__ __[b2]__ a Tanács tagjainak többségével __[b3]__. (2) Az Európai Unióról szóló szerződés __[b4]__ __[b5]__, __[b6]__ átmeneti rendelkezésekről szóló jegyzőkönyvben megállapított __[b7]__, ha a Tanács __[b8]__ __[b9]__ külügyi és biztonságpolitikai f őképviselőjének __[b10]__ jár el, a minősített többséghez a Tanács tagjai legalább 72 %-ának a szavazata __[b11]__, __[b12]__ az Unió népességének legalább 65 %-át __[b13]__. (3) Figyelemmel az átmeneti rendelkezésekről szóló jegyzőkönyvben megállapított rendelkezé sekre, 2014. november 1-jétől azokban az esetekben, amikor a Szerződések értelmében a Tanácsnak nem az összes tagja vesz részt a szavazásban, __[b14]__ a következőképpen kell meghatározni: a) A minősített többséghez a szavazásban részt vevő tagállamokat képviselő tanácsi tagok legalább 55 %-ának a szavazata szükséges, akik egyben ezen tagállamok népességének legalább 65 %-át képviselik. __[b15]__ __[b16]__ a __[b17]__ több mint 35 %-át képviselő tagjaiból és még egy tagból __[b18]__; __[b19]__ a minősített többséget __[b20]__. b) __[b21]__, ha a Tanács nem a Bizottságnak vagy az Unió külügyi és biztonságpolitikai __[b22]__ alapján jár el, a minősített többséghez a részt vevő tagállamokat képviselő tanácsi tagok legalább 72 %-ának a szavazata szükséges, akik egyben ezen tagállamok népességének legalább 65 %-át képviselik. (4) A jelen lévő vagy képviselt tagok tartózkodása __[b23]__ a Tanács egyhangúságot igénylő __[b24]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "egyszerű többséget igénylő"
+        },
+        {
+          "id": "b2",
+          "answer": "jogi aktusok elfogadásakor"
+        },
+        {
+          "id": "b3",
+          "answer": "jár el"
+        },
+        {
+          "id": "b4",
+          "answer": "16. cikke (4) bekezdésétől eltérve"
+        },
+        {
+          "id": "b5",
+          "answer": "2014. november 1- jétől"
+        },
+        {
+          "id": "b6",
+          "answer": "figyelemmel az"
+        },
+        {
+          "id": "b7",
+          "answer": "rendelkezésekre"
+        },
+        {
+          "id": "b8",
+          "answer": "nem a Bizottságnak"
+        },
+        {
+          "id": "b9",
+          "answer": "vagy az Unió"
+        },
+        {
+          "id": "b10",
+          "answer": "a javaslata alapján"
+        },
+        {
+          "id": "b11",
+          "answer": "szükséges"
+        },
+        {
+          "id": "b12",
+          "answer": "akik egyben"
+        },
+        {
+          "id": "b13",
+          "answer": "kitevő tagállamokat képviselik"
+        },
+        {
+          "id": "b14",
+          "answer": "a minősített többséget"
+        },
+        {
+          "id": "b15",
+          "answer": "A blokkoló kisebbségnek"
+        },
+        {
+          "id": "b16",
+          "answer": "legalább a Tanácsnak"
+        },
+        {
+          "id": "b17",
+          "answer": "részt vevő tagállamok népességének"
+        },
+        {
+          "id": "b18",
+          "answer": "kell állnia"
+        },
+        {
+          "id": "b19",
+          "answer": "ennek hiányában"
+        },
+        {
+          "id": "b20",
+          "answer": "elértnek kell tekinteni"
+        },
+        {
+          "id": "b21",
+          "answer": "Az a) ponttól eltérve"
+        },
+        {
+          "id": "b22",
+          "answer": "főképviselőjének a javaslata"
+        },
+        {
+          "id": "b23",
+          "answer": "nem akadálya"
+        },
+        {
+          "id": "b24",
+          "answer": "jogi aktusai elfogadásának"
+        }
+      ],
+      "distractors": [
+        "minősített többséggel elfogadott",
+        "iránymutatások kiadásakor",
+        "állásfoglalást ad ki",
+        "15. cikke (2) bekezdése szerint",
+        "2015. január 1-től",
+        "mellőzve a",
+        "ajánlásokra",
+        "kizárólag a Bizottságnak",
+        "és a tagállamok",
+        "saját kezdeményezésére",
+        "lehetséges",
+        "azonban",
+        "alkotó intézményeket felölelnek",
+        "az egyszerű többséget",
+        "az egyszerű többségnek",
+        "valamennyi tagállamnak",
+        "összes tagállam képviselőinek",
+        "lehet alkotnia",
+        "ilyen esetben",
+        "érvénytelennek kell nyilvánítani",
+        "A b) ponttal összhangban",
+        "elnökének kezdeményezése",
+        "feltétele",
+        "iránymutatásai kiadásának"
+      ]
+    },
+    {
+      "id": "s7",
+      "cimke": "EUMSZ 239. cikk",
+      "text": "(az EKSz. korábbi 206. cikke) __[b1]__ __[b2]__ __[b3]__ __[b4]__ __[b5]__ __[b6]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Szavazás esetén"
+        },
+        {
+          "id": "b2",
+          "answer": "a Tanács"
+        },
+        {
+          "id": "b3",
+          "answer": "bármely tagja"
+        },
+        {
+          "id": "b4",
+          "answer": "legfeljebb még egy"
+        },
+        {
+          "id": "b5",
+          "answer": "másik tag"
+        },
+        {
+          "id": "b6",
+          "answer": "képviseletében is eljárhat"
+        }
+      ],
+      "distractors": [
+        "Döntéshozatal során",
+        "az Európai Tanács",
+        "az elnöke",
+        "legalább két",
+        "intézmény",
+        "meghatalmazást adhat"
+      ]
+    },
+    {
+      "id": "s8",
+      "cimke": "EUMSZ 240. cikk",
+      "text": "(az EKSz. korábbi 207. cikke) (1) A __[b1]__ és __[b2]__ __[b3]__ __[b4]__ egy, a __[b5]__ __[b6]__. __[b7]__ a Tanács __[b8]__ __[b9]__ __[b10]__ __[b11]__. (2) A Tanács __[b12]__ az általa __[b13]__ __[b14]__ __[b15]__. __[b16]__ __[b17]__ __[b18]__ __[b19]__. (3) A Tanács __[b20]__, __[b21]__ __[b22]__ egyszerű több séggel __[b23]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Tanács munkájának előkészítése"
+        },
+        {
+          "id": "b2",
+          "answer": "a Tanács"
+        },
+        {
+          "id": "b3",
+          "answer": "által adott"
+        },
+        {
+          "id": "b4",
+          "answer": "megbízatások teljesítése"
+        },
+        {
+          "id": "b5",
+          "answer": "tagállamok állandó képviselőiből"
+        },
+        {
+          "id": "b6",
+          "answer": "álló bizottság feladata"
+        },
+        {
+          "id": "b7",
+          "answer": "A bizottság"
+        },
+        {
+          "id": "b8",
+          "answer": "eljárási szabályzatában"
+        },
+        {
+          "id": "b9",
+          "answer": "előírt esetekben"
+        },
+        {
+          "id": "b10",
+          "answer": "eljárási határozatokat"
+        },
+        {
+          "id": "b11",
+          "answer": "fogadhat el"
+        },
+        {
+          "id": "b12",
+          "answer": "munkáját"
+        },
+        {
+          "id": "b13",
+          "answer": "kinevezett főtitkár"
+        },
+        {
+          "id": "b14",
+          "answer": "irányítása alatt álló Főtitkárság"
+        },
+        {
+          "id": "b15",
+          "answer": "segíti"
+        },
+        {
+          "id": "b16",
+          "answer": "A Főtitkárság"
+        },
+        {
+          "id": "b17",
+          "answer": "szervezetét"
+        },
+        {
+          "id": "b18",
+          "answer": "a Tanács határozza meg"
+        },
+        {
+          "id": "b19",
+          "answer": "egyszerű többséggel"
+        },
+        {
+          "id": "b20",
+          "answer": "eljárási kérdésekben"
+        },
+        {
+          "id": "b21",
+          "answer": "valamint eljárási szabályzatának"
+        },
+        {
+          "id": "b22",
+          "answer": "elfogadásakor"
+        },
+        {
+          "id": "b23",
+          "answer": "határoz"
+        }
+      ],
+      "distractors": [
+        "Bizottság tevékenységének koordinálása",
+        "az Európai Tanács",
+        "általa elfogadott",
+        "feladatok végrehajtása",
+        "szakértők csoportjából",
+        "létrehozott szerv hatásköre",
+        "a főtitkár",
+        "alapszabályában",
+        "szükséges helyzetekben",
+        "ajánlásokat",
+        "köteles kiadni",
+        "tevékenységét",
+        "megválasztott elnök",
+        "felügyelete alá tartozó hivatal",
+        "ellenőrzi",
+        "működési rendjét",
+        "a Bizottság hagyja jóvá",
+        "minősített többséggel",
+        "anyagi jogi ügyekben",
+        "és működési rendjének",
+        "módosításakor",
+        "konszenzusra törekszik"
+      ]
+    },
+    {
+      "id": "s9",
+      "cimke": "EUMSZ 241. cikk",
+      "text": "241. cikk (az EKSz. korábbi 208. cikke) __[b1]__ __[b2]__ __[b3]__ __[b4]__, hogy __[b5]__ __[b6]__ a __[b7]__ __[b8]__ __[b9]__, és __[b10]__ hozzá __[b11]__ __[b12]__. __[b13]__ __[b14]__ __[b15]__, __[b16]__ __[b17]__ __[b18]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A Tanács"
+        },
+        {
+          "id": "b2",
+          "answer": "egyszerű többséggel"
+        },
+        {
+          "id": "b3",
+          "answer": "felkérheti"
+        },
+        {
+          "id": "b4",
+          "answer": "a Bizottságot"
+        },
+        {
+          "id": "b5",
+          "answer": "végezze el"
+        },
+        {
+          "id": "b6",
+          "answer": "a Tanács által"
+        },
+        {
+          "id": "b7",
+          "answer": "közös célkitűzések eléréséhez"
+        },
+        {
+          "id": "b8",
+          "answer": "szükségesnek tartott"
+        },
+        {
+          "id": "b9",
+          "answer": "vizsgálatokat"
+        },
+        {
+          "id": "b10",
+          "answer": "terjesszen be"
+        },
+        {
+          "id": "b11",
+          "answer": "megfelelő"
+        },
+        {
+          "id": "b12",
+          "answer": "javaslatokat"
+        },
+        {
+          "id": "b13",
+          "answer": "Ha a Bizottság"
+        },
+        {
+          "id": "b14",
+          "answer": "nem terjeszt elő"
+        },
+        {
+          "id": "b15",
+          "answer": "javaslatot"
+        },
+        {
+          "id": "b16",
+          "answer": "ennek okairól"
+        },
+        {
+          "id": "b17",
+          "answer": "tájékoztatja"
+        },
+        {
+          "id": "b18",
+          "answer": "a Tanácsot"
+        }
+      ],
+      "distractors": [
+        "A Bizottság",
+        "minősített többséggel",
+        "elrendelheti",
+        "vizsgálja meg",
+        "a Bizottság által",
+        "egyedi érdekek érvényesítéséhez",
+        "indokoltnak ítélt",
+        "elemzéseket",
+        "nyújtson be",
+        "részletes",
+        "jelentéseket",
+        "Amennyiben a Tanács",
+        "nem tesz javaslatot",
+        "jelentést",
+        "ezen okokról",
+        "értesíti"
+      ]
+    },
+    {
+      "id": "s10",
+      "cimke": "EUMSZ 242. cikk",
+      "text": "242. cikk (az EKSz. korábbi 209. cikke) __[b1]__ __[b2]__ __[b3]__ __[b4]__ __[b5]__ __[b6]__ __[b7]__ __[b8]__ __[b9]__ __[b10]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A Tanács"
+        },
+        {
+          "id": "b2",
+          "answer": "a Bizottsággal"
+        },
+        {
+          "id": "b3",
+          "answer": "folytatott konzultációt"
+        },
+        {
+          "id": "b4",
+          "answer": "követően"
+        },
+        {
+          "id": "b5",
+          "answer": "egyszerű többséggel"
+        },
+        {
+          "id": "b6",
+          "answer": "meghatározza"
+        },
+        {
+          "id": "b7",
+          "answer": "a Szerződések által"
+        },
+        {
+          "id": "b8",
+          "answer": "előírt"
+        },
+        {
+          "id": "b9",
+          "answer": "bizottságokra vonatkozó"
+        },
+        {
+          "id": "b10",
+          "answer": "szabályokat"
+        }
+      ],
+      "distractors": [
+        "A Bizottság",
+        "az Európai Parlamenttel",
+        "előzetes egyeztetés után",
+        "alapján",
+        "minősített többséggel",
+        "rögzíti",
+        "a rendeletekben foglalt",
+        "rögzített",
+        "ügyrendi kérdéseket érintő",
+        "rendelkezéseket"
+      ]
+    },
+    {
+      "id": "s11",
+      "cimke": "EUMSZ 243. cikk",
+      "text": "(az EKSz. korábbi 210. cikke) __[b1]__ __[b2]__ __[b3]__ __[b4]__, __[b5]__, __[b6]__ __[b7]__ __[b8]__, __[b9]__, __[b10]__ __[b11]__, __[b12]__ és __[b13]__, valamint __[b14]__ __[b15]__, __[b16]__ és __[b17]__. Meghatároz továbbá minden egyéb, __[b18]__ fizetett __[b19]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A Tanács"
+        },
+        {
+          "id": "b2",
+          "answer": "meghatározza"
+        },
+        {
+          "id": "b3",
+          "answer": "az Európai Tanács"
+        },
+        {
+          "id": "b4",
+          "answer": "elnökének"
+        },
+        {
+          "id": "b5",
+          "answer": "a Bizottság elnökének"
+        },
+        {
+          "id": "b6",
+          "answer": "az Unió külügyi"
+        },
+        {
+          "id": "b7",
+          "answer": "és biztonságpolitikai"
+        },
+        {
+          "id": "b8",
+          "answer": "főképviselőjének"
+        },
+        {
+          "id": "b9",
+          "answer": "a Bizottság tagjainak"
+        },
+        {
+          "id": "b10",
+          "answer": "az Európai Unió"
+        },
+        {
+          "id": "b11",
+          "answer": "Bírósága elnökeinek"
+        },
+        {
+          "id": "b12",
+          "answer": "bíráinak"
+        },
+        {
+          "id": "b13",
+          "answer": "hivatalvezetőinek"
+        },
+        {
+          "id": "b14",
+          "answer": "a Tanács főtitkárának"
+        },
+        {
+          "id": "b15",
+          "answer": "illetményét"
+        },
+        {
+          "id": "b16",
+          "answer": "juttatásait"
+        },
+        {
+          "id": "b17",
+          "answer": "nyugdíját"
+        },
+        {
+          "id": "b18",
+          "answer": "javadalmazás helyett"
+        },
+        {
+          "id": "b19",
+          "answer": "juttatást"
+        }
+      ],
+      "distractors": [
+        "A Bizottság",
+        "megállapítja",
+        "a Bíróság",
+        "tagjainak",
+        "a Parlament elnökének",
+        "a tagállamok",
+        "és gazdaságpolitikai",
+        "képviselőjének",
+        "a tagállamok képviselőinek",
+        "az Alkotmánybíróság",
+        "főügyészeinek",
+        "ügyészeinek",
+        "jegyzőinek",
+        "a Bizottság főtitkárának",
+        "fizetését",
+        "térítéseit",
+        "végkielégítését",
+        "egyéb juttatások fejében",
+        "támogatást"
+      ]
+    }
+  ],
+  "itemCount": 11,
+  "createdAt": "2026-08-28T07:16:32.155Z"
+}

@@ -1,0 +1,1835 @@
+{
+  "id": "1",
+  "parentId": "vJO4LiLO7wr4qD3acjNY",
+  "variantIndex": 1,
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "EUMSZ 101. cikk",
+      "text": "(az EKSz. korábbi 81. cikke) (1) A __[b1]__ __[b2]__ minden olyan vállalkozások közötti megállapodás, vállalkozások társulásai által hozott __[b3]__ és összehangolt magatartás, amely hatással lehet a tagállamok közötti kereskedelemre, és amelynek célja vagy hatása a __[b4]__ __[b5]__ __[b6]__, __[b7]__ vagy __[b8]__, így különösen: a) a beszerzési vagy eladási árak, illetve bármely egyéb __[b9]__ __[b10]__ __[b11]__; b) a termelés, az értékesítés, a műszaki fejlesztés vagy a __[b12]__ korlátozása vagy ellenőrzése; c) a piacok vagy a beszerzési források __[b13]__; d) egyenértékű ügyletek esetén __[b14]__ __[b15]__ az __[b16]__, ami által azok hátrányos versenyhelyzetbe kerülnek; e) a szerződések megkötésének függővé tétele olyan kiegészítő kötelezettségeknek a másik fél részéről történő __[b17]__, amelyek sem természetüknél fogva, sem a kereskedelmi szokások szerint nem tartoznak a __[b18]__. (2) Az e cikk alapján __[b19]__ vagy döntés __[b20]__. (3) Az (1) bekezdés rendelkezéseinek __[b21]__ azonban __[b22]__ az olyan esetekben, amikor — vállalkozások közötti megállapodás vagy megállapodások csoportja; — vállalkozások társulásai által hozott döntés vagy döntések csoportja; — összehangolt magatartás vagy összehangolt magatartások csoportja __[b23]__ az áruk termelésének vagy forgalmazásának __[b24]__, illetve a műszaki vagy gazdasági fejlődés __[b25]__, ugyanakkor lehetővé teszi a fogyasztók méltányos részesedését a belőle eredő előnyből anélkül, hogy: a) az érintett vállalkozásokra olyan korlátozásokat róna, amelyek e célok eléréséhez nem nélkülözhetetlenek; b) lehetővé tenné ezeknek a vállalkozásoknak, hogy a kérdéses áruk jelentős része tekintetében megszüntessék a versenyt.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "belső piaccal"
+        },
+        {
+          "id": "b2",
+          "answer": "összeegyeztethetetlen és tilos"
+        },
+        {
+          "id": "b3",
+          "answer": "döntés"
+        },
+        {
+          "id": "b4",
+          "answer": "belső piacon belüli"
+        },
+        {
+          "id": "b5",
+          "answer": "verseny"
+        },
+        {
+          "id": "b6",
+          "answer": "megakadályozása"
+        },
+        {
+          "id": "b7",
+          "answer": "korlátozása"
+        },
+        {
+          "id": "b8",
+          "answer": "torzítása"
+        },
+        {
+          "id": "b9",
+          "answer": "üzleti feltétel"
+        },
+        {
+          "id": "b10",
+          "answer": "közvetlen vagy közvetett"
+        },
+        {
+          "id": "b11",
+          "answer": "rögzítése"
+        },
+        {
+          "id": "b12",
+          "answer": "befektetés"
+        },
+        {
+          "id": "b13",
+          "answer": "felosztása"
+        },
+        {
+          "id": "b14",
+          "answer": "eltérő feltételek"
+        },
+        {
+          "id": "b15",
+          "answer": "alkalmazása"
+        },
+        {
+          "id": "b16",
+          "answer": "üzletfelekkel szemben"
+        },
+        {
+          "id": "b17",
+          "answer": "vállalásától"
+        },
+        {
+          "id": "b18",
+          "answer": "szerződés tárgyához"
+        },
+        {
+          "id": "b19",
+          "answer": "tiltott megállapodás"
+        },
+        {
+          "id": "b20",
+          "answer": "semmis"
+        },
+        {
+          "id": "b21",
+          "answer": "alkalmazásától"
+        },
+        {
+          "id": "b22",
+          "answer": "el lehet tekinteni"
+        },
+        {
+          "id": "b23",
+          "answer": "hozzájárul"
+        },
+        {
+          "id": "b24",
+          "answer": "javításához"
+        },
+        {
+          "id": "b25",
+          "answer": "előmozdításához"
+        }
+      ],
+      "distractors": [
+        "külső piaccal",
+        "megengedett és támogatott",
+        "intézkedés",
+        "nemzeti piacon belüli",
+        "monopólium",
+        "elősegítése",
+        "kiterjesztése",
+        "helyreállítása",
+        "jogi feltétel",
+        "kizárólagos",
+        "változtatása",
+        "profit",
+        "összevonása",
+        "azonos feltételek",
+        "értelmezése",
+        "hatóságokkal szemben",
+        "elutasításától",
+        "jogszabály céljához",
+        "engedélyezett megállapodás",
+        "érvényes",
+        "értelmezésétől",
+        "el kell tekinteni",
+        "akadályozza",
+        "rontásához",
+        "gátlásához"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "EUMSZ 102. cikk",
+      "text": "(az EKSz. korábbi 82. cikke) A __[b1]__ __[b2]__ egy vagy több vállalkozásnak a belső piacon vagy annak jelentős részén meglévő __[b3]__ való __[b4]__, amennyiben ez __[b5]__ a __[b6]__. Ilyen visszaélésnek minősül különösen: a) tisztességtelen beszerzési vagy eladási árak, illetve egyéb tisztességtelen __[b7]__ __[b8]__ __[b9]__; b) a termelés, az értékesítés vagy a műszaki fejlesztés __[b10]__ a __[b11]__; c) egyenértékű ügyletek esetén __[b12]__ __[b13]__ az üzletfelekkel szemben, ami által azok __[b14]__ __[b15]__; d) a szerződések megkötésének __[b16]__ olyan __[b17]__ a másik fél részéről történő vállalásától, amelyek sem természetüknél fogva, sem a kereskedelmi szokások szerint __[b18]__ a __[b19]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "belső piaccal"
+        },
+        {
+          "id": "b2",
+          "answer": "összeegyeztethetetlen és tilos"
+        },
+        {
+          "id": "b3",
+          "answer": "erőfölényével"
+        },
+        {
+          "id": "b4",
+          "answer": "visszaélése"
+        },
+        {
+          "id": "b5",
+          "answer": "hatással lehet"
+        },
+        {
+          "id": "b6",
+          "answer": "tagállamok közötti kereskedelemre"
+        },
+        {
+          "id": "b7",
+          "answer": "üzleti feltételek"
+        },
+        {
+          "id": "b8",
+          "answer": "közvetlen vagy közvetett"
+        },
+        {
+          "id": "b9",
+          "answer": "kikötése"
+        },
+        {
+          "id": "b10",
+          "answer": "korlátozása"
+        },
+        {
+          "id": "b11",
+          "answer": "fogyasztók kárára"
+        },
+        {
+          "id": "b12",
+          "answer": "eltérő feltételek"
+        },
+        {
+          "id": "b13",
+          "answer": "alkalmazása"
+        },
+        {
+          "id": "b14",
+          "answer": "hátrányos versenyhelyzetbe"
+        },
+        {
+          "id": "b15",
+          "answer": "kerülnek"
+        },
+        {
+          "id": "b16",
+          "answer": "függővé tétele"
+        },
+        {
+          "id": "b17",
+          "answer": "kiegészítő kötelezettségeknek"
+        },
+        {
+          "id": "b18",
+          "answer": "nem tartoznak"
+        },
+        {
+          "id": "b19",
+          "answer": "szerződés tárgyához"
+        }
+      ],
+      "distractors": [
+        "külső piaccal",
+        "összeegyeztethető és megengedett",
+        "hátrányával",
+        "kihasználása",
+        "nem lehet hatással",
+        "egy tagállamon belüli kereskedelemre",
+        "általános feltételek",
+        "kizárólagos",
+        "engedélyezése",
+        "támogatása",
+        "vállalkozások kárára",
+        "azonos feltételek",
+        "felfüggesztése",
+        "előnyös versenyhelyzetbe",
+        "vezetnek",
+        "megakadályozása",
+        "fő kötelezettségeknek",
+        "tartoznak",
+        "jogszabály céljához"
+      ]
+    },
+    {
+      "id": "s3",
+      "cimke": "EUMSZ 103. cikk",
+      "text": "(az EKSz. korábbi 83. cikke) (1) A 101. és 102. cikkben meghatározott __[b1]__ szolgáló __[b2]__ vagy __[b3]__ __[b4]__ a __[b5]__, az __[b6]__ folytatott __[b7]__ __[b8]__. (2) Az (1) bekezdésben említett rendeletek vagy irányelvek __[b9]__: a) a 101. cikk (1) bekezdésében és a 102. cikkben megállapított __[b10]__ __[b11]__ vagy __[b12]__ __[b13]__; b) a 101. cikk (3) bekezdésének alkalmazására __[b14]__, figyelembe véve egyrészről a __[b15]__, másrészről a __[b16]__ lehető legnagyobb mértékű __[b17]__ __[b18]__; c) __[b19]__ a 101. és 102. cikk rendelkezései __[b20]__ a __[b21]__; d) a Bizottság, illetve az __[b22]__ e bekezdés rendelkezéseinek alkalmazása terén __[b23]__ meghatározása; e) a __[b24]__ és az e szakaszban foglalt, illetve az e cikk alapján elfogadott rendelkezések közötti kapcsolat meghatározása.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "elvek érvényre juttatását"
+        },
+        {
+          "id": "b2",
+          "answer": "megfelelő rendeleteket"
+        },
+        {
+          "id": "b3",
+          "answer": "irányelveket"
+        },
+        {
+          "id": "b4",
+          "answer": "a Tanács"
+        },
+        {
+          "id": "b5",
+          "answer": "Bizottság javaslata alapján"
+        },
+        {
+          "id": "b6",
+          "answer": "Európai Parlamenttel"
+        },
+        {
+          "id": "b7",
+          "answer": "konzultációt követően"
+        },
+        {
+          "id": "b8",
+          "answer": "állapítja meg"
+        },
+        {
+          "id": "b9",
+          "answer": "célja különösen"
+        },
+        {
+          "id": "b10",
+          "answer": "tilalmak betartásának biztosítása"
+        },
+        {
+          "id": "b11",
+          "answer": "pénzbírság"
+        },
+        {
+          "id": "b12",
+          "answer": "kényszerítő bírság"
+        },
+        {
+          "id": "b13",
+          "answer": "előírásával"
+        },
+        {
+          "id": "b14",
+          "answer": "részletes szabályok megállapítása"
+        },
+        {
+          "id": "b15",
+          "answer": "hatékony felügyelet biztosításának"
+        },
+        {
+          "id": "b16",
+          "answer": "hatósági ellenőrzés"
+        },
+        {
+          "id": "b17",
+          "answer": "egyszerűsítésének"
+        },
+        {
+          "id": "b18",
+          "answer": "szükségességét"
+        },
+        {
+          "id": "b19",
+          "answer": "szükség esetén"
+        },
+        {
+          "id": "b20",
+          "answer": "hatályának meghatározása"
+        },
+        {
+          "id": "b21",
+          "answer": "gazdaság különböző ágazataiban"
+        },
+        {
+          "id": "b22",
+          "answer": "Európai Unió Bírósága"
+        },
+        {
+          "id": "b23",
+          "answer": "betöltendő feladatainak"
+        },
+        {
+          "id": "b24",
+          "answer": "nemzeti jogszabályok"
+        }
+      ],
+      "distractors": [
+        "elvek értelmezését",
+        "ajánlásokat",
+        "határozatokat",
+        "a Bizottság",
+        "Tanács javaslata alapján",
+        "Európai Tanáccsal",
+        "döntést követően",
+        "módosítja",
+        "feladata kizárólag",
+        "szabályok megsértésének szankcionálása",
+        "szabadságvesztés",
+        "figyelmeztetés",
+        "felfüggesztésével",
+        "általános szabályok megállapítása",
+        "korlátozott felügyelet biztosításának",
+        "önellenőrzés",
+        "szigorításának",
+        "indokoltságát",
+        "minden esetben",
+        "céljának meghatározása",
+        "gazdaság egyes ágazataiban",
+        "tagállami bíróságok",
+        "elkerülendő feladatainak",
+        "nemzetközi jogszabályok"
+      ]
+    },
+    {
+      "id": "s4",
+      "cimke": "1/2003/EK rendelet 8. cikk",
+      "text": "__[b1]__ (1) A versenyt veszélyeztető komoly és __[b2]__ kockázata miatt felmerülő __[b3]__ __[b4]__ __[b5]__, __[b6]__ megállapított __[b7]__ __[b8]__ __[b9]__. (2) Az (1) bekezdésben foglalt __[b10]__ __[b11]__, és  __[b12]__ és helyénvaló  __[b13]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Ideiglenes intézkedések"
+        },
+        {
+          "id": "b2",
+          "answer": "helyrehozhatatlan kár"
+        },
+        {
+          "id": "b3",
+          "answer": "sürgős esetben"
+        },
+        {
+          "id": "b4",
+          "answer": "a Bizottság"
+        },
+        {
+          "id": "b5",
+          "answer": "saját kezdeményezésére"
+        },
+        {
+          "id": "b6",
+          "answer": "prima facie"
+        },
+        {
+          "id": "b7",
+          "answer": "jogsértés alapján"
+        },
+        {
+          "id": "b8",
+          "answer": "ideiglenes intézkedést"
+        },
+        {
+          "id": "b9",
+          "answer": "rendelhet el"
+        },
+        {
+          "id": "b10",
+          "answer": "határozat"
+        },
+        {
+          "id": "b11",
+          "answer": "határozott időre szól"
+        },
+        {
+          "id": "b12",
+          "answer": "amennyiben szükséges"
+        },
+        {
+          "id": "b13",
+          "answer": "meghosszabbítható"
+        }
+      ],
+      "distractors": [
+        "Végleges intézkedések",
+        "elhárítható kár",
+        "tervezett esetben",
+        "a Tanács",
+        "kérelemre",
+        "végleges",
+        "döntés alapján",
+        "végleges határozatot",
+        "ajánlhat",
+        "ajánlás",
+        "határozatlan időre szól",
+        "amennyiben lehetséges",
+        "nem hosszabbítható meg"
+      ]
+    },
+    {
+      "id": "s5",
+      "cimke": "1/2003/EK rendelet 9. cikk",
+      "text": "__[b1]__ (1) Ha __[b2]__ olyan __[b3]__, amely a __[b4]__ __[b5]__, és az __[b6]__ olyan __[b7]__, hogy a Bizottság által számukra az __[b8]__ kifejezett __[b9]__, a Bizottság határozatával ezeket a kötelezettségvállalásokat a __[b10]__ __[b11]__. __[b12]__ __[b13]__ és azt mondja ki, hogy a Bizottság részéről semmilyen __[b14]__. (2) A Bizottság __[b15]__ __[b16]__ vagy __[b17]__ __[b18]__: a) amennyiben a határozat __[b19]__ bármely tényben __[b20]__; b) amennyiben az érintett vállalkozások __[b21]__; vagy c) amennyiben a határozat alapját a felek által szolgáltatott hiányos, pontatlan vagy __[b22]__ __[b23]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Kötelezettségvállalások"
+        },
+        {
+          "id": "b2",
+          "answer": "a Bizottság"
+        },
+        {
+          "id": "b3",
+          "answer": "határozatot szándékozik elfogadni"
+        },
+        {
+          "id": "b4",
+          "answer": "jogsértés befejezését"
+        },
+        {
+          "id": "b5",
+          "answer": "írja elő"
+        },
+        {
+          "id": "b6",
+          "answer": "érintett vállalkozások"
+        },
+        {
+          "id": "b7",
+          "answer": "kötelezettségvállalásokat ajánlanak fel"
+        },
+        {
+          "id": "b8",
+          "answer": "előzetes értékelésben"
+        },
+        {
+          "id": "b9",
+          "answer": "elvárásoknak eleget tesznek"
+        },
+        {
+          "id": "b10",
+          "answer": "vállalkozások számára"
+        },
+        {
+          "id": "b11",
+          "answer": "kötelezővé teheti"
+        },
+        {
+          "id": "b12",
+          "answer": "Az ilyen határozat"
+        },
+        {
+          "id": "b13",
+          "answer": "határozott időre fogadható el"
+        },
+        {
+          "id": "b14",
+          "answer": "további intézkedés nem indokolható"
+        },
+        {
+          "id": "b15",
+          "answer": "az eljárást"
+        },
+        {
+          "id": "b16",
+          "answer": "kérelemre"
+        },
+        {
+          "id": "b17",
+          "answer": "saját kezdeményezésére"
+        },
+        {
+          "id": "b18",
+          "answer": "újraindítja"
+        },
+        {
+          "id": "b19",
+          "answer": "alapjául szolgáló"
+        },
+        {
+          "id": "b20",
+          "answer": "jelentős változás történt"
+        },
+        {
+          "id": "b21",
+          "answer": "kötelezettségvállalásaikkal ellentétesen cselekszenek"
+        },
+        {
+          "id": "b22",
+          "answer": "félrevezető információk"
+        },
+        {
+          "id": "b23",
+          "answer": "képezték"
+        }
+      ],
+      "distractors": [
+        "Jognyilatkozatok",
+        "a Tanács",
+        "ajánlást szándékozik adni",
+        "jogsértés megállapítását",
+        "tiltja",
+        "külső vállalkozások",
+        "panaszokat terjesztenek elő",
+        "végleges értékelésben",
+        "jogszabályi előírásoknak eleget tesznek",
+        "tagállamok számára",
+        "ajánlottá teheti",
+        "A rendes határozat",
+        "határozatlan időre fogadható el",
+        "azonnali szankció indokolható",
+        "a vizsgálatot",
+        "hivatalból",
+        "feljelentésre",
+        "felfüggeszti",
+        "céljául szolgáló",
+        "csekély változás történt",
+        "jogszabályokkal ellentétesen cselekszenek",
+        "hiteles információk",
+        "bizonyították"
+      ]
+    },
+    {
+      "id": "s6",
+      "cimke": "1/2003/EK rendelet 10. cikk",
+      "text": "__[b1]__ Amennyiben __[b2]__ __[b3]__ __[b4]__ cikkének __[b5]__ __[b6]__, a __[b7]__ __[b8]__ __[b9]__, hogy __[b10]__ __[b11]__ __[b12]__, __[b13]__ vagy __[b14]__ __[b15]__ a Szerződés 81. cikkének __[b16]__ __[b17]__, akár azért, mert a Szerződés 81. cikkének __[b18]__ __[b19]__. __[b20]__ __[b21]__ __[b22]__ __[b23]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Az alkalmazhatatlanság megállapítása"
+        },
+        {
+          "id": "b2",
+          "answer": "a Közösségnek"
+        },
+        {
+          "id": "b3",
+          "answer": "a Szerződés"
+        },
+        {
+          "id": "b4",
+          "answer": "81. és 82."
+        },
+        {
+          "id": "b5",
+          "answer": "alkalmazásához fűződő"
+        },
+        {
+          "id": "b6",
+          "answer": "közérdeke azt kívánja"
+        },
+        {
+          "id": "b7",
+          "answer": "saját kezdeményezésére eljáró"
+        },
+        {
+          "id": "b8",
+          "answer": "Bizottság határozatával"
+        },
+        {
+          "id": "b9",
+          "answer": "megállapíthatja"
+        },
+        {
+          "id": "b10",
+          "answer": "a Szerződés 81. cikke"
+        },
+        {
+          "id": "b11",
+          "answer": "nem alkalmazható"
+        },
+        {
+          "id": "b12",
+          "answer": "egy adott megállapodásra"
+        },
+        {
+          "id": "b13",
+          "answer": "vállalkozások társulásainak döntésére"
+        },
+        {
+          "id": "b14",
+          "answer": "összehangolt magatartásra"
+        },
+        {
+          "id": "b15",
+          "answer": "akár azért, mert"
+        },
+        {
+          "id": "b16",
+          "answer": "(1) bekezdésében"
+        },
+        {
+          "id": "b17",
+          "answer": "foglalt feltételek nem teljesülnek"
+        },
+        {
+          "id": "b18",
+          "answer": "(3) bekezdésében"
+        },
+        {
+          "id": "b19",
+          "answer": "foglalt feltételek teljesülnek"
+        },
+        {
+          "id": "b20",
+          "answer": "A Bizottság"
+        },
+        {
+          "id": "b21",
+          "answer": "ehhez hasonló megállapítást"
+        },
+        {
+          "id": "b22",
+          "answer": "a Szerződés 82. cikke"
+        },
+        {
+          "id": "b23",
+          "answer": "tekintetében is tehet"
+        }
+      ],
+      "distractors": [
+        "Az alkalmazhatóság megállapítása",
+        "a tagállamoknak",
+        "a Rendelet",
+        "83. és 84.",
+        "értelmezéséhez fűződő",
+        "magánérdeke azt kívánja",
+        "kérelemre eljáró",
+        "Tanács határozatával",
+        "nem állapíthatja meg",
+        "a Szerződés 101. cikke",
+        "alkalmazható",
+        "minden megállapodásra",
+        "egyéni vállalkozások döntésére",
+        "egyedi magatartásra",
+        "kizárólag azért, mert",
+        "(2) bekezdésében",
+        "A Tanács",
+        "ettől eltérő megállapítást",
+        "a Szerződés 102. cikke",
+        "tekintetében nem tehet"
+      ]
+    },
+    {
+      "id": "s7",
+      "cimke": "1/2003/EK rendelet 11. cikk",
+      "text": "__[b1]__ és a __[b2]__ __[b3]__ (1) A Bizottság és a tagállamok versenyhatóságai a __[b4]__ __[b5]__. (2) A Bizottság __[b6]__ a tagállamok versenyhatóságainak az általa a 7., 8., 9. és 10. cikk, valamint a 29. cikk (1) bekezdésének alkalmazása céljából összegyűjtött __[b7]__. A tagállam versenyhatóságának __[b8]__ a Bizottság az ügy __[b9]__ __[b10]__ is __[b11]__ a számára. (3) Amennyiben a tagállamok versenyhatóságai a Szerződés 81. vagy 82. cikke alapján __[b12]__, az __[b13]__ vagy annak megkezdése után __[b14]__ __[b15]__. Ez az információ __[b16]__ más tagállamok versenyhatóságai számára is. (4) A tagállamok versenyhatóságai __[b17]__ a __[b18]__, __[b19]__ vagy a __[b20]__ előtt __[b21]__. E célból a Bizottság rendelkezésére bocsátják az __[b22]__, a __[b23]__ vagy ennek hiányában a tervezett eljárás menetéről szóló bármely dokumentumot. Ez az információ rendelkezésre bocsátható más tagállamok versenyhatóságai számára is. A Bizottság kérelmére az eljáró versenyhatóság a Bizottság rendelkezésére bocsátja az ügy értékeléséhez szükséges, birtokában lévő egyéb dokumentumokat. A Bizottsághoz eljuttatott információ rendelkezésre bocsátható más tagállamok versenyhatóságai számára is. A nemzeti versenyhatóságok a Szerződés 81. vagy 82. cikke alapján az általuk kezelt ügy értékeléséhez szükséges információkat egymás között is kicserélhetik. (5) A tagállamok versenyhatóságai a közösségi jog alkalmazásával járó bármely ügyben __[b24]__. (6) Ha a Bizottság a III. fejezet alapján hozott határozat elfogadására irányuló eljárást kezdeményez, a tagállamok versenyhatóságainak __[b25]__, hogy a Szerződés 81. és 82. cikkét alkalmazzák. Amennyiben az egyik tagállam versenyhatósága már eljár az ügyben, úgy a Bizottság csak a nemzeti versenyhatósággal történt konzultációt követően indíthat eljárást.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A Bizottság"
+        },
+        {
+          "id": "b2",
+          "answer": "tagállamok versenyhatóságai"
+        },
+        {
+          "id": "b3",
+          "answer": "közötti együttműködés"
+        },
+        {
+          "id": "b4",
+          "answer": "közösségi versenyjog szabályait"
+        },
+        {
+          "id": "b5",
+          "answer": "szoros együttműködésben alkalmazzák"
+        },
+        {
+          "id": "b6",
+          "answer": "átadja"
+        },
+        {
+          "id": "b7",
+          "answer": "legfontosabb dokumentumok másolatait"
+        },
+        {
+          "id": "b8",
+          "answer": "kérelmére"
+        },
+        {
+          "id": "b9",
+          "answer": "értékeléséhez szükséges"
+        },
+        {
+          "id": "b10",
+          "answer": "egyéb meglévő dokumentumok másolatát"
+        },
+        {
+          "id": "b11",
+          "answer": "biztosítja"
+        },
+        {
+          "id": "b12",
+          "answer": "járnak el"
+        },
+        {
+          "id": "b13",
+          "answer": "első hivatalos vizsgálati cselekmény előtt"
+        },
+        {
+          "id": "b14",
+          "answer": "késedelem nélkül"
+        },
+        {
+          "id": "b15",
+          "answer": "írásban értesítik erről a Bizottságot"
+        },
+        {
+          "id": "b16",
+          "answer": "rendelkezésre bocsátható"
+        },
+        {
+          "id": "b17",
+          "answer": "legkésőbb 30 nappal"
+        },
+        {
+          "id": "b18",
+          "answer": "jogsértés befejezésére felszólító határozat elfogadása"
+        },
+        {
+          "id": "b19",
+          "answer": "kötelezettségvállalások elfogadása"
+        },
+        {
+          "id": "b20",
+          "answer": "csoportmentességről szóló rendeletből származó előny visszavonása"
+        },
+        {
+          "id": "b21",
+          "answer": "értesítik a Bizottságot"
+        },
+        {
+          "id": "b22",
+          "answer": "ügy összefoglalását"
+        },
+        {
+          "id": "b23",
+          "answer": "tervezett határozatot"
+        },
+        {
+          "id": "b24",
+          "answer": "konzultálhatnak a Bizottsággal"
+        },
+        {
+          "id": "b25",
+          "answer": "megszűnik az a jogköre"
+        }
+      ],
+      "distractors": [
+        "A Tanács",
+        "regionális versenyhatóságok",
+        "közötti versengés",
+        "nemzeti versenyjog szabályait",
+        "egyéni eljárásban alkalmazzák",
+        "kérelemre átadja",
+        "összes dokumentum eredetijét",
+        "hivatalból",
+        "nyilvánosságra hozásához szükséges",
+        "minden meglévő dokumentum eredetijét",
+        "megtagadja",
+        "nem járnak el",
+        "utolsó hivatalos vizsgálati cselekmény után",
+        "azonnal",
+        "szóban tájékoztatják a Bizottságot",
+        "nem bocsátható rendelkezésre",
+        "legkorábban 30 nappal",
+        "jogsértés megállapítására irányuló határozat elfogadása",
+        "kötelezettségvállalások elutasítása",
+        "egyedi mentesség megadása",
+        "tájékoztatják a nyilvánosságot",
+        "ügy részletes elemzését",
+        "végleges határozatot",
+        "kötelesek konzultálni a Bizottsággal",
+        "megmarad az a jogköre"
+      ]
+    },
+    {
+      "id": "s8",
+      "cimke": "1/2003/EK rendelet 12. cikk",
+      "text": "__[b1]__ (1) A Szerződés 81. és 82. cikkének __[b2]__ __[b3]__ és a __[b4]__ __[b5]__ bármely __[b6]__ megadni, és azokat __[b7]__, ideértve a __[b8]__. (2) Az átadott információ bizonyítékként __[b9]__ a Szerződés 81. vagy 82. cikkének __[b10]__, és __[b11]__ használható fel, __[b12]__ __[b13]__. Ha azonban ugyanazon ügyben a __[b14]__ a __[b15]__ kerül alkalmazásra, és ez __[b16]__, úgy az e cikk alapján átadott információ a nemzeti versenyjog alkalmazása céljából is __[b17]__. (3) __[b18]__ az (1) bekezdés szerint átadott információ __[b19]__, ha:  az átadó hatóság joga a Szerződés 81. vagy 82. cikkének megsértésével kapcsolatban __[b20]__, vagy __[b21]__  az információt __[b22]__, hogy a természetes személyek __[b23]__ __[b24]__ nemzeti szabályaival azonos szintű védelmét vettékfigyelembe. Ebben az esetben azonban az átadott információt az átvevő hatóság __[b25]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Információcsere"
+        },
+        {
+          "id": "b2",
+          "answer": "alkalmazásában"
+        },
+        {
+          "id": "b3",
+          "answer": "a Bizottság"
+        },
+        {
+          "id": "b4",
+          "answer": "tagállamok versenyhatóságai"
+        },
+        {
+          "id": "b5",
+          "answer": "jogosultak egymásnak"
+        },
+        {
+          "id": "b6",
+          "answer": "tényszerű vagy jogi tájékoztatást"
+        },
+        {
+          "id": "b7",
+          "answer": "bizonyítékként felhasználni"
+        },
+        {
+          "id": "b8",
+          "answer": "bizalmas jellegű információt is"
+        },
+        {
+          "id": "b9",
+          "answer": "kizárólag"
+        },
+        {
+          "id": "b10",
+          "answer": "alkalmazása céljából"
+        },
+        {
+          "id": "b11",
+          "answer": "csak olyan tárgyban"
+        },
+        {
+          "id": "b12",
+          "answer": "amellyel kapcsolatban"
+        },
+        {
+          "id": "b13",
+          "answer": "az átadó hatóság azt gyűjtötte"
+        },
+        {
+          "id": "b14",
+          "answer": "nemzeti versenyjog"
+        },
+        {
+          "id": "b15",
+          "answer": "közösségi versenyjoggal párhuzamosan"
+        },
+        {
+          "id": "b16",
+          "answer": "nem vezet különböző eredményre"
+        },
+        {
+          "id": "b17",
+          "answer": "felhasználható"
+        },
+        {
+          "id": "b18",
+          "answer": "Természetes személyekre történő szankció kiszabása esetén"
+        },
+        {
+          "id": "b19",
+          "answer": "csak akkor használható fel bizonyítékként"
+        },
+        {
+          "id": "b20",
+          "answer": "hasonló jellegű szankciót ír elő"
+        },
+        {
+          "id": "b21",
+          "answer": "ennek hiányában"
+        },
+        {
+          "id": "b22",
+          "answer": "oly módon gyűjtötték össze"
+        },
+        {
+          "id": "b23",
+          "answer": "védelemhez fűződő jogának"
+        },
+        {
+          "id": "b24",
+          "answer": "az átvevő hatóság"
+        },
+        {
+          "id": "b25",
+          "answer": "nem használhatja fel szabadságvesztés büntetés kiszabására"
+        }
+      ],
+      "distractors": [
+        "Adatgyűjtés",
+        "értelmezésében",
+        "a Tanács",
+        "regionális versenyhatóságok",
+        "kötelesek egymásnak",
+        "szakvéleményt vagy ajánlást",
+        "iránymutatásként figyelembe venni",
+        "nyilvános jellegű információt is",
+        "többek között",
+        "értelmezése céljából",
+        "minden olyan tárgyban",
+        "amelytől függetlenül",
+        "az átvevő hatóság azt gyűjtötte",
+        "közösségi versenyjog",
+        "közösségi versenyjoggal ellentétesen",
+        "vezet különböző eredményre",
+        "nem felhasználható",
+        "Jogi személyekre történő szankció kiszabása esetén",
+        "mindig felhasználható bizonyítékként",
+        "eltérő jellegű szankciót ír elő",
+        "ennek meglétében",
+        "jogellenes módon gyűjtötték össze",
+        "tájékoztatáshoz fűződő jogának",
+        "az átadó hatóság",
+        "használhatja fel szabadságvesztés büntetés kiszabására"
+      ]
+    },
+    {
+      "id": "s9",
+      "cimke": "1/2003/EK rendelet 13. cikk",
+      "text": "Az eljárás __[b1]__ vagy megszüntetése (1) Ha __[b2]__ tagállam __[b3]__ __[b4]__ __[b5]__ megállapodás, társulás döntése vagy magatartás ellen érkezett panasz, __[b6]__ __[b7]__ indított eljárásban __[b8]__ a Szerződés 81. vagy 82. cikke alapján, úgy az __[b9]__, hogy az __[b10]__ __[b11]__, __[b12]__ __[b13]__ a __[b14]__ az __[b15]__ __[b16]__, __[b17]__. __[b18]__ a __[b19]__ a panaszt __[b20]__, hogy az üggyel __[b21]__ tagállam versenyhatósága foglalkozik. (2) A tagállam versenyhatósága vagy a Bizottság elutasíthatja a megállapodás, a társulás döntése vagy a magatartás ellen __[b22]__ __[b23]__, amellyel más versenyhatóság __[b24]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "felfüggesztése"
+        },
+        {
+          "id": "b2",
+          "answer": "két vagy több"
+        },
+        {
+          "id": "b3",
+          "answer": "versenyhatósága"
+        },
+        {
+          "id": "b4",
+          "answer": "elé"
+        },
+        {
+          "id": "b5",
+          "answer": "ugyanazon"
+        },
+        {
+          "id": "b6",
+          "answer": "vagy ezzel kapcsolatban"
+        },
+        {
+          "id": "b7",
+          "answer": "saját kezdeményezésre"
+        },
+        {
+          "id": "b8",
+          "answer": "jár el"
+        },
+        {
+          "id": "b9",
+          "answer": "a tény"
+        },
+        {
+          "id": "b10",
+          "answer": "egyik hatóság"
+        },
+        {
+          "id": "b11",
+          "answer": "foglalkozik az üggyel"
+        },
+        {
+          "id": "b12",
+          "answer": "elegendő indokot szolgáltat"
+        },
+        {
+          "id": "b13",
+          "answer": "arra, hogy"
+        },
+        {
+          "id": "b14",
+          "answer": "többi hatóság"
+        },
+        {
+          "id": "b15",
+          "answer": "előttük folyó eljárást"
+        },
+        {
+          "id": "b16",
+          "answer": "felfüggessze"
+        },
+        {
+          "id": "b17",
+          "answer": "vagy a panaszt elutasítsa"
+        },
+        {
+          "id": "b18",
+          "answer": "Hasonlóképpen"
+        },
+        {
+          "id": "b19",
+          "answer": "Bizottság is elutasíthatja"
+        },
+        {
+          "id": "b20",
+          "answer": "azzal az indokkal"
+        },
+        {
+          "id": "b21",
+          "answer": "valamely"
+        },
+        {
+          "id": "b22",
+          "answer": "hozzá érkezett"
+        },
+        {
+          "id": "b23",
+          "answer": "olyan panaszt"
+        },
+        {
+          "id": "b24",
+          "answer": "már foglalkozott"
+        }
+      ],
+      "distractors": [
+        "megszüntetése",
+        "egy vagy több",
+        "bírósága",
+        "részére",
+        "azonos",
+        "illetve e körben",
+        "hivatalból",
+        "dönt",
+        "a körülmény",
+        "illetékes szerv",
+        "eljár az ügyben",
+        "megfelelő alapot biztosít",
+        "annak érdekében, hogy",
+        "más szervek",
+        "náluk folyamatban lévő ügyet",
+        "megszakítsa",
+        "vagy az indítványt elutasítsa",
+        "Ugyanígy",
+        "Bizottság is visszautasíthatja",
+        "azon az alapon",
+        "egy",
+        "beérkezett",
+        "hasonló kérelmet",
+        "már elbírált"
+      ]
+    },
+    {
+      "id": "s10",
+      "cimke": "1/2003/EK rendelet 14. cikk",
+      "text": "__[b1]__ (1) A Bizottság a 7., 8., 9., 10., 23. cikk, illetve a 24. cikk (2) bekezdése és a 29. cikk (1) bekezdése __[b2]__ __[b3]__ előtt __[b4]__ a __[b5]__ tanácsadó bizottsággal. (2) Az __[b6]__ a tanácsadó bizottság a tagállamok versenyhatóságainak __[b7]__. Olyan ülések esetén, amikor nem egyes ügyek kerülnek megvitatásra, a tagállam további, __[b8]__ képviselője __[b9]__. A képviselők __[b10]__ __[b11]__. (3) A __[b12]__ a Bizottság által __[b13]__ ülésen kerül sor, amelyet legalább 14 nappal __[b14]__, hogy az __[b15]__ az __[b16]__, a legfontosabb dokumentumok __[b17]__ és az __[b18]__. A 8. cikk szerinti határozatok tekintetében az ülés hét nappal a __[b19]__ megtartható. Amennyiben a Bizottság olyan értesítést küld az ülés összehívásáról, amely a fent meghatározottnál __[b20]__, az ülés a tervezett időpontban megtartható, ha a tagállamok __[b21]__. A tanácsadó bizottság __[b22]__ a Bizottság előzetes határozattervezetéről. A tanácsadó bizottság akkor is adhat véleményt, ha néhány tagja hiányzik, és nincs képviselve. Egy vagy több tag kérelmére a véleményben rögzített álláspontot __[b23]__. (4) A konzultációra írásbeli eljárás keretében is sor kerülhet. Ha azonban bármelyik tagállam ezt kéri, a Bizottság összehívja az ülést. Írásbeli eljárás esetén a Bizottság legalább 14 napos határidőt határoz meg, hogy a tagállamok megtegyék észrevételeiket, amelyeket továbbítanak az összes többi tagállamnak. A 8. cikk szerint hozott határozat esetén a határidő 14 nap helyett hét nap. Amennyiben a Bizottság az írásbeli eljárásra a fent meghatározottnál rövidebb határidőt határoz meg, a javasolt határidő a tagállamok tiltakozásának hiányában alkalmazható. (5) A Bizottság a __[b24]__ a tanácsadó bizottság által adott véleményt. A Bizottság tájékoztatja a tanácsadó bizottságot arról, hogyan vette figyelembe véleményét. (6) Amennyiben a tanácsadó bizottság írásbeli véleményt nyújt be, e véleményt a határozattervezethez kell csatolni. Ha a tanácsadó bizottság a vélemény közzétételét javasolja, a Bizottság köteles a közzétételt a vállalkozások üzleti titkaik védelméhez fűződő jogos érdekeinek figyelembevételével elvégezni. (7) A tagállam versenyhatóságának kérelmére a Bizottság a Szerződés 81. vagy 82. cikke alapján a tagállam versenyhatósága által kezelt ügyeket vesz fel a tanácsadó bizottság napirendjére. ABizottság erről saját kezdeményezésére is dönthet. A Bizottság mindkét esetben köteles erről az érintett versenyhatóságot értesíteni. A tagállam versenyhatósága ilyen felkérést különösen abban az esetben tehet, ha a Bizottság a 11. cikk (6) bekezdése alapján szándékozik eljárást indítani. A tanácsadó bizottság nem ad véleményt azokról az ügyekről, amelyekkel a tagállamok versenyhatóságai foglalkoznak. A tanácsadó bizottság a közösségi versenyjoggal kapcsolatos általános kérdéseket is megvitathat.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Tanácsadó bizottság"
+        },
+        {
+          "id": "b2",
+          "answer": "alapján hozott"
+        },
+        {
+          "id": "b3",
+          "answer": "bármely határozat"
+        },
+        {
+          "id": "b4",
+          "answer": "egyeztet"
+        },
+        {
+          "id": "b5",
+          "answer": "versenykorlátozó magatartásokkal és erőfölénnyel foglalkozó"
+        },
+        {
+          "id": "b6",
+          "answer": "egyes ügyek megvitatása céljából"
+        },
+        {
+          "id": "b7",
+          "answer": "képviselőiből áll"
+        },
+        {
+          "id": "b8",
+          "answer": "versenyjogi ügyekben jártas"
+        },
+        {
+          "id": "b9",
+          "answer": "nevezhető ki"
+        },
+        {
+          "id": "b10",
+          "answer": "akadályoztatásuk esetén"
+        },
+        {
+          "id": "b11",
+          "answer": "más képviselőkkel helyettesíthetők"
+        },
+        {
+          "id": "b12",
+          "answer": "konzultációra"
+        },
+        {
+          "id": "b13",
+          "answer": "összehívott és levezetett"
+        },
+        {
+          "id": "b14",
+          "answer": "azt követően kell megtartani"
+        },
+        {
+          "id": "b15",
+          "answer": "összehívásról szóló értesítést"
+        },
+        {
+          "id": "b16",
+          "answer": "ügy összefoglalójával"
+        },
+        {
+          "id": "b17",
+          "answer": "megjelölésével"
+        },
+        {
+          "id": "b18",
+          "answer": "előzetes határozattervezettel együtt megküldték"
+        },
+        {
+          "id": "b19",
+          "answer": "tervezett határozat rendelkező részének elküldését követően"
+        },
+        {
+          "id": "b20",
+          "answer": "rövidebb határidőt biztosít"
+        },
+        {
+          "id": "b21",
+          "answer": "nem tiltakoznak ez ellen"
+        },
+        {
+          "id": "b22",
+          "answer": "írásos véleményt ad"
+        },
+        {
+          "id": "b23",
+          "answer": "meg kell indokolni"
+        },
+        {
+          "id": "b24",
+          "answer": "legteljesebb mértékben figyelembe veszi"
+        }
+      ],
+      "distractors": [
+        "Szakértői testület",
+        "szerint meghozott",
+        "minden döntés",
+        "konzultál",
+        "kartellekkel és monopolhelyzettel foglalkozó",
+        "konkrét ügyek megbeszélése érdekében",
+        "tagokból tevődik össze",
+        "versenyjogban szakértő",
+        "kijelölhető",
+        "távollétükben",
+        "más tagokkal pótolhatók",
+        "tanácskozásra",
+        "szervezett és irányított",
+        "utána kell megtartani",
+        "ülés összehívásáról szóló értesítést",
+        "eset összefoglalójával",
+        "megadásával",
+        "előzetes döntéstervezettel együtt elküldték",
+        "tervezett döntés rendelkező részének elküldését követően",
+        "kevesebb időt ad",
+        "nem emelnek kifogást",
+        "írásbeli állásfoglalást nyújt be",
+        "indokolni kell",
+        "maximálisan figyelembe veszi"
+      ]
+    },
+    {
+      "id": "s11",
+      "cimke": "1/2003/EK rendelet 15. cikk",
+      "text": "__[b1]__ (1) A Szerződés 81. vagy 82. cikke __[b2]__ a tagállamok bíróságai __[b3]__ arra, hogy __[b4]__ a Bizottság a __[b5]__ __[b6]__, __[b7]__ a __[b8]__. (2) A tagállamok a nemzeti bíróságok által hozott __[b9]__ __[b10]__ __[b11]__, amelyekben a Szerződés 81. vagy 82. cikkének alkalmazásáról döntöttek. Az ilyen másolatot __[b12]__ az után, hogy a feleket a __[b13]__. (3) A tagállamok __[b14]__ __[b15]__ __[b16]__ a tagállamok bíróságainak a Szerződés 81. vagy 82. cikkének alkalmazására vonatkozó ügyekben. A tagállamok versenyhatóságai az __[b17]__ __[b18]__ a tagállamok nemzeti bíróságainak. Amenynyiben a Szerződés 81. vagy 82. cikkének __[b19]__, a __[b20]__ írásbeli észrevételeket nyújthat be a tagállamok bíróságainak. A Bizottság az érintett bíróság hozzájárulásával szóbeli észrevételeket is tehet. A tagállamok versenyhatóságai és a Bizottság  __[b21]__  __[b22]__, hogy az ügy értékeléséhez __[b23]__, illetve __[b24]__. (4) Ez a cikk __[b25]__ a tagállamok versenyhatóságai számára a tagállam joga által biztosított, a bíróságok előtt tett észrevételekre vonatkozó tágabb jogköröket.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A nemzeti bíróságokkal való együttműködés"
+        },
+        {
+          "id": "b2",
+          "answer": "alkalmazására vonatkozó eljárás során"
+        },
+        {
+          "id": "b3",
+          "answer": "felkérhetik a Bizottságot"
+        },
+        {
+          "id": "b4",
+          "answer": "részükre"
+        },
+        {
+          "id": "b5",
+          "answer": "birtokában lévő információt"
+        },
+        {
+          "id": "b6",
+          "answer": "átadja"
+        },
+        {
+          "id": "b7",
+          "answer": "vagy véleményt nyújtson"
+        },
+        {
+          "id": "b8",
+          "answer": "közösségi versenyjog alkalmazására vonatkozó kérdésekben"
+        },
+        {
+          "id": "b9",
+          "answer": "valamennyi olyan"
+        },
+        {
+          "id": "b10",
+          "answer": "írásbeli ítélet másolatát"
+        },
+        {
+          "id": "b11",
+          "answer": "kötelesek a Bizottság részére eljuttatni"
+        },
+        {
+          "id": "b12",
+          "answer": "késedelem nélkül el kell küldeni"
+        },
+        {
+          "id": "b13",
+          "answer": "teljes írásbeli ítéletről tájékoztatták"
+        },
+        {
+          "id": "b14",
+          "answer": "saját kezdeményezésükre eljáró"
+        },
+        {
+          "id": "b15",
+          "answer": "versenyhatóságai"
+        },
+        {
+          "id": "b16",
+          "answer": "írásbeli észrevételeket nyújthatnak be"
+        },
+        {
+          "id": "b17",
+          "answer": "érintett bíróság hozzájárulásával"
+        },
+        {
+          "id": "b18",
+          "answer": "szóbeli észrevételeket is tehetnek"
+        },
+        {
+          "id": "b19",
+          "answer": "egységes alkalmazása megkívánja"
+        },
+        {
+          "id": "b20",
+          "answer": "saját kezdeményezésére eljáró Bizottság"
+        },
+        {
+          "id": "b21",
+          "answer": "kizárólag az észrevételek elkészítése céljából"
+        },
+        {
+          "id": "b22",
+          "answer": "felkérhetik az érintett tagállam bíróságát"
+        },
+        {
+          "id": "b23",
+          "answer": "szükséges dokumentumokat adja át"
+        },
+        {
+          "id": "b24",
+          "answer": "gondoskodjon azok átadásáról"
+        },
+        {
+          "id": "b25",
+          "answer": "nem érinti"
+        }
+      ],
+      "distractors": [
+        "Nemzeti bírósági együttműködés",
+        "alkalmazása körében",
+        "felhívhatják a Bizottságot",
+        "számukra",
+        "rendelkezésére álló adatot",
+        "rendelkezésre bocsátja",
+        "vagy állásfoglalást adjon",
+        "uniós versenyjog alkalmazására vonatkozó kérdésekben",
+        "minden olyan",
+        "írásbeli határozat másolatát",
+        "kötelesek a Bizottságnak megküldeni",
+        "haladéktalanul el kell küldeni",
+        "teljes írásbeli határozatról értesítették",
+        "hivatalból eljáró",
+        "bíróságai",
+        "írásbeli állásfoglalást tehetnek",
+        "érintett bíróság beleegyezésével",
+        "szóbeli állásfoglalást is adhatnak",
+        "egységes érvényesítése igényli",
+        "hivatalból eljáró Bizottság",
+        "csupán a megjegyzések elkészítése céljából",
+        "felhívhatják az érintett tagállam bíróságát",
+        "szükséges iratokat adja át",
+        "intézkedjen azok átadásáról",
+        "nem befolyásolja"
+      ]
+    },
+    {
+      "id": "s12",
+      "cimke": "1/2003/EK rendelet 16. cikk",
+      "text": "__[b1]__ (1) __[b2]__ a __[b3]__ __[b4]__ a __[b5]__ __[b6]__, amelyek __[b7]__, __[b8]__ a __[b9]__. __[b10]__ __[b11]__, __[b12]__ a Bizottság által __[b13]__ a Bizottság által __[b14]__. __[b15]__ a nemzeti bíróság __[b16]__, hogy __[b17]__. __[b18]__ a __[b19]__. (2) Amennyiben a __[b20]__ hoznak határozatot a Szerződés 81. vagy 82. cikkének hatálya alá tartozó olyan megállapodásokról, döntésekről vagy magatartásokról, amelyek már bizottsági határozat tárgyát képezik, nem hozhatnak a Bizottság által elfogadott határozattal ellentétes határozatot.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A közösségi versenyjog egységes alkalmazása"
+        },
+        {
+          "id": "b2",
+          "answer": "Amennyiben"
+        },
+        {
+          "id": "b3",
+          "answer": "nemzeti bíróságok"
+        },
+        {
+          "id": "b4",
+          "answer": "hoznak határozatot"
+        },
+        {
+          "id": "b5",
+          "answer": "Szerződés 81. vagy 82. cikkének hatálya alá tartozó"
+        },
+        {
+          "id": "b6",
+          "answer": "olyan megállapodásokról, döntésekről vagy magatartásokról"
+        },
+        {
+          "id": "b7",
+          "answer": "már bizottsági határozat tárgyát képezik"
+        },
+        {
+          "id": "b8",
+          "answer": "nem hozhatnak"
+        },
+        {
+          "id": "b9",
+          "answer": "Bizottság által elfogadott határozattal ellentétes határozatot"
+        },
+        {
+          "id": "b10",
+          "answer": "Kerülniük kell továbbá"
+        },
+        {
+          "id": "b11",
+          "answer": "az olyan határozat kibocsátását"
+        },
+        {
+          "id": "b12",
+          "answer": "amely ellentétben állna"
+        },
+        {
+          "id": "b13",
+          "answer": "kezdeményezett eljárásban"
+        },
+        {
+          "id": "b14",
+          "answer": "tervezett határozattal"
+        },
+        {
+          "id": "b15",
+          "answer": "E célból"
+        },
+        {
+          "id": "b16",
+          "answer": "felmérheti"
+        },
+        {
+          "id": "b17",
+          "answer": "szükséges-e az előtte folyó eljárást felfüggeszteni"
+        },
+        {
+          "id": "b18",
+          "answer": "Ez a kötelezettség nem érinti"
+        },
+        {
+          "id": "b19",
+          "answer": "Szerződés 234. cikke szerinti jogokat és kötelezettségeket"
+        },
+        {
+          "id": "b20",
+          "answer": "tagállamok versenyhatóságai"
+        }
+      ],
+      "distractors": [
+        "Uniós versenyjog egységes érvényesítése",
+        "Abban az esetben, ha",
+        "tagállami bíróságok",
+        "döntenek",
+        "Szerződés 81. vagy 82. cikke szerinti",
+        "ilyen egyezségekről, döntésekről vagy cselekményekről",
+        "már bizottsági döntés tárgyát képezik",
+        "nem adhatnak ki",
+        "Bizottság által hozott döntéssel ellentétes döntést",
+        "El kell kerülniük továbbá",
+        "az olyan döntés kiadását",
+        "ami ellenkezne",
+        "indított eljárásban",
+        "tervezett döntéssel",
+        "Ennek érdekében",
+        "megvizsgálhatja",
+        "indokolt-e az előtte folyó eljárást felfüggeszteni",
+        "Ez a kötelezettség nem befolyásolja",
+        "Szerződés 234. cikke szerinti jogokat és feladatokat",
+        "tagállami versenyhatóságok"
+      ]
+    },
+    {
+      "id": "s13",
+      "cimke": "1/2003/EK rendelet 30. cikk",
+      "text": "__[b1]__ (1) A __[b2]__ az általa a __[b3]__ __[b4]__ __[b5]__. (2) A __[b6]__ __[b7]__ és a __[b8]__, __[b9]__. __[b10]__ a __[b11]__, hogy __[b12]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Határozatok közzététele"
+        },
+        {
+          "id": "b2",
+          "answer": "Bizottság"
+        },
+        {
+          "id": "b3",
+          "answer": "7-10., 23. és 24. cikk"
+        },
+        {
+          "id": "b4",
+          "answer": "értelmében hozott határozatokat"
+        },
+        {
+          "id": "b5",
+          "answer": "közzéteszi"
+        },
+        {
+          "id": "b6",
+          "answer": "közzététel során"
+        },
+        {
+          "id": "b7",
+          "answer": "megadja a felek nevét"
+        },
+        {
+          "id": "b8",
+          "answer": "határozat fő tartalmát"
+        },
+        {
+          "id": "b9",
+          "answer": "ideértve a kiszabott szankciókat"
+        },
+        {
+          "id": "b10",
+          "answer": "Tekintetbe veszi"
+        },
+        {
+          "id": "b11",
+          "answer": "vállalkozások ahhoz fűződő jogos érdekét"
+        },
+        {
+          "id": "b12",
+          "answer": "üzleti titkaikat megőrizzék"
+        }
+      ],
+      "distractors": [
+        "Döntések közzététele",
+        "Tanács",
+        "7-10., 23. és 24. paragrafus",
+        "alapján meghozott döntéseket",
+        "nyilvánosságra hozza",
+        "nyilvánosságra hozatal során",
+        "feltünteti a felek nevét",
+        "döntés lényegét",
+        "beleértve a kiszabott büntetéseket",
+        "Figyelembe veszi",
+        "cégek ahhoz fűződő jogos érdekét",
+        "üzleti titkaikat megvédjék"
+      ]
+    },
+    {
+      "id": "s14",
+      "cimke": "1/2003/EK rendelet 31. cikk",
+      "text": "__[b1]__ A Bíróság __[b2]__ az olyan __[b3]__, __[b4]__ a __[b5]__. A Bíróság __[b6]__ a __[b7]__ __[b8]__ __[b9]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A Bíróság felülvizsgálata"
+        },
+        {
+          "id": "b2",
+          "answer": "korlátlan jogkörrel rendelkezik"
+        },
+        {
+          "id": "b3",
+          "answer": "határozatok felülvizsgálatára"
+        },
+        {
+          "id": "b4",
+          "answer": "amelyekben"
+        },
+        {
+          "id": "b5",
+          "answer": "Bizottság bírságot vagy kényszerítő bírságot határozott meg"
+        },
+        {
+          "id": "b6",
+          "answer": "törölheti, csökkentheti vagy növelheti"
+        },
+        {
+          "id": "b7",
+          "answer": "kiszabott bírság"
+        },
+        {
+          "id": "b8",
+          "answer": "vagy kényszerítő bírság"
+        },
+        {
+          "id": "b9",
+          "answer": "összegét"
+        }
+      ],
+      "distractors": [
+        "Bírósági felülvizsgálat",
+        "teljes jogkörrel rendelkezik",
+        "döntések felülvizsgálatára",
+        "ahol",
+        "Bizottság bírságot vagy kényszerítő bírságot szabott ki",
+        "megsemmisítheti, mérsékelheti vagy felemelheti",
+        "kiszabott pénzbírság",
+        "vagy kényszerítő díj",
+        "mértékét"
+      ]
+    },
+    {
+      "id": "s15",
+      "cimke": "1/2003/EK rendelet 33. cikk",
+      "text": "__[b1]__ (1) A __[b2]__ arra, hogy __[b3]__ __[b4]__. Az __[b5]__: a) a __[b6]__ __[b7]__, __[b8]__, valamint a __[b9]__; b) a __[b10]__; c) a __[b11]__. (2) Az __[b12]__ __[b13]__ a __[b14]__, és __[b15]__, hogy a __[b16]__, __[b17]__ __[b18]__. Az __[b19]__ és az intézkedés elfogadása előtt a __[b20]__ a __[b21]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Végrehajtási rendelkezések"
+        },
+        {
+          "id": "b2",
+          "answer": "Bizottság felhatalmazással rendelkezik"
+        },
+        {
+          "id": "b3",
+          "answer": "e rendelet alkalmazása érdekében"
+        },
+        {
+          "id": "b4",
+          "answer": "megfelelő intézkedéseket hozzon"
+        },
+        {
+          "id": "b5",
+          "answer": "intézkedések vonatkozhatnak többek között"
+        },
+        {
+          "id": "b6",
+          "answer": "7. cikk értelmében"
+        },
+        {
+          "id": "b7",
+          "answer": "benyújtott panaszok formájára"
+        },
+        {
+          "id": "b8",
+          "answer": "tartalmára és egyéb részleteire"
+        },
+        {
+          "id": "b9",
+          "answer": "panaszok elutasítására vonatkozó eljárásra"
+        },
+        {
+          "id": "b10",
+          "answer": "11. cikkben meghatározott információcserével és konzultációval kapcsolatos gyakorlati intézkedésekre"
+        },
+        {
+          "id": "b11",
+          "answer": "27. cikkben meghatározott meghallgatásokkal kapcsolatos gyakorlati intézkedésekre"
+        },
+        {
+          "id": "b12",
+          "answer": "(1) bekezdés szerinti"
+        },
+        {
+          "id": "b13",
+          "answer": "bármilyen intézkedés elfogadása előtt"
+        },
+        {
+          "id": "b14",
+          "answer": "Bizottság közzéteszi annak tervezetét"
+        },
+        {
+          "id": "b15",
+          "answer": "minden érdekelt felet felszólít arra"
+        },
+        {
+          "id": "b16",
+          "answer": "Bizottság által meghatározott"
+        },
+        {
+          "id": "b17",
+          "answer": "legalább 1 hónapos határidőn belül"
+        },
+        {
+          "id": "b18",
+          "answer": "véleményezzék azt"
+        },
+        {
+          "id": "b19",
+          "answer": "intézkedéstervezet közzététele"
+        },
+        {
+          "id": "b20",
+          "answer": "Bizottság konzultál"
+        },
+        {
+          "id": "b21",
+          "answer": "versenykorlátozó magatartásokkal és erőfölénnyel foglalkozó tanácsadó bizottsággal"
+        }
+      ],
+      "distractors": [
+        "Alkalmazási szabályok",
+        "Bizottság jogosult",
+        "e rendelet végrehajtása érdekében",
+        "szükséges intézkedéseket hozzon",
+        "intézkedések kiterjedhetnek többek között",
+        "7. cikk alapján",
+        "beérkezett panaszok formájára",
+        "tartalmára és egyéb körülményeire",
+        "panaszok visszautasítására vonatkozó eljárásra",
+        "11. cikkben rögzített információcserével és konzultációval kapcsolatos gyakorlati intézkedésekre",
+        "27. cikkben rögzített meghallgatásokkal kapcsolatos gyakorlati intézkedésekre",
+        "(1) bekezdés alapján",
+        "bármilyen szabály elfogadása előtt",
+        "Bizottság nyilvánosságra hozza annak tervezetét",
+        "minden érintett felet felhív arra",
+        "Bizottság által megállapított",
+        "legalább 30 napos határidőn belül",
+        "véleményt nyilvánítsanak róla",
+        "intézkedéstervezet nyilvánosságra hozatala",
+        "Bizottság egyeztet",
+        "versenyszabályozással foglalkozó tanácsadó bizottsággal"
+      ]
+    },
+    {
+      "id": "s16",
+      "cimke": "1/2003/EK rendelet 35. cikk",
+      "text": "__[b1]__ (1) A tagállamok __[b2]__ a __[b3]__ vagy versenyhatóságokat, hogy e rendelet rendelkezéseit __[b4]__. __[b5]__ __[b6]__ az ahhoz __[b7]__, hogy e hatóságok __[b8]__ a __[b9]__. A __[b10]__. (2) Amennyiben a __[b11]__ __[b12]__ __[b13]__, a tagállamok __[b14]__  akár közigazgatási, akár igazságügyi  nemzeti hatóságokhoz __[b15]__. (3) A __[b16]__ __[b17]__, __[b18]__, amelyek az __[b19]__ látnak el funkciókat. A 11. cikk (6) bekezdésének következményei __[b20]__, amennyiben azok az 5. cikkben ismertetett határozattípusok tekintetében __[b21]__. (4) A __[b22]__ azokban a tagállamokban, ahol az 5. cikkben ismertetett bizonyos határozattípusok elfogadásához valamely hatóság a __[b23]__ előtt __[b24]__  __[b25]__ , a 11. cikk (6) bekezdésének következményei az ügyben a jogsértés ellen eljáró hatóságra korlátozódnak, amely visszavonja a bírósághoz benyújtott keresetét, ha a Bizottság az eljárást megkezdi, és ezzel a visszavonással a nemzeti eljárás ténylegesen befejeződik.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A tagállamok versenyhatóságainak kijelölése"
+        },
+        {
+          "id": "b2",
+          "answer": "úgy jelölik ki"
+        },
+        {
+          "id": "b3",
+          "answer": "Szerződés 81. és 82. cikkének alkalmazásáért felelős versenyhatóságot"
+        },
+        {
+          "id": "b4",
+          "answer": "hatékonyan betartsák"
+        },
+        {
+          "id": "b5",
+          "answer": "2004. május 1. előtt"
+        },
+        {
+          "id": "b6",
+          "answer": "meg kell hozni"
+        },
+        {
+          "id": "b7",
+          "answer": "szükséges intézkedéseket"
+        },
+        {
+          "id": "b8",
+          "answer": "felhatalmazást kapjanak"
+        },
+        {
+          "id": "b9",
+          "answer": "fenti cikkek alkalmazására"
+        },
+        {
+          "id": "b10",
+          "answer": "kijelölt hatóságok között lehetnek bíróságok is"
+        },
+        {
+          "id": "b11",
+          "answer": "közösségi versenyjog végrehajtásával"
+        },
+        {
+          "id": "b12",
+          "answer": "nemzeti közigazgatási hatóságokat és bíróságokat"
+        },
+        {
+          "id": "b13",
+          "answer": "bíznak meg"
+        },
+        {
+          "id": "b14",
+          "answer": "ezekhez a különböző"
+        },
+        {
+          "id": "b15",
+          "answer": "eltérő jogköröket és funkciókat rendelhetnek"
+        },
+        {
+          "id": "b16",
+          "answer": "11. cikk (6) bekezdésének következményei"
+        },
+        {
+          "id": "b17",
+          "answer": "érintik a tagállamok által kijelölt hatóságokat"
+        },
+        {
+          "id": "b18",
+          "answer": "ideértve azokat a bíróságokat"
+        },
+        {
+          "id": "b19",
+          "answer": "5. cikkben előirányzott határozattípusok előkészítése és elfogadása tekintetében"
+        },
+        {
+          "id": "b20",
+          "answer": "nem terjednek ki a bíróságokra"
+        },
+        {
+          "id": "b21",
+          "answer": "felülvizsgálati bíróságként járnak el"
+        },
+        {
+          "id": "b22",
+          "answer": "(3) bekezdéstől függetlenül"
+        },
+        {
+          "id": "b23",
+          "answer": "jogsértés ellen eljáró hatóságtól eltérő és elkülönülő bíróság"
+        },
+        {
+          "id": "b24",
+          "answer": "eljárást indít"
+        },
+        {
+          "id": "b25",
+          "answer": "feltéve hogy e bekezdés feltételeit betartják"
+        }
+      ],
+      "distractors": [
+        "Tagállami versenyhatóságok kijelölése",
+        "úgy nevezik ki",
+        "Szerződés 81. és 82. cikke végrehajtásáért felelős versenyhatóságot",
+        "eredményesen alkalmazzák",
+        "2004. május 1-jéig",
+        "meg kell tenni",
+        "megfelelő intézkedéseket",
+        "jogosultságot kapjanak",
+        "fenti cikkek végrehajtására",
+        "kijelölt szervek között lehetnek bíróságok is",
+        "uniós versenyjog végrehajtásával",
+        "nemzeti államigazgatási szerveket és bíróságokat",
+        "megbíznak",
+        "ezen különböző",
+        "különböző hatásköröket és feladatokat rendelhetnek",
+        "11. cikk (6) bekezdésének hatásai",
+        "vonatkoznak a tagállamok által kijelölt hatóságokra",
+        "beleértve azokat a bíróságokat",
+        "5. cikkben előírt határozattípusok előkészítése és elfogadása tekintetében",
+        "nem vonatkoznak a bíróságokra",
+        "felülbírálati bíróságként járnak el",
+        "(3) bekezdéstől eltérően",
+        "jogsértés ellen eljáró hatóságtól különböző és különálló bíróság",
+        "pert indít",
+        "amennyiben e bekezdés feltételei teljesülnek"
+      ]
+    }
+  ],
+  "itemCount": 16,
+  "createdAt": "2026-08-28T07:07:07.368Z"
+}

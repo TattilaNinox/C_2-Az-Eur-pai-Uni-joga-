@@ -1,0 +1,2367 @@
+{
+  "id": "1",
+  "parentId": "OLCUvFF2v37PHc0hJSwq",
+  "variantIndex": 1,
+  "itemCount": 19,
+  "createdAt": "2026-08-28T07:07:27.043Z",
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "GDPR 5. cikk",
+      "text": "(1) A személyes adatok: a) kezelését __[b1]__ és tisztességesen, valamint az érintett számára __[b2]__ módon kell végezni („jogszerűség, tisztességes eljárás és átláthatóság”); b) __[b3]__ meghatározott, egyértelmű és jogszerű __[b4]__, és azokat __[b5]__ ezekkel a célokkal össze nem egyeztethető módon; a 89. cikk (1) bekezdésének megfelelően nem minősül az eredeti céllal __[b6]__ a közérdekű archiválás céljából, __[b7]__ vagy __[b8]__ történő további adatkezelés („célhoz kötöttség”); c) az __[b9]__ szempontjából megfelelőek és relevánsak __[b10]__, és a szükségesre kell __[b11]__ („adattakarékosság”); d) pontosnak és szükség esetén naprakésznek kell lenniük; __[b12]__ meg kell tenni annak érdekében, hogy az adatkezelés céljai szempontjából __[b13]__ haladéktalanul töröljék vagy helyesbítsék („pontosság”); (1) Az Európai Parlament és Tanács (EU) 2015/1535 irányelve (2015. szeptember 9.) a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról (HL L 241., 2015.9.17., 1. o.) L 119/36 HU Az Európai Unió Hivatalos Lapja 2016.5.4. e) __[b14]__, amely az érintettek __[b15]__ a személyes adatok kezelése céljainak eléréséhez szükséges ideig teszi lehetővé; a személyes adatok ennél __[b16]__ csak __[b17]__, amennyiben a személyes adatok kezelésére a 89. cikk (1) bekezdésének megfelelően közérdekű archiválás céljából, tudományos és történelmi kutatási célból vagy statisztikai célból kerül majd sor, az e rendeletben az érintettek jogainak és szabadságainak védelme érdekében előírt __[b18]__ __[b19]__ („korlátozott tárolhatóság”); f) kezelését oly módon kell végezni, hogy megfelelő technikai vagy szervezési intézkedések alkalmazásával biztosítva legyen a személyes adatok megfelelő biztonsága, az adatok jogosulatlan vagy jogellenes kezelésével, __[b20]__ , __[b21]__ __[b22]__ is ideértve („integritás és bizalmas jelleg”). (2) Az __[b23]__ az (1) bekezdésnek való megfelelésért, továbbá __[b24]__ __[b25]__ („elszámoltathatóság”).",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "jogszerűen"
+        },
+        {
+          "id": "b2",
+          "answer": "átlátható"
+        },
+        {
+          "id": "b3",
+          "answer": "gyűjtése csak"
+        },
+        {
+          "id": "b4",
+          "answer": "célból történjen"
+        },
+        {
+          "id": "b5",
+          "answer": "ne kezeljék"
+        },
+        {
+          "id": "b6",
+          "answer": "össze nem egyeztethetőnek"
+        },
+        {
+          "id": "b7",
+          "answer": "tudományos és történelmi kutatási célból"
+        },
+        {
+          "id": "b8",
+          "answer": "statisztikai célból"
+        },
+        {
+          "id": "b9",
+          "answer": "adatkezelés céljai"
+        },
+        {
+          "id": "b10",
+          "answer": "kell, hogy legyenek"
+        },
+        {
+          "id": "b11",
+          "answer": "korlátozódniuk"
+        },
+        {
+          "id": "b12",
+          "answer": "minden észszerű intézkedést"
+        },
+        {
+          "id": "b13",
+          "answer": "pontatlan személyes adatokat"
+        },
+        {
+          "id": "b14",
+          "answer": "tárolásának olyan formában kell történnie"
+        },
+        {
+          "id": "b15",
+          "answer": "azonosítását csak"
+        },
+        {
+          "id": "b16",
+          "answer": "hosszabb ideig történő tárolására"
+        },
+        {
+          "id": "b17",
+          "answer": "akkor kerülhet sor"
+        },
+        {
+          "id": "b18",
+          "answer": "megfelelő technikai és szervezési intézkedések"
+        },
+        {
+          "id": "b19",
+          "answer": "végrehajtására is figyelemmel"
+        },
+        {
+          "id": "b20",
+          "answer": "véletlen elvesztésével"
+        },
+        {
+          "id": "b21",
+          "answer": "megsemmisítésével vagy károsodásával"
+        },
+        {
+          "id": "b22",
+          "answer": "szembeni védelmet"
+        },
+        {
+          "id": "b23",
+          "answer": "adatkezelő felelős"
+        },
+        {
+          "id": "b24",
+          "answer": "képesnek kell lennie"
+        },
+        {
+          "id": "b25",
+          "answer": "e megfelelés igazolására"
+        }
+      ],
+      "distractors": [
+        "jogosan",
+        "világos",
+        "kezdetét csak",
+        "célból valósuljon meg",
+        "nem kezelhetik",
+        "összeegyeztethetetlennek",
+        "oktatási és művészeti célból",
+        "történelmi célból",
+        "adatkezelés elvei",
+        "lehetnek",
+        "összpontosulniuk",
+        "minden szükséges lépést",
+        "hibás személyes adatokat",
+        "kezelésének olyan módon kell történnie",
+        "érintettek azonosítását csupán",
+        "rövidebb ideig tartó kezelésére",
+        "mindig sor kerülhet",
+        "általános technikai és szervezési eljárások",
+        "betartására is tekintettel",
+        "szándékos elvesztésével",
+        "megsemmisítésével és módosításával",
+        "elleni védelmet",
+        "adatkezelő kötelezett",
+        "kötelesnek kell lennie",
+        "e szabályok betartására"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "GDPR 6. cikk",
+      "text": "Az adatkezelés jogszerűsége (1) A személyes adatok kezelése __[b1]__ jogszerű, amennyiben legalább az alábbiak egyike __[b2]__: a) az érintett hozzájárulását adta __[b3]__ __[b4]__ konkrét célból történő __[b5]__; b) az adatkezelés olyan szerződés __[b6]__, amelyben az érintett az egyik fél, vagy az a __[b7]__ az érintett kérésére történő __[b8]__; c) az adatkezelés az __[b9]__ jogi kötelezettség teljesítéséhez szükséges; d) az adatkezelés az érintett vagy egy másik __[b10]__ létfontosságú érdekeinek __[b11]__; e) az adatkezelés közérdekű vagy az adatkezelőre ruházott közhatalmi jogosítvány __[b12]__ __[b13]__; f) az adatkezelés az adatkezelő vagy egy __[b14]__ jogos érdekeinek érvényesítéséhez szükséges, __[b15]__ ezen __[b16]__ elsőbbséget élveznek az érintett olyan érdekei vagy alapvető jogai és szabadságai, amelyek __[b17]__, __[b18]__. Az első albekezdés f) pontja nem alkalmazható a __[b19]__ __[b20]__ végzett adatkezelésre. (2) Az e rendeletben foglalt, __[b21]__ __[b22]__, a tagállamok az (1) bekezdés c) és e) pontjának való megfelelés céljából fenntarthatnak vagy bevezethetnek konkrétabb rendelkezéseket , amelyekben __[b23]__ az adatkezelésre vonatkozó __[b24]__, és amelyekben __[b25]__ az adatkezelés jogszerűségének és tisztességességének biztosítására, ideértve a IX. fejezetben meghatározott egyéb konkrét adatkezelési helyzeteket is. (3) Az (1) bekezdés c) és e) pontja szerinti adatkezelés jogalapját a következőknek kell megállapítania: a) az uniós jog, vagy b) azon tagállami jog, amelynek hatálya alá az adatkezelő tartozik. Az adatkezelés célját e jogalapra hivatkozással kell meghatározni, illetve az (1) bekezdés e) pontjában említett adatkezelés tekintetében annak szükségesnek kell lennie valamely közérdekű vagy az adatkezelőre ruházott közhatalmi jogosítvány gyakorlásának keretében végzett feladat végrehajtásához. Ez a jogalap tartalmazhat az e rendeletben foglalt szabályok alkalmazását kiigazító rendelkezéseket, ideértve az adatkezelő általi adatkezelés jogszerűségére irányadó általános feltételeket, az adatkezelés tárgyát képező adatok típusát, az érintetteket, azokat a jogalanyokat, amelyekkel a személyes adatok közölhetők, illetve az ilyen adatközlés céljait, az adatkezelés céljára vonatkozó korlátozásokat, az adattárolás időtartamát és az adatkezelési műveleteket, valamint egyéb adatkezelési eljárásokat, így a törvényes és tisztességes 2016.5.4. HU Az Európai Unió Hivatalos Lapja L 119/37 adatkezelés biztosításához szükséges intézkedéseket is, ideértve a IX. fejezetben meghatározott egyéb konkrét adatkezelési helyzetekre vonatkozóan. Az uniós vagy tagállami jognak közérdekű célt kell szolgálnia, és arányosnak kell lennie az elérni kívánt jogszerű céllal. (4) Ha az adatgyűjtés céljától eltérő célból történő adatkezelés nem az érintett hozzájárulásán vagy valamely olyan uniós vagy tagállami jogon alapul, amely szükséges és arányos intézkedésnek minősül egy demokratikus társadalomban a 23. cikk (1) bekezdésében rögzített célok eléréséhez, annak megállapításához, hogy az eltérő célú adatkezelés összeegyeztethető-e azzal a céllal, amelyből a személyes adatokat eredetileg gyűjtötték, az adatkezelő többek között figyelembe veszi: a) a személyes adatok gyűjtésének céljait és a tervezett további adatkezelés céljai közötti esetleges kapcsolatokat; b) a személyes adatok gyűjtésének körülményeit, különös tekintettel az érintettek és az adatkezelő közötti kapcsolatokra; c) a személyes adatok jellegét, különösen pedig azt, hogy a 9. cikk szerinti személyes adatok különleges kategóriáinak kezeléséről van-e szó, illetve, hogy büntetőjogi felelősség megállapítására és bűncselekményekre vonatkozó adatoknak a 10. cikk szerinti kezeléséről van-e szó; d) azt, hogy az érintettekre nézve milyen esetleges következményekkel járna az adatok tervezett további kezelése; e) megfelelő garanciák meglétét, ami jelenthet titkosítást vagy álnevesítést is.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "kizárólag akkor és annyiban"
+        },
+        {
+          "id": "b2",
+          "answer": "teljesül"
+        },
+        {
+          "id": "b3",
+          "answer": "személyes adatainak"
+        },
+        {
+          "id": "b4",
+          "answer": "egy vagy több"
+        },
+        {
+          "id": "b5",
+          "answer": "kezeléséhez"
+        },
+        {
+          "id": "b6",
+          "answer": "teljesítéséhez szükséges"
+        },
+        {
+          "id": "b7",
+          "answer": "szerződés megkötését megelőzően"
+        },
+        {
+          "id": "b8",
+          "answer": "lépések megtételéhez szükséges"
+        },
+        {
+          "id": "b9",
+          "answer": "adatkezelőre vonatkozó"
+        },
+        {
+          "id": "b10",
+          "answer": "természetes személy"
+        },
+        {
+          "id": "b11",
+          "answer": "védelme miatt szükséges"
+        },
+        {
+          "id": "b12",
+          "answer": "gyakorlásának keretében végzett feladat"
+        },
+        {
+          "id": "b13",
+          "answer": "végrehajtásához szükséges"
+        },
+        {
+          "id": "b14",
+          "answer": "harmadik fél"
+        },
+        {
+          "id": "b15",
+          "answer": "kivéve, ha"
+        },
+        {
+          "id": "b16",
+          "answer": "érdekekkel szemben"
+        },
+        {
+          "id": "b17",
+          "answer": "személyes adatok védelmét teszik szükségessé"
+        },
+        {
+          "id": "b18",
+          "answer": "különösen, ha az érintett gyermek"
+        },
+        {
+          "id": "b19",
+          "answer": "közhatalmi szervek által"
+        },
+        {
+          "id": "b20",
+          "answer": "feladataik ellátása során"
+        },
+        {
+          "id": "b21",
+          "answer": "adatkezelésre vonatkozó szabályok"
+        },
+        {
+          "id": "b22",
+          "answer": "alkalmazásának kiigazítása érdekében"
+        },
+        {
+          "id": "b23",
+          "answer": "pontosabban meghatározzák"
+        },
+        {
+          "id": "b24",
+          "answer": "konkrét követelményeket"
+        },
+        {
+          "id": "b25",
+          "answer": "további intézkedéseket tesznek"
+        }
+      ],
+      "distractors": [
+        "csak akkor és kizárólag",
+        "érvényesül",
+        "személyes adataira",
+        "egy vagy kettő",
+        "feldolgozásához",
+        "teljesítéséhez kötelező",
+        "szerződés megkötése előtt",
+        "cselekvések megtételéhez szükséges",
+        "adatkezelőre irányadó",
+        "jogi személy",
+        "védelme miatt kötelező",
+        "gyakorlásának keretében végzett tevékenység",
+        "végrehajtásához kötelező",
+        "másik fél",
+        "kivéve, amennyiben",
+        "érdekekkel szemben álló",
+        "személyes adatok védelmét biztosítják",
+        "főként, ha az érintett kiskorú",
+        "állami szervek által",
+        "hatáskörük gyakorlása során",
+        "adatkezelésre irányadó előírások",
+        "alkalmazásának módosítása céljából",
+        "részletesebben előírják",
+        "általános feltételeket",
+        "kiegészítő rendelkezéseket hoznak"
+      ]
+    },
+    {
+      "id": "s3",
+      "cimke": "GDPR 7. cikk",
+      "text": "A __[b1]__ (1) Ha az adatkezelés __[b2]__, az __[b3]__ képesnek kell lennie annak igazolására, __[b4]__ személyes adatainak kezeléséhez hozzájárult. (2) Ha az érintett __[b5]__ __[b6]__ __[b7]__, amely más ügyekre is vonatkozik, a __[b8]__ __[b9]__ egyértelműen megkülönböztethető módon kell előadni, érthető és könnyen hozzáférhető formában, világos és egyszerű nyelvezettel. Az érintett hozzájárulását tartalmazó ilyen nyilatkozat __[b10]__, amely __[b11]__, kötelező erővel nem bír. (3) Az érintett jogosult arra, hogy hozzájárulását bármikor visszavonja. A __[b12]__ nem érinti a __[b13]__, a visszavonás előtti adatkezelés jogszerűségét. A hozzájárulás __[b14]__ az érintettet __[b15]__ kell. A hozzájárulás visszavonását ugyanolyan egyszerű módon __[b16]__, __[b17]__. (4) __[b18]__, hogy a hozzájárulás önkéntes-e, a lehető legnagyobb mértékben figyelembe kell venni __[b19]__, __[b20]__, hogy a __[b21]__ – __[b22]__ – __[b23]__ __[b24]__ __[b25]__ hozzájárulást, amelyek nem szükségesek a szerződés teljesítéséhez.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "hozzájárulás feltételei"
+        },
+        {
+          "id": "b2",
+          "answer": "hozzájáruláson alapul"
+        },
+        {
+          "id": "b3",
+          "answer": "adatkezelőnek"
+        },
+        {
+          "id": "b4",
+          "answer": "hogy az érintett"
+        },
+        {
+          "id": "b5",
+          "answer": "hozzájárulását"
+        },
+        {
+          "id": "b6",
+          "answer": "olyan írásbeli nyilatkozat keretében"
+        },
+        {
+          "id": "b7",
+          "answer": "adja meg"
+        },
+        {
+          "id": "b8",
+          "answer": "hozzájárulás iránti kérelmet"
+        },
+        {
+          "id": "b9",
+          "answer": "ezektől a más ügyektől"
+        },
+        {
+          "id": "b10",
+          "answer": "bármely olyan része"
+        },
+        {
+          "id": "b11",
+          "answer": "sérti e rendeletet"
+        },
+        {
+          "id": "b12",
+          "answer": "hozzájárulás visszavonása"
+        },
+        {
+          "id": "b13",
+          "answer": "hozzájáruláson alapuló"
+        },
+        {
+          "id": "b14",
+          "answer": "megadása előtt"
+        },
+        {
+          "id": "b15",
+          "answer": "erről tájékoztatni"
+        },
+        {
+          "id": "b16",
+          "answer": "kell lehetővé tenni"
+        },
+        {
+          "id": "b17",
+          "answer": "mint annak megadását"
+        },
+        {
+          "id": "b18",
+          "answer": "Annak megállapítása során"
+        },
+        {
+          "id": "b19",
+          "answer": "azt a tényt"
+        },
+        {
+          "id": "b20",
+          "answer": "egyebek mellett"
+        },
+        {
+          "id": "b21",
+          "answer": "szerződés teljesítésének"
+        },
+        {
+          "id": "b22",
+          "answer": "beleértve a szolgáltatások nyújtását is"
+        },
+        {
+          "id": "b23",
+          "answer": "feltételéül szabták-e"
+        },
+        {
+          "id": "b24",
+          "answer": "az olyan személyes adatok"
+        },
+        {
+          "id": "b25",
+          "answer": "kezeléséhez való"
+        }
+      ],
+      "distractors": [
+        "engedélyezés elvei",
+        "engedélyen alapul",
+        "felhasználónak",
+        "e tény ellenőrzésére",
+        "jóváhagyását",
+        "egy írásbeli dokumentum formájában",
+        "biztosítja",
+        "engedély iránti kérést",
+        "ezektől a többi ügytől",
+        "bármely része",
+        "szembemegy e jogszabállyal",
+        "engedély visszavonása",
+        "engedélyen alapuló",
+        "jóváhagyása előtt",
+        "erről értesíteni",
+        "lehetővé kell tenni",
+        "mint annak biztosítását",
+        "A felmérése során",
+        "ezt a tényt",
+        "többek között",
+        "megállapodás teljesítésének",
+        "beleértve az ellátások biztosítását is",
+        "feltételéül szabták-e azt",
+        "az ilyen személyes adatok",
+        "kezeléséhez tartozó"
+      ]
+    },
+    {
+      "id": "s4",
+      "cimke": "GDPR 8. cikk",
+      "text": "A __[b1]__ az információs társadalommal összefüggő szolgáltatások vonatkozásában (1) Ha a 6. cikk (1) bekezdésének a) pontja alkalmazandó, a __[b2]__, információs társadalommal összefüggő szolgáltatások __[b3]__ __[b4]__ __[b5]__, __[b6]__ a __[b7]__. A 16. életévét be nem töltött gyermek esetén, __[b8]__ __[b9]__ __[b10]__ jogszerű, __[b11]__ __[b12]__ szülői felügyeletet gyakorló adta meg, illetve engedélyezte. __[b13]__ jogszabályban ennél alacsonyabb, de a __[b14]__ __[b15]__ . L 119/38 HU Az Európai Unió Hivatalos Lapja 2016.5.4. (2) Az __[b16]__ __[b17]__ – észszerű erőfeszítéseket tesz, __[b18]__ ellenőrizze, __[b19]__ a gyermek feletti __[b20]__ adta meg, illetve engedélyezte. (3) Az (1) bekezdés nem érinti a tagállamok általános szerződési jogát, például a gyermek által __[b21]__ érvényességére, __[b22]__ __[b23]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "gyermek hozzájárulására vonatkozó feltételek"
+        },
+        {
+          "id": "b2",
+          "answer": "közvetlenül gyermekeknek kínált"
+        },
+        {
+          "id": "b3",
+          "answer": "vonatkozásában végzett"
+        },
+        {
+          "id": "b4",
+          "answer": "személyes adatok kezelése"
+        },
+        {
+          "id": "b5",
+          "answer": "akkor jogszerű"
+        },
+        {
+          "id": "b6",
+          "answer": "ha a gyermek"
+        },
+        {
+          "id": "b7",
+          "answer": "16. életévét betöltötte"
+        },
+        {
+          "id": "b8",
+          "answer": "a gyermekek személyes adatainak"
+        },
+        {
+          "id": "b9",
+          "answer": "kezelése csak akkor"
+        },
+        {
+          "id": "b10",
+          "answer": "és olyan mértékben"
+        },
+        {
+          "id": "b11",
+          "answer": "ha a hozzájárulást"
+        },
+        {
+          "id": "b12",
+          "answer": "a gyermek feletti"
+        },
+        {
+          "id": "b13",
+          "answer": "A tagállamok e célokból"
+        },
+        {
+          "id": "b14",
+          "answer": "13. életévnél nem alacsonyabb"
+        },
+        {
+          "id": "b15",
+          "answer": "életkort is megállapíthatnak"
+        },
+        {
+          "id": "b16",
+          "answer": "adatkezelő – figyelembe véve"
+        },
+        {
+          "id": "b17",
+          "answer": "az elérhető technológiát"
+        },
+        {
+          "id": "b18",
+          "answer": "hogy ilyen esetekben"
+        },
+        {
+          "id": "b19",
+          "answer": "hogy a hozzájárulást"
+        },
+        {
+          "id": "b20",
+          "answer": "szülői felügyeleti jog gyakorlója"
+        },
+        {
+          "id": "b21",
+          "answer": "kötött szerződések"
+        },
+        {
+          "id": "b22",
+          "answer": "formájára vagy hatályára"
+        },
+        {
+          "id": "b23",
+          "answer": "vonatkozó szabályokat"
+        }
+      ],
+      "distractors": [
+        "kiskorú engedélyezési feltételei",
+        "direkt módon gyerekeknek nyújtott",
+        "kapcsolatban végzett",
+        "személyes adatok feldolgozása",
+        "akkor törvényes",
+        "amennyiben a kiskorú",
+        "18. életévét betöltötte",
+        "A kiskorúak személyes adataira",
+        "feldolgozása csupán akkor",
+        "és ilyen mértékben",
+        "ha az engedélyt",
+        "a gyermek feletti jog",
+        "A tagállamok e célból",
+        "14. életévnél nem idősebb",
+        "kort is meghatározhatnak",
+        "adatkezelő – figyelembe véve azt",
+        "a rendelkezésre álló technológiát",
+        "hogy ilyen esetekben is",
+        "hogy az engedélyt",
+        "gyermeki felügyeleti jog gyakorlója",
+        "megkötött megállapodások",
+        "tartalmára vagy érvényére",
+        "vonatkozó előírásokat"
+      ]
+    },
+    {
+      "id": "s5",
+      "cimke": "GDPR 9. cikk",
+      "text": "A személyes adatok __[b1]__ kezelése (1) A __[b2]__ __[b3]__, politikai véleményre, vallási vagy világnézeti meggyőződésre vagy szakszervezeti tagságra __[b4]__ személyes adatok, valamint a természetes személyek __[b5]__ __[b6]__ genetikai és biometrikus adatok, az egészségügyi adatok és a természetes személyek szexuális életére vagy szexuális irányultságára vonatkozó személyes adatok __[b7]__. (2) Az (1) bekezdés nem alkalmazandó __[b8]__, ha: a) __[b9]__ kifejezett hozzájárulását adta az említett személyes adatok __[b10]__ konkrét célból történő __[b11]__, __[b12]__ az uniós vagy tagállami jog __[b13]__, hogy az (1) bekezdésben említett __[b14]__ nem oldható fel __[b15]__; b) az adatkezelés __[b16]__ vagy __[b17]__ a foglalkoztatást, valamint a szociális biztonságot és szociális védelmet __[b18]__ __[b19]__ fakadó __[b20]__ teljesítése és konkrét jogai __[b21]__ __[b22]__, ha az érintett __[b23]__ és __[b24]__ __[b25]__ is rendelkező uniós vagy tagállami jog, illetve a tagállami jog szerinti kollektív szerződés ezt lehetővé teszi; c) az adatkezelés az érintett vagy más természetes személy létfontosságú érdekeinek védelméhez szükséges, ha az érintett fizikai vagy jogi cselekvőképtelensége folytán nem képes a hozzájárulását megadni; d) az adatkezelés valamely politikai, világnézeti, vallási vagy szakszervezeti célú alapítvány, egyesület vagy bármely más nonprofit szervezet megfelelő garanciák mellett végzett jogszerű tevékenysége keretében történik, azzal a feltétellel, hogy az adatkezelés kizárólag az ilyen szerv jelenlegi vagy volt tagjaira, vagy olyan személyekre vonatkozik, akik a szervezettel rendszeres kapcsolatban állnak a szervezet céljaihoz kapcsolódóan, és hogy a személyes adatokat az érintettek hozzájárulása nélkül nem teszik hozzáférhetővé a szervezeten kívüli személyek számára; e) az adatkezelés olyan személyes adatokra vonatkozik, amelyeket az érintett kifejezetten nyilvánosságra hozott; f) az adatkezelés jogi igények előterjesztéséhez, érvényesítéséhez, illetve védelméhez szükséges, vagy amikor a bíróságok igazságszolgáltatási feladatkörükben járnak el; g) az adatkezelés jelentős közérdek miatt szükséges, uniós jog vagy tagállami jog alapján, amely arányos az elérni kívánt céllal, tiszteletben tartja a személyes adatok védelméhez való jog lényeges tartalmát, és az érintett alapvető jogainak és érdekeinek biztosítására megfelelő és konkrét intézkedéseket ír elő; h) az adatkezelés megelőző egészségügyi vagy munkahelyi egészségügyi célokból, a munkavállaló munkavégzési képességének felmérése, orvosi diagnózis felállítása, egészségügyi vagy szociális ellátás vagy kezelés nyújtása, illetve egészségügyi vagy szociális rendszerek és szolgáltatások irányítása érdekében szükséges, uniós vagy tagállami jog alapján vagy egészségügyi szakemberrel kötött szerződés értelmében, továbbá a (3) bekezdésben említett feltételekre és garanciákra figyelemmel; i) az adatkezelés a népegészségügy területét érintő olyan közérdekből szükséges, mint a határokon át terjedő súlyos egészségügyi veszélyekkel szembeni védelem vagy az egészségügyi ellátás, a gyógyszerek és az orvostechnikai eszközök magas színvonalának és biztonságának a biztosítása, és olyan uniós vagy tagállami jog alapján történik, amely megfelelő és konkrét intézkedésekről rendelkezik az érintett jogait és szabadságait védő garanciákra, és különösen a szakmai titoktartásra vonatkozóan; 2016.5.4. HU Az Európai Unió Hivatalos Lapja L 119/39 j) az adatkezelés a 89. cikk (1) bekezdésével összhangban a közérdekű archiválás céljából, tudományos és történelmi kutatási célból vagy statisztikai célból szükséges olyan uniós vagy tagállami jog alapján, amely arányos az elérni kívánt céllal, tiszteletben tartja a személyes adatok védelméhez való jog lényeges tartalmát, és az érintett alapvető jogainak és érdekeinek biztosítására megfelelő és konkrét intézkedéseket ír elő; (3) Az (1) bekezdésben említett személyes adatokat abban az esetben lehet a (2) bekezdés h) pontjában említett célokból kezelni, ha ezen adatok kezelése olyan szakember által vagy olyan szakember felelőssége mellett történik, aki uniós vagy tagállami jogban, illetve az arra hatáskörrel rendelkező tagállami szervek által megállapított szabályokban meghatározott szakmai titoktartási kötelezettség hatálya alatt áll, illetve olyan más személy által, aki szintén uniós vagy tagállami jogban, illetve az arra hatáskörrel rendelkező tagállami szervek által megállapított szabályokban meghatározott titoktartási kötelezettség hatálya alatt áll. (4) A tagállamok további feltételeket – köztük korlátozásokat – tarthatnak hatályban, illetve vezethetnek be a genetikai adatok, a biometrikus adatok és az egészségügyi adatok kezelésére vonatkozóan.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "különleges kategóriáinak"
+        },
+        {
+          "id": "b2",
+          "answer": "faji vagy etnikai"
+        },
+        {
+          "id": "b3",
+          "answer": "származásra"
+        },
+        {
+          "id": "b4",
+          "answer": "utaló"
+        },
+        {
+          "id": "b5",
+          "answer": "egyedi azonosítását"
+        },
+        {
+          "id": "b6",
+          "answer": "célzó"
+        },
+        {
+          "id": "b7",
+          "answer": "kezelése tilos"
+        },
+        {
+          "id": "b8",
+          "answer": "abban az esetben"
+        },
+        {
+          "id": "b9",
+          "answer": "az érintett"
+        },
+        {
+          "id": "b10",
+          "answer": "egy vagy több"
+        },
+        {
+          "id": "b11",
+          "answer": "kezeléséhez"
+        },
+        {
+          "id": "b12",
+          "answer": "kivéve, ha"
+        },
+        {
+          "id": "b13",
+          "answer": "úgy rendelkezik"
+        },
+        {
+          "id": "b14",
+          "answer": "tilalom"
+        },
+        {
+          "id": "b15",
+          "answer": "az érintett hozzájárulásával"
+        },
+        {
+          "id": "b16",
+          "answer": "az adatkezelőnek"
+        },
+        {
+          "id": "b17",
+          "answer": "az érintettnek"
+        },
+        {
+          "id": "b18",
+          "answer": "szabályozó"
+        },
+        {
+          "id": "b19",
+          "answer": "jogi előírásokból"
+        },
+        {
+          "id": "b20",
+          "answer": "kötelezettségei"
+        },
+        {
+          "id": "b21",
+          "answer": "gyakorlása érdekében"
+        },
+        {
+          "id": "b22",
+          "answer": "szükséges"
+        },
+        {
+          "id": "b23",
+          "answer": "alapvető jogait"
+        },
+        {
+          "id": "b24",
+          "answer": "érdekeit védő"
+        },
+        {
+          "id": "b25",
+          "answer": "megfelelő garanciákról"
+        }
+      ],
+      "distractors": [
+        "általános kategóriáinak",
+        "faji vagy nemi",
+        "eredetére",
+        "jelző",
+        "egyedi felismerését",
+        "irányuló",
+        "feldolgozása tilos",
+        "abban az esetben is",
+        "a jogosult",
+        "két vagy több",
+        "feldolgozásához",
+        "kivéve, amennyiben",
+        "úgy határoz",
+        "tiltás",
+        "a jogosult beleegyezésével",
+        "a feldolgozónak",
+        "a jogosultnak",
+        "szabályozott",
+        "jogi szabályokból",
+        "feladatai",
+        "gyakorlása céljából",
+        "kötelező",
+        "alapvető szabadságait",
+        "érdekeit biztosító",
+        "általános biztosítékokról"
+      ]
+    },
+    {
+      "id": "s6",
+      "cimke": "GDPR 10. cikk",
+      "text": "A __[b1]__ __[b2]__ vonatkozó __[b3]__ és a __[b4]__ vonatkozó __[b5]__ __[b6]__ A büntetőjogi felelősség megállapítására vonatkozó határozatokra és a bűncselekményekre, illetve a __[b7]__ vonatkozó személyes adatoknak __[b8]__ (1) bekezdése __[b9]__ kezelésére kizárólag abban az esetben __[b10]__, __[b11]__ közhatalmi szerv __[b12]__, __[b13]__ adatkezelést __[b14]__ és __[b15]__ megfelelő __[b16]__ uniós vagy tagállami __[b17]__ lehetővé teszi. A büntetőjogi felelősség megállapítására vonatkozó __[b18]__ __[b19]__ __[b20]__ közhatalmi szerv __[b21]__ __[b22]__ történhet.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "büntetőjogi"
+        },
+        {
+          "id": "b2",
+          "answer": "felelősség megállapítására"
+        },
+        {
+          "id": "b3",
+          "answer": "határozatokra"
+        },
+        {
+          "id": "b4",
+          "answer": "bűncselekményekre"
+        },
+        {
+          "id": "b5",
+          "answer": "személyes adatok"
+        },
+        {
+          "id": "b6",
+          "answer": "kezelése"
+        },
+        {
+          "id": "b7",
+          "answer": "kapcsolódó biztonsági intézkedésekre"
+        },
+        {
+          "id": "b8",
+          "answer": "a 6. cikk"
+        },
+        {
+          "id": "b9",
+          "answer": "alapján történő"
+        },
+        {
+          "id": "b10",
+          "answer": "kerülhet sor"
+        },
+        {
+          "id": "b11",
+          "answer": "ha az"
+        },
+        {
+          "id": "b12",
+          "answer": "adatkezelésében történik"
+        },
+        {
+          "id": "b13",
+          "answer": "vagy ha az"
+        },
+        {
+          "id": "b14",
+          "answer": "az érintett jogai"
+        },
+        {
+          "id": "b15",
+          "answer": "szabadságai tekintetében"
+        },
+        {
+          "id": "b16",
+          "answer": "garanciákat nyújtó"
+        },
+        {
+          "id": "b17",
+          "answer": "jog"
+        },
+        {
+          "id": "b18",
+          "answer": "határozatok teljes"
+        },
+        {
+          "id": "b19",
+          "answer": "körű nyilvántartása"
+        },
+        {
+          "id": "b20",
+          "answer": "csak"
+        },
+        {
+          "id": "b21",
+          "answer": "által végzett"
+        },
+        {
+          "id": "b22",
+          "answer": "adatkezelés keretében"
+        }
+      ],
+      "distractors": [
+        "büntetlenségi",
+        "felelősség kivizsgálására",
+        "rendelkezésekre",
+        "szabálysértésekre",
+        "érzékeny adatok",
+        "feldolgozása",
+        "kapcsolódó védelmi eljárásokra",
+        "a 7. cikk",
+        "alapján megvalósuló",
+        "megtörténhet",
+        "amennyiben az",
+        "adatkezelésében valósul meg",
+        "vagy ha a",
+        "a jogosult jogai",
+        "szabadságai szempontjából",
+        "biztosítékokat nyújtó",
+        "előírás",
+        "ítéletek részleges",
+        "nyilvántartása",
+        "kizárólag",
+        "által végrehajtott",
+        "adatkezelés során"
+      ]
+    },
+    {
+      "id": "s7",
+      "cimke": "GDPR 11. cikk",
+      "text": "__[b1]__ __[b2]__ (1) Ha __[b3]__, amelyekből __[b4]__ a __[b5]__ __[b6]__, __[b7]__ nem teszik szükségessé __[b8]__ __[b9]__ azonosítását, az adatkezelő nem köteles kiegészítő információkat megőrizni, beszerezni vagy kezelni __[b10]__, hogy __[b11]__ azért __[b12]__, hogy __[b13]__ __[b14]__. (2) Ha az __[b15]__ (1) bekezdésében említett esetekben az adatkezelő bizonyítani tudja, hogy nincs abban a helyzetben, hogy azonosítsa az érintettet, erről lehetőség szerint őt megfelelő módon tájékoztatja. Ilyen esetekben a 15–20. cikk nem alkalmazandó, kivéve, ha az érintett abból a célból, hogy az említett cikkek szerinti jogait gyakorolja, az azonosítását lehetővé tevő kiegészítő információkat nyújt.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Azonosítást nem igénylő"
+        },
+        {
+          "id": "b2",
+          "answer": "adatkezelés"
+        },
+        {
+          "id": "b3",
+          "answer": "azok a célok"
+        },
+        {
+          "id": "b4",
+          "answer": "az adatkezelő"
+        },
+        {
+          "id": "b5",
+          "answer": "személyes adatokat"
+        },
+        {
+          "id": "b6",
+          "answer": "kezeli"
+        },
+        {
+          "id": "b7",
+          "answer": "nem vagy már"
+        },
+        {
+          "id": "b8",
+          "answer": "az érintettnek"
+        },
+        {
+          "id": "b9",
+          "answer": "az adatkezelő általi"
+        },
+        {
+          "id": "b10",
+          "answer": "annak érdekében"
+        },
+        {
+          "id": "b11",
+          "answer": "pusztán"
+        },
+        {
+          "id": "b12",
+          "answer": "azonosítsa az érintettet"
+        },
+        {
+          "id": "b13",
+          "answer": "megfeleljen"
+        },
+        {
+          "id": "b14",
+          "answer": "e rendeletnek"
+        },
+        {
+          "id": "b15",
+          "answer": "e cikk"
+        }
+      ],
+      "distractors": [
+        "Felismerést nem igénylő",
+        "feldolgozás",
+        "ezek a célok",
+        "a feldolgozó",
+        "érzékeny adatokat",
+        "feldolgozza",
+        "nem vagy soha",
+        "a jogosultnak",
+        "a feldolgozó által",
+        "azért, hogy",
+        "csupán",
+        "azonosítsa a jogosultat",
+        "eleget tegyen",
+        "e törvénynek",
+        "ez a cikk"
+      ]
+    },
+    {
+      "id": "s8",
+      "cimke": "GDPR 12. cikk",
+      "text": "__[b1]__, __[b2]__ és __[b3]__ __[b4]__ __[b5]__ (1) __[b6]__ __[b7]__ __[b8]__ __[b9]__ a __[b10]__ vonatkozó, a 13. és a 14. cikkben __[b11]__ és a 15–22. és 34. cikk szerinti __[b12]__ tömör, átlátható, érthető és könnyen hozzáférhető formában, világosan és közérthetően __[b13]__, __[b14]__ __[b15]__ esetében. Az információkat __[b16]__ módon – ideértve __[b17]__ az __[b18]__ – kell megadni. __[b19]__ szóbeli tájékoztatás is adható, __[b20]__ más módon igazolták __[b21]__. L 119/40 HU Az Európai Unió Hivatalos Lapja 2016.5.4. (2) Az adatkezelő elősegíti az érintett 15–22. cikk szerinti __[b22]__. A 11. cikk (2) bekezdésében említett esetekben az adatkezelő az érintett 15–22. cikk szerinti jogai gyakorlására irányuló kérelmének a teljesítését nem tagadhatja meg, kivéve, ha bizonyítja, hogy az érintettet nem áll módjában azonosítani. (3) Az adatkezelő indokolatlan késedelem nélkül, de mindenféleképpen a kérelem beérkezésétől számított egy hónapon belül tájékoztatja az érintettet a 15–22. cikk szerinti kérelem nyomán hozott intézkedésekről. Szükség esetén, figyelembe véve a kérelem összetettségét és a kérelmek számát, ez a határidő további két hónappal meghosszabbítható. A határidő meghosszabbításáról az adatkezelő a késedelem okainak megjelölésével a kérelem kézhezvételétől számított egy hónapon belül tájékoztatja az érintettet. Ha az érintett elektronikus úton nyújtotta be a kérelmet, a tájékoztatást lehetőség szerint elektronikus úton kell megadni, kivéve, ha az érintett azt másként kéri. (4) Ha az adatkezelő nem tesz intézkedéseket az érintett kérelme nyomán, késedelem nélkül, de legkésőbb a kérelem beérkezésétől számított egy hónapon belül tájékoztatja az érintettet az intézkedés elmaradásának okairól, valamint arról, hogy az érintett panaszt nyújthat be valamely felügyeleti hatóságnál, és élhet bírósági jogorvoslati jogával. (5) A 13. és 14. cikk szerinti információkat és a 15–22. és 34. cikk szerinti tájékoztatást és intézkedést díjmentesen kell biztosítani. Ha az érintett kérelme egyértelműen megalapozatlan vagy – különösen ismétlődő jellege miatt – túlzó, az adatkezelő, figyelemmel a kért információ vagy tájékoztatás nyújtásával vagy a kért intézkedés meghozatalával járó adminisztratív költségekre: a) észszerű összegű díjat számíthat fel, vagy b) megtagadhatja a kérelem alapján történő intézkedést. A kérelem egyértelműen megalapozatlan vagy túlzó jellegének bizonyítása az adatkezelőt terheli. (6) A 11. cikk sérelme nélkül, ha az adatkezelőnek megalapozott kétségei vannak a 15–21. cikk szerinti kérelmet benyújtó természetes személy kilétével kapcsolatban, további, az érintett személyazonosságának megerősítéséhez szükséges információk nyújtását kérheti. (7) Az érintett részére a 13. és 14. cikk alapján nyújtandó információkat szabványosított ikonokkal is ki lehet egészíteni annak érdekében, hogy a tervezett adatkezelésről az érintett jól látható, könnyen érthető és jól olvasható formában kapjon általános tájékoztatást. Az elektronikusan megjelenített ikonoknak géppel olvashatónak kell lenniük. (8) A Bizottság felhatalmazást kap arra, hogy a 92. cikkel összhangban felhatalmazáson alapuló jogi aktusokat fogadjon el az ikonok által megjelenítendő információk és a szabványosított ikonok biztosítására vonatkozó eljárások meghatározása céljából.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Átlátható tájékoztatás"
+        },
+        {
+          "id": "b2",
+          "answer": "kommunikáció"
+        },
+        {
+          "id": "b3",
+          "answer": "az érintett jogainak"
+        },
+        {
+          "id": "b4",
+          "answer": "gyakorlására vonatkozó"
+        },
+        {
+          "id": "b5",
+          "answer": "intézkedések"
+        },
+        {
+          "id": "b6",
+          "answer": "Az adatkezelő"
+        },
+        {
+          "id": "b7",
+          "answer": "megfelelő intézkedéseket hoz"
+        },
+        {
+          "id": "b8",
+          "answer": "annak érdekében, hogy"
+        },
+        {
+          "id": "b9",
+          "answer": "az érintett részére"
+        },
+        {
+          "id": "b10",
+          "answer": "személyes adatok kezelésére"
+        },
+        {
+          "id": "b11",
+          "answer": "említett valamennyi információt"
+        },
+        {
+          "id": "b12",
+          "answer": "minden egyes tájékoztatást"
+        },
+        {
+          "id": "b13",
+          "answer": "megfogalmazva nyújtsa"
+        },
+        {
+          "id": "b14",
+          "answer": "különösen a gyermekeknek"
+        },
+        {
+          "id": "b15",
+          "answer": "címzett bármely információ"
+        },
+        {
+          "id": "b16",
+          "answer": "írásban vagy más"
+        },
+        {
+          "id": "b17",
+          "answer": "adott esetben"
+        },
+        {
+          "id": "b18",
+          "answer": "elektronikus utat is"
+        },
+        {
+          "id": "b19",
+          "answer": "Az érintett kérésére"
+        },
+        {
+          "id": "b20",
+          "answer": "feltéve, hogy"
+        },
+        {
+          "id": "b21",
+          "answer": "az érintett személyazonosságát"
+        },
+        {
+          "id": "b22",
+          "answer": "jogainak a gyakorlását"
+        }
+      ],
+      "distractors": [
+        "Érthető tájékoztatás",
+        "párbeszéd",
+        "a jogosult jogainak",
+        "gyakorlására irányuló",
+        "rendelkezések",
+        "A feldolgozó",
+        "szükséges lépéseket tesz",
+        "azzal a céllal, hogy",
+        "a jogosult részére",
+        "személyes adatok feldolgozására",
+        "említett minden információt",
+        "minden egyes értesítést",
+        "megfogalmazva biztosítsa",
+        "főként a kiskorúaknak",
+        "címzett bármilyen adatot",
+        "szóban vagy más",
+        "esetlegesen",
+        "a digitális utat is",
+        "A jogosult kérelmére",
+        "azzal a feltétellel, hogy",
+        "a jogosult személyazonosságát",
+        "jogainak érvényesítését"
+      ]
+    },
+    {
+      "id": "s9",
+      "cimke": "GDPR 13. cikk",
+      "text": "__[b1]__, ha a személyes adatokat az érintettől gyűjtik (1) Ha az érintettre vonatkozó személyes adatokat az érintettől gyűjtik, az adatkezelő a személyes adatok __[b2]__ az érintett rendelkezésére bocsátja a következő __[b3]__: a) az adatkezelőnek és – ha van ilyen – az adatkezelő képviselőjének a __[b4]__; b) az adatvédelmi tisztviselő elérhetőségei, ha van ilyen; c) a személyes adatok __[b5]__ célja, valamint az adatkezelés jogalapja; 2016.5.4. HU Az Európai Unió Hivatalos Lapja L 119/41 d) a 6. cikk (1) bekezdésének f) pontján alapuló adatkezelés esetén, az adatkezelő vagy __[b6]__ jogos érdekei; e) __[b7]__ a személyes adatok címzettjei, illetve a __[b8]__, ha van ilyen; f) adott esetben annak ténye, hogy az adatkezelő harmadik országba vagy nemzetközi szervezet részére kívánja __[b9]__, továbbá a __[b10]__, vagy a 46. cikkben, a 47. cikkben vagy a 49. cikk (1) bekezdésének második albekezdésében említett __[b11]__ a megfelelő és alkalmas garanciák megjelölése, valamint az azok __[b12]__ vagy az azok elérhetőségére való hivatkozás. (2) Az (1) bekezdésben említett információk mellett az adatkezelő a személyes adatok megszerzésének időpontjában, annak érdekében, hogy a tisztességes és átlátható adatkezelést biztosítsa, az érintettet a következő __[b13]__ tájékoztatja: a) a személyes adatok tárolásának időtartamáról, vagy ha ez nem lehetséges, ezen időtartam meghatározásának szempontjairól; b) az érintett azon jogáról, hogy __[b14]__ a rá vonatkozó személyes adatokhoz való __[b15]__, azok helyesbítését, törlését vagy kezelésének korlátozását, és tiltakozhat az ilyen személyes adatok kezelése ellen, valamint az érintett adathordozhatósághoz való jogáról; c) a 6. cikk (1) bekezdésének a) pontján vagy a 9. cikk (2) bekezdésének a) pontján alapuló adatkezelés esetén a hozzájárulás __[b16]__ való jog, amely nem érinti a visszavonás előtt a hozzájárulás alapján végrehajtott adatkezelés jogszerűségét; d) a felügyeleti hatósághoz címzett __[b17]__; e) arról, hogy a személyes adat szolgáltatása __[b18]__ vagy szerződés kötésének előfeltétele-e, valamint hogy az érintett __[b19]__, továbbá hogy milyen __[b20]__ az __[b21]__; f) a 22. cikk (1) és (4) bekezdésében említett automatizált döntéshozatal ténye, ideértve a profilalkotást is, valamint legalább ezekben az esetekben az __[b22]__ és arra vonatkozóan érthető információk, hogy az ilyen adatkezelés milyen jelentőséggel, és az érintettre nézve milyen __[b23]__. (3) Ha az adatkezelő a személyes adatokon a __[b24]__ további adatkezelést kíván végezni, a további adatkezelést megelőzően tájékoztatnia kell az érintettet erről az eltérő célról és a (2) bekezdésben említett minden releváns kiegészítő információról. (4) Az (1), (2) és (3) bekezdés __[b25]__, ha és amilyen mértékben az érintett már rendelkezik az információkkal .",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Rendelkezésre bocsátandó információk"
+        },
+        {
+          "id": "b2",
+          "answer": "megszerzésének időpontjában"
+        },
+        {
+          "id": "b3",
+          "answer": "információk mindegyikét"
+        },
+        {
+          "id": "b4",
+          "answer": "kiléte és elérhetőségei"
+        },
+        {
+          "id": "b5",
+          "answer": "tervezett kezelésének"
+        },
+        {
+          "id": "b6",
+          "answer": "harmadik fél"
+        },
+        {
+          "id": "b7",
+          "answer": "adott esetben"
+        },
+        {
+          "id": "b8",
+          "answer": "címzettek kategóriái"
+        },
+        {
+          "id": "b9",
+          "answer": "továbbítani a személyes adatokat"
+        },
+        {
+          "id": "b10",
+          "answer": "Bizottság megfelelőségi határozatának léte vagy annak hiánya"
+        },
+        {
+          "id": "b11",
+          "answer": "adattovábbítás esetén"
+        },
+        {
+          "id": "b12",
+          "answer": "másolatának megszerzésére szolgáló módokra"
+        },
+        {
+          "id": "b13",
+          "answer": "kiegészítő információkról"
+        },
+        {
+          "id": "b14",
+          "answer": "kérelmezheti az adatkezelőtől"
+        },
+        {
+          "id": "b15",
+          "answer": "hozzáférést"
+        },
+        {
+          "id": "b16",
+          "answer": "bármely időpontban történő visszavonásához"
+        },
+        {
+          "id": "b17",
+          "answer": "panasz benyújtásának jogáról"
+        },
+        {
+          "id": "b18",
+          "answer": "jogszabályon vagy szerződéses kötelezettségen alapul"
+        },
+        {
+          "id": "b19",
+          "answer": "köteles-e a személyes adatokat megadni"
+        },
+        {
+          "id": "b20",
+          "answer": "lehetséges következményeikkel járhat"
+        },
+        {
+          "id": "b21",
+          "answer": "adatszolgáltatás elmaradása"
+        },
+        {
+          "id": "b22",
+          "answer": "alkalmazott logikára"
+        },
+        {
+          "id": "b23",
+          "answer": "várható következményekkel bír"
+        },
+        {
+          "id": "b24",
+          "answer": "gyűjtésük céljától eltérő célból"
+        },
+        {
+          "id": "b25",
+          "answer": "nem alkalmazandó"
+        }
+      ],
+      "distractors": [
+        "Kötelezően nyújtandó adatok",
+        "gyűjtésük pillanatában",
+        "adatok összességét",
+        "azonosító adatai és kontaktja",
+        "előirányzott feldolgozásának",
+        "külső partner",
+        "szükség esetén",
+        "kedvezményezettek csoportjai",
+        "átadni a személyes információkat",
+        "Bizottsági engedély megléte vagy hiánya",
+        "adatátadás alkalmával",
+        "másodlat kérésének lehetőségeire",
+        "további tudnivalókról",
+        "igényelheti a szolgáltatótól",
+        "megismerést",
+        "tetszőleges időben történő visszavonásához",
+        "jogorvoslati kérelem előterjesztésének jogáról",
+        "törvényen vagy megállapodáson nyugszik",
+        "szükséges-e az adatszolgáltatás",
+        "potenciális kihatásai lehetnek",
+        "adatátadás elmulasztása",
+        "felhasznált algoritmusra",
+        "előre látható hatásokkal jár",
+        "eredeti céljuktól különböző okból",
+        "nem vehető figyelembe"
+      ]
+    },
+    {
+      "id": "s10",
+      "cimke": "GDPR 14. cikk",
+      "text": "Rendelkezésre bocsátandó információk, ha a személyes adatokat __[b1]__ (1) Ha a személyes adatokat nem az érintettől szerezték meg, az adatkezelő __[b2]__ a következő információkat: a) az adatkezelőnek és – ha van ilyen – az adatkezelő képviselőjének a __[b3]__; b) az adatvédelmi tisztviselő elérhetőségei, ha van ilyen; c) a személyes adatok __[b4]__ célja, valamint az adatkezelés jogalapja; d) az érintett személyes adatok kategóriái; e) a személyes adatok címzettjei, illetve a címzettek kategóriái, ha van ilyen; L 119/42 HU Az Európai Unió Hivatalos Lapja 2016.5.4. f) __[b5]__, hogy az adatkezelő valamely harmadik országbeli címzett vagy valamely nemzetközi szervezet részére kívánja __[b6]__, továbbá a __[b7]__, vagy a 46. cikkben, a 47. cikkben vagy a 49. cikk (1) bekezdésének második albekezdésében említett __[b8]__ a megfelelő és alkalmas garanciák megjelölése, valamint az ezek __[b9]__ vagy az elérhetőségükre való hivatkozás. (2) Az (1) bekezdésben említett információk mellett az adatkezelő az érintett rendelkezésére bocsátja az érintettre nézve tisztességes és átlátható adatkezelés biztosításához szükséges következő __[b10]__: a) a személyes adatok tárolásának időtartama, vagy ha ez nem lehetséges, ezen időtartam meghatározásának szempontjai; b) ha az adatkezelés a 6. cikk (1) bekezdésének f) pontján alapul, az adatkezelő vagy harmadik fél jogos érdekeiről; c) az érintett azon joga, hogy __[b11]__ a __[b12]__ hozzáférést, azok helyesbítését, törlését vagy kezelésének korlátozását, és __[b13]__, valamint az érintett adathordozhatósághoz való joga; d) a 6. cikk (1) bekezdésének a) pontján vagy a 9. cikk (2) bekezdésének a) pontján alapuló adatkezelés esetén a hozzájárulás __[b14]__ való jog, amely nem érinti a visszavonás előtt a hozzájárulás alapján végrehajtott adatkezelés jogszerűségét; e) a valamely felügyeleti hatósághoz címzett __[b15]__; f) a __[b16]__ és adott esetben az, hogy az adatok __[b17]__; és g) a 22. cikk (1) és (4) bekezdésében említett automatizált döntéshozatal ténye, ideértve a profilalkotást is, valamint legalább ezekben az esetekben az __[b18]__ és arra vonatkozó érthető információk, hogy az ilyen adatkezelés milyen jelentőséggel, és az érintettre nézve milyen __[b19]__. (3) Az adatkezelő az (1) és (2) bekezdés szerinti __[b20]__: a) a személyes adatok __[b21]__ tekintetbe véve, a személyes adatok megszerzésétől számított észszerű határidőn, de legkésőbb egy hónapon belül; b) ha a személyes adatokat az érintettel való kapcsolattartás céljára használják, legalább az érintettel való __[b22]__; vagy c) ha várhatóan más címzettel is közlik az adatokat, legkésőbb a személyes adatok __[b23]__. (4) Ha az adatkezelő a személyes adatokon a __[b24]__ további adatkezelést kíván végezni, a további adatkezelést megelőzően tájékoztatnia kell az érintettet erről az eltérő célról és a (2) bekezdésben említett minden releváns kiegészítő információról. (5) Az (1)–(4) bekezdést __[b25]__, ha és amilyen mértékben: a) az érintett már rendelkezik az információkkal; b) a szóban forgó információk rendelkezésre bocsátása lehetetlennek bizonyul, vagy aránytalanul nagy erőfeszítést igényelne, különösen a közérdekű archiválás céljából, tudományos és történelmi kutatási célból vagy statisztikai célból, a 89. cikk (1) bekezdésében foglalt feltételek és garanciák figyelembevételével végzett adatkezelés esetében, vagy amennyiben az e cikk (1) bekezdésében említett kötelezettség valószínűsíthetően lehetetlenné tenné vagy komolyan veszélyeztetné ezen adatkezelés céljainak elérését. Ilyen esetekben az adatkezelőnek megfelelő intézkedéseket kell hoznia – az információk nyilvánosan elérhetővé tételét is ideértve – az érintett jogainak, szabadságainak és jogos érdekeinek védelme érdekében; c) az adat megszerzését vagy közlését kifejezetten előírja az adatkezelőre alkalmazandó uniós vagy tagállami jog, amely az érintett jogos érdekeinek védelmét szolgáló megfelelő intézkedésekről rendelkezik; vagy d) a személyes adatoknak valamely uniós vagy tagállami jogban előírt szakmai titoktartási kötelezettség alapján, ideértve a jogszabályon alapuló titoktartási kötelezettséget is, bizalmasnak kell maradnia. 2016.5.4. HU Az Európai Unió Hivatalos Lapja L 119/43",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "nem az érintettől szerezték meg"
+        },
+        {
+          "id": "b2",
+          "answer": "az érintett rendelkezésére bocsátja"
+        },
+        {
+          "id": "b3",
+          "answer": "kiléte és elérhetőségei"
+        },
+        {
+          "id": "b4",
+          "answer": "tervezett kezelésének"
+        },
+        {
+          "id": "b5",
+          "answer": "adott esetben annak ténye"
+        },
+        {
+          "id": "b6",
+          "answer": "továbbítani a személyes adatokat"
+        },
+        {
+          "id": "b7",
+          "answer": "Bizottság megfelelőségi határozatának léte vagy annak hiánya"
+        },
+        {
+          "id": "b8",
+          "answer": "adattovábbítás esetén"
+        },
+        {
+          "id": "b9",
+          "answer": "másolatának megszerzésére szolgáló módokra"
+        },
+        {
+          "id": "b10",
+          "answer": "kiegészítő információkat"
+        },
+        {
+          "id": "b11",
+          "answer": "kérelmezheti az adatkezelőtől"
+        },
+        {
+          "id": "b12",
+          "answer": "rá vonatkozó személyes adatokhoz való"
+        },
+        {
+          "id": "b13",
+          "answer": "tiltakozhat a személyes adatok kezelése ellen"
+        },
+        {
+          "id": "b14",
+          "answer": "bármely időpontban való visszavonásához"
+        },
+        {
+          "id": "b15",
+          "answer": "panasz benyújtásának joga"
+        },
+        {
+          "id": "b16",
+          "answer": "személyes adatok forrása"
+        },
+        {
+          "id": "b17",
+          "answer": "nyilvánosan hozzáférhető forrásokból származnak-e"
+        },
+        {
+          "id": "b18",
+          "answer": "alkalmazott logikára"
+        },
+        {
+          "id": "b19",
+          "answer": "várható következményekkel bír"
+        },
+        {
+          "id": "b20",
+          "answer": "tájékoztatást az alábbiak szerint adja meg"
+        },
+        {
+          "id": "b21",
+          "answer": "kezelésének konkrét körülményeit"
+        },
+        {
+          "id": "b22",
+          "answer": "első kapcsolatfelvétel alkalmával"
+        },
+        {
+          "id": "b23",
+          "answer": "első alkalommal való közlésekor"
+        },
+        {
+          "id": "b24",
+          "answer": "megszerzésük céljától eltérő célból"
+        },
+        {
+          "id": "b25",
+          "answer": "nem kell alkalmazni"
+        }
+      ],
+      "distractors": [
+        "más forrásból jutottak hozzá",
+        "az érintettnek átadja",
+        "azonosítói és kontaktjai",
+        "tervezett feldolgozásának",
+        "bizonyos helyzetben a tény",
+        "átadni az egyedi információkat",
+        "Bizottsági engedély megléte vagy hiánya",
+        "adatátadás alkalmával",
+        "másodpéldány beszerzésének lehetőségeire",
+        "további tudnivalókat",
+        "kérvényezheti a szolgáltatótól",
+        "az őt érintő egyedi adatokhoz való",
+        "felszólalhat az adatok feldolgozása ellen",
+        "tetszőleges időben történő visszavonásához",
+        "jogorvoslati kérelem előterjesztésének joga",
+        "egyedi adatok eredete",
+        "közvetlenül elérhető forrásból erednek-e",
+        "felhasznált algoritmusra",
+        "előre látható hatásokkal jár",
+        "információt a következőképpen biztosítja",
+        "feldolgozásának egyedi feltételeit",
+        "kezdeti kommunikáció során",
+        "legelső közlés idején",
+        "eredeti céljuktól különböző okból",
+        "nem vehető figyelembe"
+      ]
+    },
+    {
+      "id": "s11",
+      "cimke": "GDPR 15. cikk",
+      "text": "Az érintett __[b1]__ (1) Az érintett __[b2]__, hogy az adatkezelőtől visszajelzést kapjon arra vonatkozóan, hogy __[b3]__ __[b4]__, és ha ilyen adatkezelés folyamatban van, jogosult arra, hogy a __[b5]__ __[b6]__: a) az adatkezelés céljai; b) az érintett személyes adatok kategóriái; c) __[b7]__ vagy címzettek kategóriái, akikkel, illetve amelyekkel a személyes adatokat __[b8]__, __[b9]__ a harmadik országbeli címzetteket, illetve a nemzetközi szervezeteket; d) __[b10]__ a személyes adatok tárolásának tervezett időtartama, vagy ha ez nem lehetséges, ezen időtartam meghatározásának szempontjai; e) az érintett azon joga, hogy __[b11]__ a __[b12]__ helyesbítését, törlését vagy kezelésének korlátozását, és __[b13]__; f) a valamely felügyeleti hatósághoz címzett panasz benyújtásának joga; g) ha az __[b14]__, a __[b15]__; h) a 22. cikk (1) és (4) bekezdésében említett automatizált döntéshozatal ténye, ideértve a profilalkotást is, valamint legalább ezekben az esetekben az __[b16]__ és arra vonatkozó __[b17]__, hogy az ilyen adatkezelés milyen jelentőséggel bír, és az érintettre nézve milyen __[b18]__. (2) Ha személyes adatoknak __[b19]__ történő __[b20]__, az érintett jogosult arra, hogy __[b21]__ a továbbításra vonatkozóan a __[b22]__ megfelelő garanciákról. (3) Az adatkezelő az __[b23]__ személyes adatok másolatát az érintett rendelkezésére bocsátja. Az érintett által kért __[b24]__ az adatkezelő az adminisztratív költségeken alapuló, észszerű mértékű díjat számíthat fel. Ha az érintett elektronikus úton nyújtotta be a kérelmet, az információkat széles körben használt elektronikus formátumban kell rendelkezésre bocsátani, __[b25]__. (4) A (3) bekezdésben említett, másolat igénylésére vonatkozó jog nem érintheti hátrányosan mások jogait és szabadságait.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "hozzáférési joga"
+        },
+        {
+          "id": "b2",
+          "answer": "jogosult arra"
+        },
+        {
+          "id": "b3",
+          "answer": "személyes adatainak kezelése"
+        },
+        {
+          "id": "b4",
+          "answer": "folyamatban van-e"
+        },
+        {
+          "id": "b5",
+          "answer": "személyes adatokhoz és a következő információkhoz"
+        },
+        {
+          "id": "b6",
+          "answer": "hozzáférést kapjon"
+        },
+        {
+          "id": "b7",
+          "answer": "azon címzettek"
+        },
+        {
+          "id": "b8",
+          "answer": "közölték vagy közölni fogják"
+        },
+        {
+          "id": "b9",
+          "answer": "ideértve különösen"
+        },
+        {
+          "id": "b10",
+          "answer": "adott esetben"
+        },
+        {
+          "id": "b11",
+          "answer": "kérelmezheti az adatkezelőtől"
+        },
+        {
+          "id": "b12",
+          "answer": "rá vonatkozó személyes adatok"
+        },
+        {
+          "id": "b13",
+          "answer": "tiltakozhat az ilyen személyes adatok kezelése ellen"
+        },
+        {
+          "id": "b14",
+          "answer": "adatokat nem az érintettől gyűjtötték"
+        },
+        {
+          "id": "b15",
+          "answer": "forrásukra vonatkozó minden elérhető információ"
+        },
+        {
+          "id": "b16",
+          "answer": "alkalmazott logikára"
+        },
+        {
+          "id": "b17",
+          "answer": "érthető információk"
+        },
+        {
+          "id": "b18",
+          "answer": "várható következményekkel jár"
+        },
+        {
+          "id": "b19",
+          "answer": "harmadik országba vagy nemzetközi szervezet részére"
+        },
+        {
+          "id": "b20",
+          "answer": "továbbítására kerül sor"
+        },
+        {
+          "id": "b21",
+          "answer": "tájékoztatást kapjon"
+        },
+        {
+          "id": "b22",
+          "answer": "46. cikk szerinti"
+        },
+        {
+          "id": "b23",
+          "answer": "adatkezelés tárgyát képező"
+        },
+        {
+          "id": "b24",
+          "answer": "további másolatokért"
+        },
+        {
+          "id": "b25",
+          "answer": "kivéve, ha az érintett másként kéri"
+        }
+      ],
+      "distractors": [
+        "megismerési joga",
+        "felhatalmazott arra",
+        "egyedi adatok feldolgozása",
+        "zajlik-e",
+        "egyedi adatokhoz és a további adatokhoz",
+        "betekintést nyerjen",
+        "azok a kedvezményezettek",
+        "átadták vagy átadják",
+        "beleértve főként",
+        "bizonyos helyzetben",
+        "kérvényezheti a szolgáltatótól",
+        "őt érintő egyedi adatok",
+        "felszólalhat ezen adatok feldolgozása ellen",
+        "információkat nem az alanytól szerezték",
+        "eredetükkel kapcsolatos összes fellelhető adat",
+        "felhasznált algoritmusra",
+        "világos adatok",
+        "előrelátható hatásokkal bír",
+        "külső államba vagy globális entitáshoz",
+        "átadásra kerül",
+        "információt szerezzen",
+        "a 46. paragrafus szerinti",
+        "feldolgozás tárgyát képező",
+        "extra példányokért",
+        "azonban ha az alany eltérően kívánja"
+      ]
+    },
+    {
+      "id": "s12",
+      "cimke": "GDPR 16. cikk",
+      "text": "A __[b1]__ __[b2]__ __[b3]__, hogy kérésére az __[b4]__ __[b5]__ __[b6]__ a __[b7]__ __[b8]__. Figyelembe véve az __[b9]__, az érintett jogosult arra, hogy __[b10]__ a __[b11]__ – egyebek mellett __[b12]__ __[b13]__ – __[b14]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "helyesbítéshez való jog"
+        },
+        {
+          "id": "b2",
+          "answer": "Az érintett"
+        },
+        {
+          "id": "b3",
+          "answer": "jogosult arra"
+        },
+        {
+          "id": "b4",
+          "answer": "adatkezelő"
+        },
+        {
+          "id": "b5",
+          "answer": "indokolatlan késedelem nélkül"
+        },
+        {
+          "id": "b6",
+          "answer": "helyesbítse"
+        },
+        {
+          "id": "b7",
+          "answer": "rá vonatkozó"
+        },
+        {
+          "id": "b8",
+          "answer": "pontatlan személyes adatokat"
+        },
+        {
+          "id": "b9",
+          "answer": "adatkezelés célját"
+        },
+        {
+          "id": "b10",
+          "answer": "kérje"
+        },
+        {
+          "id": "b11",
+          "answer": "hiányos személyes adatok"
+        },
+        {
+          "id": "b12",
+          "answer": "kiegészítő nyilatkozat"
+        },
+        {
+          "id": "b13",
+          "answer": "útján történő"
+        },
+        {
+          "id": "b14",
+          "answer": "kiegészítését"
+        }
+      ],
+      "distractors": [
+        "módosításhoz való jog",
+        "Az alany",
+        "felhatalmazott arra",
+        "szolgáltató",
+        "felesleges késedelem nélkül",
+        "módosítsa",
+        "őt érintő",
+        "hibás egyedi adatokat",
+        "feldolgozás célját",
+        "igényelje",
+        "nem teljes egyedi adatok",
+        "pótlólagos nyilatkozat",
+        "révén megvalósuló",
+        "pótlását"
+      ]
+    },
+    {
+      "id": "s13",
+      "cimke": "GDPR 17. cikk",
+      "text": "A törléshez való jog („__[b1]__”) (1) Az érintett jogosult arra, hogy kérésére az adatkezelő __[b2]__ __[b3]__ a rá vonatkozó személyes adatokat, az adatkezelő pedig __[b4]__, hogy az érintettre vonatkozó személyes adatokat indokolatlan késedelem nélkül törölje, ha az alábbi indokok valamelyike fennáll: a) a személyes adatokra már __[b5]__ abból a célból, amelyből azokat gyűjtötték vagy más módon kezelték; L 119/44 HU Az Európai Unió Hivatalos Lapja 2016.5.4. b) az érintett __[b6]__ a 6. cikk (1) bekezdésének a) pontja vagy a 9. cikk (2) bekezdésének a) pontja értelmében az adatkezelés alapját képező __[b7]__, és az adatkezelésnek __[b8]__; c) az érintett a 21. cikk (1) bekezdése alapján __[b9]__ az adatkezelése ellen, és __[b10]__ az adatkezelésre, vagy az érintett a 21. cikk (2) bekezdése alapján tiltakozik az adatkezelés ellen; d) a személyes adatokat __[b11]__; e) a személyes adatokat az adatkezelőre alkalmazandó uniós vagy tagállami jogban előírt __[b12]__ teljesítéséhez __[b13]__; f) a személyes adatok gyűjtésére a 8. cikk (1) bekezdésében említett, __[b14]__ kínálásával kapcsolatosan került sor. (2) Ha az adatkezelő __[b15]__ a személyes adatot, és az (1) bekezdés értelmében azt __[b16]__, az elérhető technológia és a megvalósítás költségeinek figyelembevételével megteszi az __[b17]__ – ideértve __[b18]__ – annak érdekében, hogy tájékoztassa az adatokat kezelő adatkezelőket, hogy az érintett kérelmezte tőlük a szóban forgó személyes adatokra mutató linkek vagy e személyes adatok másolatának, illetve másodpéldányának törlését. (3) Az (1) és (2) bekezdés __[b19]__, amennyiben az adatkezelés szükséges: a) a __[b20]__ és a __[b21]__ gyakorlása céljából; b) a személyes adatok kezelését előíró, az adatkezelőre alkalmazandó uniós vagy tagállami jog szerinti kötelezettség teljesítése, illetve __[b22]__ vagy az adatkezelőre ruházott __[b23]__ keretében végzett feladat végrehajtása céljából; c) a 9. cikk (2) bekezdése h) és i) pontjának, valamint a 9. cikk (3) bekezdésének megfelelően a __[b24]__ alapján; d) a 89. cikk (1) bekezdésével összhangban a közérdekű archiválás céljából, tudományos és történelmi kutatási célból vagy statisztikai célból, amennyiben az (1) bekezdésben említett jog valószínűsíthetően lehetetlenné tenné vagy komolyan veszélyeztetné ezt az adatkezelést; vagy e) __[b25]__, érvényesítéséhez, illetve védelméhez.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "az elfeledtetéshez való jog"
+        },
+        {
+          "id": "b2",
+          "answer": "indokolatlan késedelem nélkül"
+        },
+        {
+          "id": "b3",
+          "answer": "törölje"
+        },
+        {
+          "id": "b4",
+          "answer": "köteles arra"
+        },
+        {
+          "id": "b5",
+          "answer": "nincs szükség"
+        },
+        {
+          "id": "b6",
+          "answer": "visszavonja"
+        },
+        {
+          "id": "b7",
+          "answer": "hozzájárulását"
+        },
+        {
+          "id": "b8",
+          "answer": "nincs más jogalapja"
+        },
+        {
+          "id": "b9",
+          "answer": "tiltakozik"
+        },
+        {
+          "id": "b10",
+          "answer": "nincs elsőbbséget élvező jogszerű ok"
+        },
+        {
+          "id": "b11",
+          "answer": "jogellenesen kezelték"
+        },
+        {
+          "id": "b12",
+          "answer": "jogi kötelezettség"
+        },
+        {
+          "id": "b13",
+          "answer": "törölni kell"
+        },
+        {
+          "id": "b14",
+          "answer": "információs társadalommal összefüggő szolgáltatások"
+        },
+        {
+          "id": "b15",
+          "answer": "nyilvánosságra hozta"
+        },
+        {
+          "id": "b16",
+          "answer": "törölni köteles"
+        },
+        {
+          "id": "b17",
+          "answer": "észszerűen elvárható lépéseket"
+        },
+        {
+          "id": "b18",
+          "answer": "technikai intézkedéseket"
+        },
+        {
+          "id": "b19",
+          "answer": "nem alkalmazandó"
+        },
+        {
+          "id": "b20",
+          "answer": "véleménynyilvánítás szabadságához"
+        },
+        {
+          "id": "b21",
+          "answer": "tájékozódáshoz való jog"
+        },
+        {
+          "id": "b22",
+          "answer": "közérdekből"
+        },
+        {
+          "id": "b23",
+          "answer": "közhatalmi jogosítvány gyakorlása"
+        },
+        {
+          "id": "b24",
+          "answer": "népegészségügy területét érintő közérdek"
+        },
+        {
+          "id": "b25",
+          "answer": "jogi igények előterjesztéséhez"
+        }
+      ],
+      "distractors": [
+        "a feledéshez való jog",
+        "felesleges késedelem nélkül",
+        "megszüntesse",
+        "erre kötelezett",
+        "felesleges",
+        "megvonja",
+        "beleegyezését",
+        "hiányzik az egyéb jogalap",
+        "felszólal",
+        "hiányzik a prioritást élvező törvényes ok",
+        "törvényellenesen dolgozták fel",
+        "törvényi kötelezettség",
+        "meg kell szüntetni",
+        "digitális társadalommal kapcsolatos szolgáltatások",
+        "közzétette",
+        "megszüntetni köteles",
+        "ésszerűen megkövetelhető intézkedéseket",
+        "műszaki eljárásokat",
+        "nem vehető figyelembe",
+        "kifejezés szabadságához",
+        "információszerzéshez való jog",
+        "közérdek alapján",
+        "államhatalmi jogkör gyakorlása",
+        "közegészségügyet érintő közérdek",
+        "jogviták benyújtásához"
+      ]
+    },
+    {
+      "id": "s14",
+      "cimke": "GDPR 18. cikk",
+      "text": "Az adatkezelés korlátozásához való jog (1) Az érintett __[b1]__, hogy kérésére az adatkezelő __[b2]__ az adatkezelést, ha az alábbiak valamelyike __[b3]__: a) az érintett __[b4]__ a személyes adatok __[b5]__, ez esetben a korlátozás arra az __[b6]__, amely lehetővé teszi, hogy az adatkezelő ellenőrizze a személyes adatok pontosságát; b) az adatkezelés __[b7]__, és az érintett __[b8]__, és ehelyett kéri azok __[b9]__; c) az adatkezelőnek már __[b10]__ a személyes adatokra adatkezelés céljából, de az érintett __[b11]__ __[b12]__, __[b13]__ vagy __[b14]__; vagy d) az érintett a 21. cikk (1) bekezdése szerint __[b15]__ az adatkezelés ellen; ez esetben a korlátozás arra az időtartamra vonatkozik, amíg megállapításra nem kerül, hogy az adatkezelő __[b16]__ az érintett jogos indokaival szemben. (2) Ha az adatkezelés az (1) bekezdés alapján korlátozás alá esik, az ilyen személyes adatokat a __[b17]__ csak az érintett __[b18]__, vagy jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez, vagy más __[b19]__ __[b20]__, vagy az Unió, illetve valamely tagállam __[b21]__ __[b22]__. 2016.5.4. HU Az Európai Unió Hivatalos Lapja L 119/45 (3) Az adatkezelő az érintettet, akinek a kérésére az (1) bekezdés alapján korlátozták az adatkezelést, az adatkezelés __[b23]__ __[b24]__ __[b25]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "jogosult arra"
+        },
+        {
+          "id": "b2",
+          "answer": "korlátozza"
+        },
+        {
+          "id": "b3",
+          "answer": "teljesül"
+        },
+        {
+          "id": "b4",
+          "answer": "vitatja"
+        },
+        {
+          "id": "b5",
+          "answer": "pontosságát"
+        },
+        {
+          "id": "b6",
+          "answer": "időtartamra vonatkozik"
+        },
+        {
+          "id": "b7",
+          "answer": "jogellenes"
+        },
+        {
+          "id": "b8",
+          "answer": "ellenzi az adatok törlését"
+        },
+        {
+          "id": "b9",
+          "answer": "felhasználásának korlátozását"
+        },
+        {
+          "id": "b10",
+          "answer": "nincs szüksége"
+        },
+        {
+          "id": "b11",
+          "answer": "igényli azokat"
+        },
+        {
+          "id": "b12",
+          "answer": "jogi igények előterjesztéséhez"
+        },
+        {
+          "id": "b13",
+          "answer": "érvényesítéséhez"
+        },
+        {
+          "id": "b14",
+          "answer": "védelméhez"
+        },
+        {
+          "id": "b15",
+          "answer": "tiltakozott"
+        },
+        {
+          "id": "b16",
+          "answer": "jogos indokai elsőbbséget élveznek-e"
+        },
+        {
+          "id": "b17",
+          "answer": "tárolás kivételével"
+        },
+        {
+          "id": "b18",
+          "answer": "hozzájárulásával"
+        },
+        {
+          "id": "b19",
+          "answer": "természetes vagy jogi személy"
+        },
+        {
+          "id": "b20",
+          "answer": "jogainak védelme érdekében"
+        },
+        {
+          "id": "b21",
+          "answer": "fontos közérdekéből"
+        },
+        {
+          "id": "b22",
+          "answer": "lehet kezelni"
+        },
+        {
+          "id": "b23",
+          "answer": "korlátozásának feloldásáról"
+        },
+        {
+          "id": "b24",
+          "answer": "előzetesen"
+        },
+        {
+          "id": "b25",
+          "answer": "tájékoztatja"
+        }
+      ],
+      "distractors": [
+        "felhatalmazott arra",
+        "szűkítse",
+        "megvalósul",
+        "kétségbe vonja",
+        "helyességét",
+        "időszakra érvényes",
+        "törvényellenes",
+        "nem támogatja az adatok eltávolítását",
+        "alkalmazásának szűkítését",
+        "nem szükséges",
+        "kéri azokat",
+        "jogviták benyújtásához",
+        "érvényre juttatásához",
+        "oltalmához",
+        "felszólalt",
+        "törvényes okai elsőbbséget élveznek-e",
+        "mentve a tárolástól",
+        "beleegyezésével",
+        "fizikai vagy jogi entitás",
+        "jogainak oltalma céljából",
+        "kiemelt közérdek alapján",
+        "feldolgozható",
+        "szűkítésének megszüntetéséről",
+        "előre",
+        "értesíti"
+      ]
+    },
+    {
+      "id": "s15",
+      "cimke": "GDPR 19. cikk",
+      "text": "A személyes adatok __[b1]__ vagy __[b2]__, illetve az __[b3]__ kapcsolódó __[b4]__ Az __[b5]__ __[b6]__ __[b7]__ a __[b8]__ valamennyi __[b9]__, __[b10]__ vagy __[b11]__, akivel, illetve amellyel a __[b12]__ __[b13]__, __[b14]__ __[b15]__, vagy __[b16]__ __[b17]__. Az érintettet __[b18]__ az adatkezelő __[b19]__ e címzettekről.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "helyesbítéséhez"
+        },
+        {
+          "id": "b2",
+          "answer": "törléséhez"
+        },
+        {
+          "id": "b3",
+          "answer": "adatkezelés korlátozásához"
+        },
+        {
+          "id": "b4",
+          "answer": "értesítési kötelezettség"
+        },
+        {
+          "id": "b5",
+          "answer": "adatkezelő"
+        },
+        {
+          "id": "b6",
+          "answer": "minden olyan címzettet"
+        },
+        {
+          "id": "b7",
+          "answer": "tájékoztat"
+        },
+        {
+          "id": "b8",
+          "answer": "16. cikk, a 17. cikk (1) bekezdése, illetve a 18. cikk szerinti"
+        },
+        {
+          "id": "b9",
+          "answer": "helyesbítésről"
+        },
+        {
+          "id": "b10",
+          "answer": "törlésről"
+        },
+        {
+          "id": "b11",
+          "answer": "adatkezelés-korlátozásról"
+        },
+        {
+          "id": "b12",
+          "answer": "személyes adatot"
+        },
+        {
+          "id": "b13",
+          "answer": "közölték"
+        },
+        {
+          "id": "b14",
+          "answer": "kivéve, ha ez"
+        },
+        {
+          "id": "b15",
+          "answer": "lehetetlennek bizonyul"
+        },
+        {
+          "id": "b16",
+          "answer": "aránytalanul nagy erőfeszítést"
+        },
+        {
+          "id": "b17",
+          "answer": "igényel"
+        },
+        {
+          "id": "b18",
+          "answer": "kérésére"
+        },
+        {
+          "id": "b19",
+          "answer": "tájékoztatja"
+        }
+      ],
+      "distractors": [
+        "módosításához",
+        "megszüntetéséhez",
+        "adatfeldolgozás szűkítéséhez",
+        "tájékoztatási kötelezettség",
+        "szolgáltató",
+        "összes kedvezményezettet",
+        "értesít",
+        "a 16., 17. § (1) és 18. § szerinti",
+        "módosításról",
+        "megszüntetésről",
+        "adatfeldolgozás-szűkítésről",
+        "egyedi adatot",
+        "átadták",
+        "azonban ha ez",
+        "megvalósíthatatlannak tűnik",
+        "túl nagy erőfeszítést",
+        "követel",
+        "kérelmére",
+        "értesíti"
+      ]
+    },
+    {
+      "id": "s16",
+      "cimke": "GDPR 20. cikk",
+      "text": "Az adathordozhatósághoz való jog (1) Az érintett __[b1]__, hogy a __[b2]__, általa egy __[b3]__ __[b4]__ __[b5]__ __[b6]__, __[b7]__, __[b8]__ __[b9]__, továbbá jogosult arra, hogy ezeket az adatokat egy __[b10]__ __[b11]__ anélkül, hogy ezt __[b12]__ az az adatkezelő, amelynek a személyes adatokat a rendelkezésére bocsátotta, ha: a) az adatkezelés a 6. cikk (1) bekezdésének a) pontja vagy a 9. cikk (2) bekezdésének a) pontja szerinti __[b13]__, vagy a 6. cikk (1) bekezdésének b) pontja szerinti __[b14]__; és b) az adatkezelés __[b15]__. (2) Az adatok hordozhatóságához való jog (1) bekezdés szerinti gyakorlása során az érintett jogosult arra, hogy – ha ez __[b16]__ – kérje a személyes adatok adatkezelők közötti __[b17]__. (3) Az __[b18]__ gyakorlása __[b19]__ a 17. cikket. Az említett jog __[b20]__ abban az esetben, ha az adatkezelés __[b21]__ vagy az adatkezelőre ruházott __[b22]__ végzett __[b23]__. (4) Az (1) bekezdésben említett jog __[b24]__ mások __[b25]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "jogosult arra"
+        },
+        {
+          "id": "b2",
+          "answer": "rá vonatkozó"
+        },
+        {
+          "id": "b3",
+          "answer": "adatkezelő"
+        },
+        {
+          "id": "b4",
+          "answer": "rendelkezésére bocsátott"
+        },
+        {
+          "id": "b5",
+          "answer": "személyes adatokat"
+        },
+        {
+          "id": "b6",
+          "answer": "tagolt"
+        },
+        {
+          "id": "b7",
+          "answer": "széles körben használt"
+        },
+        {
+          "id": "b8",
+          "answer": "géppel olvasható formátumban"
+        },
+        {
+          "id": "b9",
+          "answer": "megkapja"
+        },
+        {
+          "id": "b10",
+          "answer": "másik adatkezelőnek"
+        },
+        {
+          "id": "b11",
+          "answer": "továbbítsa"
+        },
+        {
+          "id": "b12",
+          "answer": "akadályozná"
+        },
+        {
+          "id": "b13",
+          "answer": "hozzájáruláson"
+        },
+        {
+          "id": "b14",
+          "answer": "szerződésen alapul"
+        },
+        {
+          "id": "b15",
+          "answer": "automatizált módon történik"
+        },
+        {
+          "id": "b16",
+          "answer": "technikailag megvalósítható"
+        },
+        {
+          "id": "b17",
+          "answer": "közvetlen továbbítását"
+        },
+        {
+          "id": "b18",
+          "answer": "e cikk (1) bekezdésében említett jog"
+        },
+        {
+          "id": "b19",
+          "answer": "nem sértheti"
+        },
+        {
+          "id": "b20",
+          "answer": "nem alkalmazandó"
+        },
+        {
+          "id": "b21",
+          "answer": "közérdekű"
+        },
+        {
+          "id": "b22",
+          "answer": "közhatalmi jogosítványai gyakorlásának keretében"
+        },
+        {
+          "id": "b23",
+          "answer": "feladat végrehajtásához szükséges"
+        },
+        {
+          "id": "b24",
+          "answer": "nem érintheti hátrányosan"
+        },
+        {
+          "id": "b25",
+          "answer": "jogait és szabadságait"
+        }
+      ],
+      "distractors": [
+        "felhatalmazott arra",
+        "őt érintő",
+        "szolgáltató",
+        "átadott",
+        "egyedi adatokat",
+        "strukturált",
+        "általánosan elterjedt",
+        "gépileg értelmezhető alakban",
+        "átveszi",
+        "egy másik szolgáltatónak",
+        "átadja",
+        "gátolná",
+        "beleegyezésen",
+        "megállapodáson nyugszik",
+        "gépesített módon valósul meg",
+        "műszakilag kivitelezhető",
+        "direkt átadását",
+        "az említett paragrafus (1) bekezdésében szereplő jog",
+        "nem csorbíthatja",
+        "nem vehető figyelembe",
+        "közérdekkel bíró",
+        "államhatalmi jogkörei gyakorlásának keretében",
+        "feladat elvégzéséhez szükséges",
+        "nem befolyásolhatja kedvezőtlenül",
+        "jogait és alapvető szabadságait"
+      ]
+    },
+    {
+      "id": "s17",
+      "cimke": "GDPR 21. cikk",
+      "text": "A tiltakozáshoz való jog (1) Az érintett __[b1]__, hogy a __[b2]__ bármikor tiltakozzon személyes adatainak a __[b3]__ e) vagy f) pontján alapuló __[b4]__, __[b5]__ profilalkotást is. Ebben az esetben __[b6]__ __[b7]__ nem kezelheti tovább, __[b8]__ az adatkezelő bizonyítja, hogy __[b9]__ olyan __[b10]__ __[b11]__, amelyek elsőbbséget élveznek az érintett __[b12]__ szemben, vagy amelyek jogi igények __[b13]__ kapcsolódnak. (2) Ha a __[b14]__ közvetlen üzletszerzés érdekében történik, az érintett jogosult arra, hogy bármikor tiltakozzon a rá vonatkozó személyes adatok __[b15]__, ideértve a profilalkotást is, __[b16]__ közvetlen üzletszerzéshez kapcsolódik. (3) Ha az érintett tiltakozik a személyes adatok közvetlen üzletszerzés érdekében történő kezelése ellen, akkor a személyes adatok __[b17]__ e célból nem kezelhetők. L 119/46 HU Az Európai Unió Hivatalos Lapja 2016.5.4. (4) Az __[b18]__ említett jogra legkésőbb az érintettel való első kapcsolatfelvétel során kifejezetten __[b19]__ __[b20]__, és az erre vonatkozó __[b21]__ egyértelműen és minden más információtól elkülönítve __[b22]__. (5) Az információs társadalommal összefüggő szolgáltatások igénybevételéhez kapcsolódóan és a 2002/58/EK irányelvtől eltérve az érintett a tiltakozáshoz való jogot műszaki előírásokon alapuló __[b23]__ is gyakorolhatja. (6) Ha a személyes adatok kezelésére a 89. cikk (1) bekezdésének megfelelően tudományos és történelmi kutatási célból vagy statisztikai célból kerül sor, az érintett jogosult arra, hogy a saját helyzetével kapcsolatos okokból tiltakozhasson a rá vonatkozó személyes adatok kezelése ellen, kivéve, ha az adatkezelésre __[b24]__ végzett feladat végrehajtása érdekében van szükség.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "jogosult arra"
+        },
+        {
+          "id": "b2",
+          "answer": "saját helyzetével kapcsolatos okokból"
+        },
+        {
+          "id": "b3",
+          "answer": "6. cikk (1) bekezdésének"
+        },
+        {
+          "id": "b4",
+          "answer": "kezelése ellen"
+        },
+        {
+          "id": "b5",
+          "answer": "ideértve az említett rendelkezéseken alapuló"
+        },
+        {
+          "id": "b6",
+          "answer": "az adatkezelő"
+        },
+        {
+          "id": "b7",
+          "answer": "a személyes adatokat"
+        },
+        {
+          "id": "b8",
+          "answer": "kivéve, ha"
+        },
+        {
+          "id": "b9",
+          "answer": "az adatkezelést"
+        },
+        {
+          "id": "b10",
+          "answer": "kényszerítő erejű"
+        },
+        {
+          "id": "b11",
+          "answer": "jogos okok indokolják"
+        },
+        {
+          "id": "b12",
+          "answer": "érdekeivel, jogaival és szabadságaival"
+        },
+        {
+          "id": "b13",
+          "answer": "előterjesztéséhez, érvényesítéséhez vagy védelméhez"
+        },
+        {
+          "id": "b14",
+          "answer": "személyes adatok kezelése"
+        },
+        {
+          "id": "b15",
+          "answer": "e célból történő kezelése ellen"
+        },
+        {
+          "id": "b16",
+          "answer": "amennyiben az a"
+        },
+        {
+          "id": "b17",
+          "answer": "a továbbiakban"
+        },
+        {
+          "id": "b18",
+          "answer": "(1) és (2) bekezdésben"
+        },
+        {
+          "id": "b19",
+          "answer": "fel kell hívni"
+        },
+        {
+          "id": "b20",
+          "answer": "annak figyelmét"
+        },
+        {
+          "id": "b21",
+          "answer": "tájékoztatást"
+        },
+        {
+          "id": "b22",
+          "answer": "kell megjeleníteni"
+        },
+        {
+          "id": "b23",
+          "answer": "automatizált eszközökkel"
+        },
+        {
+          "id": "b24",
+          "answer": "közérdekű okból"
+        }
+      ],
+      "distractors": [
+        "köteles arra",
+        "általános érdekekre hivatkozva",
+        "7. cikk (2) bekezdésének",
+        "kezelése során",
+        "kizárva az említett feltételeken alapuló",
+        "az érintett",
+        "a közérdekű adatokat",
+        "abban az esetben, ha",
+        "a feldolgozást",
+        "lényeges",
+        "alátámasztják",
+        "kötelezettségeivel, terheivel és korlátaival",
+        "megváltoztatásához, törléséhez vagy módosításához",
+        "közérdekű adatok feldolgozása",
+        "e célból való felhasználása mellett",
+        "feltéve, hogy az",
+        "a múltban",
+        "(3) és (4) bekezdésben",
+        "lehet közölni",
+        "azok következményeit",
+        "utasítást",
+        "manuális eljárásokkal",
+        "magánérdekből"
+      ]
+    },
+    {
+      "id": "s18",
+      "cimke": "GDPR 22. cikk",
+      "text": "__[b1]__ __[b2]__, __[b3]__ profilalkotást (1) Az érintett jogosult __[b4]__ ne terjedjen ki rá __[b5]__, kizárólag automatizált __[b6]__ – ideértve a profilalkotást is – __[b7]__, __[b8]__ joghatással járna __[b9]__ jelentős mértékben érintené. (2) __[b10]__ nem alkalmazandó __[b11]__ __[b12]__: a) __[b13]__ és __[b14]__ __[b15]__ __[b16]__ érdekében szükséges; b) meghozatalát __[b17]__ __[b18]__ jog teszi lehetővé, __[b19]__ jogainak és szabadságainak, __[b20]__ __[b21]__ megfelelő __[b22]__; vagy c) __[b23]__ __[b24]__. (3) A (2) bekezdés a) és c) pontjában említett esetekben az adatkezelő köteles megfelelő intézkedéseket tenni az érintett jogainak, szabadságainak és jogos érdekeinek védelme érdekében, ideértve az érintettnek legalább azt a jogát, hogy az adatkezelő részéről emberi beavatkozást kérjen, álláspontját kifejezze, és a döntéssel szemben kifogást nyújtson be. (4) A (2) bekezdésben említett döntések nem alapulhatnak a személyes adatoknak a 9. cikk (1) bekezdésében említett különleges kategóriáin, kivéve, ha a 9. cikk (2) bekezdésének a) vagy g) pontja alkalmazandó, és az érintett jogainak, szabadságainak és jogos érdekeinek védelme érdekében megfelelő intézkedések megtételére került sor.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Automatizált döntéshozatal"
+        },
+        {
+          "id": "b2",
+          "answer": "egyedi ügyekben"
+        },
+        {
+          "id": "b3",
+          "answer": "beleértve a"
+        },
+        {
+          "id": "b4",
+          "answer": "arra, hogy"
+        },
+        {
+          "id": "b5",
+          "answer": "az olyan"
+        },
+        {
+          "id": "b6",
+          "answer": "adatkezelésen"
+        },
+        {
+          "id": "b7",
+          "answer": "alapuló döntés hatálya"
+        },
+        {
+          "id": "b8",
+          "answer": "amely rá nézve"
+        },
+        {
+          "id": "b9",
+          "answer": "vagy őt hasonlóképpen"
+        },
+        {
+          "id": "b10",
+          "answer": "Az (1) bekezdés"
+        },
+        {
+          "id": "b11",
+          "answer": "abban az esetben, ha"
+        },
+        {
+          "id": "b12",
+          "answer": "a döntés"
+        },
+        {
+          "id": "b13",
+          "answer": "az érintett"
+        },
+        {
+          "id": "b14",
+          "answer": "az adatkezelő"
+        },
+        {
+          "id": "b15",
+          "answer": "közötti szerződés"
+        },
+        {
+          "id": "b16",
+          "answer": "megkötése vagy teljesítése"
+        },
+        {
+          "id": "b17",
+          "answer": "az adatkezelőre alkalmazandó"
+        },
+        {
+          "id": "b18",
+          "answer": "olyan uniós vagy tagállami"
+        },
+        {
+          "id": "b19",
+          "answer": "amely az érintett"
+        },
+        {
+          "id": "b20",
+          "answer": "valamint jogos érdekeinek"
+        },
+        {
+          "id": "b21",
+          "answer": "védelmét szolgáló"
+        },
+        {
+          "id": "b22",
+          "answer": "intézkedéseket is megállapít"
+        },
+        {
+          "id": "b23",
+          "answer": "az érintett kifejezett"
+        },
+        {
+          "id": "b24",
+          "answer": "hozzájárulásán alapul"
+        }
+      ],
+      "distractors": [
+        "Kézi döntéshozatal",
+        "általános esetekben",
+        "kivéve a",
+        "azért, hogy",
+        "a bármilyen",
+        "feldolgozáson",
+        "független szabályozás hatása",
+        "amely mindenki számára",
+        "és őt eltérően",
+        "A (2) bekezdés",
+        "kivéve, ha",
+        "a határozat",
+        "egyoldalú nyilatkozat",
+        "felmondása vagy módosítása",
+        "az érintettre vonatkozó",
+        "más nemzeti vagy nemzetközi",
+        "mely a hatóság",
+        "illetve kötelezettségeinek",
+        "korlátozását célzó",
+        "eljárásokat is előír",
+        "az adatkezelő hallgatólagos",
+        "parancsán alapul"
+      ]
+    },
+    {
+      "id": "s19",
+      "cimke": "GDPR 23. cikk",
+      "text": "Korlátozások (1) __[b1]__ __[b2]__ uniós vagy tagállami __[b3]__ __[b4]__ korlátozhatja __[b5]__ és a 34. cikkben foglalt, __[b6]__ __[b7]__ __[b8]__ __[b9]__ __[b10]__ __[b11]__ __[b12]__ tiszteletben tartja __[b13]__ __[b14]__, __[b15]__ __[b16]__ __[b17]__ demokratikus társadalomban: a) nemzetbiztonság; b) honvédelem; c) közbiztonság; 2016.5.4. HU Az Európai Unió Hivatalos Lapja L 119/47 d) __[b18]__, __[b19]__ vagy a vádeljárás lefolytatása, illetve __[b20]__ __[b21]__ a __[b22]__ és e veszélyek megelőzését; e) az Unió vagy valamely tagállam egyéb fontos, __[b23]__, különösen az Unió vagy valamely tagállam fontos gazdasági vagy pénzügyi érdeke, beleértve a monetáris, a költségvetési és az adózási kérdéseket, a népegészségügyet és a szociális biztonságot; f) a bírói függetlenség és a bírósági eljárások védelme; g) a szabályozott foglalkozások esetében az etikai vétségek megelőzése, kivizsgálása, felderítése és az ezekkel kapcsolatos eljárások lefolytatása; h) az a)–e) és a g) pontban említett esetekben – akár alkalmanként – a közhatalmi feladatok ellátásához kapcsolódó ellenőrzési, vizsgálati vagy szabályozási tevékenység; i) az érintett védelme vagy mások jogainak és szabadságainak védelme; j) polgári jogi követelések érvényesítése. (2) Az (1) bekezdésben említett jogalkotási intézkedések adott esetben részletes rendelkezéseket tartalmaznak legalább: a) az adatkezelés céljaira vagy az adatkezelés kategóriáira, b) a személyes adatok kategóriáira, c) a bevezetett korlátozások hatályára, d) a visszaélésre, illetve a jogosulatlan hozzáférésre vagy továbbítás megakadályozását célzó garanciákra, e) __[b24]__ __[b25]__, f) az adattárolás időtartamára, valamint az alkalmazandó garanciákra, figyelembe véve az adatkezelés vagy az adatkezelési kategóriák jellegét, hatályát és céljait, g) az érintettek jogait és szabadságait érintő kockázatokra, és h) az érintettek arra vonatkozó jogára, hogy tájékoztatást kapjanak a korlátozásról, kivéve, ha ez hátrányosan befolyásolhatja a korlátozás célját.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Az adatkezelőre vagy adatfeldolgozóra"
+        },
+        {
+          "id": "b2",
+          "answer": "alkalmazandó"
+        },
+        {
+          "id": "b3",
+          "answer": "jog jogalkotási"
+        },
+        {
+          "id": "b4",
+          "answer": "intézkedésekkel"
+        },
+        {
+          "id": "b5",
+          "answer": "a 12–22. cikkben"
+        },
+        {
+          "id": "b6",
+          "answer": "valamint a 12–22. cikkben"
+        },
+        {
+          "id": "b7",
+          "answer": "meghatározott jogokkal és kötelezettségekkel"
+        },
+        {
+          "id": "b8",
+          "answer": "összhangban lévő rendelkezései tekintetében"
+        },
+        {
+          "id": "b9",
+          "answer": "az 5. cikkben"
+        },
+        {
+          "id": "b10",
+          "answer": "foglalt jogok és kötelezettségek"
+        },
+        {
+          "id": "b11",
+          "answer": "hatályát, ha"
+        },
+        {
+          "id": "b12",
+          "answer": "a korlátozás"
+        },
+        {
+          "id": "b13",
+          "answer": "az alapvető jogok és szabadságok"
+        },
+        {
+          "id": "b14",
+          "answer": "lényeges tartalmát"
+        },
+        {
+          "id": "b15",
+          "answer": "valamint az alábbiak védelméhez"
+        },
+        {
+          "id": "b16",
+          "answer": "szükséges és arányos"
+        },
+        {
+          "id": "b17",
+          "answer": "intézkedés egy"
+        },
+        {
+          "id": "b18",
+          "answer": "bűncselekmények megelőzése"
+        },
+        {
+          "id": "b19",
+          "answer": "nyomozása, felderítése"
+        },
+        {
+          "id": "b20",
+          "answer": "büntetőjogi szankciók"
+        },
+        {
+          "id": "b21",
+          "answer": "végrehajtása, beleértve"
+        },
+        {
+          "id": "b22",
+          "answer": "közbiztonságot fenyegető veszélyekkel szembeni védelmet"
+        },
+        {
+          "id": "b23",
+          "answer": "általános közérdekű célkitűzései"
+        },
+        {
+          "id": "b24",
+          "answer": "az adatkezelő meghatározására"
+        },
+        {
+          "id": "b25",
+          "answer": "vagy az adatkezelők kategóriáinak meghatározására"
+        }
+      ],
+      "distractors": [
+        "Az érintettre vagy a hatóságra",
+        "vonatkozó",
+        "szabályozás végrehajtási",
+        "határozatokkal",
+        "a 23–33. cikkben",
+        "illetve a 34–44. cikkben",
+        "előírt jogokkal és feladatokkal",
+        "ellentétes előírásai ellenére",
+        "a 6. cikkben",
+        "előírt jogok és feladatok",
+        "érvényességét, amennyiben",
+        "a tiltás",
+        "a kiegészítő jogok és kötelezettségek",
+        "formai követelményeit",
+        "illetve a fentiek korlátozásához",
+        "kötelező és indokolt",
+        "eljárás egy",
+        "szabálysértések megakadályozása",
+        "kivizsgálása, elemzése",
+        "polgári jogi következmények",
+        "alkalmazása, kizárva",
+        "magánszféra megsértésével szembeni védelmet",
+        "egyedi magánérdekű céljai",
+        "az érintett azonosítására",
+        "vagy az érintettek csoportjainak besorolására"
+      ]
+    }
+  ]
+}

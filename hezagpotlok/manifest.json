@@ -1,14 +1,9 @@
 {
   "kategoria": "C/2 Az Európai Unió joga",
-  "forras": "jogedu notes type=cloze items Published",
+  "forras": "jogedu notes type=cloze items",
   "gyakorlat": 40,
   "szegmens": 494,
-  "hianyzikSorszam": [
-    1,
-    21,
-    26
-  ],
-  "megjegyzes": "A 1., 21. es 26. anyagreszhez nincs Published cloze. Nincs kitalalt fajl.",
+  "megjegyzes": "Egy Firestore-dokumentum = egy fajl. Nincs osszevonas, nincs atiras.",
   "items": [
     {
       "file": "hezagpotlok/02/jEtTaObZcvvr9jVQSaQ5.json",

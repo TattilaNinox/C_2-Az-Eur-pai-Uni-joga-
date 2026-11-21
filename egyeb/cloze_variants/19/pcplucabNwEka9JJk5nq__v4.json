@@ -1,0 +1,1302 @@
+{
+  "id": "4",
+  "parentId": "pcplucabNwEka9JJk5nq",
+  "variantIndex": 4,
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "EUMSZ 10. cikk",
+      "text": "Politikái és tevékenységei meghatározása és végrehajtása során __[b1]__ __[b2]__ __[b3]__ __[b4]__, __[b5]__, valláson vagy meggyőződésen, __[b6]__, életkoron vagy szexuális irányultságon alapuló __[b7]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "az Unió"
+        },
+        {
+          "id": "b2",
+          "answer": "küzd"
+        },
+        {
+          "id": "b3",
+          "answer": "mindenfajta"
+        },
+        {
+          "id": "b4",
+          "answer": "nemen"
+        },
+        {
+          "id": "b5",
+          "answer": "faji vagy etnikai származáson"
+        },
+        {
+          "id": "b6",
+          "answer": "fogyatékosságon"
+        },
+        {
+          "id": "b7",
+          "answer": "megkülönböztetés ellen"
+        }
+      ],
+      "distractors": [
+        "a Bizottság",
+        "támogat",
+        "bizonyos típusú",
+        "nemeken",
+        "kulturális vagy nyelvi hovatartozáson",
+        "betegségen",
+        "egyenlő bánásmódért"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "EUMSZ 18. cikk",
+      "text": "(az EKSz. korábbi 12. cikke) __[b1]__ és az azokban foglalt __[b2]__ __[b3]__, __[b4]__ az __[b5]__ történő __[b6]__. __[b7]__ __[b8]__ __[b9]__ __[b10]__ vonatkozó __[b11]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A Szerződések alkalmazási körében"
+        },
+        {
+          "id": "b2",
+          "answer": "különös rendelkezések"
+        },
+        {
+          "id": "b3",
+          "answer": "sérelme nélkül"
+        },
+        {
+          "id": "b4",
+          "answer": "tilos"
+        },
+        {
+          "id": "b5",
+          "answer": "állampolgárság alapján"
+        },
+        {
+          "id": "b6",
+          "answer": "bármely megkülönböztetés"
+        },
+        {
+          "id": "b7",
+          "answer": "Az Európai Parlament és a Tanács"
+        },
+        {
+          "id": "b8",
+          "answer": "rendes jogalkotási eljárás"
+        },
+        {
+          "id": "b9",
+          "answer": "keretében"
+        },
+        {
+          "id": "b10",
+          "answer": "az ilyen megkülönböztetés tilalmára"
+        },
+        {
+          "id": "b11",
+          "answer": "szabályokat fogadhat el"
+        }
+      ],
+      "distractors": [
+        "Az Egyezmények hatályán belül",
+        "általános szabályok",
+        "figyelembevételével",
+        "megengedett",
+        "lakóhely alapján",
+        "egyes megkülönböztetések",
+        "A Bizottság és a tagállamok",
+        "különleges jogalkotási eljárás",
+        "alapján",
+        "az ilyen megkülönböztetés engedélyezésére",
+        "irányelveket adhat ki"
+      ]
+    },
+    {
+      "id": "s3",
+      "cimke": "EUMSZ 19. cikk",
+      "text": "(az EKSz. korábbi 13. cikke) (1) A Szerződések egyéb rendelkezéseinek __[b1]__ és a __[b2]__ __[b3]__ __[b4]__ __[b5]__ __[b6]__, __[b7]__ __[b8]__, __[b9]__ __[b10]__ __[b11]__, __[b12]__, __[b13]__, __[b14]__, __[b15]__ __[b16]__ __[b17]__. (2) __[b18]__, __[b19]__ __[b20]__ __[b21]__ a tagállamok által az (1) bekezdésben említett __[b22]__ tett intézkedéseket támogató __[b23]__, __[b24]__ a tagállamok törvényi, rendeleti és közigazgatási rendelkezéseinek __[b25]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "sérelme nélkül"
+        },
+        {
+          "id": "b2",
+          "answer": "Szerződések által"
+        },
+        {
+          "id": "b3",
+          "answer": "az Unióra átruházott hatáskörök"
+        },
+        {
+          "id": "b4",
+          "answer": "keretén belül"
+        },
+        {
+          "id": "b5",
+          "answer": "a Tanács"
+        },
+        {
+          "id": "b6",
+          "answer": "az Európai Parlament egyetértését követően"
+        },
+        {
+          "id": "b7",
+          "answer": "különleges jogalkotási eljárás"
+        },
+        {
+          "id": "b8",
+          "answer": "keretében"
+        },
+        {
+          "id": "b9",
+          "answer": "egyhangúlag"
+        },
+        {
+          "id": "b10",
+          "answer": "megfelelő intézkedéseket tehet"
+        },
+        {
+          "id": "b11",
+          "answer": "a nemen"
+        },
+        {
+          "id": "b12",
+          "answer": "faji vagy etnikai származáson"
+        },
+        {
+          "id": "b13",
+          "answer": "valláson vagy meggyőződésen"
+        },
+        {
+          "id": "b14",
+          "answer": "fogyatékosságon"
+        },
+        {
+          "id": "b15",
+          "answer": "koron vagy szexuális irányultságon"
+        },
+        {
+          "id": "b16",
+          "answer": "alapuló"
+        },
+        {
+          "id": "b17",
+          "answer": "megkülönböztetés leküzdésére"
+        },
+        {
+          "id": "b18",
+          "answer": "Az (1) bekezdéstől eltérve"
+        },
+        {
+          "id": "b19",
+          "answer": "az Európai Parlament és a Tanács"
+        },
+        {
+          "id": "b20",
+          "answer": "rendes jogalkotási eljárás keretében"
+        },
+        {
+          "id": "b21",
+          "answer": "elfogadhatja"
+        },
+        {
+          "id": "b22",
+          "answer": "célkitűzések elérése érdekében"
+        },
+        {
+          "id": "b23",
+          "answer": "uniós ösztönző intézkedések alapelveit"
+        },
+        {
+          "id": "b24",
+          "answer": "kizárva azonban"
+        },
+        {
+          "id": "b25",
+          "answer": "bármilyen összehangolását"
+        }
+      ],
+      "distractors": [
+        "figyelembevételével",
+        "jogszabályok alapján",
+        "a tagállamokra fenntartott hatáskörök",
+        "hatókörén kívül",
+        "a Bizottság",
+        "a Bizottság javaslatára",
+        "rendes jogalkotási eljárás",
+        "alapján",
+        "minősített többséggel",
+        "ajánlásokat fogadhat el",
+        "a fajon",
+        "nemzetiségi vagy kulturális hovatartozáson",
+        "politikai nézeten",
+        "betegségen",
+        "házassági állapoton",
+        "kiterjedő",
+        "egyenlő bánásmód előmozdítására",
+        "Az (1) bekezdés szerint",
+        "a Bizottság és a Képviselőcsoportok",
+        "különleges jogalkotási eljárás keretében",
+        "javasolhatja",
+        "érdekek érvényesítése céljából",
+        "nemzeti támogatások szabályait",
+        "beleértve",
+        "egyes harmonizációját"
+      ]
+    },
+    {
+      "id": "s4",
+      "cimke": "EUMSZ 34. cikk",
+      "text": "(az EKSz. korábbi 28. cikke) __[b1]__ __[b2]__ __[b3]__ __[b4]__ és azzal __[b5]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A tagállamok között"
+        },
+        {
+          "id": "b2",
+          "answer": "tilos"
+        },
+        {
+          "id": "b3",
+          "answer": "a behozatalra vonatkozó"
+        },
+        {
+          "id": "b4",
+          "answer": "minden mennyiségi korlátozás"
+        },
+        {
+          "id": "b5",
+          "answer": "azonos hatású intézkedés"
+        }
+      ],
+      "distractors": [
+        "A tagállamokon belül",
+        "megengedett",
+        "a kivitelre vonatkozó",
+        "egyes minőségi előírások",
+        "eltérő hatású szabályozás"
+      ]
+    },
+    {
+      "id": "s5",
+      "cimke": "EUMSZ 35. cikk",
+      "text": "(az EKSz. korábbi 29. cikke) __[b1]__ __[b2]__ __[b3]__ __[b4]__ és azzal __[b5]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A tagállamok között"
+        },
+        {
+          "id": "b2",
+          "answer": "tilos"
+        },
+        {
+          "id": "b3",
+          "answer": "a kivitelre vonatkozó"
+        },
+        {
+          "id": "b4",
+          "answer": "minden mennyiségi korlátozás"
+        },
+        {
+          "id": "b5",
+          "answer": "azonos hatású intézkedés"
+        }
+      ],
+      "distractors": [
+        "A tagállamokon belül",
+        "megengedett",
+        "a behozatalra vonatkozó",
+        "egyes minőségi előírások",
+        "eltérő hatású szabályozás"
+      ]
+    },
+    {
+      "id": "s6",
+      "cimke": "EUMSZ 36. cikk",
+      "text": "(az EKSz. korábbi 30. cikke) A 34. és a 35. cikk __[b1]__ __[b2]__ __[b3]__, __[b4]__ __[b5]__ vonatkozó __[b6]__ __[b7]__, __[b8]__ __[b9]__, __[b10]__, __[b11]__, __[b12]__, __[b13]__ __[b14]__ __[b15]__, __[b16]__ __[b17]__ __[b18]__ védelme vagy az __[b19]__ védelme indokol. Ezek a tilalmak és korlátozások azonban nem lehetnek önkényes megkülönböztetés vagy a tagállamok közötti kereskedelem rejtett korlátozásának eszközei.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "rendelkezései"
+        },
+        {
+          "id": "b2",
+          "answer": "nem zárják ki"
+        },
+        {
+          "id": "b3",
+          "answer": "a behozatalra"
+        },
+        {
+          "id": "b4",
+          "answer": "a kivitelre"
+        },
+        {
+          "id": "b5",
+          "answer": "vagy a tranzitárukra"
+        },
+        {
+          "id": "b6",
+          "answer": "olyan tilalmakat"
+        },
+        {
+          "id": "b7",
+          "answer": "vagy korlátozásokat"
+        },
+        {
+          "id": "b8",
+          "answer": "amelyeket"
+        },
+        {
+          "id": "b9",
+          "answer": "a közerkölcs"
+        },
+        {
+          "id": "b10",
+          "answer": "a közrend"
+        },
+        {
+          "id": "b11",
+          "answer": "a közbiztonság"
+        },
+        {
+          "id": "b12",
+          "answer": "az emberek"
+        },
+        {
+          "id": "b13",
+          "answer": "az állatok és növények"
+        },
+        {
+          "id": "b14",
+          "answer": "egészségének és életének"
+        },
+        {
+          "id": "b15",
+          "answer": "védelme"
+        },
+        {
+          "id": "b16",
+          "answer": "a művészi, történelmi"
+        },
+        {
+          "id": "b17",
+          "answer": "vagy régészeti értéket"
+        },
+        {
+          "id": "b18",
+          "answer": "képviselő nemzeti kincsek"
+        },
+        {
+          "id": "b19",
+          "answer": "ipari és kereskedelmi tulajdon"
+        }
+      ],
+      "distractors": [
+        "előírásai",
+        "lehetővé teszik",
+        "a szolgáltatásokra",
+        "és a szolgáltatásokra",
+        "egyes engedélyeket",
+        "és ösztönzőket",
+        "abban az esetben, ha",
+        "a magánélet",
+        "a magánrend",
+        "a közegészségügy",
+        "az állampolgárok",
+        "a vadállatok és gombák",
+        "jólétének és fejlődésének",
+        "előmozdítása",
+        "a kulturális, tudományos",
+        "és néprajzi jelentőséget",
+        "megőrzésre szoruló tárgyak",
+        "szellemi és szerzői jogok"
+      ]
+    },
+    {
+      "id": "s7",
+      "cimke": "EUMSZ 37. cikk",
+      "text": "(az EKSz. korábbi 31. cikke) (1) A tagállamok __[b1]__ __[b2]__ __[b3]__ __[b4]__, hogy __[b5]__ __[b6]__ __[b7]__ __[b8]__ __[b9]__. __[b10]__ __[b11]__ vonatkoznak, amelyen keresztül valamely tagállam __[b12]__, __[b13]__ __[b14]__ vagy __[b15]__ __[b16]__ __[b17]__. Ezeket a rendelkezéseket __[b18]__ __[b19]__ __[b20]__. (2) __[b21]__ __[b22]__ bevezetésétől, __[b23]__ az (1) bekezdésben megállapított elvekkel, vagy amely korlátozza a tagállamok közötti __[b24]__ __[b25]__ vonatkozó cikkek hatályát. (3) Ha egy kereskedelmi jellegű állami monopólium szabályainak az a célja, hogy megkönnyítse a mezőgazdasági termékek forgalomba hozatalát vagy legjobb áron történő értékesítését, az e cikkben foglalt szabályok alkalmazásakor lépéseket kell tenni annak érdekében, hogy az érintett termelők foglalkoztatására és életszínvonalára vonatkozóan egyenértékű biztosítékot nyújtsanak.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "minden kereskedelmi jellegű"
+        },
+        {
+          "id": "b2",
+          "answer": "állami monopóliumot"
+        },
+        {
+          "id": "b3",
+          "answer": "kiigazítanak"
+        },
+        {
+          "id": "b4",
+          "answer": "oly módon"
+        },
+        {
+          "id": "b5",
+          "answer": "az áruk beszerzési és értékesítési"
+        },
+        {
+          "id": "b6",
+          "answer": "feltételeire vonatkozóan"
+        },
+        {
+          "id": "b7",
+          "answer": "a tagállamok állampolgárai között"
+        },
+        {
+          "id": "b8",
+          "answer": "ne álljon fenn"
+        },
+        {
+          "id": "b9",
+          "answer": "megkülönböztetés"
+        },
+        {
+          "id": "b10",
+          "answer": "E cikk rendelkezései"
+        },
+        {
+          "id": "b11",
+          "answer": "minden olyan szervre"
+        },
+        {
+          "id": "b12",
+          "answer": "jogilag vagy ténylegesen"
+        },
+        {
+          "id": "b13",
+          "answer": "közvetlenül vagy közvetve"
+        },
+        {
+          "id": "b14",
+          "answer": "ellenőrzi, irányítja"
+        },
+        {
+          "id": "b15",
+          "answer": "érzékelhetően befolyásolja"
+        },
+        {
+          "id": "b16",
+          "answer": "a tagállamok közötti"
+        },
+        {
+          "id": "b17",
+          "answer": "behozatalt vagy kivitelt"
+        },
+        {
+          "id": "b18",
+          "answer": "az állam által másokra átruházott"
+        },
+        {
+          "id": "b19",
+          "answer": "monopóliumokra ugyanúgy"
+        },
+        {
+          "id": "b20",
+          "answer": "alkalmazni kell"
+        },
+        {
+          "id": "b21",
+          "answer": "A tagállamok tartózkodnak"
+        },
+        {
+          "id": "b22",
+          "answer": "minden olyan új intézkedés"
+        },
+        {
+          "id": "b23",
+          "answer": "amely ellentétes"
+        },
+        {
+          "id": "b24",
+          "answer": "vámok és mennyiségi"
+        },
+        {
+          "id": "b25",
+          "answer": "korlátozások tilalmára"
+        }
+      ],
+      "distractors": [
+        "egyes ipari jellegű",
+        "magánvállalatot",
+        "fenntartanak",
+        "azzal a céllal",
+        "a szolgáltatások nyújtási és igénybevételi",
+        "szabályozásán kívül",
+        "a harmadik országok lakosai között",
+        "fennálljon",
+        "egyenlő bánásmód",
+        "A Szerződések szabályai",
+        "csak egyes hatóságokra",
+        "formálisan vagy informálisan",
+        "nyíltan vagy titokban",
+        "támogatja, segíti",
+        "csekély mértékben érinti",
+        "a tagállamokon belüli",
+        "szolgáltatások nyújtását",
+        "a magánszektor által fenntartott",
+        "privilégiumokra eltérően",
+        "figyelembe vehető",
+        "A tagállamok kötelesek",
+        "egyes régi szabályok",
+        "amely összhangban van",
+        "adók és minőségi",
+        "ösztönzők bevezetésére"
+      ]
+    },
+    {
+      "id": "s8",
+      "cimke": "EUMSZ 110. cikk",
+      "text": "(az EKSz. korábbi 90. cikke) __[b1]__ __[b2]__ __[b3]__ __[b4]__ __[b5]__ __[b6]__ __[b7]__ __[b8]__ __[b9]__. A tagállamok __[b10]__ nem vetnek ki más tagállamok termékeire __[b11]__ belső adót, amely más termékek közvetett védelmét szolgálhatja.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A tagállamok"
+        },
+        {
+          "id": "b2",
+          "answer": "sem közvetlenül, sem közvetve"
+        },
+        {
+          "id": "b3",
+          "answer": "nem vetnek ki"
+        },
+        {
+          "id": "b4",
+          "answer": "más tagállamok termékeire"
+        },
+        {
+          "id": "b5",
+          "answer": "a hasonló jellegű hazai"
+        },
+        {
+          "id": "b6",
+          "answer": "termékre"
+        },
+        {
+          "id": "b7",
+          "answer": "közvetlenül vagy közvetve"
+        },
+        {
+          "id": "b8",
+          "answer": "kivetett adónál"
+        },
+        {
+          "id": "b9",
+          "answer": "magasabb belső adót"
+        },
+        {
+          "id": "b10",
+          "answer": "továbbá"
+        },
+        {
+          "id": "b11",
+          "answer": "olyan természetű"
+        }
+      ],
+      "distractors": [
+        "Az Unió",
+        "kivethetnek",
+        "saját termékeikre",
+        "az eltérő típusú külföldi",
+        "szolgáltatásra",
+        "kizárólag közvetlenül",
+        "alkalmazott áfakulcsnál",
+        "alacsonyabb külső adót",
+        "azonban",
+        "eltérő jellegű"
+      ]
+    },
+    {
+      "id": "s9",
+      "cimke": "EUMSZ 45. cikk",
+      "text": "(az EKSz. korábbi 39. cikke) (1) Az __[b1]__ biztosítani kell a munkavállalók szabad mozgását. (2) A munkavállalók szabad mozgása magában foglalja az állampolgárság alapján történő __[b2]__ __[b3]__ a tagállamok __[b4]__ a foglalkoztatás, a javadalmazás, valamint az egyéb munka- és foglalkoztatási feltételek __[b5]__. (3) A közrendi, közbiztonsági vagy __[b6]__ okok alapján __[b7]__ korlátozásokra is __[b8]__, a munkavállalók szabad mozgása __[b9]__ a munkavállalónak arra, hogy: a) __[b10]__ jelentkezzen; b) e célból a tagállamok területén __[b11]__; c) __[b12]__ valamely tagállamban __[b13]__ az adott tagállam __[b14]__ foglalkoztatására vonatkozó __[b15]__, __[b16]__ vagy __[b17]__; d) egy tagállamban történő alkalmazását követően a __[b18]__ __[b19]__ feltételek mellett az adott tagállam __[b20]__. (4) E cikk __[b21]__ __[b22]__ a __[b23]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Unión belül"
+        },
+        {
+          "id": "b2",
+          "answer": "minden"
+        },
+        {
+          "id": "b3",
+          "answer": "megkülönböztetés megszüntetését"
+        },
+        {
+          "id": "b4",
+          "answer": "munkavállalói között"
+        },
+        {
+          "id": "b5",
+          "answer": "tekintetében"
+        },
+        {
+          "id": "b6",
+          "answer": "közegészségügyi"
+        },
+        {
+          "id": "b7",
+          "answer": "indokolt"
+        },
+        {
+          "id": "b8",
+          "answer": "figyelemmel"
+        },
+        {
+          "id": "b9",
+          "answer": "jogot biztosít"
+        },
+        {
+          "id": "b10",
+          "answer": "tényleges állásajánlatokra"
+        },
+        {
+          "id": "b11",
+          "answer": "szabadon mozogjon"
+        },
+        {
+          "id": "b12",
+          "answer": "munkavállalás céljából"
+        },
+        {
+          "id": "b13",
+          "answer": "tartózkodjon"
+        },
+        {
+          "id": "b14",
+          "answer": "állampolgárainak"
+        },
+        {
+          "id": "b15",
+          "answer": "törvényi"
+        },
+        {
+          "id": "b16",
+          "answer": "rendeleti"
+        },
+        {
+          "id": "b17",
+          "answer": "közigazgatási rendelkezéseknek megfelelően"
+        },
+        {
+          "id": "b18",
+          "answer": "Bizottság által"
+        },
+        {
+          "id": "b19",
+          "answer": "rendeletekben meghatározott"
+        },
+        {
+          "id": "b20",
+          "answer": "területén maradjon"
+        },
+        {
+          "id": "b21",
+          "answer": "rendelkezései"
+        },
+        {
+          "id": "b22",
+          "answer": "nem vonatkoznak"
+        },
+        {
+          "id": "b23",
+          "answer": "közszolgálatban történő foglalkoztatásra"
+        }
+      ],
+      "distractors": [
+        "EGT-n belül",
+        "bizonyos",
+        "egyenlő bánásmód biztosítását",
+        "munkáltatói között",
+        "keretében",
+        "környezetvédelmi",
+        "engedélyezett",
+        "mellőzésével",
+        "lehetőséget teremt",
+        "bármely állásajánlatra",
+        "ellenőrzés mellett utazzon",
+        "turisztikai céllal",
+        "letelepedjen",
+        "lakosainak",
+        "alkotmányos",
+        "határozati",
+        "nemzetközi egyezmények szerint",
+        "Tanács által",
+        "irányelvekben rögzített",
+        "letelepedési jogot szerezzen",
+        "szabályai",
+        "kiterjednek",
+        "magánszférában történő munkavégzésre"
+      ]
+    },
+    {
+      "id": "s10",
+      "cimke": "EUMSZ 49. cikk",
+      "text": "(az EKSz. korábbi 43. cikke) Az alábbiakban megállapított rendelkezéseknek megfelelően __[b1]__ a valamely tagállam állampolgárainak egy másik tagállam területén történő __[b2]__ __[b3]__ __[b4]__. Ezt a rendelkezést azokra a korlátozásokra is __[b5]__, amelyek __[b6]__, __[b7]__ vagy __[b8]__ __[b9]__ __[b10]__ __[b11]__ __[b12]__ __[b13]__. A szabad letelepedés __[b14]__ __[b15]__ gazdasági tevékenység __[b16]__ történő __[b17]__, vállalkozások, így különösen az 54. cikk második bekezdése szerinti társaságok alapítására és __[b18]__, a __[b19]__ __[b20]__ a __[b21]__ __[b22]__, __[b23]__ a __[b24]__ fejezet rendelkezéseire is.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "tilos"
+        },
+        {
+          "id": "b2",
+          "answer": "szabad letelepedésére"
+        },
+        {
+          "id": "b3",
+          "answer": "vonatkozó"
+        },
+        {
+          "id": "b4",
+          "answer": "minden korlátozás"
+        },
+        {
+          "id": "b5",
+          "answer": "alkalmazni kell"
+        },
+        {
+          "id": "b6",
+          "answer": "képviseletnek"
+        },
+        {
+          "id": "b7",
+          "answer": "fióktelepnek"
+        },
+        {
+          "id": "b8",
+          "answer": "leányvállalatnak"
+        },
+        {
+          "id": "b9",
+          "answer": "egy tagállam"
+        },
+        {
+          "id": "b10",
+          "answer": "valamely tagállamban letelepedett"
+        },
+        {
+          "id": "b11",
+          "answer": "állampolgára által"
+        },
+        {
+          "id": "b12",
+          "answer": "történő alapítására"
+        },
+        {
+          "id": "b13",
+          "answer": "vonatkoznak"
+        },
+        {
+          "id": "b14",
+          "answer": "magában foglalja"
+        },
+        {
+          "id": "b15",
+          "answer": "a jogot"
+        },
+        {
+          "id": "b16",
+          "answer": "önálló vállalkozóként"
+        },
+        {
+          "id": "b17",
+          "answer": "megkezdésére és folytatására"
+        },
+        {
+          "id": "b18",
+          "answer": "irányítására"
+        },
+        {
+          "id": "b19",
+          "answer": "letelepedés országának"
+        },
+        {
+          "id": "b20",
+          "answer": "joga által"
+        },
+        {
+          "id": "b21",
+          "answer": "saját állampolgáraira"
+        },
+        {
+          "id": "b22",
+          "answer": "előírt feltételek szerint"
+        },
+        {
+          "id": "b23",
+          "answer": "figyelemmel"
+        },
+        {
+          "id": "b24",
+          "answer": "tőkére vonatkozó"
+        }
+      ],
+      "distractors": [
+        "kötelező",
+        "ideiglenes tartózkodására",
+        "kiterjedő",
+        "bizonyos mentességek",
+        "alkalmazni lehet",
+        "fiókirodának",
+        "székhelynek",
+        "anyavállalatnak",
+        "az Unió",
+        "más tagállamban bejegyzett",
+        "jogi személy által",
+        "történő megszüntetésére",
+        "érvényesek",
+        "kizárja",
+        "a kötelezettséget",
+        "alkalmazottként",
+        "megszüntetésére és felfüggesztésére",
+        "felszámolására",
+        "honosságának",
+        "kormányának rendeletei szerint",
+        "külföldi állampolgáraira",
+        "engedélyezett esetekben",
+        "mellőzésével",
+        "szolgáltatásokra irányuló"
+      ]
+    },
+    {
+      "id": "s11",
+      "cimke": "EUMSZ 54. cikk",
+      "text": "(az EKSz. korábbi 48. cikke) __[b1]__ __[b2]__ __[b3]__ olyan társaság, amelynek __[b4]__, __[b5]__ vagy __[b6]__ __[b7]__, e fejezet __[b8]__ __[b9]__, mint azok a __[b10]__, __[b11]__. Társaság” a __[b12]__ alapján létrejött társaság, beleértve a szövetkezeteket és a __[b13]__ hatálya alá tartozó más __[b14]__, __[b15]__ a nonprofit szervezeteket.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Valamely tagállam"
+        },
+        {
+          "id": "b2",
+          "answer": "jogszabályai alapján"
+        },
+        {
+          "id": "b3",
+          "answer": "létrehozott"
+        },
+        {
+          "id": "b4",
+          "answer": "létesítő okirat szerinti székhelye"
+        },
+        {
+          "id": "b5",
+          "answer": "központi ügyvezetése"
+        },
+        {
+          "id": "b6",
+          "answer": "üzleti tevékenységének fő helye"
+        },
+        {
+          "id": "b7",
+          "answer": "az Unió területén van"
+        },
+        {
+          "id": "b8",
+          "answer": "alkalmazása szempontjából"
+        },
+        {
+          "id": "b9",
+          "answer": "ugyanolyan elbánásban részesül"
+        },
+        {
+          "id": "b10",
+          "answer": "természetes személyek"
+        },
+        {
+          "id": "b11",
+          "answer": "akik a tagállamok állampolgárai"
+        },
+        {
+          "id": "b12",
+          "answer": "polgári vagy kereskedelmi jog"
+        },
+        {
+          "id": "b13",
+          "answer": "közjog vagy a magánjog"
+        },
+        {
+          "id": "b14",
+          "answer": "jogi személyeket"
+        },
+        {
+          "id": "b15",
+          "answer": "kivéve"
+        }
+      ],
+      "distractors": [
+        "Bármely tagállam",
+        "kormányrendeletei szerint",
+        "megszüntetett",
+        "nyilvántartásba vett címe",
+        "helyi képviselete",
+        "kiegészítő tevékenységének helye",
+        "az EGT területén található",
+        "hatálya alá tartozóan",
+        "preferenciális elbánásban részesül",
+        "jogi személyek",
+        "akik harmadik országok állampolgárai",
+        "közigazgatási vagy büntetőjog",
+        "nemzetközi jog vagy az uniós jog",
+        "természetes személyeket",
+        "beleértve"
+      ]
+    },
+    {
+      "id": "s12",
+      "cimke": "EUMSZ 55. cikk",
+      "text": "(az EKSz. korábbi 294. cikke) __[b1]__ — a __[b2]__ __[b3]__  __[b4]__ __[b5]__ __[b6]__ illetően __[b7]__ __[b8]__, __[b9]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A tagállamok"
+        },
+        {
+          "id": "b2",
+          "answer": "Szerződések egyéb rendelkezései"
+        },
+        {
+          "id": "b3",
+          "answer": "alkalmazásának sérelme nélkül"
+        },
+        {
+          "id": "b4",
+          "answer": "az 54. cikk értelmében"
+        },
+        {
+          "id": "b5",
+          "answer": "vett társaságok"
+        },
+        {
+          "id": "b6",
+          "answer": "tőkéjében való részesedést"
+        },
+        {
+          "id": "b7",
+          "answer": "ugyanolyan elbánásban részesítik"
+        },
+        {
+          "id": "b8",
+          "answer": "a többi tagállam állampolgárait"
+        },
+        {
+          "id": "b9",
+          "answer": "mint a saját állampolgáraikat"
+        }
+      ],
+      "distractors": [
+        "Az Unió intézményei",
+        "nemzeti jogszabályok",
+        "felülvizsgálatával",
+        "a 49. cikk alapján",
+        "alapított egyesületek",
+        "vezetésében való részvételt",
+        "különleges kedvezményben részesítik",
+        "harmadik országok állampolgárait",
+        "mint a letelepedett külföldieket"
+      ]
+    },
+    {
+      "id": "s13",
+      "cimke": "EUMSZ 56. cikk",
+      "text": "(az EKSz. korábbi 49. cikke) Az alábbiakban megállapított rendelkezéseknek megfelelően __[b1]__ az __[b2]__ __[b3]__ vonatkozó __[b4]__ a tagállamok __[b5]__ tekintetében, akik __[b6]__ letelepedettek, mint a __[b7]__. __[b8]__ __[b9]__ __[b10]__ __[b11]__ __[b12]__ __[b13]__ __[b14]__, akik __[b15]__ és __[b16]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "tilos"
+        },
+        {
+          "id": "b2",
+          "answer": "Unión belüli"
+        },
+        {
+          "id": "b3",
+          "answer": "szolgáltatásnyújtás szabadságára"
+        },
+        {
+          "id": "b4",
+          "answer": "minden korlátozás"
+        },
+        {
+          "id": "b5",
+          "answer": "olyan állampolgárai"
+        },
+        {
+          "id": "b6",
+          "answer": "nem abban a tagállamban"
+        },
+        {
+          "id": "b7",
+          "answer": "szolgáltatást igénybe vevő személy"
+        },
+        {
+          "id": "b8",
+          "answer": "Az Európai Parlament és a Tanács"
+        },
+        {
+          "id": "b9",
+          "answer": "rendes jogalkotási eljárás"
+        },
+        {
+          "id": "b10",
+          "answer": "keretében"
+        },
+        {
+          "id": "b11",
+          "answer": "e fejezet rendelkezéseit"
+        },
+        {
+          "id": "b12",
+          "answer": "kiterjesztheti"
+        },
+        {
+          "id": "b13",
+          "answer": "harmadik országok"
+        },
+        {
+          "id": "b14",
+          "answer": "olyan állampolgáraira"
+        },
+        {
+          "id": "b15",
+          "answer": "szolgáltatásokat nyújtanak"
+        },
+        {
+          "id": "b16",
+          "answer": "az Unió területén letelepedettek"
+        }
+      ],
+      "distractors": [
+        "kötelező",
+        "nemzetközi",
+        "áruk szabad mozgására",
+        "egyedi kivételek",
+        "minden állampolgára",
+        "abban a tagállamban",
+        "szolgáltatást nyújtó személy",
+        "A Bizottság és a Bíróság",
+        "különleges jogalkotási eljárás",
+        "mellőzésével",
+        "az egész Szerződés előírásait",
+        "szűkítheti",
+        "EGT-államok",
+        "jogi személyeire",
+        "termékeket importálnak",
+        "az Unió területén átutazók"
+      ]
+    },
+    {
+      "id": "s14",
+      "cimke": "EUMSZ 63. cikk",
+      "text": "(az EKSz. korábbi 56. cikke) (1) __[b1]__ __[b2]__ __[b3]__ __[b4]__ a __[b5]__, __[b6]__ a tagállamok és __[b7]__ __[b8]__ __[b9]__ __[b10]__ __[b11]__. (2) E fejezet rendelkezéseinek keretei között tilos a tagállamok, valamint a tagállamok és harmadik országok közötti __[b12]__ vonatkozó minden korlátozás.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "E fejezet"
+        },
+        {
+          "id": "b2",
+          "answer": "rendelkezéseinek"
+        },
+        {
+          "id": "b3",
+          "answer": "keretei között"
+        },
+        {
+          "id": "b4",
+          "answer": "tilos"
+        },
+        {
+          "id": "b5",
+          "answer": "tagállamok"
+        },
+        {
+          "id": "b6",
+          "answer": "valamint"
+        },
+        {
+          "id": "b7",
+          "answer": "harmadik országok"
+        },
+        {
+          "id": "b8",
+          "answer": "közötti"
+        },
+        {
+          "id": "b9",
+          "answer": "tőkemozgásra"
+        },
+        {
+          "id": "b10",
+          "answer": "vonatkozó"
+        },
+        {
+          "id": "b11",
+          "answer": "minden korlátozás"
+        },
+        {
+          "id": "b12",
+          "answer": "fizetési műveletekre"
+        }
+      ],
+      "distractors": [
+        "A Szerződés",
+        "szabályainak",
+        "figyelembe vételével",
+        "kötelező",
+        "uniós intézmények",
+        "helyett",
+        "EGT-államok",
+        "egyoldalú",
+        "áruk szabad mozgására",
+        "alkalmazandó",
+        "bizonyos kivételek",
+        "szolgáltatásnyújtásra"
+      ]
+    },
+    {
+      "id": "s15",
+      "cimke": "EUMSZ 157. cikk",
+      "text": "(az EKSz. korábbi 141. cikke) (1) Minden tagállam __[b1]__ annak az elvnek az __[b2]__, hogy a __[b3]__ __[b4]__ __[b5]__ __[b6]__ __[b7]__. (2) E cikk alkalmazásában __[b8]__ a rendes alap- vagy __[b9]__, illetve __[b10]__, valamint __[b11]__, amelyet a __[b12]__ a munkáltatójától közvetlenül vagy közvetve, __[b13]__ a __[b14]__ kap. A __[b15]__ egyenlő díjazás azt jelenti, hogy: a) __[b16]__ az __[b17]__ díjazást __[b18]__ __[b19]__; b) __[b20]__ __[b21]__ azonos díjazás __[b22]__. (3) Az Európai Parlament és a Tanács a rendes jogalkotási eljárás keretében és a __[b23]__ folytatott __[b24]__ __[b25]__ annak érdekében, hogy biztosítsa a férfiak és nők között az egyenlő esélyek és az egyenlő bánásmód elvének alkalmazását",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "biztosítja"
+        },
+        {
+          "id": "b2",
+          "answer": "alkalmazását"
+        },
+        {
+          "id": "b3",
+          "answer": "férfiak és a nők"
+        },
+        {
+          "id": "b4",
+          "answer": "egyenlő vagy egyenlő értékű"
+        },
+        {
+          "id": "b5",
+          "answer": "munkáért"
+        },
+        {
+          "id": "b6",
+          "answer": "egyenlő díjazást"
+        },
+        {
+          "id": "b7",
+          "answer": "kapjanak"
+        },
+        {
+          "id": "b8",
+          "answer": "díjazás"
+        },
+        {
+          "id": "b9",
+          "answer": "minimálbér"
+        },
+        {
+          "id": "b10",
+          "answer": "illetmény"
+        },
+        {
+          "id": "b11",
+          "answer": "minden egyéb olyan juttatás"
+        },
+        {
+          "id": "b12",
+          "answer": "munkavállaló"
+        },
+        {
+          "id": "b13",
+          "answer": "készpénzben vagy természetben"
+        },
+        {
+          "id": "b14",
+          "answer": "munkaviszonyára tekintettel"
+        },
+        {
+          "id": "b15",
+          "answer": "nemen alapuló megkülönböztetés nélküli"
+        },
+        {
+          "id": "b16",
+          "answer": "teljesítménybér esetén"
+        },
+        {
+          "id": "b17",
+          "answer": "azonos munkáért járó"
+        },
+        {
+          "id": "b18",
+          "answer": "azonos mértékegység alapján"
+        },
+        {
+          "id": "b19",
+          "answer": "állapítják meg"
+        },
+        {
+          "id": "b20",
+          "answer": "időbér esetén"
+        },
+        {
+          "id": "b21",
+          "answer": "azonos munkakörben"
+        },
+        {
+          "id": "b22",
+          "answer": "jár"
+        },
+        {
+          "id": "b23",
+          "answer": "Gazdasági és Szociális Bizottsággal"
+        },
+        {
+          "id": "b24",
+          "answer": "konzultációt követően"
+        },
+        {
+          "id": "b25",
+          "answer": "intézkedéseket fogad el"
+        }
+      ],
+      "distractors": [
+        "engedélyezi",
+        "felfüggesztését",
+        "munkáltatók és munkavállalók",
+        "eltérő vagy különböző",
+        "végzettségért",
+        "aránytalan juttatást",
+        "igényelhessenek",
+        "kártérítés",
+        "átlagbér",
+        "jutalom",
+        "csak a törvényben rögzített juttatások",
+        "munkáltató",
+        "utalványban vagy szolgáltatásban",
+        "személyes tulajdonságaira figyelemmel",
+        "életkoron alapuló megkülönböztetéssel",
+        "fix bérezésnél",
+        "eltérő feladatokért nyújtott",
+        "egyedi elbírálás szerint",
+        "ajánlják fel",
+        "darabbérnél",
+        "különböző pozíciókban",
+        "fizethető",
+        "Régiók Bizottságával",
+        "előzetes jóváhagyásával",
+        "ajánlásokat tesz"
+      ]
+    }
+  ],
+  "itemCount": 15,
+  "createdAt": "2026-08-28T11:22:00.409Z"
+}

@@ -1,0 +1,40 @@
+{
+  "ttsId": "EPIZX4NEC8R8YIVxZYO8",
+  "noteId": "66HvLLzpXLYqInOumbLD",
+  "title": "(IV-V.) Kapcsolódó jogintézmények",
+  "tagPath": "C/2 Az Európai Unió joga > 40. Mi a versenyjog funkciója Milyen jogforráson alapul (antitröszt (...)",
+  "via": "audioSource",
+  "model": "gemini-2.5-pro",
+  "processingMode": "v3_enhanced",
+  "chunkCount": 4,
+  "chunks": [
+    {
+      "file": "chunk_001.txt",
+      "index": 1,
+      "charCount": 4193,
+      "status": "completed",
+      "audioFile": "audio/notes/EPIZX4NEC8R8YIVxZYO8_chunk_001.mp3"
+    },
+    {
+      "file": "chunk_002.txt",
+      "index": 2,
+      "charCount": 3531,
+      "status": "completed",
+      "audioFile": "audio/notes/EPIZX4NEC8R8YIVxZYO8_chunk_002.mp3"
+    },
+    {
+      "file": "chunk_003.txt",
+      "index": 3,
+      "charCount": 3937,
+      "status": "completed",
+      "audioFile": "audio/notes/EPIZX4NEC8R8YIVxZYO8_chunk_003.mp3"
+    },
+    {
+      "file": "chunk_004.txt",
+      "index": 4,
+      "charCount": 2525,
+      "status": "completed",
+      "audioFile": "audio/notes/EPIZX4NEC8R8YIVxZYO8_chunk_004.mp3"
+    }
+  ]
+}

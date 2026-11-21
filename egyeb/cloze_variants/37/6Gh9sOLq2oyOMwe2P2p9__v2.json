@@ -1,0 +1,632 @@
+{
+  "id": "2",
+  "parentId": "6Gh9sOLq2oyOMwe2P2p9",
+  "variantIndex": 2,
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "EUMSZ 56. cikk",
+      "text": "56. cikk (az EKSz. korábbi 49. cikke) Az alábbiakban __[b1]__ __[b2]__ __[b3]__ az __[b4]__ __[b5]__ vonatkozó __[b6]__ a __[b7]__ __[b8]__ __[b9]__, akik __[b10]__ __[b11]__, mint a __[b12]__. Az __[b13]__ __[b14]__ __[b15]__ __[b16]__ __[b17]__ __[b18]__ __[b19]__ __[b20]__, akik __[b21]__ és az __[b22]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "megállapított rendelkezéseknek"
+        },
+        {
+          "id": "b2",
+          "answer": "megfelelően"
+        },
+        {
+          "id": "b3",
+          "answer": "tilos"
+        },
+        {
+          "id": "b4",
+          "answer": "Unión belüli"
+        },
+        {
+          "id": "b5",
+          "answer": "szolgáltatásnyújtás szabadságára"
+        },
+        {
+          "id": "b6",
+          "answer": "minden korlátozás"
+        },
+        {
+          "id": "b7",
+          "answer": "tagállamok"
+        },
+        {
+          "id": "b8",
+          "answer": "olyan állampolgárai"
+        },
+        {
+          "id": "b9",
+          "answer": "tekintetében"
+        },
+        {
+          "id": "b10",
+          "answer": "nem abban a tagállamban"
+        },
+        {
+          "id": "b11",
+          "answer": "letelepedettek"
+        },
+        {
+          "id": "b12",
+          "answer": "szolgáltatást igénybe vevő személy"
+        },
+        {
+          "id": "b13",
+          "answer": "Európai Parlament"
+        },
+        {
+          "id": "b14",
+          "answer": "és a Tanács"
+        },
+        {
+          "id": "b15",
+          "answer": "rendes jogalkotási eljárás"
+        },
+        {
+          "id": "b16",
+          "answer": "keretében"
+        },
+        {
+          "id": "b17",
+          "answer": "e fejezet rendelkezéseit"
+        },
+        {
+          "id": "b18",
+          "answer": "kiterjesztheti"
+        },
+        {
+          "id": "b19",
+          "answer": "harmadik országok"
+        },
+        {
+          "id": "b20",
+          "answer": "olyan állampolgáraira"
+        },
+        {
+          "id": "b21",
+          "answer": "szolgáltatásokat nyújtanak"
+        },
+        {
+          "id": "b22",
+          "answer": "Unió területén letelepedettek"
+        }
+      ],
+      "distractors": [
+        "elfogadott szabályoknak",
+        "eltérően",
+        "engedélyezett",
+        "tagállamok közötti",
+        "áruk szabad mozgására",
+        "egyes megszorítások",
+        "régiók",
+        "jogi személyei",
+        "vonatkozásában",
+        "ugyanabban a tagállamban",
+        "ideiglenesen tartózkodók",
+        "szolgáltató",
+        "Európai Bizottság",
+        "vagy a Bizottság",
+        "különleges jogalkotási eljárás",
+        "alapján",
+        "más jogszabályok előírásait",
+        "szűkítheti",
+        "csatlakozó országok",
+        "gazdasági szereplőire",
+        "termékeket forgalmaznak",
+        "EGT tagállamokban honosak"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "EUMSZ 57. cikk",
+      "text": "(az EKSz. korábbi 50. cikke) A __[b1]__ „__[b2]__” a __[b3]__ __[b4]__ __[b5]__ szolgáltatás, ha __[b6]__ az __[b7]__, a __[b8]__ és a __[b9]__ __[b10]__ __[b11]__ __[b12]__. __[b13]__ __[b14]__: a) az __[b15]__; b) a __[b16]__; c) a __[b17]__; d) a __[b18]__. __[b19]__ vonatkozó __[b20]__ __[b21]__ a __[b22]__ a __[b23]__ tevékenységét __[b24]__ a __[b25]__ szerinti tagállamban is folytathatja az ezen állam saját állampolgáraira irányadó feltételek szerint.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Szerződések alkalmazásában"
+        },
+        {
+          "id": "b2",
+          "answer": "szolgáltatás"
+        },
+        {
+          "id": "b3",
+          "answer": "rendszerint"
+        },
+        {
+          "id": "b4",
+          "answer": "díjazás ellenében"
+        },
+        {
+          "id": "b5",
+          "answer": "nyújtott"
+        },
+        {
+          "id": "b6",
+          "answer": "nem tartozik"
+        },
+        {
+          "id": "b7",
+          "answer": "áruk"
+        },
+        {
+          "id": "b8",
+          "answer": "tőke"
+        },
+        {
+          "id": "b9",
+          "answer": "személyek"
+        },
+        {
+          "id": "b10",
+          "answer": "szabad mozgására"
+        },
+        {
+          "id": "b11",
+          "answer": "vonatkozó rendelkezések"
+        },
+        {
+          "id": "b12",
+          "answer": "hatálya alá"
+        },
+        {
+          "id": "b13",
+          "answer": "Szolgáltatásnak minősülnek"
+        },
+        {
+          "id": "b14",
+          "answer": "különösen"
+        },
+        {
+          "id": "b15",
+          "answer": "ipari jellegű tevékenységek"
+        },
+        {
+          "id": "b16",
+          "answer": "kereskedelmi jellegű tevékenységek"
+        },
+        {
+          "id": "b17",
+          "answer": "kézműipari tevékenységek"
+        },
+        {
+          "id": "b18",
+          "answer": "szabadfoglalkozásúként végzett tevékenységek"
+        },
+        {
+          "id": "b19",
+          "answer": "A letelepedési jogra"
+        },
+        {
+          "id": "b20",
+          "answer": "fejezet rendelkezéseinek"
+        },
+        {
+          "id": "b21",
+          "answer": "sérelme nélkül"
+        },
+        {
+          "id": "b22",
+          "answer": "szolgáltatást nyújtó személy"
+        },
+        {
+          "id": "b23",
+          "answer": "szolgáltatásnyújtás érdekében"
+        },
+        {
+          "id": "b24",
+          "answer": "ideiglenesen"
+        },
+        {
+          "id": "b25",
+          "answer": "szolgáltatásnyújtás helye"
+        }
+      ],
+      "distractors": [
+        "jogszabályok értelmében",
+        "áru",
+        "mindig",
+        "ingyenesen",
+        "igénybe vett",
+        "kifejezetten tartozik",
+        "szellemi alkotások",
+        "munkaerő",
+        "jogi személyek",
+        "korlátozott forgalmára",
+        "alkalmazandó szabályok",
+        "kivétel hatálya alá",
+        "Árunak minősülnek",
+        "kizárólag",
+        "mezőgazdasági tevékenységek",
+        "kutatási tevékenységek",
+        "művészeti tevékenységek",
+        "munkaviszonyban végzett tevékenységek",
+        "A szabad mozgásra",
+        "rendelet előírásainak",
+        "figyelembevételével",
+        "szolgáltatást igénybe vevő személy",
+        "profit maximalizálása céljából",
+        "állandó jelleggel",
+        "szolgáltató székhelye"
+      ]
+    },
+    {
+      "id": "s3",
+      "cimke": "EUMSZ 58. cikk",
+      "text": "(az EKSz. korábbi 51. cikke) (1) A __[b1]__ a __[b2]__ a __[b3]__ __[b4]__ __[b5]__ az __[b6]__. (2) A __[b7]__ __[b8]__ __[b9]__ __[b10]__ a __[b11]__ liberalizációjával __[b12]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "közlekedés területén"
+        },
+        {
+          "id": "b2",
+          "answer": "szolgáltatásnyújtás szabadságára"
+        },
+        {
+          "id": "b3",
+          "answer": "közlekedésre vonatkozó"
+        },
+        {
+          "id": "b4",
+          "answer": "cím"
+        },
+        {
+          "id": "b5",
+          "answer": "rendelkezései"
+        },
+        {
+          "id": "b6",
+          "answer": "irányadók"
+        },
+        {
+          "id": "b7",
+          "answer": "tőkemozgásokkal kapcsolatos"
+        },
+        {
+          "id": "b8",
+          "answer": "banki és biztosítási"
+        },
+        {
+          "id": "b9",
+          "answer": "szolgáltatások"
+        },
+        {
+          "id": "b10",
+          "answer": "liberalizációja"
+        },
+        {
+          "id": "b11",
+          "answer": "tőkemoz gások"
+        },
+        {
+          "id": "b12",
+          "answer": "összhangban valósul meg"
+        }
+      ],
+      "distractors": [
+        "energiaágazatban",
+        "letelepedés szabadságára",
+        "iparpolitikával kapcsolatos",
+        "fejezet",
+        "irányelvei",
+        "kiegészítők",
+        "áruforgalommal összefüggő",
+        "ipari és kereskedelmi",
+        "termékek",
+        "szigorítása",
+        "személyek szabad mozgása",
+        "ellentétesen történik"
+      ]
+    },
+    {
+      "id": "s4",
+      "cimke": "EUMSZ 59. cikk",
+      "text": "(az EKSz. korábbi 52. cikke) (1) Az __[b1]__ __[b2]__ a __[b3]__ __[b4]__, __[b5]__ __[b6]__ __[b7]__ __[b8]__ __[b9]__ __[b10]__. (2) Az __[b11]__ __[b12]__ __[b13]__ azok a __[b14]__ __[b15]__, amelyek __[b16]__ a __[b17]__, vagy amelyek liberalizációja __[b18]__ a __[b19]__ __[b20]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Európai Parlament"
+        },
+        {
+          "id": "b2",
+          "answer": "és a Tanács"
+        },
+        {
+          "id": "b3",
+          "answer": "Gazdasági és Szociális Bizottsággal"
+        },
+        {
+          "id": "b4",
+          "answer": "folytatott konzultációt követően"
+        },
+        {
+          "id": "b5",
+          "answer": "rendes jogalkotási eljárás"
+        },
+        {
+          "id": "b6",
+          "answer": "keretében"
+        },
+        {
+          "id": "b7",
+          "answer": "irányelveket bocsát ki"
+        },
+        {
+          "id": "b8",
+          "answer": "valamely meghatározott"
+        },
+        {
+          "id": "b9",
+          "answer": "szol gáltatás liberalizációjának"
+        },
+        {
+          "id": "b10",
+          "answer": "az elérése érdekében"
+        },
+        {
+          "id": "b11",
+          "answer": "(1) bekezdésben említett"
+        },
+        {
+          "id": "b12",
+          "answer": "irányelvek tekintetében"
+        },
+        {
+          "id": "b13",
+          "answer": "főszabályként"
+        },
+        {
+          "id": "b14",
+          "answer": "szolgáltatások"
+        },
+        {
+          "id": "b15",
+          "answer": "élveznek elsőbbséget"
+        },
+        {
+          "id": "b16",
+          "answer": "közvetlen hatást gyakorolnak"
+        },
+        {
+          "id": "b17",
+          "answer": "termelési költségekre"
+        },
+        {
+          "id": "b18",
+          "answer": "hozzájárul"
+        },
+        {
+          "id": "b19",
+          "answer": "termékek kereskedelmének"
+        },
+        {
+          "id": "b20",
+          "answer": "előmozdításához"
+        }
+      ],
+      "distractors": [
+        "Európai Tanács",
+        "vagy a Bizottság",
+        "Régiók Bizottságával",
+        "előzetes jóváhagyását követően",
+        "egyszerűsített jogalkotási eljárás",
+        "alapján",
+        "rendeleteket fogad el",
+        "általános jellegű",
+        "termékek szabad mozgásának",
+        "a megelőzése céljából",
+        "(2) bekezdésben rögzített",
+        "jogszabályok viszonylatában",
+        "kivételként",
+        "áruk",
+        "alárendeltek",
+        "közvetett befolyással rendelkeznek",
+        "fogyasztói árakra",
+        "akadályozza",
+        "szolgáltatások nyújtásának",
+        "korlátozásához"
+      ]
+    },
+    {
+      "id": "s5",
+      "cimke": "EUMSZ 60. cikk",
+      "text": "(az EKSz. korábbi 53. cikke) __[b1]__ __[b2]__ arra, hogy az __[b3]__ __[b4]__ __[b5]__ által __[b6]__ is __[b7]__ __[b8]__, __[b9]__ __[b10]__ és az érintett gazdasági ágazat helyzete ezt __[b11]__. __[b12]__ __[b13]__ __[b14]__ __[b15]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A tagállamok"
+        },
+        {
+          "id": "b2",
+          "answer": "törekednek"
+        },
+        {
+          "id": "b3",
+          "answer": "59. cikk (1) bekezdése"
+        },
+        {
+          "id": "b4",
+          "answer": "alapján"
+        },
+        {
+          "id": "b5",
+          "answer": "kibocsátott irányelvek"
+        },
+        {
+          "id": "b6",
+          "answer": "előirányzott mértéken túl"
+        },
+        {
+          "id": "b7",
+          "answer": "vállalják"
+        },
+        {
+          "id": "b8",
+          "answer": "a szolgáltatások liberalizációját"
+        },
+        {
+          "id": "b9",
+          "answer": "amennyiben"
+        },
+        {
+          "id": "b10",
+          "answer": "általános gazdasági helyzetük"
+        },
+        {
+          "id": "b11",
+          "answer": "lehetővé teszi"
+        },
+        {
+          "id": "b12",
+          "answer": "A Bizottság"
+        },
+        {
+          "id": "b13",
+          "answer": "ennek érdekében"
+        },
+        {
+          "id": "b14",
+          "answer": "ajánlásokat tesz"
+        },
+        {
+          "id": "b15",
+          "answer": "az érintett tagállamoknak"
+        }
+      ],
+      "distractors": [
+        "Az intézmények",
+        "kötelesek",
+        "60. cikk (2) bekezdése",
+        "ellenére",
+        "elfogadott rendeletek",
+        "meghatározott keretek között",
+        "elutasítják",
+        "az áruforgalom korlátozását",
+        "feltéve, hogy",
+        "specifikus társadalmi viszonyaik",
+        "akadályozza",
+        "A Tanács",
+        "az e célból",
+        "felhívásokat intéz",
+        "a többi uniós országnak"
+      ]
+    },
+    {
+      "id": "s6",
+      "cimke": "EUMSZ 61. cikk",
+      "text": "61. cikk (az EKSz. korábbi 54. cikke) A __[b1]__ __[b2]__ __[b3]__ __[b4]__ __[b5]__ __[b6]__ __[b7]__ __[b8]__ __[b9]__ az __[b10]__ __[b11]__ __[b12]__ __[b13]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "szolgáltatásnyújtás szabadságára"
+        },
+        {
+          "id": "b2",
+          "answer": "vonatkozó"
+        },
+        {
+          "id": "b3",
+          "answer": "korlátozások eltörléséig"
+        },
+        {
+          "id": "b4",
+          "answer": "a tagállamok"
+        },
+        {
+          "id": "b5",
+          "answer": "ezeket a korlátozásokat"
+        },
+        {
+          "id": "b6",
+          "answer": "állampolgárság"
+        },
+        {
+          "id": "b7",
+          "answer": "vagy lakóhely alapján"
+        },
+        {
+          "id": "b8",
+          "answer": "történő különbségtétel nélkül"
+        },
+        {
+          "id": "b9",
+          "answer": "alkalmazzák"
+        },
+        {
+          "id": "b10",
+          "answer": "56. cikk első bekezdése"
+        },
+        {
+          "id": "b11",
+          "answer": "értelmében"
+        },
+        {
+          "id": "b12",
+          "answer": "szolgáltatást nyújtó"
+        },
+        {
+          "id": "b13",
+          "answer": "minden személyre"
+        }
+      ],
+      "distractors": [
+        "áruk szabad mozgására",
+        "érintő",
+        "engedélyek bevezetéséig",
+        "a Bizottság",
+        "bizonyos kivételeket",
+        "nemzetiség",
+        "és származási hely szerint",
+        "kivételt téve",
+        "nem alkalmazzák",
+        "57. cikk (2) bekezdése",
+        "ellenére",
+        "árukat forgalmazó",
+        "csak jogi személyekre"
+      ]
+    },
+    {
+      "id": "s7",
+      "cimke": "EUMSZ 62. cikk",
+      "text": "(az EKSz. korábbi 55. cikke) Az __[b1]__ __[b2]__ az __[b3]__ __[b4]__ is __[b5]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "5154. cikk"
+        },
+        {
+          "id": "b2",
+          "answer": "rendelkezéseit"
+        },
+        {
+          "id": "b3",
+          "answer": "e fejezet által"
+        },
+        {
+          "id": "b4",
+          "answer": "szabályozott kérdésekre"
+        },
+        {
+          "id": "b5",
+          "answer": "alkalmazni kell"
+        }
+      ],
+      "distractors": [
+        "5558. cikk",
+        "elvi állásfoglalásait",
+        "a Szerződésben",
+        "általános ügyekre",
+        "nem alkalmazható"
+      ]
+    }
+  ],
+  "itemCount": 7,
+  "createdAt": "2026-08-28T10:14:15.077Z"
+}

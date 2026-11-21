@@ -1,0 +1,47 @@
+{
+  "ttsId": "3LoBlYWBAfZ5VjLMkE2r",
+  "noteId": "1Q8gPhrD14XPXWgpadwy",
+  "title": "(IV-V.) Kapcsolódó jogintézmények: közszolgálat, államfő, családtag",
+  "tagPath": "C/2 Az Európai Unió joga > 32. A személyek szabad mozgása; kivételek a személyek szabad mozgása alól",
+  "via": "audioSource",
+  "model": "gemini-2.5-pro",
+  "processingMode": "v3_enhanced",
+  "chunkCount": 5,
+  "chunks": [
+    {
+      "file": "chunk_001.txt",
+      "index": 1,
+      "charCount": 4618,
+      "status": "completed",
+      "audioFile": "audio/notes/3LoBlYWBAfZ5VjLMkE2r_chunk_001.mp3"
+    },
+    {
+      "file": "chunk_002.txt",
+      "index": 2,
+      "charCount": 3280,
+      "status": "completed",
+      "audioFile": "audio/notes/3LoBlYWBAfZ5VjLMkE2r_chunk_002.mp3"
+    },
+    {
+      "file": "chunk_003.txt",
+      "index": 3,
+      "charCount": 3801,
+      "status": "completed",
+      "audioFile": "audio/notes/3LoBlYWBAfZ5VjLMkE2r_chunk_003.mp3"
+    },
+    {
+      "file": "chunk_004.txt",
+      "index": 4,
+      "charCount": 3272,
+      "status": "completed",
+      "audioFile": "audio/notes/3LoBlYWBAfZ5VjLMkE2r_chunk_004.mp3"
+    },
+    {
+      "file": "chunk_005.txt",
+      "index": 5,
+      "charCount": 3288,
+      "status": "completed",
+      "audioFile": "audio/notes/3LoBlYWBAfZ5VjLMkE2r_chunk_005.mp3"
+    }
+  ]
+}

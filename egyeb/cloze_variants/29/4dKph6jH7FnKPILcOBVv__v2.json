@@ -1,0 +1,599 @@
+{
+  "id": "2",
+  "parentId": "4dKph6jH7FnKPILcOBVv",
+  "variantIndex": 2,
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "EUMSZ 82. cikk",
+      "text": "(az EUSz. korábbi 31. cikke) (1) Az Unióban a büntetőügyekben folytatott igazságügyi együttm űködés a __[b1]__ és határozatok __[b2]__ alapul, és magában foglalja a __[b3]__, rende leti és közigazgatási __[b4]__ a (2) bekezdésben és a 83. cikkben említett terü leteken. Az Európai Parlament és a Tanács __[b5]__ __[b6]__ __[b7]__, amelyek célja: a) a bírósági ítéletek és határozatok __[b8]__ az __[b9]__ kölcsönös elismerését biztosító szabályok és eljárások megállapítása, b) a tagállamok közötti __[b10]__ __[b11]__, c) a __[b12]__ és az igazságügyi alkalmazottak __[b13]__, d) a tagállamok igazságügyi vagy annak megfelelő hatóságai közötti együttműködés megkönnyítése a büntetőeljárások keretében és a __[b14]__. (2) __[b15]__ az a több államra kiterjedő vonatkozású büntetőügyekben a bírósági ítéletek és határozatok kölcsönös elismerésének, valamint a __[b16]__ együttm űkö désnek a megkönnyítése érdekében szükséges, az Európai Parlament és a Tanács rendes jogalkotási eljárás keretében elfogadott irányelvekben __[b17]__ __[b18]__. E szabályoknak figyelembe kell venniük a tagállamok __[b19]__ és __[b20]__ __[b21]__. E szabályozási minimumok a következőkre vonatkoznak: a) a bizonyítékok tagállamok közötti kölcsönös elfogadhatósága, b) a __[b22]__ a __[b23]__, c) a bűncselekmények áldozatainak jogai, d) a büntetőeljárás egyéb olyan külön vonatkozásai, amelyeket a Tanács határozatban előzetesen ilyenként határozott meg; az ilyen határozat elfogadásakor a Tanács az Európai Parlament egye tértését követően, egyhangúlag határoz. Az ebben a bekezdésben említett szabályozási minimumoknak az elfogadása nem akadályozza meg a tagállamokat abban, hogy a személyek számára magasabb szintű védelmet biztosító intézkedéseket tartsanak fenn, vagy vezessenek be. (3) Amennyiben a Tanács egy tagjának megítélése szerint valamely (2) bekezdés szerinti irány elvtervezet büntető igazságügyi rendszerének alapvető vonatkozásait érintené, kérheti, hogy az irány elvtervezetet terjesszék az Európai Tanács elé. Ebben az esetben a rendes jogalkotási eljárást fel kell függeszteni. A kérdés megvitatását követően és konszenzus elérése esetén az Európai Tanács a felfüggesztéstől számított négy hónapon belül a tervezetet visszautalja a Tanács elé, amely megszün teti a rendes jogalkotási eljárás felfüggesztését. Ugyanezen határidőn belül, egyet nem értés esetén, és ha legalább kilenc tagállam megerősített együttműködést kíván létrehozni az adott irányelvtervezet alapján, ezek a tagállamok ennek megfelelő bejelentést tesznek az Európai Parlamentnek, a Tanácsnak és a Bizottságnak. Ebben az esetben a megerősített együttműködés folytatására vonatkozóan az Európai Unióról szóló szerződés 20. cikke (2) bekezdésében, illetve e szerződés 329. cikke (1) bekezdésében előírt felhatalmazást megadottnak kell tekinteni, és a megerősített együttműködésre vonatkozó rendelkezéseket kell alkalmazni.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "bírósági ítéletek"
+        },
+        {
+          "id": "b2",
+          "answer": "kölcsönös elismerésének elvén"
+        },
+        {
+          "id": "b3",
+          "answer": "tagállamok törvényi"
+        },
+        {
+          "id": "b4",
+          "answer": "rendelkezéseinek közelítését"
+        },
+        {
+          "id": "b5",
+          "answer": "rendes jogalkotási"
+        },
+        {
+          "id": "b6",
+          "answer": "eljárás keretében"
+        },
+        {
+          "id": "b7",
+          "answer": "intézkedéseket állapít meg"
+        },
+        {
+          "id": "b8",
+          "answer": "minden formájának"
+        },
+        {
+          "id": "b9",
+          "answer": "Unió egészén belüli"
+        },
+        {
+          "id": "b10",
+          "answer": "joghatósági összeütközések"
+        },
+        {
+          "id": "b11",
+          "answer": "megelőzése és rendezése"
+        },
+        {
+          "id": "b12",
+          "answer": "bírák, ügyészek"
+        },
+        {
+          "id": "b13",
+          "answer": "képzésének támogatása"
+        },
+        {
+          "id": "b14",
+          "answer": "határozatok végrehajtása terén"
+        },
+        {
+          "id": "b15",
+          "answer": "Amilyen mértékben"
+        },
+        {
+          "id": "b16",
+          "answer": "rendőrségi és igazságügyi"
+        },
+        {
+          "id": "b17",
+          "answer": "szabályozási minimumokat"
+        },
+        {
+          "id": "b18",
+          "answer": "állapíthat meg"
+        },
+        {
+          "id": "b19",
+          "answer": "jogi hagyományai"
+        },
+        {
+          "id": "b20",
+          "answer": "jogrendszerei közötti"
+        },
+        {
+          "id": "b21",
+          "answer": "különbségeket"
+        },
+        {
+          "id": "b22",
+          "answer": "személyek jogai"
+        },
+        {
+          "id": "b23",
+          "answer": "büntetőeljárásban"
+        }
+      ],
+      "distractors": [
+        "bírósági végzések",
+        "közvetlen alkalmazás elvén",
+        "tagállamok alkotmányos",
+        "rendelkezéseinek távolítását",
+        "különleges jogalkotási",
+        "eljárás ellenében",
+        "ajánlásokat fogad el",
+        "néhány formájának",
+        "Unió részén belüli",
+        "joghatósági együttműködések",
+        "elősegítése és fenntartása",
+        "rendőrök, ügyvédek",
+        "képzésének akadályozása",
+        "határozatok felülvizsgálata terén",
+        "Milyen mértékben",
+        "katonai és polgári",
+        "szabályozási maximumokat",
+        "nem állapíthat meg",
+        "történelmi hagyományai",
+        "törvényei közötti",
+        "azonosságokat",
+        "államok jogai",
+        "polgári eljárásban"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "EUMSZ 83. cikk",
+      "text": "(az EUSz. korábbi 31. cikke) (1) Az Európai Parlament és a Tanács __[b1]__ __[b2]__ elfogadott irányelvekben __[b3]__ __[b4]__ a __[b5]__ és a __[b6]__ meghatározására vonatkozóan az olyan __[b7]__ bűncselekmények esetében, amelyek __[b8]__ __[b9]__ a __[b10]__ kiterjedő vonatkozásúak, illetve amelyek esetében különösen szükséges, hogy az ellenük folytatott küzdelem közös alapokon nyugodjék. Ezek a bűncselekményi területek a következők: __[b11]__, __[b12]__ a nők és gyer mekek __[b13]__, __[b14]__, tiltott fegyverkereskedelem, pénz mosás, korrupció, pénz és egyéb fizetőeszközök hamisítása, számítógépes bűnözés és szervezett bűnözés. A bűnözés alakulásának függvényében a __[b15]__ egyéb bűncselekményi területekről állapíthatja meg, hogy azok megfelelnek az e bekezdésben meghatározott feltételeknek. Erről a Tanács az Európai Parlament __[b16]__, __[b17]__. (2) Ha valamely __[b18]__ hatálya alá tartozó területen az __[b19]__ __[b20]__ __[b21]__ a tagállamok büntetőügyekre vonatkozó törvényi, rende leti és közigazgatási rendelkezéseinek közelítése, irányelvekben __[b22]__ megállapítani e területen a bűncselekményi tényállások és a büntetési tételek meghatározására vonat kozóan. A __[b23]__ az ilyen irányelveket ugyanazon rendes vagy különleges jogalko tási eljárás keretében kell elfogadni, mint amely szerint az említett harmonizációs intézkedéseket elfogadták. (3) Amennyiben a Tanács valamely tagjának megítélése szerint valamely (1) vagy (2) bekezdésben említett irányelvtervezet büntető igazságügyi rendszerének alapvető vonatkozásait érintené, kérheti, hogy az irányelvtervezetet terjesszék az Európai Tanács elé. Ebben az esetben a rendes jogalkotási eljárást __[b24]__. A kérdés megvitatását követően és konszenzus elérése esetén az Európai Tanács a felfüggesztéstől számított négy hónapon belül a tervezetet visszautalja a Tanács elé, amely megszünteti a rendes jogalkotási eljárás felfüggesztését. Ugyanezen határidőn belül, egyet nem értés esetén, és ha legalább kilenc tagállam megerősített együttműködést kíván létrehozni az adott irányelvtervezet alapján, ezek a tagállamok ennek megfelelő bejelentést tesznek az Európai Parlamentnek, a Tanácsnak és a Bizottságnak. Ebben az esetben a megerősített együttműködés folytatására vonatkozóan az Európai Unióról szóló szerződés 20. cikke (2) bekezdésében, illetve e szerződés 329. cikke (1) bekezdésében előírt felhatalmazást megadottnak kell tekinteni, és a megerősített együttműködésre vonatkozó intézkedéseket kell alkalmazni.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "rendes jogalkotási"
+        },
+        {
+          "id": "b2",
+          "answer": "eljárás keretében"
+        },
+        {
+          "id": "b3",
+          "answer": "szabályozási minimumokat"
+        },
+        {
+          "id": "b4",
+          "answer": "állapíthat meg"
+        },
+        {
+          "id": "b5",
+          "answer": "bűncselekményi tényállások"
+        },
+        {
+          "id": "b6",
+          "answer": "büntetési tételek"
+        },
+        {
+          "id": "b7",
+          "answer": "különösen súlyos"
+        },
+        {
+          "id": "b8",
+          "answer": "jelle güknél vagy"
+        },
+        {
+          "id": "b9",
+          "answer": "hatásuknál fogva"
+        },
+        {
+          "id": "b10",
+          "answer": "több államra"
+        },
+        {
+          "id": "b11",
+          "answer": "terrorizmus"
+        },
+        {
+          "id": "b12",
+          "answer": "emberkereskedelem és"
+        },
+        {
+          "id": "b13",
+          "answer": "szexuális kizsákmányolása"
+        },
+        {
+          "id": "b14",
+          "answer": "tiltott kábítószer-kereskedelem"
+        },
+        {
+          "id": "b15",
+          "answer": "Tanács határozatban"
+        },
+        {
+          "id": "b16",
+          "answer": "egyetértését követően"
+        },
+        {
+          "id": "b17",
+          "answer": "egyhangúlag határoz"
+        },
+        {
+          "id": "b18",
+          "answer": "harmonizációs intézkedések"
+        },
+        {
+          "id": "b19",
+          "answer": "Unió politikájának"
+        },
+        {
+          "id": "b20",
+          "answer": "eredményes végrehajtásához"
+        },
+        {
+          "id": "b21",
+          "answer": "elengedhetetlen"
+        },
+        {
+          "id": "b22",
+          "answer": "szabályozási minimumokat lehet"
+        },
+        {
+          "id": "b23",
+          "answer": "76. cikk sérelme nélkül"
+        },
+        {
+          "id": "b24",
+          "answer": "fel kell függeszteni"
+        }
+      ],
+      "distractors": [
+        "különleges jogalkotási",
+        "eljárás ellenében",
+        "szabályozási maximumokat",
+        "nem állapíthat meg",
+        "bűncselekményi kategóriák",
+        "büntetési tényezők",
+        "átlagosan súlyos",
+        "jelle güknél és",
+        "hatásuknál ellenére",
+        "egy államra",
+        "lopás",
+        "állatkereskedelem és",
+        "gazdasági kizsákmányolása",
+        "engedélyezett kábítószer-kereskedelem",
+        "Bizottság ajánlásban",
+        "egyetértése nélkül",
+        "minősített többséggel határoz",
+        "nem harmonizációs intézkedések",
+        "Unió célkitűzéseinek",
+        "eredménytelen végrehajtásához",
+        "szükséges",
+        "szabályozási maximumokat lehet",
+        "76. cikk figyelembevételével",
+        "fel kell gyorsítani"
+      ]
+    },
+    {
+      "id": "s3",
+      "cimke": "EUMSZ 84. cikk",
+      "text": "Az __[b1]__ és __[b2]__ __[b3]__ __[b4]__ a __[b5]__ a __[b6]__, __[b7]__ a __[b8]__, __[b9]__ __[b10]__ __[b11]__ __[b12]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Európai Parlament"
+        },
+        {
+          "id": "b2",
+          "answer": "a Tanács"
+        },
+        {
+          "id": "b3",
+          "answer": "rendes jogalkotási eljárás keretében"
+        },
+        {
+          "id": "b4",
+          "answer": "intézkedéseket állapíthat meg"
+        },
+        {
+          "id": "b5",
+          "answer": "bűnmegelőzés terén"
+        },
+        {
+          "id": "b6",
+          "answer": "tagállami intézkedések előmozdítására és támogatására"
+        },
+        {
+          "id": "b7",
+          "answer": "kizárva azonban"
+        },
+        {
+          "id": "b8",
+          "answer": "tagállamok törvényi"
+        },
+        {
+          "id": "b9",
+          "answer": "rendeleti vagy közigazgatási"
+        },
+        {
+          "id": "b10",
+          "answer": "rendelkezéseinek"
+        },
+        {
+          "id": "b11",
+          "answer": "bármilyen"
+        },
+        {
+          "id": "b12",
+          "answer": "harmonizációját"
+        }
+      ],
+      "distractors": [
+        "Európai Bizottság",
+        "a Bizottság",
+        "különleges jogalkotási eljárás keretében",
+        "ajánlásokat fogadhat el",
+        "bűnüldözés terén",
+        "tagállami intézkedések tiltására és akadályozására",
+        "beleértve azonban",
+        "tagállamok alkotmányos",
+        "bírói vagy végrehajtási",
+        "határozatainak",
+        "bizonyos",
+        "differenciálását"
+      ]
+    },
+    {
+      "id": "s4",
+      "cimke": "EUMSZ 85. cikk",
+      "text": "(az EUSz. korábbi 31. cikke) (1) __[b1]__ feladata a __[b2]__ __[b3]__, illetve a közös alapokon való bűnül dözést szükségessé tevő __[b4]__ __[b5]__, valamint az ezekkel kapcsolatos __[b6]__ __[b7]__ __[b8]__ __[b9]__ __[b10]__ és __[b11]__ és erősítése a nemzeti hatóságok, illetve az __[b12]__ végzett __[b13]__ és az általuk __[b14]__ alapján. Ebben az összefüggésben az Eurojust __[b15]__, __[b16]__ és __[b17]__ __[b18]__ __[b19]__ __[b20]__ az __[b21]__ és __[b22]__. E feladatok a következőket foglalhatják magukban: a) az illetékes nemzeti hatóságok által lefolytatandó __[b23]__, illetve javaslattétel a nemzeti hatóságok által lefolytatandó __[b24]__ különösen az Unió pénz ügyi érdekeit sértő bűncselekmények vonatkozásában, b) az a) pontban említett nyomozások és bűnvádi eljárások kezdeményezésének összehangolása, c) az igazságügyi együttm űködés erősítése, többek között a __[b25]__, valamint az Európai Igazságügyi Hálózattal való szoros együttm űködés révén. E rendeletekben kell továbbá meghatározni azokat a szabályokat, amelyek alapján az Európai Parla ment és a nemzeti parlamentek részt vesznek az Eurojust tevékenységének értékelésében. (2) Az (1) bekezdésben említett büntetőeljárások során, a 86. cikk sérelme nélkül, a hivatalos eljárási cselekményeket a tagállamok hatáskörrel rendelkező tisztviselői foganatosítják.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Az Eurojust"
+        },
+        {
+          "id": "b2",
+          "answer": "két vagy több"
+        },
+        {
+          "id": "b3",
+          "answer": "tagállamot érintő"
+        },
+        {
+          "id": "b4",
+          "answer": "súlyos bűncselekmények"
+        },
+        {
+          "id": "b5",
+          "answer": "kivizsgálására"
+        },
+        {
+          "id": "b6",
+          "answer": "büntetőeljárás lefolytatására"
+        },
+        {
+          "id": "b7",
+          "answer": "hatáskörrel rendelkező"
+        },
+        {
+          "id": "b8",
+          "answer": "nemzeti bűnüldöző"
+        },
+        {
+          "id": "b9",
+          "answer": "hatóságok közötti"
+        },
+        {
+          "id": "b10",
+          "answer": "megfelelő koordináció"
+        },
+        {
+          "id": "b11",
+          "answer": "együttműködés támogatása"
+        },
+        {
+          "id": "b12",
+          "answer": "Europol által"
+        },
+        {
+          "id": "b13",
+          "answer": "operatív cselekmények"
+        },
+        {
+          "id": "b14",
+          "answer": "szolgáltatott információk"
+        },
+        {
+          "id": "b15",
+          "answer": "felépítését, működését"
+        },
+        {
+          "id": "b16",
+          "answer": "tevékenységi területét"
+        },
+        {
+          "id": "b17",
+          "answer": "feladatait"
+        },
+        {
+          "id": "b18",
+          "answer": "rendes jogalkotási"
+        },
+        {
+          "id": "b19",
+          "answer": "eljárás keretében"
+        },
+        {
+          "id": "b20",
+          "answer": "elfogadott rendeletekben"
+        },
+        {
+          "id": "b21",
+          "answer": "Európai Parlament"
+        },
+        {
+          "id": "b22",
+          "answer": "a Tanács határozza meg"
+        },
+        {
+          "id": "b23",
+          "answer": "nyomozások megindítása"
+        },
+        {
+          "id": "b24",
+          "answer": "bűnvádi eljárások megindítására"
+        },
+        {
+          "id": "b25",
+          "answer": "joghatósági összeütközések feloldása"
+        }
+      ],
+      "distractors": [
+        "Az Europol",
+        "egy vagy több",
+        "régiót érintő",
+        "enyhe bűncselekmények",
+        "megelőzésére",
+        "polgári eljárás lefolytatására",
+        "jogkörrel nem rendelkező",
+        "nemzeti polgári",
+        "szervek közötti",
+        "elégtelen koordináció",
+        "együttműködés akadályozása",
+        "Eurojust által",
+        "adminisztratív cselekmények",
+        "megtagadott információk",
+        "megszűnését, működését",
+        "tevékenységi korlátait",
+        "jogait",
+        "különleges jogalkotási",
+        "eljárás ellenében",
+        "elfogadott irányelvekben",
+        "Európai Bizottság",
+        "a Bizottság határozza meg",
+        "nyomozások lezárása",
+        "bűnvádi eljárások megakadályozására",
+        "joghatósági összeütközések kialakítása"
+      ]
+    },
+    {
+      "id": "s5",
+      "cimke": "EUMSZ 86. cikk (1)–(2) bekezdés",
+      "text": "(1) Az __[b1]__ __[b2]__ __[b3]__ __[b4]__ __[b5]__ __[b6]__ elfogadott rendeletekben az Eurojustból __[b7]__ __[b8]__. A Tanács __[b9]__ __[b10]__, __[b11]__. Ha __[b12]__, __[b13]__ __[b14]__, hogy a rendelettervezetet terjesszék az __[b15]__. Ebben az esetben a Tanácsban folytatott __[b16]__ __[b17]__. A __[b18]__ követően és __[b19]__ esetén az Európai Tanács a felfüggesztéstől számított __[b20]__ belül a tervezetet __[b21]__ a Tanács elé. Ugyanezen határidőn belül, __[b22]__, és ha legalább kilenc tagállam __[b23]__ kíván létrehozni az adott rendelettervezet alapján, ezek a tagállamok ennek megfelelő bejelentést tesznek az Európai Parlamentnek, a Tanácsnak és a Bizottságnak. Ebben az esetben a megerősített együttműködés folytatására vonatkozóan az Európai Unióról szóló szerződés 20. cikke (2) bekezdésében, illetve e szerződés 329. cikke (1) bekezdésében előírt felhatalmazást megadottnak kell tekinteni, és a megerősített együttműködésre vonatkozó rendelkezéseket kell alkalmazni. (2) Az Európai Ügyészség __[b24]__  adott esetben az Europollal együttműködve – az Unió pénzügyi érdekeit sértő __[b25]__ felkutatására, velük szemben a nyomozás lefolytatására és bíróság elé állításukra az (1) bekezdésben előírt rendeletben meghatározottak szerint. Az ilyen bűncselekmények vonatkozásában a tagállamok hatáskörrel rendelkező bíróságai előtt a vádhatósági feladatokat az Európai Ügyészség látja el.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Unió pénzügyi"
+        },
+        {
+          "id": "b2",
+          "answer": "érdekeit sértő"
+        },
+        {
+          "id": "b3",
+          "answer": "bűncselekmények üldözésére"
+        },
+        {
+          "id": "b4",
+          "answer": "a Tanács"
+        },
+        {
+          "id": "b5",
+          "answer": "különleges jogalkotási"
+        },
+        {
+          "id": "b6",
+          "answer": "eljárás keretében"
+        },
+        {
+          "id": "b7",
+          "answer": "Európai Ügyészséget"
+        },
+        {
+          "id": "b8",
+          "answer": "hozhat létre"
+        },
+        {
+          "id": "b9",
+          "answer": "az Európai Parlament"
+        },
+        {
+          "id": "b10",
+          "answer": "egyetértését követően"
+        },
+        {
+          "id": "b11",
+          "answer": "egyhangúlag határoz"
+        },
+        {
+          "id": "b12",
+          "answer": "nincs egyhangúság"
+        },
+        {
+          "id": "b13",
+          "answer": "legalább kilenc"
+        },
+        {
+          "id": "b14",
+          "answer": "tagállam kérheti"
+        },
+        {
+          "id": "b15",
+          "answer": "Európai Tanács elé"
+        },
+        {
+          "id": "b16",
+          "answer": "eljárást fel"
+        },
+        {
+          "id": "b17",
+          "answer": "kell függeszteni"
+        },
+        {
+          "id": "b18",
+          "answer": "kérdés megvitatását"
+        },
+        {
+          "id": "b19",
+          "answer": "konszenzus elérése"
+        },
+        {
+          "id": "b20",
+          "answer": "négy hónapon"
+        },
+        {
+          "id": "b21",
+          "answer": "visszautalja elfogadásra"
+        },
+        {
+          "id": "b22",
+          "answer": "egyet nem értés esetén"
+        },
+        {
+          "id": "b23",
+          "answer": "megerősített együttműködést"
+        },
+        {
+          "id": "b24",
+          "answer": "hatáskörrel rendelkezik"
+        },
+        {
+          "id": "b25",
+          "answer": "bűncselekmények tetteseinek és részeseinek"
+        }
+      ],
+      "distractors": [
+        "Unió gazdasági",
+        "érdekeit sértés",
+        "bűncselekmények megelőzésére",
+        "a Bizottság",
+        "rendes jogalkotási",
+        "eljárás ellenében",
+        "Európai Bíróságot",
+        "nem hozhat létre",
+        "az Európai Bizottság",
+        "egyetértése nélkül",
+        "minősített többséggel határoz",
+        "van egyhangúság",
+        "legfeljebb öt",
+        "tagállam nem kérheti",
+        "Európai Bizottság elé",
+        "eljárást nem",
+        "kell gyorsítani",
+        "kérdés megvitatása előtt",
+        "konszenzus hiánya",
+        "hat hónapon",
+        "visszavonja elfogadásra",
+        "egyetértés esetén",
+        "általános együttműködést",
+        "jogkörrel rendelkezik",
+        "bűncselekmények áldozatainak és tanúinak"
+      ]
+    }
+  ],
+  "itemCount": 5,
+  "createdAt": "2026-08-28T12:18:13.000Z"
+}

@@ -1,0 +1,312 @@
+AZ ADATKEZELÉSI ELVEK ÉS AZ ÉRINTETT JOGAI
+
+I. BEVEZETÉS
+
+Az Európai Unió jogrendszerében a személyes adatok védelméhez való jog alapvető jogként nyer elismerést, amelyet az Európai Unió Alapjogi Chartájának 8. cikke rögzít. E jog hatékony érvényesülését és az uniós belső piacon az adatok szabad áramlását biztosító, átfogó és modern jogi keretet a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról szóló (EU) 2016/679 rendelet, közismert nevén az általános adatvédelmi rendelet (GDPR) teremti meg. A GDPR a korábbi, 95/46/EK irányelvet váltotta fel, és egy, a tagállamokban közvetlenül alkalmazandó, harmonizált szabályrendszert vezetett be.
+
+A rendelet dogmatikai középpontjában két, egymással szorosan összefüggő pillér áll: egyrészt a személyes adatok kezelésére vonatkozó, minden adatkezelőre kötelező alapelvek (II. Fejezet), másrészt az érintetteket megillető, kikényszeríthető jogosultságok (III. Fejezet). E két terület együttesen alkotja azt a védelmi mechanizmust, amely az egyén információs önrendelkezési jogát hivatott garantálni a digitális korban. A jelen kidolgozás e két központi elem, az adatkezelési elvek és az érintetti jogok részletes, dogmatikai mélységű bemutatását tűzi ki célul a GDPR releváns rendelkezéseinek tükrében.
+
+II. AZ ADATKEZELÉS ALAPELVEI (GDPR II. FEJEZET)
+
+A GDPR II. fejezete fekteti le azokat az alapvető elveket, amelyeknek minden személyesadat-kezelési művelet során érvényesülniük kell. Ezek az elvek jelentik az adatvédelem zsinórmértékét, és az adatkezelők tevékenységének jogszerűségi mércéjéül szolgálnak. Az elvek megsértése önmagában megalapozza az adatkezelés jogellenességét.
+
+1. A SZEMÉLYES ADATOK KEZELÉSÉRE VONATKOZÓ ELVEK
+
+A GDPR 5. cikke taxatíve felsorolja azokat a princípiumokat, amelyek az adatkezelés alfáját és ómegáját jelentik. Ezek az elvek nem csupán ajánlások, hanem kötelező erejű normák, amelyeknek való megfelelést az adatkezelőnek képesnek kell lennie igazolni. Az elvek a következők: jogszerűség, tisztességes eljárás és átláthatóság; célhoz kötöttség; adattakarékosság; pontosság; korlátozott tárolhatóság; integritás és bizalmas jelleg; valamint az ezeket összefogó elszámoltathatóság.
+
+GDPR 5. cikk
+
+(1) A személyes adatok:
+a) kezelését jogszerűen és tisztességesen, valamint az érintett számára átlátható módon kell végezni („jogszerűség, tisztességes eljárás és átláthatóság”);
+b) gyűjtése csak meghatározott, egyértelmű és jogszerű célból történjen, és azokat ne kezeljék ezekkel a célokkal össze nem egyeztethető módon; a 89. cikk (1) bekezdésének megfelelően nem minősül az eredeti céllal össze nem egyeztethetőnek a közérdekű archiválás céljából, tudományos és történelmi kutatási célból vagy statisztikai célból történő további adatkezelés („célhoz kötöttség”);
+c) az adatkezelés céljai szempontjából megfelelőek és relevánsak kell, hogy legyenek, és a szükségesre kell korlátozódniuk („adattakarékosság”);
+d) pontosnak és szükség esetén naprakésznek kell lenniük; minden észszerű intézkedést meg kell tenni annak érdekében, hogy az adatkezelés céljai szempontjából pontatlan személyes adatokat haladéktalanul töröljék vagy helyesbítsék („pontosság”);
+e) tárolásának olyan formában kell történnie, amely az érintettek azonosítását csak a személyes adatok kezelése céljainak eléréséhez szükséges ideig teszi lehetővé; a személyes adatok ennél hosszabb ideig történő tárolására csak akkor kerülhet sor, amennyiben a személyes adatok kezelésére a 89. cikk (1) bekezdésének megfelelően közérdekű archiválás céljából, tudományos és történelmi kutatási célból vagy statisztikai célból kerül majd sor, az e rendeletben az érintettek jogainak és szabadságainak védelme érdekében előírt megfelelő technikai és szervezési intézkedések végrehajtására is figyelemmel („korlátozott tárolhatóság”);
+f) kezelését oly módon kell végezni, hogy megfelelő technikai vagy szervezési intézkedések alkalmazásával biztosítva legyen a személyes adatok megfelelő biztonsága, az adatok jogosulatlan vagy jogellenes kezelésével, véletlen elvesztésével, megsemmisítésével vagy károsodásával szembeni védelmet is ideértve („integritás és bizalmas jelleg”).
+(2) Az adatkezelő felelős az (1) bekezdésnek való megfelelésért, továbbá képesnek kell lennie e megfelelés igazolására („elszámoltathatóság”).
+
+Az elszámoltathatóság elve (accountability) a GDPR egyik legfontosabb újítása. Ez a gyakorlatban azt jelenti, hogy a bizonyítási teher az adatkezelőre hárul: neki kell proaktívan, dokumentált módon igazolnia, hogy adatkezelési gyakorlata mindenben megfelel a rendelet, és különösen az 5. cikk (1) bekezdésében foglalt elveknek. Ez a kötelezettség ösztönzi a tudatos adatvédelmi tervezést és a belső megfelelési mechanizmusok kiépítését.
+
+2. AZ ADATKEZELÉS JOGSZERŰSÉGE
+
+A jogszerűség elvének konkrét tartalmát a GDPR 6. cikke bontja ki, amely tételesen meghatározza azokat a jogalapokat, amelyek fennállása esetén a személyes adatok kezelése jogszerűnek minősül. Ezen jogalapok listája taxatív, ami azt jelenti, hogy személyes adatot kezelni kizárólag akkor és annyiban lehet, ha az alábbi feltételek legalább egyike teljesül. Az adatkezelőnek minden egyes adatkezelési célhoz egy megfelelő jogalapot kell rendelnie és azt dokumentálnia.
+
+GDPR 6. cikk
+
+(1) A személyes adatok kezelése kizárólag akkor és annyiban jogszerű, amennyiben legalább az alábbiak egyike teljesül:
+a) az érintett hozzájárulását adta személyes adatainak egy vagy több konkrét célból történő kezeléséhez;
+b) az adatkezelés olyan szerződés teljesítéséhez szükséges, amelyben az érintett az egyik fél, vagy az a szerződés megkötését megelőzően az érintett kérésére történő lépések megtételéhez szükséges;
+c) az adatkezelés az adatkezelőre vonatkozó jogi kötelezettség teljesítéséhez szükséges;
+d) az adatkezelés az érintett vagy egy másik természetes személy létfontosságú érdekeinek védelme miatt szükséges;
+e) az adatkezelés közérdekű vagy az adatkezelőre ruházott közhatalmi jogosítvány gyakorlásának keretében végzett feladat végrehajtásához szükséges;
+f) az adatkezelés az adatkezelő vagy egy harmadik fél jogos érdekeinek érvényesítéséhez szükséges, kivéve, ha ezen érdekekkel szemben elsőbbséget élveznek az érintett olyan érdekei vagy alapvető jogai és szabadságai, amelyek személyes adatok védelmét teszik szükségessé, különösen, ha az érintett gyermek.
+Az első albekezdés f) pontja nem alkalmazható a közhatalmi szervek által feladataik ellátása során végzett adatkezelésre.
+(2) Az e rendeletben foglalt, adatkezelésre vonatkozó szabályok alkalmazásának kiigazítása érdekében, a tagállamok az (1) bekezdés c) és e) pontjának való megfelelés céljából fenntarthatnak vagy bevezethetnek konkrétabb rendelkezéseket, amelyekben pontosabban meghatározzák az adatkezelésre vonatkozó konkrét követelményeket, és amelyekben további intézkedéseket tesznek az adatkezelés jogszerűségének és tisztességességének biztosítására, ideértve a IX. fejezetben meghatározott egyéb konkrét adatkezelési helyzeteket is.
+(3) Az (1) bekezdés c) és e) pontja szerinti adatkezelés jogalapját a következőknek kell megállapítania:
+a) az uniós jog, vagy
+b) azon tagállami jog, amelynek hatálya alá az adatkezelő tartozik.
+
+3. A HOZZÁJÁRULÁS FELTÉTELEI ÉS A KÜLÖNLEGES ADATOK KEZELÉSE
+
+A GDPR 7. cikke részletezi a 6. cikk (1) bekezdés a, pontjában említett hozzájárulás érvényességi kellékeit. A rendelet (42) preambulumbekezdése szerint a hozzájárulásnak önkéntesnek, konkrétnak, tájékoztatáson alapulónak és egyértelműnek kell lennie. Az adatkezelőnek bizonyítania kell tudnia, hogy az érintett hozzájárult az adatkezeléshez. A hozzájárulás bármikor visszavonható, ami azonban nem érinti a visszavonás előtti adatkezelés jogszerűségét.
+
+A GDPR 8. cikke speciális szabályokat állapít meg az információs társadalommal összefüggő szolgáltatások vonatkozásában a gyermekek hozzájárulására. Főszabály szerint a 16. életévét be nem töltött gyermek személyes adatainak kezelése csak akkor jogszerű, ha a hozzájárulást a gyermek feletti szülői felügyeletet gyakorló adta meg, illetve engedélyezte.
+
+A GDPR 9. cikke a személyes adatok különleges kategóriáinak kezelését szabályozza. Főszabály szerint tilos az ilyen adatok (pl. faji vagy etnikai származásra, politikai véleményre, vallási vagy világnézeti meggyőződésre, szakszervezeti tagságra utaló, valamint a genetikai, biometrikus, egészségügyi és szexuális életre vonatkozó adatok) kezelése. A tilalom alól a cikk (2) bekezdése szigorú feltételek mellett kivételeket enged, például az érintett kifejezett hozzájárulása, a munkajog vagy a szociális biztonság területén fennálló kötelezettségek, létfontosságú érdekek védelme, vagy népegészségügyi közérdek esetén.
+
+A GDPR 10. cikke a büntetőjogi felelősség megállapítására vonatkozó határozatokkal és bűncselekményekkel kapcsolatos személyes adatok kezelését korlátozza. Ilyen adatkezelésre főszabály szerint csak közhatalmi szerv keretei között, vagy az adatkezelést lehetővé tevő uniós vagy tagállami jog alapján kerülhet sor.
+
+Végül a GDPR 11. cikke az azonosítást nem igénylő adatkezelésre vonatkozó szabályokat rögzíti. Amennyiben az adatkezelés céljai nem teszik szükségessé az érintett azonosítását, az adatkezelő nem köteles további információkat beszerezni vagy megőrizni az érintett azonosítása céljából. Ilyen esetben az érintetti jogok (15-20. cikkek) sem feltétlenül alkalmazandók, kivéve, ha az érintett azonosítását lehetővé tevő kiegészítő információkat bocsát rendelkezésre.
+
+A hozzájárulás, mint az egyik leggyakrabban alkalmazott jogalap, szigorú formai és tartalmi követelményekhez kötött. A GDPR 7. cikke rögzíti ezeket a feltételeket, különös hangsúlyt fektetve az igazolhatóságra, a megkülönböztethetőségre, a visszavonhatóság jogára és az önkéntességre. E szabályok biztosítják, hogy az érintett valódi és tájékozott döntést hozhasson adatai sorsáról.
+
+GDPR 7. cikk
+
+(1) Ha az adatkezelés hozzájáruláson alapul, az adatkezelőnek képesnek kell lennie annak igazolására, hogy az érintett személyes adatainak kezeléséhez hozzájárult.
+(2) Ha az érintett hozzájárulását olyan írásbeli nyilatkozat keretében adja meg, amely más ügyekre is vonatkozik, a hozzájárulás iránti kérelmet ezektől a más ügyektől egyértelműen megkülönböztethető módon kell előadni, érthető és könnyen hozzáférhető formában, világos és egyszerű nyelvezettel. Az érintett hozzájárulását tartalmazó ilyen nyilatkozat bármely olyan része, amely sérti e rendeletet, kötelező erővel nem bír.
+(3) Az érintett jogosult arra, hogy hozzájárulását bármikor visszavonja. A hozzájárulás visszavonása nem érinti a hozzájáruláson alapuló, a visszavonás előtti adatkezelés jogszerűségét. A hozzájárulás megadása előtt az érintettet erről tájékoztatni kell. A hozzájárulás visszavonását ugyanolyan egyszerű módon kell lehetővé tenni, mint annak megadását.
+(4) Annak megállapítása során, hogy a hozzájárulás önkéntes-e, a lehető legnagyobb mértékben figyelembe kell venni azt a tényt, egyebek mellett, hogy a szerződés teljesítésének – beleértve a szolgáltatások nyújtását is – feltételéül szabták-e az olyan személyes adatok kezeléséhez való hozzájárulást, amelyek nem szükségesek a szerződés teljesítéséhez.
+
+A gyermekek, mint különösen védendő érintetti kör, személyes adatainak kezelése speciális szabályozást igényel. A GDPR 8. cikke az információs társadalommal összefüggő szolgáltatások kontextusában határozza meg a gyermek hozzájárulásának feltételeit, életkori határokat szabva és a szülői felügyeletet gyakorló személy engedélyét előírva. Az adatkezelőre hárul a kötelezettség, hogy észszerű erőfeszítéseket tegyen a szülői hozzájárulás ellenőrzésére.
+
+GDPR 8. cikk
+
+(1) Ha a 6. cikk (1) bekezdésének a) pontja alkalmazandó, a közvetlenül gyermekeknek kínált, információs társadalommal összefüggő szolgáltatások vonatkozásában végzett személyes adatok kezelése akkor jogszerű, ha a gyermek a 16. életévét betöltötte. A 16. életévét be nem töltött gyermek esetén, a gyermekek személyes adatainak kezelése csak akkor és olyan mértékben jogszerű, ha a hozzájárulást a gyermek feletti szülői felügyeletet gyakorló adta meg, illetve engedélyezte.
+A tagállamok e célokból jogszabályban ennél alacsonyabb, de a 13. életévnél nem alacsonyabb életkort is megállapíthatnak.
+(2) Az adatkezelő – figyelembe véve az elérhető technológiát – észszerű erőfeszítéseket tesz, hogy ilyen esetekben ellenőrizze, hogy a hozzájárulást a gyermek feletti szülői felügyeleti jog gyakorlója adta meg, illetve engedélyezte.
+(3) Az (1) bekezdés nem érinti a tagállamok általános szerződési jogát, például a gyermek által kötött szerződések érvényességére, formájára vagy hatályára vonatkozó szabályokat.
+
+A GDPR a különösen érzékeny, ún. különleges kategóriájú személyes adatokra főszabályként tilalmat mond ki. A 9. cikk taxatíve felsorolja ezen adatköröket, és egyúttal meghatározza azokat a szigorúan értelmezendő kivételes eseteket, amelyek fennállása esetén a tilalom feloldható. E kivételek biztosítják, hogy a különleges adatok kezelésére csak elengedhetetlenül szükséges és megfelelő garanciák mellett kerülhessen sor.
+
+GDPR 9. cikk
+
+(1) A faji vagy etnikai származásra, politikai véleményre, vallási vagy világnézeti meggyőződésre vagy szakszervezeti tagságra utaló személyes adatok, valamint a természetes személyek egyedi azonosítását célzó genetikai és biometrikus adatok, az egészségügyi adatok és a természetes személyek szexuális életére vagy szexuális irányultságára vonatkozó személyes adatok kezelése tilos.
+(2) Az (1) bekezdés nem alkalmazandó abban az esetben, ha:
+a) az érintett kifejezett hozzájárulását adta az említett személyes adatok egy vagy több konkrét célból történő kezeléséhez, kivéve, ha az uniós vagy tagállami jog úgy rendelkezik, hogy az (1) bekezdésben említett tilalom nem oldható fel az érintett hozzájárulásával;
+b) az adatkezelés az adatkezelőnek vagy az érintettnek a foglalkoztatást, valamint a szociális biztonságot és szociális védelmet szabályozó jogi előírásokból fakadó kötelezettségei teljesítése és konkrét jogai gyakorlása érdekében szükséges, ha az érintett alapvető jogait és érdekeit védő megfelelő garanciákról is rendelkező uniós vagy tagállami jog, illetve a tagállami jog szerinti kollektív szerződés ezt lehetővé teszi;
+c) az adatkezelés az érintett vagy más természetes személy létfontosságú érdekeinek védelméhez szükséges, ha az érintett fizikai vagy jogi cselekvőképtelensége folytán nem képes a hozzájárulását megadni;
+d) az adatkezelés valamely politikai, világnézeti, vallási vagy szakszervezeti célú alapítvány, egyesület vagy bármely más nonprofit szervezet megfelelő garanciák mellett végzett jogszerű tevékenysége keretében történik, azzal a feltétellel, hogy az adatkezelés kizárólag az ilyen szerv jelenlegi vagy volt tagjaira, vagy olyan személyekre vonatkozik, akik a szervezettel rendszeres kapcsolatban állnak a szervezet céljaihoz kapcsolódóan, és hogy a személyes adatokat az érintettek hozzájárulása nélkül nem teszik hozzáférhetővé a szervezeten kívüli személyek számára;
+e) az adatkezelés olyan személyes adatokra vonatkozik, amelyeket az érintett kifejezetten nyilvánosságra hozott;
+f) az adatkezelés jogi igények előterjesztéséhez, érvényesítéséhez, illetve védelméhez szükséges, vagy amikor a bíróságok igazságszolgáltatási feladatkörükben járnak el;
+g) az adatkezelés jelentős közérdek miatt szükséges, uniós jog vagy tagállami jog alapján, amely arányos az elérni kívánt céllal, tiszteletben tartja a személyes adatok védelméhez való jog lényeges tartalmát, és az érintett alapvető jogainak és érdekeinek biztosítására megfelelő és konkrét intézkedéseket ír elő;
+h) az adatkezelés megelőző egészségügyi vagy munkahelyi egészségügyi célokból, a munkavállaló munkavégzési képességének felmérése, orvosi diagnózis felállítása, egészségügyi vagy szociális ellátás vagy kezelés nyújtása, illetve egészségügyi vagy szociális rendszerek és szolgáltatások irányítása érdekében szükséges, uniós vagy tagállami jog alapján vagy egészségügyi szakemberrel kötött szerződés értelmében, továbbá a (3) bekezdésben említett feltételekre és garanciákra figyelemmel;
+i) az adatkezelés a népegészségügy területét érintő olyan közérdekből szükséges, mint a határokon át terjedő súlyos egészségügyi veszélyekkel szembeni védelem vagy az egészségügyi ellátás, a gyógyszerek és az orvostechnikai eszközök magas színvonalának és biztonságának a biztosítása, és olyan uniós vagy tagállami jog alapján történik, amely megfelelő és konkrét intézkedésekről rendelkezik az érintett jogait és szabadságait védő garanciákra, és különösen a szakmai titoktartásra vonatkozóan;
+j) az adatkezelés a 89. cikk (1) bekezdésével összhangban a közérdekű archiválás céljából, tudományos és történelmi kutatási célból vagy statisztikai célból szükséges olyan uniós vagy tagállami jog alapján, amely arányos az elérni kívánt céllal, tiszteletben tartja a személyes adatok védelméhez való jog lényeges tartalmát, és az érintett alapvető jogainak és érdekeinek biztosítására megfelelő és konkrét intézkedéseket ír elő;
+(3) Az (1) bekezdésben említett személyes adatokat abban az esetben lehet a (2) bekezdés h) pontjában említett célokból kezelni, ha ezen adatok kezelése olyan szakember által vagy olyan szakember felelőssége mellett történik, aki uniós vagy tagállami jogban, illetve az arra hatáskörrel rendelkező tagállami szervek által megállapított szabályokban meghatározott szakmai titoktartási kötelezettség hatálya alatt áll, illetve olyan más személy által, aki szintén uniós vagy tagállami jogban, illetve az arra hatáskörrel rendelkező tagállami szervek által megállapított szabályokban meghatározott titoktartási kötelezettség hatálya alatt áll.
+(4) A tagállamok további feltételeket – köztük korlátozásokat – tarthatnak hatályban, illetve vezethetnek be a genetikai adatok, a biometrikus adatok és az egészségügyi adatok kezelésére vonatkozóan.
+
+A büntetőügyekkel kapcsolatos adatok kezelése szintén fokozott védelmet élvez. A GDPR 10. cikke korlátozza ezen adatok kezelését, amelyet főszabály szerint közhatalmi szervek végezhetnek, vagy olyan esetekben, amikor az adatkezelést megfelelő garanciákat nyújtó jogszabály teszi lehetővé. A szabályozás célja, hogy megakadályozza az ilyen érzékeny adatok indokolatlan vagy nem megfelelő kontroll melletti kezelését.
+
+GDPR 10. cikk
+
+A büntetőjogi felelősség megállapítására vonatkozó határozatokra és a bűncselekményekre, illetve a kapcsolódó biztonsági intézkedésekre vonatkozó személyes adatoknak a 6. cikk (1) bekezdése alapján történő kezelésére kizárólag abban az esetben kerülhet sor, ha az közhatalmi szerv adatkezelésében történik, vagy ha az adatkezelést az érintett jogai és szabadságai tekintetében megfelelő garanciákat nyújtó uniós vagy tagállami jog lehetővé teszi. A büntetőjogi felelősség megállapítására vonatkozó határozatok teljes körű nyilvántartása csak közhatalmi szerv által végzett adatkezelés keretében történhet.
+
+Az adattakarékosság elvének egyik speciális megnyilvánulása az azonosítást nem igénylő adatkezelés szabályozása. A GDPR 11. cikke kimondja, hogy ha az adatkezelés célja nem követeli meg az érintett azonosítását, az adatkezelő nem köteles ezt utólag megtenni. Ez a rendelkezés egyúttal tisztázza az érintetti jogok gyakorlásának korlátait is azokban az esetekben, amikor az érintett azonosítása az adatkezelő számára nem lehetséges.
+
+GDPR 11. cikk
+
+(1) Ha azok a célok, amelyekből az adatkezelő a személyes adatokat kezeli, nem vagy már nem teszik szükségessé az érintettnek az adatkezelő általi azonosítását, az adatkezelő nem köteles kiegészítő információkat megőrizni, beszerezni vagy kezelni annak érdekében, hogy pusztán azért azonosítsa az érintettet, hogy megfeleljen e rendeletnek.
+(2) Ha az e cikk (1) bekezdésében említett esetekben az adatkezelő bizonyítani tudja, hogy nincs abban a helyzetben, hogy azonosítsa az érintettet, erről lehetőség szerint őt megfelelő módon tájékoztatja. Ilyen esetekben a 15–20. cikk nem alkalmazandó, kivéve, ha az érintett abból a célból, hogy az említett cikkek szerinti jogait gyakorolja, az azonosítását lehetővé tevő kiegészítő információkat nyújt.
+
+III. AZ ÉRINTETT JOGAI (GDPR III. FEJEZET)
+
+A GDPR III. fejezete az érintetteket megillető jogok katalógusát tartalmazza. E jogok biztosítják, hogy a természetes személyek hatékonyan tudják kontrollálni a róluk kezelt adatokat, és felléphessenek a jogsértő adatkezelésekkel szemben. A fejezet a tájékoztatáshoz való jogtól a törléshez és a tiltakozáshoz való jogig terjedő széles körű jogosultságokat rögzít.
+
+1. ÁTLÁTHATÓ TÁJÉKOZTATÁS ÉS KOMMUNIKÁCIÓ
+
+A GDPR 12. cikke általános keretszabályokat állapít meg az érintetti jogok gyakorlásának módjára és az adatkezelői kommunikációra. Előírja, hogy az adatkezelőnek világos, közérthető, könnyen hozzáférhető formában, tömören kell tájékoztatást nyújtania. Az intézkedéseket díjmentesen kell biztosítani, és az adatkezelőnek elő kell segítenie az érintetti jogok gyakorlását.
+
+A GDPR 13. cikke azt részletezi, hogy milyen információkat kell az érintett rendelkezésére bocsátani, amikor a személyes adatokat közvetlenül tőle gyűjtik. A tájékoztatásnak ki kell terjednie többek között az adatkezelő kilétére, az adatkezelés céljára és jogalapjára, a tárolás időtartamára, valamint az érintettet megillető jogokra.
+
+A GDPR 14. cikke azokat az eseteket szabályozza, amikor az adatkezelő nem az érintettől szerzi meg a személyes adatokat. Ilyenkor a 13. cikkben foglaltakon túlmenően tájékoztatást kell adni az érintett személyes adatok kategóriáiról és az adatok forrásáról is. A tájékoztatást észszerű határidőn belül, de legkésőbb egy hónapon belül meg kell adni.
+
+GDPR 14. cikk
+
+(1) Ha a személyes adatokat nem az érintettől szerezték meg, az adatkezelő az érintett rendelkezésére bocsátja a következő információkat:
+a) az adatkezelőnek és – ha van ilyen – az adatkezelő képviselőjének a kiléte és elérhetőségei;
+b) az adatvédelmi tisztviselő elérhetőségei, ha van ilyen;
+c) a személyes adatok tervezett kezelésének célja, valamint az adatkezelés jogalapja;
+d) az érintett személyes adatok kategóriái;
+e) a személyes adatok címzettjei, illetve a címzettek kategóriái, ha van ilyen;
+f) adott esetben annak ténye, hogy az adatkezelő valamely harmadik országbeli címzett vagy valamely nemzetközi szervezet részére kívánja továbbítani a személyes adatokat, továbbá a Bizottság megfelelőségi határozatának léte vagy annak hiánya, vagy a 46. cikkben, a 47. cikkben vagy a 49. cikk (1) bekezdésének második albekezdésében említett adattovábbítás esetén a megfelelő és alkalmas garanciák megjelölése, valamint az ezek másolatának megszerzésére szolgáló módokra vagy az elérhetőségükre való hivatkozás.
+(2) Az (1) bekezdésben említett információk mellett az adatkezelő az érintett rendelkezésére bocsátja az érintettre nézve tisztességes és átlátható adatkezelés biztosításához szükséges következő kiegészítő információkat:
+a) a személyes adatok tárolásának időtartama, vagy ha ez nem lehetséges, ezen időtartam meghatározásának szempontjai;
+b) ha az adatkezelés a 6. cikk (1) bekezdésének f) pontján alapul, az adatkezelő vagy harmadik fél jogos érdekeiről;
+c) az érintett azon joga, hogy kérelmezheti az adatkezelőtől a rá vonatkozó személyes adatokhoz való hozzáférést, azok helyesbítését, törlését vagy kezelésének korlátozását, és tiltakozhat a személyes adatok kezelése ellen, valamint az érintett adathordozhatósághoz való joga;
+d) a 6. cikk (1) bekezdésének a) pontján vagy a 9. cikk (2) bekezdésének a) pontján alapuló adatkezelés esetén a hozzájárulás bármely időpontban való visszavonásához való jog, amely nem érinti a visszavonás előtt a hozzájárulás alapján végrehajtott adatkezelés jogszerűségét;
+e) a valamely felügyeleti hatósághoz címzett panasz benyújtásának joga;
+f) a személyes adatok forrása és adott esetben az, hogy az adatok nyilvánosan hozzáférhető forrásokból származnak-e; és
+g) a 22. cikk (1) és (4) bekezdésében említett automatizált döntéshozatal ténye, ideértve a profilalkotást is, valamint legalább ezekben az esetekben az alkalmazott logikára és arra vonatkozó érthető információk, hogy az ilyen adatkezelés milyen jelentőséggel, és az érintettre nézve milyen várható következményekkel bír.
+(3) Az adatkezelő az (1) és (2) bekezdés szerinti tájékoztatást az alábbiak szerint adja meg:
+a) a személyes adatok kezelésének konkrét körülményeit tekintetbe véve, a személyes adatok megszerzésétől számított észszerű határidőn, de legkésőbb egy hónapon belül;
+b) ha a személyes adatokat az érintettel való kapcsolattartás céljára használják, legalább az érintettel való első kapcsolatfelvétel alkalmával; vagy
+c) ha várhatóan más címzettel is közlik az adatokat, legkésőbb a személyes adatok első alkalommal való közlésekor.
+(4) Ha az adatkezelő a személyes adatokon a megszerzésük céljától eltérő célból további adatkezelést kíván végezni, a további adatkezelést megelőzően tájékoztatnia kell az érintettet erről az eltérő célról és a (2) bekezdésben említett minden releváns kiegészítő információról.
+(5) Az (1)–(4) bekezdést nem kell alkalmazni, ha és amilyen mértékben:
+a) az érintett már rendelkezik az információkkal;
+b) a szóban forgó információk rendelkezésre bocsátása lehetetlennek bizonyul, vagy aránytalanul nagy erőfeszítést igényelne [...];
+c) az adat megszerzését vagy közlését kifejezetten előírja az adatkezelőre alkalmazandó uniós vagy tagállami jog [...]; vagy
+d) a személyes adatoknak valamely uniós vagy tagállami jogban előírt szakmai titoktartási kötelezettség alapján, ideértve a jogszabályon alapuló titoktartási kötelezettséget is, bizalmasnak kell maradnia.
+
+Az átláthatóság elvének gyakorlati megvalósulását és az érintetti joggyakorlás eljárási kereteit a GDPR 12. cikke alapozza meg. Meghatározza a tájékoztatás és kommunikáció formájára (tömör, átlátható, érthető), a joggyakorlás elősegítésére, a válaszadási határidőkre és a díjmentesség főszabályára vonatkozó kötelezettségeket. E rendelkezések biztosítják, hogy az érintetti jogok ne csak papíron, hanem a gyakorlatban is hatékonyan érvényesülhessenek.
+
+GDPR 12. cikk
+
+(1) Az adatkezelő megfelelő intézkedéseket hoz annak érdekében, hogy az érintett részére a személyes adatok kezelésére vonatkozó, a 13. és a 14. cikkben említett valamennyi információt és a 15–22. és 34. cikk szerinti minden egyes tájékoztatást tömör, átlátható, érthető és könnyen hozzáférhető formában, világosan és közérthetően megfogalmazva nyújtsa, különösen a gyermekeknek címzett bármely információ esetében. Az információkat írásban vagy más módon – ideértve adott esetben az elektronikus utat is – kell megadni. Az érintett kérésére szóbeli tájékoztatás is adható, feltéve, hogy más módon igazolták az érintett személyazonosságát.
+(2) Az adatkezelő elősegíti az érintett 15–22. cikk szerinti jogainak a gyakorlását. A 11. cikk (2) bekezdésében említett esetekben az adatkezelő az érintett 15–22. cikk szerinti jogai gyakorlására irányuló kérelmének a teljesítését nem tagadhatja meg, kivéve, ha bizonyítja, hogy az érintettet nem áll módjában azonosítani.
+(3) Az adatkezelő indokolatlan késedelem nélkül, de mindenféleképpen a kérelem beérkezésétől számított egy hónapon belül tájékoztatja az érintettet a 15–22. cikk szerinti kérelem nyomán hozott intézkedésekről. Szükség esetén, figyelembe véve a kérelem összetettségét és a kérelmek számát, ez a határidő további két hónappal meghosszabbítható. A határidő meghosszabbításáról az adatkezelő a késedelem okainak megjelölésével a kérelem kézhezvételétől számított egy hónapon belül tájékoztatja az érintettet. Ha az érintett elektronikus úton nyújtotta be a kérelmet, a tájékoztatást lehetőség szerint elektronikus úton kell megadni, kivéve, ha az érintett azt másként kéri.
+(4) Ha az adatkezelő nem tesz intézkedéseket az érintett kérelme nyomán, késedelem nélkül, de legkésőbb a kérelem beérkezésétől számított egy hónapon belül tájékoztatja az érintettet az intézkedés elmaradásának okairól, valamint arról, hogy az érintett panaszt nyújthat be valamely felügyeleti hatóságnál, és élhet bírósági jogorvoslati jogával.
+(5) A 13. és 14. cikk szerinti információkat és a 15–22. és 34. cikk szerinti tájékoztatást és intézkedést díjmentesen kell biztosítani. Ha az érintett kérelme egyértelműen megalapozatlan vagy – különösen ismétlődő jellege miatt – túlzó, az adatkezelő, figyelemmel a kért információ vagy tájékoztatás nyújtásával vagy a kért intézkedés meghozatalával járó adminisztratív költségekre:
+a) észszerű összegű díjat számíthat fel, vagy
+b) megtagadhatja a kérelem alapján történő intézkedést.
+A kérelem egyértelműen megalapozatlan vagy túlzó jellegének bizonyítása az adatkezelőt terheli.
+(6) A 11. cikk sérelme nélkül, ha az adatkezelőnek megalapozott kétségei vannak a 15–21. cikk szerinti kérelmet benyújtó természetes személy kilétével kapcsolatban, további, az érintett személyazonosságának megerősítéséhez szükséges információk nyújtását kérheti.
+(7) Az érintett részére a 13. és 14. cikk alapján nyújtandó információkat szabványosított ikonokkal is ki lehet egészíteni annak érdekében, hogy a tervezett adatkezelésről az érintett jól látható, könnyen érthető és jól olvasható formában kapjon általános tájékoztatást. Az elektronikusan megjelenített ikonoknak géppel olvashatónak kell lenniük.
+(8) A Bizottság felhatalmazást kap arra, hogy a 92. cikkel összhangban felhatalmazáson alapuló jogi aktusokat fogadjon el az ikonok által megjelenítendő információk és a szabványosított ikonok biztosítására vonatkozó eljárások meghatározása céljából.
+
+Az előzetes tájékoztatáshoz való jog egyik legfontosabb esete, amikor az adatokat közvetlenül az érintettől gyűjtik. A GDPR 13. cikke tételesen felsorolja azokat az információkat, amelyeket az adatkezelőnek már az adatfelvétel pillanatában az érintett rendelkezésére kell bocsátania. Ez a proaktív tájékoztatási kötelezettség alapozza meg az érintett információs önrendelkezési jogának tudatos gyakorlását.
+
+GDPR 13. cikk
+
+(1) Ha az érintettre vonatkozó személyes adatokat az érintettől gyűjtik, az adatkezelő a személyes adatok megszerzésének időpontjában az érintett rendelkezésére bocsátja a következő információk mindegyikét:
+a) az adatkezelőnek és – ha van ilyen – az adatkezelő képviselőjének a kiléte és elérhetőségei;
+b) az adatvédelmi tisztviselő elérhetőségei, ha van ilyen;
+c) a személyes adatok tervezett kezelésének célja, valamint az adatkezelés jogalapja;
+d) a 6. cikk (1) bekezdésének f) pontján alapuló adatkezelés esetén, az adatkezelő vagy harmadik fél jogos érdekei;
+e) adott esetben a személyes adatok címzettjei, illetve a címzettek kategóriái, ha van ilyen;
+f) adott esetben annak ténye, hogy az adatkezelő harmadik országba vagy nemzetközi szervezet részére kívánja továbbítani a személyes adatokat, továbbá a Bizottság megfelelőségi határozatának léte vagy annak hiánya, vagy a 46. cikkben, a 47. cikkben vagy a 49. cikk (1) bekezdésének második albekezdésében említett adattovábbítás esetén a megfelelő és alkalmas garanciák megjelölése, valamint az azok másolatának megszerzésére szolgáló módokra vagy az azok elérhetőségére való hivatkozás.
+(2) Az (1) bekezdésben említett információk mellett az adatkezelő a személyes adatok megszerzésének időpontjában, annak érdekében, hogy a tisztességes és átlátható adatkezelést biztosítsa, az érintettet a következő kiegészítő információkról tájékoztatja:
+a) a személyes adatok tárolásának időtartamáról, vagy ha ez nem lehetséges, ezen időtartam meghatározásának szempontjairól;
+b) az érintett azon jogáról, hogy kérelmezheti az adatkezelőtől a rá vonatkozó személyes adatokhoz való hozzáférést, azok helyesbítését, törlését vagy kezelésének korlátozását, és tiltakozhat az ilyen személyes adatok kezelése ellen, valamint az érintett adathordozhatósághoz való jogáról;
+c) a 6. cikk (1) bekezdésének a) pontján vagy a 9. cikk (2) bekezdésének a) pontján alapuló adatkezelés esetén a hozzájárulás bármely időpontban történő visszavonásához való jog, amely nem érinti a visszavonás előtt a hozzájárulás alapján végrehajtott adatkezelés jogszerűségét;
+d) a felügyeleti hatósághoz címzett panasz benyújtásának jogáról;
+e) arról, hogy a személyes adat szolgáltatása jogszabályon vagy szerződéses kötelezettségen alapul vagy szerződés kötésének előfeltétele-e, valamint hogy az érintett köteles-e a személyes adatokat megadni, továbbá hogy milyen lehetséges következményeikkel járhat az adatszolgáltatás elmaradása;
+f) a 22. cikk (1) és (4) bekezdésében említett automatizált döntéshozatal ténye, ideértve a profilalkotást is, valamint legalább ezekben az esetekben az alkalmazott logikára és arra vonatkozóan érthető információk, hogy az ilyen adatkezelés milyen jelentőséggel, és az érintettre nézve milyen várható következményekkel bír.
+(3) Ha az adatkezelő a személyes adatokon a gyűjtésük céljától eltérő célból további adatkezelést kíván végezni, a további adatkezelést megelőzően tájékoztatnia kell az érintettet erről az eltérő célról és a (2) bekezdésben említett minden releváns kiegészítő információról.
+(4) Az (1), (2) és (3) bekezdés nem alkalmazandó, ha és amilyen mértékben az érintett már rendelkezik az információkkal.
+
+2. HOZZÁFÉRÉS, HELYESBÍTÉS ÉS TÖRLÉS
+
+A GDPR 15. cikke biztosítja az érintett hozzáférési jogát. Ennek alapján az érintett jogosult visszajelzést kapni arról, hogy személyes adatainak kezelése folyamatban van-e, és ha igen, jogosult magukhoz az adatokhoz, valamint az adatkezeléssel kapcsolatos részletes információkhoz (célok, kategóriák, címzettek, tárolási idő stb.) hozzáférni. Az adatkezelő köteles az adatkezelés tárgyát képező adatokról másolatot biztosítani.
+
+GDPR 15. cikk
+
+(1) Az érintett jogosult arra, hogy az adatkezelőtől visszajelzést kapjon arra vonatkozóan, hogy személyes adatainak kezelése folyamatban van-e, és ha ilyen adatkezelés folyamatban van, jogosult arra, hogy a személyes adatokhoz és a következő információkhoz hozzáférést kapjon:
+a) az adatkezelés céljai;
+b) az érintett személyes adatok kategóriái;
+c) azon címzettek vagy címzettek kategóriái, akikkel, illetve amelyekkel a személyes adatokat közölték vagy közölni fogják, ideértve különösen a harmadik országbeli címzetteket, illetve a nemzetközi szervezeteket;
+d) adott esetben a személyes adatok tárolásának tervezett időtartama, vagy ha ez nem lehetséges, ezen időtartam meghatározásának szempontjai;
+e) az érintett azon joga, hogy kérelmezheti az adatkezelőtől a rá vonatkozó személyes adatok helyesbítését, törlését vagy kezelésének korlátozását, és tiltakozhat az ilyen személyes adatok kezelése ellen;
+f) a valamely felügyeleti hatósághoz címzett panasz benyújtásának joga;
+g) ha az adatokat nem az érintettől gyűjtötték, a forrásukra vonatkozó minden elérhető információ;
+h) a 22. cikk (1) és (4) bekezdésében említett automatizált döntéshozatal ténye, ideértve a profilalkotást is, valamint legalább ezekben az esetekben az alkalmazott logikára és arra vonatkozó érthető információk, hogy az ilyen adatkezelés milyen jelentőséggel bír, és az érintettre nézve milyen várható következményekkel jár.
+(2) Ha személyes adatoknak harmadik országba vagy nemzetközi szervezet részére történő továbbítására kerül sor, az érintett jogosult arra, hogy tájékoztatást kapjon a továbbításra vonatkozóan a 46. cikk szerinti megfelelő garanciákról.
+(3) Az adatkezelő az adatkezelés tárgyát képező személyes adatok másolatát az érintett rendelkezésére bocsátja. Az érintett által kért további másolatokért az adatkezelő az adminisztratív költségeken alapuló, észszerű mértékű díjat számíthat fel. Ha az érintett elektronikus úton nyújtotta be a kérelmet, az információkat széles körben használt elektronikus formátumban kell rendelkezésre bocsátani, kivéve, ha az érintett másként kéri.
+(4) A (3) bekezdésben említett, másolat igénylésére vonatkozó jog nem érintheti hátrányosan mások jogait és szabadságait.
+
+A GDPR 16. cikke a helyesbítéshez való jogot rögzíti, amely a pontosság elvének érintetti oldali megfelelője. Az érintett kérheti a rá vonatkozó pontatlan személyes adatok indokolatlan késedelem nélküli helyesbítését, valamint a hiányos adatok kiegészítését.
+
+GDPR 16. cikk
+
+Az érintett jogosult arra, hogy kérésére az adatkezelő indokolatlan késedelem nélkül helyesbítse a rá vonatkozó pontatlan személyes adatokat. Figyelembe véve az adatkezelés célját, az érintett jogosult arra, hogy kérje a hiányos személyes adatok – egyebek mellett kiegészítő nyilatkozat útján történő – kiegészítését.
+
+A GDPR 17. cikke a nagy sajtóvisszhangot kapott törléshez, vagyis „az elfeledtetéshez való jogot” szabályozza. Ez a jog lehetővé teszi az érintett számára, hogy kérelmezze személyes adatainak törlését, ha bizonyos feltételek fennállnak, például az adatokra már nincs szükség az eredeti célból, az érintett visszavonja a hozzájárulását és nincs más jogalap, vagy az adatokat jogellenesen kezelték. A jog nem korlátlan, a cikk (3) bekezdése fontos kivételeket határoz meg, például a véleménynyilvánítás szabadságának gyakorlása, jogi kötelezettség teljesítése vagy jogi igények érvényesítése érdekében.
+
+GDPR 17. cikk
+
+(1) Az érintett jogosult arra, hogy kérésére az adatkezelő indokolatlan késedelem nélkül törölje a rá vonatkozó személyes adatokat, az adatkezelő pedig köteles arra, hogy az érintettre vonatkozó személyes adatokat indokolatlan késedelem nélkül törölje, ha az alábbi indokok valamelyike fennáll:
+a) a személyes adatokra már nincs szükség abból a célból, amelyből azokat gyűjtötték vagy más módon kezelték;
+b) az érintett visszavonja a 6. cikk (1) bekezdésének a) pontja vagy a 9. cikk (2) bekezdésének a) pontja értelmében az adatkezelés alapját képező hozzájárulását, és az adatkezelésnek nincs más jogalapja;
+c) az érintett a 21. cikk (1) bekezdése alapján tiltakozik az adatkezelése ellen, és nincs elsőbbséget élvező jogszerű ok az adatkezelésre, vagy az érintett a 21. cikk (2) bekezdése alapján tiltakozik az adatkezelés ellen;
+d) a személyes adatokat jogellenesen kezelték;
+e) a személyes adatokat az adatkezelőre alkalmazandó uniós vagy tagállami jogban előírt jogi kötelezettség teljesítéséhez törölni kell;
+f) a személyes adatok gyűjtésére a 8. cikk (1) bekezdésében említett, információs társadalommal összefüggő szolgáltatások kínálásával kapcsolatosan került sor.
+(2) Ha az adatkezelő nyilvánosságra hozta a személyes adatot, és az (1) bekezdés értelmében azt törölni köteles, az elérhető technológia és a megvalósítás költségeinek figyelembevételével megteszi az észszerűen elvárható lépéseket – ideértve technikai intézkedéseket – annak érdekében, hogy tájékoztassa az adatokat kezelő adatkezelőket, hogy az érintett kérelmezte tőlük a szóban forgó személyes adatokra mutató linkek vagy e személyes adatok másolatának, illetve másodpéldányának törlését.
+(3) Az (1) és (2) bekezdés nem alkalmazandó, amennyiben az adatkezelés szükséges:
+a) a véleménynyilvánítás szabadságához és a tájékozódáshoz való jog gyakorlása céljából;
+b) a személyes adatok kezelését előíró, az adatkezelőre alkalmazandó uniós vagy tagállami jog szerinti kötelezettség teljesítése, illetve közérdekből vagy az adatkezelőre ruházott közhatalmi jogosítvány gyakorlása keretében végzett feladat végrehajtása céljából;
+c) a 9. cikk (2) bekezdése h) és i) pontjának, valamint a 9. cikk (3) bekezdésének megfelelően a népegészségügy területét érintő közérdek alapján;
+d) a 89. cikk (1) bekezdésével összhangban a közérdekű archiválás céljából, tudományos és történelmi kutatási célból vagy statisztikai célból, amennyiben az (1) bekezdésben említett jog valószínűsíthetően lehetetlenné tenné vagy komolyan veszélyeztetné ezt az adatkezelést; vagy
+e) jogi igények előterjesztéséhez, érvényesítéséhez, illetve védelméhez.
+
+3. AZ ADATKEZELÉS KORLÁTOZÁSÁHOZ, AZ ADATHORDOZHATÓSÁGHOZ ÉS A TILTAKOZÁSHOZ VALÓ JOG
+
+A GDPR 18. cikke az adatkezelés korlátozásához való jogot biztosítja. Ez egyfajta „befagyasztást” jelent: ha az érintett él e jogával (pl. vitatja az adatok pontosságát, vagy az adatkezelés jogellenes), a korlátozás alá eső adatokat a tárolás kivételével csak szűk körben, például az érintett hozzájárulásával vagy jogi igények érvényesítéséhez lehet kezelni.
+
+GDPR 18. cikk
+
+(1) Az érintett jogosult arra, hogy kérésére az adatkezelő korlátozza az adatkezelést, ha az alábbiak valamelyike teljesül:
+a) az érintett vitatja a személyes adatok pontosságát, ez esetben a korlátozás arra az időtartamra vonatkozik, amely lehetővé teszi, hogy az adatkezelő ellenőrizze a személyes adatok pontosságát;
+b) az adatkezelés jogellenes, és az érintett ellenzi az adatok törlését, és ehelyett kéri azok felhasználásának korlátozását;
+c) az adatkezelőnek már nincs szüksége a személyes adatokra adatkezelés céljából, de az érintett igényli azokat jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez; vagy
+d) az érintett a 21. cikk (1) bekezdése szerint tiltakozott az adatkezelés ellen; ez esetben a korlátozás arra az időtartamra vonatkozik, amíg megállapításra nem kerül, hogy az adatkezelő jogos indokai elsőbbséget élveznek-e az érintett jogos indokaival szemben.
+(2) Ha az adatkezelés az (1) bekezdés alapján korlátozás alá esik, az ilyen személyes adatokat a tárolás kivételével csak az érintett hozzájárulásával, vagy jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez, vagy más természetes vagy jogi személy jogainak védelme érdekében, vagy az Unió, illetve valamely tagállam fontos közérdekéből lehet kezelni.
+(3) Az adatkezelő az érintettet, akinek a kérésére az (1) bekezdés alapján korlátozták az adatkezelést, az adatkezelés korlátozásának feloldásáról előzetesen tájékoztatja.
+
+A GDPR 19. cikke egy eljárási jellegű kötelezettséget telepít az adatkezelőre: minden olyan címzettet tájékoztatnia kell a helyesbítésről, törlésről vagy adatkezelés-korlátozásról, akivel a személyes adatot közölték. Ez biztosítja, hogy az érintetti jogok érvényesülése a teljes adatkezelési láncolatban követhető legyen.
+
+GDPR 19. cikk
+
+Az adatkezelő minden olyan címzettet tájékoztat a 16. cikk, a 17. cikk (1) bekezdése, illetve a 18. cikk szerinti valamennyi helyesbítésről, törlésről vagy adatkezelés-korlátozásról, akivel, illetve amellyel a személyes adatot közölték, kivéve, ha ez lehetetlennek bizonyul, vagy aránytalanul nagy erőfeszítést igényel. Az érintettet kérésére az adatkezelő tájékoztatja e címzettekről.
+
+A GDPR 20. cikke a rendelet egyik jelentős újítását, az adathordozhatósághoz való jogot vezeti be. E jog alapján az érintett jogosult arra, hogy a rá vonatkozó, általa egy adatkezelő rendelkezésére bocsátott személyes adatokat tagolt, széles körben használt, géppel olvasható formátumban megkapja, és azokat egy másik adatkezelőnek továbbítsa. A jog csak a hozzájáruláson vagy szerződésen alapuló, automatizált módon történő adatkezelésekre vonatkozik, és célja a verseny ösztönzése és a „vendor lock-in” jelenségének csökkentése.
+
+GDPR 20. cikk
+
+(1) Az érintett jogosult arra, hogy a rá vonatkozó, általa egy adatkezelő rendelkezésére bocsátott személyes adatokat tagolt, széles körben használt, géppel olvasható formátumban megkapja, továbbá jogosult arra, hogy ezeket az adatokat egy másik adatkezelőnek továbbítsa anélkül, hogy ezt akadályozná az az adatkezelő, amelynek a személyes adatokat a rendelkezésére bocsátotta, ha:
+a) az adatkezelés a 6. cikk (1) bekezdésének a) pontja vagy a 9. cikk (2) bekezdésének a) pontja szerinti hozzájáruláson, vagy a 6. cikk (1) bekezdésének b) pontja szerinti szerződésen alapul; és
+b) az adatkezelés automatizált módon történik.
+(2) Az adatok hordozhatóságához való jog (1) bekezdés szerinti gyakorlása során az érintett jogosult arra, hogy – ha ez technikailag megvalósítható – kérje a személyes adatok adatkezelők közötti közvetlen továbbítását.
+(3) Az e cikk (1) bekezdésében említett jog gyakorlása nem sértheti a 17. cikket. Az említett jog nem alkalmazandó abban az esetben, ha az adatkezelés közérdekű vagy az adatkezelőre ruházott közhatalmi jogosítványai gyakorlásának keretében végzett feladat végrehajtásához szükséges.
+(4) Az (1) bekezdésben említett jog nem érintheti hátrányosan mások jogait és szabadságait.
+
+A GDPR 21. cikke a tiltakozáshoz való jogot szabályozza. Az érintett a saját helyzetével kapcsolatos okokból bármikor tiltakozhat személyes adatainak közérdeken vagy jogos érdeken alapuló kezelése ellen. Ilyenkor az adatkezelő nem kezelheti tovább az adatokat, kivéve, ha bizonyítja, hogy az adatkezelést olyan kényszerítő erejű jogos okok indokolják, amelyek elsőbbséget élveznek az érintett érdekeivel szemben. A direkt marketing célú adatkezelés ellen való tiltakozás joga abszolút, feltétel nélkül érvényesül.
+
+GDPR 21. cikk
+
+(1) Az érintett jogosult arra, hogy a saját helyzetével kapcsolatos okokból bármikor tiltakozzon személyes adatainak a 6. cikk (1) bekezdésének e) vagy f) pontján alapuló kezelése ellen, ideértve az említett rendelkezéseken alapuló profilalkotást is.
+
+A GDPR 22. cikke az automatizált döntéshozatallal, beleértve a profilalkotást, kapcsolatos jogokat rögzíti. Főszabály szerint az érintett jogosult arra, hogy ne terjedjen ki rá az olyan, kizárólag automatizált adatkezelésen – ideértve a profilalkotást is – alapuló döntés hatálya, amely rá nézve joghatással járna vagy őt hasonlóképpen jelentős mértékben érintené. A tilalom alól kivételt képez, ha a döntés szerződés megkötéséhez vagy teljesítéséhez szükséges, uniós vagy tagállami jog teszi lehetővé, vagy az érintett kifejezett hozzájárulásán alapul.
+
+4. AZ ÉRINTETTI JOGOK KORLÁTOZÁSA
+
+Az érintetti jogok nem abszolút érvényűek. A GDPR 23. cikke lehetővé teszi az uniós vagy tagállami jogalkotó számára, hogy jogalkotási intézkedésekkel korlátozza a 12–22. cikkben foglalt jogok és kötelezettségek, valamint az 5. cikkben rögzített elvek hatályát, amennyiben a korlátozás tiszteletben tartja az alapvető jogok és szabadságok lényeges tartalmát, és az egy demokratikus társadalomban szükséges és arányos intézkedés. Ilyen korlátozásra például nemzetbiztonsági, honvédelmi, közbiztonsági vagy bűncselekmények megelőzése céljából kerülhet sor.
+
+GDPR 23. cikk
+
+(1) Az adatkezelőre vagy adatfeldolgozóra alkalmazandó uniós vagy tagállami jog jogalkotási intézkedésekkel korlátozhatja a 12–22. cikkben és a 34. cikkben foglalt, valamint az 5. cikkben megállapított elveknek megfelelő jogok és kötelezettségek hatályát, amennyiben a korlátozás tiszteletben tartja az alapvető jogok és szabadságok lényeges tartalmát, valamint az alábbiak védelméhez szükséges és arányos intézkedés egy demokratikus társadalomban:
+a) nemzetbiztonság;
+b) honvédelem;
+c) közbiztonság;
+d) bűncselekmények megelőzése, nyomozása, felderítése vagy a vádeljárás lefolytatása, illetve büntetőjogi szankciók végrehajtása, beleértve a közbiztonságot fenyegető veszélyekkel szembeni védelmet és e veszélyek megelőzését;
+e) az Unió vagy valamely tagállam egyéb fontos, általános közérdekű célkitűzései, különösen az Unió vagy valamely tagállam fontos gazdasági vagy pénzügyi érdeke, ideértve a monetáris, a költségvetési és az adózási kérdéseket, a népegészségügyet és a szociális biztonságot;
+f) a bírói függetlenség és a bírósági eljárások védelme;
+g) a szabályozott szakmák esetében az etikai vétségek megelőzése, vizsgálata, felderítése és az ezekkel kapcsolatos eljárások lefolytatása;
+h) az a)–e) és a g) pontban említett esetekben – akár alkalmanként – a közhatalmi feladatok ellátásához kapcsolódó ellenőrzési, vizsgálati vagy szabályozási tevékenység;
+i) az érintett védelme vagy mások jogainak és szabadságainak védelme;
+j) polgári jogi követelések érvényesítése.
+(2) Az (1) bekezdésben említett jogalkotási intézkedések adott esetben részletes rendelkezéseket tartalmaznak legalább:
+a) az adatkezelés céljaira vagy az adatkezelés kategóriáira,
+b) a személyes adatok kategóriáira,
+c) a bevezetett korlátozások hatályára,
+d) a visszaélésre, illetve a jogosulatlan hozzáférésre vagy továbbítás megakadályozását célzó garanciákra,
+e) az adatkezelő meghatározására vagy az adatkezelők kategóriáinak meghatározására,
+f) az adattárolás időtartamára, valamint az alkalmazandó garanciákra, figyelembe véve az adatkezelés vagy az adatkezelési kategóriák jellegét, hatályát és céljait,
+g) az érintettek jogait és szabadságait érintő kockázatokra, és
+h) az érintettek arra vonatkozó jogára, hogy tájékoztatást kapjanak a korlátozásról, kivéve, ha ez hátrányosan befolyásolhatja a korlátozás célját.
+
+IV. KAPCSOLÓDÓ JOGINTÉZMÉNYEK
+
+Az adatkezelési elvek és az érintetti jogok rendszere szorosan kapcsolódik a GDPR más jogintézményeihez, amelyek együttesen biztosítják a rendelet hatékony működését. Kiemelendő a beépített és alapértelmezett adatvédelem (25. cikk) koncepciója, amely előírja az adatkezelők számára, hogy már az adatkezelési folyamatok tervezésekor és az adatkezelés során is hajtsanak végre olyan technikai és szervezési intézkedéseket, amelyek az adatvédelmi elvek (pl. adattakarékosság) hatékony megvalósítását szolgálják.
+
+Szintén fontos kapcsolódási pont az adatkezelő feladatait (24. cikk) rögzítő rendelkezés, amely az elszámoltathatóság elvének gyakorlati megvalósulását segíti elő. Eszerint az adatkezelőnek megfelelő technikai és szervezési intézkedéseket kell végrehajtania annak biztosítása és bizonyítása céljából, hogy az adatkezelés a rendelettel összhangban történik.
+
+Végül, az érintetti jogok kikényszerítésének legfontosabb eszköze a felügyeleti hatósághoz címzett panasz benyújtásának joga (77. cikk), valamint a hatósággal és az adatkezelővel vagy adatfeldolgozóval szembeni hatékony bírósági jogorvoslathoz való jog (78-79. cikkek). E jogorvoslati mechanizmusok nélkül az érintetti jogok csupán papíron létező jogosultságok maradnának.
+
+V. ÖSSZEFOGLALÁS
+
+Az általános adatvédelmi rendelet (GDPR) II. és III. fejezete alkotja az uniós adatvédelmi jog dogmatikai magját. A II. fejezetben rögzített adatkezelési elvek – a jogszerűség, tisztességes eljárás, átláthatóság, célhoz kötöttség, adattakarékosság, pontosság, korlátozott tárolhatóság, integritás és bizalmas jelleg – képezik minden jogszerű adatkezelés fundamentumát. Ezen elvek közül is kiemelkedik az elszámoltathatóság, amely a bizonyítási terhet az adatkezelőre telepítve proaktív, tudatos jogkövetésre ösztönöz.
+
+Az elvek általános kereteit a III. fejezetben kodifikált érintetti jogok töltik meg konkrét tartalommal, hatékony kontrollt biztosítva a természetes személyek kezébe saját adataik felett. A tájékoztatáshoz és hozzáféréshez való jog az átláthatóságot, a helyesbítéshez és törléshez („elfeledtetéshez”) való jog az adatok naprakészen tartását és a szükségtelen adatkezelés megszüntetését, míg a tiltakozáshoz és korlátozáshoz való jog az adatkezelésbe való közvetlen beavatkozás lehetőségét teremti meg. Az adathordozhatósághoz való jog a digitális piacok versenyét és a felhasználói szabadságot erősíti.
+
+Összességében az adatkezelési elvek és az érintetti jogok egy koherens, egymást kiegészítő rendszert alkotnak. Az elvek az adatkezelők számára írnak elő kötelező magatartási normákat, míg a jogok az érintettek számára biztosítanak eszközöket e normák betartásának ellenőrzésére és kikényszerítésére. E kettős rendszer biztosítja, hogy a személyes adatok védelméhez való alapjog az Európai Unióban ne csupán deklaráció, hanem a gyakorlatban is érvényesülő, kikényszeríthető jogosultság legyen.

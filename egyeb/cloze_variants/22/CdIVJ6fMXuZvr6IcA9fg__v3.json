@@ -1,0 +1,386 @@
+{
+  "id": "3",
+  "parentId": "CdIVJ6fMXuZvr6IcA9fg",
+  "variantIndex": 3,
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "EUMSZ 258. cikk",
+      "text": "__[b1]__ (az EKSz. korábbi __[b2]__) Ha __[b3]__ __[b4]__ __[b5]__ __[b6]__ __[b7]__ __[b8]__, __[b9]__ __[b10]__ __[b11]__, __[b12]__ __[b13]__ __[b14]__. Ha __[b15]__ a Bizottság __[b16]__ __[b17]__ __[b18]__ __[b19]__, a Bizottság __[b20]__ __[b21]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "258. cikk"
+        },
+        {
+          "id": "b2",
+          "answer": "226. cikke"
+        },
+        {
+          "id": "b3",
+          "answer": "a Bizottság"
+        },
+        {
+          "id": "b4",
+          "answer": "megítélése szerint"
+        },
+        {
+          "id": "b5",
+          "answer": "egy tagállam"
+        },
+        {
+          "id": "b6",
+          "answer": "a Szerződésekből eredő"
+        },
+        {
+          "id": "b7",
+          "answer": "valamely kötelezettségét"
+        },
+        {
+          "id": "b8",
+          "answer": "nem teljesítette"
+        },
+        {
+          "id": "b9",
+          "answer": "az ügyről"
+        },
+        {
+          "id": "b10",
+          "answer": "indokolással ellátott"
+        },
+        {
+          "id": "b11",
+          "answer": "véleményt ad"
+        },
+        {
+          "id": "b12",
+          "answer": "miután az érintett államnak"
+        },
+        {
+          "id": "b13",
+          "answer": "lehetőséget biztosított"
+        },
+        {
+          "id": "b14",
+          "answer": "észrevételei megtételére"
+        },
+        {
+          "id": "b15",
+          "answer": "az érintett állam"
+        },
+        {
+          "id": "b16",
+          "answer": "által meghatározott"
+        },
+        {
+          "id": "b17",
+          "answer": "határidőn belül"
+        },
+        {
+          "id": "b18",
+          "answer": "nem tesz eleget"
+        },
+        {
+          "id": "b19",
+          "answer": "a véleményben foglaltaknak"
+        },
+        {
+          "id": "b20",
+          "answer": "az Európai Unió Bíróságához"
+        },
+        {
+          "id": "b21",
+          "answer": "fordulhat"
+        }
+      ],
+      "distractors": [
+        "259. cikk",
+        "227. cikke",
+        "a Tanács",
+        "álláspontja szerint",
+        "egy intézmény",
+        "a rendeletekből fakadó",
+        "minden kötelezettségét",
+        "késedelmesen teljesítette",
+        "a kérelmekről",
+        "részletes",
+        "állásfoglalást tesz",
+        "mielőtt az érintett államnak",
+        "kötelezettséget írt elő",
+        "védekezése előterjesztésére",
+        "a felperes",
+        "általa közölt",
+        "harminc napon belül",
+        "részben tesz eleget",
+        "az ítéletben foglaltaknak",
+        "a Törvényszékhez",
+        "köteles fordulni"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "EUMSZ 259. cikk",
+      "text": "__[b1]__ (az EKSz. korábbi __[b2]__) __[b3]__ __[b4]__ __[b5]__, ha __[b6]__ __[b7]__ __[b8]__ __[b9]__ __[b10]__. __[b11]__ __[b12]__ __[b13]__ __[b14]__ a Szerződésekből eredő __[b15]__ __[b16]__, __[b17]__ __[b18]__ __[b19]__. __[b20]__ __[b21]__ __[b22]__, __[b23]__ __[b24]__ arra, hogy __[b25]__ szóban és írásban nyilatkozzanak. Ha a Bizottság az ügy előterjesztésétől számított három hónapon belül nem ad véleményt, a vélemény hiányától függetlenül az ügyben az Európai Unió Bíróságához lehet fordulni.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "259. cikk"
+        },
+        {
+          "id": "b2",
+          "answer": "227. cikke"
+        },
+        {
+          "id": "b3",
+          "answer": "Bármely tagállam"
+        },
+        {
+          "id": "b4",
+          "answer": "az Európai Unió Bíróságához"
+        },
+        {
+          "id": "b5",
+          "answer": "fordulhat"
+        },
+        {
+          "id": "b6",
+          "answer": "megítélése szerint"
+        },
+        {
+          "id": "b7",
+          "answer": "egy másik tagállam"
+        },
+        {
+          "id": "b8",
+          "answer": "a Szerződésekből eredő"
+        },
+        {
+          "id": "b9",
+          "answer": "valamely kötelezettségét"
+        },
+        {
+          "id": "b10",
+          "answer": "nem teljesítette"
+        },
+        {
+          "id": "b11",
+          "answer": "Mielőtt"
+        },
+        {
+          "id": "b12",
+          "answer": "egy tagállam"
+        },
+        {
+          "id": "b13",
+          "answer": "keresetet nyújt be"
+        },
+        {
+          "id": "b14",
+          "answer": "egy másik tagállam ellen"
+        },
+        {
+          "id": "b15",
+          "answer": "valamely kötelezettség"
+        },
+        {
+          "id": "b16",
+          "answer": "állítólagos megsértése miatt"
+        },
+        {
+          "id": "b17",
+          "answer": "az ügyet"
+        },
+        {
+          "id": "b18",
+          "answer": "a Bizottság elé"
+        },
+        {
+          "id": "b19",
+          "answer": "kell terjesztenie"
+        },
+        {
+          "id": "b20",
+          "answer": "A Bizottság"
+        },
+        {
+          "id": "b21",
+          "answer": "indokolással ellátott"
+        },
+        {
+          "id": "b22",
+          "answer": "véleményt ad"
+        },
+        {
+          "id": "b23",
+          "answer": "miután az érintett államoknak"
+        },
+        {
+          "id": "b24",
+          "answer": "lehetőséget biztosított"
+        },
+        {
+          "id": "b25",
+          "answer": "kontradiktórius eljárás keretében"
+        }
+      ],
+      "distractors": [
+        "260. cikk",
+        "228. cikke",
+        "Egyetlen tagállam sem",
+        "a Törvényszékhez",
+        "köteles fordulni",
+        "álláspontja szerint",
+        "egy intézmény",
+        "a rendeletekből fakadó",
+        "minden kötelezettségét",
+        "részben teljesítette",
+        "Miután",
+        "a felperes",
+        "kérelmet terjeszt elő",
+        "egy uniós intézmény ellen",
+        "minden kötelezettség",
+        "egyértelmű megsértése esetén",
+        "a kérelmet",
+        "a Tanács elé",
+        "terjesztheti elő",
+        "A Tanács",
+        "részletes",
+        "állásfoglalást tesz",
+        "mielőtt az érintett államoknak",
+        "kötelezettséget írt elő",
+        "jegyzőkönyvi eljárás során"
+      ]
+    },
+    {
+      "id": "s3",
+      "cimke": "EUMSZ 260. cikk",
+      "text": "__[b1]__ (az EKSz. korábbi __[b2]__) (1) Ha __[b3]__ __[b4]__, hogy __[b5]__ __[b6]__ a Szerződésekből eredő __[b7]__, __[b8]__ __[b9]__ __[b10]__ __[b11]__ teljesítéséhez __[b12]__. (2) __[b13]__ __[b14]__ __[b15]__ __[b16]__ az Európai Unió __[b17]__ ítéletében foglaltak teljesítéséhez szükséges intézkedéseket, a Bizottság – miután a tagállamnak __[b18]__ __[b19]__ – __[b20]__ __[b21]__. __[b22]__ az érintett tagállam által fizetendő __[b23]__ összegét, amelyet az adott körülmények között megfelelőnek ítél. Ha az Európai Unió Bírósága megállapítja, hogy az érintett tagállam nem tett eleget az ítéletében foglaltaknak, a tagállamot átalányösszeg vagy kényszerítő bírság __[b24]__. Ez az eljárás nem érinti a 259. cikket. (3) Ha a Bizottság a 258. cikknek megfelelően azon az alapon nyújt be keresetet az Európai Unió Bíróságához, hogy az érintett tagállam nem tett eleget valamely, jogalkotási eljárás keretében elfoga dott irányelv átültetésére elfogadott intézkedései bejelentésére vonatkozó kötelezettségének, a Bizott ság, amennyiben megfelelőnek ítéli, meghatározhatja az érintett tagállam által fizetendő átalányösz szegnek vagy kényszerítő bírságnak az általa az adott körülmények között megfelelőnek tartott mértékét. Ha az Európai Unió Bírósága megállapítja, hogy jogsértés történt, a tagállamot – a Bizottság által meghatározott összeget meg nem haladó mértékű  átalányösszeg vagy kényszerítő bírság fizetésére kötelezheti. A fizetési kötelezettség az Európai Unió Bíróságának ítéletében megállapított időpontban válik esedékessé.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "260. cikk"
+        },
+        {
+          "id": "b2",
+          "answer": "228. cikke"
+        },
+        {
+          "id": "b3",
+          "answer": "az Európai Unió Bírósága"
+        },
+        {
+          "id": "b4",
+          "answer": "megállapítja"
+        },
+        {
+          "id": "b5",
+          "answer": "egy tagállam"
+        },
+        {
+          "id": "b6",
+          "answer": "nem teljesítette"
+        },
+        {
+          "id": "b7",
+          "answer": "valamely kötelezettségét"
+        },
+        {
+          "id": "b8",
+          "answer": "az adott államnak"
+        },
+        {
+          "id": "b9",
+          "answer": "meg kell tennie"
+        },
+        {
+          "id": "b10",
+          "answer": "az Európai Unió Bíróságának"
+        },
+        {
+          "id": "b11",
+          "answer": "ítéletében foglaltak"
+        },
+        {
+          "id": "b12",
+          "answer": "szükséges intézkedéseket"
+        },
+        {
+          "id": "b13",
+          "answer": "Ha a Bizottság"
+        },
+        {
+          "id": "b14",
+          "answer": "megítélése szerint"
+        },
+        {
+          "id": "b15",
+          "answer": "az érintett tagállam"
+        },
+        {
+          "id": "b16",
+          "answer": "nem teszi meg"
+        },
+        {
+          "id": "b17",
+          "answer": "Bírósá gának"
+        },
+        {
+          "id": "b18",
+          "answer": "lehetőséget biztosított"
+        },
+        {
+          "id": "b19",
+          "answer": "észrevételei megtételére"
+        },
+        {
+          "id": "b20",
+          "answer": "az Európai Unió Bíróságához"
+        },
+        {
+          "id": "b21",
+          "answer": "fordulhat"
+        },
+        {
+          "id": "b22",
+          "answer": "A Bizottság meghatározza"
+        },
+        {
+          "id": "b23",
+          "answer": "átalányösszeg vagy kényszerítő bírság"
+        },
+        {
+          "id": "b24",
+          "answer": "fizetésére kötelezheti"
+        }
+      ],
+      "distractors": [
+        "258. cikk",
+        "226. cikke",
+        "az Európai Bíróság",
+        "megállapíthatja",
+        "egy intézmény",
+        "késedelmesen teljesítette",
+        "minden kötelezettségét",
+        "a felperesnek",
+        "megteheti",
+        "a Törvényszéknek",
+        "végzésében foglaltak",
+        "kötelező intézkedéseket",
+        "Amennyiben a Tanács",
+        "álláspontja szerint",
+        "a felperes állam",
+        "késedelmesen teszi meg",
+        "Törvényszékének",
+        "kötelezettséget írt elő",
+        "védekezése előterjesztésére",
+        "a Törvényszékhez",
+        "köteles fordulni",
+        "A Tanács megállapítja",
+        "kártérítés vagy pénzbírság",
+        "teljesítésére felhívhatja"
+      ]
+    }
+  ],
+  "itemCount": 3,
+  "createdAt": "2026-08-28T07:46:33.893Z"
+}

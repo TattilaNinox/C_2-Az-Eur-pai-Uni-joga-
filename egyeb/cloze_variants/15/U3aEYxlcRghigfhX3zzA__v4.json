@@ -1,0 +1,831 @@
+{
+  "id": "4",
+  "parentId": "U3aEYxlcRghigfhX3zzA",
+  "variantIndex": 4,
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "EUMSZ 288. cikk",
+      "text": "(az EKSz. korábbi 249. cikke) __[b1]__ __[b2]__ __[b3]__ __[b4]__ __[b5]__, __[b6]__, __[b7]__, ajánlásokat és véleményeket fogadnak el. A rendelet __[b8]__. __[b9]__ és __[b10]__ __[b11]__. __[b12]__ __[b13]__ __[b14]__, azonban __[b15]__ a __[b16]__ __[b17]__. __[b18]__ teljes egészében kötelező. Amennyiben külön megjelöli, hogy kik a címzettjei, a határozat __[b19]__, __[b20]__. Az ajánlások és a vélemények __[b21]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Az Unió"
+        },
+        {
+          "id": "b2",
+          "answer": "hatásköreinek"
+        },
+        {
+          "id": "b3",
+          "answer": "gyakorlása érdekében"
+        },
+        {
+          "id": "b4",
+          "answer": "az intézmények"
+        },
+        {
+          "id": "b5",
+          "answer": "rendeleteket"
+        },
+        {
+          "id": "b6",
+          "answer": "irányelveket"
+        },
+        {
+          "id": "b7",
+          "answer": "határozatokat"
+        },
+        {
+          "id": "b8",
+          "answer": "általános hatállyal bír"
+        },
+        {
+          "id": "b9",
+          "answer": "Teljes egészében kötelező"
+        },
+        {
+          "id": "b10",
+          "answer": "közvetlenül alkalmazandó"
+        },
+        {
+          "id": "b11",
+          "answer": "valamennyi tagállamban"
+        },
+        {
+          "id": "b12",
+          "answer": "Az irányelv"
+        },
+        {
+          "id": "b13",
+          "answer": "az elérendő célokat illetően"
+        },
+        {
+          "id": "b14",
+          "answer": "minden címzett tagállamra kötelező"
+        },
+        {
+          "id": "b15",
+          "answer": "a forma és az eszközök megválasztását"
+        },
+        {
+          "id": "b16",
+          "answer": "nemzeti hatóságokra"
+        },
+        {
+          "id": "b17",
+          "answer": "hagyja"
+        },
+        {
+          "id": "b18",
+          "answer": "A határozat"
+        },
+        {
+          "id": "b19",
+          "answer": "kizárólag azokra nézve kötelező"
+        },
+        {
+          "id": "b20",
+          "answer": "akiket címzettként megjelöl"
+        },
+        {
+          "id": "b21",
+          "answer": "nem kötelezőek"
+        }
+      ],
+      "distractors": [
+        "A Bizottság",
+        "jogköreinek",
+        "érvényesítése céljából",
+        "a tagállamok",
+        "ajánlásokat",
+        "véleményeket",
+        "felhatalmazásokat",
+        "egyedi hatályú",
+        "Részben kötelező",
+        "átültetést igényel",
+        "egyes tagállamokban",
+        "A rendelet",
+        "a megvalósítás módját illetően",
+        "csak a Bizottságra kötelező",
+        "a célok meghatározását",
+        "uniós intézményekre",
+        "előírja",
+        "Az ajánlás",
+        "valamennyi tagállamot",
+        "kötelezőek"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "EUMSZ 289. cikk",
+      "text": "(1) A __[b1]__ __[b2]__, __[b3]__ vagy __[b4]__ __[b5]__, __[b6]__ és __[b7]__ __[b8]__. Ezt az eljárást __[b9]__ __[b10]__. (2) __[b11]__ __[b12]__ rendeleteknek, irányelveknek vagy határozatoknak __[b13]__ __[b14]__, __[b15]__ a Tanács által történő __[b16]__ __[b17]__. (3) __[b18]__ __[b19]__ __[b20]__. (4) A Szerződések által külön meghatározott esetekben jogalkotási aktusok a __[b21]__ vagy __[b22]__, __[b23]__ vagy __[b24]__ is elfogadhatók.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "rendes jogalkotási eljárás"
+        },
+        {
+          "id": "b2",
+          "answer": "rendeleteknek"
+        },
+        {
+          "id": "b3",
+          "answer": "irányelveknek"
+        },
+        {
+          "id": "b4",
+          "answer": "határozatoknak"
+        },
+        {
+          "id": "b5",
+          "answer": "a Bizottság javaslata alapján"
+        },
+        {
+          "id": "b6",
+          "answer": "az Európai Parlament"
+        },
+        {
+          "id": "b7",
+          "answer": "a Tanács által történő"
+        },
+        {
+          "id": "b8",
+          "answer": "közös elfogadásából áll"
+        },
+        {
+          "id": "b9",
+          "answer": "a 294. cikk"
+        },
+        {
+          "id": "b10",
+          "answer": "határozza meg"
+        },
+        {
+          "id": "b11",
+          "answer": "A Szerződések által"
+        },
+        {
+          "id": "b12",
+          "answer": "külön meghatározott esetekben"
+        },
+        {
+          "id": "b13",
+          "answer": "a Tanács közreműködésével"
+        },
+        {
+          "id": "b14",
+          "answer": "az Európai Parlament által történő"
+        },
+        {
+          "id": "b15",
+          "answer": "vagy az Európai Parlament közreműködésével"
+        },
+        {
+          "id": "b16",
+          "answer": "elfogadása különleges jogalkotási eljárásnak"
+        },
+        {
+          "id": "b17",
+          "answer": "minősül"
+        },
+        {
+          "id": "b18",
+          "answer": "A jogalkotási eljárás keretében"
+        },
+        {
+          "id": "b19",
+          "answer": "elfogadott jogi aktusok"
+        },
+        {
+          "id": "b20",
+          "answer": "jogalkotási aktusoknak minősülnek"
+        },
+        {
+          "id": "b21",
+          "answer": "tagállamok egy csoportjának"
+        },
+        {
+          "id": "b22",
+          "answer": "az Európai Parlamentnek a kezdeményezésére"
+        },
+        {
+          "id": "b23",
+          "answer": "az Európai Központi Bank ajánlására"
+        },
+        {
+          "id": "b24",
+          "answer": "a Bíróság, illetve az Európai Beruházási Bank kérelme alapján"
+        }
+      ],
+      "distractors": [
+        "különleges jogalkotási eljárás",
+        "ajánlásoknak",
+        "véleményeknek",
+        "javaslatoknak",
+        "a Tanács kezdeményezésére",
+        "az Európai Tanács",
+        "a Bizottság által történő",
+        "egyoldalú elfogadásából áll",
+        "a 288. cikk",
+        "szabályozza",
+        "A Bizottság által",
+        "általános esetekben",
+        "a Bizottság javaslatára",
+        "a tagállamok által történő",
+        "és a Bizottság közreműködésével",
+        "elfogadása rendes jogalkotási eljárásnak",
+        "tekinthető",
+        "A végrehajtási eljárás keretében",
+        "elfogadott nem jogalkotási aktusok",
+        "delegált aktusoknak minősülnek",
+        "egy tagállamnak",
+        "a Számvevőszék véleményére",
+        "a Régiók Bizottsága véleménye alapján"
+      ]
+    },
+    {
+      "id": "s3",
+      "cimke": "EUMSZ 290. cikk",
+      "text": "(1) __[b1]__ __[b2]__ __[b3]__ olyan __[b4]__ __[b5]__ __[b6]__, amelyek a jogalkotási aktusok egyes __[b7]__ __[b8]__. __[b9]__ jogalkotási aktusokban __[b10]__ __[b11]__, __[b12]__, __[b13]__ __[b14]__. Az adott szabályozási terület __[b15]__ __[b16]__ __[b17]__, és ezekre vonatkozóan __[b18]__. (2) A jogalkotási aktusban kifejezetten meg kell határozni a felhatalmazás __[b19]__, amelyek a __[b20]__: a) __[b21]__ __[b22]__ __[b23]__, hogy __[b24]__; b) a __[b25]__ csak akkor léphet hatályba, ha az Európai Parlament vagy a Tanács a jogalkotási aktusban előírt határidőn belül nem emel ellene kifogást. Az a) és b) pont alkalmazásakor az Európai Parlament tagjainak többségével, a Tanács pedig minősített többséggel jár el. (3) A felhatalmazáson alapuló jogi aktusok címében fel kell tüntetni a »felhatalmazáson alapuló« kifejezést.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A jogalkotási aktusokban"
+        },
+        {
+          "id": "b2",
+          "answer": "felhatalmazás adható"
+        },
+        {
+          "id": "b3",
+          "answer": "a Bizottság részére"
+        },
+        {
+          "id": "b4",
+          "answer": "általános hatályú"
+        },
+        {
+          "id": "b5",
+          "answer": "nem jogalkotási aktusok"
+        },
+        {
+          "id": "b6",
+          "answer": "elfogadására"
+        },
+        {
+          "id": "b7",
+          "answer": "nem alapvető rendelkezéseit"
+        },
+        {
+          "id": "b8",
+          "answer": "kiegészítik, illetve módosítják"
+        },
+        {
+          "id": "b9",
+          "answer": "A felhatalmazást tartalmazó"
+        },
+        {
+          "id": "b10",
+          "answer": "kifejezetten meg kell határozni"
+        },
+        {
+          "id": "b11",
+          "answer": "a felhatalmazás céljait"
+        },
+        {
+          "id": "b12",
+          "answer": "tartalmát"
+        },
+        {
+          "id": "b13",
+          "answer": "alkalmazási körét"
+        },
+        {
+          "id": "b14",
+          "answer": "és időtartamát"
+        },
+        {
+          "id": "b15",
+          "answer": "alapvető elemei"
+        },
+        {
+          "id": "b16",
+          "answer": "kizárólag a jogalkotási aktusban"
+        },
+        {
+          "id": "b17",
+          "answer": "szabályozhatók"
+        },
+        {
+          "id": "b18",
+          "answer": "nem adható felhatalmazás"
+        },
+        {
+          "id": "b19",
+          "answer": "gyakorlásának feltételeit"
+        },
+        {
+          "id": "b20",
+          "answer": "következők lehetnek"
+        },
+        {
+          "id": "b21",
+          "answer": "az Európai Parlament"
+        },
+        {
+          "id": "b22",
+          "answer": "vagy a Tanács"
+        },
+        {
+          "id": "b23",
+          "answer": "úgy határozhat"
+        },
+        {
+          "id": "b24",
+          "answer": "a felhatalmazást visszavonja"
+        },
+        {
+          "id": "b25",
+          "answer": "felhatalmazáson alapuló jogi aktus"
+        }
+      ],
+      "distractors": [
+        "A végrehajtási aktusokban",
+        "jogosultság adható",
+        "a Tanács részére",
+        "egyedi hatályú",
+        "jogalkotási aktusok",
+        "elutasítására",
+        "alapvető rendelkezéseit",
+        "hatályon kívül helyezik",
+        "A végrehajtást tartalmazó",
+        "csak utalni kell",
+        "a felhatalmazás okait",
+        "formáját",
+        "hatálybalépését",
+        "és érvényességét",
+        "mellékes elemei",
+        "delegált aktusban is",
+        "meghatározhatók",
+        "adható felhatalmazás",
+        "alkalmazásának módját",
+        "következőknek kell lenniük",
+        "a tagállamok",
+        "és a Bizottság",
+        "úgy dönthet",
+        "a felhatalmazást felfüggeszti",
+        "végrehajtási jogi aktus"
+      ]
+    },
+    {
+      "id": "s4",
+      "cimke": "EUMSZ 291. cikk",
+      "text": "(1) __[b1]__ __[b2]__ __[b3]__ a __[b4]__ __[b5]__ __[b6]__ __[b7]__. (2) Ha valamely kötelező erejű uniós jogi aktus __[b8]__ __[b9]__ __[b10]__, az ilyen jogi aktus __[b11]__ __[b12]__ __[b13]__, illetve __[b14]__, __[b15]__ __[b16]__ __[b17]__ __[b18]__. (3) A (2) bekezdésben foglaltak céljából __[b19]__ __[b20]__ __[b21]__ __[b22]__ __[b23]__ __[b24]__ __[b25]__. (4) A végrehajtási jogi aktusok címében fel kell tüntetni a »végrehajtási« kifejezést.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A tagállamok"
+        },
+        {
+          "id": "b2",
+          "answer": "nemzeti jogukban"
+        },
+        {
+          "id": "b3",
+          "answer": "elfogadják"
+        },
+        {
+          "id": "b4",
+          "answer": "kötelező erejű"
+        },
+        {
+          "id": "b5",
+          "answer": "uniós jogi aktusok"
+        },
+        {
+          "id": "b6",
+          "answer": "végrehajtásához szükséges"
+        },
+        {
+          "id": "b7",
+          "answer": "intézkedéseket"
+        },
+        {
+          "id": "b8",
+          "answer": "végrehajtásának"
+        },
+        {
+          "id": "b9",
+          "answer": "egységes feltételek szerint"
+        },
+        {
+          "id": "b10",
+          "answer": "kell történnie"
+        },
+        {
+          "id": "b11",
+          "answer": "végrehajtási hatásköröket"
+        },
+        {
+          "id": "b12",
+          "answer": "ruház"
+        },
+        {
+          "id": "b13",
+          "answer": "a Bizottságra"
+        },
+        {
+          "id": "b14",
+          "answer": "különleges és kellően indokolt esetekben"
+        },
+        {
+          "id": "b15",
+          "answer": "valamint az Európai Unióról szóló szerződés"
+        },
+        {
+          "id": "b16",
+          "answer": "24. és 26. cikkében"
+        },
+        {
+          "id": "b17",
+          "answer": "előírt esetekben"
+        },
+        {
+          "id": "b18",
+          "answer": "a Tanácsra"
+        },
+        {
+          "id": "b19",
+          "answer": "az Európai Parlament és a Tanács"
+        },
+        {
+          "id": "b20",
+          "answer": "rendes jogalkotási eljárás keretében"
+        },
+        {
+          "id": "b21",
+          "answer": "elfogadott rendeletekben"
+        },
+        {
+          "id": "b22",
+          "answer": "előre meghatározza"
+        },
+        {
+          "id": "b23",
+          "answer": "a Bizottság végrehajtási hatáskörének"
+        },
+        {
+          "id": "b24",
+          "answer": "gyakorlására vonatkozó tagállami ellenőrzési mechanizmusok"
+        },
+        {
+          "id": "b25",
+          "answer": "szabályait és általános elveit"
+        }
+      ],
+      "distractors": [
+        "Az intézmények",
+        "uniós jogukban",
+        "elutasítják",
+        "ajánlás jellegű",
+        "nemzetközi szerződések",
+        "érvényesítéséhez elegendő",
+        "ajánlásokat",
+        "alkalmazásának",
+        "eltérő feltételek szerint",
+        "lehet történnie",
+        "jogalkotási hatásköröket",
+        "korlátoz",
+        "az Európai Parlamentre",
+        "általános esetekben",
+        "és az Euratom Szerződés",
+        "290. és 291. cikkében",
+        "megengedett esetekben",
+        "az Európai Tanácsra",
+        "a Bizottság és a Tanács",
+        "különleges jogalkotási eljárás keretében",
+        "elfogadott irányelvekben",
+        "utólag szabályozza",
+        "a Tanács jogalkotási hatáskörének",
+        "felügyeletére vonatkozó bizottsági iránymutatások",
+        "céljait és részletes feltételeit"
+      ]
+    },
+    {
+      "id": "s5",
+      "cimke": "EUMSZ 292. cikk",
+      "text": "__[b1]__ __[b2]__ __[b3]__. A Tanács __[b4]__ jár el minden olyan esetben,",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A Tanács"
+        },
+        {
+          "id": "b2",
+          "answer": "ajánlásokat"
+        },
+        {
+          "id": "b3",
+          "answer": "fogad el"
+        },
+        {
+          "id": "b4",
+          "answer": "a Bizottság javaslata alapján"
+        }
+      ],
+      "distractors": [
+        "A Bizottság",
+        "rendeleteket",
+        "terjeszt elő",
+        "saját kezdeményezésére"
+      ]
+    },
+    {
+      "id": "s6",
+      "cimke": "EUMSZ 296. cikk",
+      "text": "(az EKSz. korábbi 253. cikke) __[b1]__ __[b2]__, __[b3]__ __[b4]__, __[b5]__ __[b6]__ __[b7]__, __[b8]__ __[b9]__, __[b10]__. A jogi aktusoknak __[b11]__, és __[b12]__ __[b13]__, __[b14]__, __[b15]__, __[b16]__ __[b17]__, __[b18]__. __[b19]__ __[b20]__ az Európai Parlament és a Tanács tartózkodik az adott területen alkalmazandó jogalkotási eljárásban előírtaktól eltérő jogi aktusok elfogadásától.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Ha a Szerződések"
+        },
+        {
+          "id": "b2",
+          "answer": "nem határozzák meg"
+        },
+        {
+          "id": "b3",
+          "answer": "milyen típusú jogi aktust"
+        },
+        {
+          "id": "b4",
+          "answer": "kell elfogadni"
+        },
+        {
+          "id": "b5",
+          "answer": "a jogi aktus típusát"
+        },
+        {
+          "id": "b6",
+          "answer": "az intézmények"
+        },
+        {
+          "id": "b7",
+          "answer": "az alkalmazandó eljárásoknak megfelelően"
+        },
+        {
+          "id": "b8",
+          "answer": "eseti alapon"
+        },
+        {
+          "id": "b9",
+          "answer": "maguk választják meg"
+        },
+        {
+          "id": "b10",
+          "answer": "az arányosság elvével összhangban"
+        },
+        {
+          "id": "b11",
+          "answer": "indokolást kell tartalmazniuk"
+        },
+        {
+          "id": "b12",
+          "answer": "azokban utalni kell"
+        },
+        {
+          "id": "b13",
+          "answer": "minden olyan javaslatra"
+        },
+        {
+          "id": "b14",
+          "answer": "kezdeményezésre"
+        },
+        {
+          "id": "b15",
+          "answer": "ajánlásra"
+        },
+        {
+          "id": "b16",
+          "answer": "kérésre"
+        },
+        {
+          "id": "b17",
+          "answer": "vagy véleményre"
+        },
+        {
+          "id": "b18",
+          "answer": "amelyet a Szerződések előírnak"
+        },
+        {
+          "id": "b19",
+          "answer": "A jogalkotási aktusok tervezetének"
+        },
+        {
+          "id": "b20",
+          "answer": "mérlegelésekor"
+        }
+      ],
+      "distractors": [
+        "Amennyiben a Bizottság",
+        "pontosan rögzítik",
+        "melyik intézmény jogosult",
+        "lehet elfogadni",
+        "az eljárás módját",
+        "a tagállamok",
+        "a saját szabályzatuk szerint",
+        "általános jelleggel",
+        "a Bizottság határozza meg",
+        "a szubszidiaritás elvével összhangban",
+        "preambulumbekezdéseket kell tartalmazniuk",
+        "azokban hivatkozni kell",
+        "csak a Bizottság javaslatára",
+        "kérelemre",
+        "határozatra",
+        "véleményre",
+        "és határozatra",
+        "amelyet a Bizottság javasol",
+        "A végrehajtási aktusok tervezetének",
+        "elfogadásakor"
+      ]
+    },
+    {
+      "id": "s7",
+      "cimke": "EUMSZ 295. cikk",
+      "text": "__[b1]__, __[b2]__ __[b3]__ __[b4]__, és __[b5]__ __[b6]__ __[b7]__. E célból a Szerződéseknek megfelelően kötelező jellegű intézményközi megállapodásokat köthetnek.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Az Európai Parlament"
+        },
+        {
+          "id": "b2",
+          "answer": "a Tanács"
+        },
+        {
+          "id": "b3",
+          "answer": "és a Bizottság"
+        },
+        {
+          "id": "b4",
+          "answer": "egyeztetnek egymással"
+        },
+        {
+          "id": "b5",
+          "answer": "közös megegyezéssel"
+        },
+        {
+          "id": "b6",
+          "answer": "meghatározzák"
+        },
+        {
+          "id": "b7",
+          "answer": "együttműködésük szabályait"
+        }
+      ],
+      "distractors": [
+        "Az Európai Tanács",
+        "a Bizottság",
+        "és a Számvevőszék",
+        "versenyeznek egymással",
+        "egységes állásponttal",
+        "javasolják",
+        "jogköreik határait"
+      ]
+    },
+    {
+      "id": "s8",
+      "cimke": "EUMSZ 297. cikk",
+      "text": "(az EKSz. korábbi 254. cikke) (1) A __[b1]__ __[b2]__ __[b3]__ az __[b4]__ és __[b5]__ __[b6]__. A __[b7]__ keretében elfogadott jogalkotási aktusokat __[b8]__ __[b9]__ írja alá. __[b10]__ az Európai Unió __[b11]__ __[b12]__. Ezek a bennük __[b13]__, __[b14]__ __[b15]__ __[b16]__ __[b17]__. (2) __[b18]__, valamint __[b19]__ __[b20]__ __[b21]__ __[b22]__ az azokat elfogadó intézmény elnöke írja alá. __[b23]__ __[b24]__, valamint a külön címzetti kört nem tartalmazó határozatokat az Európai Unió Hivatalos Lapjában ki kell hirdetni. Ezek a bennük megjelölt napon, illetve ennek hiányában a kihirdetésüket követő huszadik napon lépnek hatályba. Az egyéb irányelvekről és a címzetti kört tartalmazó határozatokról értesíteni kell a címzettjeiket, és azok az __[b25]__ lépnek hatályba.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "rendes jogalkotási eljárás"
+        },
+        {
+          "id": "b2",
+          "answer": "keretében elfogadott"
+        },
+        {
+          "id": "b3",
+          "answer": "jogalkotási aktusokat"
+        },
+        {
+          "id": "b4",
+          "answer": "Európai Parlament elnöke"
+        },
+        {
+          "id": "b5",
+          "answer": "a Tanács elnöke"
+        },
+        {
+          "id": "b6",
+          "answer": "írja alá"
+        },
+        {
+          "id": "b7",
+          "answer": "különleges jogalkotási eljárás"
+        },
+        {
+          "id": "b8",
+          "answer": "az azokat elfogadó"
+        },
+        {
+          "id": "b9",
+          "answer": "intézmény elnöke"
+        },
+        {
+          "id": "b10",
+          "answer": "A jogalkotási aktusokat"
+        },
+        {
+          "id": "b11",
+          "answer": "Hivatalos Lapjában"
+        },
+        {
+          "id": "b12",
+          "answer": "ki kell hirdetni"
+        },
+        {
+          "id": "b13",
+          "answer": "megjelölt napon"
+        },
+        {
+          "id": "b14",
+          "answer": "illetve ennek hiányában"
+        },
+        {
+          "id": "b15",
+          "answer": "a kihirdetésüket követő"
+        },
+        {
+          "id": "b16",
+          "answer": "huszadik napon"
+        },
+        {
+          "id": "b17",
+          "answer": "lépnek hatályba"
+        },
+        {
+          "id": "b18",
+          "answer": "A rendelet, irányelv"
+        },
+        {
+          "id": "b19",
+          "answer": "külön címzetti kört"
+        },
+        {
+          "id": "b20",
+          "answer": "nem tartalmazó határozat"
+        },
+        {
+          "id": "b21",
+          "answer": "formájában elfogadott"
+        },
+        {
+          "id": "b22",
+          "answer": "nem jogalkotási aktusokat"
+        },
+        {
+          "id": "b23",
+          "answer": "A valamennyi tagállamnak címzett"
+        },
+        {
+          "id": "b24",
+          "answer": "rendeleteket és irányelveket"
+        },
+        {
+          "id": "b25",
+          "answer": "értesítéssel"
+        }
+      ],
+      "distractors": [
+        "javaslatára készült",
+        "végrehajtási aktusokat",
+        "Bizottság elnöke",
+        "a Bizottság elnöke",
+        "hitelesíti",
+        "a jogalkotó",
+        "tagállam képviselője",
+        "A nem jogalkotási aktusokat",
+        "nemzeti közlönyökben",
+        "nyilvánosságra kell hozni",
+        "kihirdetés napján",
+        "vagy kivételes esetben",
+        "a közzétételüket megelőző",
+        "harmincadik napon",
+        "válnak érvényessé",
+        "A határozat, ajánlás",
+        "általános hatályt",
+        "tartalmazó rendelet",
+        "eredményeként született",
+        "Az egyes tagállamoknak szóló",
+        "ajánlásokat és véleményeket",
+        "kihirdetéssel"
+      ]
+    }
+  ],
+  "itemCount": 8,
+  "createdAt": "2026-08-28T13:32:48.641Z"
+}
